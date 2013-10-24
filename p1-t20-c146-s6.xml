@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Annual Inspection; Extension Of Time; First Inspection</catch_line>
+    <order_by>6</order_by>
+    <text>
+        All steam boilers and their appurtenances except those specified in the following section shall be thoroughly inspected externally and internally at least once a year. Upon written application made to it by the owner or user of a pressure vessel or boiler, the board may, when the public interest and convenience require, extend the time for the making of such inspection for a period not to exceed six months as the board may determine. A district engineering inspector of the division of inspection of the department of public safety shall perform the first inspection of a pressure vessel required by this chapter.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121D" order_by="121D" level="3">Affordable Housing Trust Fund</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Affordable Housing Trust Fund; Administration; Annual Audit; Projects</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a separate fund to be known as the Affordable Housing Trust Fund, which shall be sited within the Department of Housing and Community Development. The Department shall enter into a contract with the Massachusetts Housing Finance Agency for the administration of the fund, according to guidelines promulgated by the Department and in consultation with the advisory committee. The fund shall assist in the creation and preservation of affordable housing in the commonwealth, for the benefit of households whose incomes are not more than 110 per cent of median income as determined by the federal Department of Housing and Urban Development. The fund shall be an expendable trust fund and shall not be subject to appropriation. The fund shall not be subject to the commonwealth development coordinating council established in created pursuant to section 8B of chapter 6A.
+        </section>
+        <section prefix="b">
+    	     There shall be credited to the fund, revenue from appropriations or other monies authorized by the general court and specifically designated to be credited to the fund, and gifts, grants, private contributions, repayment of loans, investment income earned on the fund’s assets, and all other sources. Money remaining in the fund at the end of a fiscal year shall not revert to the general fund.
+        </section>
+        <section prefix="c">
+    	     The agency shall maintain the fund as a separate fund, and shall cause it to be audited by an independent accountant on an annual basis in accordance with accepted accounting principles.
+        </section>
+        <section prefix="d">
+    	     The agency shall administer assistance from the fund using only the criteria set forth under this chapter for projects owned or sponsored by non-profit or for-profit organizations, including but not limited to projects that involve complex multiple-source financing or the preservation of existing affordable housing; provided, however, that no such assistance shall be permitted unless the sponsor thereof is current on all existing mortgage obligations with the commonwealth or any subdivision thereof. The agency shall enter into agreements with the Community Economic Development Assistance Corporation to administer assistance from the fund for projects owned or sponsored by nonprofit organizations, after consulting the advisory committee established by section 4.
+        </section>
+    </text>
+</law>

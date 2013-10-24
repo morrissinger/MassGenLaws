@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6J</section_number>
+    <catch_line>Pesticide Use As Part Of Supervised Training Programs At Vocational, Technical And Agricultural Schools</catch_line>
+    <order_by>6J</order_by>
+    <text>
+        Notwithstanding any other provisions of this chapter, sections 6C to 6I, inclusive, shall not apply to the spraying, release, deposit or application of any pesticide made as a part of a supervised training program at any of the state-aided and approved vocational-technical or agricultural schools in the commonwealth.
+    </text>
+</law>

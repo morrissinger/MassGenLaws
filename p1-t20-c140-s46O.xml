@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>46O</section_number>
+    <catch_line>Refunds By Employment Agencies; Conditions; Reduction Of Fees;  Restriction On Deductions From Wages</catch_line>
+    <order_by>46O</order_by>
+    <text>
+        <section prefix="a">
+    	     If an applicant furnished employment is discharged within one month after the time of entering upon such employment and such discharge is not for just cause, the employment agency shall on demand refund to the applicant that portion of the fee paid in excess of ten per cent of the gross wages paid to the applicant.
+        </section>
+        <section prefix="b">
+    	     Should it be determined that no employment of the kind applied for was open at the place to which the applicant was directed or as specified by the employment agency, then all of the fee paid together with cost of transportation in going to and returning from such place of employment shall be refunded. An employment agency shall not be responsible to an applicant or an employer for any expense incurred in connection with an interview unless the employment agency has failed to truthfully inform the employer and the applicant of facts related to the applicant or employment with which the employment agency is in possession.
+        </section>
+        <section prefix="c">
+    	     If an applicant for employment was unable to accept employment or to keep engagement for unavoidable reasons, all of the fee paid shall be refunded.
+        </section>
+        <section prefix="d">
+    	     If an applicant for employment was unable to find the place of employment because of insufficient address or directions all of the fee paid is to be refunded.
+        </section>
+        <section prefix="e">
+    	     The maximum fee shall be reduced to the extent that payment would result in the applicant’s average hourly wages for that period falling below the rates established by any applicable federal or state minimum wage provision or by any applicable collective bargaining agreement.
+        </section>
+        <section prefix="f">
+    	     Any employer who utilizes an employment agency or who obtains applicants from an employment agency shall not directly or indirectly deduct any part of the fees paid to an employment agency from the wages or salary of any of his employees placed by such employment agency.
+        </section>
+    </text>
+</law>

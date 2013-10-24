@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="137" order_by="137" level="3">Gaming</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Recovery Of Stolen Or Embezzled Money Or Property</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If, in a case under the preceding section, the money or property paid or delivered has been stolen, embezzled or fraudulently or wrongfully used by the party entitled to recover under said section, the person to whom it rightfully belongs may in his own name recover it in contract.
+    </text>
+</law>

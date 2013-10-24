@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118A" order_by="118A" level="3">Assistance To The Aged And Disabled</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Disclosure Or Use Of Information Restricted</catch_line>
+    <order_by>6</order_by>
+    <text>
+        No disclosure or use of information concerning applicants or recipients of assistance under this chapter shall be made by the department except for purposes directly connected to the administration of this chapter.
+    </text>
+</law>

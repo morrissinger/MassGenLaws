@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Reports Of Inspections By Insurers</catch_line>
+    <order_by>38</order_by>
+    <text>
+        Every insurance company authorized to insure air tanks within the commonwealth shall forward to the commissioner, within fourteen days after each inspection of an air tank or other such receptacle, a report of such inspection. The reports shall be made on blanks approved by the division, and shall contain all orders and regulations made by the company regarding the air tanks or other receptacles so inspected.
+    </text>
+</law>

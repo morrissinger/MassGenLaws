@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Prohibited Activities</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        No person shall use a registered pesticide in a manner that is inconsistent with its labeling or other restrictions imposed by the department. No person shall use a pesticide which is the subject of an experimental use permit inconsistently with the terms and conditions of said permit. 
+No individual certified or licensed as a pesticide applicator shall violate any provision, condition, term or restriction of his certification or license. 
+No person shall use a pesticide that has been classified by the department as being for restricted use unless he is an appropriately certified private applicator, an appropriately certified commercial applicator, or a competent individual acting under the direct supervision of an appropriately certified applicator.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>83</section_number>
+    <catch_line>Tools; Purchase Or Pawn; Record Book; Signature Of Seller Or Pawner</catch_line>
+    <order_by>83</order_by>
+    <text>
+        When a licensed pawnbroker buys or takes in pawn any tool such as is used by contractors, builders or mechanics, he shall enter in a book kept for that purpose a description of the same and the amount paid for or loaned upon the same, and shall cause the person offering such tool for sale or for pawn to sign his name and address therein. The pawnbroker shall also write therein the name and address of the said person.
+    </text>
+</law>

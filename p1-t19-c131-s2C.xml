@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>2C</section_number>
+    <catch_line>Inland Fisheries And Game Fund; Funding Sources; Appropriations</catch_line>
+    <order_by>2C</order_by>
+    <text>
+        <section prefix="1">
+    	     for the payment of general administrative expenses of the division;
+        </section>
+        <section prefix="2">
+    	     for acquiring, maintaining or leasing public fishing rights on land, on inland streams and ponds, including stream management and the creation of new ponds;
+        </section>
+        <section prefix="3">
+    	     for acquiring, maintaining or leasing public hunting rights on land;
+        </section>
+        <section prefix="4">
+    	     for biological surveys of inland waters;
+        </section>
+        <section prefix="5">
+    	     for propagation of game birds and fish;
+        </section>
+        <section prefix="6">
+    	     for salvaging and distributing game birds and fish;
+        </section>
+        <section prefix="7">
+    	     for acquisition and maintenance of wildlife sanctuaries and fish and wildlife management areas;
+        </section>
+        <section prefix="8">
+    	     for maintaining water resources to provide an adequate water supply for wildlife;
+        </section>
+        <section prefix="9">
+    	     for maintaining sources of food for game birds;
+        </section>
+        <section prefix="10">
+    	     for payment not to exceed 50 per cent of the amount necessary for personal services and other expenses for and on account of the enforcement of laws relating directly to inland fisheries and game, such amounts to be determined by the commissioner of administration;
+        </section>
+        <section prefix="11">
+    	     for the acquisition, by purchase, lease, easement or license, of land or interests therein critical to nongame wildlife and endangered species for the multiple purposes of protecting and enhancing nongame wildlife and encouraging compatible wildlife uses;
+        </section>
+        <section prefix="12">
+    	     for the management, inventory, preservation, protection, perpetuation, and enhancement of nongame wildlife and endangered species in the commonwealth;
+        </section>
+        <section prefix="13">
+    	     for supplementing funds provided to the natural heritage and endangered species program for the purpose of aiding in the protection of rare, threatened and endangered species in the commonwealth; and
+        </section>
+        <section prefix="14">
+    	     for other general purposes of the division.
+        </section>
+    </text>
+</law>

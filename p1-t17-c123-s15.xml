@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Competence To Stand Trial Or Criminal Responsibility; Examination;  Period Of Observation; Reports; Hearing; Commitment; Delinquents</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever a court of competent jurisdiction doubts whether a defendant in a criminal case is competent to stand trial or is criminally responsible by reason of mental illness or mental defect, it may at any stage of the proceedings after the return of an indictment or the issuance of a criminal complaint against the defendant, order an examination of such defendant to be conducted by one or more qualified physicians or one or more qualified psychologists. Whenever practicable, examinations shall be conducted at the court house or place of detention where the person is being held. When an examination is ordered, the court shall instruct the examining physician or psychologist in the law for determining mental competence to stand trial and criminal responsibility.
+        </section>
+        <section prefix="b">
+    	     After the examination described in paragraph (a), the court may order that the person be hospitalized at a facility or, if such person is a male and appears to require strict security, at the Bridgewater state hospital, for a period not to exceed twenty days for observation and further examination, if the court has reason to believe that such observation and further examination are necessary in order to determine whether mental illness or mental defect have so affected a person that he is not competent to stand trial or not criminally responsible for the crime or crimes with which he has been charged. Copies of the complaints or indictments and the physician’s or psychologist’s report under paragraph (a) shall be delivered to the facility or said hospital with the person. If, before the expiration of such twenty day period, an examining qualified physician or an examining qualified psychologist believes that observation for more than twenty days is necessary, he shall so notify the court and shall request in writing an extension of the twenty day period, specifying the reason or reasons for which such further observation is necessary. Upon the receipt of such request, the court may extend said observation period, but in no event shall the period exceed forty days from the date of the initial court order of hospitalization; provided, however, if the person requests continued care and treatment during the pendency of the criminal proceedings against him and the superintendent or medical director agrees to provide such care and treatment, the court may order the further hospitalization of such person at the facility or the Bridgewater state hospital.
+        </section>
+        <section prefix="c">
+    	     At the conclusion of the examination or the observation period, the examining physician or psychologist shall forthwith give to the court written signed reports of their findings, including the clinical findings bearing on the issue of competence to stand trial or criminal responsibility. Such reports shall also contain an opinion, supported by clinical findings, as to whether the defendant is in need of treatment and care offered by the department.
+        </section>
+        <section prefix="d">
+    	     If on the basis of such reports the court is satisfied that the defendant is competent to stand trial, the case shall continue according to the usual course of criminal proceedings; otherwise the court shall hold a hearing on whether the defendant is competent to stand trial; provided that at any time before trial any party to the case may request a hearing on whether the defendant is competent to stand trial. A finding of incompetency shall require a preponderance of the evidence. If the defendant is found incompetent to stand trial, trial of the case shall be stayed until such time as the defendant becomes competent to stand trial, unless the case is dismissed.
+        </section>
+        <section prefix="e">
+    	     After a finding of guilty on a criminal charge, and prior to sentencing, the court may order a psychiatric or other clinical examination and, after such examination, it may also order a period of observation in a facility, or at the Bridgewater state hospital if the court determines that strict security is required and if such person is male. The purpose of such observation or examination shall be to aid the court in sentencing. Such period of observation or examination shall not exceed forty days. During such period of observation, the superintendent or medical director may petition the court for commitment of such person. The court, after imposing sentence on said person, may hear the petition as provided in section eighteen, and if the court makes necessary findings as set forth in section eight, it may in its discretion commit the person to a facility or the Bridgewater state hospital. Such order of commitment shall be valid for a period of six months. All subsequent proceedings for commitment shall take place under the provisions of said section eighteen in the district court which has jurisdiction of the facility or hospital. A person committed to a facility or Bridgewater state hospital pursuant to this section shall have said time credited against the sentence imposed as provided in paragraph (c) of said section eighteen.
+        </section>
+        <section prefix="f">
+    	     In like manner to the proceedings under paragraphs (a), (b), (c), and (e) of this section, a court may order a psychiatric or psychological examination or a period of observation for an alleged delinquent in a facility to aid the court in its disposition. Such period shall not exceed forty days.
+        </section>
+    </text>
+</law>

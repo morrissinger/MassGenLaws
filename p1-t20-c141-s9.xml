@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="141" order_by="141" level="3">Supervision Of Electricians</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Misstatements</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any person applying for a journeyman electrician’s license or a systems technician’s license and making any misstatement as to his experience or other qualifications, or any person, firm or corporation subscribing to, or vouching for, any such misstatement shall be subject to the penalties set forth in section five.
+    </text>
+</law>

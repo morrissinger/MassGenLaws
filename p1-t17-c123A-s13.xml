@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123A" order_by="123A" level="3">Care, Treatment And Rehabilitation Of Sexually Dangerous Persons</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Temporary Commitment Of Prisoner Or Youth To Treatment Center; Right To Counsel; Psychological Examination</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     If the court is satisfied that probable cause exists to believe that the person named in the petition is a sexually dangerous person, the prisoner or youth shall be committed to the treatment center for a period not exceeding 60 days for the purpose of examination and diagnosis under the supervision of two qualified examiners who shall, no later than 15 days prior to the expiration of said period, file with the court a written report of the examination and diagnosis and their recommendation of the disposition of the person named in the petition.
+        </section>
+        <section prefix="b">
+    	     The court shall supply to the qualified examiners copies of any juvenile and adult court records which shall contain, if available, a history of previous juvenile and adult offenses, previous psychiatric and psychological examinations and such other information as may be pertinent or helpful to the examiners in making the diagnosis and recommendation. The district attorney or the attorney general shall provide a narrative or police reports for each sexual offense conviction or adjudication as well as any psychiatric, psychological, medical or social worker records of the person named in the petition in the district attorney’s or the attorney general’s possession. The agency with jurisdiction over the person named in the petition shall provide such examiners with copies of any incident reports arising out of the person’s incarceration or custody.
+        </section>
+        <section prefix="c">
+    	     The person named in the petition shall be entitled to counsel and, if indigent, the court shall appoint an attorney. All written documentation submitted to the two qualified examiners shall also be provided to counsel for the person named in the petition and to the district attorney and attorney general.
+        </section>
+        <section prefix="d">
+    	     Any person subject to an examination pursuant to the provisions of this section may retain a psychologist or psychiatrist who meets the requirements of a qualified examiner, as defined in section 1, to perform an examination on his behalf. If the person named in the petition is indigent, the court shall provide for such qualified examiner.
+        </section>
+    </text>
+</law>

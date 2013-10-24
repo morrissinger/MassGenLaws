@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>26F1/2</section_number>
+    <catch_line>Carbon Monoxide Alarms Required In Certain Residential Structures; Regulation; Inspections; Enforcement</catch_line>
+    <order_by>26F1/2</order_by>
+    <text>
+        <section prefix="a">
+    	     Every dwelling, building or structure, including those owned or operated by the commonwealth, occupied in whole or in part for residential purposes, that: (1) contains fossil-fuel burning equipment including, but not limited to, a furnace, boiler, water heater, fireplace or any other apparatus, appliance or device that burns fossil fuel; or (2) incorporates enclosed parking within its structure shall be equipped by the owner with working, approved carbon monoxide alarms in conformance with the requirements of the board of fire prevention regulations; provided, however, that such requirements shall include, but not be limited to, a requirement that a landlord or superintendent shall install either approved monitored battery-powered alarms or approved electrical wiring alarms as defined by the board, as are required to make the alarms operational at the beginning of any rental period by lease or otherwise and shall maintain and, if necessary, replace batteries or such battery-operated or electric hardwired carbon monoxide alarms annually thereafter to insure their continued operability.
+        </section>
+        <section prefix="b">
+    	     The board of fire prevention regulations shall promulgate such regulations as may be necessary to effectuate this section including, but not limited to, the type, installation, location, maintenance and inspectional requirements of carbon monoxide alarms.
+        </section>
+        <section prefix="c">
+    	     Every dwelling, building or structure, occupied in whole or in part for residential purposes, shall, upon sale or transfer of such dwelling, building or structure, be inspected by the head of the fire department for compliance with the requirements of this section.
+        </section>
+        <section prefix="d">
+    	     The state building code may impose stricter carbon monoxide alarm requirements for new construction or dwellings, buildings, or structures substantally renovated so as to constitute the equivalent of new construction. Every such dwelling building or structure, occupied in whole or in part for residential purposes, shall, upon sale or transfer of such dwelling, building or structure, be inspected by the head of the fire department for compliance with the carbon monoxide alarm requirements of the state building code in effect on the date of the issuance of the relevant building permit.
+        </section>
+        <section prefix="e">
+    	     The head of the fire department shall enforce this section.
+        </section>
+        <section prefix="f">
+    	     The department of public health shall promulgate such rules and regulations as may be necessary to effectuate subsection (a) into the state sanitary code as established under section 127A of chapter 111.
+        </section>
+    </text>
+</law>

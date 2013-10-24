@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Payment Of Expenses; Levy And Collection Of Annual Assessment From Compacting States</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     The interstate commission shall pay or provide for the payment of the reasonable expenses of its establishment, organization and ongoing activities.
+        </section>
+        <section prefix="b">
+    	     The interstate commission shall levy on and collect an annual assessment from each compacting state to cover the cost of the internal operations and activities of the interstate commission and its staff which must be in a total amount sufficient to cover the interstate commission’s annual budget as approved each year. The aggregate annual assessment amount shall be allocated based upon a formula to be determined by the interstate commission, taking into consideration the population of each compacting state and the volume of interstate movement of juveniles in each compacting state and shall promulgate a rule binding upon all compacting states which governs such assessment.
+        </section>
+        <section prefix="c">
+    	     The interstate commission shall not incur any obligations of any kind prior to securing the funds adequate to meet the same; nor shall the interstate commission pledge the credit of any of the compacting states, except by and with the authority of the compacting state.
+        </section>
+        <section prefix="d">
+    	     The interstate commission shall keep accurate accounts of all receipts and disbursements. The receipts and disbursements of the interstate commission shall be subject to the audit and accounting procedures established under its by-laws; provided, however, all receipts and disbursements of funds handled by the interstate commission shall be audited yearly by a certified or licensed public accountant and the report of the audit shall be included in and become part of the annual report of the interstate commission.
+        </section>
+    </text>
+</law>

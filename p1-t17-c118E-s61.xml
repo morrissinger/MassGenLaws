@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>61</section_number>
+    <catch_line>Availability Of Benefits To Persons Recognized As A Spouse Under Laws Of The Commonwealth</catch_line>
+    <order_by>61</order_by>
+    <text>
+        Notwithstanding the unavailability of federal financial participation, no person who is recognized as a spouse under the laws of the commonwealth shall be denied benefits that are otherwise available under this chapter due to the provisions of 1 U.S.C. § 7 or any other federal non-recognition of spouses of the same sex.
+    </text>
+</law>

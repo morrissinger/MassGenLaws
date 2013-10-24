@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Withdrawal Of Compacting State From Compact</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     Once effective, the compact shall continue in force and remain binding upon each compacting state but a compacting state may withdraw from the compact by repealing the statute which enacted the compact into law in such state.
+        </section>
+        <section prefix="b">
+    	     The effective date of withdrawal shall be the effective date of the repeal.
+        </section>
+        <section prefix="c">
+    	     The withdrawing state shall immediately notify the chairperson of the interstate commission, in writing, upon the introduction of legislation repealing the compact in the withdrawing state. The interstate commission shall notify the other compacting states of the withdrawing state’s intent to withdraw within 60 days of its receipt thereof.
+        </section>
+        <section prefix="d">
+    	     The withdrawing state shall be responsible for all assessments, obligations and liabilities incurred through the effective date of withdrawal, including any obligations, the performance of which extend beyond the effective date of withdrawal.
+        </section>
+        <section prefix="e">
+    	     Reinstatement following withdrawal of any compacting state shall occur upon the withdrawing state reenacting the compact or upon such later date as determined by the interstate commission.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>46M</section_number>
+    <catch_line>Receipt Of Fees Or Payments Contrary To Sec. 46 L; Return</catch_line>
+    <order_by>46M</order_by>
+    <text>
+        Any employment agency which collects, receives or retains a fee, deposit or other payment contrary to or in excess of the provisions of section forty-six L, shall return the excess portion thereof within seven days of the receipt of a demand therefor.
+    </text>
+</law>

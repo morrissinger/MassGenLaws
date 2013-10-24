@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Officers And Staff Of The Interstate Commission</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The interstate commission shall, by a majority of the members, elect annually from among its members a chairperson and a vice chairperson, each of whom shall have such authority and duties as may be specified in the by-laws. The chairperson or, in the chairperson’s absence or disability, the vice-chairperson shall preside at all meetings of the interstate commission. The officers so elected shall serve without compensation or remuneration from the interstate commission but, subject to the availability of budgeted funds, the officers shall be reimbursed for any ordinary and necessary costs and expenses incurred by them in the performance of their duties and responsibilities as officers of the interstate commission.
+        </section>
+        <section prefix="b">
+    	     The interstate commission shall, through its executive committee, appoint or retain an executive director for such period, upon such terms and conditions and for such compensation as the interstate commission may deem appropriate. The executive director shall serve as secretary to the interstate commission, but shall not be a member and shall hire and supervise such other staff as may be authorized by the interstate commission.
+        </section>
+    </text>
+</law>

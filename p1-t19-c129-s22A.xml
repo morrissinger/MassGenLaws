@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>22A</section_number>
+    <catch_line>Dogs Owned By Police Departments Or Agencies</catch_line>
+    <order_by>22A</order_by>
+    <text>
+        The provisions of sections twenty-one and twenty-two shall not apply to dogs owned by police departments or police agencies of the commonwealth or any of its political subdivisions when such dogs are under the direct supervision, care and control of a police officer, have been vaccinated as provided in section one hundred and forty-five B of chapter one hundred and forty, and are subject to routine veterinary care.
+    </text>
+</law>

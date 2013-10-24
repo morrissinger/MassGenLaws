@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="115" order_by="115" level="3">Veterans’ Benefits</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Veteran; Definition</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        As used in this section and in sections 6B and 6C, the word “veteran” shall mean a person who has performed service as defined in clause Forty-third of section 7 of chapter 4 and whose last discharge or release from the armed forces of the United States was under other than dishonorable conditions and who is a resident of the commonwealth.
+    </text>
+</law>

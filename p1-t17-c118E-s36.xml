@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Eligible Providers; Responsibility For Overpayments</catch_line>
+    <order_by>36</order_by>
+    <text>
+        <section prefix="1">
+    	     indicate their intention to the division to so participate;
+        </section>
+        <section prefix="2">
+    	     present evidence, satisfactory to the division, of their qualifications to provide such services;
+        </section>
+        <section prefix="3">
+    	     agree to accept, as payment in full, the amounts paid in accordance with the fee schedules provided for under this chapter;
+        </section>
+        <section prefix="4">
+    	     agree to comply with all laws, rules and regulations governing the operation of the programs;
+        </section>
+        <section prefix="5">
+    	     agree to be responsible for all overpayments owed to the division, including, in the case of transfer of ownership, the overpayments of any and all previous owners.
+        </section>
+    </text>
+</law>

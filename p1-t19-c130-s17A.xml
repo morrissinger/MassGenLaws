@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>17A</section_number>
+    <catch_line>Management Of Marine Fisheries</catch_line>
+    <order_by>17A</order_by>
+    <text>
+        <section prefix="1">
+    	     The manner of taking fish;
+        </section>
+        <section prefix="2">
+    	     The legal size limits of fish to be taken;
+        </section>
+        <section prefix="3">
+    	     The seasons and hours during which fish may be taken;
+        </section>
+        <section prefix="4">
+    	     The numbers or quantities of fish which may be taken;
+        </section>
+        <section prefix="5">
+    	     The opening and closing of areas within the coastal waters to the taking of any and all types of fish; provided that no area shall be so opened or closed without the consent of the selectmen of the town or the mayor and council of the city affected thereby. Upon the request of the commission, the selectmen or mayor and council shall hold a public hearing upon the question and shall thereafter notify the commission in writing within forty-five days after such request has been received or consent will be deemed to have been granted.
+        </section>
+    </text>
+</law>

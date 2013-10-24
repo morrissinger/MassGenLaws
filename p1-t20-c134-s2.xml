@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="134" order_by="134" level="3">Lost Goods And Stray Beasts</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Stray Beasts; Report Of Finding</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Except as otherwise provided in chapter one hundred and thirty-three, any person who takes up a stray beast shall report, post or advertise the finding thereof, in the manner provided in the preceding section, giving a description of the color and the natural and artificial marks of such beast; otherwise he shall not be entitled to compensation for any expenses which he may incur relative thereto.
+    </text>
+</law>

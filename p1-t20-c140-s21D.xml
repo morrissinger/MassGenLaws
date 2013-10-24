@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>21D</section_number>
+    <catch_line>Inapplicability Of Statute To Certain Persons</catch_line>
+    <order_by>21D</order_by>
+    <text>
+        The provisions of the three preceding sections shall not apply to innholders, common victuallers, druggists, nor to dealers whose principal business is the sale of groceries and meats or either of said products, nor to the sale of any or all of such beverages when sold not to be drunk on the premises.
+    </text>
+</law>

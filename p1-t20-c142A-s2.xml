@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142A" order_by="142A" level="3">Regulation Of Home Improvement Contractors</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Residential Contracting Agreements; Requirements</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Every agreement to perform residential contracting services in an amount in excess of one thousand dollars shall be in writing and shall include the following documents and information:
+        </section>
+        <section prefix="1">
+    	     the complete agreement between the owner and the contractor and a clear description of any other documents which are or shall be incorporated into said agreement;
+        </section>
+        <section prefix="2">
+    	     the full names, social security numbers, addresses, exclusive of post office box addresses, registration number of the contractor, the names of the salesperson, if any, who solicited or negotiated the contract and the date when said contract was executed by the parties;
+        </section>
+        <section prefix="3">
+    	     the date on which the work under the contract is scheduled to begin and the date on which said work is scheduled to be substantially completed;
+        </section>
+        <section prefix="4">
+    	     a detailed description of the work to be done and the materials to be used in the performance of said contract;
+        </section>
+        <section prefix="5">
+    	     the total amount agreed to be paid for the work to be performed under said contract;
+        </section>
+        <section prefix="6">
+    	     a time schedule of payments to be made under said contract and the amount of each payment stated in dollars, including all finance charges. Any deposit required under the contract to be paid in advance of the commencement of work under said contract shall not exceed the greater of one-third of the total contract price or the actual cost of any materials or equipment of a special order or custom made nature, which must be ordered in advance of the commencement of work, in order to assure that the project will proceed on schedule. No final payment shall be demanded until the contract is completed to the satisfaction of the parties thereto;
+        </section>
+        <section prefix="7">
+    	     the signatures of all parties shall be affixed to the contract;
+        </section>
+        <section prefix="8">
+    	     there shall be a clear and conspicuous notice appearing in the contract:
+        </section>
+        <section prefix="9">
+    	     an enumeration of such other matters upon which the owner and the contractor may lawfully agree; provided, however, that no such agreement may waive any rights conveyed to the owner under the provisions of this chapter; and
+        </section>
+        <section prefix="10">
+    	     any other provision otherwise required by the applicable laws of the commonwealth.
+        </section>
+    </text>
+</law>

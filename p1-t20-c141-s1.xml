@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="141" order_by="141" level="3">Supervision Of Electricians</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following words as used in this chapter, unless the context otherwise requires, shall have the following meanings: 
+“Fee”, a fee to be determined annually by the commissioner of administration under the provision of section three B of chapter seven. 
+“Fire warning system”, an inherently power limited system of wires, conduits, apparatus, devices, fixtures or other appliances installed and interconnected electrically or electronically for the detection of heat, smoke, or products of combustion, or for the transmission of signals or audible alarms. 
+“Inherently power limited system”, a system requiring no overcurrent protection due to design and construction. 
+“Journeyman electrician”, a person qualified to do the work of installing, repairing, or maintaining wires, conduits, apparatus, devices, fixtures, or other appliances used for heat, light, power, fire warning or security system purposes. 
+“Master electrician”, a person, firm or corporation having a regular place of business who, by the employment of journeyman or apprentices, performs the work of installing, repairing or maintaining wires, conduits, apparatus, devices, fixtures or other appliances used for light, heat, power, fire warning or security system purposes; provided, however, that no journeyman electrician so employed shall have more than one apprentice under his supervision; and provided, further, that not more than one such apprentice shall be employed for each journeyman electrician. 
+“Security system”, an inherently power limited system of wires, conduits, apparatus, devices, fixtures, or other appliances installed and interconnected electrically or electronically to permit access control, proprietary signalling, surveillance and the detection of burglary, intrusion, holdup, or other conditions requiring response or the transmission of signals or audible alarms. 
+“System”, a fire warning, security or other inherently power limited system, wire, conduit or device which conducts or consumes electricity and is electrically or electronically activated. 
+“Systems contractor”, a person, firm or corporation having a regular place of business who, by the employment of systems technicians or apprentices, performs the work of installing, repairing or maintaining wires, conduits, apparatus, devices, fixtures or other appliances used for systems; provided, however, that no systems technician so employed shall have more than one apprentice under his supervision; and provided, further, that not more than one such apprentice shall be employed for each systems technician. 
+“Systems technician”, a person qualified to do the work of installing, repairing or maintaining wires, conduits, apparatus, devices, fixtures or other appliances used for systems.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>131F</section_number>
+    <catch_line>Nonresidents Or Aliens; Temporary License To Carry Firearms Or Ammunition</catch_line>
+    <order_by>131F</order_by>
+    <text>
+        <section prefix="i">
+    	     has, in any state or federal jurisdiction, been convicted or adjudicated a youthful offender or delinquent child for the commission of (a) a felony; (b) a misdemeanor punishable by imprisonment for more than two years; (c) a violent crime as defined in section 121; (d) a violation of any law regulating the use, possession, ownership, transfer, purchase, sale, lease, rental, receipt or transportation of weapons or ammunition for which a term of imprisonment may be imposed; or (e) a violation of any law regulating the use, possession or sale of controlled substances, as defined in section 1 of chapter 94C;
+        </section>
+        <section prefix="ii">
+    	     has been confined to any hospital or institution for mental illness, unless the applicant submits with his application an affidavit of a registered physician attesting that such physician is familiar with the applicant’s mental illness and that in such physician’s opinion the applicant is not disabled by such an illness in a manner that should prevent such applicant from possessing a firearm;
+        </section>
+        <section prefix="iii">
+    	     is or has been under treatment for or confinement for drug addiction or habitual drunkenness, unless such applicant is deemed to be cured of such condition by a licensed physician, and such applicant may make application for said license after the expiration of five years from the date of such confinement or treatment and upon presentment of an affidavit issued by such physician stating that such physician knows the applicant’s history of treatment and that in such physician’s opinion the applicant is deemed cured;
+        </section>
+        <section prefix="iv">
+    	     is currently subject to: (A) an order for suspension or surrender issued pursuant to section 3B or 3C of chapter 209A or a similar order issued by another jurisdiction; or (B) a permanent or temporary protection order issued pursuant to chapter 209A or a similar order issued by another jurisdiction; or
+        </section>
+        <section prefix="v">
+    	     is currently the subject of an outstanding arrest warrant in any state or federal jurisdiction.
+        </section>
+    </text>
+</law>

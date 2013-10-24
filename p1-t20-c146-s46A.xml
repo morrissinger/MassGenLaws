@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>46A</section_number>
+    <catch_line>Checklist For Steam Boiler Maintenance</catch_line>
+    <order_by>46A</order_by>
+    <text>
+        The commissioner shall develop a log book which shall include a checklist for the proper daily steam boiler maintenance that shall be required to be completed daily by the operator of a steam boiler exceeding nine horsepower. Such checklist shall include, but not be limited to, the following requirements: (1) give the boiler measured bottom blowdowns in accordance with instructions provided by the company supplying the feedwater treatment; (2) remove accumulations on water surfaces by using surface blow valves; (3) blowdown water column; (4) test low-water cutoff and feedwater regulator; (5) operate safety valves manually on start-up; (6) check lubrication on auxiliary equipment; (7) when starting boiler, make sure ignition operates properly; and (8) keep boiler room clean.
+    </text>
+</law>

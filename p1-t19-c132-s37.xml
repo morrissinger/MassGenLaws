@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132" order_by="132" level="3">Forestry</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Duties Of Local Forest Wardens</catch_line>
+    <order_by>37</order_by>
+    <text>
+        Every local forest warden, in addition to his duties prescribed by chapter forty-eight, shall investigate the values of forest lands, the character and extent of woodcutting operations, the prevalence of insect pests injurious to forest growths, and other matters affecting the extent and condition of woodlands in his town, and shall report thereon to the forester at such times and in such form as he requires.
+    </text>
+</law>

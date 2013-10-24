@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>110</section_number>
+    <catch_line>Economic Factors</catch_line>
+    <order_by>110</order_by>
+    <text>
+        <section prefix="a">
+    	     the quantity of such fresh and processed apples available for distribution;
+        </section>
+        <section prefix="b">
+    	     the quantity of such fresh and processed apples normally required by consumers;
+        </section>
+        <section prefix="c">
+    	     the cost of producing such fresh and processed apples;
+        </section>
+        <section prefix="d">
+    	     the purchasing power of consumers;
+        </section>
+        <section prefix="e">
+    	     the level of prices of commodities, services and articles which the farmers commonly buy;
+        </section>
+        <section prefix="f">
+    	     the level of prices of other commodities which compete with or are utilized as substitutes for such fresh and processed apples.
+        </section>
+    </text>
+</law>

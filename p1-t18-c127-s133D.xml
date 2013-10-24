@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>133D</section_number>
+    <catch_line>Community Parole Supervision For Life</catch_line>
+    <order_by>133D</order_by>
+    <text>
+        <section prefix="a">
+    	     A person upon whom a sentence of community parole supervision for life has been imposed under section 45 of chapter 265 shall be subject to the jurisdiction of the parole board for the term of such sentence.
+        </section>
+        <section prefix="2">
+    	     Prior to the hearing, the petitioner shall be examined, personally interviewed and evaluated by a psychiatrist or licensed psychologist who is an expert in the field of sex offender treatment and who is approved by the board. The psychiatrist or psychologist shall file with the board written reports of his examinations and diagnosis and his recommendation for the disposition of such petitioner. The petitioner’s treatment while on community parole supervision shall be examined and considered by such psychiatrist or psychologist in such recommendation. Such reports shall be admissible in a hearing conducted pursuant to this section. If such petitioner refuses to be personally interviewed by such psychiatrist or psychologist, without good cause, such petitioner shall be deemed to have waived his right to a hearing on the petition and the petition shall be dismissed by the board. The cost of such examination and evaluation shall be the responsibility of the petitioner; provided, however, that the board shall establish procedures for cases of hardship or indigency.
+        </section>
+        <section prefix="3">
+    	     At the hearing, the board shall call such witnesses as it deems necessary, including the examining psychiatrist or psychologist, the appropriate district attorney, the attorney general, the police chief or the victims of the crime or such crime victims’ family members, as the board deems necessary. The petitioner may offer such witnesses and other proof at the hearing as is relevant to the petition.
+        </section>
+        <section prefix="4">
+    	     The board shall terminate community parole supervision for life if the petitioner demonstrates, by clear and convincing evidence, that he has not committed a sex offense or a kidnapping since his conviction, that he is not likely to pose a threat to the safety of others and that the public interest is not served by further community parole supervision over the petitioner.
+        </section>
+        <section prefix="5">
+    	     If a petition for release from supervision is denied by the board, such petitioner may not file another such petition for a period of three years.
+        </section>
+        <section prefix="c">
+    	     An individual who violates a condition of community parole supervision shall be subject to the provisions of section 149. If the parolee has served the entire period of confinement under his original sentence, the original term of imprisonment shall, upon a first violation, be increased to imprisonment in a house of correction for 30 days if such violation does not otherwise constitute a criminal offense. Upon a second violation, said original term of imprisonment shall be increased to 180 days in the house of correction if such violation does not otherwise constitute a criminal offense. Upon a third or subsequent violation, said original term of imprisonment shall be increased to one year in the house of correction if such violation does not otherwise constitute a criminal offense. If such violation otherwise constitutes a criminal offense, said increased term of imprisonment shall be served on and after any sentence received for commission of the new offense.
+        </section>
+    </text>
+</law>

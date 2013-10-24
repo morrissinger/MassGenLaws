@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Identification Card</catch_line>
+    <order_by>26</order_by>
+    <text>
+        The division shall issue a numbered identification card to persons receiving medical assistance under this chapter. Such card shall bear the date of issue and shall be presented to providers as verification of eligibility for medical assistance. The division shall establish by rules and regulations such procedures as may be necessary for the purpose of recalling identification on termination of eligibility.
+    </text>
+</law>

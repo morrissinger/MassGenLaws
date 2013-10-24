@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>36B</section_number>
+    <catch_line>Duty To Warn Patient’S Potential Victims; Cause Of Action</catch_line>
+    <order_by>36B</order_by>
+    <text>
+        <section prefix="1">
+    	     There shall be no duty owed by a licensed mental health professional to take reasonable precautions to warn or in any other way protect a potential victim or victims of said professional’s patient, and no cause of action imposed against a licensed mental health professional for failure to warn or in any other way protect a potential victim or victims of such professional’s patient unless: (a) the patient has communicated to the licensed mental health professional an explicit threat to kill or inflict serious bodily injury upon a reasonably identified victim or victims and the patient has the apparent intent and ability to carry out the threat, and the licensed mental health professional fails to take reasonable precautions as that term is defined in section one; or (b) the patient has a history of physical violence which is known to the licensed mental health professional and the licensed mental health professional has a reasonable basis to believe that there is a clear and present danger that the patient will attempt to kill or inflict serious bodily injury against a reasonably identified victim or victims and the licensed mental health professional fails to take reasonable precautions as that term is defined by said section one. Nothing in this paragraph shall be construed to require a mental health professional to take any action which, in the exercise of reasonable professional judgment, would endanger such mental health professional or increase the danger to potential victim or victims.
+        </section>
+        <section prefix="2">
+    	     Whenever a licensed mental health professional takes reasonable precautions, as that term is defined in section one of chapter one hundred and twenty-three, no cause of action by the patient shall lie against the licensed mental health professional for disclosure of otherwise confidential communications.
+        </section>
+    </text>
+</law>

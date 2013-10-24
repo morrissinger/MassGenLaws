@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>134</section_number>
+    <catch_line>Appearance Before Board; Investigation And Hearing By Staff Members;  Reports; Sentences Served In Other States</catch_line>
+    <order_by>134</order_by>
+    <text>
+        <section prefix="a">
+    	     In the case of an inmate committed to a correctional institution of the commonwealth, no parole permit shall be granted by the parole board until the inmate has been seen by at least three members of said board, except when the chairman has designated three members to act as the parole board under the provisions of section five of chapter twenty-seven, no parole permit shall be granted by the board until the inmate has been seen by at least two of said members.
+        </section>
+        <section prefix="b">
+    	     In the case of an inmate committed to a jail or house of correction, the chairman may designate the director of parole services, a parole supervisor, a parole employment officer, the legal counsel to the parole board, an institutional parole officer, the executive secretary to the parole board, a parole officer, a junior parole officer, or a parole board employee whose primary function is to serve as a hearing officer, to make an investigation and to conduct a hearing in lieu of the board for the purpose of ascertaining the suitability of such inmate for a parole permit. The staff member so designated shall report his findings of fact and recommendations as to parole and conditions of parole to the board. The board may grant or deny a parole permit to such inmate after considering said report and recommendations. No parole permit shall be granted until such inmate has been seen according to the provisions of paragraphs (a) or (b).
+        </section>
+        <section prefix="c">
+    	     In the case of an inmate serving a Massachusetts sentence in another state, the chairman may request the paroling authority of that state or at the written request of the inmate the federal paroling authority with jurisdiction over the institution in which said inmate is housed to conduct a hearing in lieu of the Massachusetts board for the purpose of ascertaining the suitability of such inmate for a parole permit and to report its findings and recommendations as to parole and conditions of parole to the board. The board may grant or deny a parole permit to such an inmate after considering said report and recommendations. No parole permit shall be granted until such inmate has been seen in accordance with the provisions of paragraphs (a) or (c).
+        </section>
+    </text>
+</law>

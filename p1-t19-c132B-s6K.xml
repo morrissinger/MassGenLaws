@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6K</section_number>
+    <catch_line>Review Of Anti Microbial Pesticides</catch_line>
+    <order_by>6K</order_by>
+    <text>
+        The department shall conduct a review of anti-microbial pesticides, as defined in section 2, to determine whether and to what extent they should be subject to the provisions of this chapter.
+    </text>
+</law>

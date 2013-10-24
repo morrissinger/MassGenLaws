@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>205</section_number>
+    <catch_line>Revocation Of License; Record; Notice</catch_line>
+    <order_by>205</order_by>
+    <text>
+        Upon the revocation of such a license, such clerk shall note the revocation upon the face of the record thereof, and shall give written notice to the licensee by delivering it to him in person or by leaving it at the place of business designated in the license.
+    </text>
+</law>

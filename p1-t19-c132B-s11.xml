@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Protection Of Health And Environment; Regulations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The department shall by regulation establish such restrictions and prohibitions upon the disposal and storage of pesticides, packages and containers of pesticides, and materials used in the testing or application of pesticides as it deems necessary to protect health and the environment.
+    </text>
+</law>

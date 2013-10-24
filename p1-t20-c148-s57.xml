@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Siding As Conductor Of Electricity; Approval</catch_line>
+    <order_by>57</order_by>
+    <text>
+        No side walling or siding which is a conductor of electricity shall be installed on any building unless it is properly grounded and approved by the city or town electrician or other officer having similar duties.
+    </text>
+</law>

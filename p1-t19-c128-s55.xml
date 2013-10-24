@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Restrictions On Distribution Of Feed</catch_line>
+    <order_by>55</order_by>
+    <text>
+        <section prefix="b">
+    	     it is distributed under the name of another feed;
+        </section>
+        <section prefix="c">
+    	     it is not labeled as required in section fifty-three and in regulations promulgated by the commissioner;
+        </section>
+        <section prefix="d">
+    	     it purports to be or is represented as a commercial feed, or if it purports to contain or is represented as containing a commercial feed ingredient which does not conform to the definition, if any, prescribed by regulation of the commissioner or his deputy. In the absence of a prescribed definition by the commissioner, conformity to the commonly accepted definitions as those issued by the Association of American Feed Control Officials shall apply;
+        </section>
+        <section prefix="e">
+    	     any word, statement, or other information required by or under authority of sections fifty-one through sixty to appear on the label or labeling is not prominently placed thereon with such conspicuousness, as compared with other words, statements, designs, or devices, in the labeling, and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+        </section>
+    </text>
+</law>

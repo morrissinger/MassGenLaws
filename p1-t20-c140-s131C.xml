@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>131C</section_number>
+    <catch_line>Carrying Of Firearms In A Vehicle</catch_line>
+    <order_by>131C</order_by>
+    <text>
+        <section prefix="a">
+    	     No person carrying a loaded firearm under a Class A license issued under section 131 or 131F shall carry the same in a vehicle unless such firearm while carried therein is under the direct control of such person. Whoever violates the provisions of this subsection shall be punished by a fine of $500.
+        </section>
+        <section prefix="b">
+    	     No person carrying a firearm under a Class B license issued under section 131 or 131F shall possess the same in a vehicle unless such weapon is unloaded and contained within the locked trunk of such vehicle or in a locked case or other secure container. Whoever violates the provisions of this subsection shall be punished by a fine of $500.
+        </section>
+        <section prefix="c">
+    	     No person possessing a large capacity rifle or shotgun under a Class A or Class B license issued under section 131 or 131F shall possess the same in a vehicle unless such weapon is unloaded and contained within the locked trunk of such vehicle or in a locked case or other secure container. Whoever violates the provisions of this subsection shall be punished by a fine of not less than $500 nor more than $5,000.
+        </section>
+        <section prefix="d">
+    	     The provisions of this section shall not apply to (i) any officer, agent or employee of the commonwealth or any state or the United States; (ii) any member of the military or other service of any state or of the United States; (iii) any duly authorized law enforcement officer, agent or employee of any municipality of the commonwealth; provided, however, that any such person described in clauses (i) to (iii), inclusive, is authorized by a competent authority to carry or possess the weapon so carried or possessed and is acting within the scope of his duties.
+        </section>
+        <section prefix="e">
+    	     A conviction of a violation of this section shall be reported forthwith by the court or magistrate to the licensing authority who shall immediately revoke the card or license of the person so convicted. No new such card or license may be issued to any such person until one year after the date of revocation.
+        </section>
+    </text>
+</law>

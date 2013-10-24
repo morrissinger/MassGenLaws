@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Seizure, Quarantine And Destruction Of Imported Diseased Animals</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Animals brought into this commonwealth from places which in the opinion of the director are infected, may be seized and quarantined by the director at the expense of their owners or consignees, so long as the public safety requires; and, if in his opinion safety so requires, he may cause such animals to be killed without appraisal or payment.
+    </text>
+</law>

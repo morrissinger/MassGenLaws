@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Pension And Retirement Plans Of Obligor; Attachment Of Payments, Distributions Or Benefits; Use Of Accumulated Total Deductions To Pay Arrearages</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        <section prefix="a">
+    	     The IV-D agency is hereby authorized to attach payments, distributions or benefits owing to an obligor under any pension or retirement plan, as provided in this section.
+        </section>
+        <section prefix="2">
+    	     Pursuant to regulation promulgated by the commissioner, the IV-D agency may issue a qualified domestic relations order, as defined in 29 USC 1056, without the need for judicial or administrative hearing; provided, however, that the IV-D agency shall notify the obligor of the issuance of such qualified domestic relations order and of the procedures to follow under section 17 if the obligor wishes to contest such issuance on the grounds that the withholding under the qualified domestic relations order or the amount withheld is improper due to mistake of fact.
+        </section>
+        <section prefix="c">
+    	     With respect to all other pension or retirement plans, the IV-D agency may attach payments, distributions or benefits or execute an income withholding order under the procedures set out in sections 6 and 12, without obtaining or issuing a qualified domestic relations order as defined in 29 USC 1056.
+        </section>
+        <section prefix="d">
+    	     If a member of a pension or retirement plan is eligible to receive a return of accumulated total deductions under the provisions of chapter 32 or under the provisions of any general or special law and requests such return from the pension or retirement board on the prescribed form, prior to the return of such accumulated total deductions, the board shall provide to the IV-D agency the member’s name, date of birth, address, and social security number. Within 15 days of receipt of such information, the IV-D agency shall notify the board if such member owes child support arrears, provided, however, that if, due to unforeseen circumstances, the IV-D agency is unable to provide such notice within 15 days, the IV-D agency shall notify the board of said unforeseen circumstances and the anticipated date by which the IV-D agency will provide such notice. If the member owes child support arrears, upon receipt of a levy from the IV-D agency on the accumulated total deductions, the board shall withhold the child support arrears from the accumulated total deductions and, unless the IV-D agency releases the levy, the board shall, within 60 days, disburse to the IV-D agency the accumulated total deductions up to the amount of the arrears.
+        </section>
+        <section prefix="2">
+    	     An obligor who is subject to a lien under section 6 and who is eligible to receive a return of accumulated total deductions under the provisions of chapter 32 or under the provisions of any general or special law shall sign and return to the pension or retirement plan any prescribed form required by such plan to request a return of accumulated total deductions; provided that the obligor shall also send by first class mail a copy of such completed form to the IV-D agency.
+        </section>
+        <section prefix="3">
+    	     If the member fails to file the prescribed form with the board within 60 days, the board shall notify the IV-D agency of such failure and whether the board has received notice that the member has become a member of any system. The IV-D agency may seek a court order for the submission of the prescribed form to request a return of accumulated total deductions. Upon request of the IV-D agency, the court shall order the member to sign and submit the prescribed form or shall appoint a special master to sign and submit such form in place of the member.
+        </section>
+        <section prefix="4">
+    	     Upon receipt of a levy from the IV-D agency on the accumulated total deductions, the board shall withhold any arrears owed by such obligor from the accumulated total deductions and, unless the IV-D agency releases the levy, the board shall, within 60 days, disburse to the IV-D agency the accumulated total deductions up to the amount of the arrears.
+        </section>
+    </text>
+</law>

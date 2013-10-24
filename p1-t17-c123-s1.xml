@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     communicates a threat of death or serious bodily injury to the reasonably identified victim or victims;
+        </section>
+        <section prefix="b">
+    	     notifies an appropriate law enforcement agency in the vicinity where the patient or any potential victim resides;
+        </section>
+        <section prefix="c">
+    	     arranges for the patient to be hospitalized voluntarily;
+        </section>
+        <section prefix="d">
+    	     takes appropriate steps, within the legal scope of practice of his profession, to initiate proceedings for involuntary hospitalization.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142A" order_by="142A" level="3">Regulation Of Home Improvement Contractors</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Denial Of Registration Applications; Grounds; Requests For Reconsideration</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     made material omissions or misrepresentations of fact on application for registration or renewal under this chapter or on an application for licensure or renewal under section ninety-four I of chapter one hundred and forty-three; or
+        </section>
+        <section prefix="2">
+    	     failed to pay either the registration fee or the payment to the fund required by this chapter; or
+        </section>
+        <section prefix="3">
+    	     failed consistently to perform contracts or has performed said contracts in an unworkmanlike manner or has failed to complete said contracts with no good cause or has engaged in fraud or bad faith with respect to said contracts; or
+        </section>
+        <section prefix="4">
+    	     failed to meet or has violated any of the requirements for registered contractors or subcontractors set forth in this chapter or has performed or is attempting to perform any act prohibited by this chapter.
+        </section>
+    </text>
+</law>

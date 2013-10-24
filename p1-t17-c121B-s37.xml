@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Commonwealth Grants; Guarantee Of Temporary Notes; Sale, Maintenance, And Operation Of Relocation Projects; Limitations On Eminent Domain</catch_line>
+    <order_by>37</order_by>
+    <text>
+        <section prefix="1">
+    	     It shall rent to a tenant dwelling accommodations consisting of the least number of rooms which it deems necessary to provide safe and sanitary accommodations to the proposed occupants thereof without overcrowding, in accordance with a rent schedule approved by the department. Such rent schedule shall be arranged so as to be sufficient, in the opinion of the department, to pay all of the costs of maintaining and operating the project, including a reasonable allowance for depreciation, and may, in the discretion of the department, be sufficient so as also to include each year an allowance for the amortization of all or part of the cost of acquiring and constructing the project not otherwise provided for by grants or otherwise.
+        </section>
+        <section prefix="2">
+    	     A housing authority shall not admit a person or family for occupancy in a relocation project for a period longer than may be from time to time determined by the department. A housing authority shall accept as tenants persons or families who occupied dwellings eliminated by demolition, condemnation and effective closing as part of any public improvement made by the commonwealth, city or town or other body politic and corporate or of any urban renewal, code enforcement or chapter one hundred and twenty-one A project; provided, that to the extent that no displaced persons apply for tenancy in such relocation project the authority may admit as tenants veterans, elderly persons of low income, and families of low income; provided, that no vacancies exist for such elderly persons and families of low income in existing low-rent public housing projects. If a housing authority acquired a completed dwelling or group of dwellings for a relocation project, and the acquisition of such does not involve their demolition, the authority may permit any person or family otherwise eligible under this chapter to continue in occupancy for such period or periods that such dwelling units are not needed for persons or families displaced by any public improvement or urban renewal, code enforcement or chapter one hundred and twenty-one A project.
+        </section>
+        <section prefix="3">
+    	     In any action to recover possession of premises, occupied in a relocation project, the provisions of sections twelve and thirteen of chapter one hundred and eighty-six and section nine of chapter two hundred and thirty-nine shall not apply.
+        </section>
+    </text>
+</law>

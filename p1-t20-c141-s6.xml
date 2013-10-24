@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="141" order_by="141" level="3">Supervision Of Electricians</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Liability For Work Of Employee</catch_line>
+    <order_by>6</order_by>
+    <text>
+        No person, firm or corporation holding a “certificate A or certificate C” shall be liable for work done by his or its employees, unless it appears that such work was done with his or its knowledge or consent or by his or its authorization.
+    </text>
+</law>

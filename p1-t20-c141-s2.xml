@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="141" order_by="141" level="3">Supervision Of Electricians</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>State Examiners; Rules; Examinations; Reports</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The state examiners of electricians, in this chapter called the examiners, may make necessary rules for the proper performance of their duties. 
+They shall hold frequent examinations in Boston, and, twice in each year, shall hold examinations in at least five other convenient places within the commonwealth, and they may hold annual or occasional examinations in other places. Public notice shall be given of all examinations. 
+They shall make a biennial report of their doings in each odd-numbered year.
+    </text>
+</law>

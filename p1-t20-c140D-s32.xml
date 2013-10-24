@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Creditor’S Failure To Comply With Law; Damages</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, any creditor who fails to comply with any requirement imposed under this chapter or any rule or regulation issued thereunder including any requirement under section ten with respect to any person is liable to such person in an amount equal to the sum of:
+        </section>
+        <section prefix="1">
+    	     Any actual damage sustained by such person as a result of the failure;
+        </section>
+        <section prefix="2">
+    	     (a) In the case of an individual action, twice the amount of any finance charge in connection with the transaction, except that the liability under this clause shall not be less than one hundred dollars nor greater than one thousand dollars; or (b) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable and the total recovery under this subclause in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of five hundred thousand dollars or one per centum of the net worth of the creditor or (c) in the case of an individual action relating to a credit transaction not under an open-end credit plan that is secured by real property or a dwelling, not less than two hundred dollars or greater than two thousand dollars; and
+        </section>
+        <section prefix="3">
+    	     In the case of any successful action to enforce the foregoing liability or in any action in which a person is determined to have a right of rescission under section ten, the costs of the action, together with a reasonable attorney’s fee as determined by the court.
+        </section>
+        <section prefix="b">
+    	     A creditor or assignee has no liability under this section or section six or section thirty-one for any failure to comply with any requirement imposed under this chapter or any rule or regulation issued thereunder, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under section six or through the creditor’s or assignee’s own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+        </section>
+        <section prefix="c">
+    	     A creditor or assignee may not be held liable in any action brought under this section or section ten for a violation of this chapter, or any rule or regulation issued thereunder, if the creditor or assignee shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adopted to avoid any such error. A bona fide error includes, but shall not be limited to, clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person’s obligations under this chapter, or rule or regulation issued thereunder, is not a bona fide error.
+        </section>
+        <section prefix="d">
+    	     When there are multiple obligors in a consumer credit transaction, there shall be no more than one recovery of damages under clause (2) of subsection (a).
+        </section>
+        <section prefix="e">
+    	     No provision of this section, section six or section thirty-one imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the commissioner notwithstanding that after such act or omission has occurred such rule, regulation or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+        </section>
+        <section prefix="f">
+    	     The multiple failure to disclose to any person any information required under this chapter or any rule or regulation issued thereunder, to be disclosed in connection with a single account under an open end consumer credit plan, other single consumer credit sale, consumer loan, or other extension of consumer credit, shall entitle the person to a single recovery under this section but continued failure to disclose after a recovery has been granted shall give rise to rights to additional recoveries. This subsection shall not bar any remedy permitted by section ten.
+        </section>
+        <section prefix="g">
+    	     A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under clause (2) of subsection (a) against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this chapter, or any rule or regulation issued thereunder, has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection shall not bar a consumer then in default on the obligation from asserting a violation of this chapter, or any rule or regulation issued thereunder, as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this chapter, or any rule or regulation issued thereunder.
+        </section>
+    </text>
+</law>

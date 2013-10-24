@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Prohibited Acts Or Omissions</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="b">
+    	     adulterate or misbrand any commercial feed;
+        </section>
+        <section prefix="c">
+    	     distribute agricultural commodities which are adulterated within the meaning of section fifty-four;
+        </section>
+        <section prefix="d">
+    	     remove or dispose of a commercial feed in violation of an order under section sixty;
+        </section>
+        <section prefix="e">
+    	     fail or refuse to register in accordance with section fifty-two;
+        </section>
+        <section prefix="f">
+    	     fail to pay registration fees and file reports as required by section fifty-two.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>6C</section_number>
+    <catch_line>Health And Safety Of General Public And Asbestos Workers; Rules And Regulations</catch_line>
+    <order_by>6C</order_by>
+    <text>
+        <section prefix="1">
+    	     Full facepiece Type C supplied-air respirators operated in pressure demand mode equipped with an auxiliary positive pressure self-contained breathing apparatus shall be worn whenever airborne fiber concentrations inside the work area are equal to or greater than 10.0 f/cc.
+        </section>
+        <section prefix="2">
+    	     Full facepiece Type C supplied-air respirators operated in pressure demand mode with HEPA filter disconnect protection shall be worn whenever airborne fiber concentrations inside the work area are equal to or greater than 2.0 f/cc and less than 10.0 f/cc.
+        </section>
+        <section prefix="3">
+    	     Full facepiece powered air-purifying respirators (PAPR) equipped with HEPA filters shall be worn whenever airborne fiber concentrations inside the work area are less than 2.0 f/cc. A supply of charged replacement batteries, HEPA filters and flow test meters shall be available in the clean room for use with powered air-purifying respirators. Any Type C supplied-air respirator operated in continuous flow may be substituted for a powered air-purifying respirator.
+        </section>
+        <section prefix="4">
+    	     Full-face or half mask air-purifying respirators with HEPA filters shall be worn only during asbestos-associated work, preparation of the work area, performance of repairs (e.g. using glovebag techniques), and final clean up procedures.
+        </section>
+    </text>
+</law>

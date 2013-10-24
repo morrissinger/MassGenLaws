@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142A" order_by="142A" level="3">Regulation Of Home Improvement Contractors</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Registration Of Contractors Or Subcontractors</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     No contractor or subcontractor shall undertake, offer to undertake, or agree to perform residential contracting services unless registered therefor with the approval of the office of consumer affairs and business regulation.
+        </section>
+        <section prefix="b">
+    	     It shall be the duty of the director to issue and deliver a certificate of registration to all applicants who have been approved for registration.
+        </section>
+        <section prefix="c">
+    	     In the case of registration by a corporation or partnership, an individual shall be designated to be responsible for the corporation’s or partnership’s work. The corporation or partnership and its designee shall be jointly and severally liable for: the payment of the registration fee, the payment to the fund, as required herein, and for violations of any provisions of this chapter, including actions by the registrant’s employees, subcontractors or salespersons.
+        </section>
+    </text>
+</law>

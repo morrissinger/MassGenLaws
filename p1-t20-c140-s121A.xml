@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>121A</section_number>
+    <catch_line>Identification Of Firearms; Certificate By Ballistics Expert As Prima Facie Evidence</catch_line>
+    <order_by>121A</order_by>
+    <text>
+        A certificate by a ballistics expert of the department of the state police or of the city of Boston of the result of an examination made by him of an item furnished him by any police officer, signed and sworn to by such expert, shall be prima facie evidence of his findings as to whether or not the item furnished is a firearm, rifle, shotgun, machine gun, sawed off shotgun or ammunition, as defined by section one hundred and twenty-one, provided that in order to qualify as an expert under this section he shall have previously qualified as an expert in a court proceeding.
+    </text>
+</law>

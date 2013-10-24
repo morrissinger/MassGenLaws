@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>12C</section_number>
+    <catch_line>Refusal Of Accommodation In Hotel To Persons Acting In Disorderly Manner; Damage Deposits</catch_line>
+    <order_by>12C</order_by>
+    <text>
+        <section prefix="a">
+    	     An innkeeper may refuse to admit or refuse service or accommodation in the hotel to a person who: while on the premises of the hotel acts in an obviously intoxicated or disorderly manner, destroys or threatens to destroy hotel property, or causes or threatens to cause a public disturbance; or refuses or is unable to pay for the accommodations or services. An innkeeper may require the prospective guest to demonstrate an ability to pay. An innkeeper may require a parent or guardian of a minor to accept liability for the proper charges for the minor’s accommodation, board, room, or lodging; and any damages to the guest room or its furniture or furnishings caused by the minor, and provide a credit card to cover the charges. When the parent or guardian cannot provide a credit card, the innkeeper may require the parent or guardian to make an advance cash deposit in an amount not exceeding $100 for payment of any additional charges by the minor or any damages to the guest room or its furnishings. The innkeeper shall refund the damage deposit to the extent it is not used to cover any reasonable charges or damages.
+        </section>
+        <section prefix="b">
+    	     An innkeeper may limit the number of persons who may occupy a particular guest room in the hotel.
+        </section>
+    </text>
+</law>

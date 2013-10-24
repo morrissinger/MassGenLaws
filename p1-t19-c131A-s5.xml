@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131A" order_by="131A" level="3">Massachusetts Endangered Species Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Habitat Alteration Permits</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Before any person alters a significant habitat, except as provided in paragraph (b) below or in paragraph four of section three, such person shall submit to the director the following:
+        </section>
+        <section prefix="i">
+    	     full plans and a complete description of the project and the anticipated use;
+        </section>
+        <section prefix="ii">
+    	     alternatives to the proposed project and anticipated use;
+        </section>
+        <section prefix="iii">
+    	     impacts of the proposed project and anticipated use on the subject species;
+        </section>
+        <section prefix="iv">
+    	     full plans for the protection of any endangered or threatened species present and the mitigation measures to be taken to provide amelioration of the impact;
+        </section>
+        <section prefix="v">
+    	     the potential economic effects of the proposed project on the person and the community; and
+        </section>
+        <section prefix="vi">
+    	     any additional information the director may require.
+        </section>
+        <section prefix="b">
+    	     Any work, project or activity of any person for which (i) a final environmental impact report certified by the secretary of environmental affairs as adequately and properly complying with the provisions of sections sixty-one to sixty-two H of chapter thirty has been issued, or (ii), an environmental notification form has been filed and the secretary has certified that an environmental impact report is not required, and for which the natural heritage and endangered species program of the division of fisheries and wildlife has reviewed the project and made recommendations with respect to avoidance, minimization or mitigation of impacts on endangered, threatened or special concern species, and for which the project proponent has incorporated any such avoidance, minimization or mitigation measures in the project design, shall forthwith be issued a permit by the director without further conditions, except that the permit may be conditioned upon implementation of any such avoidance, minimization or mitigation measures. Failure of the natural heritage and endangered species program of the division of fisheries and wildlife to make any such recommendations within the following time periods shall be equivalent to the issuance of a permit by the director: (A) if an environmental impact report is not required, ninety days after the secretary issues a notice of the receipt of an environmental notification form, as described in section sixty-two A of chapter thirty and the regulations thereunder; or (B) if an environmental impact report is required, prior to certification by the secretary that the final environmental impact report adequately and properly complies with sections sixty-one to sixty-two H of chapter thirty.
+        </section>
+        <section prefix="c">
+    	     Record owners of lands or interests in lands aggrieved by a decision of the director or by his failure to act hereunder may appeal to the secretary of the office of environmental affairs by sending, by certified mail, a notice of appeal to the secretary within twenty-one days of such decision or failure to act. The secretary shall hold a hearing on such appeal within a reasonable time, and in no case later than one hundred twenty days from the date of such decision. The secretary shall consider the information and testimony presented at the hearing and shall make a determination thereon within sixty days. The secretary shall overturn the decision of the director only upon a finding that it was without substantial basis in fact, but shall fully examine on the merits any appeal involving the director’s failure to act.
+        </section>
+        <section prefix="d">
+    	     The provisions of this section shall not apply to work performed in the normal maintenance or improvement on land in agricultural or aquacultural use.
+        </section>
+        <section prefix="e">
+    	     In addition to the appeal described in paragraph (c), a landowner aggrieved by a decision of the director may file an action in superior court department of the trial court to determine whether such decision constitutes a taking requiring compensation under the Constitution of the United States.
+        </section>
+    </text>
+</law>

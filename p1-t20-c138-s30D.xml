@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>30D</section_number>
+    <catch_line>Purpose Of Sale Of Alcoholic Beverages; Certificate Of Purchaser</catch_line>
+    <order_by>30D</order_by>
+    <text>
+        Retail pharmacists licensed under section thirty A shall not sell alcoholic beverages of any kind for medicinal, mechanical or chemical purposes except upon the certificate of the purchaser, which shall state the use for which it is wanted, and which shall be immediately cancelled at the time of sale in such manner as to show the date of cancellation.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Violations; Notice And Enforcement Of Orders Or Regulations</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Violation of any lawful rule, order or regulation of the board or of any lawful order of the marshal or lawful rule or order of the head of a fire department, punishment whereof is not otherwise provided for, shall be punished by a fine of not more than fifty dollars for each day during which such violation continues after actual notice of the regulation, rule or order. Such notice may be given by personal service or by posting the same in a conspicuous place on the premises affected thereby. The superior court shall have jurisdiction in equity to enforce any lawful rule, order or regulation of the board, or any lawful order of the marshal or rule or order of the head of a fire department, upon application respectively of the marshal or the head of the fire department.
+    </text>
+</law>

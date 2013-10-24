@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Severability And Construction</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     The provisions of this compact shall be severable and, if any phrase, clause, sentence or provision is deemed unenforceable, the remaining provisions of the compact shall be enforceable.
+        </section>
+        <section prefix="b">
+    	     The provisions of this compact shall be liberally construed to effectuate its purposes.
+        </section>
+    </text>
+</law>

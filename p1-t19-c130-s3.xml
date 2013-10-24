@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Duplicate License, Permit, Or Certificate</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Whoever loses or by mistake or accident destroys a license, permit or certificate issued under any provision of this chapter may, upon application to the director, accompanied by a fee of three dollars and an affidavit setting forth the circumstances of said loss, receive a duplicate thereof.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Disposition Of Fines, Penalties And Forfeitures</catch_line>
+    <order_by>3</order_by>
+    <text>
+        All fines, penalties and forfeitures recovered in prosecutions under the laws relative to fish, birds and mammals shall be equally divided between the county where such prosecution is made and the city or town where the offence is committed; provided, that if the complaining officer is receiving compensation from the commonwealth, such fines, penalties and forfeitures shall be paid to the commonwealth and credited to the Inland Fisheries and Game Fund.
+    </text>
+</law>

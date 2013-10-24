@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132A" order_by="132A" level="3">State Recreation Areas Outside Of The Metropolitan Parks District</unit>
+    </structure>
+    <section_number>16D</section_number>
+    <catch_line>Municipal Wastes; Discharge Into Ocean Sanctuaries; Variance;  Application Requirements</catch_line>
+    <order_by>16D</order_by>
+    <text>
+        <section prefix="1">
+    	     The application shall include a final facilities plan approved by the division of water pollution control, and a final environmental impact report.
+        </section>
+        <section prefix="2">
+    	     The application shall include an evaluation of alternatives, including land disposal.
+        </section>
+        <section prefix="3">
+    	     The application shall demonstrate that land disposal is not a feasible alternative for all or a part of the discharge.
+        </section>
+        <section prefix="4">
+    	     The application shall demonstrate how the applicant satisfies all requirements of section sixteen B.
+        </section>
+    </text>
+</law>

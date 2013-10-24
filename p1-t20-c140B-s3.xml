@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140B" order_by="140B" level="3">Control Of Certain Junkyards</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The department may promulgate such rules and regulations governing the location, planting, construction and maintenance of the screens or fences, including the materials used in screening or fencing, as may be required by this chapter.
+    </text>
+</law>

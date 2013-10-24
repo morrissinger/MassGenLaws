@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>180E</section_number>
+    <catch_line>Bond</catch_line>
+    <order_by>180E</order_by>
+    <text>
+        No license under section one hundred and eighty B shall be issued unless and until the applicant therefor deposits with the commissioner a bond for the faithful compliance by such applicant, as licensee, during the term of the license, with the provisions of sections one hundred and eighty A to one hundred and eighty D, inclusive, such bond to run to the commonwealth, to be in the sum of one thousand dollars, and to be in force during the term of the license. At the option of the commissioner, such bond shall have as sureties either two or more individuals or a surety company authorized to do business in the commonwealth.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Transfer Of Funds Following Default Of Debt; Written Notice;  Applicability</catch_line>
+    <order_by>23</order_by>
+    <text>
+        No bank or credit union shall transfer any funds held in any account of the customer in said bank or credit union as a consequence of a default of a debt owed to such institution unless the customer has been provided a written notice, prior to the time the loan is made, which states the institution may transfer such funds to reduce or extinguish such a debt. The provisions of this section shall not apply to open-end-credit plans which are subject to section twenty-one.
+    </text>
+</law>

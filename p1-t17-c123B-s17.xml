@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123B" order_by="123B" level="3">Mental Retardation</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Records; Inspection</catch_line>
+    <order_by>17</order_by>
+    <text>
+        The department shall keep records of the admission, treatment and periodic review of all persons admitted to facilities under its supervision. Such records shall be private and not open to public inspection except (1) upon proper judicial order whether or not in connection with pending judicial proceedings, (2) that the commissioner shall allow the attorney of a patient or resident to inspect records of said patient if requested to do so by the patient, resident or attorney, and (3) that the commissioner may permit inspection or disclosure when in the best interest of the patient or resident as provided in the rules and regulations of the department. This section shall govern the patient records of the department notwithstanding any other provision of law.
+    </text>
+</law>

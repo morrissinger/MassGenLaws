@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Disposition Of Proceeds</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The proceeds of such sale, after deducting reasonable charges and expenses incurred in the storage and sale of such property, shall be applied to the discharge of the lien of such innholder thereon for the board, lodging and other charges of such guest, and any proceeds remaining thereafter shall be paid to the commonwealth.
+    </text>
+</law>

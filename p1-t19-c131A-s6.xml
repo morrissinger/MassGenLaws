@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131A" order_by="131A" level="3">Massachusetts Endangered Species Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Penalties; Disposition Of Fines Received</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who violates the provisions of the first paragraph of section two or the rules and regulations promulgated thereunder, shall be punished by a fine of not less than five hundred dollars or imprisonment for not more than ninety days or both such fine and imprisonment. Upon a second or subsequent conviction such person shall be punished by a fine of not less than five thousand dollars nor more than ten thousand dollars or by imprisonment for not more than one hundred and eighty days or both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Any person who violates the provisions of the second paragraph of section two or rules and regulations promulgated thereunder, shall be punished by a fine of not less than one thousand dollars nor more than ten thousand dollars or by imprisonment for not more than ninety days or both such fine and imprisonment. Upon a subsequent conviction, such person shall be punished by a fine of not less than ten thousand dollars nor more than twenty thousand dollars or by imprisonment for not more than one hundred and eighty days or both such fine and imprisonment. In addition or as an alternative to such penalties, any such person may be ordered to restore the significant habitat to its prior condition.
+        </section>
+        <section prefix="c">
+    	     Any person who violates section 2 or any rule or regulation adopted under this chapter shall be subject to a civil assessment not to exceed $10,000 for each such violation. The civil assessment may be asserted in an action brought on behalf of the commonwealth in a court of competent jurisdiction.
+        </section>
+        <section prefix="d">
+    	     The commission of a prohibited act with respect to each individual animal or plant, or part thereof, shall constitute a separate violation.
+        </section>
+        <section prefix="e">
+    	     All fines and assessments received on account of litigation or settlement thereof for a violation of this chapter or the regulations promulgated thereunder shall be paid to the commonwealth and shall be deposited into the Natural Heritage Endangered Species Fund established pursuant to section 35D of chapter 10 for the purpose of aiding in the protection and enhancement of rare, threatened and endangered species in the commonwealth.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Hazards; Adverse Environmental Effects; Departmental Orders;  Violations</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Whenever it appears to the department that there is an imminent hazard, or a potential threat of unreasonable adverse effect on the environment, or a violation or a potential violation of any provision of this chapter or of any license, certification, permit, order, registration or regulation issued or adopted thereunder, the department may issue to such persons as it deems necessary an order requiring the production of samples and records, or an order imposing restraints on or requiring such action, as it deems necessary. Issuance of an order under this section shall not preclude and shall not be deemed an election to forego any action to recover for damages to interests of the commonwealth or, under section fourteen of this act, for civil penalties or for criminal fines and penalties.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140B" order_by="140B" level="3">Control Of Certain Junkyards</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Establishment Or Maintenance Of Junkyards; Locations</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     screened by natural objects, plantings, fences, or other appropriate means so as not to be visible from the main traveled way of the system, or otherwise removed from sight, or
+        </section>
+        <section prefix="b">
+    	     located within an area which is zoned for industrial use under authority of law, or
+        </section>
+        <section prefix="c">
+    	     located within an unzoned industrial area, which area shall be determined from actual land uses and defined by regulations promulgated by the administrator, or
+        </section>
+        <section prefix="d">
+    	     is not visible from the main traveled way of the system.
+        </section>
+    </text>
+</law>

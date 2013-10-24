@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Notice Of Quarantine</catch_line>
+    <order_by>24</order_by>
+    <text>
+        An inspector who has caused a domestic animal to be quarantined, as provided in section twenty-one, shall immediately give a written notice thereof, with a copy of the order of quarantine, to the director, and shall give such information to no other person.
+    </text>
+</law>

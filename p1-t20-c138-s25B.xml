@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>25B</section_number>
+    <catch_line>Filing Of Schedules; Inspection</catch_line>
+    <order_by>25B</order_by>
+    <text>
+        <section prefix="a">
+    	     No brand of alcoholic beverages shall be sold within the commonwealth to a wholesaler unless schedules, as provided by this section, are filed with the commission and are then in effect.
+        </section>
+        <section prefix="b">
+    	     Each of the schedules hereinafter referred to shall be in writing, duly verified, and filed in the number of copies and form as required by the commission, and shall contain, with respect to each item, the exact brand or trade name, capacity of package, nature of contents, age and proof where stated on the label, the bottle and case price to wholesalers, which prices shall be individual for each item and not in “combination” with any other item, and the number of bottles contained in each case.
+        </section>
+        <section prefix="c">
+    	     The schedule containing the bottle and case price to wholesalers shall be filed by (1) the owner of such brand, or (2) a wholesaler selling such brand and who is designated as agent for the purpose of filing such schedule if the owner of the brand is not licensed by the commission, or (3) with the approval of the commission, by a wholesaler, in the event that the owner of the brand is unable to file a schedule or designate an agent for such purpose.
+        </section>
+        <section prefix="d">
+    	     Each such schedule shall be filed on or before the tenth day of the month on a date to be fixed by the commission, and the prices and discounts therein set forth shall become effective on the first day of the calendar month following the filing thereof and shall be in effect for such calendar month and from month to month thereafter until such time as a new or amended schedule is filed and becomes effective hereunder. No brand of alcoholic beverages shall be sold to any wholesaler except at the price then in effect unless written permission of the commission is granted for good cause shown and for reasons not inconsistent with the purpose of this chapter.
+        </section>
+    </text>
+</law>

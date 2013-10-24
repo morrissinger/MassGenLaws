@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>46A</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>46A</order_by>
+    <text>
+        <section prefix="b">
+    	     the difference between the amount of money received by any person who furnishes employees and the amount paid by him to such employee.
+        </section>
+    </text>
+</law>

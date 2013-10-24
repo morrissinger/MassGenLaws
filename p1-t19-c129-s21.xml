@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Quarantine Of Diseased Animals; Notice Or Order; Records</catch_line>
+    <order_by>21</order_by>
+    <text>
+        An inspector who, upon an examination of a domestic animal, suspects, or has reason to believe, that it is affected with a contagious disease shall immediately cause it to be quarantined or isolated for at least ten days upon the premises of the owner or of the person in whose charge it is found, or in such other place as he may designate, and shall take such other sanitary measures to prevent the spread of such disease as may be necessary or as shall be prescribed by any order or regulation of the director. He shall also deliver to the owner or person in charge of such animal, or to any person having an interest therein, a written notice or order of quarantine signed by him, in such form as the director shall prescribe, and shall enter a copy of said notice upon his records.
+    </text>
+</law>

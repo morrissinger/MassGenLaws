@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>19B</section_number>
+    <catch_line>Lie Detector Tests; Use As Condition Of Employment; Penalty; Civil Action</catch_line>
+    <order_by>19B</order_by>
+    <text>
+        <section prefix="1">
+    	     As used in this section the term “lie detector test” shall mean any test utilizing a polygraph or any other device, mechanism, instrument or written examination, which is operated, or the results of which are used or interpreted by an examiner for the purpose of purporting to assist in or enable the detection of deception, the verification of truthfulness, or the rendering of a diagnostic opinion regarding the honesty of an individual.
+        </section>
+        <section prefix="2">
+    	     It shall be unlawful for any employer or his agent, with respect to any of his employees, or any person applying to him for employment, including any person applying for employment as a police officer, to subject such person to, or request such person to take a lie detector test within or without the commonwealth, or to discharge, not hire, demote or otherwise discriminate against such person for the assertion of rights arising hereunder. This section shall not apply to lie detector tests administered by law enforcement agencies as may be otherwise permitted in criminal investigations.
+        </section>
+        <section prefix="a">
+    	     The fact that such lie detector test was to be, or was, administered outside the commonwealth for employment within the commonwealth shall not be a valid defense to an action brought under the provisions of subsection (3) or (4).
+        </section>
+        <section prefix="b">
+    	     All applications for employment within the commonwealth shall contain the following notice which shall be in clearly legible print:
+        </section>
+        <section prefix="3">
+    	     Any person who violates any provision of this section shall be punished by a fine of not more than one thousand dollars nor less than three hundred dollars. Second and subsequent violations of any provision of this section shall be punishable by a fine of not more than fifteen hundred dollars or by imprisonment for not more than ninety days, or both such fine and imprisonment.
+        </section>
+        <section prefix="4">
+    	     Any person aggrieved by a violation of subsection (2) may institute within three years of such violation and prosecute in his own name and on his own behalf, or for himself and for other similarly situated, a civil action for injunctive relief and any damages thereby incurred, including treble damages for any loss of wages or other benefits. The total awarded damages shall equal or exceed a minimum of five hundred dollars for each such violation. A person so aggrieved and who prevails in such action shall be entitled to an award of the costs of the litigation and reasonable attorney fees.
+        </section>
+    </text>
+</law>

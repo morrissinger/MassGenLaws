@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>95</section_number>
+    <catch_line>General Objectives</catch_line>
+    <order_by>95</order_by>
+    <text>
+        <section prefix="a">
+    	     Uniform standards and requirements for construction and construction materials, compatible with accepted standards of engineering and fire prevention practices, energy conservation and public safety.
+        </section>
+        <section prefix="b">
+    	     Adoption of modern technical methods, devices and improvements which may reduce the cost of construction and maintenance over the life of the building without affecting the health, safety and security of the occupants or users of buildings.
+        </section>
+        <section prefix="c">
+    	     Elimination of restrictive, obsolete, conflicting and unnecessary building regulations and requirements which may increase the cost of construction and maintenance over the life of the building or retard unnecessarily the use of new materials, or which may provide unwarranted preferential treatment of types of classes of materials, products or methods of construction without affecting the health, safety, and security of the occupants or users of buildings.
+        </section>
+    </text>
+</law>

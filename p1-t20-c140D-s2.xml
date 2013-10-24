@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Exempt Transactions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, or to government or governmental agencies or instrumentalities, or to organizations.
+        </section>
+        <section prefix="b">
+    	     Transactions in securities or commodities accounts with a broker-dealer registered with the Securities and Exchange Commission.
+        </section>
+        <section prefix="c">
+    	     Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer, in which the total amount financed exceeds twenty-five thousand dollars.
+        </section>
+        <section prefix="d">
+    	     Transactions under public utility tariffs, if the commissioner determines that the public utilities commission regulates the charges for such public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
+        </section>
+        <section prefix="e">
+    	     Loans made, insured, or guaranteed pursuant to a program authorized by 20 USC 1070, et seq. of Title IV of the Higher Education Act of 1965.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>14A</section_number>
+    <catch_line>Civil Administrative Penalties; Adjudicatory Hearings</catch_line>
+    <order_by>14A</order_by>
+    <text>
+        <section prefix="a">
+    	     The department may adopt and promulgate such regulations as may be necessary for the enforcement of sections 6C to 6I, inclusive, and the licensing requirements of section 10. Said department may assess a civil administrative penalty of up to $1,000 against any person or school administration who violates the requirements of sections 6C to 6I, inclusive, or any regulation promulgated under such sections.
+        </section>
+        <section prefix="b">
+    	     Said department may assess a civil administrative penalty of up to $1,000 against any person who violates the licensing requirement of section 10.
+        </section>
+        <section prefix="c">
+    	     Prior to assessment of the penalty, said department shall provide written notice and an opportunity to correct the violation within 90 days of the issuance of the notice of violation. This penalty shall be assessed in addition to any other civil penalty otherwise provided for by law. Notice of assessment of a penalty pursuant to this section shall be made by service in hand, or by certified mail, return receipt requested, and shall state the amount of the administrative penalty, the date the penalty shall be due, a statement of the violator’s right to an adjudicatory hearing pursuant to chapter 30A regarding the assessment, a statement of the actions the person may take in order to avoid the assessment of the penalty or to avoid waiving the right to a hearing relative to the penalty, and the manner of acceptable payment if an election to waive a hearing is made.
+        </section>
+    </text>
+</law>

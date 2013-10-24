@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="124" order_by="124" level="3">Powers And Duties Of The Department Of Correction</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Reports To Governor</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The commissioner shall, at least once in six months, report in writing to the governor the condition of the correctional institutions of the commonwealth, and shall so report to the governor when, in his judgment, the conditions of administration, financial management or discipline in any of said institutions require executive action.
+    </text>
+</law>

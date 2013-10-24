@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="136" order_by="136" level="3">Observance Of A Common Day Of Rest And Legal Holidays</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Service Or Execution Of Process</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Civil process shall not be served or executed on Sunday, and such service if made shall be void, and the person who serves or executes it shall be liable in damages to the person aggrieved in like manner as if he had no such process; provided, that this section shall not apply to service of such process by publication in a newspaper published on Sunday.
+    </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121F" order_by="121F" level="3">Housing Stabilization And Investment Trust Fund</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter the following words shall, unless the context clearly requires otherwise, have the following meanings:- 
+“Area median income”, income as determined, from time to time, by the United States Department of Housing and Urban Development. 
+“Department”, the department of housing and community development. 
+“Fund”, the Housing Stabilization and Investment Trust Fund established in section 2.
+    </text>
+</law>

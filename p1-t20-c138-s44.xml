@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Sufficiency Of Complaint And Warrant</catch_line>
+    <order_by>44</order_by>
+    <text>
+        The complaint shall particularly designate the building, structure and place to be searched, the alcoholic beverages to be seized, the person by whom they are owned, kept or possessed and intended for sale, and shall allege the intent of such person to sell the same contrary to law. The warrant shall allege that probable cause has been shown for the issuing thereof; and the place to be searched, the alcoholic beverages to be seized, and the person believed to be the owner, possessor, or keeper of such beverages, intending to sell the same contrary to law, shall be designated therein with the same particularity as in the complaint and the complainants shall be summoned to appear as witnesses.
+    </text>
+</law>

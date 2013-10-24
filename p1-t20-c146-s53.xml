@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Necessity Of Licenses; Classification Of Hoisting Machinery;  Exemptions</catch_line>
+    <order_by>53</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall operate derricks, cableways, machinery used for discharging cargoes, temporary elevator cars used on excavation work or used for hoisting building material, when the motive power to operate such machinery is mechanical and other than steam, unless such person holds a license or temporary permit as provided in this section. The owner or user of such hoisting machinery shall not operate, or cause to be operated, such machinery, unless the person operating it is duly licensed or possesses a temporary permit. Any operator of such hoisting machinery when it is being used exclusively for agricultural purposes shall be exempt from this section.
+        </section>
+        <section prefix="b">
+    	     For licensing and temporary permitting purposes, the commissioner shall classify hoisting machinery by categories, depending on size, weight, common usage, capacity, power source or such other characteristics as the commissioner may find appropriate; provided, however, that at least 1 category shall include cranes and other similar equipment and 1 category shall include excavating equipment.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any other provisions of this chapter, actions taken or decisions reached by the department or a representative of the department regarding the issuance, denial, renewal, revocation or suspension of a license or temporary permit to operate hoisting machinery, or appeals resulting from such an issuance, denial, renewal, revocation or suspension, shall be taken or made on the basis of the rules and regulations adopted under this section.
+        </section>
+        <section prefix="2">
+    	     In cases where a district engineering inspector or party issuing a temporary permit finds that the immediate suspension or revocation of a temporary permit to operate hoisting machinery is necessary for the preservation of the public health or safety, the inspector may order such suspension or revocation under the procedures set forth in the regulations promulgated and adopted under this section.
+        </section>
+        <section prefix="e">
+    	     The following entities shall be exempt from this section: (1) a utility company which has self propelled truck mounted cranes, derricks and similar hoisting equipment which is used for the maintenance and construction of the equipment of such company; (2) a company which operates hoisting equipment specifically limited to industrial lift trucks, fork lifts, overhead cranes and other hoisting equipment, specifically authorized by the department and used exclusively on company property; and (3) any company which has equipment such as cranes, derricks and similar hoisting equipment used only on utility company property.
+        </section>
+    </text>
+</law>

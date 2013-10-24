@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>108</section_number>
+    <catch_line>Marketing Agreements Or Orders; Provisions</catch_line>
+    <order_by>108</order_by>
+    <text>
+        <section prefix="a">
+    	     provisions for the establishment of uniform grading, standards, and inspection of any apples delivered by producers or other persons to handlers, processors, distributors or others engaging in the handling thereof, and for the establishment of grading or standards of quality, condition, size, maturity or pack for any apples, and the inspection and grading of such apples, in accordance with such grading or standards so established; and for provisions that no producer, handler processor or distributor of any fresher processed apples for which grading or standards are so established may, except as otherwise provided in such marketing agreement or order; sell, offer for sale, process, distribute or otherwise handle any such apples, whether produced within or without this commonwealth, not meeting and complying with such established grading or standards. For the purposes of this article, the federal and state inspection service shall perform all inspections made necessary by such provisions.
+        </section>
+        <section prefix="b">
+    	     provisions for the establishment of research programs designed to benefit apple production, storage, processing, or marketing and sales.
+        </section>
+        <section prefix="c">
+    	     provisions for advertising and sales promotion designed to benefit apple production, processing or marketing and sales.
+        </section>
+        <section prefix="d">
+    	     such other provisions as may be necessary to effectuate the provisions stated in paragraphs (a) through (c) of this section.
+        </section>
+    </text>
+</law>

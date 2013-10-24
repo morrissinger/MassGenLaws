@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Treatment Of Committed Persons With Antipsychotic Medication;  Petition; Notice; Hearing; Guardian</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        <section prefix="a">
+    	     With respect to any patient who is the subject of a petition for a commitment or an order of a commitment for care and treatment under the provisions of sections seven, eight, fifteen, sixteen or eighteen, the superintendent of a facility or medical director of the Bridgewater state hospital may further petition the district court or the division of the juvenile court department in whose jurisdiction the facility is located (i) to adjudicate the patient incapable of making informed decisions about proposed medical treatment, (ii) to authorize, by an adjudication of substituted judgment, treatment with antipsychotic medications, and (iii) to authorize according to the applicable legal standards such other medical treatment as may be necessary for the treatment of mental illness.
+        </section>
+        <section prefix="b">
+    	     A petition filed under this section shall be separate from any pending petition for commitment and shall not be heard or otherwise considered by the court unless the court has first issued an order of commitment on the pending petition for commitment.
+        </section>
+        <section prefix="c">
+    	     Whenever a court receives a petition filed under the provisions of this section, such court shall notify the person, and his nearest relative or guardian of the receipt of such petition and of the date a hearing on such petition is to be held. The hearing shall be commenced within fourteen days of the filing of the petition unless a delay is requested by the person or his counsel, provided that the commencement of such hearing shall not be delayed beyond the date of the hearing on the commitment petition if the petition was filed concurrently with a petition for commitment.
+        </section>
+        <section prefix="d">
+    	     After a hearing on the petition regarding antipsychotic medication treatment the court shall not authorize medical treatment unless it (i) specifically finds that the person is incapable of making informed decisions concerning the proposed medical treatment, (ii) upon application of the legal substituted judgment standard, specifically finds that the patient would accept such treatment if competent, and (iii) specifically approves and authorizes a written substituted judgment treatment plan. The court may base its findings exclusively upon affidavits and other documentary evidence if it (i) determines, after careful inquiry and upon representations of counsel, that there are not contested issues of fact and (ii) includes in its findings the reasons that oral testimony was not required.
+        </section>
+        <section prefix="e">
+    	     The court may delegate to a guardian who has been duly appointed by a court of competent jurisdiction the authority to monitor the antipsychotic medication treatment process to ensure that an antipsychotic medication treatment plan is followed, provided such a guardian is readily available for such purpose. Approval of a treatment plan shall not be withheld, however, because such a guardian is not available to perform such monitoring. In such circumstances, the court shall monitor the treatment process to ensure that the treatment plan is followed.
+        </section>
+        <section prefix="f">
+    	     Any authorization for treatment that is ordered pursuant to the provisions of this section shall expire at the same time as the expiration of the order of commitment that was in effect when the authorization for treatment was ordered; provided that subsequent authorizations may be ordered and any party may at any time petition the court for modification of a medical treatment authorization that has been ordered pursuant to the standards and procedures established in this section.
+        </section>
+        <section prefix="g">
+    	     An adjudication of competency or incompetency with respect to treatment for mental illness by a court pursuant to this section shall be binding upon the juvenile court department in any subsequent guardianship proceedings only with respect to matters which were the subject of the district court or juvenile court department adjudication.
+        </section>
+        <section prefix="h">
+    	     Any privilege established by section one hundred and thirty-five of chapter one hundred and twelve or by section twenty B of chapter two hundred and thirty-three, relating to confidential communications, shall not prohibit the filing of reports or affidavits, or the giving of testimony, pursuant to this section, for the purpose of obtaining treatment of a patient, provided that such patient has been informed prior to making such communications that they may be used for such purpose and has waived the privilege.
+        </section>
+    </text>
+</law>

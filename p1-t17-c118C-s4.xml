@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118C" order_by="118C" level="3">Coverage Of Certain Employees Under The Federal Social Security Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Extension Of Federal Benefits To Employees; Plan; Approval;  Hearing; Notice; Contribution Fund; Recovery Of Delinquent Payments</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Each instrumentality is hereby authorized to submit for approval by the state agency a plan for extending the benefits of Title II of the Social Security Act, in conformity with applicable provisions of such act, to employees of such instrumentality. Each such plan and any amendment thereof shall be approved by the state agency if it finds that such plan, or such plan as amended, is in conformity with such requirements as are provided in regulations of the state agency, provided, that no such plan shall be approved unless—
+        </section>
+        <section prefix="1">
+    	     It is in conformity with the requirements of the Social Security Act and with the agreement entered into under section three;
+        </section>
+        <section prefix="2">
+    	     It provides that all services which constitute employment as defined in section two and are performed in the employ of the instrumentality by employees thereof, shall be covered by the plan;
+        </section>
+        <section prefix="3">
+    	     It specifies the source or sources from which the funds necessary to make the payments required by paragraph (1) of subsection (c) and by subsection (d) are expected to be derived, and contains reasonable assurance that such sources will be adequate for such purpose;
+        </section>
+        <section prefix="4">
+    	     It provides for such methods of administration of the plan by the instrumentality as are found by the state agency to be necessary for the proper and efficient administration of the plan;
+        </section>
+        <section prefix="5">
+    	     It provides that the instrumentality will make such reports, in such form and containing such information, as the state agency may from time to time require, and comply with such provisions as the state agency or the Federal Security Administrator may from time to time find necessary to assure the correctness and verification of such reports; and
+        </section>
+        <section prefix="6">
+    	     It authorizes the state agency to terminate the plan in its entirety, in the discretion of the state agency, if it finds that there has been a failure to comply substantially with any provision contained in such plan, such termination to take effect at the expiration of such notice and on such conditions as may be provided by regulations of the state agency, and may be consistent with the provisions of the Social Security Act.
+        </section>
+        <section prefix="b">
+    	     The state agency shall not finally refuse to approve a plan submitted by an instrumentality under subsection (a), and shall not terminate an approved plan, without reasonable notice and opportunity for hearing to the instrumentality affected thereby.
+        </section>
+        <section prefix="2">
+    	     Each instrumentality required to make payments under paragraph (1) of this subsection is authorized, in consideration of the employee’s retention in, or entry upon, employment, to impose upon each of its employees, as to services which are covered by an approved plan, a contribution with respect to his wages not exceeding the amount of tax which would be imposed by section fourteen hundred of the Federal Insurance Contributions Act if such services constituted employment within the meaning of that act, and to deduct the amount of such contribution from his wages as and when paid. Contributions so collected shall be paid into the contribution fund in partial discharge of the liability of such instrumentality under paragraph (1) of this subsection. Failure to deduct such contribution shall not relieve the employee or employer of liability therefor.
+        </section>
+        <section prefix="d">
+    	     Delinquent payments due under paragraph (1) of subsection (c) may, with interest at the rate of six per cent per annum, be recovered by action in a court of competent jurisdiction against the instrumentality liable therefor, or may, at the request of the state agency, be deducted from any other moneys payable to such instrumentality by any department or agency of the commonwealth.
+        </section>
+    </text>
+</law>

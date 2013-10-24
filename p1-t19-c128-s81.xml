@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>81</section_number>
+    <catch_line>Minor Violations; Reporting</catch_line>
+    <order_by>81</order_by>
+    <text>
+        The commissioner or his representative shall not be required to report for prosecution, or for the institution of seizure proceedings if there are minor violations of the preceding sections when he believes that the public interest will be best served by a suitable notice of warning in writing.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Review Of Matters Of Law; Application For Discharge; Notice; Hearing</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Matters of law arising in commitment hearings, antipsychotic medication hearings or incompetency for trial proceedings in a district court may be reviewed by the appellate division of the district courts in the same manner as the civil cases generally.
+        </section>
+        <section prefix="b">
+    	     Any person may make written application to a justice of superior court at any time and in any county, stating that he believes or has reason to believe that a person named in such application is retained in a facility or the Bridgewater state hospital, who should no longer be so retained, or that a person named in such application is the subject of a medical treatment order issued by a district court or a division of the juvenile court department and should not be so treated, giving the names of all persons interested in his confinement or medical treatment and requesting his discharge or other relief. The justice within seven days thereof shall order notice of the time and place for hearing to be given to the superintendent or medical director and to such other persons as he considers proper; and such hearing shall be given promptly before a justice of the superior court in any county. The justice shall appoint an attorney to represent any applicant whom he finds to be indigent. The alleged mentally ill person may be brought before the justice at the hearing upon a writ of habeas corpus, upon a request approved by the justice. Pending the decision of the court such person may be retained in the custody of the superintendent or medical director. If the justice decides that the person is not mentally ill or that failure to retain the person in a facility or the Bridgewater state hospital would not create a likelihood of serious harm; has not engaged in repeated and recent incidents of serious self-destructive behavior or assaultive behavior as an inpatient at a facility or an inmate of a place of detention; can be properly treated in any other facility licensed, operated or regulated by the department, said person shall be discharged. If the justice decides that a patient at the Bridgewater state hospital does not require strict security, he shall be transferred to a facility. If the justice decides that a person who is the subject of a medical treatment order issued by a district court or a division of the juvenile court department pursuant to section eight B should not be treated, the justice shall issue an appropriate order modifying or vacating such order and, where such previous order is modified, the court shall monitor said modified order by means of a guardian or otherwise as provided in paragraph (e) of section eight B.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>105</section_number>
+    <catch_line>Marketing Orders; Issuance; Notice And Hearing; Amendment Or Termination Of Orders</catch_line>
+    <order_by>105</order_by>
+    <text>
+        <section prefix="1">
+    	     approval of not less than sixty-five per cent of the producers participating in a referendum vote, and having marketed not less than fifty-one per cent of the total quantity of apples marketed in the next preceding marketing season by all producers that voted in the referendum, or
+        </section>
+        <section prefix="2">
+    	     approval of not less than fifty-one per cent of the producers participating in a referendum vote, and having marketed not less than sixty-five per cent of the total quantity of apples marketed in the next preceding marketing season by all producers that voted in the referendum.
+        </section>
+    </text>
+</law>

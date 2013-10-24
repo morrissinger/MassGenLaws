@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123B" order_by="123B" level="3">Mental Retardation</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Instruction And Education; Work Programs; Sale Of Work Products</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     In cooperation with other state departments and agencies, the department shall cause to be given to persons under its care instruction and education as may be appropriate for such persons to undertake, especially persons who are unable to engage in programs for resident-trainees.
+        </section>
+        <section prefix="b">
+    	     In cooperation with other state departments and agencies the department shall cause to be established at each facility programs for persons under its care who would be assisted by performing work in or about such facility. The department shall pay or credit such trainee for work performed by him under said program in accordance with payment schedules established by the department in its regulations and approved by the commissioner of administration.
+        </section>
+        <section prefix="c">
+    	     The department may permit the sale of the work products of any person under its care on such conditions as it shall determine. The department shall also determine the price for which said goods may be sold, and the portion, if any, of the proceeds of each sale which shall be returned to the commonwealth to reimburse it for its costs in connection therewith. The balance of the proceeds of any such sale shall be held in trust in accordance with the provisions of paragraph (a) of section twelve.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>37A</section_number>
+    <catch_line>Removal And Testing Of Fuel Storage Tanks; Grant Programs For Municipalities And Agencies; Powers And Duties Of Administrative Review Board</catch_line>
+    <order_by>37A</order_by>
+    <text>
+        <section prefix="1">
+    	     No grant shall be awarded for the removal or replacement of any fuel storage tank unless the city, town, district, or other body politic, not to include agencies or authorities of the commonwealth, that owns or operates the tank files with the board, within six months after the initial publication in the Massachusetts Register of regulations implementing this section, a statement that it has removed or replaced such tank on or after April first, nineteen hundred and ninety-one.
+        </section>
+        <section prefix="2">
+    	     A city, town, district or other body politic, not to include agencies or authorities of the commonwealth, which removes or replaces a fuel storage tank after the effective date of implementation of said regulations may file an application for a grant with the board within one year after removing or replacing such tank. This clause shall not be construed to limit the board’s authority to accept application from a city, town, district, or other body politic, not to include agencies or authorities of the commonwealth, that intends to remove or replace a fuel storage tank.
+        </section>
+        <section prefix="3">
+    	     A grant for the removal or replacement of a fuel storage tank may be made either in a single payment or in annual partial payments for a period not to exceed ten years, as the board shall determine, provided that no grant, whether issued as a single payment or in annual partial payments, shall exceed fifty percent of the total cost of the removal of the fuel storage tank which is the subject of the grant.
+        </section>
+    </text>
+</law>

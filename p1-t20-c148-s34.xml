@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Violation Of Statutes</catch_line>
+    <order_by>34</order_by>
+    <text>
+        Except as otherwise provided, any person violating any provision of this chapter shall be liable to a fine of one hundred dollars, or, in case of a continuing offence after notice of such violation, to a fine of not more than one hundred dollars for every day during which the violation continues.
+    </text>
+</law>

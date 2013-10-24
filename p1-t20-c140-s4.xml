@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Contents Generally; Coverage; Term</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Every license of an innholder or common victualler shall specify the street and number, if any, of the building where the business is to be carried on or give some other particular description thereof, and the license shall not protect a licensee who carries on his business in any other place. Such licenses shall expire on December thirty-first of each year; but they may be granted during December, to take effect on January first following.
+    </text>
+</law>

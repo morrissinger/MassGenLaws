@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Proceedings To Commit Dangerous Persons; Notice; Hearing; Orders;  Jurisdiction</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     After a hearing, unless such hearing is waived in writing, the district court or the division of the juvenile court department shall not order the commitment of a person at a facility or shall not renew such order unless it finds after a hearing that (1) such person is mentally ill, and (2) the discharge of such person from a facility would create a likelihood of serious harm.
+        </section>
+        <section prefix="b">
+    	     After hearing, unless such hearing is waived in writing, the district court or the division of the juvenile court department shall not order the commitment of a person at the Bridgewater state hospital or shall not renew such order unless it finds that (1) such person is mentally ill; (2) such person is not a proper subject for commitment to any facility of the department; and (3) the failure to retain such person in strict custody would create a likelihood of serious harm. If the court is unable to make the findings required by this paragraph, but makes the findings required by paragraph (a), the court shall order the commitment of the person to a facility designated by the department.
+        </section>
+        <section prefix="c">
+    	     The court shall render its decision on the petition within ten days of the completion of the hearing, provided, that for reasons stated in writing by the court, the administrative justice for the district court department may extend said ten day period.
+        </section>
+        <section prefix="d">
+    	     The first order of commitment of a person under this section shall be valid for a period of six months and all subsequent commitments shall be valid for a period of one year; provided that if such commitments occur at the expiration of a commitment under any other section of this chapter, other than a commitment for observation, the first order of commitment shall be valid for a period of one year; and provided further, that the first order of commitment to the Bridgewater state hospital of a person under commitment to a facility shall be valid for a period of six months. If no hearing is held before the expiration of the six months commitment, the court may not recommit the person without a hearing.
+        </section>
+        <section prefix="e">
+    	     In the event that the hearing is waived and on the basis of a petition filed under the authority of this chapter showing that a person is mentally ill and that the discharge of the person from a facility would create a likelihood of serious harm, the district court or the division of the juvenile court department which has jurisdiction over the commitment of the person may order the commitment of the person to such facility.
+        </section>
+        <section prefix="f">
+    	     In the event that the hearing is waived and on the basis of a petition filed under the authority of this chapter showing that a person is mentally ill, that the person is not a proper subject for commitment to any facility of the department and that the failure to retain said person in strict security would create a likelihood of serious harm, the district court or the division of the juvenile court department which has jurisdiction over a facility, or the Brockton district court if a person is retained in the Bridgewater state hospital, may order the commitment of the person to said hospital.
+        </section>
+    </text>
+</law>

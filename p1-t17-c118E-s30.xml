@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Time Of Payment</catch_line>
+    <order_by>30</order_by>
+    <text>
+        When the division determines that an applicant is eligible for Medicaid, it shall pay for eligible care and services furnished on or after the date of application. Payment shall be made to the provider, institution or insurance entity supplying medical services. The date of application for Medicaid of an individual who has applied for financial assistance under the provisions of chapter one hundred and eighteen A or section one hundred and thirty-one of chapter six, shall be deemed to be the date of application for such financial assistance, whether or not such financial assistance is granted. If consistent with Title XIX of the federal Social Security Act and the regulations established thereunder, the division shall pay for eligible care and services furnished to an eligible applicant during the three months immediately prior to the month in which the applicant filed his or her application; provided, however, that, at the time such care or services are furnished to such individual, that individual upon application would have been eligible for Medicaid pursuant to this chapter.
+    </text>
+</law>

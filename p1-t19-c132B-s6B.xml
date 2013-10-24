@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Pesticide Use By Utilities; Notice; Development Of Policies To Reduce Pesticide Use Along Roadways; Personal Protection Equipment And Clothing</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        <section prefix="a">
+    	     No gas, electric, telephone or other utility company licensed to do business in the commonwealth, nor any agency of the commonwealth or any of its political subdivisions, nor any authority, as defined in section 39 of chapter 3, nor any private entity or their agent, shall spray, release, deposit or apply any pesticide to any land which it owns, or as to which it holds an easement or similar right and over which it maintains power, high tension or other lines, or to any roadway, railway, or other transportation layout, without first notifying the department and, by registered mail, the mayor, city manager or chair of the board of selectmen and the conservation commission in the city or town where such application is to occur 21 days before such spraying, release, deposit or application, and without first publishing conspicuous notice in at least one newspaper of general circulation in each city or town where such land lies at least 48 hours prior to such spraying, release, deposit or application. Such notice shall appear in the local section of the newspaper and measure at least four by five inches in size. The published notice shall include: the method and locations of pesticide spraying, release, deposit or application; the approximate dates on which spraying, release, deposit or application shall commence and conclude, but such spraying, release, deposit or application shall not commence more than ten days before nor conclude more than ten days after such approximate dates; a list of potential pesticides to be used; a description of the purpose of the spraying, release, deposit or application; and the name, title, business address and phone number of a designated contact person from whom any citizen may request further information.
+        </section>
+        <section prefix="b">
+    	     The notice to the city or town where the affected land lies shall contain the following information: the method and locations of pesticide spraying, release, deposit or application; the approximate dates on which such spraying, release, deposit or application shall commence and conclude, but such spraying, release, deposit or application shall not commence more than ten days before nor conclude more than ten days after such approximate dates; the type of pesticide to be used and a copy of all information supplied by the manufacturers thereof relative to the pesticide; a department-approved fact sheet and United States Environmental Protection Agency registration number for each pesticide; the name, title, business address and phone number of the certified commercial applicator, certified private applicator or licensed applicator, or the contractor, employers or employees responsible for carrying out the pesticide spraying, release, deposit or application.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any other provision of law, all agencies of the commonwealth and all authorities, as defined in section 39 of chapter 3, shall develop policies to eliminate or, if necessary, reduce the use of pesticides for any vegetation management purpose along any roadway.
+        </section>
+        <section prefix="d">
+    	     Any employee of any state agency, or authority, as defined in section 39 of chapter 3, when spraying, releasing, depositing or applying pesticides, supervising the use of pesticides, or when present during the spraying, release, deposit or application of pesticides, shall be provided with personal protection equipment and clothing in conformance with all federal and state laws and regulations pertaining to pesticide applications. This shall include, but not necessarily be limited to, protections according to Material Safety Data Sheets (MSDS), the product label, and any other supportive technical data provided by the manufacturer.
+        </section>
+    </text>
+</law>

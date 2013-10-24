@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118" order_by="118" level="3">Aid To Families With Dependent Children</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Reports Of Department</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The department shall, in addition to its annual report, make such reports to the Secretary of Health, Education and Welfare under the Federal Social Security Act, as amended, as may be necessary to secure to the commonwealth the benefits of said act.
+    </text>
+</law>

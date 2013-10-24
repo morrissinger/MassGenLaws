@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="134" order_by="134" level="3">Lost Goods And Stray Beasts</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Rights Of Owner And Finder Of Stray Beasts</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If the owner of stray beasts appears within one year after the finding thereof, and proves title thereto, he shall, if they have not been sold under the preceding section, have restitution thereof upon payment, except as provided in section two, of all reasonable expenses incurred by the finder in keeping such beasts and in complying with this chapter; but if they have been sold he shall be entitled to receive the proceeds of the sale after deducting the expenses aforesaid. If no such owner appears within said year the beasts, or the proceeds, shall enure to the finder, provided he has complied with this chapter.
+    </text>
+</law>

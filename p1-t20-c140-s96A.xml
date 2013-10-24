@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>96A</section_number>
+    <catch_line>Securities; Public Sale; Permit, Necessity, Revocation</catch_line>
+    <order_by>96A</order_by>
+    <text>
+        No security, as defined in clause (k) of section four hundred and one of chapter one hundred and ten A, issued by a person licensed under section ninety-six shall be sold or advertised for sale to the public without a permit issued by the commissioner and subject to such conditions as the commissioner shall determine. The commissioner may, after notice and hearing, revoke such permit for violation of any such condition.
+    </text>
+</law>

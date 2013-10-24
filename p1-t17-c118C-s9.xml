@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118C" order_by="118C" level="3">Coverage Of Certain Employees Under The Federal Social Security Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Partial Invalidity</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
+    </text>
+</law>

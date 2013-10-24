@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123B" order_by="123B" level="3">Mental Retardation</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Voluntary Admissions; Withdrawal; Notice; Examination</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Any person retained in a facility under the provisions of section six shall be free to leave such facility at any time, and any parent or guardian who requested the admission of such person may withdraw such person at any time, upon giving written notice to the superintendent. The superintendent may restrict the right to leave or withdraw to normal working hours and weekdays and, in his discretion, may require persons or the parents or guardians of persons to give three days written notice of their intention to leave or withdraw. Where persons or their parents or guardians are required to give three days notice of intention to leave or withdraw, an examination of such persons may be conducted to determine their clinical progress, their suitability for discharge and to investigate other aspects of their case including their legal competency and their family, home or community situation in the interest of discharging them from the facility.
+    </text>
+</law>

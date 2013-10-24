@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Personal Data; Purposes For Which Disclosure Permitted; Safeguards; Exceptions; Unauthorized Inspection Or Disclosure; Penalties</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="a">
+    	     Personal data collected and maintained by the IV-D agency shall not be a public record under chapter 66 and access to this data shall be available only to employees of the IV-D agency and its contractors only to the extent reasonably necessary for the performance of said contractors duties; provided, however, that the IV-D agency may disclose such data for purposes connected with establishing paternity, establishing, modifying or enforcing child support obligations pursuant to this chapter and Title IV, Part D of the Social Security Act; and provided further, that subject to subsection (b), section 5B and section 21 of chapter 62C, the IV-D agency may disclose personal data-
+        </section>
+        <section prefix="1">
+    	     to any state or federal public assistance program or to the IV-D agency of another state for purposes connected with the administration of such program or of the child support enforcement program, as authorized by Title IV, Part D of the Social Security Act and by the secretary of the federal department of health and human services;
+        </section>
+        <section prefix="2">
+    	     for the purpose of conducting information comparisons pursuant to section 4;
+        </section>
+        <section prefix="3">
+    	     to persons authorized to receive information from the Federal Parent Locator Service established pursuant to Title IV, Part D of the Social Security Act;
+        </section>
+        <section prefix="4">
+    	     as provided in section 21 of chapter 62C, section 8 of chapter 62E, and section 10 of chapter 14, to the director of the bureau of special investigations for purposes directly connected with detecting and preventing fraud in any assistance program administered by the department of transitional assistance or any program administered by the department of children and families;
+        </section>
+        <section prefix="5">
+    	     to the department of children and families for purposes directly connected with an investigation under section 51B of chapter 119 or proceedings related to termination of parental rights or adoption;
+        </section>
+        <section prefix="6">
+    	     as provided in section 10 of chapter 62D, for the purpose of setoff debt collection pursuant to the provisions of said chapter 62D;
+        </section>
+        <section prefix="7">
+    	     to a person authorized in writing by the parent or, in the case of the child, by the custodial parent or legal guardian of the child, to receive such personal data;
+        </section>
+        <section prefix="8">
+    	     for purposes directly connected to obtaining health care coverage for a child receiving IV-D services, to an employer or provider of health care coverage;
+        </section>
+        <section prefix="9">
+    	     in the case of personal data about an individual parent, to that parent or, in the case of personal data about the child, to the custodial parent or legal guardian of the child.
+        </section>
+        <section prefix="b">
+    	     The IV-D agency shall safeguard personal data if the IV-D agency is provided with reasonable evidence of a risk of harm. A state agency, court, IV-D agency of another state, obligor, obligee, and such other persons or entities as the IV-D agency may specify may provide the IV-D agency with reasonable evidence of a risk of harm in such manner as the IV-D agency may require. The IV-D agency shall not be required to safeguard personal data for longer than two years unless the IV-D agency is provided with reasonable evidence of a continued risk of harm in such manner as the IV-D agency may require. The IV-D agency shall notify individuals whose personal data is safeguarded under this section that in order for the safeguards to remain in effect, such individuals must provide the IV-D agency every two years with reasonable evidence of a continued risk of harm. For the purposes of this section, “reasonable evidence of a risk of harm” shall mean reasonable evidence that the release of information may result in physical harm to the parent or child, that the release of information may result in emotional harm to the parent or child which would significantly reduce the parent’s capacity to care for the child, or would significantly reduce the parent or child’s ability to function adequately, or that a protective order or restraining order has been issued on behalf of the parent or the child pursuant to section 18 or 34B of chapter 208, section 32 of chapter 209, section 3, 4 or 5 of chapter 209A, or section 15 or 20 of chapter 209C, or similar law of another jurisdiction.
+        </section>
+        <section prefix="c">
+    	     The IV-D agency shall have in effect safeguards to ensure the integrity, accuracy, and completeness of, access to, and use of data, including personal data and data in the automated system required by section 4, which shall include: (1) written policies concerning access to data by IV-D agency personnel and its contractors, and sharing of data with other persons, which permit access to and use of data only to the extent necessary to carry out the purposes of the child support enforcement program, and which specify the data which may be used for particular program purposes, and the personnel permitted access to such data; (2) systems controls to ensure strict adherence to said policies; (3) routine monitoring of access to and use of the automated system required by section 4, through methods such as audit trails, to guard against and promptly identify unauthorized access or use; (4) procedures to ensure that all personnel, including employees of the IV-D agency and its contractors, who may have or had access to or who may be or were required to use confidential program data and personal data are informed of applicable requirements and penalties, including those in this section, section 6103 of the Internal Revenue Code of 1986 and section 21 of chapter 62C, and are adequately trained in security procedures; (5) penalties, as provided in this section for willful inspection or disclosure of, or unauthorized access to, personal data; and (6) such other safeguards as the commissioner of revenue and the secretary of the federal Department of Health and Human Services may specify in regulations.
+        </section>
+        <section prefix="d">
+    	     Any unauthorized disclosure or unauthorized willful inspection made in a good faith effort to comply with this section shall not be considered a violation of this section.
+        </section>
+    </text>
+</law>

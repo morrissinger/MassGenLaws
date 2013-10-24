@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131A" order_by="131A" level="3">Massachusetts Endangered Species Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Fees</catch_line>
+    <order_by>7</order_by>
+    <text>
+        The director may establish fees for environmental review and assessment pursuant to this chapter, the amount of which shall be determined in accordance with section 3B of chapter 7. Monies received by the commonwealth from fees collected under this chapter shall be credited to the Natural Heritage and Endangered Species Fund, established by section 35D of chapter 10.
+    </text>
+</law>

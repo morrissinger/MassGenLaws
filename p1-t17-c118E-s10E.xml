@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>10E</section_number>
+    <catch_line>Healthy Start Program; Medical Assistance For Pregnant Women And Infants; Eligibility; Types Of Assistance; Protection From Billing And Collection Practices</catch_line>
+    <order_by>10E</order_by>
+    <text>
+        <section prefix="i">
+    	     all medically necessary care to maintain health during the course of the pregnancy and delivery, including newborn hospital care;
+        </section>
+        <section prefix="ii">
+    	     all medically necessary postpartum obstetric and gynecological care;
+        </section>
+        <section prefix="iii">
+    	     newborn care, including one postpartum pediatric ambulatory visit; and
+        </section>
+        <section prefix="iv">
+    	     outreach services designed to identify and encourage the participation of pregnant women and infants in this program.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148A" order_by="148A" level="3">Code Enforcement Officer</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Local Code Enforcement Officers; Written Notice Of Code Violation;  Fine; Hearing; Appeal</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary, any local code enforcement officer, empowered to enforce violations of the state building code or the state fire code may, as an alternative to initiating criminal proceedings, give to the offender a written notice of a code violation. Such notice shall contain the name and address, if known, of the offender, the specific offense charged and the time and place of the violation. The notice shall be signed by the local code enforcement officer and shall be signed by the offender whenever practicable in acknowledgement that such notice has been received. The local code enforcement officer shall, if possible, deliver to the offender a copy of the notice at the time and place of the violation. If it is not possible to deliver a copy of the notice to the offender at the time and place of the violation, the copy shall be mailed or delivered by the local code enforcement officer, or by the head of his department or by any person authorized by such department head, to the offender’s last known address, within 15 days after the violation or discovery thereof. Such notice as so mailed shall be deemed a sufficient notice. A certificate of the person so mailing such notice that it has been mailed in accordance with this section shall be prima facie evidence thereof. The notice shall be executed in triplicate.
+        </section>
+        <section prefix="b">
+    	     The local code enforcement officer shall indicate on the notice of violation that the violation is either: (1) a written warning; or (2) a code violation. If the notice is for 1 or more code violations, the code enforcement officer shall indicate on the notice the scheduled assessment for each violation alleged. If the notice of violation is for a continuing condition, the code enforcement officer shall indicate that the condition must be corrected within 24 hours of receipt of such notice. Failure to correct the condition within 24 hours may serve as grounds for criminal prosecution pursuant to section 34C of chapter 148.
+        </section>
+        <section prefix="c">
+    	     If the notice is for 1 or more code violations, the alleged violator shall return the notice of violation by mail, personally or by authorized person to the municipal hearing officer and shall, within 21 days, either: (1) pay in full the scheduled assessment; or (2) request a hearing before the municipal hearing officer. Any amounts paid shall be payable to the city or town, as the case may be. If the alleged violator requests, in a timely manner, a hearing before the municipal hearing officer, the municipal hearing officer shall schedule a hearing not later than 45 days after receiving such hearing request. The municipal hearing officer shall duly notify the alleged violator of the date, time and location of the hearing. In no case shall the hearing officer, so designated, be an employee or officer of the fire department or building department associated with the code enforcement officer who issued the notice of violation. The hearing by the municipal hearing officer shall be informal and the formal rules of evidence shall not apply.
+        </section>
+        <section prefix="d">
+    	     Any person aggrieved by a decision of the municipal hearing officer, after a hearing, may appeal to the housing court within the county in which the violation occurred and shall be entitled to a hearing before a clerk magistrate of the court. The appeal shall be filed by the aggrieved person within 10 days after receiving notice of the decision from the municipal hearing officer who conducted the hearing.
+        </section>
+        <section prefix="e">
+    	     Any person who has received a notice of violation issued in accordance with this section who, within the prescribed time, fails to pay the scheduled assessment or fails to exercise his right to request a hearing before the municipal hearing officer or who fails to appear at the time and place of the hearing, shall be deemed responsible for the code violations as stated in the notice of violation and such finding of responsibility shall be considered prima facie evidence of a finding of responsibility for the code violation in any civil proceeding regarding said violation and shall be admissible as evidence in a subsequent criminal proceeding. If the condition which caused the notice of violation to issue continues to exist, the finding of responsibility may also be used by the city or town as prima facie evidence of the existence of a code violation in any proceeding to suspend or revoke any license, permit or certificate issued by such municipality, the state fire marshal or commissioner of public safety relative to said building, structure or premises pending the correction of the condition.
+        </section>
+    </text>
+</law>

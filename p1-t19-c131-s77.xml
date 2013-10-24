@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>77</section_number>
+    <catch_line>Ferrets; Possession And Use</catch_line>
+    <order_by>77</order_by>
+    <text>
+        <section prefix="1">
+    	     As a household pet; provided, however, that such pet has been at the time of purchase neutered or spayed and has received inoculation against distemper and rabies or other inoculations that the director may require; and provided, further, that evidence of neutering, spaying and inoculation is kept available for inspection by the director.
+        </section>
+        <section prefix="2">
+    	     For breeding; provided, however, that no person shall possess a ferret for breeding purposes without obtaining a license from the director, which shall be renewed every year at a fee to be determined by the secretary of administration and finance which shall not be less than one thousand dollars. Breeders licensed under this section shall be allowed to offer for either wholesale or retail sale ferrets that are the offspring of animals propagated or maintained by the breeder; provided, however, that such ferrets offered for wholesale and retail sale are neutered or spayed and have received inoculations against distemper and rabies or other inoculations that the director may require, and evidence of such neutering, spaying and inoculation is kept available by the seller for inspection by said director.
+        </section>
+        <section prefix="3">
+    	     As required for research by a recognized research institution. Such research institutions shall be allowed to possess ferrets for breeding and research purposes and shall not be subject to the provisions of subparagraph (2); provided, however, that the offspring of such research breeding shall not be offered for sale or trade.
+        </section>
+        <section prefix="4">
+    	     For education by a recognized educational institution; provided, however, that such ferret at the time of purchase has been neutered or spayed and has received inoculation against distemper and rabies or other inoculations that the director may require; and provided, further, that evidence of neutering, spaying and inoculation is kept available for inspection by the director.
+        </section>
+    </text>
+</law>

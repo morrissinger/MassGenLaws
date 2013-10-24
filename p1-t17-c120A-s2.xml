@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     “Accused delinquent”, a person charged with an offense that, if committed by an adult, would be a criminal offense;
+        </section>
+        <section prefix="2">
+    	     “Adjudicated delinquent”, a person found to have committed an offense that, if committed by an adult, would be a criminal offense;
+        </section>
+        <section prefix="3">
+    	     “Accused status offender”, a person charged with an offense that would not be a criminal offense if committed by an adult;
+        </section>
+        <section prefix="4">
+    	     “Adjudicated status offender”, a person found to have committed an offense that would not be a criminal offense if committed by an adult; and
+        </section>
+        <section prefix="5">
+    	     “Non-offender”, a person in need of supervision who has not been accused or adjudicated a status offender or a delinquent.
+        </section>
+    </text>
+</law>

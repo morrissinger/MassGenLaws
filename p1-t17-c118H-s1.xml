@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118H" order_by="118H" level="3">Commonwealth Care Health Insurance Program</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, the following words shall, unless the context clearly requires otherwise have the following meanings:— 
+“Board”, the board of the commonwealth health insurance connector, established by subsection (b) of section 2 of chapter 176Q. 
+“Connector”, the commonwealth health insurance connector, established by subsection (a) of section 2 of chapter 176Q. 
+“Eligible health insurance plan”, a health insurance plan that meets the criteria, established by the board, for receiving premium assistance payments; provided, that no eligible health insurance plan may require an annual deductible. 
+“Eligible individual”, an individual, including a sole proprietor, who meets the eligibility requirements in section 3. 
+“Fund”, the Commonwealth Care Trust Fund, established by section 2OOO of chapter 29. 
+“Premium contribution payment”, a payment made by an enrollee in the program towards an eligible health insurance plan, under a fee schedule established by the board. 
+“Premium assistance payment”, a payment of health insurance premiums made by the connector to an eligible health insurance plan on behalf of an enrollee in the program, under a schedule established by the board. 
+“Program”, the commonwealth care health insurance program, established by section 2. 
+“Resident”, a person living in the commonwealth, as defined by the office by regulation, including a qualified alien, as defined by section 431 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. No. 104-193, or a person who is not a citizen of the United States but who is otherwise permanently residing in the United States under color of law; provided, however, that the person has not moved into the commonwealth for the sole purpose of securing health insurance under this chapter; provided, further, that confinement of a person in a nursing home, hospital or other medical institution in the commonwealth shall not, in and of itself, suffice to qualify a person as a resident.
+    </text>
+</law>

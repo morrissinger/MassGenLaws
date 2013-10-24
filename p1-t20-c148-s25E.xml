@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>25E</section_number>
+    <catch_line>Residential Gas Appliances; Sale Or Installation</catch_line>
+    <order_by>25E</order_by>
+    <text>
+        <section prefix="a">
+    	     Sell or offer for sale by advertisement or otherwise or display for sale of gas appliances for use in, or in connection with, a residence.
+        </section>
+        <section prefix="b">
+    	     Install or cause to be installed a gas appliance in a residence.
+        </section>
+        <section prefix="c">
+    	     Import into the commonwealth a gas appliance for use in, or in connection with, a residence.
+        </section>
+        <section prefix="d">
+    	     Deliver in the commonwealth after sale or pursuant to a contract for a sale of a gas appliance for use in, or in connection with, a residence.
+        </section>
+        <section prefix="e">
+    	     Sell or display for sale an automatic gas appliance, for use in, or in connection with a residence, unless such automatic gas appliance is labeled in a manner visible to the purchaser or prospective purchaser with the words “intermittent ignition”.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Posting Of Notice Of Statutes</catch_line>
+    <order_by>31</order_by>
+    <text>
+        All innholders, and all lodging house keepers who have been ordered to keep a register, shall post in a conspicuous place near the register a notice, to be furnished by the licensing authorities, containing the provisions of sections twenty-seven and twenty-nine relating to the entry of names and residences in the register, together with the penalty provided for their violation.
+    </text>
+</law>

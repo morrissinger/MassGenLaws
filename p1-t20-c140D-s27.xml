@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Unauthorized Use Of Credit Cards</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever knowingly in a transaction uses or attempts or conspires to use any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card to obtain money, goods, services, or anything else of value which within any one-year period has a value aggregating one thousand dollars or more; or
+        </section>
+        <section prefix="b">
+    	     Whoever, with unlawful or fraudulent intent, transports or attempts or conspires to transport a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained; or
+        </section>
+        <section prefix="c">
+    	     Whoever, with unlawful or fraudulent intent, uses any instrumentality of interstate or foreign commerce to sell or transport a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained; or
+        </section>
+        <section prefix="d">
+    	     Whoever knowingly receives, conceals, uses, or transports money, goods, services, or anything else of value which (1) within any one-year period has a value aggregating one thousand dollars or more, and (2) has been obtained with a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card; or
+        </section>
+        <section prefix="e">
+    	     Whoever knowingly receives, conceals, uses, sells, or transports one or more tickets for interstate or foreign transportation, which (1) within any one-year period have a value aggregating five hundred dollars or more, and (2) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit cards; or
+        </section>
+        <section prefix="f">
+    	     Whoever in a transaction furnishes money, property, services, or anything else of value, which within any one-year period has a value aggregating one thousand dollars or more, through the use of any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained shall be fined not more than ten thousand dollars or imprisoned not more than ten years, or both.
+        </section>
+    </text>
+</law>

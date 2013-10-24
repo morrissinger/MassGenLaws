@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148A" order_by="148A" level="3">Code Enforcement Officer</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter the following words shall, unless the context otherwise requires, have the following meanings:— 
+“Code violation”, a violation of the state building code, 780 CMR or the State Fire Code, 527 CMR. 
+“Housing court”, the housing court within the county in which an alleged code violation has occurred, or, if there is no housing court in the county, the district court with jurisdiction of the location in which the alleged code violation occurred. 
+“Local code enforcement officer”, the head of the fire department as defined in section 1 of chapter 148, or a designee of the head of the fire department who is empowered to enforce the state fire code, or the local building inspector empowered to enforce the building code pursuant to section 3A of chapter 143. 
+“Municipal hearing officer”, a person appointed by the appointing authority of a municipality to conduct requested hearings of code violations pursuant to this chapter. 
+“Scheduled assessment”, the amount of the civil assessment for a particular code violation as determined jointly by the state fire marshal, commissioner of public safety, and the chief justices of the district and housing court departments, respectively. A scheduled assessment shall not exceed the maximum assessment or fine established by law for each such violation. 
+“State code enforcement officer”, in cases involving the state fire code, the marshal as defined in section 1 of chapter 148, or in the case of state building code violations, the state building inspector empowered to enforce the building code pursuant to section 3A of chapter 143.
+    </text>
+</law>

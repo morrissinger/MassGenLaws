@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>22B</section_number>
+    <catch_line>Microwave Ovens</catch_line>
+    <order_by>22B</order_by>
+    <text>
+        Notwithstanding the provision of law or any regulation, ordinance or by-law to the contrary, a lodging house may furnish individual microwave ovens.
+    </text>
+</law>

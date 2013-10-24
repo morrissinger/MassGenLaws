@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119" order_by="119" level="3">Protection And Care Of Children, And Proceedings Against Them</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Adjournments; Jury Sessions; Appointment Of Stenographer</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="a">
+    	     Every division of the juvenile court department shall be authorized to hold jury sessions for the purpose of conducting jury trials of cases commenced in the several courts of offenses over which the juvenile courts have original jurisdiction.
+        </section>
+        <section prefix="b">
+    	     The chief justice for the juvenile court department shall designate at least one division in each county or an adjoining county for the purpose of conducting jury trials.
+        </section>
+        <section prefix="c">
+    	     A child in any division of the juvenile court who waives his right to jury trial as provided in section fifty-five A shall be provided a jury-waived trial in the same division.
+        </section>
+        <section prefix="d">
+    	     The justice presiding over a jury session shall have and exercise all the powers and duties which a justice sitting in the superior court department has and may exercise in the trial and disposition of criminal cases including the power to report questions of law to the appeals court. No justice so sitting shall act in a case in which he has sat or held an inquest or otherwise taken part in any proceeding therein.
+        </section>
+        <section prefix="e">
+    	     Trials by jury shall proceed in accordance with the provisions of law applicable to trials by jury in the superior court. The commonwealth shall be entitled to as many challenges as equal the whole number to which all the children in the case are entitled. Trial by jury shall be by juries of six persons, except that in cases where the commonwealth has proceeded by indictment, said child shall be entitled to a jury of twelve.
+        </section>
+        <section prefix="f">
+    	     For the jury sessions, jurors shall be provided by the office of the jury commissioner in accordance with the provisions of chapter two hundred and thirty-four A.
+        </section>
+        <section prefix="g">
+    	     The district attorney for the district in which the alleged offense or offenses occurred shall appear for the commonwealth in the trial of all cases in which the right to jury trial has not been waived and may appear in any other case. The chief justice for the juvenile court department shall arrange for the sittings of the jury sessions and shall assign justices thereto, to the end that speedy trials may be provided. Review may be had directly by the appeals court, by appeal, report or otherwise in the same manner provided for trials of criminal cases in the superior court. A claim of trial by jury under this section may be withdrawn before trial, in which event trial and disposition of the case shall be by a justice in a jury session sitting without a jury.
+        </section>
+        <section prefix="h">
+    	     The justice presiding at such session in the juvenile court department shall, upon request of the child, appoint a stenographer in accordance with section fifty-five A herein.
+        </section>
+    </text>
+</law>

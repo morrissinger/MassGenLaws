@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Disclosure Of Information; Multiple Creditors Or Obligors; Estimates</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to subsection (b), a creditor shall disclose to the person who is obligated on a consumer credit transaction the information required under this chapter. In a transaction involving more than one obligor, a creditor, except in a transaction under section ten, need not disclose to more than one of such obligors if the obligor given disclosure is a primary obligor.
+        </section>
+        <section prefix="b">
+    	     If a transaction involves one creditor as defined in subsection (f) of section one, such creditor shall make the disclosures. If a transaction involves more than one creditor, only one creditor shall be required to make the disclosures. The commissioner shall by regulation specify which creditor shall make the disclosures.
+        </section>
+        <section prefix="c">
+    	     The commissioner may provide by regulation that any portion of the information required to be disclosed by this chapter may be given in the form of estimates where the provider of such information is not in a position to know exact information. In the case of any consumer credit transaction, a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for the purposes of this chapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this chapter, and if he determines that such tolerances are necessary to facilitate compliance, he shall by regulation permit disclosures within such tolerances.
+        </section>
+    </text>
+</law>

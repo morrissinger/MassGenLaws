@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131A" order_by="131A" level="3">Massachusetts Endangered Species Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Determination Of Endangered, Threatened Or Special Concern Status</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="i">
+    	     the current and foreseeable threats to the population or its habitat;
+        </section>
+        <section prefix="ii">
+    	     the size of the population;
+        </section>
+        <section prefix="iii">
+    	     the potential benefits of designation to the population and to the status and welfare of the species generally; and
+        </section>
+        <section prefix="iv">
+    	     current and foreseeable uses of the land.
+        </section>
+    </text>
+</law>

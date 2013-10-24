@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Extradition Of Mental Institution Escapees</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     The governor may upon demand deliver to the executive of any other state any person who has escaped from an institution for the mentally ill to which he has been committed under the laws of such state, and who may be dangerous to the safety of the public, or may upon application appoint an agent to demand of the executive authority of any other state any person who has escaped from an institution in this commonwealth. Such demand or application shall be accompanied by an attested copy of the commitment and sworn evidence of the superintendent or manager of the institution stating that the person demanded has escaped from such institution, and by such further evidence as the governor requires.
+        </section>
+        <section prefix="b">
+    	     If the governor is satisfied that the demand made upon him under the preceding paragraph conforms to law and ought to be complied with, he shall issue his warrant under the seal of the commonwealth to an officer authorized to serve warrants in criminal cases, directing him at the expense of the agent who makes the demand, and at a time designated in the warrant, to deliver custody of such person to such agent.
+        </section>
+        <section prefix="c">
+    	     A person arrested upon such a warrant shall not be delivered to the agent of another state until he has been notified of the demand for his surrender and has had an opportunity to apply for a writ of habeas corpus, if he claims such right of the officer making the arrest. If said writ is applied for, notice thereof and of the time and place of hearing shall be given to the attorney general or to the district attorney for the district where the arrest is made. An officer who delivers such person in his custody upon such warrant to such agent for rendition without having complied with this section shall forfeit not more than one thousand dollars. Pending the determination of the court upon an application for said writ, the person shall be detained in custody in a suitable facility.
+        </section>
+    </text>
+</law>

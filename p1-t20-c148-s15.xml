@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Transportation Of Explosives Or Inflammable Materials; Violation Of Regulations</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Whoever knowingly violates or knowingly causes or permits the violation of any regulation adopted and prescribed for the transportation of gunpowder and other explosives or explosive or inflammable fluids or compounds shall be punished by a fine of not more than one thousand dollars or by imprisonment for not more than one year, or both.
+    </text>
+</law>

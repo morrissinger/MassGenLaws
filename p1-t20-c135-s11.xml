@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="135" order_by="135" level="3">Unclaimed And Abandoned Property</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Payment Of Proceeds To Owner Upon Application And Proof Of Ownership</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If, within two years and two months after such money has come into the possession of a member of the police department of a city or within two years after such sale of other property, the owner claims and proves ownership thereof, the unclaimed balance of such money or the proceeds of such sale, after deducting all reasonable charges and expenses, shall be paid to him, upon the order of the head of such department.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Investigations Of Industrial Conditions; Complaints; Prosecutions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The attorney general may investigate conditions existing in any line of industry, and such investigations may be extended outside of the commonwealth to procure information to promote industrial development or to improve industrial conditions. He shall receive all complaints concerning conditions existing in any industry carried on in the commonwealth, or concerning alleged violations of any laws enforced under his direction, and shall thereupon make or direct all needful and appropriate investigations and prosecutions.
+    </text>
+</law>

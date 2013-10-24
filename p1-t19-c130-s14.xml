@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Limitation Of Actions And Prosecutions</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Actions and prosecutions under the laws relative to fish or marine fisheries shall, unless otherwise expressly provided, be commenced within one year after the time when the cause of action accrued or the offence was committed.
+    </text>
+</law>

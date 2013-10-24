@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>18B</section_number>
+    <catch_line>Confined Spaces; Ventilation</catch_line>
+    <order_by>18B</order_by>
+    <text>
+        Before allowing employees to enter confined spaces where flammable, poisonous, asphyxiant, suffocant or anesthetic vapors, gases or dusts are likely to exist, the area shall be made free of the hazardous substance; employees shall be advised of the hazard; adequate ventilation shall be provided; and proper respiratory equipment shall be provided where necessary.
+    </text>
+</law>

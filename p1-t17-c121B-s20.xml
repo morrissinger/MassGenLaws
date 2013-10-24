@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Development, Acquisition And Operating Costs; Relocation Payments;  Losses; Appropriation And Payment By City</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="1">
+    	     defraying all the development, acquisition and operating costs of a clearance, urban renewal, community renewal, relocation, rehabilitation or low-rent housing project within such city or town; or
+        </section>
+        <section prefix="2">
+    	     defraying such part of the development, acquisition and operating costs of any such project to which either the federal government, pursuant to federal legislation, or any other source has rendered or has agreed to render financial assistance, as will not be met by loans other than temporary loans or by contributions or grants other than annual or other contributions and grants in the nature of reimbursement from the federal government or from any such other source; and for
+        </section>
+        <section prefix="3">
+    	     the making of relocation payments by such agency; and
+        </section>
+        <section prefix="4">
+    	     repaying any loss which the city or town has agreed to bear and which is incurred as a result of the early taking, acquisition or clearance of land not used for urban renewal purposes.
+        </section>
+    </text>
+</law>

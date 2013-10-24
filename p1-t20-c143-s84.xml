@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Violation Of Statutes Or Regulations</catch_line>
+    <order_by>84</order_by>
+    <text>
+        Any person keeping or using a cinematograph or similar apparatus contrary to any provision of sections seventy-two to eighty-four, inclusive, or in violation of any rule or regulation made by the commissioner of public safety shall be punished by a fine of not less than fifty nor more than five hundred dollars.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118H" order_by="118H" level="3">Commonwealth Care Health Insurance Program</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Participation By Uninsured Individuals</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     An uninsured individual shall be eligible to participate in the program if:—
+        </section>
+        <section prefix="1">
+    	     an individual’s or family’s household income does not exceed 300 per cent of the federal poverty level;
+        </section>
+        <section prefix="2">
+    	     the individual has been a resident of the commonwealth for the previous 6 months;
+        </section>
+        <section prefix="3">
+    	     the individual is not eligible for any MassHealth program, for Medicare, or for the child health insurance program established by section 16C of chapter 118E;
+        </section>
+        <section prefix="4">
+    	     the individual’s or family member’s employer has not provided health insurance coverage in the last 6 months for which the individual is eligible and for which the employer covers at least 20 per cent of the annual premium cost of a family health insurance plan or at least 33 per cent of an individual health insurance plan; and
+        </section>
+        <section prefix="5">
+    	     the individual has not accepted a financial incentive from his employer to decline his employer’s subsidized health insurance plan.
+        </section>
+        <section prefix="b">
+    	     The board may waive clause (4) of subsection (a) if the individual’s employer complies with section 110 of chapter 175, section 81/2 of chapter 176A, section 3B of chapter 176B or section 6A of chapter 176G. The employer’s health insurance premium contribution for the applying individual, which shall be the cash equivalent of the premium contribution that would otherwise be made by an employer on behalf of the applying individual for the plan and rate basis type for which the individual would be eligible or, in cases where the individual is eligible to participate in more than 1 plan, the cash equivalent of the premium contribution for the most popular plan and rate basis type for which the individual is eligible, shall be paid to the connector. The connector shall use the employer’s health insurance premium contribution payment for the individual to first offset the commonwealth’s premium assistance payment for the individual with any residual amount offsetting the individual.
+        </section>
+    </text>
+</law>

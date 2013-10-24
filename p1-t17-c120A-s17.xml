@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Dissolution Of Compact</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The compact shall dissolve effective on the date of the withdrawal or default of the compacting state, which reduces membership in the compact to 1 compacting state.
+        </section>
+        <section prefix="b">
+    	     Upon the dissolution of this compact, the compact shall become null and void and shall be of no further force or effect, and the business and affairs of the interstate commission shall be concluded. Any surplus funds of the interstate commission shall be distributed in accordance with the by-laws.
+        </section>
+    </text>
+</law>

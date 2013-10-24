@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Inspection Of Premises</catch_line>
+    <order_by>25</order_by>
+    <text>
+        Premises occupied, used or controlled by a licensee under sections twenty-two to thirty-one, inclusive, or under an innholder’s license shall be subject to inspection by the licensing authorities and their authorized agents, and by the police on request from the licensing authorities.
+    </text>
+</law>

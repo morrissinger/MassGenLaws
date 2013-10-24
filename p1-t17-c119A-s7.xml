@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Entry Of Support Order In Other Jurisdiction</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     If the IV-D agency is providing services to an obligee or to an obligor, it may enforce an income withholding order or a qualified domestic relations order pursuant to the Employee Retirement Income Security Act, 29 USC 1056, by sending notice of the withholding or qualified domestic relations order to the child support enforcement agency of the jurisdiction in which the obligor derives income, or directly to the obligor’s employer or other source of income in that jurisdiction. The notice may be transmitted by any method including, but not limited to, paper, facsimile, magnetic tape or other electronic means. The notice shall be accompanied by a certification by the IV-D agency that the information contained in the notice accurately reflects its records.
+        </section>
+        <section prefix="b">
+    	     Upon receiving notice of a subsequent modification, the IV-D agency shall send notice of the order as modified to the child support enforcement agency of the jurisdiction in which the obligor derives income, or to the obligor’s employer or other source of income.
+        </section>
+    </text>
+</law>

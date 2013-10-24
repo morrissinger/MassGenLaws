@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="125" order_by="125" level="3">Correctional Institutions Of The Commonwealth</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “administrator”, chief administrative officer of a county correctional facility;
+        </section>
+        <section prefix="b">
+    	     “commissioner”, the commissioner of correction;
+        </section>
+        <section prefix="c">
+    	     “committed offender”, a person convicted of a crime and committed, under sentence, to a correctional facility;
+        </section>
+        <section prefix="d">
+    	     “correctional facility”, any building, enclosure, space or structure used for the custody, control and rehabilitation of committed offenders and of such other persons as may be placed in custody therein in accordance with law;
+        </section>
+        <section prefix="e">
+    	     “correctional institution”, correctional facility;
+        </section>
+        <section prefix="f">
+    	     “county correctional facility”, any correctional facility owned, operated, administered or subject to the control of a county of the commonwealth;
+        </section>
+        <section prefix="g">
+    	     “department”, the department of correction;
+        </section>
+        <section prefix="h">
+    	     “gainful employment”, employment within or without any correctional facility including but not limited to labor for the operation and maintenance of any correctional facility;
+        </section>
+        <section prefix="i">
+    	     “inmate”, a committed offender or such other person as is placed in custody in a correctional facility in accordance with law;
+        </section>
+        <section prefix="j">
+    	     “institution”, facility;
+        </section>
+        <section prefix="k">
+    	     “penal institution”, correctional facility;
+        </section>
+        <section prefix="l">
+    	     “prison”, correctional facility;
+        </section>
+        <section prefix="m">
+    	     “prisoner”, a committed offender and such other person as is placed in custody in a correctional facility in accordance with law;
+        </section>
+        <section prefix="n">
+    	     “state correctional facility”, any correctional facility owned, operated, administered or subject to the control of the department of correction, including but not limited to: Massachusetts Correctional Institution, Cedar Junction; Massachusetts Correctional Institution, Norfolk; Massachusetts Correctional Institution, Concord; Massachusetts Correctional Institution, Framingham; Massachusetts Correctional Institution, Bridgewater; Massachusetts Correctional Institution, Plymouth; Massachusetts Correctional Institution, Warwick; Massachusetts Correctional Institution, Monroe;
+        </section>
+        <section prefix="o">
+    	     “state prison”, Massachusetts Correctional Institution, Cedar Junction;
+        </section>
+        <section prefix="p">
+    	     “superintendent”, the chief administrative officer of a state correctional facility.
+        </section>
+    </text>
+</law>

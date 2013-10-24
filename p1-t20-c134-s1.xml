@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="134" order_by="134" level="3">Lost Goods And Stray Beasts</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Report Of Lost Money Or Goods By Finder</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Any person who finds lost money or goods of the value of three dollars or more, the owner of which is unknown, shall within two days report the finding thereof to the officer in charge at a police station in the town where said property was found, or, if there is no police station, post notice thereof in two public places therein, or, instead of such report or posting, cause notice thereof to be advertised in a newspaper published therein.
+    </text>
+</law>

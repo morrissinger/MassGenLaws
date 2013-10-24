@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132" order_by="132" level="3">Forestry</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Declaration Of Policy Of Commonwealth</catch_line>
+    <order_by>40</order_by>
+    <text>
+        It is hereby declared that the public welfare requires the rehabilitation, maintenance, and protection of forest lands for the purpose of conserving water, preventing floods and soil erosion, improving the conditions for wildlife and recreation, protecting and improving air and water quality, and providing a continuing and increasing supply of forest products for public consumption, farm use, and for the woodusing industries of the commonwealth. 
+Therefore, it is hereby declared to be the policy of the commonwealth that all lands devoted to forest growth shall be kept in such condition as shall not jeopardize the public interests, and that the policy of the commonwealth shall further be one of cooperation with the landowners and other agencies interested in forestry practices for the proper and profitable management of all forest lands in the interest of the owner, the public and the users of forest products.
+    </text>
+</law>

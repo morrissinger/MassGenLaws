@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>10B</section_number>
+    <catch_line>Violation Of Regulations Of Board</catch_line>
+    <order_by>10B</order_by>
+    <text>
+        Any person who knowingly violates any rule or regulation made by the board of fire prevention regulations shall, except as otherwise provided, be punished by a fine of not less than one hundred dollars nor more than one thousand dollars.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>181</section_number>
+    <catch_line>Theatrical Exhibitions, Etc.; Licenses; Fees; Applications;  Suspension Or Revocation; Workers’ Compensation Coverage</catch_line>
+    <order_by>181</order_by>
+    <text>
+        <section prefix="a">
+    	     unreasonably increasing pedestrian traffic in the area in which the premises are located or
+        </section>
+        <section prefix="b">
+    	     increasing the incidence of disruptive conduct in the area in which the premises are located or
+        </section>
+        <section prefix="c">
+    	     unreasonably increasing the level of noise in the area in which the premises are located.
+        </section>
+    </text>
+</law>

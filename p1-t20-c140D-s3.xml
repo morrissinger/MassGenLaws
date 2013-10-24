@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall prescribe from time to time such rules and regulations as may be necessary or proper in carrying out the provisions of this chapter. Such rules and regulations may contain such classifications, differentiations or other provisions, and may provide for such adjustments and exceptions for any class of transactions, as in the judgement of the commissioner are necessary or proper to carry out the purposes of this chapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith; provided, however, that no such rule or regulation shall contain any classification, differentiation or other provision with respect to, or provide for any judgement or exception for, any class of transaction which would result in less stringent disclosure requirements than afforded that class of transaction under the Federal Consumer Protection Act and Regulation Z issued by the board.
+        </section>
+        <section prefix="b">
+    	     The commissioner may issue from time to time advisory rulings under section eight of chapter thirty A interpreting any provision or the regulations issued hereunder. Each official board interpretation or official staff interpretation that interprets a provision of the regulations issued under the Truth-in-Lending Act (15 USC 1601 et seq.) (Title VI of Public Law 96-221) that is similar in substance to a provision of this chapter or the regulation issued thereunder, shall, until rescinded by the board, be deemed by the commissioner to be an advisory ruling issued under said section eight of said chapter thirty A; provided, however, that the commissioner may reject a board or staff interpretation.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Display Of Street Address Number On Buildings; Use In Enhanced 911 Service</catch_line>
+    <order_by>59</order_by>
+    <text>
+        Every building in the commonwealth, including, but not limited to, dwellings, apartment buildings, condominiums, and business establishments shall have affixed thereto a number representing the address of such building. Said number shall be of a nature and size and shall be situated on the building so that, to the extent practicable, it is visible from the nearest street or road providing vehicular access to such building. 
+The state 911 department shall cause such number and the address of such building to be entered into the electronic data base for use in enhanced 911 service as defined in section eighteen A of chapter six A.
+    </text>
+</law>

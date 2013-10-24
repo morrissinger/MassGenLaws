@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="144" order_by="144" level="3">Tenement Houses In Cities</unit>
+    </structure>
+    <section_number>95</section_number>
+    <catch_line>Service Of Notice Or Order</catch_line>
+    <order_by>95</order_by>
+    <text>
+        Unless otherwise provided in this chapter, every notice or order in relation to a tenement house shall be served ten days before the time for doing the thing in relation to which it is issued. The service of a notice or order as aforesaid shall be made by the delivery of an attested copy in hand to the owner or his agent, or by leaving an attested copy at the last or usual place of abode of the owner or agent.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Revocation, Suspension, Nonissuance Or Nonrenewal Of Licenses For Failure To Provide Support</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="2">
+    	     Every licensing authority shall collect and maintain certain information, including the name, date of birth, address and social security number, for each applicant for a license and each individual to whom a license is granted or renewed. Every licensing authority shall provide to the IV-D agency the name, date of birth, address, social security number, federal identification number and other information as the IV-D agency may request regarding an applicant for a license or an individual to whom a license has been granted, including requests by electronic data matches. The agencies or entities disclosing information to the IV-D agency under this section shall furnish such information using the method and format required by the IV-D agency. If the agency or entity making disclosure is unable to furnish the information using the method and format so required, such agency or entity shall cooperate with the IV-D agency to determine another method or format by which the information may be furnished.
+        </section>
+        <section prefix="b">
+    	     The IV-D agency may notify in writing an obligor who owes a child support arrearage and is subject to a child support lien pursuant to section 6 of this chapter or an obligor who has failed to comply with a subpoena, warrant or summons relating to a judicial or administrative proceeding regarding paternity or child support, that unless the obligor requests, within 30 days of the date of such notice, a hearing before the department, the IV-D agency may issue a final determination of delinquency and, if the IV-D agency issues such final determination, shall notify the licensing authority to suspend, revoke or prohibit issuance or renewal of the license of the obligor. The provisions of this section shall constitute the sole administrative remedy for an obligor to contest a final determination of delinquency and the suspension, revocation, nonissuance or nonrenewal of the obligor’s license.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of sections 10 and 11 of chapter 30A, the department shall provide a hearing upon request by the obligor as provided in subsection (b). If the obligor has been notified that he owes a child support arrearage, the obligor must establish at the hearing that (1) no child support arrearage exists, (2) the obligor is not the individual owing the arrearage, or (3) the obligor is complying with a payment plan approved by the IV-D agency. If the obligor has been notified that he has failed to comply with a subpoena, warrant or summons, the obligor must establish at the hearing, with respect to the subpoena, warrant or summons, that he did comply, he was not properly served, or the failure to comply was due to reasonable cause. If, after hearing, the department finds that the obligor owes a child support arrearage and is subject to a child support lien or that the obligor failed to comply with a subpoena, warrant or summons relating to a judicial or administrative proceeding regarding paternity or child support and that the obligor has failed to establish any of the defenses provided herein, the IV-D agency may issue a final determination of child support delinquency and, upon issuance of such final determination, shall notify the licensing authority to suspend, revoke or prohibit issuance or renewal of the obligor’s license.
+        </section>
+        <section prefix="d">
+    	     If the obligor signs a payment plan approved by the IV-D agency and thereafter fails to make payments in accordance with such plan and fails to show cause for such failure by requesting a hearing as provided by this section, the IV-D agency may issue a final determination of delinquency and, upon such issuance, shall notify the licensing authority to suspend, revoke or prohibit issuance or renewal of the obligor’s license.
+        </section>
+        <section prefix="B">
+    	     The licensing authority shall reinstate, issue or renew the license of the obligor upon receipt of notice from the reviewing court or the IV-D agency if the obligor is otherwise entitled thereto.
+        </section>
+        <section prefix="f">
+    	     If an obligor whose license has been suspended, revoked or prohibited from being issued or renewed thereafter pays his child support arrearage in full, or complies with a payment plan with the IV-D agency, or complies with the subpoena, warrant or summons which was the basis for the final determination of delinquency, the IV-D agency shall notify the licensing authority that it shall reinstate, issue or renew the license of the obligor if the obligor is otherwise entitled thereto.
+        </section>
+    </text>
+</law>

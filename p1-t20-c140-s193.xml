@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>193</section_number>
+    <catch_line>Running Of Boats Without License</catch_line>
+    <order_by>193</order_by>
+    <text>
+        Whoever runs a steamboat or other boat propelled by power other than muscular power for the conveyance of passengers for hire on such waters without first obtaining such license from the aldermen of every city and the selectmen of every town within which such steamboat or other boat lands or receives passengers for hire shall be punished by a fine of not more than fifty dollars.
+    </text>
+</law>

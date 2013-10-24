@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119" order_by="119" level="3">Protection And Care Of Children, And Proceedings Against Them</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Continuance Of Jurisdiction Of Courts In Juvenile Sessions</catch_line>
+    <order_by>72</order_by>
+    <text>
+        <section prefix="a">
+    	     The divisions of the juvenile court department shall continue to have jurisdiction over children who attain their eighteenth birthday pending final adjudication of their cases, including all remands and retrials following appeals from their cases, or during continuances or probation, or after their cases have been placed on file, or for any other proceeding arising out of their cases. Except as provided in subsection (b), nothing herein shall authorize the commitment of a person to the department of youth services after he has attained his nineteenth birthday.
+        </section>
+        <section prefix="b">
+    	     If the commonwealth has proceeded by indictment, the divisions of the juvenile court department shall continue to have jurisdiction over such persons who attain their eighteenth birthday pending the final adjudication of their cases, including all remands and retrials following appeals from their cases, or pending the determination allowed under section 58, or during continuances or probation, or after their cases have been placed on file, or for any other proceeding arising out of their cases. Nothing herein shall authorize the commitment of a youthful offender to the department of youth services after he has attained his twenty-first birthday.
+        </section>
+    </text>
+</law>

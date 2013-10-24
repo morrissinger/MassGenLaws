@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142" order_by="142" level="3">Supervision Of Plumbing</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Notice To Examiners Of Violation Of Statute, Ordinance Or Regulation</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If, in the opinion of such inspector of buildings, if any, otherwise of the board of health, of a town, the holder of a license or certificate violates any statute, ordinance, by-law, rule or regulation relative to plumbing and gas fitting, said inspector or board of health of the town where such violation is committed shall give notice thereof to the examiners.
+    </text>
+</law>

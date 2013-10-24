@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>129B</section_number>
+    <catch_line>Confinement While Awaiting Trial; Reduction Of Sentence</catch_line>
+    <order_by>129B</order_by>
+    <text>
+        The sentence of any prisoner in any correctional institution of the commonwealth or in any house of correction or jail, who was held in custody awaiting trial shall be reduced by the number of days spent by him in confinement prior to such sentence and while awaiting trial, unless the court in imposing such sentence had already deducted therefrom the time during which such prisoner had been confined while awaiting trial.
+    </text>
+</law>

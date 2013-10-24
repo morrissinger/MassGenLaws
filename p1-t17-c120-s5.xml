@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120" order_by="120" level="3">Department Of Youth Services And Massachusetts Training Schools</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Examination And Study Of Children Committed; Re Examinations;  Records; Discharge</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     When a person has been committed to the department of youth services, it shall, under rules established by it, forthwith examine and study him and investigate all pertinent circumstances of his life and behavior.
+        </section>
+        <section prefix="b">
+    	     The department of youth services shall make periodic reexamination of all persons within its control. These examinations may be made as frequently as the department considers desirable, and shall be made with respect to every person at intervals not exceeding one year.
+        </section>
+        <section prefix="c">
+    	     The department of youth services shall keep written records of all examinations and of the conclusions based thereon, and of all orders concerning the disposition or treatment of every person subject to its control.
+        </section>
+        <section prefix="d">
+    	     Failure of the department of youth services to examine a person committed to it, or to reexamine him within one year of a previous examination, shall not of itself entitle the person to discharge from the control of the department, but shall entitle him to petition the committing court for an order of discharge, and the court shall discharge him unless the department upon due notice satisfies the court of the necessity for further control.
+        </section>
+        <section prefix="e">
+    	     Within eighteen months of the original commitment of a child to the department by a court of competent jurisdiction, and periodically thereafter, the committing court shall reconvene upon petition of the department, in accordance with rules established by the chief administrative judge of the trial court, to determine the future status of the child as to whether or not it is in the child’s best interests to be returned to his home. All such determinations shall indicate whether, after the departmental placement of the child, reasonable efforts were made to make it possible for the child to return to his home.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Annual Report</catch_line>
+    <order_by>38</order_by>
+    <text>
+        The commissioner of food and agriculture shall make an annual report of the acts of the director, including therein the information obtained from inspectors under section twenty-three.
+    </text>
+</law>

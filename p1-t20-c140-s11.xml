@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Fire Or Overwhelming Force; Liability</catch_line>
+    <order_by>11</order_by>
+    <text>
+        In case of loss by fire or overwhelming force, innholders shall be answerable to their guests only for ordinary and reasonable care in the custody of their baggage or other property.
+    </text>
+</law>

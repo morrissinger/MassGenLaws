@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Legal Capacity Of Persons Admitted Or Committed</catch_line>
+    <order_by>24</order_by>
+    <text>
+        No person shall be deemed to be incompetent to manage his affairs, to contract, to hold professional or occupational or vehicle operators licenses or to make a will solely by reason of his admission or commitment in any capacity to the treatment or care of the department or to any public or private facility, nor shall departmental regulations restrict such rights.
+    </text>
+</law>

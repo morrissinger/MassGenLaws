@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Advertisements; Other Than Open End Credit Plans; Contents</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b), this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this chapter, other than an open-end-credit plan.
+        </section>
+        <section prefix="b">
+    	     The provisions of this section shall not apply to advertisements of residential real estate except to the extent that the commissioner may by regulation require.
+        </section>
+        <section prefix="c">
+    	     If any advertisement to which this section applies states the rate of finance charge, the advertisement shall state the rate of that charge expressed as an annual percentage rate.
+        </section>
+        <section prefix="d">
+    	     If any advertisement to which this section applies states the amount of the down payment, if any, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
+        </section>
+        <section prefix="1">
+    	     The down payment, if any;
+        </section>
+        <section prefix="2">
+    	     The terms of repayment; and
+        </section>
+        <section prefix="3">
+    	     The rate of the finance charge expressed as an annual percentage rate.
+        </section>
+    </text>
+</law>

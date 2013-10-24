@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>114</section_number>
+    <catch_line>Advisory Board Established With Marketing Order; Membership;  Expenses; Duties</catch_line>
+    <order_by>114</order_by>
+    <text>
+        <section prefix="a">
+    	     recommending to the commissioner administrative rules and regulations relating to the marketing order;
+        </section>
+        <section prefix="b">
+    	     recommending to the commissioner such amendments to the marketing order as seem advisable;
+        </section>
+        <section prefix="c">
+    	     preparing and submitting to the commissioner the estimated budget required for the proper operation of the marketing order;
+        </section>
+        <section prefix="d">
+    	     recommending to the commissioner methods for assessing members of the industry and methods for collecting the necessary funds;
+        </section>
+        <section prefix="e">
+    	     assisting the commissioner in the collection and assembling of information and data necessary to the proper administration of the order;
+        </section>
+        <section prefix="f">
+    	     performing such other duties in connection with the marketing order as the commissioner shall designate.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="126" order_by="126" level="3">Jails, Houses Of Correction And Reformation, And County Industrial Farms</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Burial Of Deceased Prisoners</catch_line>
+    <order_by>22</order_by>
+    <text>
+        If a prisoner dies in the jail or house of correction, the sheriff or keeper shall, except as provided in chapter one hundred and thirteen, deliver the body to his relatives or friends if they request it; otherwise, he shall bury it in the common burying ground, and the expense thereof shall be paid by the town where the deceased had resided.
+    </text>
+</law>

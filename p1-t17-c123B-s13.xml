@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123B" order_by="123B" level="3">Mental Retardation</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Administration Of Estate Of Deceased Resident</catch_line>
+    <order_by>13</order_by>
+    <text>
+        If a resident of any facility dies leaving an estate which does not exceed fifteen thousand dollars in value, the superintendent shall notify the nearest living relative of such resident of such fact, and if, after the expiration of thirty days from the date of such notice, no petition for administration of said estate has been filed, the department may provide for the administration of said estate under the provisions of section sixteen of chapter one hundred and ninety-five.
+    </text>
+</law>

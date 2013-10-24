@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Advance Of Funds; Amount; Payments</catch_line>
+    <order_by>57</order_by>
+    <text>
+        <section prefix="a">
+    	     The total state grant-in-aid for any approved project shall not exceed one half of the net cost of project, including advances for surveys, planning and administrative expenses, with respect to which a contract under the provisions of section fifty-six and this section has been signed.
+        </section>
+        <section prefix="b">
+    	     The total amount of urban renewal assistance grants or urban revitalization and development grants to be paid under the provisions of this section shall be payable in twenty equal annual installments, except that the department may deduct any advances of funds for surveys and plans and administrative expenses from the commonwealth’s share before determining said twenty equal annual installments, and may adjust the annual payment upon final determination of the net cost of each approved project.
+        </section>
+        <section prefix="c">
+    	     The total amount of urban renewal assistance grants to be paid under the provisions of this section shall not exceed one million dollars in any one fiscal year or a total of twenty million dollars in the aggregate, including amounts authorized by the department to be advanced for the estimated expenses as provided in the first paragraph.
+        </section>
+        <section prefix="d">
+    	     The total amount of urban revitalization and development grants to be paid under this section shall not exceed $4,400,000 in any 1 fiscal year or a total of $60,000,000 in the aggregate, including amounts authorized by the department to be advanced for the estimated expenses as provided in the first paragraph.
+        </section>
+    </text>
+</law>

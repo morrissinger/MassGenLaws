@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>30F</section_number>
+    <catch_line>Inspection Of Books, Certificates And Prescriptions</catch_line>
+    <order_by>30F</order_by>
+    <text>
+        The book, certificates and prescriptions provided for in the two preceding sections shall at all times be kept on the licensed premises and be open to the inspection of the board of registration in pharmacy, the licensing authorities or their agents, the aldermen, the selectmen when not constituting the local licensing authorities, sheriffs, constables, police officers and justices of the peace.
+    </text>
+</law>

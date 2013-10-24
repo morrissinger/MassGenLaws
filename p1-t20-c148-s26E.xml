@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>26E</section_number>
+    <catch_line>Residential Buildings Or Structures; Installation Of Smoke Detectors</catch_line>
+    <order_by>26E</order_by>
+    <text>
+        <section prefix="a">
+    	     All one and two family dwellings occupied in whole or in part for residential purposes and not regulated by section twenty-six A or twenty-six B shall be equipped with approved smoke detectors. Owners of such buildings or structures shall install either an approved monitored battery powered smoke detector or an approved primary power smoke detector on each level of habitation and on the basement level; provided, however, that the head of the fire department shall allow the installation of approved monitored battery powered smoke detectors. Such approved smoke detectors shall be installed in the following manner; an approved smoke detector shall be installed on the ceiling of each stairway leading to the floor above, near the base of, but not within each stairway and an approved smoke detector shall be installed outside each separate sleeping area.
+        </section>
+        <section prefix="b">
+    	     Buildings or structures occupied in whole or in part for residential purposes and containing not less than three nor more than five units and not regulated by section twenty-six A, twenty-six B or twenty-six C shall be equipped with approved smoke detectors. Owners of such buildings or structures shall install either an approved monitored battery powered smoke detector or an approved primary power smoke detector outside each separate sleeping area; provided, however, that the head of the fire department shall allow the installation of approved monitored battery powered smoke detectors; and provided, further, that in all common hallways and basements of said residential buildings or structures a series of interconnected approved primary power smoke detectors shall be installed.
+        </section>
+        <section prefix="c">
+    	     For the purposes of this section, approved primary power shall mean an alternating current primary source of electric power furnished by an electric power or light company municipally operated or operating under the authority of the department of telecommunications and energy which is the primary source of electricity or is a secondary source but is permanently wired thereto and will become operational upon the failure of the primary source of power.
+        </section>
+        <section prefix="d">
+    	     The head of the fire department shall enforce the provisions of this section. The provisions of section thirty shall not apply to this section.
+        </section>
+    </text>
+</law>

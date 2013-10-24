@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Annual Report Of Local Licensing Authorities To Commission</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        The local licensing authorities shall file with the commission, on or before February fifteenth next following a license year in which the granting of licenses for the sale of any alcoholic beverage was authorized, a full report of their action during said license year, with the number of licenses of each class granted, and the revenue thereof, together with the established schedule of fees for all classes of licenses. Said report shall contain a list of all violations of law by licensees which came to their attention, and their actions and findings with reference thereto.
+    </text>
+</law>

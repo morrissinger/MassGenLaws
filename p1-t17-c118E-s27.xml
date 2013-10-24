@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Redetermination Of Eligibility</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="a">
+    	     When required on the basis of information the division has obtained previously about anticipated changes in the individual’s situation.
+        </section>
+        <section prefix="b">
+    	     Promptly within thirty days, after a report is obtained from any source which indicates that changes in the individual’s circumstances may affect the amount of assistance to which he or she is entitled or may make him or her ineligible.
+        </section>
+        <section prefix="c">
+    	     Periodically, but at least once in every six months.
+        </section>
+        <section prefix="d">
+    	     If any recipient shall by gift, inheritance, or other manner acquire additional assets during any twelve month interval following determination of his or her eligibility, the recipient shall immediately report such acquisition to the division which shall immediately make a reevaluation of such recipient’s eligibility.
+        </section>
+    </text>
+</law>

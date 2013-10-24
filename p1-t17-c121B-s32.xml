@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Maintenance And Operation Of Project; Rentals; Tenant Selection;  Eligibility For Continued Occupancy; Hearings; Waiver</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="a">
+    	     The applicant or a household member has disturbed a neighbor or neighbors in a prior residence by behavior, which if repeated by a tenant in public housing, would substantially interfere with the rights of other tenants to peaceful enjoyment of their units.
+        </section>
+        <section prefix="b">
+    	     The applicant or a household member has caused damage or destruction of property at a prior residence, and such damage or destruction, if repeated by a tenant in public housing, would have a material adverse effect on the housing development or any unit in such development.
+        </section>
+        <section prefix="c">
+    	     The applicant or a household member has displayed living habits or poor housekeeping at a prior residence, and such living habits or poor housekeeping, if repeated by a tenant in public housing, would pose a substantial threat to the health or safety of the tenant or other tenants or would adversely affect the decent, safe and sanitary condition of all or part of the housing.
+        </section>
+        <section prefix="d">
+    	     The applicant or a household member in the past has engaged in criminal activity, or activity in violation of section four of chapter one hundred and fifty-one B, which if repeated by a tenant in public housing, would interfere with or threaten the rights of other tenants to be secure in their persons or in their property or with the rights of other tenants to the peaceful enjoyment of their units and the common areas of the housing development.
+        </section>
+        <section prefix="e">
+    	     The applicant or any household member who will be assuming part of the rent obligation has a history of non-payment of rent and such non-payment, if repeated by a tenant in public housing, would cause monetary loss; provided, however, that if the tenant paid at least fifty percent of his household’s monthly income for rent each month during a tenancy but was unable to pay the full rent, an eviction for non-payment of the balance of the rent shall not disqualify such individual from public housing pursuant to this paragraph.
+        </section>
+        <section prefix="f">
+    	     The applicant or a household member has a history of failure to meet material lease terms or the equivalent at one or more prior residences, and such failure if repeated by a tenant of public housing, would be detrimental to the housing authority or to the health, safety, security or peaceful enjoyment of other tenants.
+        </section>
+        <section prefix="g">
+    	     The applicant has failed to provide information reasonably necessary for the housing authority to process the applicant’s application.
+        </section>
+        <section prefix="h">
+    	     The applicant has misrepresented or falsified any information required to be submitted as part of the applicant’s application, and the applicant fails to establish that the misrepresentation or falsification was unintentional.
+        </section>
+        <section prefix="i">
+    	     The applicant or any household member does not intend to occupy public housing, if offered, as his primary residence.
+        </section>
+    </text>
+</law>

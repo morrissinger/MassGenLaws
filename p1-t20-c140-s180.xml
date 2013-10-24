@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>180</section_number>
+    <catch_line>Location Of Bowling Alleys In Places Other Than As Ordered;  Restraint</catch_line>
+    <order_by>180</order_by>
+    <text>
+        Whoever erects, occupies or uses a building for bowling alleys, except in such part of a town as the aldermen or selectmen order, shall forfeit not more than fifty dollars for every month he so occupies or uses such building, and in like proportion for a shorter time. The superior court may restrain such erection, occupancy or use without such order.
+    </text>
+</law>

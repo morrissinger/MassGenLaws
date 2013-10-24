@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Ascertainment Of Horse Power</catch_line>
+    <order_by>48</order_by>
+    <text>
+        When liquid or gaseous fuel, electric or atomic energy or any other source of heat is used, the horsepower of a boiler shall be determined by either the manufacturer’s factory tag affixed to the boiler or burner denoting horsepower, or calculated by one of the following formulae: the steam output capacity as listed on the manufacturer’s tag divided by 34.5, the Btu/Hr Input listed on the manufacturer’s tag divided by 41,840 or the Btu/Hr Output listed on the manufacturer’s tag divided by 33,475. 
+If a tag is missing, damaged or unclear, the licensed engineer in charge or on duty at the time shall notify the owner or user of the steam boiler. The owner or user shall obtain a notarized letter, signed by an officer of the manufacturer of the boiler or burner, listing the maximum capacity of the steam boiler in Btu/Hr. Such letter shall be an acceptable basis for calculating the horsepower of that particular steam boiler. 
+The minimum safety valve relieving capacity shall be determined in accordance with the American Society of Mechanical Engineers Code. 
+The horse power of a reciprocating steam engine shall be ascertained upon the basis of a mean effective pressure of forty pounds per square inch of piston for a simple engine, fifty pounds for a condensing engine, and seventy pounds for a compound engine, calculated upon the area of the high pressure piston. A variable speed engine shall be rated at its designed mean speed. 
+A steam turbine engine shall be rated at less than nine horse power when the external diameter of the steam supply pipe does not exceed one and three fourths inches, at fifty horse power when it exceeds one and three fourths inches and does not exceed three and one half inches, and at one hundred and fifty horse power when it exceeds three and one half inches and does not exceed five inches.
+    </text>
+</law>

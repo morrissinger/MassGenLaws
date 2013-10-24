@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Child Support Trust Fund; Separate Accounts</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     A child support payments account of amounts to be distributed, without appropriation, to the proper obligees. The IV-D agency shall transfer to the General Fund the state share of amounts collected pursuant to Title IV, Part D of the Social Security Act.
+        </section>
+        <section prefix="2">
+    	     A child support services account to be expended, without appropriation, on child support services authorized pursuant to Title IV, Part D, of the Social Security Act. To this account shall be credited all fees collected by the IV-D agency, all federal incentive payments, and all interest and earnings of the fund attributed to federal incentive payments.
+        </section>
+        <section prefix="3">
+    	     A child support penalties account to be expended, without appropriation, pursuant to subsections (b) and (c) of section 10A and on child support services authorized pursuant to Title IV, Part D of the Social Security Act. To this account shall be credited all penalties collected by the IV-D agency, all amounts designated for this account pursuant to subsection (a) of said section 10A, all interest collected by the IV-D agency on the state share of arrears assigned to the commonwealth pursuant to Title IV, Parts A and E, and Title XIX of the Social Security Act, and all interest and earnings of the fund, except as provided in paragraph (2) of this section. The state treasurer shall report annually, on or before October 15, to the secretary of administration and finance and to the house and senate chairs of ways and means on the total expenditures from the child support penalties account in the prior fiscal year.
+        </section>
+    </text>
+</law>

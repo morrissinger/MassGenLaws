@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="135" order_by="135" level="3">Unclaimed And Abandoned Property</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Sale Of Perishable Property; Notice</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Such property, if perishable or liable to deteriorate greatly in value by keeping or the value of which will probably be less than the expense of keeping the same, may be sold by public auction within said two months in accordance with the rules of the department, reasonable notice of the time and place of sale first being given by publishing the same in a newspaper published in such city.
+    </text>
+</law>

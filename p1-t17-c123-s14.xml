@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Transfers From Bridgewater State Hospital To Other Facilities</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Whenever the medical director of the Bridgewater state hospital certifies that the failure to retain any person in strict security would not create a likelihood of serious harm by reason of mental illness but that such person is in need of further care and treatment in a facility, he shall request the commission to transfer such person to a facility designated by the commissioner. Within thirty days of the receipt of such request the commissioner shall execute the transfer, unless within said period he files a petition under sections seven and eight for the further commitment of the person to the Bridgewater state hospital.
+    </text>
+</law>

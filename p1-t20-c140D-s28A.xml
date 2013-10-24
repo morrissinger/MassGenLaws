@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>28A</section_number>
+    <catch_line>Cardholder Discounts; Surcharges; Finance Charge</catch_line>
+    <order_by>28A</order_by>
+    <text>
+        <section prefix="2">
+    	     No seller in any sales transaction may impose a surcharge on a cardholder who elects to use a credit card in lieu of payment by cash, check or similar means.
+        </section>
+        <section prefix="b">
+    	     With respect to any sales transaction, any discount from the regular price offered by the seller for the purpose of inducing payment by cash, check or other means not involving the use of an open-end-credit plan or a credit card shall not constitute a finance charge under section four if such discount is offered to all prospective buyers and its availability is disclosed clearly and conspicuously.
+        </section>
+    </text>
+</law>

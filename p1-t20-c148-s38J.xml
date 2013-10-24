@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>38J</section_number>
+    <catch_line>Residential Property Utilizing Heating Oil Tanks; Safety Requirements; Inspection; Certification</catch_line>
+    <order_by>38J</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall, unless the context clearly requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     An owner of residential property utilizing a heating oil tank for consumptive use on the premises with 1 or more fuel supply lines or return lines in direct contact with concrete, earth or other floor surfaces shall: (1) enclose any fuel supply line with a continuous non-metallic sleeve; (2) cause an oil safety valve to be installed at the tank end of any fuel supply line in accordance with the manufacturer’s instructions; or (3) employ any other release prevention method approved by the board; provided, however, that the upgrades described in clauses (1) to (3), inclusive, shall not be required if the burner is located above the fuel storage tank and the entire fuel supply line is connected to, and above, the top of the tank.
+        </section>
+        <section prefix="c">
+    	     The provisions of subsection (b) shall not apply to any tank for which fuel supply lines or an oil safety valve were installed or upgraded on or after January 1, 1990; provided, however, that such installation or upgrade complies with 527 CMR 4.03 and 527 CMR 4.04 and has been inspected and certified to be in compliance with said regulations by a licensed oil burner technician on a form prescribed by the department of fire services and submitted to the head of the local fire department, or his designee.
+        </section>
+        <section prefix="d">
+    	     An inspection of upgrades of fuel supply lines and the installation of oil safety valves for compliance with subsection (b) or (c), and any regulations promulgated relevant thereto, shall be conducted by a licensed oil burner technician. Upgrades that comply with said subsection (b) or (c), and any regulations promulgated relevant thereto, shall be certified by such technician on a form prescribed by the department of fire services and the owner shall submit the certification to the head of the local fire department or his designee.
+        </section>
+        <section prefix="e">
+    	     Each local fire department shall forward to the department of fire services a copy of any certification filed pursuant to subsection (d) and the department of fire services shall maintain such records and annually forward a copy of those records to the department of environmental protection.
+        </section>
+    </text>
+</law>

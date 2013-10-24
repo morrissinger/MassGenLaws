@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>104</section_number>
+    <catch_line>Effect On Special Statutes Relating To Fisheries In Particular Places</catch_line>
+    <order_by>104</order_by>
+    <text>
+        This chapter shall not be deemed to affect any privileges granted in any special statute relating to fisheries in any particular place, except such provisions thereof as relate to shellfish and shellfisheries, to alewife fisheries, and to those activities which are the subject of rules and regulations under section seventeen A.
+    </text>
+</law>

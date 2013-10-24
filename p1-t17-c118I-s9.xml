@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118I" order_by="118I" level="3">Health Information Technology</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Temporary Waiver Of Certain Requirements If Unable To Comply Due To The Lack Of Broadband Internet Access</catch_line>
+    <order_by>9</order_by>
+    <text>
+        [ Text of section added by 2012, 224, Sec. 134 effective November 4, 2012.]  If a provider is located in a geographic area of the commonwealth that does not have broadband internet access and, due to lack of such broadband internet access, such provider is unable to fully comply with the requirements of the health information exchange and any other health it information technology requirements implemented by the executive office under this chapter, such provider may apply to the executive office for a temporary waiver of any specific requirement with which it is unable to comply. If the executive office determines that the provider is unable to comply with a requirement due to the lack of broadband internet access, the executive office may grant a waiver of such requirement; provided, however, that, upon a determination by the executive office that broadband internet access has become available to such provider since the date of the grant of the waiver, the executive office shall notify such provider of such availability. Within 180 days of such notice, such provider shall take such actions as are necessary to bring the provider into full compliance with the requirements of the health information exchange and any other health information technology requirements implemented by the executive office under this chapter.
+    </text>
+</law>

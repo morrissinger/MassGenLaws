@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132" order_by="132" level="3">Forestry</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Appropriations For Necessary Expenses</catch_line>
+    <order_by>32</order_by>
+    <text>
+        The forester, subject to the approval of the commissioner, may expend such sums as are annually appropriated for the necessary expenses incurred under section thirty-one.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Lunch Carts; Fee Of Highway Not Owned By Town</catch_line>
+    <order_by>50</order_by>
+    <text>
+        No license as aforesaid shall be granted to use any part of a highway the fee in which is not owned by the town unless the owners of the land abutting on that part of the way consent in writing to the granting of the license.
+    </text>
+</law>

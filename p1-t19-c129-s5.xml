@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Entry Of Orders, Rules And Regulations On Records; Publication</catch_line>
+    <order_by>5</order_by>
+    <text>
+        All orders, rules and regulations made by the director shall be entered on the records of his division and a copy thereof shall be sent to each inspector in the town to which the orders, rules or regulations apply, and shall be published by such inspector in the manner prescribed by the order, rule or regulation.
+    </text>
+</law>

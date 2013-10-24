@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Commitment And Retention Of Dangerous Persons; Petition; Notice;  Hearing</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The superintendent of a facility may petition the district court or the division of the juvenile court department in whose jurisdiction the facility is located for the commitment to said facility and retention of any patient at said facility whom said superintendent determines that the failure to hospitalize would create a likelihood of serious harm by reason of mental illness.
+        </section>
+        <section prefix="b">
+    	     The medical director of the Bridgewater state hospital, the commissioner of mental health, or with the approval of the commissioner of mental health, the superintendent of a facility, may petition the district court or the division of the juvenile court department in whose jurisdiction the facility or hospital is located for the commitment to the Bridgewater state hospital of any male patient at said facility or hospital when it is determined that the failure to hospitalize in strict security would create a likelihood of serious harm by reason of mental illness.
+        </section>
+        <section prefix="c">
+    	     Whenever a court receives a petition filed under any provisions of this chapter for an order of commitment of a person to a facility or to the Bridgewater state hospital, such court shall notify the person, and his nearest relative or guardian, of the receipt of such petition and of the date a hearing on such petition is to be held. The hearing on a petition brought for commitment pursuant to paragraph (e) of section 15, and sections 16 and 18, or for a subsequent commitment pursuant to paragraph (d) of section 8 shall be commenced within 14 days of the filing of the petition, unless a delay is requested by the person or his counsel. For all other persons, the hearing shall be commenced within 5 days of the filing of the petition, unless a delay is requested by the person or his counsel. The periods of time prescribed or allowed under the provisions of this section shall be computed pursuant to Rule 6 of the Massachusetts Rules of Civil Procedure.
+        </section>
+    </text>
+</law>

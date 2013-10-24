@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140B" order_by="140B" level="3">Control Of Certain Junkyards</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Entry And Inspection Of Junkyards</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The administrator, or an agent authorized by him, may at any time enter upon any premises used by any person licensed to carry on business under section fifty-four or fifty-nine of chapter one hundred and forty to ascertain if such person is conducting said business in conformity with the provisions of section two.
+    </text>
+</law>

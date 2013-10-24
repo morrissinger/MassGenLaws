@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>30C</section_number>
+    <catch_line>Termination Of Druggist’S License Upon Cessation Of Business</catch_line>
+    <order_by>30C</order_by>
+    <text>
+        A license issued under section thirty A shall become null and void without any process or decree, if the registered pharmacist to whom it has been granted ceases to conduct his business in person and on his own account, or upon the revocation of his certificate of registration as a pharmacist, unless the registered pharmacist has been unable to so conduct his business or has died, and his business is continued by his wife, widow, executor or administrator under another registered pharmacist.
+    </text>
+</law>

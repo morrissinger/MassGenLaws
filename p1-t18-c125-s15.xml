@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="125" order_by="125" level="3">Correctional Institutions Of The Commonwealth</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Superintendent And Deputies; Residences</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The superintendent, and his deputy, shall reside constantly within the precincts of the correctional institution, unless otherwise authorized by the commissioner.
+    </text>
+</law>

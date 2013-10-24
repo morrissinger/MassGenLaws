@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="115A" order_by="115A" level="3">Soldiers’ Homes</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Insurance Covering Buildings And Contents</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The trustees of the Soldiers’ Home in Massachusetts may insure the buildings of the said home and contents thereof in such amounts as they deem sufficient over and above any insurance coverage purchased by the commonwealth.
+    </text>
+</law>

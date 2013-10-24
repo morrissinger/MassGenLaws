@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>“Licensing Authorities” Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        “Licensing authorities”, as used in this chapter, unless a contrary meaning is required by the context, shall mean the boards in Boston and other cities which by special statutes or city charters have the power to issue licenses for innholders or common victuallers, licensing boards appointed under section four of chapter one hundred and thirty-eight in cities which at the municipal election next preceding the first day of January, nineteen hundred and twenty-five, voted to authorize the granting of licenses for the sale of certain non-intoxicating beverages and also in cities wherein by special statutes said boards are vested with all the powers and duties exercised by licensing boards in cities that vote to grant such licenses, the aldermen in all other cities and the selectmen in towns.
+    </text>
+</law>

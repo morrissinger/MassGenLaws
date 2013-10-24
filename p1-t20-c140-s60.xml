@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Registrar’S Rules And Regulations</catch_line>
+    <order_by>60</order_by>
+    <text>
+        The registrar may from time to time make rules and regulations consistent with sections fifty-seven to sixty-nine, inclusive, relative to the purchase, sale or exchange of second hand motor vehicles or parts thereof.
+    </text>
+</law>

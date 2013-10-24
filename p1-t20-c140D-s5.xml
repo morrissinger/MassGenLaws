@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Annual Percentage Rate; Determination</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The annual percentage rate applicable to any extension of consumer credit shall be determined in accordance with the regulations of the commissioner.
+        </section>
+        <section prefix="1">
+    	     In the case of any extension of credit other than an open-end-credit plan, as
+        </section>
+        <section prefix="A">
+    	     that nominal annual percentage rate which will yield a sum equal to the amount of the finance charge when it is applied to the unpaid balances of the amount financed, calculated according to the actuarial method of allocating payments made on a debt between the amount financed and the amount of the finance charge, pursuant to which a payment is applied first to the accumulated finance charge and the balance is applied to the unpaid amount financed; or
+        </section>
+        <section prefix="B">
+    	     the rate determined by any method prescribed by the commissioner as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subclause (A).
+        </section>
+        <section prefix="2">
+    	     In the case of an extension of credit under an open-end-credit plan, as the quotient, expressed as a percentage, of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
+        </section>
+        <section prefix="b">
+    	     Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the commissioner determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the commissioner may by regulation require.
+        </section>
+        <section prefix="c">
+    	     The disclosure of an annual percentage rate is accurate for the purpose of this chapter if the rate disclosed is within a tolerance not greater than one-eighth of one per centum more or less than the actual rate or rounded to the nearest one-fourth of one per centum. The commissioner may allow a greater tolerance to simplify compliance where irregular payments are involved.
+        </section>
+        <section prefix="d">
+    	     The commissioner may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subclause (A) of clause (1) of subsection (a) by not more than such tolerances as the commissioner may allow. The commissioner may not allow a tolerance greater then eight percentum of that rate except to simplify compliance where irregular payments are involved.
+        </section>
+        <section prefix="e">
+    	     In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the commissioner may authorize other reasonable tolerances.
+        </section>
+    </text>
+</law>

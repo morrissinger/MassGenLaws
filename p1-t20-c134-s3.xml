@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="134" order_by="134" level="3">Lost Goods And Stray Beasts</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Restitution Of Property</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If, within three months after the finding of stray beasts, or within one year after the finding of lost money or goods, the owner appears and, except as otherwise provided in section two, pays all reasonable expenses incurred by the finder in keeping such goods or beasts and in complying with this chapter, he shall have restitution of the money, goods or beasts.
+    </text>
+</law>

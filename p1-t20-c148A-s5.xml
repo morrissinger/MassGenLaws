@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148A" order_by="148A" level="3">Code Enforcement Officer</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Fines, Penalties, Assessments</catch_line>
+    <order_by>5</order_by>
+    <text>
+        All fines, penalties or assessments in actions under this chapter, brought by a local code enforcement officer, shall be paid to the general fund of the city or town in which the violation occurred. Such city or town shall earmark such fines, penalties or assessments collected for enforcement, training and education of fire prevention officers, building inspectors, and the stipend for municipal hearing officers, which shall be not less than $2,500 a year. All fines, penalties or assessments in actions brought under this chapter by a state code enforcement officers shall be paid to the commonwealth and shall be forwarded to the department of fire services as revenue to the General Fund and shall be assigned to the department’s retained revenue account for the purposes of enforcement, training and education of state code enforcement officers.
+    </text>
+</law>

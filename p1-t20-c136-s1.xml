@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="136" order_by="136" level="3">Observance Of A Common Day Of Rest And Legal Holidays</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Common Day Of Rest; Designation; Citation</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Sunday shall be a common day of rest. Sections one to eleven, inclusive, of this chapter may be cited as the Common Day of Rest Law.
+    </text>
+</law>

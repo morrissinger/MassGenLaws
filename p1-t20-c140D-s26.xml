@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Cardholder Liability For Unauthorized Use</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="A">
+    	     The card is an accepted credit card;
+        </section>
+        <section prefix="B">
+    	     The liability is not in excess of fifty dollars;
+        </section>
+        <section prefix="C">
+    	     The card issuer gives adequate notice to the cardholder of the potential liability;
+        </section>
+        <section prefix="D">
+    	     The card issuer has provided the cardholder with a description of a means by which the card issuer may be notified of loss or theft of the card, which description may be provided on the face or reverse side of the statement required by subsection (b) of section eleven or on a separate notice accompanying such statement;
+        </section>
+        <section prefix="E">
+    	     The unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred or may occur as a result of loss, theft, or otherwise; and
+        </section>
+        <section prefix="F">
+    	     The card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
+        </section>
+        <section prefix="2">
+    	     For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
+        </section>
+        <section prefix="b">
+    	     In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
+        </section>
+        <section prefix="c">
+    	     Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
+        </section>
+        <section prefix="d">
+    	     Except as provided in this section, a cardholder shall incur no liability from the unauthorized use of a credit card.
+        </section>
+    </text>
+</law>

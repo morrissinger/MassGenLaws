@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="147" order_by="147" level="3">State And Other Police, And Certain Powers And Duties Of The Department Of Public Safety</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     Crime or other acts committed or threatened against the laws or government of the United States or any state of the United States;
+        </section>
+        <section prefix="b">
+    	     The identity, habits, conduct, movements, whereabouts, affiliations, associations, transactions, reputation or character of any person;
+        </section>
+        <section prefix="c">
+    	     Libels, fires, losses, accidents, or damage to, or loss or theft of, real or personal property;
+        </section>
+        <section prefix="d">
+    	     Evidence to be used before any investigating committee, board of award, or board of arbitration, or in the trial of civil or criminal cases.
+        </section>
+    </text>
+</law>

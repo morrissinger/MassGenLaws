@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Signs; Penalty For Failure To Have Sign</catch_line>
+    <order_by>18</order_by>
+    <text>
+        Every innholder and common victualler shall at all times have a board or sign affixed to his house, shop, cellar or store, or in a conspicuous place near the same, with his name legibly inscribed thereon in large letters and the business for which he is licensed inscribed thereon, and upon neglect thereof shall forfeit twenty dollars.
+    </text>
+</law>

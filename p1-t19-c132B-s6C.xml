@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6C</section_number>
+    <catch_line>Pesticide Use At Schools, Child Care Centers Or School Age Child Care Programs; Standard Written Notification</catch_line>
+    <order_by>6C</order_by>
+    <text>
+        <section prefix="a">
+    	     Pesticides shall not be sprayed, released, deposited or applied indoors while children are on the property of a school, child care center or school age child care program, except for those pesticides listed in section 6F.
+        </section>
+        <section prefix="b">
+    	     Pesticides shall not be sprayed, released, deposited or applied on the outdoor property of a school, child care center or school age child care program while children are located in, on, or adjacent to the area of the pesticide application.
+        </section>
+        <section prefix="c">
+    	     (1) Whenever pesticides are to be sprayed, released, deposited or applied outdoors at a school, child care center or school age child care program, the school administration, child care center operator or school age child care program operator shall ensure that employees, pupils or supervised children and their parents or guardians receive standard written notification, as defined in section 2, at least two working days before pesticides are sprayed, released, deposited or applied, provided that such spraying, release, deposit or application of pesticides shall not commence prior to the approximate dates set forth on the standard written notification, and shall not conclude more than 72 hours after such approximate dates.
+        </section>
+        <section prefix="2">
+    	     Such notification policy shall apply at all times except during periods when classes are not scheduled for at least five consecutive days after the spraying, release, deposit or application or when child care or school age child care facilities are not scheduled to be open for at least five consecutive days after the spraying, release, deposit or application.
+        </section>
+        <section prefix="3">
+    	     Information to be included in the standard written notification shall be provided to the school administration, child care center operator, or school age child care program operator by the certified commercial applicator, certified private applicator, or licensed applicator, or the contractor, employers or employees responsible for carrying out the pesticide spraying, release, deposit or application. Larval mosquito control applications using pesticides classified as category four pesticides by the United States Environmental Protection Agency, as applied by mosquito control projects under chapter 252, are exempt from the notification requirements of this section. This section shall not apply to any use of an anti-microbial pesticide as defined in section 2.
+        </section>
+    </text>
+</law>

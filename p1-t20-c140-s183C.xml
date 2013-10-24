@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>183C</section_number>
+    <catch_line>Violation Of Statute; Report Of Conviction; Revocation Of Charter Of Corporation</catch_line>
+    <order_by>183C</order_by>
+    <text>
+        Any person described in section one hundred and eighty-three A who engages in a business required to be licensed by said section unless authorized so to do by a license in full force and effect, and any holder of such a license who violates any condition thereof, shall be punished by a fine of not more than one thousand dollars, or by imprisonment for not more than one year, or by both. The clerk of the court in which a corporation engaged in such business is convicted under this section shall forthwith report such conviction to the state secretary, who shall thereupon revoke the charter of such corporation.
+    </text>
+</law>

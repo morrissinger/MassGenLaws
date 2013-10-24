@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="134" order_by="134" level="3">Lost Goods And Stray Beasts</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Taking Away Stray Beasts Without Paying Lawful Charges</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Any person who takes away a beast taken up as a stray, without paying all lawful charges in relation thereto, shall forfeit to the finder double the amount of such charges, but not more than the value of the beast at the time of such taking away.
+    </text>
+</law>

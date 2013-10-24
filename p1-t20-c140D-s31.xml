@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Prohibited Acts; Penalty</catch_line>
+    <order_by>31</order_by>
+    <text>
+        <section prefix="1">
+    	     Gives false or inaccurate information or fails to provide information which he is required to disclose under the provisions of this chapter or any regulation issued thereunder,
+        </section>
+        <section prefix="2">
+    	     Uses any chart or table authorized by the commissioner or the board under section five in such a manner as to consistently understate the annual percentage rate determined under subclause (A) of clause (1) of subsection (a) of section five, or
+        </section>
+        <section prefix="3">
+    	     Otherwise fails to comply with any requirement imposed under this chapter, or any rule or regulation issued thereunder, shall be fined not more than five thousand dollars or imprisoned not more than one year, or both.
+        </section>
+    </text>
+</law>

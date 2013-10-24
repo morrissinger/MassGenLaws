@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Rights Of Persons Receiving Services From Programs Or Facilities Of Department Of Mental Health</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     reasonable access to a telephone to make and receive confidential telephone calls and to assistance when desired and necessary to implement such right; provided, that such calls do not constitute a criminal act or represent an unreasonable infringement of another person’s right to make and receive telephone calls;
+        </section>
+        <section prefix="b">
+    	     to send and receive sealed, unopened, uncensored mail; provided, however, that the superintendent or director or designee of an inpatient facility may direct, for good cause and with documentation of specific facts in such person’s record, that a particular person’s mail be opened and inspected in front of such person, without it being read by staff, for the sole purpose of preventing the transmission of contraband. Writing materials and postage stamps in reasonable quantities shall be made available for use by such person. Reasonable assistance shall be provided to such person in writing, addressing and posting letters and other documents upon request;
+        </section>
+        <section prefix="c">
+    	     to receive visitors of such person’s own choosing daily and in private, at reasonable times. Hours during which visitors may be received may be limited only to protect the privacy of other persons and to avoid serious disruptions in the normal functioning of the facility or program and shall be sufficiently flexible as to accommodate individual needs and desires of such person and the visitors of such person.
+        </section>
+        <section prefix="d">
+    	     to a humane psychological and physical environment. Each such person shall be provided living quarters and accommodations which afford privacy and security in resting, sleeping, dressing, bathing and personal hygiene, reading and writing and in toileting. Nothing in this section shall be construed to require individual sleeping quarters.
+        </section>
+        <section prefix="e">
+    	     to receive at any reasonable time as defined in department regulations, or refuse to receive, visits and telephone calls from a client’s attorney or legal advocate, physician, psychologist, clergy member or social worker, even if not during normal visiting hours and regardless of whether such person initiated or requested the visit or telephone call. An attorney or legal advocate working under an attorney’s supervision and who represents a client shall have access to the client and, with such client’s consent, the client’s record, the hospital staff responsible for the client’s care and treatment and any meetings concerning treatment planning or discharge planning where the client would be or has the right to be present. Any program or facility, or part thereof, operated by, licensed by or contracting with the department shall ensure reasonable access by attorneys and legal advocates of the Massachusetts Mental Health Protection and Advocacy Project, the Mental Health Legal Advisors Committee, the committee for public counsel services and any other legal service agencies funded by the Massachusetts Legal Assistance Corporation under the provisions of chapter 221A, to provide free legal services. Upon admission, and upon request at any time thereafter, persons shall be provided with the name, address and telephone number of such organizations and shall be provided with reasonable assistance in contacting and receiving visits or telephone calls from attorneys or legal advocates from such organizations; provided, however, that the facility shall designate reasonable times for unsolicited visits and for the dissemination of educational materials to persons by such attorneys or legal advocates. The department shall promulgate rules and regulations further defining such access. Nothing in this paragraph shall be construed to limit the ability of attorneys or legal advocates to access clients records or staff as provided by any other state or federal law.
+        </section>
+    </text>
+</law>

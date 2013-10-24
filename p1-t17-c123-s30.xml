@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Unauthorized Absence Of Patients; Notification Of Police, Et Al.;  Return</catch_line>
+    <order_by>30</order_by>
+    <text>
+        If a patient or resident in a facility of the department is absent without authorization the superintendent of the facility shall notify the state and local police, the district attorney of the county wherein the facility is located and the next of kin of such patient or resident. Any patient or resident in a facility of the department who is absent for less than six months without authorization consistent with the provisions of this chapter, the regulations of the department, or the rules of said facility may be returned by a police officer or other person designated by the superintendent or the director. Said six month limitation shall not apply to persons who have been found not guilty of a criminal charge by reason of insanity nor to persons who have been found incompetent to stand trial on a criminal charge.
+    </text>
+</law>

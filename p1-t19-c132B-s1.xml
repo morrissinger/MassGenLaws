@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Title; Purpose</catch_line>
+    <order_by>1</order_by>
+    <text>
+        This chapter shall be known and may be cited as the Massachusetts Pesticide Control Act. 
+The purpose of this chapter is to conform the laws of the commonwealth to the Federal Insecticide, Fungicide, and Rodenticide Act, Public Law 92-516, as amended, and the regulations promulgated thereunder and to establish a regulatory process in the commonwealth. The exclusive authority in regulating the labeling, distribution, sale, storage, transportation, use and application, and disposal of pesticides in the commonwealth shall be determined by this chapter.
+    </text>
+</law>

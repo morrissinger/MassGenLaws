@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Fur Buyers’ Licenses; Shipments; Accounts</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     A citizen of the United States, resident in this commonwealth for at least six consecutive months immediately prior to his application for such license, a resident citizen’s fur buyer’s license; or
+        </section>
+        <section prefix="2">
+    	     A citizen of the United States, nonresident in this commonwealth, and any alien, a nonresident and alien fur buyer’s license.
+        </section>
+    </text>
+</law>

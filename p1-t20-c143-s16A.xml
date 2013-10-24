@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>16A</section_number>
+    <catch_line>Furnishing Safety Inspection Or Advisory Services; Liability Of Insurers</catch_line>
+    <order_by>16A</order_by>
+    <text>
+        The furnishing of, or failure to furnish, safety inspection or advisory services intended to reduce the likelihood of injury, death or loss shall not subject an insurer, its agent or employee undertaking to perform such services as an incident to insurance, to liability for damages from injury, death or loss occurring as a result of any act or omission in the course of such services. This provision shall not apply in the event the active negligence of the insurer, its agent or employee created the condition which was the proximate cause of injury, death or loss.
+    </text>
+</law>

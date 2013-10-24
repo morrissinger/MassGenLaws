@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>71I</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>71I</order_by>
+    <text>
+        <section prefix="1">
+    	     Two-car aerial passenger tramway, a device used to transport passengers in two open or enclosed cars attached to, and suspended from, a moving wire rope, or attached to a moving wire rope and supported on a standing wire rope, or similar devices.
+        </section>
+        <section prefix="2">
+    	     Multi-car aerial passenger tramway, a device used to transport passengers in several open or enclosed cars attached to, and suspended from, a moving wire rope, or attached to a moving wire rope and supported on a standing wire rope, or similar devices.
+        </section>
+        <section prefix="3">
+    	     Skimobile, a device in which a passenger car running on steel or wooden tracks is attached to and pulled by a steel cable, or similar devices.
+        </section>
+        <section prefix="4">
+    	     Chair lift, a type of transportation on which passengers are carried on chairs suspended in the air and attached to a moving cable, chain or link belt supported by trestles or towers with one or more spans, or similar devices.
+        </section>
+        <section prefix="5">
+    	     J bar, T bar or platter pull, so-called, and similar types of devices, means of transportation which pull skiers riding on skis by means of an attachment to a main overhead cable supported by trestles or towers with one or more spans.
+        </section>
+        <section prefix="6">
+    	     Rope tow, a type of transportation which pulls the skiers riding on skis as the skiers grasp the rope manually, or similar devices.
+        </section>
+    </text>
+</law>

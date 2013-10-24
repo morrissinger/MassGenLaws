@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Pressure; Safety Appliances</catch_line>
+    <order_by>9</order_by>
+    <text>
+        No person shall operate or cause to be operated any boiler required by this chapter to be inspected at pressures in excess of the safe working pressure ascertained by the rules of the board and stated in the certificate of inspection nor unless the boiler is equipped with such safety appliances as are prescribed by the board.
+    </text>
+</law>

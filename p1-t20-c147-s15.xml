@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="147" order_by="147" level="3">State And Other Police, And Certain Powers And Duties Of The Department Of Public Safety</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>One Day Out Of Fifteen</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Except in Boston, members of the police department of every town which accepted chapter two hundred and ten of the acts of nineteen hundred and eleven and did not accept chapter one hundred and sixty-six of the acts of nineteen hundred and twenty shall be excused from duty for one day out of every fifteen without loss of pay.
+    </text>
+</law>

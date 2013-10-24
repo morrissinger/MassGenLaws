@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>18A</section_number>
+    <catch_line>Facility Residents; Contribution Towards Cost Of Counsel</catch_line>
+    <order_by>18A</order_by>
+    <text>
+        A person who is a resident in a facility of the department of mental health or in the Bridgewater state hospital and who has funds held in trust for him by the department of mental health or the department of correction, shall contribute toward the cost of any counsel appointed pursuant to chapter two hundred and eleven D to provide representation in proceedings under this chapter, in an amount not exceeding five hundred dollars unless a larger contribution has been ordered by a court pursuant to sections two and five of chapter two hundred and eleven D. Whenever the department of correction or the department of mental health holds funds in trust for such a person, the department shall turn over such funds, but not exceeding five hundred dollars, to the treasurer to be credited toward the cost of providing such counsel.
+    </text>
+</law>

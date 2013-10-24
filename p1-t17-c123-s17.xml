@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Periodic Review Of Incompetence To Stand Trial; Petition; Hearing;  Continued Treatment; Defense To Charges; Release</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The periodic review of a person found incompetent to stand trial shall include a clinical opinion with regard to the person’s competence to stand trial, which opinion shall be noted in writing on the patient’s record. If any person found incompetent to stand trial is determined by the superintendent of the facility or the medical director of the Bridgewater state hospital to be no longer incompetent, the superintendent or medical director shall notify the court, which shall without delay hold a hearing on the person’s competency to stand trial. Any person found incompetent to stand trial may at any time petition the court for a hearing on his competency. Whenever a hearing is held and the court finds that the person is competent to stand trial, his commitment, if any, to a facility or to the Bridgewater state hospital shall be terminated and he shall be returned to the custody of the court for trial. However, if the person requests continued care and treatment during the pendency of the criminal proceedings against him and the superintendent or medical director agrees to provide such care and treatment, the court may order the further hospitalization of such person at the facility or the Bridgewater state hospital.
+        </section>
+        <section prefix="b">
+    	     If either a person or counsel of a person who has been found to be incompetent to stand trial believes that he can establish a defense of not guilty to the charges pending against the person other than the defense of not guilty by reason of mental illness or mental defect, he may request an opportunity to offer a defense thereto on the merits before the court which has criminal jurisdiction. The court may require counsel for the defendant to support the request by affidavit or other evidence. If the court in its discretion grants such a request, the evidence of the defendant and of the commonwealth shall be heard by the court sitting without a jury. If after hearing such petition the court finds a lack of substantial evidence to support a conviction it shall dismiss the indictment or other charges or find them defective or insufficient and order the release of the defendant from criminal custody.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any finding of incompetence to stand trial under the provisions of this chapter, the court having jurisdiction may, at any appropriate stage of the criminal proceedings, allow a defendant to be released with or without bail.
+        </section>
+    </text>
+</law>

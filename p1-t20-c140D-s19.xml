@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Time For Sending Statement; Noncompliance; Finance Charge</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     The creditor shall mail or deliver to the customer the statement or statements required by subsection (b) of section eleven for each billing cycle at least fifteen days before the end of the next succeeding billing cycle or the payment due date, whichever is earlier. If the creditor fails to mail or deliver such statement or statements within the specified period, he shall not be entitled to any finance charge with respect to the next succeeding billing cycle based upon the balance of the preceding billing cycle.
+        </section>
+        <section prefix="b">
+    	     Subsection (a) shall not apply in any case where a creditor has been prevented, delayed or hindered in making timely mailing or delivery of such periodic statement within the time period specified in said subsection because of an act of God, war, natural disaster, strike or other excusable or justifiable cause, as determined by the commissioner.
+        </section>
+    </text>
+</law>

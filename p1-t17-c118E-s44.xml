@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Civil Remedies; Limitations</catch_line>
+    <order_by>44</order_by>
+    <text>
+        If any person violates the provisions of this chapter, the attorney general or a district attorney may bring a civil action, either in lieu of or in addition to a criminal prosecution, and recover three times the amount of damages sustained including the costs of investigation and litigation. No action shall be brought under this section more than six years after it accrues.
+    </text>
+</law>

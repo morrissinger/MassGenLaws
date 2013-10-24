@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>3B</section_number>
+    <catch_line>Child Support Orders; Receipt Of Iv D Agency Services; Modification Of Child Support; Notice; Jurisdiction</catch_line>
+    <order_by>3B</order_by>
+    <text>
+        <section prefix="a">
+    	     With respect to a child support order in a case receiving IV-D services, every three years, or more frequently, as the commissioner may by regulation determine, upon the request of either parent, or if there is an assignment under Title IV, Part A of the Social Security Act, upon the request of the IV-D agency or either parent, the IV-D agency shall, taking into account the best interest of the child involved-
+        </section>
+        <section prefix="1">
+    	     review and, if appropriate, prepare a proposed stipulation to modify the order in accordance with the child support guidelines if the amount of the child support award under the order differs from the amount that would be awarded in accordance with the guidelines; provided, however, that no threshold for application of the guidelines to modifications shall apply;
+        </section>
+        <section prefix="2">
+    	     prepare a proposed stipulation to modify the order by applying a cost-of-living adjustment to the order in accordance with a formula developed by regulation promulgated by the commissioner of revenue; or
+        </section>
+        <section prefix="3">
+    	     use automated methods, including comparisons with wage or state income tax data or other data, to identify orders eligible for review, conduct the review, identify orders eligible for modification, and, if appropriate, prepare a proposed stipulation to modify an eligible order under any threshold for modification that may be established by regulation promulgated by the commissioner of revenue.
+        </section>
+        <section prefix="b">
+    	     The IV-D agency shall send notice of intent to modify the order, together with the proposed stipulation to modify the order under this section, by first class mail to the address of the obligor and the individual obligee as appearing in the state case registry pursuant to section 4. The parties may accept the proposed stipulation by signing it and returning it to the IV-D agency within 30 days of the date the notice is mailed. If the parties sign and return the stipulation to the IV-D agency within 30 days of the date the notice is mailed, the IV-D agency shall file a complaint to modify the order, together with the signed stipulation, and the signed stipulation shall provide a sufficient basis for the court to modify the order in accordance with the stipulation, without any additional testimony or hearing. If any party does not sign and return the proposed stipulation to the IV-D agency within 30 days of the date the notice is mailed, or if any party contests the proposed stipulation, the IV-D agency may file a complaint to modify the order.
+        </section>
+        <section prefix="c">
+    	     If the order that the complaint seeks to modify was entered by a probate and family court of the commonwealth, the IV-D agency shall file the complaint in the probate and family court which issued the order that the complaint seeks to modify. If the order that the complaint seeks to modify was issued by the Boston municipal court or by a district court of the commonwealth, or by a court or administrative agency of competent jurisdiction of another state and a court of the commonwealth would have jurisdiction to modify the order pursuant to chapter 209D, the IV-D agency shall file the complaint in the probate and family court located in the county in which one of the parents and the child reside or, if the child resides with neither parent, where the child resides. The IV-D agency shall provide to the parties by first class mail a copy of the modified order entered by the court, and shall enforce the order as provided by this chapter.
+        </section>
+        <section prefix="d">
+    	     If the IV-D agency elects to conduct the review under paragraph (1) of subsection (a), and the IV-D agency determines that there is a variation between the amount of the existing order and the amount that would result upon application of the child support guidelines, the IV-D agency may issue a notice of its intent to modify the order and proposed stipulation on the basis of financial information relating to both parties available to the agency, including tax information pursuant to chapter 62C and wage reporting information pursuant to chapter 62E, in accordance with such guidelines. The notice shall identify the sources of the financial information relating to the parties that serves as the basis for the calculation of the amount of support in the proposed stipulation.
+        </section>
+        <section prefix="e">
+    	     If the IV-D agency elects to conduct the review under paragraph (2) or (3) of subsection (a), the IV-D agency shall issue a notice to the obligor and individual obligee of its intent to modify the order and proposed stipulation. If the IV-D agency conducts the review under said paragraph (2) of said subsection (a), the notice shall specify the cost of living formula. If the IV-D agency conducts the review under said paragraph (3) of said subsection (a), the notice pursuant to subsection (b) shall specify the threshold for modification and shall identify the sources of the financial information relating to the parties, including tax information pursuant to chapter 62C and wage reporting information pursuant to chapter 62E that serves as the basis for the calculation of the amount of support in the proposed stipulation.
+        </section>
+        <section prefix="g">
+    	     Any modification of an order initiated by the IV-D agency within the three-year cycle, or such shorter cycle as the commissioner of revenue may by regulation determine, as provided in subsection (a), shall be made without a requirement for proof or showing of a change in circumstances by either parent or by the IV-D agency. In the case of a request for review and, if appropriate, a modification, made by a parent or the IV-D agency outside the three-year cycle, or such shorter cycle as the commissioner of revenue may by regulation determine, the IV-D agency shall review and, if the requesting party demonstrates a substantial change in circumstances, file a complaint to modify the order in accordance with the child support guidelines and any threshold for application of the child support guidelines to modifications shall apply.
+        </section>
+        <section prefix="h">
+    	     The IV-D agency shall provide notice not less than once every three years to the parents subject to the order informing the parents of their right to request the IV-D agency to review and, if appropriate, modify the order as set forth herein. The notice may be included in the order of support.
+        </section>
+        <section prefix="i">
+    	     This section shall not apply to support orders in cases not receiving IV-D services.
+        </section>
+    </text>
+</law>

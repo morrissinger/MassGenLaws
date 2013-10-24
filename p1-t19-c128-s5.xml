@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="128" order_by="128" level="3">Agriculture</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Annual Report</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The department shall make an annual report, including the number of agents, assistants and scientific experts employed in the various divisions together with their expenses and disbursements, of all investigations made by the department of all cases prosecuted with the results thereof, and any other information advantageous to the public and agricultural industry.
+    </text>
+</law>

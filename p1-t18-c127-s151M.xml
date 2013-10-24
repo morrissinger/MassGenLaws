@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>151M</section_number>
+    <catch_line>Severability; Construction</catch_line>
+    <order_by>151M</order_by>
+    <text>
+        <section prefix="a">
+    	     The provisions of this compact shall be severable, and if any phrase, clause, sentence or provision is deemed unenforceable, the remaining provisions of the compact shall be enforceable.
+        </section>
+        <section prefix="b">
+    	     The provisions of this compact shall be liberally constructed to effectuate its purposes.
+        </section>
+    </text>
+</law>

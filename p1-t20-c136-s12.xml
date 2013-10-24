@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="136" order_by="136" level="3">Observance Of A Common Day Of Rest And Legal Holidays</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Public Offices; Closing</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The public offices shall be closed on all legal holidays except March seventeenth, May twentieth, and June seventeenth; provided, however, in Suffolk county such offices shall be closed on March seventeenth and June seventeenth or the day following when either of said days occurs on Sunday.
+    </text>
+</law>

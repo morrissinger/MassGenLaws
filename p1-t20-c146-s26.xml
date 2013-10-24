@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Insurance On Non Certificated Boiler; Notice; Inspection; Boiler Not Conforming To Rules</catch_line>
+    <order_by>26</order_by>
+    <text>
+        If a boiler is insured which has not previously been inspected externally and internally and a certificate of inspection issued, the company so insuring shall forthwith notify the chief to that effect, and shall inspect such boiler internally and externally within one month after the insurance is effected. No insurance shall be effected on any boiler which does not conform to the rules of the board.
+    </text>
+</law>

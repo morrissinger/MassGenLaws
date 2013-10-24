@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Acquisition Of Rights, Privileges, Lands And Properties</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     for the purpose of providing public fishing grounds, acquire by gift, lease, easement, purchase, exchange or license or accept by transfer, fishing rights and privileges or lands or interests therein necessary for such purpose, together with rights of ingress and egress;
+        </section>
+        <section prefix="2">
+    	     for the purpose of fish and wildlife management and propagation, acquire by gift, lease, easement, purchase, exchange or license or accept by transfer, properties or interests therein at such places in the commonwealth as he may select.
+        </section>
+        <section prefix="3">
+    	     for the purpose of providing public shooting grounds, acquire by gift, purchase, lease or easement, or without consideration therefor obtain by license or permit the use of lands or waters within the commonwealth, of shooting rights thereon or therein, together with necessary and proper rights of ingress and egress.
+        </section>
+    </text>
+</law>

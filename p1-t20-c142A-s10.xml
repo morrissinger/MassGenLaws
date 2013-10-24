@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142A" order_by="142A" level="3">Regulation Of Home Improvement Contractors</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Registration Applications; Required Information</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     applicant’s name, home address, business address exclusive of post office box addresses, and social security number;
+        </section>
+        <section prefix="b">
+    	     the names and addresses of any and all owners, partners or trustees of an applicant including, in case of corporate entities, the names and addresses of any and all officers, directors and principal shareholders, and copy of a business certificate if a registrant is not incorporated. If such corporate information is accurately reflected in the articles of organization or amendments thereto, or a current annual report of condition or other documents on file with the secretary of state or the Securities and Exchange Commission, a copy of the relevant sections of such filing shall satisfy the application requirements specified herein. If a person is conducting business in the commonwealth under any title other than his real name, individually or as a partnership, a copy of the certificate filed with the clerk of the city or town where an office of such person or partnership may be situated pursuant to section five of chapter one hundred and ten shall satisfy the application requirements specified herein.
+        </section>
+        <section prefix="c">
+    	     whether the applicant has ever been previously registered in the commonwealth as a contractor or subcontractor pursuant to this chapter, under what other names he was previously registered, whether there have been previous judgments or arbitration awards against him, whether there is money owing to the fund on account of such judgments or awards against him, and whether his registration has ever been suspended or revoked.
+        </section>
+    </text>
+</law>

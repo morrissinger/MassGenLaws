@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>109</section_number>
+    <catch_line>Receipt; Part Payment</catch_line>
+    <order_by>109</order_by>
+    <text>
+        If a payment is made on account of a loan to which sections ninety-six to one hundred and eleven, inclusive, apply, the person who receives the payment, or his principal, shall, when the payment is taken, give to the person paying a receipt setting forth the amount then paid and the amount previously paid, and identifying the loan, note, mortgage or assignment to which it is to be applied.
+    </text>
+</law>

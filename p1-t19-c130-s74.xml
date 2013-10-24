@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>74</section_number>
+    <catch_line>Determination Of Contaminated Areas; Notice Of Results</catch_line>
+    <order_by>74</order_by>
+    <text>
+        <section prefix="1">
+    	     Publish the results of its determination thereof in a newspaper published in each city and town in which or adjacent to which any contaminated area is situated.
+        </section>
+        <section prefix="2">
+    	     File in the office of the clerk of every such city or town the results of the determination.
+        </section>
+        <section prefix="3">
+    	     Cause to be posted at points on or near every such area a description thereof, specifying said bounds and a statement that such an area is contaminated.
+        </section>
+        <section prefix="4">
+    	     If the department of public health makes the determination, notify the directors of the division of marine fisheries and the division of law enforcement of its determination by filing with them properly authenticated copies, certified by the secretary of state, of its determination, publication, filing and posting.
+        </section>
+        <section prefix="5">
+    	     If the division of marine fisheries makes the determination, notify the director of the division of law enforcement of its determination by filing with him properly authenticated copies, certified by the secretary of state, of its determination, publication, filing and posting.
+        </section>
+    </text>
+</law>

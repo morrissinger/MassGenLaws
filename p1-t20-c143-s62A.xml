@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>62A</section_number>
+    <catch_line>Fees For Inspections And Safety Tests</catch_line>
+    <order_by>62A</order_by>
+    <text>
+        <section prefix="1">
+    	     For the inspection of a new installation, repair, or replacement of power passenger and freight elevators, hydraulic and electric passenger and freight elevators, hand power operated service elevators and temporary workmen’s elevators.
+        </section>
+        <section prefix="2">
+    	     For each safety test and inspection of elevators and devices as described in paragraph (1).
+        </section>
+        <section prefix="3">
+    	     For the inspection of a new installation of a private residence elevator or an inclined lift.
+        </section>
+    </text>
+</law>

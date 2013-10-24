@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Inspection Certificate Issued By Insurer And Signed By Non Certificated Inspector</catch_line>
+    <order_by>16</order_by>
+    <text>
+        If any insurance company issues a certificate of inspection signed by an inspector who does not hold a certificate of competency, the commissioner may, if it is a domestic company, proceed against it under section six of chapter one hundred and seventy-five or may, if it is a foreign company, revoke or suspend its license under section five of said chapter.
+    </text>
+</law>

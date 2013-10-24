@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Director Of Dental Services</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to improve, promote and protect oral health, there shall be, in the office of Medicaid, a full-time director of dental services who shall work collaboratively with the department of public health to facilitate the integration of programs to improve oral health.
+        </section>
+        <section prefix="b">
+    	     The director of dental services shall be a dentist licensed in the commonwealth who has public health experience and shall oversee the MassHealth dental program and collaborate with the dental director at the department of public health and the office of oral health on dental public health programs for MassHealth recipients to increase access to oral health services, oral health prevention activities and other initiatives to address oral health disparities including, but not limited to, workforce shortages.
+        </section>
+    </text>
+</law>

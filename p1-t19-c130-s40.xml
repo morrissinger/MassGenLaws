@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Closed Season On Edible Crabs</catch_line>
+    <order_by>40</order_by>
+    <text>
+        No person, either as principal, agent or employee, shall between January first and the following April thirtieth, both dates inclusive, take or catch edible crabs, by the use of traps or otherwise, from the coastal waters. Violation of the provisions of this section shall be punished by a fine of not less than ten nor more than fifty dollars.
+    </text>
+</law>

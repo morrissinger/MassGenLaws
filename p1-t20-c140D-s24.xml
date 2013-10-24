@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Guaranty Of Obligations Of Other Persons; Notice Of Additional Obligations</catch_line>
+    <order_by>24</order_by>
+    <text>
+        No person who executes a guaranty of the obligations of another in connection with an application by such other person for an open-end-credit plan or for an extension of credit other than an open-end-credit plan shall be liable as a result of such guaranty for an obligation not arising under such plan or extension of credit unless such person has been notified of such additional obligation in advance.
+    </text>
+</law>

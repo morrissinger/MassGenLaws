@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="139" order_by="139" level="3">Common Nuisances</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Abatement Or Removal Of Nuisance By Aldermen Or Selectmen</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The aldermen or selectmen shall have the same power to abate and remove any such nuisance as is given to the board of health of a town under sections one hundred and twenty-three to one hundred and twenty-five, inclusive, of chapter one hundred and eleven.
+    </text>
+</law>

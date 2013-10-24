@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Forfeiture Of Net, Seine, Or Other Device; Forfeiture Of Fish</catch_line>
+    <order_by>55</order_by>
+    <text>
+        Any net, seine, trawl, or other similar device used by any person in violation of any provision of this chapter, or of any rule or regulation made under authority thereof, and any fish taken in violation thereof, shall be forfeited to the commonwealth and disposed of by the director of law enforcement for the best interest of the commonwealth.
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121D" order_by="121D" level="3">Affordable Housing Trust Fund</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Assistance From Fund; Eligible Activities And Organizations; Preferences</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The fund shall finance low and no interest loans, grants, subsidies, credit enhancements and other financial assistance for community affordable and mixed-income housing developments and shall pay for administering the fund; provided, however, that such assistance shall be the minimum amount necessary to make a project feasible. Activities eligible for assistance from the fund include, but are not limited to:
+        </section>
+        <section prefix="1">
+    	     Capital grants and deferred payment loans for new construction, rehabilitation, or acquisition of housing units;
+        </section>
+        <section prefix="2">
+    	     Capital grants and deferred payment loans for new construction, rehabilitation, or acquisition of permanent housing or transitional housing units for homeless families and individuals;
+        </section>
+        <section prefix="3">
+    	     Mortgage insurance guarantees and other credit enhancements for eligible projects;
+        </section>
+        <section prefix="4">
+    	     Projects making affordable housing more accessible to senior citizens and people with disabilities;
+        </section>
+        <section prefix="5">
+    	     Matching funds for municipalities that sponsor affordable housing initiatives;
+        </section>
+        <section prefix="6">
+    	     Down payment and closing cost assistance for first-time home buyers;
+        </section>
+        <section prefix="7">
+    	     Matching funds for employer-based programs to assist employees in meeting their rental and homeownership housing costs; and
+        </section>
+        <section prefix="8">
+    	     Repair, rehabilitation and modernization of existing public housing units. The fund shall expend for this purpose not less than $5 million per year.
+        </section>
+        <section prefix="b">
+    	     Organizations that may receive assistance from the fund include governmental subdivisions, community development corporations, local housing authorities, community action agencies, community-based or neighborhood-based non-profit housing organizations, other non-profit organizations, for-profit entities and private employers. Preference shall be given to nonprofit organizations, to organizations sponsoring projects that secure private funds and to projects with the longest-term affordability restrictions.
+        </section>
+        <section prefix="c">
+    	     Housing units constructed, rehabilitated, or acquired using funds from the fund shall remain affordable for the longest period reasonably achievable and consistent with affordability restrictions as part of the development’s other funding sources. In the absence of other affordability restrictions, housing units constructed, rehabilitated, or acquired using funds from the fund shall remain affordable for not less than 30 years.
+        </section>
+        <section prefix="d">
+    	     The fund shall give special attention to the preservation of developments which are or were subject to prepayment of a state or federally assisted mortgage or which are receiving project-based rental assistance under section 8 of the United States Housing Act of 1937, 42 U.S.C. section 1437f, and such rental assistance is expiring; provided, however, that such funding priority shall be based on at-risk criteria to be determined by the Department of Housing and Community Development in conjunction with the Massachusetts Housing Finance Agency and set forth in regulations promulgated by the Department.
+        </section>
+    </text>
+</law>

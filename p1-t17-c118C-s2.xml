@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118C" order_by="118C" level="3">Coverage Of Certain Employees Under The Federal Social Security Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The term “wages” means all remuneration for employment as defined herein, including the cash value of all remuneration paid in any medium other than cash, except that such term shall not include that part of such remuneration which, even if it were for “employment” within the meaning of the Federal Insurance Contributions Act, would not constitute “wages” within the meaning of that act;
+        </section>
+        <section prefix="b">
+    	     The term “employment” means any service performed by an employee in the employ of any instrumentality, for such employer, except (1) service which in the absence of an agreement entered into under this chapter would constitute “employment” as defined in the Social Security Act; or (2) service which under the Social Security Act may not be included in an agreement between the commonwealth and the Federal Security Administrator entered into under this chapter;
+        </section>
+        <section prefix="c">
+    	     The term “employee” includes an officer of an instrumentality;
+        </section>
+        <section prefix="d">
+    	     The term “state agency” means the state board of retirement, as defined in section eighteen of chapter ten;
+        </section>
+        <section prefix="e">
+    	     The term “Federal Security Administrator” includes any individual to whom the Federal Security Administrator has delegated any of his functions under the Social Security Act with respect to coverage under such act of employees of states and their political subdivisions;
+        </section>
+        <section prefix="f">
+    	     The term “instrumentality” means an authority or agency of the commonwealth or of one or more of its political subdivisions, or of the commonwealth and one or more of its political subdivisions, which is a juristic entity which is legally separate and distinct from the commonwealth or subdivision, and whose employees are not by virtue of their relation to such juristic entity employees of the commonwealth or subdivision;
+        </section>
+        <section prefix="g">
+    	     The term “Social Security Act” means the Act of Congress approved August fourteenth, nineteen hundred and thirty-five, chapter five hundred and thirty-one, 49 Stat. 620, cited as the “Social Security Act”, including regulations and requirements issued pursuant thereto, as such act has been and may from time to time be amended; and
+        </section>
+        <section prefix="h">
+    	     The term “Federal Insurance Contributions Act” means subchapter A of chapter nine of the Federal Internal Revenue Code.
+        </section>
+    </text>
+</law>

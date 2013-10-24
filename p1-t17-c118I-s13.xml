@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118I" order_by="118I" level="3">Health Information Technology</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Patient Election To Participate In Health Information Exchange</catch_line>
+    <order_by>13</order_by>
+    <text>
+        [ Text of section added by 2012, 224, Sec. 134 effective November 4, 2012.]  The ability of any provider to transfer or access all or any part of a patient's electronic health record under this chapter shall be subject to the patient's election to participate in the electronic health information exchange as provided in section 11.
+    </text>
+</law>

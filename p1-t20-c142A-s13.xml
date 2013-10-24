@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="142A" order_by="142A" level="3">Regulation Of Home Improvement Contractors</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Registration Records; Building Permits, Contracts And Advertisements</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     The director shall keep on file, in convenient form and open to public inspection, all applications for registration and copies of registrations issued and the names of all contractors or subcontractors whose registration has been revoked, suspended or surrendered.
+        </section>
+        <section prefix="b">
+    	     All building permits shall clearly state that persons contracting with unregistered contractors do not have access to the guaranty fund under this chapter.
+        </section>
+        <section prefix="c">
+    	     Every contract, building permit and advertisement shall display the contractor’s or subcontractor’s certificate of registration number.
+        </section>
+        <section prefix="d">
+    	     Every registered contractor or subcontractor shall notify the director within thirty days of any change of trade name or address.
+        </section>
+        <section prefix="e">
+    	     Upon the expiration, termination or voluntary surrender of a registration, the registrant shall deliver the registration to the director who shall cancel the registration and endorse the date of expiration, termination or surrender.
+        </section>
+        <section prefix="f">
+    	     If a certificate of registration is lost, misplaced or destroyed, the registrant shall file an affidavit to that effect and the director for a nominal fee, shall issue a replacement registration, clearly identified as such, both on the certificate of registration and in the records of the director.
+        </section>
+    </text>
+</law>

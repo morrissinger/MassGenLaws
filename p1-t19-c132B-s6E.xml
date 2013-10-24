@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6E</section_number>
+    <catch_line>Integrated Pest Management Plans</catch_line>
+    <order_by>6E</order_by>
+    <text>
+        <section prefix="a">
+    	     On or before November 1, 2001, each school, child care center and school age child care program in the commonwealth shall adopt and implement, in accordance with any regulations promulgated by the department pursuant to this chapter, an integrated pest management plan. The plan shall cover both indoor and outdoor areas. The department shall produce a generic integrated pest management plan that may be adopted by any school, child care center or school age child care program. One copy of the plan adopted by the school, child care center or school age child care program shall be filed with the department, and at least one additional copy shall be kept on site and made available to the public upon request pursuant to section 10 of chapter 66. Every agency of the commonwealth shall develop and implement integrated pest management plans and procedures for all buildings and grounds owned or managed by the commonwealth.
+        </section>
+        <section prefix="b">
+    	     No person shall spray, release, deposit or apply or supervise the spraying, release, deposit or application of any pesticide in, on, or around structures or grounds of a school, child care center or school age child care program unless that person is a certified commercial applicator, certified private applicator, licensed applicator, or is under the supervision of a certified commercial applicator, certified private applicator or licensed applicator.
+        </section>
+    </text>
+</law>

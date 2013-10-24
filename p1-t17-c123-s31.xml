@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Medicine And Drugs; Indigent Patients</catch_line>
+    <order_by>31</order_by>
+    <text>
+        Medicine and drugs shall be furnished free of charge to any patient at the outpatient clinic of a facility of the department who, in the opinion of the head of the facility or his representatives, is indigent and requires them. For the purpose of this section, the determination as to whether the patient is indigent shall be final; provided, however, that all medicines and drugs furnished a patient who meets the eligibility requirements for medical assistance under chapter one hundred and eighteen E shall be provided in accordance with the provisions of that chapter.
+    </text>
+</law>

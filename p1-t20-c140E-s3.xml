@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140E" order_by="140E" level="3">Consumer Account Disclosure</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Violations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        A violation of this chapter shall also constitute a violation of chapter ninety-three A.
+    </text>
+</law>

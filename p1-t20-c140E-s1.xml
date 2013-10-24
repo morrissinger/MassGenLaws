@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140E" order_by="140E" level="3">Consumer Account Disclosure</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        For the purposes of this chapter the following words shall, unless the context indicates otherwise, have the following meanings:— 
+“Account”, a demand deposit, negotiable withdrawal order account, savings deposit, share account or other consumer asset account, other than an occasional or incidental credit balance in an open end credit plan as defined in chapter one hundred and forty D, established primarily for personal, family or household purposes, but such term does not include an account held by a financial institution pursuant to a bona fide trust agreement. 
+“Commissioner”, the commissioner of banks. 
+“Consumer”, a natural person. 
+“Financial Institution”, a state or national bank, a state or federal savings and loan association, a state or federal savings bank, a co-operative bank, a state or federal credit union, or any person doing business similar to any business referred to in section one of chapter one hundred and sixty-seven. 
+“Term deposit account”, an account evidenced by a passbook, certificate or statement for which deposits must be maintained for a specified period.
+    </text>
+</law>

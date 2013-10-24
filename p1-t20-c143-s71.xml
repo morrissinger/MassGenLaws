@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="143" order_by="143" level="3">Inspection And Regulation Of, And Licenses For, Buildings, Elevators And Cinematographs</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Violation Of Statutes Or Regulations</catch_line>
+    <order_by>71</order_by>
+    <text>
+        Any person violating or failing to comply with any provision of sections sixty-two to seventy, inclusive, or of any regulation established thereunder shall be punished by a fine of not more than five hundred dollars.
+    </text>
+</law>

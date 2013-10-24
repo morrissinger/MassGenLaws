@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>30H</section_number>
+    <catch_line>Possession Or Transportation Of Alcoholic Beverages Not Authorized To Be Sold As Prima Facie Evidence Of Violation Of Chapter</catch_line>
+    <order_by>30H</order_by>
+    <text>
+        Possession on the licensed premises by any licensee under this chapter of any alcoholic beverages or alcohol not authorized to be sold or used under the terms of his license shall be prima facie evidence that such beverage or alcohol is kept for sale in violation of this chapter. Transportation of any alcoholic beverage or alcohol in any vehicle covered by a transportation permit issued to a licensee under this chapter or his employee shall, if such alcoholic beverage or alcohol is not authorized to be sold or used under the terms of the license issued to such licensee, be prima facie evidence that such alcoholic beverage or alcohol is being transported in violation of this chapter.
+    </text>
+</law>

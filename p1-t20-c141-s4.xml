@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="141" order_by="141" level="3">Supervision Of Electricians</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Transferability, Suspension And Revocation Of Certificates</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No certificates issued under this chapter shall be assignable or transferable. They may, after hearing, be suspended or revoked by the examiners upon failure or refusal of the licensee to comply with the rules and requirements of the examiners, or for other sufficient cause.
+    </text>
+</law>

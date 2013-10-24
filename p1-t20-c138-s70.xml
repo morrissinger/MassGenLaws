@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>70</section_number>
+    <catch_line>Issuance Of License Or Permit Upon Payment Of Fee; Bond</catch_line>
+    <order_by>70</order_by>
+    <text>
+        No license or permit under this chapter shall be granted by the commission or the local licensing authorities unless the fee therefor has been paid into the state treasury or the city or town treasury, as the case may be; provided, however, that the local licensing authority may allow such fees to be paid semiannually. No license shall be granted by the commission under section 18, 19, 19B, 19C, 19D or 76 unless the applicant shall have filed with the state treasurer a bond running to the commonwealth. Every such bond shall be in a penal sum and form approved by the commission and be executed by the applicant as principal and by a surety company authorized to do business in the commonwealth as surety, conditioned upon performance by the licensee of all the conditions of the license and observance of all provisions of this chapter.
+    </text>
+</law>

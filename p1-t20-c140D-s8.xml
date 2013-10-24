@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Disclosure Of Information; Clear And Conspicuous Statements</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Information required by this chapter shall be disclosed clearly and conspicuously, in accordance with regulations of the commissioner. The terms annual percentage rate and finance charge shall be disclosed more conspicuously than other terms, data or information provided in connection with a transaction, except information relating to the identity of the creditor. Regulations of the commissioner need not require that disclosures pursuant to this chapter be made in the order set forth in this chapter and, except as otherwise provided, may permit the use of terminology different from that employed in this chapter if it conveys substantially the same meaning.
+        </section>
+        <section prefix="b">
+    	     Any creditor may supply additional information or explanation with any disclosures required under this chapter, or regulations promulgated thereunder, except as provided under clause (1) of subsection (b) of section twelve.
+        </section>
+    </text>
+</law>

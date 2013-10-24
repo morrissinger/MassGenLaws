@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Violation Of Secs. 40 To 44</catch_line>
+    <order_by>45</order_by>
+    <text>
+        Whoever violates any provision of the five preceding sections shall be punished by a fine of not more than five hundred dollars or by imprisonment for not more than six months, or both.
+    </text>
+</law>

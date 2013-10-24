@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120A" order_by="120A" level="3">Interstate Compact On Juveniles</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Qualified Immunity, Defense And Indemnification</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The commission’s executive director and employees shall be immune from suit and liability, either personally or in their official capacity, for any claim for damage to or loss of property or personal injury or other civil liability caused or arising out of or relating to any actual or alleged act, error or omission that occurred, or that such person had a reasonable basis for believing occurred within the scope of commission employment, duties or responsibilities except that any such person shall not be protected from suit or liability for any damage, loss, injury or liability caused by the intentional or willful and wanton misconduct of any such person.
+        </section>
+        <section prefix="b">
+    	     The liability of any commissioner, or the employee or agent of a commissioner, acting within the scope of such person’s employment or duties for acts, errors or omissions occurring within such person’s state may not exceed the limits of liability set forth under the Constitution and laws of that state for state officials, employees and agents. Nothing in this section shall be construed to protect any such person from suit or liability for any damage, loss, injury or liability caused by the intentional or willful and wanton misconduct of such person.
+        </section>
+        <section prefix="c">
+    	     The interstate commission shall defend the executive director or the employees or representatives of the interstate commission and, subject to the approval of the attorney general of the state represented by any commissioner of a compacting state, shall defend such commissioner or the commissioner’s representatives or employees in any civil action seeking to impose liability arising out of any actual or alleged act, error or omission that occurred within the scope of interstate commission employment, duties or responsibilities, or that the defendant had a reasonable basis for believing occurred within the scope of interstate commission employment, duties or responsibilities, unless the actual or alleged act, error or omission did not result from intentional or willful and wanton misconduct on the part of such person.
+        </section>
+        <section prefix="d">
+    	     The interstate commission shall indemnify and hold the commissioner of a compacting state or the commissioner’s representatives or employees and the interstate commission’s representatives or employees harmless in the amount of any settlement or judgment obtained against such persons arising out of any actual or alleged act, error or omission that occurred within the scope of interstate commission employment, duties or responsibilities, or that such persons had a reasonable basis for believing occurred within the scope of interstate commission employment, duties or responsibilities, if the actual or alleged act, error or omission did not result from intentional or willful and wanton misconduct on the part of such persons.
+        </section>
+    </text>
+</law>

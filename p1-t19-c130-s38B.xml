@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>38B</section_number>
+    <catch_line>Commercial Licenses; Catch Data; Transfers</catch_line>
+    <order_by>38B</order_by>
+    <text>
+        <section prefix="a">
+    	     the maintenance and stability of a healthy lobster population;
+        </section>
+        <section prefix="b">
+    	     the economic viability of lobstering as a vocation and way of life;
+        </section>
+        <section prefix="c">
+    	     the needs of retiring lobstermen to sell or transfer their business interests;
+        </section>
+    </text>
+</law>

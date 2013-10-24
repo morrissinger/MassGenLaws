@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Fire Extinguishing Systems, Issuance Of Certificates For Installation And Servicing</catch_line>
+    <order_by>58</order_by>
+    <text>
+        <section prefix="a">
+    	     a firm engaged in the business of servicing portable fire extinguishers or installing and servicing fixed fire extinguishing systems; (b) an employee of firms engaged in the business of servicing portable fire extinguishers or installing or servicing fixed fire extinguishing systems who services extinguishers or fixed systems; (c) a firm performing hydrostatic testing of fire extinguishers.
+        </section>
+        <section prefix="a">
+    	     the filling or charging of a portable fire extinguisher by the manufacturer prior to its initial sale; (b) the servicing by a firm of its own portable extinguishers or fixed systems by its own personnel specially trained for such servicing; (c) the installation or servicing of water sprinkler systems installed in compliance with the State Building Code; (d) firms engaged in the selling at wholesale or retail of portable fire extinguishers but not engaged in the installation or recharging of them; (e) fire departments recharging portable fire extinguishers as a public service where no charge is made; provided, however, that the member of the fire department is trained in the proper filling and recharging of the fire extinguishers.
+        </section>
+    </text>
+</law>

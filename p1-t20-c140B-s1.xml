@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140B" order_by="140B" level="3">Control Of Certain Junkyards</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Junk”, old or scrap copper, brass, rope, rags, batteries, paper, trash, rubber debris, waste, or junked, dismantled, or wrecked automobiles, or parts thereof, iron, steel, and other old or scrap ferrous or nonferrous material.
+        </section>
+        <section prefix="b">
+    	     “Automobile graveyard”, any establishment or place of business which is maintained, used, or operated for storing, keeping, buying, or selling wrecked, scrapped, ruined, or dismantled motor vehicles or motor vehicle parts.
+        </section>
+        <section prefix="c">
+    	     “Junkyard”, an establishment or place of business which is maintained, operated, or used for storing, keeping, buying, or selling junk, or for the maintenance or operation of an automobile graveyard, and the term shall include garbage dumps and sanitary fills.
+        </section>
+        <section prefix="d">
+    	     “Interstate system”, that portion of the national system of interstate and defense highways located within the commonwealth, as officially designated or as may hereafter be so designated, by the state department of highways, and approved by the Secretary of Commerce, pursuant to the provisions of Title 23, United States Code.
+        </section>
+        <section prefix="e">
+    	     “Primary system”, that portion of connected main highways, as officially designated, or as may hereafter be so designated, by the state department of highways, and approved by the Secretary of Commerce, pursuant to the provisions of Title 23, United States Code.
+        </section>
+        <section prefix="f">
+    	     “Department”, the state department of highways.
+        </section>
+        <section prefix="g">
+    	     “Commissioner”, the commissioner of the state department of highways.
+        </section>
+    </text>
+</law>

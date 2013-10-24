@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="130" order_by="130" level="3">Marine Fish And Fisheries</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Forfeiture Or Liberation Of Seized Lobsters Or Lobster Meat</catch_line>
+    <order_by>50</order_by>
+    <text>
+        When any lobster or lobster meat is seized for the violation of any provision of section forty-seven, the officer making the seizure shall immediately notify the shipper thereof, if known, and shall proceed to enforce the forfeiture of such lobsters as he is not required to liberate, or of such lobster meat, in accordance with section twelve.
+    </text>
+</law>

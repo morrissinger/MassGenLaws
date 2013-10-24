@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121C" order_by="121C" level="3">Economic Development And Industrial Corporations</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>17</order_by>
+    <text>
+        The provisions of this chapter are severable; and if any of its provisions shall be held unconstitutional by any court of competent jurisdiction, the decision of such court shall not affect or impair any of the remaining provisions.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Retention Of Persons; Validity Of Orders; Hearing</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall be retained at a facility or at the Bridgewater state hospital except under the provisions of paragraph (a) of section ten, the provisions of paragraphs (a), (b), and (c) of section twelve, section thirteen, paragraph (e) of section sixteen and section thirty-five or except under a court order or except during the pendency of a petition for commitment or to the pendency of a request under section fourteen. A court order of commitment to a facility or to the Bridgewater state hospital shall be valid for the period stipulated in this chapter or, if no such period is so stipulated, for one year. A petition for the commitment of a person may not be issued except as authorized under the provisions of this chapter.
+        </section>
+        <section prefix="b">
+    	     Following the filing of a petition for a commitment to a facility or to the Bridgewater state hospital, a hearing shall be held unless waived in writing by the person after consultation with his counsel. In the event the hearing is waived, the person may request a hearing for good cause shown at any time during the period of commitment.
+        </section>
+    </text>
+</law>

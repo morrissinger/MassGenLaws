@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>29E</section_number>
+    <catch_line>Construction Contracts; Reasonable Time Periods For Periodic Progress Payments And Increases In Contract Price; Payment Conditioned Upon Receipt Of Payment From Third Party; Requirement To Continue Performance Of Construction Without Payment</catch_line>
+    <order_by>29E</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section the following words shall have the following meanings, unless the context clearly requires otherwise:
+        </section>
+        <section prefix="b">
+    	     A communication required in this section to be in writing may be submitted in electronic form and by electronic means.
+        </section>
+        <section prefix="c">
+    	     Every contract for construction shall provide reasonable time periods within which: (i) a person seeking payment under the contract shall submit written applications for periodic progress payments; (ii) the person receiving the application shall approve or reject the application, whether in whole or in part; and (iii) the person approving the application shall pay the amount approved. The time periods for each application for a periodic progress payment shall not exceed: (i) for submission, 30 days, beginning with the end of the first calendar month occurring at least 14 days after the person seeking payment has commenced performance; (ii) for approval or rejection, 15 days after submission; provided, however, that the time period, as applicable to approval or rejection by the person at each tier of contract below the owner of the project, may be extended by 7 days more than the time period applicable to the person at the tier of contract above the person; and (iii) for payment, 45 days after approval, unless the payment is subject to the condition of receipt of payment by a third person but only to the extent enforceable under subsection (e). An application for a periodic progress payment which is neither approved nor rejected within the time period shall be deemed to be approved unless it is rejected before the date payment is due. A rejection of an application for a periodic progress payment, whether in whole or in part, shall be made in writing and shall include an explanation of the factual and contractual basis for the rejection and shall be certified as made in good faith. A rejection of an application for a periodic progress payment shall be subject to the applicable dispute resolution procedure. A provision in the contract which requires a party to delay commencement of the procedure until a date later than 60 days after the rejection shall be void and unenforceable.
+        </section>
+        <section prefix="d">
+    	     Every contract for construction shall provide a reasonable time period within which a written request submitted by a person seeking an increase in the contract price shall be approved or rejected, whether in whole or in part. The time period shall not exceed 30 days after the later of commencement of the performance of the work on which the request is based or submission of the written request; provided, however, that the time period, as applicable to approval or rejection by the person at each tier of contract below the owner of the project, may be extended by 7 days more than the time period applicable to the person at the tier of contract above the person. A request which is neither approved nor rejected within such time period shall be deemed to be approved and may be submitted for payment within the next application for a periodic progress payment, unless it is rejected before the date payment is due. A rejection of a request, whether in whole or in part, shall be made in writing, shall include an explanation of the factual and contractual basis for the rejection and shall be certified as made in good faith. A rejection of a request shall be subject to the applicable dispute resolution procedure. A provision in the contract which requires a party to delay commencement of the procedure until a date later than 60 days after the rejection shall be void and unenforceable.
+        </section>
+        <section prefix="e">
+    	     A provision in a contract for construction which makes payment to a person performing the construction conditioned upon receipt of payment from a third person that is not a party to the contract shall be void and unenforceable, except:
+        </section>
+        <section prefix="1">
+    	     to the extent of amounts not received from the third person because the person performing the construction failed to perform under its contract and failed to cure the non-performance within the time required by the contract after receipt of written notice as provided in the contract or, in the case of contract lacking a cure and notice provision, failed to cure the non-performance within 14 days after receipt of written notice of the failure to perform; or
+        </section>
+        <section prefix="2">
+    	     to the extent of amounts not received from the third person because the third person is insolvent or becomes insolvent within 90 days after the date of submission of the requisition for which payment is sought; provided, however, that the person seeking to enforce the payment condition (i) filed a notice of contract under chapter 254 and in the case of a person having no direct contractual relationship with the original contractor, also sent a notice of identification within the time required under said chapter 254, prior to the person’s submission of the first application for payment after commencement of performance at the project site and did not dissolve the lien created by the filing of such notice of contract; and (ii) within the time periods allowed by said chapter 254 files a statement of amount due and commenced or commences a civil action to enforce the lien; and (iii) pursues all reasonable legal remedies to obtain payment from the person with whom the person had a direct contract unless and until there is a reasonable likelihood the action shall not result in obtaining payment.
+        </section>
+        <section prefix="f">
+    	     A provision in a contract for construction, including without limitation a payment condition enforceable under subsection (e), purporting to require a person to continue performance of the construction if payment of an approved amount is due under the terms of the contract but is not received, and more than 30 days have elapsed since the date payment was due, shall be void and unenforceable, except for: (i) a dispute regarding the quality or quantity of the construction so furnished; or (ii) a default by the person under the contract for construction after approval of the payment; provided, however, that the person has received (i) a prior written notice of such dispute or default certified as made in good faith; and (ii) all sums due less any amounts attributable to the dispute or default.
+        </section>
+        <section prefix="g">
+    	     A provision in a contract for construction which purports to waive or limit any provisions of this section shall be void and unenforceable.
+        </section>
+    </text>
+</law>

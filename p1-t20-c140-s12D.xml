@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>12D</section_number>
+    <catch_line>Persons Negligently Or Intentionally Causing Damage To Hotel; Liability</catch_line>
+    <order_by>12D</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who negligently or intentionally causes damage to the hotel or any furniture or furnishings within the hotel, shall be liable for damages sustained by the innkeeper, including the hotel’s loss of revenue resulting from the inability to rent or lease rooms while the damage is being repaired.
+        </section>
+        <section prefix="b">
+    	     A person who negligently or intentionally causes injury to any other person or damage to any personal property of such other person on the hotel premises shall be liable for the injury or damage.
+        </section>
+        <section prefix="c">
+    	     A parent or guardian of a minor shall be liable for acts of the minor described in subsections (a) and (b), if the parent or guardian provides a credit card or an advance cash deposit.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Fishing, Hunting, Or Trapping On Private, Posted Land</catch_line>
+    <order_by>36</order_by>
+    <text>
+        A person shall not fish, hunt or trap on private land without permission of the owner or tenant thereof, after such owner or tenant has conspicuously posted thereon notices which bear the name of such owner or tenant and which state that fishing, hunting or trapping on such land, as the case may be, is prohibited.
+    </text>
+</law>

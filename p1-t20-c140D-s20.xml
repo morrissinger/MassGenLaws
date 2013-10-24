@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Sale Of Goods Or Services At Retail; Finance Charge Under Open End Credit Plan; Computation</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If a finance charge is imposed under an open-end credit plan on balances resulting from the sale of goods or services at retail made in reliance on a credit card, the finance charge applicable to said balances for any cycle shall be computed on (i) the previous balance after deducting all payments on account received by the creditor during the cycle and all credits to the account during the cycle applicable to any sale reflected in the previous balance; or (ii) the average daily balance determined by adding the daily balances on the account for each day in the billing cycle and dividing the total by the number of days in the billing cycle; or (iii) daily balances; provided, however, that no finance charge may be computed on any new sale reflected for the first time in the account during the billing cycle if there was no balance outstanding in the account at the beginning of the cycle, or if such balance is solely attributable to a finance charge assessed with respect to the preceding billing cycle, or if the sum of all payments received by the creditor during the cycle and all credits to the account applicable to any balance outstanding at the beginning of the cycle is equal to or exceeds the amount of such balance outstanding.
+    </text>
+</law>

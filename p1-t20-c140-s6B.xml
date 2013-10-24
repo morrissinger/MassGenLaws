@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Food Allergy Awareness</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the word “department” shall mean the department of public health.
+        </section>
+        <section prefix="b">
+    	     A person licensed as an innholder or common victualler, when serving food, shall:
+        </section>
+        <section prefix="1">
+    	     prominently display in the staff area a poster approved by the department relative to food allergy awareness. The poster shall include, but not be limited to, information regarding the risk of an allergic reaction and shall be developed by the department in consultation with the Massachusetts Restaurant Association and the Food Allergy & Anaphylaxis Network; and
+        </section>
+        <section prefix="2">
+    	     include on all menus a notice to customers of the customer’s obligation to inform the server about any food allergies, the language of the notice shall be developed by the department in consultation with the Massachusetts Restaurant Association and the Food Allergy & Anaphylaxis Network.
+        </section>
+        <section prefix="c">
+    	     A person in charge and certified food protection manager, as those terms are used in the state sanitary code for food establishments, in order to obtain certification, shall view, as part of an otherwise approved food protection manager course, a video concerning food allergies. The department shall approve the video in collaboration with the Massachusetts Restaurant Association and the Food Allergy & Anaphylaxis Network. A person designated as an alternate person-in charge, as that term is used in the state sanitary code for food establishments, in addition to existing requirements, shall be knowledgeable with regard to the relevant issues concerning food allergies as they relate to food preparation.
+        </section>
+        <section prefix="d">
+    	     A violation of this section shall be subject to the remedies available under the state sanitary code for food establishments.
+        </section>
+        <section prefix="e">
+    	     The department may adopt regulations to carry out this section.
+        </section>
+        <section prefix="f">
+    	     This section shall not establish or change a private cause of action nor change a duty under any other statute or the common law, except as this section expressly provides.
+        </section>
+        <section prefix="g">
+    	     The department shall develop a program for restaurants to be designated as “Food Allergy Friendly” and shall maintain a listing of restaurants receiving that designation on its website. Participation in the program shall be voluntary and the department, in consultation with the Massachusetts Restaurant Association and the Food Allergy & Anaphylaxis Network, shall issue guidelines and requirements for restaurants to receive the designation; provided that the requirements shall include, but not be limited to, maintaining on the premises and making available to the public, a master list of all the ingredients used in the preparation of each food item available for consumption.
+        </section>
+    </text>
+</law>

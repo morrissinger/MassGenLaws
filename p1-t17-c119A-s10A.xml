@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Corrections For Overpayment, Underpayment, Or Administrative Error</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        <section prefix="a">
+    	     If a case receiving IV-D services is otherwise eligible for case closure and the commissioner of revenue determines that (1) an obligor has made an overpayment of $10 or less of the amount of any child support owed by the obligor, or (2) child support in the amount of $10 or less is due to an individual obligee, the commissioner shall disburse the amounts to the obligor or obligee. If the obligor or obligee fails to negotiate the check issued by the commonwealth within 180 days of its issuance, the funds shall be placed in the account established pursuant to paragraph (3) of section 10, to be expended as provided in subsections (b) and (c) of this section.
+        </section>
+        <section prefix="b">
+    	     If the commissioner determines that the IV-D agency has distributed a payment to an individual obligee that was not a child support collection on behalf of the obligee, or that the obligee was otherwise not entitled to the payment, the IV-D agency shall make diligent efforts to recover the payment from the obligee, including deducting the amount, or a portion thereof, from future collections of child support made on behalf of the obligee. Recovered amounts shall be placed in the account established pursuant to paragraph (1) of section 10. Where the IV-D agency does not recover the payment, the IV-D agency may issue a refund of an overpayment to an obligor, or a replacement payment to an individual obligee on whose behalf the child support collection was made, from the account established pursuant to paragraph (3) of said section 10.
+        </section>
+        <section prefix="c">
+    	     If the commissioner determines that an individual obligee or obligor has incurred bank or similar fees as a direct result of administrative error by the IV-D agency, the IV-D agency may, at the discretion of the commissioner, reimburse the obligee or obligor for the fees from the account established pursuant to paragraph (3) of section 10.
+        </section>
+    </text>
+</law>

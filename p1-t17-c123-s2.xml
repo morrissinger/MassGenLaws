@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Regulations</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The department shall, in accordance with section two of chapter thirty A and subject to appropriation, adopt regulations consistent with this chapter which establish procedures and the highest practicable professional standards for the reception, examination, treatment, restraint, transfer and discharge of mentally ill persons in departmental facilities. Said regulations shall be adaptable to changing conditions and to advances in methods of care and treatment of the mentally ill. Said regulations (1) shall include, but not necessarily be limited to, provisions for inpatient care, both during the day and at night, halfway house services, family care, aftercare and home treatment, (2) shall define the categories of mental illness for the purpose of this chapter, and (3) may provide for different procedures for specific types of patients or for particular facilities.
+    </text>
+</law>

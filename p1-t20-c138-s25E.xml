@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>25E</section_number>
+    <catch_line>Refusal To Sell Brand Name Alcoholic Beverages To Wholesalers As Unfair Trade Practice; Exception For Good Cause; Discontinuance Notice And Procedure</catch_line>
+    <order_by>25E</order_by>
+    <text>
+        <section prefix="a">
+    	     disparagement of the product so as to impair the reputation of the brand owner or the brand name of any product,
+        </section>
+        <section prefix="b">
+    	     unfair preferment in sales effort for brand items of a competitor,
+        </section>
+        <section prefix="c">
+    	     failure to exercise best efforts in promoting the sale of any brand item,
+        </section>
+        <section prefix="d">
+    	     engaging in improper or proscribed trade practices, or
+        </section>
+        <section prefix="e">
+    	     failure to comply with the terms of sale agreed upon between supplier and wholesaler.
+        </section>
+    </text>
+</law>

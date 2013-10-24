@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>37B</section_number>
+    <catch_line>Grants For Removal Or Replacement Of Fuel Storage Tanks</catch_line>
+    <order_by>37B</order_by>
+    <text>
+        Notwithstanding the provisions of section thirty-seven A, grants authorized pursuant to said section thirty-seven A may be awarded for either the removal or replacement of a fuel storage tank; provided, however, that no such grant shall exceed fifty percent of the total cost of any such removal or replacement.
+    </text>
+</law>

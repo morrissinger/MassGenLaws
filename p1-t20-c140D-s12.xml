@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Disclosure; Other Than Open End Credit Plans; Statement; Contents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     For each consumer credit transaction other than under an open-end-credit plan, the creditor shall disclose each of the following items, to the extent applicable:
+        </section>
+        <section prefix="1">
+    	     The identity of the creditor required to make disclosure.
+        </section>
+        <section prefix="i">
+    	     take the principal amount of the loan or the cash price less downpayment and trade-in;
+        </section>
+        <section prefix="ii">
+    	     add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section four; and
+        </section>
+        <section prefix="iii">
+    	     subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
+        </section>
+        <section prefix="B">
+    	     In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer’s right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a “yes” and “no” indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subclause, “itemization of the amount financed” means a disclosure of the following items, to the extent applicable:
+        </section>
+        <section prefix="i">
+    	     the amount that is or shall be paid directly to the consumer;
+        </section>
+        <section prefix="ii">
+    	     the amount that is or shall be credited to the consumer’s account to discharge obligation owed to the creditor;
+        </section>
+        <section prefix="iii">
+    	     each amount that is or shall be paid to third persons by the creditor on the consumer’s behalf, together with an identification of or reference to the third person; and
+        </section>
+        <section prefix="iv">
+    	     the total amount of any charges described in subclause (iii) of clause (A) of paragraph (2).
+        </section>
+        <section prefix="3">
+    	     The “finance charge”, not itemized, using that term.
+        </section>
+        <section prefix="4">
+    	     The finance charge expressed as an “annual percentage rate”, using that term.
+        </section>
+        <section prefix="5">
+    	     The sum of the amount financed and the finance charge, which shall be termed the “total of payments”.
+        </section>
+        <section prefix="6">
+    	     The number, amount, and due dates or period of payments scheduled to repay the total of payments.
+        </section>
+        <section prefix="7">
+    	     In a sale of property or services in which the seller is the creditor required to disclose pursuant to subsection (b) of section seven, the “total sale price”, using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
+        </section>
+        <section prefix="8">
+    	     Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the commissioner. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
+        </section>
+        <section prefix="9">
+    	     Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+        </section>
+        <section prefix="10">
+    	     Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
+        </section>
+        <section prefix="11">
+    	     A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise, if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
+        </section>
+        <section prefix="12">
+    	     A statement that the consumer should refer to the appropriate contract document for any information such document provides about nonpayment, default, the right to accelerate the maturity of the debt, and prepayment rebates and penalties.
+        </section>
+        <section prefix="13">
+    	     In any residential mortgage transaction, a statement indicating whether a subsequent purchaser or assignee of the consumer may assume the debt obligation on its original terms and conditions.
+        </section>
+        <section prefix="2">
+    	     In the case of a residential mortgage transaction, as defined in section one, which is also subject to the Real Estate Settlement Procedures Act 12 USC 2601 et seq, good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the commissioner under subsection (c) of section seven before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer’s written application, whichever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of subsection (c) of section five, the creditor shall furnish another statement at the time of settlement or consummation.
+        </section>
+        <section prefix="2">
+    	     If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
+        </section>
+        <section prefix="d">
+    	     If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest priced shall be deemed first paid for.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Return Of Alcoholic Beverages Not Forfeited; Order; Endorsement</catch_line>
+    <order_by>52</order_by>
+    <text>
+        If it is not proved on the trial that all or part of the beverages seized was kept or deposited for sale contrary to law, the court shall issue a written order to the officer having the same in custody to return so much thereof as was not proved to be so kept or deposited and the vessels in which it is contained, to the place as nearly as may be from which it was taken, or to deliver it to the person entitled to receive it. After executing such order, the officer shall return it to the court with his doings endorsed thereon.
+    </text>
+</law>

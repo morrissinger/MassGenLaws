@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Regulations To Prevent Fire Hazards And Fires</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     to prevent or remedy any condition in or about any building, structure or other premises or any ship or vessel which may tend to become a fire hazard or to cause a fire.
+        </section>
+        <section prefix="2">
+    	     to provide adequate safety requirements for the protection of the public in the event of a fire in or about any building, structure or other premises or any ship or vessel, including the regulation of fire drills for theaters, schools, hospitals and elderly housing complexes.
+        </section>
+        <section prefix="3">
+    	     to provide for the safe storage, use, handling and manufacturing of corrosive liquids, oxidizing materials, toxic materials or poisonous gases.
+        </section>
+    </text>
+</law>

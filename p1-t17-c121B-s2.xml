@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The provisions of this chapter are hereby declared to be severable and if any such provision or the application of such provision to any person or circumstances shall be held to be invalid or unconstitutional, such invalidity or unconstitutionality shall not be construed to affect the validity or constitutionality of any of the remaining provisions of said chapter or the application of such provision to persons or circumstances other than those as to which it is held invalid. It is hereby declared to be the legislative intent that said chapter would have been adopted had such invalid or unconstitutional provisions not been included therein.
+    </text>
+</law>

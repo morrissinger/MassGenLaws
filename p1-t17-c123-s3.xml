@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Transfers; Notice; Emergencies</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The department may transfer any person from any facility to any other facility which the department determines is suitable for the care and treatment of such person; provided that no transfer to a private facility shall occur except with the approval of the superintendent thereof. At least six days before a transfer from a facility occurs, the superintendent shall give written notice thereof to the person and to the nearest relative, unless said person knowingly objects, or guardian of such person; provided, however, if the transfer must be made immediately because of an emergency, such notice shall be given within twenty-four hours after the transfer. Except in emergency cases, no person who at any time prior to transfer has given notice of his intention to leave a facility under the provisions of section eleven shall be transferred until a final determination has been made as to whether such person should be retained in a facility.
+    </text>
+</law>

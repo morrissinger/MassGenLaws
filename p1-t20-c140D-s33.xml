@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Civil Actions Against Subsequent Assignees Of Creditor; Written Acknowledgement; Rescission</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise specifically provided in this chapter, or any rule or regulation issued thereunder, any civil action for a violation of this chapter, or any rule or regulation issued thereunder, or proceeding under section six which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (i) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (ii) a disclosure which does not use the terms required to be used by this chapter, or any rule or regulation issued thereunder.
+        </section>
+        <section prefix="b">
+    	     Except as provided in subsection (c) of section ten, in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of the receipt by a person to whom a statement is required to be given pursuant to this chapter, or any rule or regulation issued thereunder, shall be conclusive proof of the delivery thereof and, except as provided in section (a), of compliance with this chapter, or any rule or regulation issued thereunder. This section does not affect the rights of an obligor in any action against the original creditor.
+        </section>
+        <section prefix="c">
+    	     Any consumer who has the right to rescind a transaction under section ten may rescind the transaction as against any assignee of the obligation.
+        </section>
+        <section prefix="i">
+    	     the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement provided in connection with such transaction pursuant to this chapter; and
+        </section>
+        <section prefix="ii">
+    	     the assignment to the assignee was voluntary.
+        </section>
+        <section prefix="i">
+    	     the disclosure can be determined to be incomplete or inaccurate by a comparison among the disclosure statement, any itemization of the amount financed, the note, or any other disclosure of disbursement; or
+        </section>
+        <section prefix="ii">
+    	     the disclosure statement does not use the terms or format required to be used by this chapter.
+        </section>
+        <section prefix="2">
+    	     A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of such obligation for the purposes of this section on the basis of an assignment of said obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address and telephone number of the owner of the obligation or the master servicer thereof.
+        </section>
+        <section prefix="3">
+    	     For the purposes of this section, the word “servicer” shall have the same meaning as in section 6(I)(2) of the Federal Real Estate Settlement Procedures Act of 1974.
+        </section>
+        <section prefix="4">
+    	     This paragraph shall apply to all consumer credit transactions in existence or consummated on or after September thirtieth, nineteen hundred and ninety-five.
+        </section>
+    </text>
+</law>

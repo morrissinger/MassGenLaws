@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Reports As To Boilers Not Inspected By Insurers</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Whoever owns, or uses or causes to be used, any such boiler, unless the same is under the periodically guaranteed inspection of an insurance company authorized to insure boilers in the commonwealth, shall report in writing to the chief the location of such boiler, before the work of installation of such boiler is completed, and annually thereafter; provided, that the owner or user of an insured boiler shall report immediately in writing to the chief whenever the insurance company ceases for any cause to inspect the boiler.
+    </text>
+</law>

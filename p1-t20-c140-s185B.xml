@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>185B</section_number>
+    <catch_line>Fees For, And For Renewal Of, Licenses To Resell Tickets</catch_line>
+    <order_by>185B</order_by>
+    <text>
+        The fee for each license granted under section one hundred and eighty-five A and for each annual renewal thereof shall be determined annually by the commissioner of administration under the provision of section three B of chapter seven for the filing thereof.
+    </text>
+</law>

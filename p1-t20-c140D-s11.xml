@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Disclosure; Open End Credit Plans; Statement; Contents</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
+        </section>
+        <section prefix="1">
+    	     The conditions under which a finance charge may be imposed, including the time period, if any, within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
+        </section>
+        <section prefix="2">
+    	     The method of determining the balance upon which a finance charge will be imposed.
+        </section>
+        <section prefix="3">
+    	     The method of determining the amount of the finance charge, including any minimum or fixed amount imposed as a finance charge.
+        </section>
+        <section prefix="4">
+    	     Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+        </section>
+        <section prefix="5">
+    	     Identification of other charges which may be imposed as part of the plan, and their method of computation, in accordance with regulations of the commissioner.
+        </section>
+        <section prefix="6">
+    	     In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+        </section>
+        <section prefix="7">
+    	     A statement in a form prescribed by regulations of the commissioner of the protection provided by section twenty-nine, and rules and regulations issued thereunder, to an obligor and the creditor’s responsibilities under said section twenty-nine, and rules and regulations issued thereunder. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months the creditor shall transmit a statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) for such billing cycle.
+        </section>
+        <section prefix="b">
+    	     The creditor of any account under an open end consumer credit plan shall transmit to the obligor, for each billing cycle at the end of which there is an outstanding balance in that account or with respect to which a finance charge is imposed, a statement setting forth each of the following items to the extent applicable:
+        </section>
+        <section prefix="1">
+    	     The outstanding balance in the account at the beginning of the statement period.
+        </section>
+        <section prefix="2">
+    	     The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the commissioner sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor’s failure to disclose such information in accordance with this clause shall not be deemed a failure to comply with this chapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section twenty-nine and regulations promulgated thereunder. In the case of any transaction in which the creditor and seller are the same person and such person’s open-end-credit plan has fewer than fifteen thousand accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller’s name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section twenty-nine and regulations promulgated thereunder.
+        </section>
+        <section prefix="3">
+    	     The total amount credited to the account during the period.
+        </section>
+        <section prefix="4">
+    	     The amount of any finance charge added to the account during the period, itemized to show the amounts, if any, due to the application of percentage rates and the amount, if any imposed as a minimum or fixed charge.
+        </section>
+        <section prefix="5">
+    	     Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate, determined under clause (2) of subsection (a) of section five is required to be disclosed pursuant to clause (6) of subsection (b) the corresponding annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+        </section>
+        <section prefix="6">
+    	     Where the total finance charge exceeds fifty cents for a monthly or longer billing cycle, or the pro rata part of fifty cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate, determined under clause (2) of subsection (a) of section five, except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
+        </section>
+        <section prefix="7">
+    	     The balance on which the finance charge was computed and a statement of how the balance was determined. If the balance is determined without first deducting all credits during the period, that fact and the amount of such payments shall also be disclosed.
+        </section>
+        <section prefix="8">
+    	     The outstanding balance in the account at the end of the period.
+        </section>
+        <section prefix="9">
+    	     The date by which or the period, if any, within which, payment must be made to avoid additional finance charges, except that the creditor may, at his election and without disclosure, impose no such additional finance charge if payment is received after such date or the termination of such period.
+        </section>
+        <section prefix="10">
+    	     The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
+        </section>
+    </text>
+</law>

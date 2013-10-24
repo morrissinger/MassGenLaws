@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118" order_by="118" level="3">Aid To Families With Dependent Children</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Access To Information By Department For Purpose Of Locating, Establishing And Enforcing Liability Of Persons Obligated To Pay Support</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        <section prefix="a">
+    	     The department may request from any employer whom the department has reason to believe employs a person described above, information concerning the dates and amounts of compensation paid to such person and the persons’ last known address, social security number, and available health or medical insurance benefits. The department shall not inquire of an employer concerning any such person more than once every four months. Employers shall respond to such requests fully and in writing, but may limit their responses to the period beginning four months before the date of the request. No employer who complies with this section shall be liable in any civil or criminal action or proceeding brought by the employee on account of such compliance. Any employer who, without reasonable cause, fails to comply with such requests or who willfully renders false information in reply to such requests, pursuant to this paragraph, shall be liable for a penalty of one hundred dollars per violation.
+        </section>
+        <section prefix="b">
+    	     The department may request from the department of revenue state income tax information concerning any person described above. The commissioner of the department of revenue, upon written request, shall furnish to the commissioner of the department or his designee, the address, filing status, amounts, nature, and sources of income, including names and addresses of all employers, and the number of dependents reported on the most recent return filed by any individual with respect to whom child support obligations are sought to be established or enforced pursuant to section twenty-one of chapter eighteen or pursuant to the provisions of part D of Title IV of the Social Security Act. Such information shall be available only for the purposes of, and to the extent necessary in establishing and collecting child support obligations from, and locating, individuals owing such obligations.
+        </section>
+    </text>
+</law>

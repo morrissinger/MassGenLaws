@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="146" order_by="146" level="3">Inspection Of Boilers, Air Tanks, Etc. Licenses Of Engineers, Firemen, And Operators Of Hoisting Machinery</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Regulations</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The board shall prescribe regulations, conforming to recognized standards of engineering practice, for the size, shape, construction, gauges, operation, maximum pressure, safety devices, use of oil, and other appurtenances necessary for the safe operation of such tanks or other receptacles.
+    </text>
+</law>

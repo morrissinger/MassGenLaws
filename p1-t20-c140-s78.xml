@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>78</section_number>
+    <catch_line>Regulations; Interest Rate</catch_line>
+    <order_by>78</order_by>
+    <text>
+        The authorities who grant licenses to pawnbrokers shall establish regulations, to the satisfaction of the commissioner of banks, relative to the business carried on and the rate of interest to be charged by them, and a pawnbroker shall not charge or receive upon any loan a greater rate of interest than that fixed by the licensing authorities.
+    </text>
+</law>

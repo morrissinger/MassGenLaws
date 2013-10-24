@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119A" order_by="119A" level="3">Child Support Enforcement</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Child Support Trust Fund</catch_line>
+    <order_by>9</order_by>
+    <text>
+        There is hereby established, separate and apart from all the public monies or funds of the commonwealth, a child support trust fund, which shall be administered by the IV-D agency without liability on the part of the commonwealth beyond the amounts credited to and earned by the fund. 
+The fund shall consist of all child support payments from or on behalf of individual obligors paid to the commonwealth pursuant to this chapter, all fees charged and collected by the IV-D agency for its services, all penalties assessed and collected by the IV-D agency, all incentive payments made by the federal government for child support activities, and all interest or other earnings from monies in the fund. 
+All monies in the fund shall be pooled and available for support payments, refunds, and other payments authorized by this chapter; but, the federal incentive payments shall be expended only as authorized by Title IV, Part D of the Social Security Act.
+    </text>
+</law>

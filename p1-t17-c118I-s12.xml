@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118I" order_by="118I" level="3">Health Information Technology</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Unauthorized Access Or Disclosure;  Reporting;  Notice To Patient</catch_line>
+    <order_by>12</order_by>
+    <text>
+        [ Text of section added by 2012, 224, Sec. 134 effective November 4, 2012.]  In the event of an unauthorized access to or disclosure of individually identifiable patient health information by or through the statewide health information exchange or by or through any technology grantees or implementing organizations funded in whole or in part from the e-Health Institute Fund established in section 6E of chapter 40J or the Massachusetts Health Information Exchange Fund established in section 10, the operator of such exchange or grantee or contractor shall: (i) report the conditions of such unauthorized access or disclosure as required by the executive office; and (ii) provide notice, as defined in section 1 of chapter 93H, as soon as practicable, but not later than 10 business days after such unauthorized access or disclosure, to any person whose patient health information may have been compromised as a result of such unauthorized access or disclosure, and shall report the conditions of such unauthorized access or disclosure. Any unauthorized access or disclosures shall be punishable by the civil penalties under section 16.
+    </text>
+</law>

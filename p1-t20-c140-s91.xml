@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>91</section_number>
+    <catch_line>Less Than $1000; Mortgage Or Pledge</catch_line>
+    <order_by>91</order_by>
+    <text>
+        If a loan of less than one thousand dollars is secured by a mortgage or pledge of personal property, the mortgagee or pledgee shall discharge such mortgage and restore such pledge upon payment or tender to him of the amount legally due under the preceding section, and such payment or tender may be made by the debtor or by a person having an interest in the property mortgaged or pledged.
+    </text>
+</law>

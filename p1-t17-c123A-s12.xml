@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123A" order_by="123A" level="3">Care, Treatment And Rehabilitation Of Sexually Dangerous Persons</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Notification Of Persons Adjudicated As Delinquent Juvenile Or Youthful Offender By Reason Of A Sexual Offense; Petitions For Classification As Sexually Dangerous Person; Hearings</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Any agency with jurisdiction of a person who has ever been convicted of or adjudicated as a delinquent juvenile or a youthful offender by reason of a sexual offense as defined in section 1, regardless of the reason for the current incarceration, confinement or commitment, or who has been charged with such offense but has been found incompetent to stand trial, or who has been charged with any offense, is currently incompetent to stand trial and has previously been convicted of or adjudicated as a delinquent juvenile or a youthful offender by reason of a sexual offense, shall notify in writing the district attorney of the county where the offense occurred and the attorney general six months prior to the release of such person, except that in the case of a person who is returned to prison for no more than six months as a result of a revocation of parole or who is committed for no more than six months, such notice shall be given as soon as practicable following such person’s admission to prison. In such notice, the agency with jurisdiction shall also identify those prisoners or youths who have a particularly high likelihood of meeting the criteria for a sexually dangerous person.
+        </section>
+        <section prefix="b">
+    	     When the district attorney or the attorney general determines that the prisoner or youth in the custody of the department of youth services is likely to be a sexually dangerous person as defined in section 1, the district attorney or the attorney general at the request of the district attorney may file a petition alleging that the prisoner or youth is a sexually dangerous person and stating sufficient facts to support such allegation in the superior court where the prisoner or youth is committed or in the superior court of the county where the sexual offense occurred.
+        </section>
+        <section prefix="c">
+    	     Upon the filing of a petition under this section, the court in which the petition was filed shall determine whether probable cause exists to believe that the person named in the petition is a sexually dangerous person. Such person shall be provided with notice of, and an opportunity to appear in person at, a hearing to contest probable cause.
+        </section>
+        <section prefix="d">
+    	     At the probable cause hearing, the person named in the petition shall have the following rights:
+        </section>
+        <section prefix="1">
+    	     to be represented by counsel;
+        </section>
+        <section prefix="2">
+    	     to present evidence on such person’s behalf;
+        </section>
+        <section prefix="3">
+    	     to cross-examine witnesses who testify against such person; and
+        </section>
+        <section prefix="4">
+    	     to view and copy all petitions and reports in the court file.
+        </section>
+        <section prefix="e">
+    	     If the person named in the petition is scheduled to be released from jail, house of correction, prison or a facility of the department of youth services at any time prior to the court’s probable cause determination, the court, upon a sufficient showing based on the evidence before the court at that time, may temporarily commit such person to the treatment center pending disposition of the petition. The person named in the petition may move the court for relief from such temporary commitment at any time prior to the probable cause determination.
+        </section>
+    </text>
+</law>

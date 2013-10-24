@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>151N</section_number>
+    <catch_line>Effect On Other Laws; Binding Effect Of Interstate Commission Actions; Advisory Opinions; Limitations On Authority</catch_line>
+    <order_by>151N</order_by>
+    <text>
+        <section prefix="a">
+    	     (1) Nothing herein prevents the enforcement of any other law of a compacting state that is not inconsistent with this compact.
+        </section>
+        <section prefix="2">
+    	     All compacting states’ laws conflicting with this compact are superseded to the extent of the conflict.
+        </section>
+        <section prefix="b">
+    	     (1) All lawful actions of the interstate commission, including all rules and by-laws promulgated by the interstate commission, are binding upon the compacting states.
+        </section>
+        <section prefix="2">
+    	     All agreements between the interstate commission and the compacting states are binding in accordance with the terms thereof.
+        </section>
+        <section prefix="3">
+    	     Upon the request of a party to a conflict over meaning or interpretation of interstate commission actions, and upon a majority vote of the compacting states, the interstate commission may issue advisory opinions regarding such meaning or interpretation.
+        </section>
+        <section prefix="4">
+    	     In the event any provision of this compact exceeds the constitutional limits imposed on the legislature of any compacting state, the obligations, duties, powers or jurisdiction sought to be conferred by such provision upon the interstate commission shall be ineffective and such obligations, duties, powers or jurisdiction shall remain in the compacting state and shall be exercised by the agency thereof to which such obligations, duties, powers or jurisdiction are delegated by law in effect at the time this compact becomes effective.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Summary Of Laws For Authorities And Licensees</catch_line>
+    <order_by>19</order_by>
+    <text>
+        The state secretary shall cause a condensed summary of all laws relative to innholders and common victuallers to be printed, and shall supply copies thereof to licensing authorities, who shall at the time of granting each license provide the licensee with a copy of such summary.
+    </text>
+</law>

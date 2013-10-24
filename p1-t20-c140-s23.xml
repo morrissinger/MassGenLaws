@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Term; Fee</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Licensing authorities may grant licenses for lodging houses which shall be for the period provided in section four, and shall charge for each license such fee as the council or selectmen may establish; otherwise, the same shall be granted without charge, but in no event shall any such fee be greater than fifty dollars.
+    </text>
+</law>

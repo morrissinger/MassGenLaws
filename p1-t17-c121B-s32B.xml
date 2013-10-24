@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="121B" order_by="121B" level="3">Housing And Urban Renewal</unit>
+    </structure>
+    <section_number>32B</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>32B</order_by>
+    <text>
+        As used in sections thirty-two B to thirty-two F, inclusive, the following words shall have the following meanings unless the content otherwise requires: 
+“Landlord”, the owner or managing agent of a public housing development or a subsidized housing development. 
+“Public housing development”, such developments for housing owned and operated by a housing authority pursuant to this chapter. 
+“Subsidized housing development”, such multi-family developments for housing as: (a) receive the benefit of subsidy in the form of project-based assistance under the section 8 housing assistance program for the disposition of projects owned by the United States Department of Housing and Urban Development; or (b) are owned or held by the United States Department of Housing and Urban Development as mortgagee-in-possession. 
+“Tenant household”, an individual, family unit, or other group living in a public housing development or a subsidized housing development, as reported to the landlord of the development at initial occupancy or thereafter.
+    </text>
+</law>

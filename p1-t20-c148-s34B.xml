@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>34B</section_number>
+    <catch_line>Serious Bodily Injury; Penalties</catch_line>
+    <order_by>34B</order_by>
+    <text>
+        Any person who wantonly or recklessly violates the state building code or state fire code and thereby causes serious bodily injury or death to any person shall be punished by a fine of not more than $25,000 or by imprisonment in the state prison for not more than 5 years or in a house of correction for not more than 21/2 years, or both. 
+For purposes of this section, “serious bodily injury” shall mean bodily injury that results in a permanent disfigurement, loss or impairment of a bodily function, limb or organ, or a substantial risk of death.
+    </text>
+</law>

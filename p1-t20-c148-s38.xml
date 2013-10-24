@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Regulations Relative To Tanks</catch_line>
+    <order_by>38</order_by>
+    <text>
+        The board shall make rules and regulations governing the construction, use, and maintenance of tanks to which section thirty-seven applies; governing the removal and relocation of tanks to which section thirty-eight A applies; and governing the allocation of grants to cities and towns to which section thirty-seven A applies.
+    </text>
+</law>

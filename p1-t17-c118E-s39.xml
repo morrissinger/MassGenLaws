@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="118E" order_by="118E" level="3">Division Of Medical Assistance</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>False Representations, Failure To Disclose; Penalty</catch_line>
+    <order_by>39</order_by>
+    <text>
+        Any person or institution which knowingly makes a false representation or, contrary to a legal duty to do so, knowingly fails to disclose any material fact to the division or its agents affecting eligibility or level of benefits for the purpose of causing any person, including the person making such representations, to be supported in whole or in part by the commonwealth, or for the purpose of procuring a payment under any medical assistance program administered by the division, shall be punished by a fine of not less than two hundred nor more than five hundred dollars or by imprisonment for not more than one year. 
+Nothing in this section shall be construed as preventing the institution of criminal proceedings for the violation of any other law of the commonwealth.
+    </text>
+</law>

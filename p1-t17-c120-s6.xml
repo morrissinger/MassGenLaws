@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="120" order_by="120" level="3">Department Of Youth Services And Massachusetts Training Schools</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Liberty Under Supervision; Confinement; Reconfinement; Revocation Or Modification Of Order; Discharge</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Permit him his liberty under supervision and upon such conditions as it believes conducive to law-abiding conduct; or—
+        </section>
+        <section prefix="b">
+    	     Order his confinement under such conditions as it believes best designed for the protection of the public; or—
+        </section>
+        <section prefix="c">
+    	     Order reconfinement or renewed release as often as conditions indicate to be desirable; or—
+        </section>
+        <section prefix="d">
+    	     Revoke or modify any order, except an order of final discharge, as often as conditions indicate to be desirable; or—
+        </section>
+        <section prefix="e">
+    	     Discharge him from control with notice to the court, except as provided in section twelve, when it is satisfied that such discharge is consistent with the protection of the public.
+        </section>
+    </text>
+</law>

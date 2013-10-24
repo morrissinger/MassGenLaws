@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Parties Or Witnesses; Determination Of Mental Condition</catch_line>
+    <order_by>19</order_by>
+    <text>
+        In order to determine the mental condition of any party or witness before any court of the commonwealth, the presiding judge may, in his discretion, request the department to assign a qualified physician or psychologist, who, if assigned shall make such examinations as the judge may deem necessary.
+    </text>
+</law>

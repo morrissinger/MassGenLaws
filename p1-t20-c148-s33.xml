@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Duties And Powers Of Marshal</catch_line>
+    <order_by>33</order_by>
+    <text>
+        The marshal shall study fire hazard and fire prevention and all matters relating thereto, hear suggestions and complaints from all persons and from all cities and towns, advise with the officers of such cities and towns and make suggestions to the general court and to the cities and towns looking to the improvement of the laws, ordinances and by-laws relating to fire departments, construction of buildings, building or fire limits, use and occupation of buildings and other premises, protection of existing buildings, fire escapes and other life-saving devices, segregation and licensing of trades dangerous by reason of fire hazard, and all other matters relating to fire prevention and fire hazard. 
+The marshal may order the head of a fire department to assist, in his jurisdiction and may order the director of the division of fire safety to assist, in carrying out the provisions of this chapter.
+    </text>
+</law>

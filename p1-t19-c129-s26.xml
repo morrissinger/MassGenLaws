@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="129" order_by="129" level="3">Livestock Disease Control</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Application Of Chapter To Inspectors In Boston</catch_line>
+    <order_by>26</order_by>
+    <text>
+        The provisions of this chapter relative to the duties of inspectors shall apply to persons officially performing the functions of inspectors in Boston.
+    </text>
+</law>

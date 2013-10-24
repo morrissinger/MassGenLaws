@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Cost Of Proceedings</catch_line>
+    <order_by>54</order_by>
+    <text>
+        If no person appears and is admitted as a party as aforesaid, or if judgment is rendered in favor of all the claimants who appear, the cost of the proceedings shall be paid as in other criminal cases. If only one party appearing fails to sustain his claim, he shall pay all the costs except the expense of seizing and keeping the beverages, and an execution shall be issued against him therefor. If judgment is rendered against two or more claimants of distinct interest in the beverages, the cost shall, according to the discretion of the court, be apportioned among such parties, and executions shall be issued against them severally. If such execution is not forthwith paid, the defendant therein named shall be committed to jail, and shall not be discharged therefrom until he has paid the same and the costs of commitment, or until he has been imprisoned thirty days.
+    </text>
+</law>

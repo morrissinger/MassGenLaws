@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140D" order_by="140D" level="3">Consumer Credit Cost Disclosure</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Credit Balance Exceeding One Dollar; Periodic Statement Disclosure;  Contents</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     credit the amount of the credit balance to the consumer’s account;
+        </section>
+        <section prefix="b">
+    	     refund any part of the amount of the remaining credit balance, upon request of the consumer; and
+        </section>
+        <section prefix="c">
+    	     make a good faith effort to refund to the consumer by cash, check or money order any part of the amount of the credit balance remaining in the account for more than six months, within thirty days after the expiration of the six-month period, except that no further action is required in any case in which the consumer’s current location is not known by the creditor and cannot be traced through the consumer’s last known address or telephone number. Any creditor who does not make such a good faith effort to refund the credit balance, as required hereby, shall pay to the customer interest thereon at the annual percentage rate of eighteen per cent.
+        </section>
+        <section prefix="a">
+    	     The amount of the credit balance at the end of the applicable billing cycle; (b) That such credit balance represents money owed to the customer; (c) That the customer has the right to make charges against such credit balance or to obtain a cash refund of such balance upon request; (d) That the creditor will refund, within thirty days after the expiration of the foresaid six-month period, the amount then remaining in such credit balance, if no charge has been made against such credit balance, and a refund has not been requested and the amount of such credit balance is then equal to or in excess of one dollar. If the creditor discloses the credit balance more than once, the additional disclosures shall also be made in at least one other periodic statement or in a statement accompanying another periodic statement for a billing cycle within the aforesaid six-month period.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="138" order_by="138" level="3">Alcoholic Liquors</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Search Of Dwelling House</catch_line>
+    <order_by>43</order_by>
+    <text>
+        A warrant shall not be issued for the search of a dwelling house, if no inn, tavern, store, grocery, eating house or place of common resort is kept therein, unless one of the complainants makes oath that he has evidence that such alcoholic beverages have been sold therein or taken therefrom for the purpose of being sold by the occupant, or by his consent, or permission, contrary to law, within one month next before making such complaint, and are then kept therein for sale contrary to law by the person complained against. Such complainant shall state the facts and circumstances which constitute such evidence, and such allegations shall be recited in the complaint and warrant.
+    </text>
+</law>

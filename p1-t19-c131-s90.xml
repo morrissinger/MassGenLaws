@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="131" order_by="131" level="3">Inland Fisheries And Game And Other Natural Resources</unit>
+    </structure>
+    <section_number>90</section_number>
+    <catch_line>Penalties</catch_line>
+    <order_by>90</order_by>
+    <text>
+        <section prefix="a">
+    	     Deer and bear: three hundred dollars per animal illegally taken or illegally possessed.
+        </section>
+        <section prefix="b">
+    	     Wild turkey, fisher, bobcat and otter: two hundred dollars per animal illegally taken or illegally possessed.
+        </section>
+        <section prefix="c">
+    	     Fox, coyote and beaver: fifty dollars per animal illegally taken or illegally possessed.
+        </section>
+        <section prefix="d">
+    	     Mink, muskrat, raccoon, wild rabbit, hare and gray squirrel: twenty-five dollars per animal illegally taken or illegally possessed.
+        </section>
+        <section prefix="e">
+    	     Ruffed grouse, pheasant, quail, woodcock and migratory waterfowl: twenty-five dollars per bird illegally taken or illegally possessed.
+        </section>
+        <section prefix="f">
+    	     Fish: five dollars per fish illegally taken or illegally possessed.
+        </section>
+        <section prefix="g">
+    	     Endangered, Threatened and Special Concern Species included on the official Massachusetts List of Endangered Wildlife and Wild Plants established pursuant to section 4 of chapter 131A.
+        </section>
+        <section prefix="h">
+    	     Other animals or birds: ten dollars per animal or bird.
+        </section>
+    </text>
+</law>

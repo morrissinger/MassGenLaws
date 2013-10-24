@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="19" order_by="19" level="2">Agriculture And Conservation</unit>
+        <unit label="chapter" identifier="132B" order_by="132B" level="3">Massachusetts Pesticide Control Act</unit>
+    </structure>
+    <section_number>6G</section_number>
+    <catch_line>Pesticide Products Eligible For Outdoor Use At Schools, Child Care Centers And School Age Child Care Programs</catch_line>
+    <order_by>6G</order_by>
+    <text>
+        <section prefix="a">
+    	     pesticides used in accordance with the facility’s integrated pest management plan filed with the department and maintained on site;
+        </section>
+        <section prefix="b">
+    	     pesticides other than those classified as known, likely or probable human carcinogens by the United States Environmental Protection Agency, or equivalently categorized by the department, except as provided for in section 6H;
+        </section>
+        <section prefix="c">
+    	     pesticide products that do not contain inert ingredients categorized as “List 1: Inerts of Toxicological Concern” or any equivalent categorization by the United States Environmental Protection Agency; and
+        </section>
+        <section prefix="d">
+    	     pesticides that are applied for reasons other than purely aesthetic purposes, except that any municipality, city or town may allow the use of pesticide products for purely aesthetic purposes on the outdoor grounds of any school, child care center or school age child care program.
+        </section>
+    </text>
+</law>

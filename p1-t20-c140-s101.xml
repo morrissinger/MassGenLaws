@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="140" order_by="140" level="3">Licenses</unit>
+    </structure>
+    <section_number>101</section_number>
+    <catch_line>Term Of License; Contents; Posting</catch_line>
+    <order_by>101</order_by>
+    <text>
+        Licenses granted by the commissioner shall be for a period of one year from October first. Each license shall plainly state the name of the licensee, and the city or town, with the name of the street, and the number, if any, of the place where the business is to be carried on, and shall be posted in a conspicuous place in the office where the business is transacted.
+    </text>
+</law>

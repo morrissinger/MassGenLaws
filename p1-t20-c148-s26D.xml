@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="20" order_by="20" level="2">Public Safety And Good Order</unit>
+        <unit label="chapter" identifier="148" order_by="148" level="3">Fire Prevention</unit>
+    </structure>
+    <section_number>26D</section_number>
+    <catch_line>Definitions Applicable To Secs. 26 D To 26 F</catch_line>
+    <order_by>26D</order_by>
+    <text>
+        <section prefix="a">
+    	     a distinctive audible trouble signal is given before the battery is incapable of operating the device for alarm purposes, and that such audible trouble signal is produced at least once every minute for seven consecutive days, and
+        </section>
+        <section prefix="b">
+    	     the unit is capable of producing an alarm signal for at least four continuous minutes at the battery voltage at which a trouble signal is normally obtained followed by seven days of trouble signal operation, and
+        </section>
+        <section prefix="c">
+    	     the monitored batteries meeting these specifications are clearly identified on the unit near the battery compartment.
+        </section>
+        <section prefix="a">
+    	     all power supplies shall be sufficient to operate the alarm signal for at least four continuous minutes, and
+        </section>
+        <section prefix="b">
+    	     all such detector systems shall be installed in accordance with the Massachusetts Electrical Code.
+        </section>
+    </text>
+</law>

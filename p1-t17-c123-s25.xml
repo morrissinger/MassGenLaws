@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="123" order_by="123" level="3">Mental Health</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Guardian Or Conservator; Appointment</catch_line>
+    <order_by>25</order_by>
+    <text>
+        In addition to the periodic review under section four of this chapter, whenever the superintendent has reason to believe that a person who has been under the care of the department as an inpatient or resident for more than six months, who is not under guardianship or conservatorship, is unable to care for his property, he shall promptly notify said person’s nearest living relative and recommend that the necessary steps be taken for the appointment of a guardian or a conservator.
+    </text>
+</law>

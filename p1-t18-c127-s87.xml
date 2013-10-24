@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="18" order_by="18" level="2">Prisons, Imprisonment, Paroles And Pardons</unit>
+        <unit label="chapter" identifier="127" order_by="127" level="3">Officers And Inmates Of Penal And Reformatory Institutions. Paroles And Pardons</unit>
+    </structure>
+    <section_number>87</section_number>
+    <catch_line>Correspondence Of Inmates</catch_line>
+    <order_by>87</order_by>
+    <text>
+        <section prefix="a">
+    	     Every inmate of a correctional institution or any other penal institution in the commonwealth shall be allowed to send mail to the President or Vice President of the United States, a member of the Congress of the United States, the Attorney General of the United States, the director or any agent of the Federal Bureau of Investigation, any judge, attorney, clerk, probation officer, or parole officer the United States or of the commonwealth, the governor of the commonwealth, a member of the general court of the commonwealth, the attorney general of the commonwealth, the commissioner of public safety, the commissioner or any deputy commissioner of correction, and the superintendent of the institution in which the inmate is confined. A locked letter box shall be placed in each institution, into which the inmates may deposit sealed mail to the above-listed officials at their official addresses. The commissioner may provide that such mail be marked to indicate to the addressee that it has not been inspected or opened, and may also require as a condition of delivery that the mail bear the inmate’s name and return address. The mail shall be delivered or conveyed to the federal postal authorities for delivery.
+        </section>
+        <section prefix="b">
+    	     Every inmate of a correctional institution or any other penal institution in the commonwealth shall be allowed, consistent with such regulations as are necessary to protect legitimate governmental interests, to send mail to persons not listed in subsection (a).
+        </section>
+        <section prefix="c">
+    	     The commissioner shall promulgate rules and regulations to effectuate the purpose of this section.
+        </section>
+    </text>
+</law>

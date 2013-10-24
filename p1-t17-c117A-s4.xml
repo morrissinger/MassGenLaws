@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="117A" order_by="117A" level="3">Support By The Commonwealth</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Persons Not Citizens Or Legal Residents</catch_line>
+    <order_by>4</order_by>
+    <text>
+        A person who is neither a citizen of the United States nor lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law shall be ineligible for assistance under the provisions of this chapter.
+    </text>
+</law>

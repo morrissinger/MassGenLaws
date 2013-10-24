@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="17" order_by="17" level="2">Public Welfare</unit>
+        <unit label="chapter" identifier="119" order_by="119" level="3">Protection And Care Of Children, And Proceedings Against Them</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Failure To Appear On Summons; Capias</catch_line>
+    <order_by>71</order_by>
+    <text>
+        If any person to whom a summons is issued under the preceding section or section forty-two or fifty-five fails to appear in response to such summons, the court issuing the summons may issue a capias to compel the attendance of such person, and such capias shall be issued and served in the same manner as a capias to compel the attendance of witnesses who have failed to appear on a subpoena issued in behalf of the commonwealth in a criminal case.
+    </text>
+</law>
