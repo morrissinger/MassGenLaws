@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104" order_by="104" level="3">Agents, Consignees And Factors</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Pledge By Consignee To Secure Antecedent Debt</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If such merchandise or document is accepted in deposit or pledge for an antecedent debt due from such consignee or factor, the person receiving the same shall thereby acquire no other or further right or interest in or authority over or lien upon the same than the consignee or factor might have enforced against the actual owner.
+    </text>
+</law>

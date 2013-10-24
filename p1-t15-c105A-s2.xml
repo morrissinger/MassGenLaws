@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105A" order_by="105A" level="3">Self Service Storage Facilities</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Rental Agreements; Residential Use Prohibited</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The operator may only lease space in a self-service storage facility by entering in to a rental agreement with an occupant. 
+An operator may not knowingly permit a leased space at a self-service storage facility to be used for residential purposes. 
+An occupant may not use a leased space for residential purposes.
+    </text>
+</law>

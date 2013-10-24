@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="100" order_by="100" level="3">Auctioneers</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Licenses; Issuance</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Each license issued by the deputy director shall bear a number, shall be valid for one year from the date of its issuance, may be renewed upon application to the deputy director on a form provided by him, shall not be transferable, and may be exercised only by the licensee; provided, however, that the licensee may employ agents to conduct auctioneering under licensee’s immediate direction and control.
+    </text>
+</law>

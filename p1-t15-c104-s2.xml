@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104" order_by="104" level="3">Agents, Consignees And Factors</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Lien Of Consignee</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A shipper in lawful possession of merchandise at the time of shipment and in whose name it is shipped for sale shall be deemed the true owner thereof so far as to entitle the consignee to a lien thereon for money advanced or for securities given to the shipper for or on account of such consignment, unless the consignee, at or before the time when he made the advances or gave the securities, had notice by the bill of lading or otherwise that the shipper was not the actual and bona fide owner.
+    </text>
+</law>

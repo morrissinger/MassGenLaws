@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Fees Of Weighers</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Each weigher shall receive from the owner or master of a vessel weighed and marked twenty cents for every ton of such vessel, and four dollars for furnishing marks, nails and other necessary articles, fastening the same and giving the certificate.
+    </text>
+</law>

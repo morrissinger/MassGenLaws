@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Report Of Violations</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Harbor masters shall report to the department of environmental management any violation of section seventeen or of any law relating to tide water in their respective harbors, and of all shipwrecks in the tide waters of their respective harbors and of any obstructions therein.
+    </text>
+</law>

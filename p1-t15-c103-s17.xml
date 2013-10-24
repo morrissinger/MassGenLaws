@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Lien Of Pilots For Fees</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A pilot shall have a lien for his pilotage fees upon the hull and appurtenances of every vessel liable to him therefor under this chapter for sixty days after the completion of his services; but the lien shall not be enforced until approved by the commissioners.
+    </text>
+</law>

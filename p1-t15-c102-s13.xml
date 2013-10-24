@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Penalties</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Every owner or master of any such vessel who neglects to have the same weighed, marked and examined according to this chapter, or removes any marks or alters his certificate, and every weigher who places any mark contrary to this chapter, or gives a false certificate, shall forfeit not more than three hundred dollars.
+    </text>
+</law>

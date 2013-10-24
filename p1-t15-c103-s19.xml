@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Exhibition Of Commission</catch_line>
+    <order_by>19</order_by>
+    <text>
+        A pilot shall, if so required, exhibit his commission to the master of any vessel of which he may take charge.
+    </text>
+</law>

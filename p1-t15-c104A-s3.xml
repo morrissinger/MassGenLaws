@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104A" order_by="104A" level="3">Consignment Of Fine Art</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Incidents Of Consignment</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The consignee, after delivery of the work of fine art, shall constitute an agent of the consignor for the purpose of sale or exhibition of the consigned work of fine art.
+        </section>
+        <section prefix="b">
+    	     The work of fine art shall constitute property held in trust by the consignee for the benefit of the consignor, and shall not be subject to claim by a creditor of the consignee.
+        </section>
+        <section prefix="c">
+    	     The consignee shall be responsible for the loss of, or damage to, the work of fine art.
+        </section>
+        <section prefix="d">
+    	     The proceeds from the sale of the work of fine art shall constitute funds held in trust by the consignee for the benefit of the consignor. The proceeds shall first be applied to pay any balance due the consignor, unless the consignor expressly agrees otherwise in writing. The funds shall be allocated and disbursed in accordance with section 4A.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Pilot Districts</catch_line>
+    <order_by>1</order_by>
+    <text>
+        For the purposes of this chapter the shore line of the commonwealth shall be divided into four districts. 
+District one shall be the harbor of Boston and shall include all places or landings accessible to vessels from the sea within the limits of Egg Rock, now or formerly known as Nahant Rock or Nahant Head, on the north, and Point Allerton on the south. 
+District two shall include all landing places accessible to vessels from the sea situated between the New Hampshire state line on the north and Egg Rock on the south, including rivers, bays and sounds adjacent thereto. 
+District three shall include all landing places accessible to vessels from the sea situated between Point Allerton on the north and the Rhode Island state line on the west, with all such landing places on the Elizabeth Islands and in the counties of Nantucket and Dukes, including rivers, bays and sounds adjacent thereto, and the Cape Cod canal. 
+District four shall include all landing places on Mount Hope bay and the Taunton river situated within the commonwealth.
+    </text>
+</law>

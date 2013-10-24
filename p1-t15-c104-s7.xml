@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104" order_by="104" level="3">Agents, Consignees And Factors</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>7</order_by>
+    <text>
+        The following terms as used in sections eight and nine, unless the context otherwise requires, shall have the following meanings: 
+“Commission”, compensation accruing to a sales representative for payment by a principal, earned through the last day on which services were performed by the sales representative, the rate of which is expressed as a percentage of the dollar amount of orders or sales. 
+“Principal”, a person who manufactures, produces, imports or distributes a product for wholesale; contracts to solicit orders for such product, and compensates individuals who solicit wholesale orders in whole or in part, by commission. 
+“Sales representative”, a person other than an employee, who contracts with a principal to solicit wholesale orders in the commonwealth and who is compensated, in whole or in part, by commission but shall not include one who places orders or purchases exclusively for his own account for resale. 
+“Day”, any calendar day, including Saturdays, Sundays and legal holidays. 
+“Termination”, the end of services performed by the sales representative for the principal whether by expiration of a contract, discharge or resignation.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>31A</section_number>
+    <catch_line>Pilotage Rate Board</catch_line>
+    <order_by>31A</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a pilotage rate board which shall determine the rates to be charged by pilots commissioned under this chapter to ensure the safe navigation of vessels within the waters of the commonwealth and to ensure that the most qualified individuals are retained as commissioned pilots.
+        </section>
+        <section prefix="b">
+    	     The board shall consist of the following members or their designees: the director of the Massachusetts Port Authority; the president of the Boston Marine Society; the president of the Boston Shipping Association; a commissioner of pilots designated by the trustees of the Boston Marine Society; the chair of the Seaport Advisory Council; the executive director of the Boston Harbor Association; and the executive director of the New Bedford Harbor Development Commission. The board shall elect a chairperson and a vice chairperson from its members.
+        </section>
+        <section prefix="c">
+    	     The board shall be subject to section 11A1/2 of chapter 30A.
+        </section>
+        <section prefix="d">
+    	     Four board members shall constitute a quorum. The board shall approve its actions by a majority vote. Board members may vote by proxy or by electronic means.
+        </section>
+        <section prefix="e">
+    	     The board shall establish rates for pilotage within the waters of the commonwealth based upon prevailing rates in other similar ports, the need to retain the services of the best qualified harbor pilots available and other economic conditions that may affect the quality of pilotage services in the ports.
+        </section>
+        <section prefix="f">
+    	     The board shall meet at least once annually in October on a date to be set by the chairperson but not later than October 15. The board may meet at other times as necessary to carry out its duties.
+        </section>
+        <section prefix="g">
+    	     Board members shall serve without compensation but shall be reimbursed for travel and other reasonable expenses at the rate such expenses are reimbursed to full time employees of the commonwealth. Such reimbursement shall be paid by the Boston Marine Society from funds received pursuant to section 5.
+        </section>
+        <section prefix="h">
+    	     Any decision of the board as to the rates for pilotage shall become effective within 60 days after the board’s final decision on rates.
+        </section>
+        <section prefix="i">
+    	     The board shall determine how the rates for pilotage shall be made available to the maritime industry.
+        </section>
+    </text>
+</law>

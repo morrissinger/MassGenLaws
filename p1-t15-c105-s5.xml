@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105" order_by="105" level="3">Public Warehouses</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Books Of Warehousemen; Accounts; Inspection</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Such warehouseman shall keep books in which shall be entered an account of all his transactions relative to the storing and insuring of goods, wares and merchandise, to the issuing of receipts therefor and to the disposition of proceeds of sales thereof under this chapter. Such books shall be open to the inspection of any person interested in the property to which the entries relate.
+    </text>
+</law>

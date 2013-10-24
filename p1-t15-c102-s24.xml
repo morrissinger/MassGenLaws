@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Removal Of Vessel Lying In Harbor</catch_line>
+    <order_by>24</order_by>
+    <text>
+        A harbor master may, at the expense of the master or owners thereof, cause the removal of any vessel which lies in his harbor and is not moved when directed by him, and upon the neglect or refusal of such master or owners on demand to pay such expense, he may recover the same from them in contract, to the use of the town where the harbor is situated.
+    </text>
+</law>

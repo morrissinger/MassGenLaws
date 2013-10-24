@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105" order_by="105" level="3">Public Warehouses</unit>
+    </structure>
+    <section_number>2C</section_number>
+    <catch_line>Public Warehouses; License Exemption</catch_line>
+    <order_by>2C</order_by>
+    <text>
+        Notwithstanding the foregoing provisions of this chapter, persons, or corporations established under the laws of, and having their places of business within, the commonwealth, may keep and maintain a public warehouse on the premises of any other person or corporation for the storage therein, under contract, of goods, wares and merchandise of such other person or corporation, without being licensed under this chapter.
+    </text>
+</law>

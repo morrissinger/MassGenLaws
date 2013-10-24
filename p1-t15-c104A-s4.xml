@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104A" order_by="104A" level="3">Consignment Of Fine Art</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Trust Property; Contact Information Of Consignee; Forfeiture Of Property</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A work of fine art received as a consignment, and the funds derived from the sale of the work of fine art, shall remain trust property, notwithstanding the subsequent purchase thereof by the consignee directly or indirectly for the consignee’s own account until the price is paid to the consignor. If the work of fine art is thereafter resold to a bona fide purchaser before the consignor has been paid, the proceeds of the resale received by the consignee shall constitute funds held in trust for the benefit of the consignor and the trusteeship shall continue until the fiduciary obligation of the consignee with respect to such transaction is discharged.
+        </section>
+        <section prefix="b">
+    	     A work of fine art, or funds received as a result of the sale of a work of fine art, held in trust and pursuant to this chapter shall be considered property held in a statutory trust as defined and contemplated by 11 U.S.C. section 541 and any other relevant bankruptcy law. A work of fine art received as a consignment, or funds derived from the sale of a work of fine art so received, shall not, under any circumstances, without the express written consent of the consignor, become the property of the consignee.
+        </section>
+        <section prefix="c">
+    	     The consignor of the work of art is solely responsible for keeping his contact information current with the consignee, including name, mailing address, phone number, fax number and email address. If the consignee has in good faith attempted to return the consignor’s work of fine art and has attempted in writing to notify the consignor of the intent, but has not been able to locate the consignor within 1 year of the consignee’s decision to return the unsold artwork, the work shall be considered forfeited and the consignee may dispose of the property in a manner as the consignee considers appropriate. The consignee shall keep on file a record of attempts to contact the consignor.
+        </section>
+    </text>
+</law>

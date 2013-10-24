@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Persons Acting As Pilots</catch_line>
+    <order_by>35</order_by>
+    <text>
+        No person unless he holds a commission as a pilot shall, if a commissioned pilot offers his services or can be obtained within a reasonable time, assume or continue to act as pilot in the charge or conduct of any vessel within the waters of this commonwealth, unless he is actually employed on such vessel for the voyage. Whoever violates the provisions of this section shall be punished by a fine of not less than five thousand nor more than ten thousand dollars.
+    </text>
+</law>

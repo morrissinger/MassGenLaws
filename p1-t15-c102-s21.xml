@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Powers Of Harbor Masters</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The master of a vessel within a harbor for which a harbor master is appointed shall anchor his vessel according to the regulations of the harbor master, and shall move to such place as he directs. The master of a towboat having a vessel in tow and a pilot having a vessel in charge shall allow such vessel to anchor only in such place as the regulations of the harbor master provide for anchorage.
+    </text>
+</law>

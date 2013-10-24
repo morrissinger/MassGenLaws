@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Jurisdiction Of Courts; Recovery Of Penalties</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If any offence mentioned in sections one and two is committed in Boston or Boston harbor, the penalty may be recovered by complaint in the municipal court of the city of Boston; if in Salem or Salem harbor, in the first district court of Essex; if in Fall River or Fall River harbor, in the second district court of Bristol; if in New Bedford or Fairhaven or in the harbor of New Bedford and Fairhaven, in the third district court of Bristol, and if in Gloucester or Gloucester harbor, in the district court of eastern Essex. Whoever commits any such offence may be arrested without a warrant by any officer qualified to serve criminal process in the town in which the offence may be tried, and he shall be forthwith brought before the court.
+    </text>
+</law>

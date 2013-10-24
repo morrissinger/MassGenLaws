@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Exemption Of Seamen Or Mariners From Arrest On Debt; Liens</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A seaman or mariner who has shipped or entered into a contract for a voyage from a port in this commonwealth shall not be arrested on mesne process on account of a debt to a landlord or boarding house keeper; nor shall a landlord or boarding house keeper detain or have a lien upon his wearing apparel or other property, or hinder, obstruct or delay him in the performance of such contract. Violation of this section shall be punished by a fine of not more than two hundred dollars.
+    </text>
+</law>

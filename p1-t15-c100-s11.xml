@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="100" order_by="100" level="3">Auctioneers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Certain Auctions Not Subject To Chapter</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The provisions of this chapter shall not apply to any auction held or conducted by an order or judgment of any court of the commonwealth or of the United States or by any officer of a municipality, county or state of the United States; sales held by sheriffs, deputy sheriffs, constables, collectors of taxes, executors, administrators, lien holders, assignees for the benefit of creditors; sales by any other person specifically authorized by law to sell real, personal or mixed property; casual and isolated sales by an owner of his own goods; and any auction held or conducted by any resident member of a charitable, educational, religious or other nonprofit organization within the commonwealth; provided, however, that any person acting as agent for any of the foregoing shall be subject to all of the provisions of this chapter except section ten.
+    </text>
+</law>

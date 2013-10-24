@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105" order_by="105" level="3">Public Warehouses</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Insuring Property Upon Request; Notice To Depositor Of Household Goods</catch_line>
+    <order_by>4</order_by>
+    <text>
+        A licensed warehouseman shall, upon written request by a party placing property with him on storage, cause such property to be insured for whom it may concern. A railroad corporation acting as warehouseman may itself be the insurer. 
+Any warehouse receipt delivered to a depositor of family, personal or household goods shall contain the following notice conspicuously printed in at least eight point type: “The property which you are putting in storage is not covered by insurance against fire or theft. You may contact the warehouseman for instructions on placing insurance coverage for fire and theft on the deposited property.” 
+This section shall not apply to property stored pursuant to section 4 of chapter 239.
+    </text>
+</law>

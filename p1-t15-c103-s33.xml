@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="103" order_by="103" level="3">Pilots</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Failure Of Pilot To Anchor Vessels With Alien Passengers</catch_line>
+    <order_by>33</order_by>
+    <text>
+        A pilot failing to anchor a vessel carrying alien passengers or a vessel subject to quarantine at the place assigned by the proper authorities shall be suspended or removed.
+    </text>
+</law>

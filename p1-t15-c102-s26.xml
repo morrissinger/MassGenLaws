@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Stationing Of Vessels</catch_line>
+    <order_by>26</order_by>
+    <text>
+        A harbor master may regulate and station all vessels in the streams or channels of his harbor, and may remove such as he determines are not fairly and actually employed in receiving or discharging their cargoes, to make room for such others as require to be more immediately accommodated for such purposes.
+    </text>
+</law>

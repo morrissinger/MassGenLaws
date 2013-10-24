@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105" order_by="105" level="3">Public Warehouses</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Action On Bond</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Whoever is injured by the failure of a licensed warehouseman to perform his duty or his violation of any provision of this chapter may bring an action for his own benefit, in the name of the commonwealth, on the bond of such warehouseman. The writ shall be endorsed by the person in whose behalf such action is brought, or by some other person satisfactory to the court; and the endorser shall be liable to the defendant for any costs which he may recover in such action, but the commonwealth shall not be liable for any costs.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="105" order_by="105" level="3">Public Warehouses</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Negotiation Of Receipt For Mortgaged Goods</catch_line>
+    <order_by>60</order_by>
+    <text>
+        Whoever deposits goods to which he has no title, or upon which there is a lien or mortgage, and takes for such goods a negotiable receipt which he afterwards negotiates for value with intent to deceive, and without disclosing his want of title or the existence of the lien or mortgage, shall be punished by a fine of not more than one thousand dollars or by imprisonment for not more than one year, or both.
+    </text>
+</law>

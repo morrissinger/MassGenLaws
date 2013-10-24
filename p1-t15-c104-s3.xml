@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104" order_by="104" level="3">Agents, Consignees And Factors</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Lien On Consignment</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If a person intrusted with merchandise has authority to sell or consign the same, a consignee to whom he consigns it shall have a lien thereon for any money or merchandise advanced or for any negotiable security given by him on the faith of such consignment, to or for the use of the person in whose name the consignment or delivery was made, and for any money, negotiable security or merchandise received for the use of such consignee by the person in whose name the consignment or delivery was made, if such consignee had, at the time of such advance or receipt, probable cause to believe that the person in whose name the merchandise was shipped, transmitted or delivered was the actual owner thereof or had a legal interest therein to the amount of said lien.
+    </text>
+</law>

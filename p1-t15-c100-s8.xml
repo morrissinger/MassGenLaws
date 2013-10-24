@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="100" order_by="100" level="3">Auctioneers</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Licensees; Account Of Goods Sold; Sales And Use Taxes</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Each licensee shall keep a complete and accurate account of all goods and chattels sold by him, including the names and addresses of the persons from whom they were received. Each licensee shall be responsible for the reporting and collection of sales and use taxes for all sales made by him.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="104" order_by="104" level="3">Agents, Consignees And Factors</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Sales By Consignees</catch_line>
+    <order_by>1</order_by>
+    <text>
+        A factor or other agent intrusted with the possession of merchandise or of a bill of lading consigning merchandise to him with authority to sell the same shall be deemed the true owner of such merchandise, so far as to give validity to any bona fide contract of sale made by him.
+    </text>
+</law>

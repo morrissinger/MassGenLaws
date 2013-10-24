@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Boarding Vessels Without Leave Or Authority</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Whoever, not being a pilot or public officer, shall board or attempt to board a vessel arriving in the harbor of Boston, Salem, Fall River, New Bedford and Fairhaven or Gloucester, before such vessel has been made fast to the wharf, without the previous permission of the master or person having charge thereof or the previous written permission of its owners or agent, or whoever, without such leave and without authority of law, shall board a vessel in any of said harbors after having been forbidden so to do by a person having charge thereof at the time, or, having boarded such vessel, shall refuse or neglect to leave it when ordered so to do by the person having charge of it, shall forfeit not more than fifty dollars.
+    </text>
+</law>

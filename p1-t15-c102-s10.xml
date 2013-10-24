@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="102" order_by="102" level="3">Shipping And Seamen, Harbors And Harbor Masters</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Regulations On Board During Weighing</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Every person on board such vessel, who does not keep within the bounds of the bulkhead and fore chains during the time of taking the marks or while a weigher is employed in weighing or marking, unless in case of absolute necessity, shall forfeit not more than twenty dollars.
+    </text>
+</law>
