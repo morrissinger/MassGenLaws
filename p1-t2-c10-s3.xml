@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Treasurer’S Bond; Deposit With State Secretary; Actions Thereon</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The bond shall be deposited in the office of the state secretary; and upon the order of the governor, with the advice and consent of the council, or upon the order of the general court, the attorney general or any other person by them authorized therefor shall commence an action thereon and prosecute it to final judgment, execution and satisfaction.
+    </text>
+</law>

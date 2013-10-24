@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58A" order_by="58A" level="3">Appellate Tax Board</unit>
+    </structure>
+    <section_number>12A</section_number>
+    <catch_line>Costs; Appeal</catch_line>
+    <order_by>12A</order_by>
+    <text>
+        If the owner of a parcel of real estate files an appeal of the assessed value of said parcel with the board for either of the next two fiscal years after a fiscal year for which the board has determined the fair cash value of said parcel and if the assessed value is greater than the fair cash value as determined by the board, the burden shall be upon the appellee to prove that the assessed value was warranted and upon failure of the appellee to do so, the board may, in its discretion, tax as costs against the appellee, in addition to witness fees and expenses of service of process, the whole or any part of the reasonable expense of the taxpayer incurred in the preparation, entry and trial of his appeal. Should the board find that the assessed value was warranted, then it may tax such costs of the appellee against the appellant. Such costs shall be certified and paid as provided in section 12.
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25B" order_by="25B" level="3">Massachusetts Appliance Efficiency Standards Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     refrigerators, refrigerator-freezers and freezers which can be operated by alternating current electricity, excluding the following types: those designed to be used without doors; those which do not include a compressor and a condensor unit as an integral part of the cabinet assembly; refrigerators and refrigerator-freezers with total refrigerated volume exceeding thirty-nine cubic feet; top mounted refrigerator-freezers with total refrigerated volume less than sixteen and six-tenths cubic feet; and freezers with total refrigerated volume exceeding thirty cubic feet.
+        </section>
+        <section prefix="b">
+    	     storage type electric, gas and oil water heaters.
+        </section>
+        <section prefix="c">
+    	     fluorescent ballasts for F40T12 and F96T12 lamps.
+        </section>
+        <section prefix="d">
+    	     luminaires with fluorescent ballasts for F40T12 and F96T12 lamps.
+        </section>
+        <section prefix="e">
+    	     showerheads.
+        </section>
+        <section prefix="f">
+    	     medium voltage dry-type distribution transformers.
+        </section>
+        <section prefix="g">
+    	     metal halide lamp fixtures.
+        </section>
+        <section prefix="h">
+    	     residential furnaces or boilers.
+        </section>
+        <section prefix="i">
+    	     single-voltage external AC to DC power supplies.
+        </section>
+        <section prefix="j">
+    	     state-regulated incandescent reflector lamps.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Furnishing Paper To Reformatory By Purchasing Agent</catch_line>
+    <order_by>27</order_by>
+    <text>
+        The state purchasing agent shall furnish to the superintendent of the Massachusetts reformatory such of the paper used in the execution of the contract for state printing as he may need to fill any order for printing received from any department of the commonwealth for printing not included in said contract.
+    </text>
+</law>

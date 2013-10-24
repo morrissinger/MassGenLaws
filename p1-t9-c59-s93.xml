@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>93</section_number>
+    <catch_line>Failure To Assess Required Taxes; Penalties</catch_line>
+    <order_by>93</order_by>
+    <text>
+        An assessor who neglects to assess a state, county or district tax required by law shall be punished by a fine of not more than two hundred dollars.
+    </text>
+</law>

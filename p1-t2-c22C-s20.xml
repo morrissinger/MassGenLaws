@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Training Programs For Newly Enlisted And Uniformed Department Members</catch_line>
+    <order_by>20</order_by>
+    <text>
+        The colonel shall prescribe a training program for persons who shall be enlisted for the first time in the department such that no person shall exercise police powers as such a uniformed member until he shall have been assigned to and satisfactorily completed such training program. The colonel shall also prescribe an in-service training program for uniformed members of the state police.
+    </text>
+</law>

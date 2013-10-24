@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Sole Source Procurements</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     A procurement officer may award a contract in an amount of less than $25,000 or any contract for the procurement of library books, school textbooks, educational programs, educational courses, educational curricula in any media including educational software, newspapers, serials, periodicals, audiovisual materials or software maintenance without competition when, after reasonable investigation, the procurement officer determines in writing that only one practicable source for the required supply or service exists. The procurement officer shall procure a proprietary item by competition if more than one potential bidder or offeror for that item exists.
+        </section>
+        <section prefix="b">
+    	     The procurement officer shall record all sole source procurements, specifying each contractor’s name, the amount and type of each contract, a listing of supplies or services procured under each contract, and the basis of the determination that the contractor was the only practicable source for the required supply or service.
+        </section>
+        <section prefix="c">
+    	     A procurement officer may procure without competition water, gas, electricity, sewer or telephone services from a regulated industry company as defined in section three of chapter twenty-five if the procurement officer certifies in writing that only one practicable source exists.
+        </section>
+    </text>
+</law>

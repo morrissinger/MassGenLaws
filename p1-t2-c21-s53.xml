@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Short Title; Investigation And Prosecution Of Violations</catch_line>
+    <order_by>53</order_by>
+    <text>
+        Sections twenty-six to fifty-three, inclusive, shall be known and referred to as the Massachusetts Clean Waters Act and the officers of the division of law enforcement shall, upon request of the water resources commission or the division of water pollution control, investigate and prosecute violations of law, orders or rules and regulations relating to said act.
+    </text>
+</law>

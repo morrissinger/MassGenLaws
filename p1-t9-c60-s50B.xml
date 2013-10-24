@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>50B</section_number>
+    <catch_line>Municipalities; Foreclosure Proceedings; Appropriations</catch_line>
+    <order_by>50B</order_by>
+    <text>
+        Every city or town shall include in its annual budget the amount estimated by its treasurer as the amount necessary for land court proceedings for tax title foreclosure; provided, that the amount so included shall be not less than eighty dollars for each tax title ripe for foreclosure held by said city or town as security for the payment of taxes involving property having a current assessed valuation in excess of one thousand dollars. 
+If in any year the amount so estimated is not included in the budget as finally passed the treasurer shall certify in writing to the assessors such portion of the amount estimated in accordance with the preceding paragraph as has not been provided and the assessors shall raise in the assessment for such year the amount certified to them by the treasurer and thereupon said amount shall be added to the treasurer’s appropriation and may be expended by said treasurer for necessary land court proceedings for tax title foreclosure.
+    </text>
+</law>

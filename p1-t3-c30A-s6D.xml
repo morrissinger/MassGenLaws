@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>6D</section_number>
+    <catch_line>Expected Regulations; Publication Of List</catch_line>
+    <order_by>6D</order_by>
+    <text>
+        The state secretary shall publish, annually, in the first issue of the Massachusetts Register a plan submitted by each executive office containing a list of regulations expected to be promulgated during the next twelve month period. The state secretary shall publish a semi-annual update of said list six months after the initial plan is published. For the purposes of this section, “executive office” shall include the board of regents and the department of education.
+    </text>
+</law>

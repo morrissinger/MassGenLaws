@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="8" order_by="8" level="3">State Superintendent Of Buildings, And State House</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Repair Of Damage To State House</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If the state house is damaged by fire or other casualty, during the recess of the general court, the superintendent may make all repairs necessary for the protection and preservation of the building without an appropriation therefor.
+    </text>
+</law>

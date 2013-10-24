@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Number Of Ballots Provided; Ballot Labels For Voting Machines</catch_line>
+    <order_by>45</order_by>
+    <text>
+        One set of ballots, not less than one for each registered voter, shall be provided for each polling place at which an election for state, city or town officers is to be held. The state secretary or the city or town clerk, as the case may be, may provide a duplicate set of ballots for any polling place when he deems it necessary. 
+Where voting machines or electronic voting systems are used, the state secretary or the city or town clerk, as the case may be, shall provide sets of ballot labels equal to at least one and one half sets for each such machine or marking unit, provided that at least two sets are provided for each precinct. Official ballots shall also be furnished where voting machines are used, in accordance with section thirty-five A.
+    </text>
+</law>

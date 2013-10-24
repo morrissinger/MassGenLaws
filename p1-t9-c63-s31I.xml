@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31I</section_number>
+    <catch_line>Transactions With Related Members; Adding Back Of Certain Deductions</catch_line>
+    <order_by>31I</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall, unless the context requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     For purposes of computing its net income under this chapter, a taxpayer shall add back otherwise deductible interest expenses and costs and intangible expenses and costs directly or indirectly paid, accrued or incurred to, or in connection directly or indirectly with one or more direct or indirect transactions with, one or more related members.
+        </section>
+        <section prefix="c">
+    	     (i) The adjustments required in subsection (b) shall not apply if: (A) the taxpayer establishes by clear and convincing evidence, as determined by the commissioner, that the adjustments are unreasonable; or (B) the taxpayer and the commissioner agree in writing to the application or use of an alternative method of apportionment under section 42. Nothing in this subsection shall be construed to limit or negate the commissioner’s authority to otherwise enter into agreements and compromises otherwise allowed by law.
+        </section>
+        <section prefix="ii">
+    	     The adjustments required in subsection (b) shall not apply to the portion of interest expenses and costs and intangible expenses and costs that the taxpayer establishes by a preponderance of the evidence meets both of the following: (A) the related member during the same taxable year directly or indirectly paid, accrued or incurred such portion to a person that is not a related member, and (B) the transaction giving rise to the interest expenses and costs or the intangible expenses and costs between the taxpayer and the related member did not have as a principal purpose the avoidance of any portion of the tax that would be otherwise due.
+        </section>
+        <section prefix="d">
+    	     Nothing in this section shall be construed to limit or negate the commissioner’s authority to make adjustments under sections 33 and 39A.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Returns; Filing; Declaration Covering Perjury; Improper Filings</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Any return, document or tax payment required or permitted to be filed under this chapter shall be filed with or transmitted to the commissioner in such manner, format and medium as the commissioner shall from time to time prescribe; shall contain such information as the commissioner deems pertinent; and shall contain or be accompanied by a declaration, in such form as prescribed by the commissioner, that such return or document is made under the penalties of perjury. Any return, document or payment submitted in a manner or medium other than that prescribed by the commissioner shall not be deemed to have been filed.
+    </text>
+</law>

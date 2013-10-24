@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12A" order_by="12A" level="3">Office Of Inspector General</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, unless the context requires otherwise, the following words shall have the following meanings:— 
+“Construction”, the process of planning, acquiring, designing, building, altering, repairing, maintaining, servicing, improving, demolishing, equipping or furnishing any structure and appurtenance thereto, including facilities and utilities or other improvements of any kind to any real property and including, but not limited to, highways, airports, tunnels, sewers or dams; 
+“Procurement”, buying, purchasing, renting, leasing or otherwise acquiring or disposing of supplies, services, or construction; 
+“Supplies”, all property, including but not limited to equipment, materials, printing, insurance, and real property. 
+“Services”, the furnishing of labor, time, or effort by a contractor, as defined below. 
+“Public funds”, state, federal and local funds. 
+“Contractor”, any person, corporation, partnership, business, union, committee, or other organization, entity or group of individuals.
+    </text>
+</law>

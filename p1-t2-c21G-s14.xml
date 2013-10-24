@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Enforcement Orders; Civil Administrative Penalties; Actions By Attorney General; Punishment</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     Violate or assist in the violation of any of the provisions of this chapter or of any rules and regulations adopted hereunder;
+        </section>
+        <section prefix="2">
+    	     Fail to comply with any order by the department;
+        </section>
+        <section prefix="3">
+    	     Make a water withdrawal contrary to the terms and conditions of the chapter, or of any regulation adopted or permit or order issued hereunder; or
+        </section>
+        <section prefix="4">
+    	     Attempt to obtain a permit by misrepresentation or failure to disclose all relevant facts.
+        </section>
+    </text>
+</law>

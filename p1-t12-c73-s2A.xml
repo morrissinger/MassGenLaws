@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="73" order_by="73" level="3">State Colleges And Community Colleges</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Required Subjects For Instruction</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        In all state universities the constitutions of the United States and of the commonwealth shall be taught as required subjects for the purpose of fitting the students, morally and intellectually, for the duties of citizenship and of school teaching.
+    </text>
+</law>

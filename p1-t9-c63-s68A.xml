@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>68A</section_number>
+    <catch_line>Conflict Between Local And State Valuations; Remedy</catch_line>
+    <order_by>68A</order_by>
+    <text>
+        If the value of the works, structures, real estate, machinery, poles, underground conduits, wires and pipes owned by a corporation taxable under any provision of this chapter and which are subject to local taxation within the commonwealth, as determined by the commissioner, is less than the value thereof as determined by the assessors of the town where it is situated, the commissioner shall give notice of his determination to such corporation; and, unless within one month after the date of such notice the corporation applies to said assessors for an abatement, and, upon the refusal of the assessors to grant an abatement, prosecutes an appeal under section sixty-four of chapter fifty-nine, giving notice thereof to the commissioner, the valuation of the commission shall be conclusive upon said corporation.
+    </text>
+</law>

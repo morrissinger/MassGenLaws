@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Rights Of Department Upon Material Default By An Operator</catch_line>
+    <order_by>66</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon the occurrence and during the continuation of a material default by an operator, not caused by an event of force majeure, and upon the failure by the contractor or its financing institution on the contractor’s behalf, to cure such material default within 30 days of written notice of such default by the department, the department may:
+        </section>
+        <section prefix="1">
+    	     elect to take over the transportation facility, including the succession of all right, title and interest in the transportation facility; and
+        </section>
+        <section prefix="2">
+    	     terminate the public-private agreement and exercise any other rights and remedies available.
+        </section>
+        <section prefix="b">
+    	     In the event that the department elects to take over a transportation facility under subsection (a), the department:
+        </section>
+        <section prefix="1">
+    	     shall make interim payments, on behalf of the contractor and for the contractor’s account, of any amounts subject to a mechanics lien law of the commonwealth;
+        </section>
+        <section prefix="2">
+    	     may develop and operate the transportation facility, impose user fees for the use of the transportation facility and comply with any service contracts; and
+        </section>
+        <section prefix="3">
+    	     may solicit proposals for the maintenance and operation of the transportation facility under section 63.
+        </section>
+    </text>
+</law>

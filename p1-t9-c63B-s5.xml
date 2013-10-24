@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Credit Against Taxes</catch_line>
+    <order_by>5</order_by>
+    <text>
+        All payments of the estimated tax, or any installment thereof, for any taxable year shall be allowed as a credit to the corporation against the tax imposed upon such corporation for such taxable year under the provisions of chapter sixty-three or any act in lieu thereof, and under any act in addition thereto.
+    </text>
+</law>

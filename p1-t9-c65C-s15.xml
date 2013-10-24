@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Assessment Of Tax On Decedent’S Transferee</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     The amount of the liability, at law or in equity, of a transferee of property of a decedent in respect of the tax imposed by this chapter shall, except as hereinafter in this section provided, be assessed, collected, and paid in the same manner and subject to the same provisions and limitations as in the case of the tax with respect to which the liability was incurred. Any such liability may be either as to the amount of tax shown on a return or as to any deficiency in tax.
+        </section>
+        <section prefix="b">
+    	     The period of limitations for assessment of any such liability of a transferee shall be as follows:—
+        </section>
+        <section prefix="i">
+    	     In the case of the liability of an initial transferee, within one year after the expiration of the period of limitation for assessment against the transferor.
+        </section>
+        <section prefix="ii">
+    	     In the case of the liability of a transferee within one year after the expiration of the period of limitation for assessment against the preceding transferee, but not more than three years after the expiration of the period of limitation for assessment against the initial transferor;
+        </section>
+        <section prefix="c">
+    	     In the absence of notice to the commissioner under section sixteen of the existence of a fiduciary relationship, any notice of liability enforceable under this section, if addressed in the name of the decedent or other person subject to liability and mailed to his last known address, shall be sufficient.
+        </section>
+        <section prefix="d">
+    	     As used in this section, the term “transferee” includes donee, heir, legatee, devisee and his distributee, and includes a person who, under subsection (b) of section fourteen, is personally liable for any part of the tax.
+        </section>
+    </text>
+</law>

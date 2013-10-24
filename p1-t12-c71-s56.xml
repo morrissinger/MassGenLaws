@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Sick Children; Notification Of Parents</catch_line>
+    <order_by>56</order_by>
+    <text>
+        If any child is found to be suffering from any disease or defect, or if any child is found to have any defect or disability requiring treatment, the school committee shall forthwith notify the parent or guardian of such child.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Jury Trials; Waiver; Framing Issues</catch_line>
+    <order_by>71</order_by>
+    <text>
+        Any party may claim a jury trial on or before the return day, or within such further time as may on motion be allowed by the court, but unless so claimed the right to jury trial shall be deemed to be waived. Upon such a claim issues shall be framed therefor in accordance with the practice in the land court.
+    </text>
+</law>

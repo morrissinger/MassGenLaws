@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Attestation Of Records By Volume</catch_line>
+    <order_by>18</order_by>
+    <text>
+        He may attest the records by the volume, and the attestation shall be sufficient when the volume containing the same bears the attest, with the written signature of the register or other person lawfully authorized.
+    </text>
+</law>

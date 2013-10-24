@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="81" order_by="81" level="3">State Highways</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="a">
+    	     “Constructing”, all operations on the travelled way on new location or where considerable reconstruction is to be undertaken, including resurfacing and other work incidental to the above, such as shoulders, side road approaches, roadsides, drainage, structures, sidewalks, traffic control and service facilities, intersection construction, and unusual or disaster operations and professional services, or for such other purposes that the commissioner of highways may specifically authorize.
+        </section>
+        <section prefix="b">
+    	     “Maintaining”, all operations on the travelled way including scarifying, reshaping, applying dust palliatives and restoring material losses; patching, mudjacking, joint filling, surface treating, etc. and replacement in kind; other work such as restoration of erosion controls; reshaping drainage channels and side slopes; mowing; tree trimming; replacing topsoil, sod, shrubs, curbing, gutters, riprap, underdrains, culverts; cleaning and repairing culverts; cleaning; painting and repairing of structures; replacement of rail, floors, stringers and beams of structures; replacement of walls and the repairing of drawbridges; removal of snow and ice and related operations such as sanding, chemical applications, etc.; the erection of snow fences and the opening of inlets clogged with snow and ice; removal of litter from the roadsides and drainage; operation of drawbridges charged to highway traffic; painting, repairing and replacement in kind of signs, guardrail, signals, lighting standards, etc.; maintenance and replacement in kind of rest areas; servicing of and furnishing power and light bulbs for highway lighting and traffic control devices; roadside cleaning operations; operation of roadside areas, towing service, information booths, etc.; or for such other purposes that the commissioner of highways may specifically authorize.
+        </section>
+        <section prefix="c">
+    	     “Policing”, all operations on the travelled way by city or town law enforcement officials having to do with the direction or control of traffic thereon and such other purposes as the commissioner of highways may specifically authorize.
+        </section>
+    </text>
+</law>

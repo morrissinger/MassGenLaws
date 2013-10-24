@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Bed and breakfast establishment”, a private owner-occupied house where four or more rooms are let and a breakfast is included in the rent, and all accommodations are reserved in advance.
+        </section>
+        <section prefix="b">
+    	     “Bed and breakfast home”, a private owner-occupied house where three or fewer rooms are let and a breakfast is included in the rent, and all accommodations are reserved in advance.
+        </section>
+        <section prefix="c">
+    	     “Hotel”, any building used for the feeding and lodging of guests licensed or required to be licensed under the provisions of section six of chapter one hundred and forty.
+        </section>
+        <section prefix="d">
+    	     “Lodging house”, a house where lodgings are let to four or more persons not within the second degree of kindred to the person conducting it, licensed or required to be licensed under section twenty-three of chapter one hundred and forty.
+        </section>
+        <section prefix="e">
+    	     “Motel”, any building or portion thereof, other than a hotel or lodging house, in which persons are lodged for hire with or without meals and which is licensed or required to be licensed under the provisions of section thirty-two B of chapter one hundred and forty, or is a private club.
+        </section>
+        <section prefix="f">
+    	     “Operator”, any person operating a bed and breakfast establishment, hotel, lodging house or motel in the commonwealth including, but not limited to, the owner or proprietor of such premises the lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such bed and breakfast establishment, hotel, lodging house or motel.
+        </section>
+        <section prefix="g">
+    	     “Occupancy”, the use or possession, or the right to the use or possession, of any room or rooms in a bed and breakfast establishment, hotel, lodging house or motel designed and normally used for sleeping and living purposes, or the right to the use or possession of the furnishings or the services and accommodations, including breakfast in a bed and breakfast establishment, accompanying the use and possession of such room or rooms, for a period of ninety consecutive calendar days or less, regardless of whether such use and possession is as a lessee, tenant, guest or licensee.
+        </section>
+        <section prefix="h">
+    	     “Occupant”, a person who, for a consideration, uses, possesses or has a right to use or possess, any room or rooms in a bed and breakfast establishment, hotel, lodging house or motel under any lease, concession, permit, right of access, license or agreement.
+        </section>
+        <section prefix="i">
+    	     “Person”, includes an individual, partnership, trust or association, with or without transferable shares, joint-stock company, corporation, society, club, organization, institution, estate, receiver, trustee, assignee or referee and any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, or any combination of individuals acting as a unit.
+        </section>
+        <section prefix="j">
+    	     “Rent”, the consideration received for occupancy valued in money, whether received in money or otherwise, including all receipts, cash, credits and property or services of any kind or nature and also any amount for which credit is allowed by the operator to the occupant without any deduction therefrom whatsoever.
+        </section>
+    </text>
+</law>

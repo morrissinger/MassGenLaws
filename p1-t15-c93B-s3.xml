@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Unfair Competition And Practices</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Unfair methods of competition and unfair or deceptive acts or practices, as defined in section 4, are hereby declared to be unlawful.
+        </section>
+        <section prefix="b">
+    	     In construing subsection (a) the courts may be guided by the interpretations of the Federal Trade Commission Act, 15 U.S.C. 45.
+        </section>
+        <section prefix="c">
+    	     The attorney general may make rules and regulations interpreting the subsection (a). The rules and regulations shall not be inconsistent with the rules, regulations and decisions of the Federal Trade Commission and the federal courts interpreting the Federal Trade Commission Act, 15 U.S.C. 45.
+        </section>
+    </text>
+</law>

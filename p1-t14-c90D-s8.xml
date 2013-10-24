@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Check Of Application Against Records</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The registrar, upon receiving an application for a first certificate of title, shall check the identifying number of the vehicle shown in the application against the records of vehicles required to be maintained by section nine and against the record of stolen and converted vehicles required to be maintained by section thirty-three.
+    </text>
+</law>

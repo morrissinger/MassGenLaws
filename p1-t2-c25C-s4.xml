@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25C" order_by="25C" level="3">Department Of Telecommunications And Cable</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Supervision Of Department; Presiding Officer</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The commissioner shall have and exercise supervision and control over all the affairs of the department. He shall preside at all hearings at which he is present, and shall designate an employee of the department to act as presiding officer in his absence.
+    </text>
+</law>

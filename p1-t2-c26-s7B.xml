@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="26" order_by="26" level="3">Department Of Banking And Insurance</unit>
+    </structure>
+    <section_number>7B</section_number>
+    <catch_line>Interdepartmental Service Agreement With Department Of Revenue;  Limitations On Transfer Of Personal Information; Impact Of Violations Upon Licensing Of Entities To Provide Health Coverage</catch_line>
+    <order_by>7B</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purposes of implementing chapter 111M and section 8B of chapter 62C, the commissioner may consult with the department of revenue and may enter into an interdepartmental service agreement with the department that may include the transfer of information from statements and reports provided under said section 8B.
+        </section>
+        <section prefix="b">
+    	     Upon request, carriers licensed under chapters 175, 176A, 176B and 176G and the office of Medicaid shall make information available to the bureau for the purposes of chapter 111M. Such information shall be limited to the minimum amount of personal information necessary, shall not include information about diagnoses or treatments and, except for the office of Medicaid, shall not include social security numbers. The information acquired under this section shall be confidential and shall not constitute a public record.
+        </section>
+        <section prefix="c">
+    	     The division may consider violations of this section and said section 8B when licensing or authorizing entities to provide health coverage.
+        </section>
+    </text>
+</law>

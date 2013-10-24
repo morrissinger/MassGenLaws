@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>54A</section_number>
+    <catch_line>Procedures To Ensure Accuracy Of Information Reported To Consumer Reporting Agency; Disputed Information; Liability</catch_line>
+    <order_by>54A</order_by>
+    <text>
+        <section prefix="a">
+    	     Every person who furnishes information to a consumer reporting agency shall follow reasonable procedures to ensure that the information reported to a consumer reporting agency is accurate and complete. No person may provide information to a consumer reporting agency if such person knows or has reasonable cause to believe such information is not accurate or complete.
+        </section>
+        <section prefix="b">
+    	     A person who (1) in the ordinary course of business regularly and on a routine basis furnishes information to one or more consumer reporting agencies about the person’s own transactions or experiences with one or more consumers, and (2) determines that information on a specific transaction or experience so provided to a consumer reporting agency is not complete or accurate, shall promptly notify the consumer reporting agency of such determination and provide to the consumer reporting agency any corrections to that information, or any additional information, which is necessary to make the information provided by the person to the consumer reporting agency complete and accurate.
+        </section>
+        <section prefix="c">
+    	     While the completeness or accuracy of any information on a specific transaction or experience furnished by any person to a consumer reporting agency is subject to a continuing bona fide dispute between the affected consumer and that person, the person may not furnish the information to any consumer reporting agency without also including a notice that the information is disputed by the consumer; provided further, that no person may report to a consumer reporting agency that a consumer’s account is delinquent until said bona fide dispute is resolved pursuant to the federal Fair Credit Billing Act.
+        </section>
+        <section prefix="d">
+    	     A person who regularly furnishes information to a consumer reporting agency regarding a consumer who has an open-end credit account with such person, and which account is closed by the consumer, shall notify the consumer reporting agency of the closure of such account by the consumer, in information regularly furnished for the period in which the account is closed.
+        </section>
+        <section prefix="e">
+    	     A person who places a delinquent account for collection, internally or by referral to a third party, charges the delinquent account to profit or loss, or takes similar action, and subsequently furnishes information to a consumer reporting agency regarding such action, shall include within the information furnished, the approximate commencement date of the delinquency which gave rise to such action, unless such date was previously reported to the consumer reporting agency. Nothing contained in this paragraph shall be deemed to require that a delinquency must be reported to a consumer reporting agency.
+        </section>
+        <section prefix="f">
+    	     Upon receiving notice of a dispute notice pursuant to paragraph (a) of section fifty-eight with regard to the completeness or accuracy of any information provided to a consumer reporting agency, the person that provided the information shall (1) complete an investigation with respect to the disputed information and report to the consumer reporting agency the results of that investigation before the end of the thirty-business-day period beginning on the date the consumer reporting agency receives the notice of dispute from the consumer in accordance with paragraph (a) of section fifty-eight and (2) review relevant information submitted to it.
+        </section>
+        <section prefix="g">
+    	     A person who furnishes information to a consumer reporting agency shall be liable for failure to comply with the provisions of this section, unless the person so furnishing the information establishes by a preponderance of the evidence that, at the time of the failure to comply with this section, such person maintained reasonable procedures to comply with such provisions.
+        </section>
+    </text>
+</law>

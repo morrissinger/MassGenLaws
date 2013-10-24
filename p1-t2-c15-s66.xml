@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15" order_by="15" level="3">Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>International Education Programs; School Recognition; Grants;  Partnership Programs; Exchanges Of Professional Personnel And Students</catch_line>
+    <order_by>66</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be the policy of the commonwealth to encourage students, teachers, administrators and educational policy makers to participate in international studies, international exchange programs and other activities that advance cultural awareness and promote mutual understanding and respect for the citizens of other countries.
+        </section>
+        <section prefix="b">
+    	     The department of education may recognize a school that meets the standards for international education programs developed by the global education advisory council.
+        </section>
+        <section prefix="c">
+    	     The commissioner of education shall, annually, subject to appropriation, award grants not to exceed ten thousand dollars to local or regional school districts which operate schools recognized pursuant to this section. Such board shall use the funds to support the international education programs at such schools.
+        </section>
+        <section prefix="d">
+    	     The department of education may recognize sister school partnership programs between public schools of the commonwealth and foreign schools. Within available appropriations, participation in such partnership programs shall allow foreign schools access to state programs of professional development and technical assistance programs under the same terms and conditions as for public schools of this state with reciprocity for participation in such programs.
+        </section>
+        <section prefix="e">
+    	     Wherever possible, the department of education may promote exchanges of a limited number of professional personnel and students by state agencies and educational institutions, with institutions of other states and other countries and may pay the salaries of such personnel and may assign scholarships and grants-in-aid to such exchanges.
+        </section>
+    </text>
+</law>

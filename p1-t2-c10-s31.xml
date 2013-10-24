@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Ineligible Persons</catch_line>
+    <order_by>31</order_by>
+    <text>
+        No ticket or share shall be purchased by, and no prize shall be paid to any of the following persons: any member or employee of the commission or to any spouse, child, brother, sister or parent residing as a member of the same household in the principal place of abode of any member or employee of the commission.
+    </text>
+</law>

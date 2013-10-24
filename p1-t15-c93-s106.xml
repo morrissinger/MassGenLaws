@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>106</section_number>
+    <catch_line>Video Rental; Records; Penalty</catch_line>
+    <order_by>106</order_by>
+    <text>
+        <section prefix="1">
+    	     No persons engaged in the business of leasing or renting videos or any employee thereof shall maintain records that would indicate the title or category of any video leased or rented by a borrower other than the records necessary to ensure a completed transaction of such video. Records indicating the name of the borrower together with the title or category of the video shall be eliminated within thirty days after the transaction is completed. A transaction shall not be considered complete until all contractual rights or obligations between the parties regarding a particular video have been satisfied, including any credit due, late fees, rewinding charges or settlement for property damage and any investigation related thereto.
+        </section>
+        <section prefix="2">
+    	     No persons engaged in the business of leasing or renting videos or any employees thereof shall make available to a third party records that would indicate the name of the borrower or the title or category of any video leased or rented by a borrower, except under a proceeding authorized by 18 USC 2710(b)(2) (C) and (F).
+        </section>
+        <section prefix="3">
+    	     Any violation of this section shall be punishable by imprisonment in a house of correction for not more than sixty days or a fine of one thousand dollars, or both such fine and imprisonment.
+        </section>
+    </text>
+</law>

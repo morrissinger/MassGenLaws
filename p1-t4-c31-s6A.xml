@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Performance Evaluation System; Implementation</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        <section prefix="1">
+    	     An employee serving in a civil service position may be evaluated no more than twice each year by the employee’s immediate supervisor.
+        </section>
+        <section prefix="2">
+    	     All performance evaluations shall be in writing and shall be maintained as part of the employee’s records by his appointing authority until such employee leaves civil service employment or as otherwise prescribed by the administrator.
+        </section>
+        <section prefix="3">
+    	     Prior to each evaluation period, the immediate supervisor shall inform the employee of the general performance dimensions and the procedures to be utilized in evaluating the employee’s performance. The supervisor shall also inform the employee that such evaluation may be utilized by the department or the appointing authority in future personnel determinations.
+        </section>
+        <section prefix="4">
+    	     After such evaluation has been conducted, the immediate supervisor shall confer with the employee concerning the evaluation. Upon the completion of the employee’s review of such evaluation, the employee shall sign the evaluation indicating whether he agrees or disagrees with the evaluation. If the employee so desires, he or, with the employee’s consent, his collective bargaining agent, may be provided a copy of such evaluation.
+        </section>
+    </text>
+</law>

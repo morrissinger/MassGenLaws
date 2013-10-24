@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Acid Gas Scrubbers</catch_line>
+    <order_by>6</order_by>
+    <text>
+        All resource recovery facilities and other solid waste incinerators shall operate with acid gas scrubbers, or such other technology providing equal or greater protection to the public health and environment, as determined by the department in manner and time.
+    </text>
+</law>

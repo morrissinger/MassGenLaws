@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>8H</section_number>
+    <catch_line>Identification Cards For Persons Not Possessing Motor Vehicle Licenses;  Fictitious, Fraudulent, Or Altered Cards; Possession</catch_line>
+    <order_by>8H</order_by>
+    <text>
+        <section prefix="b">
+    	     lend his identification card to any other person or knowingly permit the use thereof by another;
+        </section>
+        <section prefix="c">
+    	     display or represent any identification card not issued to him as being his card;
+        </section>
+        <section prefix="d">
+    	     permit any unlawful use of an identification card issued to him;
+        </section>
+        <section prefix="e">
+    	     photograph, photostat, duplicate, or in any way reproduce any identification card or facsimile thereof in such a manner that it could be mistaken for a valid identification card, or display or have in his possession any such photograph, photostat, duplicate, reproduction, or facsimile unless authorized by the provisions of this chapter.
+        </section>
+    </text>
+</law>

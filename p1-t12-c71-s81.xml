@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>81</section_number>
+    <catch_line>Junior Colleges; Restriction On Establishment</catch_line>
+    <order_by>81</order_by>
+    <text>
+        Notwithstanding the provisions of sections seventy-five to seventy-nine, inclusive, no junior college shall be established by a city or town after January first, nineteen hundred and fifty-nine.
+    </text>
+</law>

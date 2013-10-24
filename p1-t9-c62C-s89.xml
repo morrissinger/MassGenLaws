@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Annual Reports On Tax Credit Programs; Contents</catch_line>
+    <order_by>89</order_by>
+    <text>
+        <section prefix="a">
+    	     Annually on or before May 15, the administering agency head of each tax credit program shall submit a report to the commissioner on each tax credit program authorized for the previous calendar year, in this section called the report, which shall be a public record. For purposes of this report, no information shall be used pertaining to credits, exemptions or deductions awarded or claimed prior to January 1, 2011. For the purposes of this section, the taxpayer shall be the initial recipient of an authorized tax credit.
+        </section>
+        <section prefix="b">
+    	     The report shall contain the following information: (i) the identity of each taxpayer receiving an authorized tax credit and from which tax credit program the credit was received; (ii) the amount of the authorized tax credit awarded and issued for each taxpayer and each project, if applicable; and (iii) the date that the authorized tax credit was awarded and issued for each taxpayer and each project.
+        </section>
+    </text>
+</law>

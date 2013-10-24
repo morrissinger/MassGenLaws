@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>7C</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>7C</order_by>
+    <text>
+        If any provision of this Act, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+    </text>
+</law>

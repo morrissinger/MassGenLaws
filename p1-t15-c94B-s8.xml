@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94B" order_by="94B" level="3">Hazardous Substances</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Repurchase Of Banned Hazardous Substances</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The manufacturer of any such article or substance shall repurchase it from the person to whom he sold it, and shall refund to that person the purchase price paid for such article or substance. If that person repurchased such article or substance pursuant to the provisions in this section, the manufacturer shall reimburse him for any amounts paid in connection with its repurchase, and reimburse such person for any reasonable and necessary expenses incurred in returning it to the manufacturer.
+        </section>
+        <section prefix="b">
+    	     The distributor of any such article or substance shall repurchase it from the person to whom he sold it, and shall refund to that person the purchase price paid for such article or substance. If that person has repurchased such article or substance pursuant to the provisions of this section, the distributor shall reimburse him for any amounts paid for the return of such article or substance in connection with its repurchase and reimburse that person for any reasonable and necessary expenses incurred in returning it to the distributor.
+        </section>
+        <section prefix="c">
+    	     In the case of any such article or substance sold at retail by a dealer, if the person who purchased it from the dealer returns it to him, the dealer shall refund the purchase price paid for it and reimburse him for any reasonable and necessary transportation charges incurred in its return.
+        </section>
+    </text>
+</law>

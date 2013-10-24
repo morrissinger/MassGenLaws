@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Income From Pooled Income Funds And Charitable Remainder Annuity Trusts Or Unitrusts; Deduction And Withholding</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        Every trustee of a pooled income fund, as defined in section six hundred and forty-two (c)(5) of the Code, and every trustee of a charitable remainder annuity trust or a charitable remainder unitrust, as defined in section six hundred and sixty-four (d) of the Code, who is an inhabitant of the commonwealth and who makes payment to a beneficiary who is an inhabitant of the commonwealth of income subject to the taxes imposed by this chapter shall deduct and withhold tax upon such income at the rate or rates applicable under the provisions of this chapter to the class or classes of income so paid. The amount deducted and withheld as tax, as provided herein, shall be allowed as a credit to the beneficiary entitled to the income against the tax imposed thereon.
+    </text>
+</law>

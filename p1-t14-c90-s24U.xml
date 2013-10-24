@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>24U</section_number>
+    <catch_line>Starting Motor Vehicle Equipped With Ignition Interlock Device For Another Person Under A Restricted License</catch_line>
+    <order_by>24U</order_by>
+    <text>
+        <section prefix="2">
+    	     A certified copy of an acknowledgement of the existence and terms of certified ignition interlock device restriction, executed by a person alleged to have violated this section shall be admissible as evidence to prove the existence of such knowledge by the person who executed the document.
+        </section>
+    </text>
+</law>

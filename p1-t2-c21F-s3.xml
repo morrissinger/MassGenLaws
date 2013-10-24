@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21F" order_by="21F" level="3">Coastal Facilities Improvement</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Eligibility Of Coastal Cities Or Towns</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The executive office of environmental affairs shall define the terms “coastal city or town” and shall designate such cities and towns as so qualifying for the purpose of determining eligibility for project assistance.
+    </text>
+</law>

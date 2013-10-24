@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="46" order_by="46" level="3">Return And Registry Of Births, Marriages And Deaths</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Separate Registries For Births, Deaths And Marriages</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Separate indexes of births, marriages and deaths shall be kept, and each entry shall be numbered in its order. The town clerk shall preserve all returns of births, marriages and deaths and shall conveniently arrange them for examination. He may record in separate columns the facts of such births, marriages and deaths.
+    </text>
+</law>

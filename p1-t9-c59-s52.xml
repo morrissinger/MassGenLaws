@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Valuation Lists; Statement Of Assessors; Penalties</catch_line>
+    <order_by>52</order_by>
+    <text>
+        The assessors, or other persons authorized to assess taxes, shall, at the end of said valuation list, subscribe the following statement: 
+We, the assessors (or other persons so authorized, as the case may be,) of   , do severally state, that the foregoing list is a full and true list of the names of all persons known to us, who are liable to taxation in  , (here insert the name of the city or town,) during the present year, and that the real and personal estate contained in said list, and assessed upon each person in said list, is a full and accurate assessment upon all the property of each person, liable to taxation, at its full and fair cash value, according to our best knowledge and belief. This statement is made under the penalties of perjury. 
+Failure to subscribe the foregoing statement shall not invalidate a tax otherwise legally assessed; but whoever assesses taxes in a town without having subscribed the same shall be punished by a fine of ten dollars.
+    </text>
+</law>

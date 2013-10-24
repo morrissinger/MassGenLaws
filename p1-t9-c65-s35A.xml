@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Fees For Issuing Documents, Certificates, Etc.; Disposition</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        <section prefix="a">
+    	     For a certificate to the effect that all taxes due and payable under this chapter with respect to a particular parcel or parcels of real estate as a result of the death of a specified decedent have been paid or that no such tax is due and that said real estate is free of any lien chargeable under this chapter.
+        </section>
+        <section prefix="b">
+    	     For a waiver to the effect that no tax is due under this chapter, as a result of the death of a specified decedent.
+        </section>
+        <section prefix="c">
+    	     For a photostatic copy of the computation sheet showing the computation of the tax due under this chapter as a result of the death of a specified decedent.
+        </section>
+        <section prefix="d">
+    	     For a certificate showing the amount of tax paid under this chapter.
+        </section>
+        <section prefix="e">
+    	     For a duplicate copy of the commissioner’s “Determination of Value” issued pursuant to section twenty-five.
+        </section>
+        <section prefix="f">
+    	     For a duplicate copy of a tax bill showing the amount of any tax assessed under this chapter.
+        </section>
+        <section prefix="g">
+    	     For a duplicate copy of a receipt showing the amount of any tax paid under this chapter.
+        </section>
+    </text>
+</law>

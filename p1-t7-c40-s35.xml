@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40" order_by="40" level="3">Powers And Duties Of Cities And Towns</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Keeper; Appointment; Oath; Penalty For Failure To Appoint Keeper</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The mayor of each city, except Boston, and in Boston the police commissioner, and the selectmen of each town required to maintain a lockup shall annually, by a writing recorded with the town clerk, appoint a keeper of the lockup, who shall have the care and custody thereof and of persons committed thereto. He shall accept the appointment within three days after notice thereof, shall be sworn and shall hold office for one year unless sooner removed. If the selectmen neglect to appoint a keeper, each selectman shall forfeit ten dollars for each month during which such neglect continues; and if the mayor, except in Boston, or in Boston the police commissioner, neglects for three months to appoint a keeper, he shall forfeit thirty dollars and ten dollars additional for each subsequent month of such neglect.
+    </text>
+</law>

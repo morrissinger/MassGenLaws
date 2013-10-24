@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21B" order_by="21B" level="3">Mining Regulation And Reclamation</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Abandonment Or Closure Of Mine; Final Survey</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Whenever a mine is abandoned or closed, the owner shall make a final survey of all workings not represented on the maps and plans of such mine, and shall properly enter the results upon the maps of the mine so as to show the exact relations of the most advanced workings to the boundary of the property and shall file a copy of the same with the commissioner.
+    </text>
+</law>

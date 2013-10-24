@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Admittance Requirements</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No assisted living residence shall admit any resident who requires twenty-four hour skilled nursing supervision. No assisted living residence shall provide, or admit or retain any resident in need of skilled nursing care unless all of the following are the case: 
+1. The care will be provided by a home health agency certified under Title XVIII of the Social Security Act, 49 Stat. 620 (1935), 42 U.S.C. 301, as amended or an entity licensed under chapter one hundred and eleven, on a part-time, intermittent basis for not more than a total of ninety days in any twelve-month period, or by a licensed hospice. 
+2. The certified home health agency, entity licensed under chapter one hundred and eleven of the General Laws, or hospice does not train assisted living residence staff to provide the skilled nursing care. 
+3. The individual to whom the skilled nursing care is provided is suffering from a short-term illness. For the purposes of this section “short-term illness” is defined as either a medical condition for which recovery can be expected to occur with not more than ninety consecutive days of skilled nursing care or a medical condition requiring skilled nursing care on a periodic, scheduled basis. For the purposes of this section, nursing services provided by a certified home health agency or entity licensed under chapter one hundred and eleven such as injection of insulin or other drugs used routinely for maintenance therapy of a disease, or licensed hospice care may be provided without respect to the ninety day limitation.
+    </text>
+</law>

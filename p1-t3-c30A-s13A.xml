@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>13A</section_number>
+    <catch_line>Issuance And Renewal Of Licenses; Social Security Number Of Applicant; Information Provided To Iv D Agency</catch_line>
+    <order_by>13A</order_by>
+    <text>
+        Agencies and political subdivisions of the commonwealth, that issue a license under section 13 shall require an applicant for issuance or renewal of such license to provide a social security number as a condition of issuing or renewing such license and shall record such social security number in the applicant’s record; provided, however, that the applicant may, on the face of the license, use a number other than his social security number as permitted under any other provision of law of the commonwealth; provided further, that the agency issuing the license shall provide information in its records, including the social security number of applicants, to the IV-D agency as set forth in chapter 119A, using the method and format required by said IV-D agency.
+    </text>
+</law>

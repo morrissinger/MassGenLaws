@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>37C</section_number>
+    <catch_line>Acceptance Of Amount Less Than Proposed Or Assessed Tax Liability In Full And Final Settlement</catch_line>
+    <order_by>37C</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may accept a lesser amount than the proposed or assessed tax liability in full and final settlement thereof; provided, however, that the following conditions are met:
+        </section>
+        <section prefix="1">
+    	     The commissioner finds that the settlement is in the best interests of the commonwealth, taking into account potential hazards of litigation and the likelihood of a finding of liability against the taxpayer; and
+        </section>
+        <section prefix="2">
+    	     the commissioner and the taxpayer agree in writing to the settlement.
+        </section>
+        <section prefix="b">
+    	     After the settlement agreement is signed, neither the taxpayer nor the commissioner shall be permitted to reopen the matter or matters which are the subject of an agreement except by reason of (1) fraud; (2) misrepresentation of a material fact; or (3) mutual mistake of a material fact sufficient to cause a contract to be reformed or set aside.
+        </section>
+        <section prefix="c">
+    	     The commissioner shall promulgate rules and regulations to carry out the provisions of this section, which rules and regulations shall include procedures for determining and approving of all settlements; provided, however, that all settlements under this section shall be approved by the commissioner.
+        </section>
+        <section prefix="d">
+    	     Any settlement under this section which is entered into after the commissioner has denied or is deemed to have denied an application for abatement filed pursuant to section 37 and which proposes to abate $200,000 or more of the tax, not including interest and penalties, shall be submitted to the attorney general for review. Any such settlement proposal shall take effect 21 days after its receipt by the attorney general, unless the attorney general objects in writing to the settlement. In the event the attorney general objects to the settlement proposal, such settlement shall not take effect until the objection is resolved by the commissioner and the attorney general.
+        </section>
+        <section prefix="e">
+    	     Where, under the provisions of this section, an amount less than the amount of the assessed liability is accepted in full and final settlement of said liability, the commissioner shall abate the excess of such liability over the amount accepted in settlement.
+        </section>
+        <section prefix="f">
+    	     The commissioner of revenue shall report to the attorney general each settlement which is described in this section and which abates more than $200,000 in tax. The report shall include the identity of the taxpayer, the type and amount of the tax, the amount of interest and penalties, and such other information as is necessary to convey the terms of and reasons for each such settlement. The report shall be prepared on an annual basis and submitted to the attorney general within 60 days of the department of revenue’s fiscal year end.
+        </section>
+    </text>
+</law>

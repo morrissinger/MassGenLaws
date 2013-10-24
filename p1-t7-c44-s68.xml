@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Retroactive Salary Increases</catch_line>
+    <order_by>68</order_by>
+    <text>
+        Whenever a city, town or district votes to grant a salary increase to all or any of its employees, such increase may be retroactive to a date not earlier than the beginning of the fiscal year prior to the date of such vote.
+    </text>
+</law>

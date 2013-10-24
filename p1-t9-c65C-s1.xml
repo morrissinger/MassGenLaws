@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Code”, the Internal Revenue Code of the United States, as amended and in effect on January first, nineteen hundred and seventy-five.
+        </section>
+        <section prefix="b">
+    	     “Commissioner”, the commissioner of revenue.
+        </section>
+        <section prefix="d">
+    	     “Federal gross estate”, the gross estate as defined under the Code except that, (1) notwithstanding section two thousand and thirty-five of the Code, the value of the gross estate shall include the value of all property to the extent of any interest therein of which the decedent has at any time made a transfer, relinquished a power, or exercised or released a general power of appointment, except in case of a bona fide sale for an adequate and full consideration in money or money’s worth, by trust or otherwise, during the three year period ending with the date of the decedent’s death; provided, however, that the value of such property or interest therein so transferred or subject to the power so relinquished, exercised or released exceeds ten thousand dollars for any person during a calendar year; and (2) notwithstanding section two thousand and forty of the Code, one-half of the value of any interest in any property shall be included in the gross estate if such interest is held by the decedent and the decedent’s spouse as tenants by the entirety, or joint tenants with right of survivorship, but only if the decedent and the spouse of the decedent are the only joint tenants.
+        </section>
+        <section prefix="e">
+    	     “Massachusetts adjusted gross estate”, the Massachusetts gross estate less the deductions allowable under section three pursuant to sections two thousand and fifty-three and two thousand and fifty-four of the Code.
+        </section>
+        <section prefix="f">
+    	     “Massachusetts gross estate”, the federal gross estate, whether or not a federal estate tax return is required to be filed, plus the value of any property (i) in which the decedent had at death a qualifying income interest for life described in subsection (c) of section three A, or to the extent of any such interest therein of which the decedent has at any time made a transfer, by trust or otherwise, under any circumstances which would require the property to be included in the gross estate under the provisions of this chapter and (ii) for which a deduction was allowed for Massachusetts estate tax purposes with respect to the transfer of such property to the decedent; and less the value of real and tangible personal property having an actual situs outside the commonwealth. The Massachusetts gross estate shall not include the value of any property in which the decedent had a qualifying income interest for life which is not otherwise includible in the Massachusetts gross estate under the first sentence of this paragraph, notwithstanding the right of the executor of the decedent’s estate to recover federal or Massachusetts estate taxes from such property.
+        </section>
+        <section prefix="g">
+    	     “Massachusetts net estate”, the Massachusetts gross estate less the following deductions to the extent they are allowable under section three: (1) funeral expenses; (2) claims against the estate; and (3) unpaid mortgages on, or any indebtedness in respect of, property where the value of the decedent’s interest therein, undiminished by such mortgage or indebtedness, is included in the value of the Massachusetts gross estate.
+        </section>
+        <section prefix="h">
+    	     “Massachusetts taxable estate”, the Massachusetts gross estate less the exemption and deductions allowable under section three.
+        </section>
+        <section prefix="i">
+    	     “Resident”, any person domiciled in the commonwealth.
+        </section>
+    </text>
+</law>

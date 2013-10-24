@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Marine Technology, Environmental, And Engineering Programs</catch_line>
+    <order_by>40</order_by>
+    <text>
+        <section prefix="a">
+    	     Marine technology, environmental, and engineering programs shall be established at the University of Massachusetts Dartmouth.
+        </section>
+        <section prefix="b">
+    	     The purposes and responsibilities of the marine technology, environmental, and engineering programs shall be to:
+        </section>
+        <section prefix="1">
+    	     promote the development of and conduct research in innovative envirotechnologies related to the marine environment; and
+        </section>
+        <section prefix="2">
+    	     assist and cooperate with Massachusetts business, industry, and agencies in the demonstration, transfer, and deployment of innovative marine envirotechnologies.
+        </section>
+    </text>
+</law>

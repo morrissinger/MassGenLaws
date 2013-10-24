@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>5D</section_number>
+    <catch_line>Exemption From Liability For Release Of Oil Or Hazardous Material For Persons Who Did Not Cause Or Contribute To The Release</catch_line>
+    <order_by>5D</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who would otherwise be liable for a release of oil or hazardous material solely pursuant to clause (1) of paragraph (a) of section 5 and who did not cause or contribute to the release, shall not be liable to the commonwealth or to any other person for contribution, response action costs for property damage pursuant to this chapter or for property damage under the common law, except for liability under a contract, if such release of oil or hazardous material has migrated in or on groundwater or surface water from a known source where the following requirements are met:
+        </section>
+        <section prefix="1">
+    	     such oil or hazardous material was released from an upgradient or upstream source or sources and has come to be located at the downgradient or downstream property owned or operated by such person;
+        </section>
+        <section prefix="2">
+    	     such person does not own or operate and did not previously own or operate any portion of the site from or at which the source of the release originated;
+        </section>
+        <section prefix="3">
+    	     such person complies with the notice requirements of this chapter and regulations promulgated thereto; and
+        </section>
+        <section prefix="4">
+    	     such person: (i) provides reasonable access to the portion of the site it owns or operates to employees, agents and contractors of the department for all purposes authorized by this chapter and to other persons for the purpose of conducting response actions pursuant to this chapter and regulations promulgated thereto; (ii) takes reasonable steps (a) to prevent the exposure of people to oil or hazardous material by fencing or otherwise preventing access to the portion of the site under its control, and (b) to prevent an imminent hazard at the downgradient or downstream property owned or operated by such person by taking immediate response actions at the portion of the site owned or operated by such person; (iii) does not unreasonably impede or interfere with the performance of response actions or the restoration of natural resources by any person; and (iv) does not exacerbate the release of oil or hazardous material affecting the downgradient or downstream property owned or operated by such person.
+        </section>
+        <section prefix="b">
+    	     With respect to a release of oil or hazardous material that has migrated in or on groundwater or surface water from an unknown source, a person who can demonstrate by a preponderance of the evidence that it otherwise meets all of the criteria in paragraph (a) shall not be liable to the commonwealth or to any other person for contribution, response action costs or property damage pursuant to this chapter or for property damage under the common law, except for liability arising under a contract.
+        </section>
+        <section prefix="c">
+    	     The department shall promulgate regulations in order to define the terms “known source” and “unknown source”.
+        </section>
+        <section prefix="d">
+    	     Nothing in this section shall relieve any person of any liability for releases or threats of release of oil or hazardous material:
+        </section>
+        <section prefix="1">
+    	     that are exacerbated, caused, or contributed to by the acts or failure to act pursuant to this chapter of such downgradient or downstream owner or operator, or its agent or employee;
+        </section>
+        <section prefix="2">
+    	     that originate on the downgradient or downstream property owned or operated by such person;
+        </section>
+        <section prefix="3">
+    	     that originate on the downgradient or downstream property owned or operated by such person and commingled with the oil or hazardous material migrating from upgradient or upstream property in groundwater or surface water; or
+        </section>
+        <section prefix="4">
+    	     to which there is a new exposure resulting from an act or failure to act pursuant to this chapter of a downgradient or downstream owner or operator or such person’s agent or employee.
+        </section>
+        <section prefix="e">
+    	     Nothing in this section shall affect the department’s audit authority, as provided by paragraph (o) of section 3A.
+        </section>
+        <section prefix="f">
+    	     If the commonwealth prevails in an action brought pursuant to this chapter for recovery of costs incurred by the department against a party that has asserted liability protection pursuant to this section, the court may impose sanctions in accordance with paragraph (e) of section 5.
+        </section>
+    </text>
+</law>

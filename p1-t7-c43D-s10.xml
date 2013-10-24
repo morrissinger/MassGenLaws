@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43D" order_by="43D" level="3">Expedited Permitting</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Administrative Appeals; Time For Filing; Final Written Decision</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Appeals from issuing authority decisions or from a grant by operation of law shall be filed within 20 days after the last individual permitting decision has been rendered or within 20 days after the conclusion of the 180 day period as set forth in subsection (a) of section 5, whichever is later. The 180 day period shall be increased by the number of days in any extension granted under this chapter.
+        </section>
+        <section prefix="b">
+    	     A person aggrieved by a final decision of any issuing authority, or by the failure of that authority to take final action concerning the application within the time specified, whether or not previously a party to the proceeding, or any governmental officer, board, or agency, may appeal to the division of administrative law appeals by bringing an action within 20 days after a written decision was or should have been rendered. Appeals from decisions of multiple permitting authorities shall be filed simultaneously and shall be consolidated for purposes of hearing and decision. This section shall not apply to appeals pursuant to sections 40 and 40A of chapter 131, which shall continue to be appealed in accordance with said chapter 131, chapter 30A and applicable regulations.
+        </section>
+        <section prefix="c">
+    	     When hearing appeals under this chapter, the division shall revise its rules, procedures and regulations to the extent necessary to accord with the requirements of this chapter.
+        </section>
+        <section prefix="d">
+    	     The division shall render a final written decision within 90 days of the receipt of the appeal. Thereafter, an aggrieved party may appeal to the superior court department by bringing an action within 20 days after the division has rendered a final decision.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Willful Failure To Pay Tax Or Provide Information; Penalties</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Except as otherwise expressly provided in this chapter, any person required under this chapter to pay any tax, or required by this chapter or chapter sixty-two C, or regulations made under the authority of chapter fourteen and chapter sixty-two C to make a return or supply any information, who willfully fails to pay such tax or make such return or supply such information at the time or times required by law or regulations, shall, in addition to other penalties provided by law, be guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine of not more than one thousand dollars, or by imprisonment in a jail or house of correction for not more than one year, or both.
+    </text>
+</law>

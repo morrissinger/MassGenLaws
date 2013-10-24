@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>38A</section_number>
+    <catch_line>Council On Compulsive Gambling; Posting Of Notice Of Availability</catch_line>
+    <order_by>38A</order_by>
+    <text>
+        Every licensee shall keep conspicuously posted on his premises a notice containing the name and numbers of the council on compulsive gambling and a statement of its availability to offer assistance.
+    </text>
+</law>

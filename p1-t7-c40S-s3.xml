@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40S" order_by="40S" level="3">Smart Growth School Cost Reimbursement</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Smart Growth Address List; Duties Of Reporting Officer; Assessor’S List; Calculation Of Reimbursement Amount; Regulations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon certifying and approving a zoning district as a smart growth zoning district under chapter 40R, the department of housing and community development shall provide a list of all addresses of new smart growth development within each smart growth zoning district, in this chapter called the smart growth address list, to the municipality, the department of education, the division of local services within the department of revenue, and the registry of motor vehicles.
+        </section>
+        <section prefix="b">
+    	     The chief executive officer of every municipality with a smart growth zoning district shall appoint a smart growth reporting officer who shall be responsible for collecting all relevant data and transmitting it to the appropriate state agencies in a timely fashion. The reporting officer shall transmit the smart growth address list to the superintendent of schools of the municipal school district and to the superintendent of each district or charter school in which local residents were enrolled as of October 1. Superintendents shall provide to the reporting officer a list of each eligible student from the school. The reporting officer shall compile these data into a single list of eligible students, in this chapter called the eligible student list, including the name, address and school district of each eligible student, and transmit the eligible student list to the department of education. The reports and list shall be made in a manner and form to be prescribed by the commissioner of education.
+        </section>
+        <section prefix="c">
+    	     Upon receipt of the eligible student list, the department of education shall certify that all students listed are living in new smart growth development within a smart growth zoning district. Upon such certification, the department shall calculate the additional chapter 70 aid amount, and the total education cost for eligible students and shall transmit the calculation to the division of local services and to the municipal reporting officer.
+        </section>
+        <section prefix="d">
+    	     The reporting officer shall provide the smart growth address list to the municipality’s assessors, who shall be responsible for providing the reporting officer with a compilation of all commercial and residential development comprising new smart growth development in the smart growth zoning district and all vehicles garaged therein. Said compilation shall contain the addresses of each parcel within the zoning district, the classification code for each parcel, the assessed value of the parcel, the number of units at each address, the number of vehicles garaged at each address, and the excise tax paid on each vehicle. The reporting officer shall transmit the assessors’ list to the registry of motor vehicles and the division of local services. The reports and lists required by this paragraph shall be made in manner and form to be prescribed by the commissioner of revenue.
+        </section>
+        <section prefix="e">
+    	     Upon receipt of the assessors’ list, the registrar of motor vehicles shall verify the number of vehicles and the excise tax paid on these vehicles and provide that verification to the division of local services. The division shall use these lists to calculate local smart growth excise tax revenues, local smart growth property tax revenues, and local smart growth revenues for education.
+        </section>
+        <section prefix="f">
+    	     Upon receipt of all data and calculations required by this section, the division of local services shall calculate the smart growth school cost reimbursement pursuant to section 2. Subject to appropriation, the commissioner of revenue shall make a single payment to each municipality for the amount of its smart growth school cost reimbursement; but if the appropriation is insufficient to fully fund the cost of the reimbursement, the division shall calculate the percentage of each municipality’s reimbursement as a share of the statewide reimbursement, and pro-rate each municipality’s reimbursement proportionally.
+        </section>
+        <section prefix="g">
+    	     The commissioner of revenue, in consultation with the commissioner of education, the director of housing and community development, and the registrar of motor vehicles, shall adopt all regulations necessary to carry out this chapter.
+        </section>
+    </text>
+</law>

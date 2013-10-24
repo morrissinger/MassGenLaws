@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>85</section_number>
+    <catch_line>Challenge Of Person’S Right To Vote, Procedures</catch_line>
+    <order_by>85</order_by>
+    <text>
+        If in any state, city or town election at which official ballots are used the right of a person offering to vote is challenged for any legal cause, the presiding officer shall administer to him the following oath: 
+You do solemnly swear (or affirm) that you are the identical person whom you represent yourself to be, that you are registered in this precinct (or town) and that you have not voted at this election. 
+He shall also be required to write his name and residence on the outside of the ballot offered, and the presiding officer shall add thereto the name of the person challenging, and the cause assigned therefor, whereupon such ballot shall be received; and no person shall make any statement or give any information in regard thereto, except as required by law. The clerk shall record the name and residence of every person who has been challenged and has voted.
+    </text>
+</law>

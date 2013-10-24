@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>39S</section_number>
+    <catch_line>Contracts For Construction; Requirements</catch_line>
+    <order_by>39S</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section the word “person” shall mean any natural person, joint venture, partnership corporation or other business or legal entity. Any person submitting a bid for, or signing a contract to work on, the construction, reconstruction, alteration, remodeling or repair of any public work by the commonwealth, or political subdivision thereof, or by any county, city, town, district, or housing authority, and estimated by the awarding authority to cost more than $10,000, and any person submitting a bid for, or signing a contract to work on, the construction, reconstruction, installation, demolition, maintenance or repair of any building by a public agency, estimated to cost more than $10,000, shall certify on the bid, or contract, under penalties of perjury, as follows:
+        </section>
+        <section prefix="1">
+    	     that he is able to furnish labor that can work in harmony with all other elements of labor employed or to be employed in the work; (2) that all employees to be employed at the worksite will have successfully completed a course in construction safety and health approved by the United States Occupational Safety and Health Administration that is at least 10 hours in duration at the time the employee begins work and who shall furnish documentation of successful completion of said course with the first certified payroll report for each employee; and (3) that all employees to be employed in the work subject to this bid have successfully completed a course in construction safety and health approved by the United States Occupational Safety and Health Administration that is at least 10 hours in duration.
+        </section>
+        <section prefix="b">
+    	     Any employee found on a worksite subject to this section without documentation of successful completion of a course in construction safety and health approved by the United States Occupational Safety and Health Administration that is at least 10 hours in duration shall be subject to immediate removal.
+        </section>
+        <section prefix="c">
+    	     The attorney general, or his designee, shall have the power to enforce this section including the power to institute and prosecute proceedings in the superior court to restrain the award of contracts and the performance of contracts in all cases where, after investigation of the facts, he has made a finding that the award or performance has resulted in violation, directly or indirectly, of subsection (b), and he shall not be required to pay to the clerk of the court an entry fee in connection with the institution of the proceeding.
+        </section>
+    </text>
+</law>

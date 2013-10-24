@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Executive And Administrative Offices, Etc.; Placement Under Control Of Some State Department</catch_line>
+    <order_by>2</order_by>
+    <text>
+        All executive and administrative offices, boards, commissions and other governmental organizations and agencies, except those serving directly under the governor or the governor and council, not by law placed under the direction and control of some state department, shall be placed thereunder by order of the governor, with the advice and consent of the council, until such time as the general court shall make provision therefor.
+    </text>
+</law>

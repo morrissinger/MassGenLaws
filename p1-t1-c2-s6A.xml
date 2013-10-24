@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="2" order_by="2" level="3">Arms, Great Seal And Other Emblems Of The Commonwealth</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Commonwealth Flag; Flying At Half Staff</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        <section prefix="a">
+    	     On all occasions upon which the national flag is flown at half-staff and for the same period of time;
+        </section>
+        <section prefix="b">
+    	     On the death of a governor or ex-governor of the commonwealth for thirty days from the day of death;
+        </section>
+        <section prefix="c">
+    	     On the death of a lieutenant-governor, secretary, treasurer and receiver-general, attorney general, or auditor of the commonwealth, from the day of death until sunset of the day of interment;
+        </section>
+        <section prefix="d">
+    	     On the death of a senator in congress from the commonwealth, from the day of death until sunset of the day of interment;
+        </section>
+        <section prefix="e">
+    	     On the death of a representative in congress from the commonwealth, the flag of the commonwealth shall be flown at half-staff at the aforementioned sites in the representative’s congressional district from the day of death until sunset of the day of interment;
+        </section>
+        <section prefix="f">
+    	     In the event of the death of other elected officials or former elected officials of the commonwealth, from the day of death until sunset of the day of interment in accordance with such orders or instructions as may be issued by or at the direction of the governor; and
+        </section>
+        <section prefix="g">
+    	     In the event two or more of the aforementioned periods coincide in full or in part, the state flag shall be displayed at half-staff for such period as will comply with the above provisions without resulting in an additional and separate period of such display for each such death.
+        </section>
+    </text>
+</law>

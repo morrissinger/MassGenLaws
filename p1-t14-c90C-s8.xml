@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90C" order_by="90C" level="3">Procedure For Motor Vehicle Offenses</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Construction Of Chapter</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Nothing in this chapter shall be construed to supersede the powers and duties of the registrar as provided in chapter ninety.
+    </text>
+</law>

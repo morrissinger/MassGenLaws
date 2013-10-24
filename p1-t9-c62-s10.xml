@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Income From Trust Estates; Deductions</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The income received by trustees or other fiduciaries described in subsection (c) of this section shall be subject to the taxes imposed by this chapter to the extent that the persons to whom the same is payable, or for whose benefit it is accumulated, are inhabitants of the commonwealth; provided, however, if the income received by such trustees or other fiduciaries would be subject to taxation under section five A if received by a nonresident, such income shall be taxable regardless of whether the persons to whom the income from the trust is payable or for whose benefit it is accumulated are residents or nonresidents of the commonwealth. Income received by trustees or other fiduciaries described in subsection (c) of this section which is accumulated for unborn or unascertained persons, or persons with uncertain interests shall be taxed as if accumulated for the benefit of a known inhabitant of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     In addition to the deductions allowable under other sections of this chapter, trustees or other fiduciaries may deduct (1) from the income taxable under subsection (a) of section four a proper amount for the amortization, according to any approved method, of premiums paid upon bonds owned by them, the income of which is taxable under said subsection (a), and (2) from income taxable under subsection (a) of section four before the income of the beneficiaries shall finally be determined:—
+        </section>
+        <section prefix="A">
+    	     such proportion of the following items paid within the year as the amounts of income taxable under said subsection bear to the total income received by the fiduciary from all sources, exclusive of income taxable under subsection (b) of section four:— (i) amounts paid for rental of safe deposit boxes; and (ii) amounts paid for premiums on surety bonds of the fiduciary; and (B) the compensation actually paid during the year to the fiduciary upon such income taxable under subsection (a) of section four as is payable to or accumulated for inhabitants of the commonwealth, or for unborn or unascertained persons with uncertain interests, to an amount not exceeding seven per cent of such income subject to taxation.
+        </section>
+        <section prefix="c">
+    	     The provisions of subsections (a) and (b) of this section shall apply to guardians and conservators; trustees and executors under the will of a person who died an inhabitant of the commonwealth; and trustees under a trust created by a person or persons, any one of whom was an inhabitant of the commonwealth at the time of the creation of the trust or at any time during the year for which the income is computed, or who died an inhabitant of the commonwealth, any one of which trustees or other fiduciaries is an inhabitant of the commonwealth; provided, however, that said provisions shall not apply to trustees of pooled income funds, as defined in section six hundred and forty-two (c)(5) of the Code, or to trustees of charitable remainder annuity trusts or charitable remainder unitrusts, as defined in section six hundred and sixty-four (d) of the Code.
+        </section>
+        <section prefix="d">
+    	     Income received by estates held in trust by trustees or other fiduciaries, other than the trustees and fiduciaries described in subsection (c) of this section, which income would be subject to taxation under section five A if received by a nonresident, shall be taxed at the same rate and in the same manner as is provided in section five A, and subject to the same exemptions and deductions.
+        </section>
+        <section prefix="e">
+    	     If the grantor or another person is treated as the owner of any portion of a trust by reason of the provisions of section six hundred and seventy-one to six hundred and seventy-eight, inclusive, of the federal Internal Revenue Code, the items of income, deduction and credits against tax which are attributable to that portion of the trust shall not be taken into account in calculating the income taxable to the trust but shall be taken into account in computing the taxable income or credits against the tax of such grantor or other person under section two.
+        </section>
+        <section prefix="f">
+    	     A trustee or other fiduciary receiving income taxable to a grantor or another person as owner shall file with its return of income a schedule indicating the items of income, deductions and credits against tax attributable to such portion of the trust and the name and taxpayer identification number of the person treated as owner.
+        </section>
+        <section prefix="g">
+    	     A trustee or other fiduciary having control of the payment to a nonresident of the commonwealth, who is a grantor or other person within the meaning of section six hundred and seventy-one of the code or who is a beneficiary receiving income included in gross income under subsection (h), of any Part A income, Part B income or Part C income subject to the taxes imposed by this chapter, shall deduct and withhold from such income a tax at the rate applicable to income of that class. The tax so withheld shall not reduce the amount of income taxable to a nonresident but shall be included in his return of income and shall be credited against the amount of income tax as computed in such return.
+        </section>
+        <section prefix="h">
+    	     A trustee or other fiduciary receiving income included in the gross income of a beneficiary by reason of section 652 or 662 of the Code shall be allowed a deduction in computing the taxable income of the trust for that portion of Part A, Part B or Part C income attributable to such beneficiary, and the income shall be included in the gross income of such beneficiary. The amount of the deduction for the trust and the amount of the income inclusion for the beneficiary shall be adjusted to account for the difference between the calculation of federal taxable income under the Code and the calculation of Massachusetts taxable income under this chapter.
+        </section>
+        <section prefix="i">
+    	     A trustee or other fiduciary receiving income taxable to a beneficiary under subsection (h) shall file with his return of income a form, to be specified by the commissioner, indicating the items of income attributable to such beneficiary and the name and taxpayer identification number of the beneficiary and such other information as the commissioner deems necessary.
+        </section>
+        <section prefix="j">
+    	     Upon determination by the commissioner of noncompliance by a beneficiary with the tax laws of the commonwealth including, but not limited to, the timely filing of accurate returns and payments of amounts due, subsections (h) and (i) shall not apply.
+        </section>
+    </text>
+</law>

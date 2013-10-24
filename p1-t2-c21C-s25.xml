@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Detection And Prevention Of Licensee Insolvencies Or Impairments</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="1">
+    	     The commissioner may seek the advice and recommendations of the board of directors concerning any matter affecting his duties and responsibilities regarding the financial condition of licensees.
+        </section>
+        <section prefix="2">
+    	     The board of directors may, upon majority vote, make reports and recommendations to the commissioner upon any matter germane to the solvency, liquidation, rehabilitation or conservation of any licensee. Such reports and recommendations shall not be subject to public examination or copying under chapter sixty-six.
+        </section>
+        <section prefix="3">
+    	     It shall be the duty of the board of directors, upon majority vote, to notify the commissioner of any information indicating any licensee may be an impaired or insolvent licensee.
+        </section>
+        <section prefix="4">
+    	     The board of directors may, upon majority vote, request that the commissioner order an examination of any licensee which the board in good faith believes may be an impaired or insolvent licensee. Within thirty days of the receipt of such request, the commissioner shall begin such examination. The examination may be conducted by such persons as the commissioner designates. The licensee shall provide complete access to all its books and records to the commissioner or his designee for purposes of said examination. The cost of such examination shall be paid by the insolvency fund. In no event shall the examination report be released to the public or to the board of directors without the consent of the licensee. The commissioner shall notify the board of directors when the examination is completed. The request for an examination and any examination report shall be kept on file by the commissioner, but it and the examination report shall not be open to public inspection without the consent of the licensee.
+        </section>
+        <section prefix="5">
+    	     The board of directors may, upon majority vote, make recommendations to the commissioner for the detection and prevention of licensee insolvencies.
+        </section>
+        <section prefix="6">
+    	     The board of directors shall, promptly after payment of any covered claims by the association, prepare a report to the commissioner containing such information as it may have in its possession bearing on the history and causes of the licensee’s insolvency.
+        </section>
+    </text>
+</law>

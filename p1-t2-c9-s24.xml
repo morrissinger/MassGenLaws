@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9" order_by="9" level="3">Department Of The State Secretary</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Commission On Interstate Cooperation; Reporting</catch_line>
+    <order_by>24</order_by>
+    <text>
+        The commission shall report to the general court with its recommendations for legislation, if any, annually during the month of December, and at other times when the status of its negotiations may make such report desirable.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40R" order_by="40R" level="3">Smart Growth Zoning And Housing Production</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Payments From Trust Fund; Density Bonus Payment; Use Of Discretionary Funds</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Within 10 days of confirmation of approval by the department of a smart growth zoning district, the commonwealth shall pay from the trust fund a zoning incentive payment, according to the following schedule:
+        </section>
+        <section prefix="b">
+    	     The commonwealth shall pay from the trust fund a one-time density bonus payment to each city or town with an approved smart growth zoning district. This payment shall be $3,000 for each housing unit of new construction that is created in the smart growth zoning district. The amount due shall be paid on a unit-by-unit basis, within 10 days of submission by a city or town of proof of issuance of a building permit for a particular housing unit or units within the district.
+        </section>
+        <section prefix="c">
+    	     The executive office of environmental affairs, the executive office of transportation, the department of housing and community development and the secretary of administration and finance shall, when awarding discretionary funds, use a methodology of awarding such funds that favors cities or towns with approved smart growth zoning districts or other approved zoning policies or initiatives that encourage increased affordable housing production in the commonwealth including, but not limited to, inclusionary zoning.
+        </section>
+    </text>
+</law>

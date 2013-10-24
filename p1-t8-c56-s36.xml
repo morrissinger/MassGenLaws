@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Public Officers And Employees; Influencing Political Action</catch_line>
+    <order_by>36</order_by>
+    <text>
+        No person in the service of the commonwealth or of any county, city or town shall use his official authority or influence to coerce the political action of any person or body, or to interfere with any election. 
+Violation of any provision of this section shall be punished by a fine of not less than one hundred nor more than one thousand dollars.
+    </text>
+</law>

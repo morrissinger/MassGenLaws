@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44B" order_by="44B" level="3">Community Preservation</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Surcharge On Real Property; Collection</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon acceptance of sections 3 to 7, inclusive, and upon the assessors’ warrant to the tax collector, the accepted surcharge shall be imposed.
+        </section>
+        <section prefix="b">
+    	     After receipt of the warrant, the tax collector shall collect the surcharge in the amount and according to the computation specified in the warrant and shall pay the amounts so collected, quarterly or semi-annually, according to the schedule for collection of property taxes for the tax on real property, to the city’s or town’s treasurer. The tax collector shall cause appropriate books and accounts to be kept with respect to such surcharge, which shall be subject to public examination upon reasonable request from time to time.
+        </section>
+        <section prefix="c">
+    	     The remedies provided by chapter 60 for the collection of taxes upon real estate shall apply to the surcharge on real property pursuant to this chapter.
+        </section>
+    </text>
+</law>

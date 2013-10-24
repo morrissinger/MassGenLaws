@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>52A</section_number>
+    <catch_line>Definitions; Rate And Payment Of Tax; Limitation; Disposition Of Revenue</catch_line>
+    <order_by>52A</order_by>
+    <text>
+        <section prefix="1">
+    	     When used in this section, the following terms shall have the following meanings:
+        </section>
+        <section prefix="a">
+    	     “Utility corporation” means every business corporation that is (i) an electric company and gas company subject to chapter 164; (ii) a water company and aqueduct company subject to chapter 165; (iii) a telephone and telegraph company subject to chapter 166; (iv) a railroad and railway company subject to chapter 160; and every business corporation qualified under section 131A of said chapter 160 to acquire, own and operate terminal facilities for steam, electric or other types of railroad; (v) a street railway subject to chapter 161; (vi) an electric railroad subject to chapter 162; (vii) a trackless trolley company subject to chapter 163; (viii) a pipe line company engaged in the transportation or sale of natural gas within the Commonwealth; and (ix) every foreign corporation which is not subject to the above chapters but which does an electric, gas, water, aqueduct, telephone, telegraph, railroad, railway, street railway, electric railroad, trackless trolley or bus business within the Commonwealth and has, before January 1, 1952, been subject to taxation under sections 53 to 60, inclusive.
+        </section>
+        <section prefix="b">
+    	     “Net income” means the gross income from all sources, without exclusion and without regard to section 108(i) of the Code, other than dividends from investment in such other utility corporations which represent eighty per cent or more of the voting stock thereof, for the taxable year, less the deductions, but not credits, allowable under the provisions of the Federal Internal Revenue Code, as amended and in effect for the taxable year. Deductions with respect to the following items, however, shall not be allowed:—
+        </section>
+        <section prefix="i">
+    	     dividends received,
+        </section>
+        <section prefix="ii">
+    	     losses sustained in other taxable years,
+        </section>
+        <section prefix="iii">
+    	     taxes on or measured by income, franchise taxes measured by gross or net income, franchise taxes for the privilege of doing business and capital stock taxes imposed by a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States or a foreign country or a political subdivision of any of the foregoing,
+        </section>
+        <section prefix="iv">
+    	     the deduction allowed by section 168(k) of the Code,
+        </section>
+        <section prefix="v">
+    	     the deduction allowed by section 199 of the Code, and
+        </section>
+        <section prefix="vi">
+    	     the deduction described in section 163(e)(5) of the Code, to the extent increased by amendments to section 163(e)(5)(F) and section 163(i)(1) of the Code, inserted by section 1232 of the American Recovery and Reinvestment Act of 2009, Pub. L. No. 111-5.
+        </section>
+        <section prefix="c">
+    	     “Taxable year”, any fiscal or calendar year or period for which the utility corporation is required to make a return to the federal government.
+        </section>
+        <section prefix="d">
+    	     “Doing business” shall include, without limiting its generality, in the case of an incorporated railroad or railway company subject to chapter one hundred and sixty, the leasing of all or substantially all of its physical properties.
+        </section>
+        <section prefix="e">
+    	     “Code”, the Internal Revenue Code of the United States, as amended and in effect for the taxable year.
+        </section>
+        <section prefix="2">
+    	     Every utility corporation doing business solely within the commonwealth shall pay annually a tax upon its corporate franchise equal to six and one half per cent of its net income during the taxable year. Every utility corporation doing business both within and without the commonwealth shall pay annually a tax upon its corporate franchise equal to six and one half per cent of that portion of its net income during the taxable year as is allocable to the commonwealth.
+        </section>
+        <section prefix="3">
+    	     The portion of net income derived from business carried on within the commonwealth by a corporation subject to tax under this section shall be determined under the provisions of sections thirty-eight and forty-two; provided, however, that under subsection (c) of section thirty-eight its taxable net income shall be multiplied by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator is three.
+        </section>
+        <section prefix="4">
+    	     Any taxes assessed upon any utility corporation pursuant to this section shall be in lieu of any and all other taxes under this chapter.
+        </section>
+        <section prefix="5">
+    	     All tax revenue collected under the provisions of this section shall be credited to the General Fund.
+        </section>
+    </text>
+</law>

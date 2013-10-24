@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>34G</section_number>
+    <catch_line>Actions Against Surety Company</catch_line>
+    <order_by>34G</order_by>
+    <text>
+        If a judgment rendered against the principal on a motor vehicle liability bond or against any person responsible for the operation of the principal’s motor vehicle with his express or implied consent is not satisfied within thirty days after its rendition, the judgment creditor may for his use and benefit and at his sole expense bring an action in the name of the commonwealth against the surety company executing the bond.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>85E</section_number>
+    <catch_line>Alternative Retirement Provisions For Policemen And Firemen In Towns</catch_line>
+    <order_by>85E</order_by>
+    <text>
+        <section prefix="a">
+    	     Any permanent member of the police department and any permanent member of the fire department of such town who becomes permanently disabled, mentally or physically, by injuries sustained through no fault of his own in the actual performance of duty, from further performing duty as such member.
+        </section>
+        <section prefix="b">
+    	     Any permanent member of either of said departments who has performed faithful service therein for not less than twenty years continuously and becomes permanently incapacitated for further duty as such member before attaining the age of sixty.
+        </section>
+        <section prefix="c">
+    	     Any permanent member of either of said departments, at his request, at any time after attaining the age of sixty and before attaining the age of sixty-five, if he has performed faithful service therein for not less than twenty years continuously.
+        </section>
+        <section prefix="d">
+    	     Any permanent member of either of said departments on attaining the age of sixty-five without any request on his part. No permanent member of either of said departments shall remain in service after he has attained or shall attain the age of sixty-five.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Admission Of Students From Outside Commonwealth</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        Any city, town, or regional school district, acting through its school committee, may, if the school committee finds it has adequate space, accept in any of its schools, including vocational schools, any pupil who resides outside the commonwealth and may contract with the parent or guardian of the pupil, or, if the school committee of the city or town where the child resides, is authorized by law to so contract, with such school committee, for the admission of the pupil into its school system and for a tuition charge which shall in no case be less than the average expense per pupil in such school for the period of attendance. The school committee may vote to waive all or part of such tuition charge.
+    </text>
+</law>

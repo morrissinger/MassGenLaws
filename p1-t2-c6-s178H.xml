@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>178H</section_number>
+    <catch_line>Failure To Register, Verify Information Or Provide Notice Of Change Of Address; Providing False Information; Penalties</catch_line>
+    <order_by>178H</order_by>
+    <text>
+        <section prefix="a">
+    	     A sex offender required to register pursuant to this chapter who knowingly: (i) fails to register; (ii) fails to verify registration information; (iii) fails to provide notice of a change of address; or (iv) who knowingly provides false information shall be punished in accordance with this section.
+        </section>
+        <section prefix="1">
+    	     A first conviction under this subsection shall be punished by imprisonment for not less than six months and not more than two and one-half years in a house of correction nor more than five years in a state prison or by a fine of not more than $1,000 or by both such fine and imprisonment.
+        </section>
+        <section prefix="2">
+    	     A second and subsequent conviction under this subsection shall be punished by imprisonment in the state prison for not less than five years.
+        </section>
+        <section prefix="3">
+    	     Any person convicted under this subsection who is a level 2 or level 3 sex offender shall, in addition to the term of imprisonment authorized by this subsection, be subject to community parole supervision for life, to be served under the jurisdiction of the parole board, as set forth in section 133D of chapter 127. The sentence of community parole supervision for life shall commence immediately upon the expiration of the term of imprisonment imposed upon such person by the court or upon such person’s release from any post-release supervision or upon the expiration of a continuance without a finding or upon discharge from commitment to the treatment center under section 9 of chapter 123, whichever first occurs.
+        </section>
+        <section prefix="b">
+    	     Violations of this section may be prosecuted and punished in any county where the offender knowingly: (i) fails to register; (ii) fails to verify registration information; (iii) fails to provide notice of a change of address; or (iv) knowingly provides false information.
+        </section>
+    </text>
+</law>

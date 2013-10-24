@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Coordinates; Location Of Points On Earth’S Surface</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The plane rectangular coordinates of a point on the earth’s surface, to be used in expressing the position or location of such point in the appropriate zone of said system, shall consist of two distances, expressed in feet and decimals of a foot. One of these distances, to be known as the “X coordinate”, shall give the position in an east-west direction; the other to be known as the “Y coordinate”, shall give the position in a north-south direction. Such coordinates shall be referred to the appropriate origin as defined in section sixteen, and shall be made to depend upon and conform to the plane rectangular coordinates of the triangulation and traverse stations of the former United States Coast and Geodetic Survey within the commonwealth, as these coordinates had been determined by said survey.
+    </text>
+</law>

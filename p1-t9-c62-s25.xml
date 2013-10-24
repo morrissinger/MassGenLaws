@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Individuals, Fiduciaries And Estates Subject To Tax</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="a">
+    	     Every individual who while an inhabitant of the commonwealth, and every executor, administrator, trustee or other fiduciary who while such an inhabitant or while acting under an appointment derived from a court in the commonwealth has received any income taxable under this chapter, and the estate of every deceased inhabitant of the commonwealth, shall be subject to the taxes imposed by this chapter.
+        </section>
+        <section prefix="b">
+    	     Any individual (i) who dies while in active service as a member of the Armed Forces of the United States and serving in a combat zone or while a military or civilian employee of the United States as a result of terroristic or military action; and (ii) who otherwise qualifies under the provisions of section 692 of the Internal Revenue Code, shall not be subject to taxation under this chapter to the same extent as that individual is exempt from federal income taxation under said section.
+        </section>
+        <section prefix="2">
+    	     If, but for this paragraph, the amount of tax not imposed by paragraph (1) with respect to a specified terrorist victim is less than $3,000, then such victim shall be treated as having made a payment against the tax imposed by this chapter for such victim’s last taxable year in an amount equal to the excess of $3,000 over the amount of tax not so imposed.
+        </section>
+        <section prefix="3">
+    	     Subject to such rules as the commissioner may prescribe, paragraph (1) shall not apply to the amount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts attributable to (i) deferred compensation which would have been payable after death if the individual had died other than as a specified terrorist victim, or (ii) amounts payable in the taxable year which would not have been payable in such taxable year but for an action taken after September 11, 2001.
+        </section>
+        <section prefix="4">
+    	     For purposes of this subsection, the term “specified terrorist victim” means any decedent (i) who dies as a result of wounds or injury incurred as a result of the terrorist attacks against the United States on April 19, 1995, or September 11, 2001, or (ii) who dies as a result of illness incurred as a result of an attack involving anthrax occurring on or after September 11, 2001 and before January 1, 2002. Such term shall not include any individual identified by the attorney general of the United States to have been a participant or conspirator in any such attack or representative of such an individual.
+        </section>
+    </text>
+</law>

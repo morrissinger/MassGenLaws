@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7A" order_by="7A" level="3">Office Of The Comptroller</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Contracts For Consultant Services;  Statements Of Persons Having Financial Interests</catch_line>
+    <order_by>6</order_by>
+    <text>
+        [ Text of section effective until January 1, 2013. Repealed by 2012, 165, Sec. 76. See 2012, 165, Sec. 137.]  No contract to provide consultant services shall be awarded by the commonwealth, or by any department, board, commission or other agency acting in its behalf, unless the persons signing such contract on behalf of the party contracting to provide such services files with the comptroller a statement under the penalties of perjury setting forth the names and addresses of all persons having a financial interest therein, not including, however, any person whose only financial interest consists of the holding of one per cent or less of the capital stock of a corporation contracting to provide such services.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49N</section_number>
+    <catch_line>Illegal Operation Of Aircraft; Failure To Return Suspended Registration Certificate</catch_line>
+    <order_by>49N</order_by>
+    <text>
+        <section prefix="a">
+    	     Any owner or operator whose registration or non-resident’s operating privilege has been suspended or revoked and who, during such suspension or revocation, operates any aircraft in the commonwealth or knowingly permits any aircraft owned by him to be operated by another in the commonwealth, except as permitted under sections forty-nine B to forty-nine R, inclusive, shall be punished by a fine of not less than ten dollars nor more than five hundred dollars.
+        </section>
+        <section prefix="b">
+    	     Any owner or operator wilfully failing to return his registrations as required in section forty-nine M shall be punished by a fine of not less than ten dollars nor more than five hundred dollars.
+        </section>
+    </text>
+</law>

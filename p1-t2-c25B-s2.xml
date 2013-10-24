@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25B" order_by="25B" level="3">Massachusetts Appliance Efficiency Standards Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     is designed to be the principle heating source for the living space of a residence;
+        </section>
+        <section prefix="2">
+    	     is not contained within the same cabinet with a central air conditioner with a rated cooling capacity exceeding 65,000 Btu per hour;
+        </section>
+        <section prefix="3">
+    	     is an electric central furnace, electric boiler, forced-air central furnace, gravity central furnace or low-pressure steam or hot water boiler; and
+        </section>
+        <section prefix="4">
+    	     has a heat input rate of less than 300,000 Btu per hour for electric boilers and low-pressure steam or hot water boilers, and less than 225,000 Btu per hour for forced-air central furnaces, gravity central furnace and electric central furnaces.
+        </section>
+        <section prefix="1">
+    	     is designed to convert line voltage AC input into lower voltage DC output;
+        </section>
+        <section prefix="2">
+    	     is able to convert to only one DC output voltage at a time;
+        </section>
+        <section prefix="3">
+    	     is sold with, or intended to be used with, a separate end-use product that constitutes the primary power load;
+        </section>
+        <section prefix="4">
+    	     is contained within a separate physical enclosure from the end-use product;
+        </section>
+        <section prefix="5">
+    	     is connected to the end-use product via a removable or hard-wired male/female electrical connection, cable, cord or other wiring;
+        </section>
+        <section prefix="6">
+    	     does not have batteries or battery packs, including those that are removable, that physically attach directly to the power supply unit;
+        </section>
+        <section prefix="7">
+    	     does not have a battery chemistry or type selector switch and indicator light, or does not have a battery chemistry or type selector switch and a state of charge meter; and
+        </section>
+        <section prefix="8">
+    	     has a nameplate output power less than or equal to 250 watts.
+        </section>
+    </text>
+</law>

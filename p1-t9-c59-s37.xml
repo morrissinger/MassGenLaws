@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Conclusiveness Of Estimate</catch_line>
+    <order_by>37</order_by>
+    <text>
+        Such estimate shall be entered in the valuation book, and, except as provided in section sixty-one, shall be conclusive upon any person not seasonably bringing in such list, unless he shows a reasonable excuse for the omission.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Incorporation Of Chapter Provisions; Waiver</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The provisions of this subchapter shall be deemed to be incorporated in every dealer agreement made under the provisions of this chapter and shall supersede and control all other provisions of the agreement to the contrary. No supplier may require any dealer to waive compliance with any provision of this chapter, and any dealer agreement purporting to do so shall be void and unenforceable to the extent of such waiver or variance.
+        </section>
+        <section prefix="b">
+    	     Nothing in this chapter shall be construed to limit or prohibit good faith settlements of disputes voluntarily entered into between the parties.
+        </section>
+    </text>
+</law>

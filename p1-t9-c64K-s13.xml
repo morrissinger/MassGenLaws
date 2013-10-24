@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64K" order_by="64K" level="3">Controlled Substances Tax</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Confidentiality Of Information In Reports Or Returns Required By Chapter</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Notwithstanding the provisions of any general or special law to the contrary, neither the commissioner nor a public employee shall be authorized to reveal facts contained in a report or return required by this chapter or any information obtained from a dealer; nor can any such information contained in such a report or return or otherwise obtained from a dealer be used against such dealer in criminal proceeding, unless such information was independently obtained, except in connection with a proceeding involving taxes due under this chapter from the dealer making such return. 
+Any person violating the provisions of this section shall be guilty of a misdemeanor. 
+Nothing in this section shall be construed to prohibit the commissioner from publishing statistics that do not disclose the identity of dealers or the contents of particular returns or reports.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>68D</section_number>
+    <catch_line>Contract Between Buyer And Credit Services Organization; Requirements</catch_line>
+    <order_by>68D</order_by>
+    <text>
+        <section prefix="a">
+    	     a conspicuous statement in a minimum size of ten point bold face type, in immediate proximity to the space reserved for the buyer’s signature, which reads: You, the buyer, have the right to cancel this contract or agreement at any time prior to midnight of the third business day following the date thereon.
+        </section>
+        <section prefix="b">
+    	     a form, in duplicate and captioned “NOTICE OF CANCELLATION”, attached to the contract or agreement and containing, in a minimum size of ten point bold face type, the following:
+        </section>
+        <section prefix="c">
+    	     the terms and conditions of payment, including the total of all payments to be made by the buyer, whether to the credit services organization or to some other person;
+        </section>
+        <section prefix="d">
+    	     a full and detailed description of the services to be performed by the credit services organization for the buyer, including all guarantees and all promises of full or partial refunds, and the estimated date by which the services to be performed will be completed or the estimated length of time for the completion of such performance; and
+        </section>
+        <section prefix="e">
+    	     the principal business address of the credit services organization and the name and address of its agent in the commonwealth authorized to accept service of process.
+        </section>
+    </text>
+</law>

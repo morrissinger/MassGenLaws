@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>138</section_number>
+    <catch_line>Presidential Electors</catch_line>
+    <order_by>138</order_by>
+    <text>
+        If, upon examination of the copies of the records of votes for presidential electors, it appears that a majority of the whole number of electors has not been chosen, the governor shall forthwith, by proclamation, call together the general court; and the senators and representatives assembled in joint convention shall by ballot choose electors to complete the full number. 
+If the whole number of electors has not been chosen when the electors meet on the date fixed under federal law, or if an elector has died or is then absent, the electors present shall forthwith choose electors from the citizens of the commonwealth to complete the full number.
+    </text>
+</law>

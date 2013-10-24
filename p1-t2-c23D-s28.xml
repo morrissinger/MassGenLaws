@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23D" order_by="23D" level="3">Employee Ownership Revolving Loan Fund</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Multi Purpose Service Centers</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     job counseling services specifically designated for a person seeking employment after a number of years as a homemaker and shall operate to counsel displaced homemakers with respect to appropriate job opportunities including crises intervention, peer support, life skills training such as confidence building, problem solving and decision making;
+        </section>
+        <section prefix="2">
+    	     job training referrals, career counseling, job placement services developed by working with government agencies and private employers; training and placement programs for jobs in the public and private sectors; assistance to displaced homemakers in gaining admission to existing public and private job training programs and opportunities;
+        </section>
+        <section prefix="3">
+    	     prevocational training and educational services including outreach and information about such other programs which are determined to be of interest and benefit to such displaced homemakers by the advisory council;
+        </section>
+        <section prefix="4">
+    	     outreach and information services with respect to government employment, education, health, legal and unemployment assistance programs which the advisory council determines would be of interest and benefit to such displaced homemakers;
+        </section>
+        <section prefix="5">
+    	     a clearinghouse providing resource libraries including films and books; area program planning; in-service training for center staff and directories of existing counseling, educational and job training programs.
+        </section>
+    </text>
+</law>

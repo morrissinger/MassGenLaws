@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Invoice Cost Of Goods Purchased At Forced Sales</catch_line>
+    <order_by>19</order_by>
+    <text>
+        In establishing the cost of cigarettes to the retailer or wholesaler, the invoice cost of said cigarettes purchased at a forced, bankrupt, closeout sale or other sale outside of the ordinary channels of trade may not be used as a basis for justifying a price lower than one based upon the replacement cost of the cigarettes to the retailer or wholesaler within thirty days prior to the date of sale, in the quantity last purchased through the ordinary channels of trade.
+    </text>
+</law>

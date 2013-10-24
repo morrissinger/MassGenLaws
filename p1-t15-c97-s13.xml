@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Limitation On Use Of Name Of System</catch_line>
+    <order_by>13</order_by>
+    <text>
+        The use of the term “Massachusetts Coordinate System” on any map, report of survey, or deed or other document, shall be limited to coordinates based on the Massachusetts State Plane Coordinate System as defined in sections eight to thirteen, inclusive.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>80</section_number>
+    <catch_line>Lunch Period For Teachers</catch_line>
+    <order_by>80</order_by>
+    <text>
+        Every teacher employed in any public school whose duties commence prior to twelve o’clock noon, shall be allowed a thirty-minute lunch period between the hours of ten o’clock in the forenoon and one o’clock in the afternoon, and shall not be required to perform any duties during said lunch period; provided, however, that the provisions of this section shall apply only in a city or town which accepts this section by vote of its school committee.
+    </text>
+</law>

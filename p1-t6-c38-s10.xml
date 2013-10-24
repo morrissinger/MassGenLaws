@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="38" order_by="38" level="3">Medical Examiners And Inquests</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Report Of Findings By Court</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The court shall report in writing when, where, and by what means the person met his death, the person’s name, if known, and all material circumstances attending the death, and the name, if known, of any person whose unlawful act or negligence appears to have contributed thereto. The court shall file its report and a transcript of the inquest proceedings in the superior court for the county in which the inquest is held. Said transcript shall be impounded until the district attorney files a certificate with the superior court indicating that he will not present the case to a grand jury, or files notice with the superior court that the grand jury has returned a true bill or a no bill after presentment by the district attorney.
+    </text>
+</law>

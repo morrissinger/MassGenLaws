@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>33C</section_number>
+    <catch_line>Instructions To Voter After Entering Voting Machine Booth; Re Entry After Voting</catch_line>
+    <order_by>33C</order_by>
+    <text>
+        If any voter, after he has enclosed himself in the voting machine booth, or in a compartment which contains a marking unit, wherever electronic voting systems are used, shall ask for further instructions concerning the manner of operating the machine or marking unit, two election officers of different political parties shall given him such instructions. No officer or person instructing him shall in any manner request or seek to persuade or induce any such voter to vote for any candidate or candidates, or for or against any question submitted to the voters. After giving such instructions, and before such voter shall have registered his vote, the officers or persons instructing him shall retire, and such voter shall then register his vote as he may desire. No voter after registering his vote and emerging from the machine booth or the marking compartment shall be permitted to reenter it.
+    </text>
+</law>

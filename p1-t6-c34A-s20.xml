@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Relations Between Legislative And Executive Branches</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="i">
+    	     No member of any board of commissioners in a county operating under a charter adopted pursuant to this chapter shall individually or collectively seek to influence the head of the executive branch to dismiss any person from, or to appoint, or to promote any person to any position in the executive branch of county government, except that the board may, by a resolution of disapproval adopted by a two-thirds vote of the whole number of the board, prevent the dismissal of certain employees under conditions as set forth in clause (ii) of this subsection.
+        </section>
+        <section prefix="ii">
+    	     Suspensions will take effect immediately upon personal service of notice setting forth the order of suspension or dismissal. Dismissal or suspension for a definite term shall occur automatically in thirty calendar days from receipt of notice. But, if the officer or employee requests a public hearing on his dismissal or suspension for a definite term, no action beyond temporary suspension may be taken until the individual to be suspended or dismissed is given a public hearing not less than fifteen nor more than thirty days after personal service of written notice of contemplated action. A copy of such notice shall be filed with the clerk to the board of commissioners immediately upon service of notice to the individual to be suspended or dismissed. In the event that within thirty-five days of receiving such notice, the board shall pass by a two-thirds vote of the whole number of the board, a resolution of disapproval, all proceedings and any suspension or dismissal of the individual shall be voided. In terms of recompense to the individual, a vote of disapproval shall be deemed to negative the suspension or dismissal order and for purposes of pay and civil service standing the action shall be deemed never to have transpired. If, however, the suspension or dismissal order shall allege that the individual against whom action is contemplated or pending has committed a criminal act in the conduct of his public trust, no resolution of the board shall stay proceedings and the matter shall be brought to a public hearing in the manner prescribed above. If at that hearing probable cause for prosecution is found, all evidence shall immediately be forwarded to the county prosecutor for further action. If any suspension or dismissal order is resolved upon hearing in favor of the office or employee, he shall be restored to his original position without record of the action, or prejudice therefrom, and shall receive full compensation retroactive to the date of his suspension.
+        </section>
+    </text>
+</law>

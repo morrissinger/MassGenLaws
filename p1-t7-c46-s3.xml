@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="46" order_by="46" level="3">Return And Registry Of Births, Marriages And Deaths</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Physician’S Record Of Birth; Out Of Hospital Birth</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Every physician or hospital medical officer shall keep a record of birth of every child of which he is in charge showing the information required by section one, to be recorded in the records of birth. 
+If a birth occurs in a hospital, or if a birth occurs elsewhere and the mother and child are taken to a hospital for postnatal care immediately after birth, said physician or hospital medical officer shall, within twenty-four hours after such birth, file with the administrator a report, on forms furnished by the commissioner, stating the facts required by section one to be shown on the record of such birth.
+    </text>
+</law>

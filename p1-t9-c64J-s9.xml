@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64J" order_by="64J" level="3">Taxation Of Fuels Used In The Propulsion Of Aircraft</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Liability For Taxes</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any person not licensed under this chapter who delivers to any person other than a licensee under this chapter aircraft fuel upon which the tax due hereunder has not been paid, knowing, or who reasonably should know, that such aircraft fuel is to be used or sold for the purpose of propelling aircraft, shall be liable for the tax imposed by this chapter. 
+Any user who shall acquire aircraft fuel in the commonwealth for the purpose of propelling aircraft owned or leased by him upon which aircraft fuel the tax due hereunder has not been paid shall be liable for the tax imposed by this chapter, and the commissioner may collect said tax either from the seller thereof or from said user of aircraft fuel.
+    </text>
+</law>

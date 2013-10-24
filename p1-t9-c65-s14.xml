@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Advance Payment Of Tax</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Any person entitled to a future interest in any property may pay the tax on account of the same at any time before such tax would be due under this chapter, and in such cases the tax shall be assessed upon the value of the interest at the time of payment, and such value shall be determined by the commissioner as provided in this chapter. Whenever it is impossible to compute the present value of any interest, the commissioner may effect such settlement of the tax as he shall deem to be for the best interests of the commonwealth, and payment of the sum so agreed upon shall be a full satisfaction of such tax.
+    </text>
+</law>

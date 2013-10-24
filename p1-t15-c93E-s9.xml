@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>9</order_by>
+    <text>
+        This chapter shall apply only to agreements entered into, renewed or amended on or after November first, nineteen hundred and seventy-two.
+    </text>
+</law>

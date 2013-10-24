@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Right To Receive Legislative Documents</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Each law library association shall be entitled to receive from the sergeant-at-arms, immediately after their publication, one copy of the volume of the legislative documents of the senate and house, the journal of the senate and the journal of the house.
+    </text>
+</law>

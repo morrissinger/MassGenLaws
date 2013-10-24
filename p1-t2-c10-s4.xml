@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>First Deputy Treasurer; Duties; Absence, Disability Or Removal Of Treasurer</catch_line>
+    <order_by>4</order_by>
+    <text>
+        If any person represents on oath that the treasurer is incapacitated by reason of mental illness or manifestly insolvent, or has absconded or concealed himself, or is absent from the commonwealth or from the duties of his office to the hazard of the public treasury, the governor, with the advice and consent of the council, if upon examination such representation appears to be true, may designate the first deputy treasurer, upon his giving bond to the commonwealth for the faithful performance of his duties in a sum and with sureties approved by them, to perform the duties of the office until the governor, with the advice and consent of the council, otherwise orders.
+    </text>
+</law>

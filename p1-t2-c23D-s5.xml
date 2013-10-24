@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23D" order_by="23D" level="3">Employee Ownership Revolving Loan Fund</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Private Consultants; Contracts</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     the employee-owned business or employee-ownership project is unable to pay for such services;
+        </section>
+        <section prefix="b">
+    	     such services cannot be obtained of sufficient quality and with sufficient speed from an existing state agency, department, office or quasi-public corporation to properly perform said duties; and
+        </section>
+        <section prefix="c">
+    	     the employee-owned business or employee-ownership project agrees to repay the program for the cost of the technical assistance provided the feasibility assessment is positive, based on terms and conditions established by the director.
+        </section>
+    </text>
+</law>

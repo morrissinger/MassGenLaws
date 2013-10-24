@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64K" order_by="64K" level="3">Controlled Substances Tax</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Measurement Of Controlled Substances For Calculation Of Taxes</catch_line>
+    <order_by>7</order_by>
+    <text>
+        For the purposes of calculating the tax due under section eight, a quantity of marihuana or controlled substances shall be measured by the weight of the substance whether pure or impure or dilute, or by dosage units when the substance is not sold by weight, in the dealer’s possession. A quantity of a controlled substance is dilute if it consists of a detectable quantity of pure controlled substance and any excipients or fillers.
+    </text>
+</law>

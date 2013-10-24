@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Eminent Domain Powers Of Department</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     The department may take by eminent domain in accordance with the provisions of chapter 79 or any alternative method now or hereafter provided by general law, any public land and any fee simple absolute or lesser interest in private property or part thereof or rights therein as it may deem necessary for carrying out the provisions of this chapter.
+        </section>
+        <section prefix="b">
+    	     Whenever a parcel of private property so taken is used in whole or in part for residential purposes, the owner of such parcel may, within 30 days of the date of the department’s notice to vacate such parcel, appeal to the department for a postponement of the date set for such vacating, whereupon the department shall grant to the owner a postponement of 3 months from the date of such appeal; provided, however, that the appeal for such postponement shall be in the form of a written request to the department sent by registered mail, return receipt requested; and provided, further, that section 40 of said chapter 79 shall govern the rights of the department and of any person whose property shall be so taken.
+        </section>
+        <section prefix="c">
+    	     The department shall have power, in the process of constructing, reconstructing, repairing, rehabilitating, improving, policing, using or administering all or any part of the state highway system to take by eminent domain pursuant to chapter 79, such land abutting the state highway system as it may deem necessary or desirable for the purposes of removing or relocating all or any part of the facilities of any public utility, including rail lines, and may thereafter lease the same or convey an easement or any other interest therein to such utility company upon such terms as it, in its sole discretion, may determine. Notwithstanding any general or special law to the contrary, the relocation of the facilities of any public utility, including rail lines, in accordance with this section shall be valid upon the filing of the plans thereof with the department of telecommunications and energy, if applicable.
+        </section>
+    </text>
+</law>

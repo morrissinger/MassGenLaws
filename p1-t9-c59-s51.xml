@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Exempted Property; Entries On Valuation Lists</catch_line>
+    <order_by>51</order_by>
+    <text>
+        The assessors shall enter upon the valuation list, in the appropriate columns after the enumeration of the persons and estates liable to taxation therein contained, a statement and description of all the property and estate, with the fair cash value thereof, which is exempted from taxation in their respective towns pursuant to the provisions of the first fifteen clauses of section five, or for the reason that it is owned by a county, city, town or district and put to a public use, with the names of the persons or corporations owning the same and the purpose for which it is used, and with a reference to the law, if any, by which such exemption is allowed.
+    </text>
+</law>

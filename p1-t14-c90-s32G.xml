@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>32G</section_number>
+    <catch_line>Instruction For Hire In Operation Of Motor Vehicles; Driver School;  Licensing; Application; Fees; Qualifications Of Applicant; Suspension Or Revocation Of License Or Instructor’S Certificate; Procedures</catch_line>
+    <order_by>32G</order_by>
+    <text>
+        <section prefix="a">
+    	     Such applicant has made a material false statement or concealed a material fact in connection with his application.
+        </section>
+        <section prefix="b">
+    	     Such applicant, any officer, director, stockholder or partner, or any other person directly or indirectly interested in the business was the former holder, or was an officer, director, stockholder or partner, in a corporation or partnership which was the former holder of a driver school license which was revoked or suspended by the registrar.
+        </section>
+        <section prefix="c">
+    	     Such applicant or any officer, director, stockholder, partner, employee, or any other person directly or indirectly interested in the business, has been convicted of a felony, or of any crime involving violence, dishonesty, deceit, indecency, degeneracy or moral turpitude.
+        </section>
+        <section prefix="d">
+    	     Such applicant has failed to furnish satisfactory evidence of good character, reputation and fitness.
+        </section>
+        <section prefix="e">
+    	     Such applicant is not the true owner of the driver school.
+        </section>
+        <section prefix="a">
+    	     has made a material false statement or concealed a material fact in connection with his application;
+        </section>
+        <section prefix="b">
+    	     is the former holder of driver school instructor certificate which was revoked or suspended by the registrar;
+        </section>
+        <section prefix="c">
+    	     has been convicted of a felony or of a crime involving violence, dishonesty, deceit, indecency or moral turpitude; or
+        </section>
+        <section prefix="d">
+    	     has failed to furnish satisfactory evidence of good character, reputation and fitness.
+        </section>
+    </text>
+</law>

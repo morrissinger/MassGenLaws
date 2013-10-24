@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Names Or Phrases Identifying Political Committees In Organizational Statements</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        <section prefix="a">
+    	     Every political committee, other than a political party committee or a candidate’s committee, shall name and identify itself in its organizational statement pursuant to section five by using a name or phrase that:
+        </section>
+        <section prefix="i">
+    	     clearly identifies the economic or other special interest, if identifiable, of a majority of its contributors; and
+        </section>
+        <section prefix="ii">
+    	     if a majority of its contributors share a common employer, that identifies the employer.
+        </section>
+        <section prefix="b">
+    	     If the economic or other special interest or common employer are not identifiable under subsection (a), every such political committee shall name and identify itself in its organizational statement using a name or phrase:
+        </section>
+        <section prefix="i">
+    	     that clearly identifies the economic or other special interest, if identifiable, of a majority of its organizers; and
+        </section>
+        <section prefix="ii">
+    	     if a majority of its organizers share a common employer, that identifies the employer; and
+        </section>
+        <section prefix="iii">
+    	     if the committee is organized, financed, controlled or maintained by an individual, that identifies said individual.
+        </section>
+        <section prefix="c">
+    	     No political committee shall use any name other than the name included in its organizational statement.
+        </section>
+    </text>
+</law>

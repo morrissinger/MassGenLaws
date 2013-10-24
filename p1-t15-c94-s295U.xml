@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>295U</section_number>
+    <catch_line>Conflicts With Other Laws</catch_line>
+    <order_by>295U</order_by>
+    <text>
+        Whenever the application of the provisions of any other law of this commonwealth conflicts with the application of the provisions of sections two hundred and ninety-five P to two hundred and ninety-five W, said sections shall prevail.
+    </text>
+</law>

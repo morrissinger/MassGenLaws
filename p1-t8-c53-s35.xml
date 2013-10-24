@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Cross Constituting As Vote</catch_line>
+    <order_by>35</order_by>
+    <text>
+        A cross (X) marked against a name shall constitute a vote for the person so designated except that no cross shall be required where the voter has inserted the name of the candidate for whom he intends to vote. A cross in the circle at the head of a group of candidates for a ward or town committee shall count as a vote for each candidate therein. A voter may vote for one or more candidates in any such group by marking a cross against the name of each such candidate, except that no cross shall be required where the voter has inserted the name or names of candidates for whom he intends to vote. If he votes for more candidates than the number to be elected, his vote shall not be counted.
+    </text>
+</law>

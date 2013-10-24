@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71B" order_by="71B" level="3">Children With Special Needs</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Students With Disabilities; Participation In High School Graduation Ceremonies And Activities Without Award Of High School Diploma</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     The student has maintained at least a 95 per cent attendance level, meaning no more than 9 days of absence from school in a 180 day school year, during the school year before the twelfth grade, but, a student’s absence from school due to disability, illness, religious observance or other reason that constitutes an excused absence under the school’s or school committee’s rules shall not be counted for purposes of this section;
+        </section>
+        <section prefix="b">
+    	     The student has taken the grade 10 MCAS examination in each subject area in which the student did not achieve a passing score at least 3 times, or has participated in the MCAS alternate assessment by submitting at least 2 portfolios; and
+        </section>
+        <section prefix="c">
+    	     The student is in good standing, having met all of the school’s or school committee’s nonacademic standards for students to be eligible to participate in graduation ceremonies and related school activities.
+        </section>
+    </text>
+</law>

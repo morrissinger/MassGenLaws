@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40L" order_by="40L" level="3">Agricultural Incentive Areas</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Sale Of Land Or Conversion To Other Use</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     purchase of all or part of the property in fee; provided, however, that there is a purchaser for the remaining property.
+        </section>
+        <section prefix="b">
+    	     purchase of an agricultural preservation restriction on all or part of the property pursuant to the provisions of section eleven A to eleven D, inclusive, of chapter one hundred and thirty-two A; provided however, that there is a purchaser for the remaining property and the residual agricultural interest in the property under the above restriction.
+        </section>
+        <section prefix="c">
+    	     purchase of all or part of the property by a private land trust or other charitable corporation which has received authorization from the commissioner to exercise such option on behalf of the department of food and agriculture for the purpose of acquiring an agricultural preservation restriction on the agricultural land provided, however that such trust or charitable corporation has been established at least twelve months prior to such notice of intent.
+        </section>
+    </text>
+</law>

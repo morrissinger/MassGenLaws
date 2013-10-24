@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Protective Services Agencies; Authorized Activities</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="1">
+    	     to receive and investigate reports of abuse;
+        </section>
+        <section prefix="2">
+    	     to furnish protective services to an elderly person with his or her consent;
+        </section>
+        <section prefix="3">
+    	     to petition the court for appointment of a conservator or guardian or for issuance of an emergency order for protective services;
+        </section>
+        <section prefix="4">
+    	     to furnish protective services to an elderly person on an emergency basis as hereinafter provided;
+        </section>
+        <section prefix="5">
+    	     to furnish protective services to a protected person with the consent of such person’s guardian or conservator;
+        </section>
+        <section prefix="6">
+    	     to serve as conservator, guardian, or temporary guardian of a protected person; and
+        </section>
+        <section prefix="7">
+    	     to perform all other functions determined by the department to be necessary for the administration of this chapter.
+        </section>
+    </text>
+</law>

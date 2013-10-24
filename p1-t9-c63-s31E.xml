@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31E</section_number>
+    <catch_line>Credit For Company Shuttle Van Purchase Or Lease Expenses</catch_line>
+    <order_by>31E</order_by>
+    <text>
+        <section prefix="a">
+    	     A business corporation shall be allowed a credit against its excise due under this chapter equal to thirty per cent of the cost incurred during the taxable year for the purchase of company shuttle vans, as defined under section one hundred and seventy-nine (d) of the federal Internal Revenue Code, as amended and in effect for the taxable year, or lease of company shuttle vans, as defined in section thirty-one D of chapter sixty-three, used by the corporation in the commonwealth and situated in the commonwealth on the last day of the taxable year.
+        </section>
+        <section prefix="b">
+    	     With respect to company shuttle vans so leased and placed in qualified use during the taxable year, the amount of the credit allowed hereunder shall be thirty per cent of the lease or contract payment incurred during the taxable year, excluding insurance, maintenance, fuel, driver’s salaries, finance charges or other operating expenses.
+        </section>
+        <section prefix="c">
+    	     The depreciation deduction that may be taken with respect to any motor vehicle qualifying for a credit hereunder shall be based on its cost less the credit allowable hereunder.
+        </section>
+        <section prefix="d">
+    	     The credit allowed hereunder for any taxable year shall not reduce the excise to less than the amount due under section thirty-two (b), thirty-nine (b) or sixty-seven. The limitation provided under section thirty-two C shall also apply to any credit allowed hereunder.
+        </section>
+        <section prefix="e">
+    	     With respect to property which is disposed of or ceases to be in qualified use prior to the end of the taxable year in which the credit is to be taken, the amount of the credit shall be that portion of the credit provided for in paragraph (a) which represents the ratio which the months of qualified use bear to the months of useful life. If property on which credit has been taken is disposed of or ceases to be in qualified use prior to the end of its useful life, the difference between the credit taken and the credit allowed for actual use must be added back as additional taxes due in the year of disposition; provided, however, that if such property is disposed of or ceases to be in qualified use after it has been in qualified use for more than four consecutive years, it shall not be necessary to add back the credit, as herein provided. The amount of credit allowed for actual use shall be determined by multiplying the original credit by the ratio which the months of qualified use bear to the months of useful life. For the purposes of this paragraph, “useful life of property” shall be the same as that used by the corporation for depreciation purposes when computing federal income tax liability.
+        </section>
+        <section prefix="f">
+    	     The credit allowed hereunder shall not apply to any property which would otherwise be required as part of the employer’s business activities in the absence of an employer-sponsored ride sharing incentive program, as defined in section thirty-one D of chapter sixty-three.
+        </section>
+        <section prefix="g">
+    	     The credit provided by this section shall apply to taxable years ending on or after December thirty-first, nineteen hundred and eighty-eight.
+        </section>
+    </text>
+</law>

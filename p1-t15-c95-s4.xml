@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="95" order_by="95" level="3">Measuring Of Leather</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Sale Of Unmeasured Leather</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Whoever sells or offers leather for sale by measure shall cause the same to be measured by a sworn measurer unless such leather has previously been measured by a sworn measurer of a town in the commonwealth, or by some person lawfully appointed therefor in any other state, or unless the measurement thereof has been expressly waived in writing by the buyer and seller thereof. Whoever violates this section shall be punished by a fine of not less than ten nor more than fifty dollars.
+    </text>
+</law>

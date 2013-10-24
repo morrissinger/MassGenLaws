@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Organized Militia, Composition</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The active or organized militia shall be composed of volunteers, and shall comprise the aides-de-camp of the Commander-in-chief, the state staff, the armed forces of the commonwealth as defined in section ten, the National Lancers, the retired list, persons employed as air defense technicians on the on-site missile program, and a special quartermaster detachment of enlisted personnel duly appointed as armorers in the various armories or air installations of the commonwealth. 
+The organized militia shall constitute the military division of the executive branch of the commonwealth.
+    </text>
+</law>

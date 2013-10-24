@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68" order_by="68" level="3">Donations And Conveyances For Pious And Charitable Uses</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Investigation Of Violations</catch_line>
+    <order_by>30</order_by>
+    <text>
+        <section prefix="a">
+    	     The attorney general, whenever he believes a person has violated the provisions of sections nineteen to thirty-five, inclusive, or has filed any application required under said sections which contains false or misleading information, may conduct an investigation to determine whether in fact such person is in violation of said provisions, or has filed any false or misleading information. In conducting such investigation the attorney general may: (1) take testimony under oath; (2) examine or cause to be examined any documentary material of whatever nature relevant to such alleged violations or false or misleading information; and (3) require attendance during such examination of documentary material of any person having knowledge of the documentary material and take testimony under oath or acknowledgement in respect of any such documentary material. Such testimony and examination shall take place in the county where such person resides or has a place of business or, if the parties consent or such person is a non-resident or has no place of business within the commonwealth, in Suffolk county.
+        </section>
+        <section prefix="b">
+    	     Notice of the time, place and cause of such taking of testimony, examination or attendance shall be given by the attorney general at least ten days prior to the date of such taking of testimony or examination.
+        </section>
+        <section prefix="c">
+    	     Service of any such notice may be made by (1) delivering a duly executed copy thereof to the person to be served or to a partner or to any officer or agent authorized by appointment or by law to receive service of process on behalf of such person; (2) delivering a duly executed copy thereof to the principal place of business in the commonwealth of the person to be served; or (3) mailing by registered or certified mail a duly executed copy thereof addressed to the person to be served at the principal place of business in the commonwealth or, if said person has no place of business in the commonwealth, to his principal office or place of business.
+        </section>
+        <section prefix="d">
+    	     Each such notice shall: (1) state the time and place for the taking of testimony or the examination and the name and address of each person to be examined. if known, and, if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs; (2) state the statute and section thereof, if any, of the alleged violation which is under investigation and state the general subject matter of the investigation; (3) describe the class or classes of documentary material to be produced thereunder with reasonable specificity, so as fairly to indicate the material demanded; (4) prescribe a return date within which the documentary material is to be produced; and (5) identify the members of the attorney general’s staff to whom such documentary material is to be made available for inspection and copying.
+        </section>
+        <section prefix="e">
+    	     No such notice shall contain any requirement which would be unreasonable or improper if contained in a subpoena duces tecum issued by a court of the commonwealth; or require the disclosure of any documentary material which would be privileged or which for any other reason would not be required by a subpoena duces tecum issued by a court of the commonwealth.
+        </section>
+        <section prefix="f">
+    	     Any documentary material or other information produced by any person pursuant to this section shall not, unless otherwise ordered by a court of the commonwealth for good cause shown, be disclosed to any person other than the authorized agent or representative of the attorney general, unless with the consent of the person producing the same.
+        </section>
+        <section prefix="g">
+    	     The superior court for the county of Suffolk or for any county in which any person served in accordance with the section resides or has his usual place of business may, at any time prior to the date specified in the notice, or within twenty-one days after the notice has been served, whichever period is shorter, upon motion for good cause shown, extend such reporting date or modify or set aside the notice provided for in this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64I" order_by="64I" level="3">Tax On The Storage, Use Or Other Consumption Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Liability For Failure To Pay Tax</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A person who fails to pay to the commissioner any sums required by this chapter shall be personally and individually liable therefor to the commonwealth. The term “person”, as used in this section, includes an officer or employee of a corporation, or a member or employee of a partnership or limited liability company, who as such officer, employee or member is under a duty to pay over the taxes imposed by this chapter. A person shall not be personally or individually liable for uncollected use tax due from a corporation, partnership, or limited liability company on its purchases of tangible personal property purchased for use of the corporation, partnership or limited liability company unless the person’s failure to pay the tax was willful or unless the person made personal use of the property subject to tax.
+    </text>
+</law>

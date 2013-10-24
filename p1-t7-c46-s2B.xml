@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="46" order_by="46" level="3">Return And Registry Of Births, Marriages And Deaths</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>Pre Adoption Birth Certificates; Application For Inspection By Adopted Persons</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        <section prefix="a">
+    	     make available for inspection at the offices of the state registry the birth certificate prior to adoption which indicated the prior legal parent or parents listed on the initial birth certificate or if there has been more than 1 adoption, the birth certificate prior to the first adoption which indicates the parent or parents listed on the birth certificate prior to adoption.
+        </section>
+        <section prefix="b">
+    	     send by certified mail return receipt to the adopted person age 18 or older or to the parents of an adopted person under 18 years of age a photocopy of the contents of the birth record with the following notation on it: “The contents of this birth record are being released under section 2B of chapter 46 of the Massachusetts General Laws or under a court order. This record was amended by adoption. This is not a certified copy of a birth record.”
+        </section>
+    </text>
+</law>

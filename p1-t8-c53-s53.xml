@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Vacancies Caused By Ties; Filling</catch_line>
+    <order_by>53</order_by>
+    <text>
+        In case of a tie vote where the number of persons receiving equal votes exceeds the number of nominations available, there shall be deemed to be a vacancy. If the tie is between candidates for an office to be filled by all the voters of the commonwealth, the vacancy shall be filled by the state committee. If the tie is between candidates for nomination for any other office, the vacancy shall be filled by the members of the ward and town committees in the district for which the nomination is to be made. 
+All vacancies caused by ties shall be filled only by the choice of one of the candidates receiving the tie vote.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="84" order_by="84" level="3">Repair Of Ways And Bridges</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Neglect To Repair Way; Penalty</catch_line>
+    <order_by>22</order_by>
+    <text>
+        If a town neglects to repair any way which it is obliged to keep in repair, or neglects to make the same reasonably safe and convenient when encumbered with snow, it shall pay such fine as the court may impose.
+    </text>
+</law>

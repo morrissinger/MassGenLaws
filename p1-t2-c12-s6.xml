@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Consultation With And Giving Of Advice And Assistance To District Attorneys</catch_line>
+    <order_by>6</order_by>
+    <text>
+        He shall consult with and advise district attorneys in matters relating to their duties; and, if in his judgment the public interest so requires, he shall assist them by attending the grand jury in the examination of a case in which the accused is charged with a capital crime, and appear for the commonwealth in the trial of indictments for capital crimes. 
+He shall also consult with and advise district attorneys in all civil actions brought pursuant to chapter two hundred and fifty-eight, and may assist them in the defense of such actions.
+    </text>
+</law>

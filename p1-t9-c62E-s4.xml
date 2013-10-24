@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62E" order_by="62E" level="3">Wage Reporting System</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Report Of Recipients’ Deposits And Withdrawals In Savings Institutions</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall request, not more than quarterly, from each institution as defined in subsection (e), the name, record address, social security number and other identifying data for each person listed in such request who maintains an account at such institution. The commissioner shall update such listing every calendar quarter by removing the names of all persons who have had no prior matches in the two immediately preceding quarters.
+        </section>
+        <section prefix="b">
+    	     The commissioner may continue to request account matches on such removed names once a year for the two calendar years immediately following the year in which the names are removed or for cause as defined in subsection (e).
+        </section>
+        <section prefix="c">
+    	     All requests made by the commissioner pursuant to subsection (a) or (b) shall be in machine readable form unless such institution expressly requests the commissioner to submit a request in writing. The institution shall furnish all such information in machine readable form satisfactory to the commissioner, within thirty days of such request. Such financial institution may furnish all such information on those persons maintaining accounts on the books of such institution at the time such request is processed by such institution.
+        </section>
+        <section prefix="d">
+    	     At its option, an institution may, within thirty days of the end of the first quarter of every calendar year, submit to the commissioner a report of the name, record address, social security number and other identifying data of each person maintaining an account at such institution. Within thirty days of the end of each subsequent quarter of every calendar year, every institution electing this option shall submit to the commissioner a supplemental report regarding each new account opened by a person during such quarter and each account reported in a prior quarter that has been closed during the most recent quarter. Such information shall be submitted in machine readable form satisfactory to the commissioner. An institution filing reports under this subsection shall not be required to comply with subsections (a) or (b).
+        </section>
+        <section prefix="e">
+    	     For the purposes of this section, the word “institution” shall mean every federal or state commercial or savings bank, including savings and loan associations and cooperative banks, federal or state chartered credit unions; benefit associations; insurance companies, safe deposit companies, any mutual fund, any money-market mutual fund, and any entity similar to the foregoing authorized to do business in the commonwealth. For the purposes of this section, the term “money-market mutual fund” shall mean every regulated investment company within the meaning of section 851(a) of the Internal Revenue Code which seeks to maintain a constant net asset value of one dollar in accordance with 17 CFR 270.2a-7. For the purposes of this section, the word “account” shall include a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, brokerage account, mutual fund account, money market mutual fund account or a life insurance policy with a cash surrender value. For the purposes of this section, the term “for cause” shall mean that the commissioner has reason to believe that an individual has opened an account at such institution.
+        </section>
+        <section prefix="f">
+    	     All reports under this section shall be part of the reporting systems.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21L" order_by="21L" level="3">Environmental Endangerment Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Environmental Violation; Penalties</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who knowingly or recklessly commits an environmental violation and thereby causes serious bodily injury to another human being: (1) shall be subject to a civil penalty of not more than $100,000 for each violation in the case of an individual; and (2) in the case of an organization, shall be subject to a civil penalty of not more than $500,000 for the first violation and a civil penalty of not more than $2,000,000 for any second or subsequent violation.
+        </section>
+        <section prefix="b">
+    	     A person who knowingly or recklessly commits an environmental violation and thereby causes a substantial risk of damage to natural resources or to the property of another person in an amount exceeding $25,000: (1) shall be subject to a penalty of not more than $100,000 in the case of an individual; and (2) in the case of an organization, shall be subject to a civil penalty of not more than $250,000 for the first violation and by a civil penalty of not more than $500,000 for a second or subsequent violation.
+        </section>
+        <section prefix="c">
+    	     A person who negligently commits an environmental violation and thereby causes serious bodily injury to another human being or a substantial risk of damage to natural resources or to the property of another person in an amount exceeding $25,000, shall be subject to a civil penalty of not less than $2,500 nor more than $50,000 for the first violation and not less than $2,500 nor more than $100,000 for a second or subsequent violation.
+        </section>
+        <section prefix="d">
+    	     Each day or part thereof that a violation occurs or continues shall be a separate violation.
+        </section>
+        <section prefix="e">
+    	     The civil penalty may be assessed in an action brought on behalf of the commonwealth in the superior court.
+        </section>
+        <section prefix="f">
+    	     Whoever owns or operates a tank vessel carrying 6,000 or more barrels of oil from which oil is spilled into Buzzards Bay and who: (i) fails to provide notice under subsection (a) of section 9 of chapter 21M; or (ii) if such vessel was unaccompanied by a tugboat escort, provides notice under said subsection (a) of said section 9 of said chapter 21M, but fails to request a state pilot under subsection (b) of said section 9 of said chapter 21M; and (iii) violates this chapter shall be assessed triple the penalties provided in this section.
+        </section>
+    </text>
+</law>

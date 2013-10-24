@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40M" order_by="40M" level="3">Governmental Units Pooled Insurance</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Deficiencies</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="A">
+    	     If the assets of a group are at any time insufficient to enable the group to discharge its legal liabilities and other obligations and to maintain the reserves required of it under this chapter, it shall forthwith make up the deficiency or levy an assessment upon its members for the amount needed to make up the deficiency.
+        </section>
+        <section prefix="B">
+    	     In the event of a deficiency in any fund year, such deficiency shall be made up immediately, either from (a) administrative funds, (b) assessment of the membership, if ordered by the group or, (c) such alternate method as the commissioner may approve or direct.
+        </section>
+        <section prefix="C">
+    	     If the group fails to assess its members or to otherwise make up such deficit within ninety days the commissioner shall order it to do so.
+        </section>
+        <section prefix="D">
+    	     If the group fails to make the required assessment of its members within ninety days after the commissioner orders it to do so, or if the deficiency is not fully made up within one hundred and twenty days after the date on which such assessment is made, or within such longer period of time as may be specified by the commissioner, the group shall be deemed to be insolvent.
+        </section>
+    </text>
+</law>

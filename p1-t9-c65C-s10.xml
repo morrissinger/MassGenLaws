@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Extension Of Due Date For Payment Of Tax</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may extend the time for payment of the tax imposed by this chapter for a reasonable period not to exceed six months from the date fixed for the payment thereof. If the commissioner finds that the payment on the due date of any part of such tax would result in undue hardship, he may extend the time for payment for a reasonable period not in excess of three years from the date fixed for payment of the tax. If an extension is granted, the commissioner may require the taxpayer:—
+        </section>
+        <section prefix="i">
+    	     to deposit with the state treasurer bonds or other negotiable obligations of the commonwealth or of the United States of America of such aggregate face amount as the commissioner may from time to time deem necessary to adequately secure payment of such taxes; or
+        </section>
+        <section prefix="ii">
+    	     to give a bond to the state treasurer in such amount and with such sureties as the commissioner deems necessary, conditioned upon the payment of the amount with respect to which the extension is granted in accordance with the terms of the extension.
+        </section>
+        <section prefix="b">
+    	     If the value of a reversionary or remainder interest in property is included in the value of the gross estate, the payment of the part of the tax imposed by this chapter attributable to such interest may, at the election of the executor, be postponed until six months after the termination of the precedent interest or interests in the property, and the amount the payment of which is so postponed shall then be payable, together with interest thereon at the rate of eight per cent per annum from the date the tax was payable under section thirty-two of chapter sixty-two C until such amount is paid. The postponement of such amount shall be under regulations to be prescribed by the commissioner, and shall be upon condition that the executor, or any other person liable for the tax, shall give bond to the state treasurer in such amount, and with such sureties as the commissioner deems necessary, conditioned upon the payment within six months after the termination of such precedent interest or interests of the amount the payment of which is so postponed together with interest thereon, as hereinbefore provided.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Powers And Duties Of Commissioner</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     To designate and establish as markets the several natural milk marketing areas of the commonwealth; to supervise and regulate the milk industry of the commonwealth, including the production, purchase, receipt, sale, payment and distribution of milk within the commonwealth and the control of unreasonable and burdensome surplus of milk in any market coming from either within or without the commonwealth; to prescribe such regulations as shall tend (a) equitably to apportion the total value of the milk purchased or received by any dealer, or by all dealers in any market, among the producers delivering to such dealer or dealers, on the basis of their marketings of milk during a prior representative period, and (b) to encourage the production of a regular, continuous and adequate supply for such market or markets of fresh fluid milk conforming to law; and to promote programs designed to increase the consumption of milk;
+        </section>
+        <section prefix="2">
+    	     To investigate and regulate, as conditions permit and the purposes of this chapter require, all matters pertaining to markets, to the production, manufacture, processing, storage, transportation, disposal, distribution and sale of milk within the commonwealth, and to the establishment and maintenance of reasonable trade practices relative to milk;
+        </section>
+        <section prefix="3">
+    	     The commissioner may, after examination and investigation, and after hearing held after due notice, adopt all orders, rules and regulations, not inconsistent with law, which he deems necessary or desirable to administer or effectuate any of the purposes of this chapter. In the administration and enforcement of this section, said commissioner may appoint and consult and advise with representative committees and groups in the milk industry, which persons shall serve voluntarily and without compensation;
+        </section>
+        <section prefix="4">
+    	     To act as mediator and arbitrator in any controversy or issue among or between producers and milk dealers either as individuals or as groups, associations or corporations.
+        </section>
+    </text>
+</law>

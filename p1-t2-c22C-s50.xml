@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Police Officers’ And University Guards’ Duties On Reservations</catch_line>
+    <order_by>50</order_by>
+    <text>
+        Upon requisition of the commanding officer or other person in charge of a reservation of the United States of America, the colonel, or the mayor or the selectmen of any city or town the territory of which adjoins or includes, in whole or in part, such reservations, may provide police officers, who shall perform such police duties within such reservation as such commanding officer or other person may assign to them, and who shall, while on such assignment, have the authority, immunities and privileges that they would have while acting as duly appointed and qualified police officers elsewhere within the commonwealth. 
+Guards appointed by the trustees of the University of Massachusetts in connection with the operation of any part of said university within the limits of any such reservation may perform police duties under the direction of the commanding officer or the person in charge of such reservation, and while performing such duties within such limits shall have the same authority, immunities and privileges as duly appointed and qualified police officers acting as such elsewhere within the commonwealth.
+    </text>
+</law>

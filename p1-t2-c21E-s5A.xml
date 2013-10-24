@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Administrative Record; Selection And Review Of Response Actions;  Regulations</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="1">
+    	     notice to potentially affected persons, to the extent known to the department, and to the public, which notice shall be accompanied by a brief analysis of the plan and alternative plans that were considered;
+        </section>
+        <section prefix="2">
+    	     a reasonable opportunity to comment and provide information regarding the plan;
+        </section>
+        <section prefix="3">
+    	     a reply to each of the comments, criticisms and new data that are submitted to the department and that the department determines are significant; and
+        </section>
+        <section prefix="4">
+    	     a detailed statement of the basis and purpose of the selected response action, including a description of conditions at the site or vessel, risks and criteria for the selected response actions.
+        </section>
+    </text>
+</law>

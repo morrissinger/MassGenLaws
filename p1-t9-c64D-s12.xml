@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64D" order_by="64D" level="3">Excise On Deeds, Instruments And Writings</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Disbursement Of Funds</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary, of that portion of the amounts deposited in the Deeds Excise Fund for each county from revenues collected pursuant to this chapter which represents 10.625 per cent of the taxes collected: (1) not more than 60 per cent of the deposits shall be disbursed and expended for meeting the costs of the operation and maintenance of the county; and (2) not less than 40 per cent shall be disbursed and expended for the automation, modernization and operation of the registries of deeds.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, with respect to funds appropriated for the purposes designated in clause (2) of subsection (a) and which are not dedicated to the Deeds Excise Fund in each county under section 11, the county budget shall provide a continuing amount of expenditure of not less than 102.5 per cent of the amount expended for that purpose in the preceding fiscal year.
+        </section>
+    </text>
+</law>

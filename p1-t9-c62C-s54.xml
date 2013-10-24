@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Surrender Of Property Or Discharge Of Obligation; Exceptions;  Personal Liability; Penalty</catch_line>
+    <order_by>54</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in subsection (b), any person in possession of, or obligated with respect to, property or rights to property subject to levy upon which a levy has been made shall, upon demand of the commissioner, surrender such property or rights, or discharge such obligation, to the commissioner, except such part of the property or rights as is, at the time of such demand, subject to an attachment or execution under any judicial process.
+        </section>
+        <section prefix="2">
+    	     Such levy shall be deemed to be satisfied if such organization pays over to the commissioner the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance, including contractual interest, thereon, made to such person on or after the date such organization had actual notice or knowledge of the existence of the lien with respect to which such levy is made, other than an advance, including contractual interest thereon, made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
+        </section>
+        <section prefix="3">
+    	     The satisfaction of a levy under paragraph (2) shall be without prejudice to any civil action for the enforcement of any lien imposed by section fifty with respect to such contract.
+        </section>
+        <section prefix="2">
+    	     In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails or refuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to fifty per cent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
+        </section>
+        <section prefix="d">
+    	     Any person in possession of, or obligated with respect to, property or rights to property subject to levy upon which a levy has been made, who, upon demand by the commissioner, surrenders such property or rights to property, or discharges such obligation, to the commissioner, or who pays a liability under paragraph (1) of subsection (c) shall be discharged from any obligation or liability to the delinquent taxpayer with respect to such property or rights to property arising from such surrender or payment. In the case of a levy which is satisfied pursuant to subsection (b), such organization shall also be discharged from any obligation or liability to any beneficiary arising from such surrender or payment.
+        </section>
+        <section prefix="e">
+    	     The commissioner may, in his discretion, reimburse a taxpayer for any fee or similar amount charged to the taxpayer by a bank or financial institution where such fee or charge proximately resulted from the commissioner’s improper or erroneous service of a notice of lien or levy on such bank or financial institution.
+        </section>
+    </text>
+</law>

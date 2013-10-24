@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>81</section_number>
+    <catch_line>Tie Votes In Direct Nominations; Filling Vacancies</catch_line>
+    <order_by>81</order_by>
+    <text>
+        If there is a tie vote for any candidate of a political party nominated directly for any office, for a district comprising more than one ward, the regularly elected general or executive committee representing the party for the election district in which such vote has been cast shall fill the vacancy, but only by the choice of one of the candidates receiving such tie vote.
+    </text>
+</law>

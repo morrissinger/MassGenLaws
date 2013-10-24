@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>180</section_number>
+    <catch_line>Jurisdiction Of Court; Complaints And Prosecutions</catch_line>
+    <order_by>180</order_by>
+    <text>
+        Complaints and prosecutions for violations of law relating to the use or giving of false or insufficient weight or measure may be commenced and prosecuted in a court having jurisdiction of the place to which the goods are shipped.
+    </text>
+</law>

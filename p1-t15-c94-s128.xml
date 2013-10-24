@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>128</section_number>
+    <catch_line>Failure To Testify Or To Produce Evidence; Falsification Of Reports;  Penalties</catch_line>
+    <order_by>128</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who neglects or refuses to attend and testify or to answer any lawful inquiry, or to produce documentary evidence, if in his or its power to do so, in obedience to the lawful requirement of the commissioner, shall be punished by a fine of not less than one thousand dollars nor more than five thousand dollars, or by imprisonment for not more than one year, or both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Any person who makes, or causes to be made, any false entry or statement of act in any report required to be made under sections one hundred and eighteen to one hundred and thirty, inclusive, or who makes, or causes to be made, any false entry in any account, record, or memorandum kept by any person subject to sections one hundred and eighteen to one hundred and thirty, inclusive, or who neglects or fails to make, or to cause to be made, full, true, and correct entries in such accounts, records, or memoranda, of all facts and transactions appertaining to the business of such person or that shall wilfully remove out of the jurisdiction of this commonwealth, or mutilate, alter, or by any other means falsify any documentary evidence of any person subject to sections one hundred and eighteen to one hundred and thirty, inclusive, or who wilfully refuses to submit to the commissioner for the purpose of inspection and taking copies; and documentary evidence of any person subject to sections one hundred and eighteen to one hundred and thirty, inclusive, in his possession or within his control, shall be punished by a fine of not less than one thousand nor more than five thousand dollars, or by imprisonment for a term of not more than three years or by both such fine and imprisonment.
+        </section>
+    </text>
+</law>

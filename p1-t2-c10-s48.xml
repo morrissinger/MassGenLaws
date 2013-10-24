@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Milk Producers Security Fund</catch_line>
+    <order_by>48</order_by>
+    <text>
+        There shall be established upon the books of the commonwealth a separate fund to be known as the Milk Producers Security Fund, consisting of revenues received under the provisions of section twenty of chapter twenty, and all other monies credited or transferred thereto from any other fund or source pursuant to law. 
+The state treasurer shall receive, deposit, and invest all monies transmitted to him under the provisions of said section twenty in such manner that will insure the highest interest rate available consistent with safety of the fund and with the requirement that all deposits be available for immediate withdrawal for payment to milk producers upon receipt of notice, certified by the commissioner of food and agriculture, that these amounts are due them.
+    </text>
+</law>

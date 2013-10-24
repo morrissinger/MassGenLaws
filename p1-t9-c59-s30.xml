@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Blank Lists</catch_line>
+    <order_by>30</order_by>
+    <text>
+        The assessors shall furnish a blank list prescribed by the commissioner under section five of chapter fifty-eight to any person liable to taxation.
+    </text>
+</law>

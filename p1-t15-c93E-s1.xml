@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        For the purpose of this chapter, the following words shall, unless the context otherwise requires, have the following meanings:— 
+“Supplier”, any person engaged in the sale, consignment or distribution of petroleum products to retail outlets. 
+“Dealer”, any person who is not a petroleum supplier, engaged in the retail sale of gasoline to the motoring public in the commonwealth under written agreements entered into with a petroleum supplier. 
+“Marketing agreement”, means any agreement either written or oral between a supplier and a retail dealer under which (1) the retail dealer promises to sell or distribute the produce or products of the supplier; (2) the retail dealer is granted the right to use a trademark, trade name, service mark or other identifying symbol or name owned by a manufacturer; or (3) the retail dealer is granted the right to occupy premises owned, leased or controlled by a supplier.
+    </text>
+</law>

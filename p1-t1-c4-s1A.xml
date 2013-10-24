@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="4" order_by="4" level="3">Statutes</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Reorganization Plans For Executive Department</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        Any plan presented to the general court by the governor, purporting to be a reorganization plan as provided for under Article LXXXVII of the amendments to the constitution, which does not contain a bill in which is incorporated such amendments of general and special laws, or repeals thereof, as will accomplish the desired reorganization, shall not be deemed to be a reorganization plan within the meaning of said Article LXXXVII.
+    </text>
+</law>

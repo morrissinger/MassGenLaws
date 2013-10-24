@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Civil Action; Notice; Payment Of Judgment Exceeding Insurance And Assets; Standing Of Insolvency Fund</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="1">
+    	     Any person who commences a civil action against a licensee for damages arising out of an occurrence or occurrences in the commonwealth of unintentional release of hazardous waste into the environment from a facility in the commonwealth, shall give notice of the filing of said action to the insolvency fund, together with a statement of the amount of damages sought in the said action, within one hundred and eighty days after commencing said action. Failure to give such notice within the period prescribed herein shall constitute a bar to any claim against the insolvency fund arising from any judgment entered in the said action.
+        </section>
+        <section prefix="2">
+    	     At any time after notice has been given pursuant to subsection (1), the plaintiff, the licensee or any affected party in the subject civil action may give notice to the insolvency fund that the licensee is or may be an impaired or insolvent licensee. The insolvency fund shall have authority to negotiate, settle or compromise any potential covered claim on terms which, in its judgment, adequately satisfy its potential liabilities.
+        </section>
+        <section prefix="3">
+    	     Any person who has provided timely notice of his claim against a licensee pursuant to subsection (1), whose claim has been reduced to a final judgment, all rights of appeal being exhausted, waived or expired and whose judgment exceeds the total of the amount of liability insurance or its equivalent available to satisfy the judgment and the amount of cash, marketable securities or other liquid assets available to satisfy the judgment, may give notice of the said facts to the insolvency fund. The insolvency fund shall thereupon promptly verify said facts and upon verification shall treat the claim as a covered claim and pay it within ninety days in accordance with the provisions of paragraph (c) of section eighteen.
+        </section>
+        <section prefix="4">
+    	     If the insolvency fund fails to act within a reasonable period of time as provided in subsections (2) and (3), the commissioner shall have the powers and duties of the insolvency fund with respect to impaired or insolvent licensees.
+        </section>
+        <section prefix="5">
+    	     The insolvency fund may render assistance and advice to the commissioner, upon his request, concerning rehabilitation, payment of claims or the performance of other contractual obligations of any impaired or insolvent licensee.
+        </section>
+        <section prefix="6">
+    	     The insolvency fund shall have standing to appear before any court with jurisdiction over an impaired or insolvent licensee in any proceeding concerning matters for which the insolvency fund is or may become obligated under this chapter. Such standing shall extend to all matters germane to the powers and duties of the insolvency fund, including, but not limited to, proposals for insuring, modifying or guaranteeing the covered claims or potential covered claims of the impaired or insolvent licensee and the adjudication of the covered claims or potential covered claims. The insolvency fund shall also have the right to appear or intervene before any court with jurisdiction over a third party against whom the insolvency fund may have rights through subrogation, contribution or otherwise.
+        </section>
+    </text>
+</law>

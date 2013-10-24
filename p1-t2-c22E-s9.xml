@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Confidentiality Of Records</catch_line>
+    <order_by>9</order_by>
+    <text>
+        All DNA records collected pursuant to this chapter shall be confidential and shall not be disclosed to any person or agency unless such disclosure shall be authorized by this chapter. DNA records shall not be stored in a criminal offender record information system operated by the department of criminal justice information services pursuant to sections 167 to 178, inclusive, of chapter 6.
+    </text>
+</law>

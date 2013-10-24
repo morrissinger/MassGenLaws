@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>6</order_by>
+    <text>
+        The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases may promulgate rules and regulations relative to registration and control of the manufacture, distribution, dispensing and possession of controlled substances within the commonwealth.
+    </text>
+</law>

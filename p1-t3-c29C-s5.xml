@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="29C" order_by="29C" level="3">Water Pollution Abatement Revolving Loan Program</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Disbursement Of Monies By Board Of Trustees; Purposes</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="i">
+    	     to make, and enter into binding commitments to make, loans and other forms of financial assistance authorized by Title VI of the Clean Water Act approved by the department under section 27A of chapter 21 to local governmental units for the purpose of financing or refinancing costs of water pollution abatement projects and to provide for all or any part of the debt service costs on loans and other forms of financial assistance made by the trust during the implementation of such projects and for such period thereafter as the board shall determine.
+        </section>
+        <section prefix="ii">
+    	     to provide reserves for or otherwise secure bonds of the trust and to provide insurance and letters or lines of credit or other credit enhancement which it deems reasonable and appropriate for bonds;
+        </section>
+        <section prefix="iii">
+    	     to transfer to the Water Pollution Abatement and Drinking Water Projects Administration Fund amounts derived from proceeds of each federal capitalization grant award received by the trust to the extent determined by the board and subject to the approval of the executive office for administration and finance.
+        </section>
+        <section prefix="iv">
+    	     to provide payment from any available source for reasonable and necessary professional and financial services incident to the conduct of the programs of the trust, including costs of issuance of its bonds.
+        </section>
+    </text>
+</law>

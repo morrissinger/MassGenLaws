@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6A" order_by="6A" level="3">Executive Offices</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Access To Records, Copies Of Documents, Information</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The secretary shall have access to all records, as defined in section forty-two of chapter thirty, in the custody of all state agencies within his executive office, except where such access is prohibited by law. Such agencies shall furnish him with copies of all reports, notices and other documents which they are required by law to submit to the governor, the general court or any state agency, and with all other information requested by the secretary for the purpose of discharging the duties of his office.
+    </text>
+</law>

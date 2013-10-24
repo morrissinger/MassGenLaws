@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Registry Book; Contents Of Entries; Instrument Number; Changes And Corrections</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     Each register shall keep a record, in book or electronic form, into which the register shall enter recording information for all instruments accepted for record in the order in which they are recorded. Upon recording of an instrument, the following information shall be entered into the record: (i) the day, hour and minute when the register assigns an instrument number or book and page number, as the case may be; (ii) the instrument number, or book and page number, so assigned; (iii) the names of the grantors and grantees in the instrument; and (iv) the city or town in which the land lies.
+        </section>
+        <section prefix="b">
+    	     No instrument received by the register shall be considered recorded until the register assigns to the instrument an instrument number, or book and page number, as the case may be.
+        </section>
+        <section prefix="c">
+    	     A change or correction made to the record shall be accessible to the public in that particular registry district in which the affected land lies. Such change or correction shall be maintained by the register as part of the record for public inspection during registry business hours at each office in the registry district. A change or correction to the record shall document the nature and date of the change or correction.
+        </section>
+    </text>
+</law>

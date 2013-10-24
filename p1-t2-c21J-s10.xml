@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21J" order_by="21J" level="3">Underground Storage Tank Petroleum Product Cleanup Fund</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Recoupment Of Reimbursement From Negligent Person</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If an owner or operator received a reimbursement pursuant to this chapter for a cost, expense, or obligation incurred in remediating a release or a threat of a release of a petroleum product caused by the negligent action of some other person, the board, acting on behalf of the fund, shall be authorized and directed to obtain from that other person recoupment to the fund of the reimbursement paid from the fund.
+    </text>
+</law>

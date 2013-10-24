@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Time Of Notice Of Hearings, Orders, Rules And Regulations</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     Seven days at least before any general hearing, the commissioner shall cause a notice containing a brief but sufficient statement of the subject matter of such hearing to be published as provided in subsection (a) of section nineteen.
+        </section>
+        <section prefix="b">
+    	     Three days at least before any general order, rule or regulation adopted by the commissioner shall become effective, such order shall be published as provided in subsection (a) of section nineteen.
+        </section>
+        <section prefix="c">
+    	     Three days at least before any special hearing, the commissioner shall cause a notice containing a brief but sufficient statement of the acts, facts or circumstances alleged to constitute reason for denial, suspension or revocation of license, or for adoption of any other special order, rule or regulation applying only to one or more persons named therein, and specifying the time and place of such hearing, to be served upon the applicant, licensee or other person or persons concerned, in a manner provided in subsection (c) of section nineteen.
+        </section>
+        <section prefix="d">
+    	     Three days at least before any special order, rule or regulation applying only to one or more persons named therein shall become effective, such order, rule or regulation shall be served on such person or persons in a manner provided in subsection (c) of section nineteen.
+        </section>
+        <section prefix="e">
+    	     Except as otherwise expressly provided, three days’ notice shall constitute reasonable notice of any action by, or in any proceedings had before, the commissioner. In computing a period of notice required or authorized under this chapter, Sundays and legal holidays shall be excluded.
+        </section>
+    </text>
+</law>

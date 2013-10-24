@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Debt Collection In An Unfair, Deceptive Or Unreasonable Manner</catch_line>
+    <order_by>49</order_by>
+    <text>
+        <section prefix="a">
+    	     The creditor communicates, threatens to communicate, or implies the fact of such debt or alleged debt to a person other than the person who might reasonably be expected to be liable therefor, or to an authorized user after the fact if that status is communicated to the creditor in writing, except with the written permission of the alleged debtor. The provisions of this paragraph shall not prohibit a creditor from notifying a debtor of the fact that the creditor may report a debt or alleged debt to a credit bureau or engage an agent or an attorney for the purpose of collecting the debt or alleged debt. For the purposes of this paragraph, the use of language on envelopes indicating that the communication relates to the collection of a debt shall be deemed a communication of such debt or alleged debt.
+        </section>
+        <section prefix="b">
+    	     The creditor communicates directly with the alleged debtor after notification from an attorney representing such debtor that all further communications relative to the debt should be addressed to him.
+        </section>
+        <section prefix="c">
+    	     The creditor communicates with the alleged debtor in such a manner as to harass or embarrass the alleged debtor, including, but not limited to communication at an unreasonable hour, with unreasonable frequency, by threats of violence, by use of offensive language, or by threats of any action which the creditor in the usual course of business does not in fact take.
+        </section>
+        <section prefix="d">
+    	     The creditor communicates with alleged debtors through the use of forms or instruments that simulate the form and appearance of judicial process.
+        </section>
+    </text>
+</law>

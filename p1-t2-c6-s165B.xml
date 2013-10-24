@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>165B</section_number>
+    <catch_line>Massachusetts Fire Service Commission</catch_line>
+    <order_by>165B</order_by>
+    <text>
+        <section prefix="1">
+    	     a fully paid fire department
+        </section>
+        <section prefix="2">
+    	     a partially paid part-call fire department
+        </section>
+        <section prefix="3">
+    	     a full-call fire department; and
+        </section>
+        <section prefix="4">
+    	     a community from within metro fire district 13.
+        </section>
+        <section prefix="1">
+    	     the appointment of a fire marshal;
+        </section>
+        <section prefix="2">
+    	     the promulgation of regulations and policies pertaining to the operation of the office of the state fire marshal;
+        </section>
+        <section prefix="3">
+    	     review the annual budget developed by the office of the state fire marshal;
+        </section>
+        <section prefix="4">
+    	     advising the office of the state fire marshal regarding state and national fire codes; and
+        </section>
+        <section prefix="5">
+    	     consulting with the Massachusetts fire training council to develop standards for fire investigation training and certification.
+        </section>
+    </text>
+</law>

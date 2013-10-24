@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Issue And Sale Of Bonds Or Notes Of The Department</catch_line>
+    <order_by>67</order_by>
+    <text>
+        <section prefix="2">
+    	     Any bond or note issued under this section:
+        </section>
+        <section prefix="A">
+    	     constitutes the corporate obligation of the department;
+        </section>
+        <section prefix="B">
+    	     shall not constitute a debt of the commonwealth within the meaning or application of the constitution of the commonwealth; and
+        </section>
+        <section prefix="C">
+    	     shall be payable solely as to both principal and interest from:
+        </section>
+        <section prefix="i">
+    	     the revenues from a lease to the department, if any;
+        </section>
+        <section prefix="ii">
+    	     proceeds of bonds or notes, if any;
+        </section>
+        <section prefix="iii">
+    	     investment earnings on the proceeds of bonds or notes; or
+        </section>
+        <section prefix="iv">
+    	     other funds available to the department for such purpose.
+        </section>
+        <section prefix="2">
+    	     Any bonds, debt, other securities or other financing issued for the purposes of sections 62 to 73, inclusive, shall not be considered a debt of the commonwealth or any political subdivision thereof state or a pledge of the faith and credit of the state or any political subdivision of the commonwealth.
+        </section>
+        <section prefix="c">
+    	     Nothing in this section shall limit a local government or any authority of the commonwealth to issue bonds for transportation projects.
+        </section>
+    </text>
+</law>

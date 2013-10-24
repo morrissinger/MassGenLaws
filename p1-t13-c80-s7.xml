@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Appeal To Superior Court</catch_line>
+    <order_by>7</order_by>
+    <text>
+        A person who is aggrieved by the refusal of the board to abate an assessment in whole or in part may within thirty days after notice of their decision appeal therefrom by filing a petition for the abatement of such assessment in the superior court for the county in which the land assessed is situated. If a single parcel of land so assessed lies in more than one county the petition may be filed in the superior court for either such county, and the court in which such petition is first filed shall have exclusive jurisdiction thereof.
+    </text>
+</law>

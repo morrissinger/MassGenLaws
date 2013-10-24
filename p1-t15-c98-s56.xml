@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="98" order_by="98" level="3">Weights And Measures</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Fees Of Sealers</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="a">
+    	     Each scale with a weighing capacity of more than ten thousand pounds, twenty-five dollars.
+        </section>
+        <section prefix="b">
+    	     Each scale with a weighing capacity of five thousand to ten thousand pounds, fifteen dollars.
+        </section>
+        <section prefix="c">
+    	     Each scale with a weighing capacity of one thousand to five thousand pounds, ten dollars.
+        </section>
+        <section prefix="d">
+    	     Each scale with a weighing capacity of one hundred to one thousand pounds, five dollars.
+        </section>
+        <section prefix="e">
+    	     Scales and balances with a weighing capacity of more than ten pounds and less than one hundred pounds, three dollars.
+        </section>
+        <section prefix="f">
+    	     Scales and balances with a weighing capacity of ten pounds or less, two dollars.
+        </section>
+        <section prefix="g">
+    	     Each liquid capacity measure, except vehicle tanks, of the capacity of more than one gallon and measures on pumps, fifty cents.
+        </section>
+        <section prefix="h">
+    	     Each liquid measuring meter, except water meters, the diameter of the inlet pipe of which is one half inch or less, two dollars, more than one half inch but not more than one inch, four dollars; for each such type of liquid measuring meter, the diameter of the inlet pipe of which is more than one inch, the following shall apply, vehicle-tank pump eight dollars, vehicle-tank gravity ten dollars, bulk storage twenty dollars, bulk storage user furnishes certified prover ten dollars.
+        </section>
+        <section prefix="i">
+    	     Each taximeter or measuring device used upon vehicles to determine the cost of transportation, four dollars.
+        </section>
+        <section prefix="j">
+    	     Each machine or other mechanical device used for determining linear or area measurement, two dollars.
+        </section>
+        <section prefix="k">
+    	     Milk bottle or jars, four dollars per gross.
+        </section>
+        <section prefix="l">
+    	     Vehicle tanks used in the sale of commodities by liquid measures shall be charged for each hundred gallons or fraction thereof, one dollar. An additional fee of two dollars per sealed indicator shall be received.
+        </section>
+        <section prefix="m">
+    	     All weights and other measures, twenty cents each.
+        </section>
+        <section prefix="n">
+    	     Each automated electronic retail checkout system with fewer than four cash registers or computer terminals, not more than $75.
+        </section>
+        <section prefix="o">
+    	     Each automated electronic retail checkout system with no less than four and no more than 11 cash registers or computer terminals, not more than $150.
+        </section>
+        <section prefix="p">
+    	     Each automated electronic retail checkout system with greater than 11 cash registers or computer terminals, not more than $250.
+        </section>
+    </text>
+</law>

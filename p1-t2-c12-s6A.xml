@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Conferences Of District Attorneys And Other Officials; Notification As To New Laws</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        He may from time to time, and as often as occasion may require, call into conference the district attorneys, the sheriffs of the several counties and the chiefs of police of the several cities and towns, or such of them as he may deem advisable, for the purpose of discussing the duties of their respective offices with a view to the uniform and adequate enforcement of the laws of the commonwealth. 
+He shall, as soon as convenient after the end of each legislative session, notify the sheriffs of the several counties and the chiefs of police of the several cities and towns of all laws enacted during such session which it is their duty to enforce. Such notice shall include a list by chapter number and title of each law so enacted.
+    </text>
+</law>

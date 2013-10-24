@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64J" order_by="64J" level="3">Taxation Of Fuels Used In The Propulsion Of Aircraft</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Payment Of Tax</catch_line>
+    <order_by>4</order_by>
+    <text>
+        At the time of filing a return required by section sixteen of chapter sixty-two C, every licensee shall pay to the commissioner an excise at the tax per gallon determined by the commissioner upon each gallon of aircraft fuel sold or used by him in any city or town within the commonwealth that has adopted the provisions of this chapter in accordance with section thirteen.
+    </text>
+</law>

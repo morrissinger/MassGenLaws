@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>3C</section_number>
+    <catch_line>Pipe Lines</catch_line>
+    <order_by>3C</order_by>
+    <text>
+        Anything in this chapter to the contrary notwithstanding, every pipe line subject to valuation under section thirty-eight A shall be subject to taxation under this chapter as personal property, and shall be assessed to the owner thereof by the assessors in the respective cities and towns where such pipe line is located.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61A" order_by="61A" level="3">Assessment And Taxation Of Agricultural And Horticultural Land</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Taxation Of Buildings And Land Occupied By Dwelling</catch_line>
+    <order_by>15</order_by>
+    <text>
+        All buildings located on land which is valued, assessed and taxed on the basis of its agricultural or horticultural uses in accordance with the provisions of this chapter and all land occupied by a dwelling or regularly used for family living shall be valued, assessed and taxed by the same standards, methods and procedures as other taxable property.
+    </text>
+</law>

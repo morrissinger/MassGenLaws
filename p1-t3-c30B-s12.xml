@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Term Of Contract; Information To Be Included In Solicitation;  Cancellation Of Contract</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless otherwise provided by law and subject to paragraph (b), a governmental body may enter into a contract for any period of time which serves the best interests of the governmental body; provided, however, that the procurement officer shall include in the solicitation the term of the contract and conditions of renewal, extension or purchase, if any. The procurement officer shall not enter into a contract unless funds are available for the first fiscal year at the time of contracting. Payment and performance obligations for succeeding fiscal years shall depend on the availability and appropriation of funds.
+        </section>
+        <section prefix="b">
+    	     Unless authorized by majority vote, a procurement officer shall not award a contract for a term exceeding three years, including any renewal, extension, or option. Such authorization may apply to a single contract or to any number or types of contracts, and may specify a uniform limit or different limits on the duration of any such contracts.
+        </section>
+        <section prefix="c">
+    	     The invitation for bids, request for proposals, or other solicitation of any contract for a term exceeding one year, including a renewal, extension or option, shall state, in addition to the other information required by this chapter:
+        </section>
+        <section prefix="1">
+    	     the amount of supplies or services required for the proposed contract period, and whether such amount is the actual amount required or an estimate;
+        </section>
+        <section prefix="2">
+    	     that the bidder or offeror shall give a unit price for each supply or service, and that the unit price shall remain the same throughout the contract, except to the extent that the solicitation and resulting contract provides for price adjustments;
+        </section>
+        <section prefix="3">
+    	     that the procurement officer shall cancel the contract if funds are not appropriated or otherwise made available to support continuation of performance in any fiscal year succeeding the first year;
+        </section>
+        <section prefix="4">
+    	     whether the bidder or offeror shall submit prices for:
+        </section>
+        <section prefix="i">
+    	     the first fiscal year only;
+        </section>
+        <section prefix="ii">
+    	     the entire time of performance only; or
+        </section>
+        <section prefix="iii">
+    	     both the first fiscal year and the entire time of performance; and
+        </section>
+        <section prefix="5">
+    	     how the award will be determined, including, if the contractor submits prices for the first fiscal year and the entire time of performance, how the prices will be compared.
+        </section>
+        <section prefix="d">
+    	     When funds are not appropriated or otherwise made available to support continuation of performance in a subsequent fiscal year, the procurement officer shall cancel the contract.
+        </section>
+        <section prefix="e">
+    	     The governmental body shall not exercise an option for renewal, extension or purchase unless the procurement officer, after reasonable investigation of costs and benefits, has determined in writing that the exercise of the option is more advantageous than alternate means of procuring comparable supplies or services.
+        </section>
+        <section prefix="f">
+    	     Notwithstanding the provisions of paragraphs (a), (b), clause (3) of paragraph (c) and paragraph (d) and further notwithstanding any contrary provision of any law or the provisions of any charter, a city or town may, in a contract for the disposal of its garbage, refuse, and offal or treatment or disposal of sewage, septage or sludge, agree that said city or town shall not be exempt from liability on such contract; provided, however, that such disposal shall be in a sanitary manner approved by the department of environmental protection; provided further, that the contract, including any renewal, extension, or option, shall be for a period not exceeding twenty years; and provided, further, that such contract has been authorized by majority vote.
+        </section>
+    </text>
+</law>

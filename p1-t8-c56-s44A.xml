@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>44A</section_number>
+    <catch_line>Lists Of Candidates; Distribution; Signatures Of Responsible Voters</catch_line>
+    <order_by>44A</order_by>
+    <text>
+        No person shall distribute by mail or otherwise, or directly or indirectly cause to be distributed by mail or otherwise, a list or slate containing names of candidates for state office to be nominated at state primaries or to be elected at a biennial state election, unless the name of some voter who is responsible therefor, with his residence and the street and number thereof, if any, appears therein in the nature of a signature. Violation of this section shall be punished by a fine of not more than one hundred dollars.
+    </text>
+</law>

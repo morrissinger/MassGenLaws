@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>62G</section_number>
+    <catch_line>Federal Environmental Impact Statements In Lieu Of Reports</catch_line>
+    <order_by>62G</order_by>
+    <text>
+        In the case of projects for which an environmental impact statement is required under the National Environmental Policy Act of 1969, draft and final federal environmental impact statements may be submitted in lieu of environmental impact reports.
+    </text>
+</law>

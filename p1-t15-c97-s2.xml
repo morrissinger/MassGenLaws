@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Annual Adjustment And Verification Of Compass; Record</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Every land surveyor shall, at least once in every year, adjust and verify his compass by the meridian line so established in the county in which his surveys are to be made, insert in his field notes both the true and the magnetic bearings of the lines of his surveys and the days on which such lines were run and shall enter in a book open to public inspection, to be provided by the commissioners of each county and kept by the clerk of courts, or by a person appointed by the commissioners therefor, the variation of his compass from the true meridian, whether east or west, and shall sign and make oath to such entry.
+    </text>
+</law>

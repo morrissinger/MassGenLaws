@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Annual Finance Plan</catch_line>
+    <order_by>16</order_by>
+    <text>
+        Each fiscal year the department shall submit an annual finance plan to the secretary of administration and finance, and updates to such plan, in accordance with instructions issued by said secretary.
+    </text>
+</law>

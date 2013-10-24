@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Disposition Of Sums Received</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="a">
+    	     Forty per cent of the amount in excess of $169,800,000 received during a fiscal year shall be credited to the Local Aid Fund;
+        </section>
+        <section prefix="b">
+    	     The balance remaining after crediting the amounts required under clause (a) shall be credited to the General Fund.
+        </section>
+    </text>
+</law>

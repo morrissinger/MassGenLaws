@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6I</section_number>
+    <catch_line>Disposal Of Mercury Added Products; Education Program; Discharge Of Mercury Into Water; Scrap Recycling Of Multi Component Products Containing Mercury</catch_line>
+    <order_by>6I</order_by>
+    <text>
+        <section prefix="a">
+    	     No person, household, business, school, healthcare facility or state or municipal government shall knowingly dispose of a mercury-added product in any manner other than by recycling, disposing as hazardous waste or using a method approved by the department.
+        </section>
+        <section prefix="b">
+    	     The department shall implement an education program. This program shall include, but not be limited to, working with municipalities and waste haulers to educate the citizens of the commonwealth about mercury-added products and their proper disposal, including creating signs to post at transfer stations, landfills, recycling centers and municipal buildings.
+        </section>
+        <section prefix="c">
+    	     Mercury from mercury-added products shall not knowingly be discharged into water, wastewater treatment or wastewater disposal systems unless it is done in compliance with applicable local, state and federal requirements.
+        </section>
+        <section prefix="d">
+    	     No person shall knowingly send a multi-component product that contains mercury to a scrap recycling facility for recycling without first removing the mercury-added product or products. Notwithstanding the forgoing, a scrap recycling facility may agree to accept a multi-component product that has not been intentionally flattened, crushed or baled knowing it contains mercury-added product or products. If accepted, the scrap recycling facility shall be responsible for removing such product or products and recycling them or disposing of them as hazardous waste.
+        </section>
+        <section prefix="e">
+    	     Mercury-added formulated products that are cosmetic or pharmaceutical products subject to the regulatory requirements of the Federal Food and Drug Administration relating to mercury are exempt from this section.
+        </section>
+    </text>
+</law>

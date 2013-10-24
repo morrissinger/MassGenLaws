@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43" order_by="43" level="3">City Charters</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Duration Of Plan Adopted</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Should any plan provided for in this chapter be adopted, it shall continue in force for at least four years from the beginning of the terms of office of the officials elected thereunder; and no petition proposing a different plan shall be filed until after three years and six months from such adoption.
+    </text>
+</law>

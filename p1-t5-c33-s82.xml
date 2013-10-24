@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>82</section_number>
+    <catch_line>Fees Of Civilian Witnesses</catch_line>
+    <order_by>82</order_by>
+    <text>
+        The fee of a witness not a member of the military forces of the commonwealth appearing before a military court upon summons thereof, shall be the same as a witness in a civil case before the courts of the commonwealth and shall be paid by the commonwealth upon certification of the state judge advocate filed with the comptroller.
+    </text>
+</law>

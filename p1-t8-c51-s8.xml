@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Persons Omitted From Lists; Certificate</catch_line>
+    <order_by>8</order_by>
+    <text>
+        If a resident in a city or town, except one as to which it is otherwise provided by special law, who is required to be listed under section four as of January first, was not so listed, such person, in order to establish his right to be listed, shall present to the registrars before the close of registration a sworn statement that he was on said day a resident of such city or town. If the registrars are satisfied that such statement is true, they shall list him, and on his request shall give him a certificate thereof.
+    </text>
+</law>

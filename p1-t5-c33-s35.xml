@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Enlisted Personnel; Appointments And Promotions</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The commander-in-chief shall provide, by regulations, how and by whom noncommissioned officers and other enlisted personnel shall be appointed, promoted and reduced.
+    </text>
+</law>

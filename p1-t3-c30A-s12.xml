@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Adjudicatory Proceedings; Subpoenas</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     Agencies shall have the power to issue subpoenas requiring the attendance and testimony of witnesses and the production of any evidence, including books, records, correspondence or documents, relating to any matter in question in the proceeding. Agencies may administer oaths and affirmations, examine witnesses, and receive evidence. The power to issue subpoenas may be exercised by any member of the agency or by any person or persons designated by the agency for such purpose.
+        </section>
+        <section prefix="2">
+    	     The agency may prescribe the form of subpoena, but it shall adhere, in so far as practicable, to the form used in civil cases before the courts. Witnesses shall be summoned in the same manner as witnesses in civil cases before the courts, unless another manner is provided by any law. Witnesses summoned shall be paid the same fees for attendance and travel as in civil cases before the courts, unless otherwise provided by any law.
+        </section>
+        <section prefix="3">
+    	     Any party to an adjudicatory proceeding shall be entitled as of right to the issue of subpoenas in the name of the agency conducting the proceeding. The party may have such subpoenas issued by a notary public or justice of the peace, or he may make written application to the agency, which shall forthwith issue the subpoenas requested. However issued, the subpoena shall show on its face the name and address of the party at whose request the subpoena was issued. Unless otherwise provided by any law, the agency need not pay fees for attendance and travel to witnesses summoned by a party.
+        </section>
+        <section prefix="4">
+    	     Any witness summoned may petition the agency to vacate or modify a subpoena issued in its name. The agency shall give prompt notice to the party, if any, who requested issuance of the subpoena. After such investigation as the agency considers appropriate it may grant the petition in whole or part upon a finding that the testimony, or the evidence whose production is required, does not relate with reasonable directness to any matter in question, or that a subpoena for the attendance of a witness or the production of evidence is unreasonable or oppressive, or has not been issued a reasonable period in advance of the time when the evidence is requested.
+        </section>
+        <section prefix="5">
+    	     Upon the failure of any person to comply with a subpoena issued in the name of the agency and not revoked or modified by the agency as provided in this section, any justice of the superior court, upon application by the agency or by the party who requested that the subpoena be issued, may in his discretion issue an order requiring the attendance of such person before the agency and the giving of testimony or production of evidence. Any person failing to obey the court’s order may be punished by the court for contempt.
+        </section>
+    </text>
+</law>

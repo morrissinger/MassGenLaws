@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19C" order_by="19C" level="3">Disabled Persons Protection Commission</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Completion Of Hearings; Reports; Referrals</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     issue a written report and refer the same to the appropriate state agency. Such report shall contain findings of fact concerning the alleged occurrence of abuse that was the subject of the investigation, together with a finding as to whether or not such abuse did occur and, if so, what actions are necessary to remedy the causes of such abuse or to prevent its reoccurrence;
+        </section>
+        <section prefix="b">
+    	     refer any matters for which there is reason to believe that a crime has been committed to the attorney general, the United States attorney or a district attorney for the county wherein such crime was committed;
+        </section>
+        <section prefix="c">
+    	     refer any matters for which there is reason to believe that employee misconduct has occurred to the state agency employing such person for imposition of disciplinary measures in accordance with the requirements of any applicable law, regulation or collective bargaining agreement; or
+        </section>
+        <section prefix="d">
+    	     refer any matters for which there is reason to believe that misconduct has occurred by a contractor with a state agency or by such contractor’s agent, to the state agency contracting with such party for termination of such contract or for such other action as may be deemed appropriate by such state agency.
+        </section>
+    </text>
+</law>

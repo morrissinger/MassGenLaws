@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Uncollectible Taxes; Abatement</catch_line>
+    <order_by>71</order_by>
+    <text>
+        If a collector is satisfied that a tax upon personal property, or any portion of said tax, committed to him or to any of his predecessors in office for collection, cannot be collected by reason of the death, absence, poverty, insolvency, bankruptcy or other inability of the person assessed to pay, he shall notify the assessors thereof in writing, on oath, stating why such tax cannot be collected. The assessors shall act on such notification within thirty days after its receipt and, after due inquiry, may abate such tax or any part thereof, and shall certify such abatement in writing to the collector; and said certificate shall discharge the collector from further obligation to collect the tax so abated.
+    </text>
+</law>

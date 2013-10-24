@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>105</section_number>
+    <catch_line>Loss Or Damage To Military Property; Liability; Restitution</catch_line>
+    <order_by>105</order_by>
+    <text>
+        <section prefix="a">
+    	     Any officer or enlisted person of the military forces of the commonwealth who damages, loses through carelessness or neglect, carries away, or unlawfully disposes of military property of the United States or of the commonwealth, shall be charged with the money value thereof, as determined by a surveying officer or board of survey detailed or appointed by the commander-in-chief to investigate and report upon the case. Such surveying officer or board of survey shall submit with the report all the evidence bearing upon the loss, damage or disposition of the property.
+        </section>
+        <section prefix="b">
+    	     When military property loaned by the United States government to the commonwealth has suffered loss or damage, the amount of such loss or damage shall be paid to the United States government by the commonwealth on approval of the adjutant general, by withholdings authorized from pay and allowances due the responsible officers of the armed forces of the commonwealth, or from sums paid to the commonwealth by the adjutant general on account of such loss or damage and collected by him from officers of the armed forces responsible therefor, or from their bondsmen.
+        </section>
+    </text>
+</law>

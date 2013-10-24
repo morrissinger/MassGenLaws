@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40M" order_by="40M" level="3">Governmental Units Pooled Insurance</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Refund Of Excess Funds</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="A">
+    	     Any monies for a fund year in excess of the amount necessary to fund all obligations, including reserves for claims and reserves for incurred but not reported claims for that fund year may be declared to be refundable by the board of trustees not less than six months after the end of the fund year.
+        </section>
+        <section prefix="B">
+    	     Each member shall be given a written description of the refund plan at the time of application for membership. A refund for any fund year shall be paid only to those employers who remain participants in the group for the entire fund year.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Expenses Incurred Under General Court Order; Approval</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Accounts for expenditures made or services rendered under an order of the general court or of either branch thereof, other than by legislative committees, may be approved by the president or speaker, by the sergeant-at-arms, or by any other person to whose direction or supervision such expenditures or services have been specially intrusted.
+    </text>
+</law>

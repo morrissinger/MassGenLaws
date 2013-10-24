@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Instruments Affecting Mortgages Registered In Different Counties</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If an assignment, extension, partial release, release or discharge of a mortgage of land, or a certificate of the taking or surrender of possession for foreclosure of such mortgage, or an affidavit of notice of sale under a power of sale therein, or an execution for possession of the premises conveyed thereby or any other instrument purporting to affect the same, has been recorded in the county where the land lies, and the original mortgage was not recorded in the same registry, the register of the county where such mortgage was originally recorded, upon exhibition to him at the registry of such instrument purporting to affect the same, shall enter upon the margin of the record of the mortgage a note of reference to the record of such instrument.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Hearing; Delivery And Return Of Revoked Or Cancelled License</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Before declining to grant a license of any type, or suspending or revoking a license, the commissioner shall hold a hearing and grant the applicant or licensee an opportunity to be heard in person or by attorney. A duly attested copy of the order of the commissioner upon such hearing shall be served upon the applicant or the licensee in the manner provided by section nineteen.
+        </section>
+        <section prefix="b">
+    	     Any licensee whose license has been revoked or cancelled shall upon notice thereof forthwith deliver and return said license to the commissioner or to any authorized representative of the commissioner.
+        </section>
+    </text>
+</law>

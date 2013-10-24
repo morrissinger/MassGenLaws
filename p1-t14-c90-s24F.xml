@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>24F</section_number>
+    <catch_line>Civil Liability To Owner For Unauthorized Use Of Motor Vehicle</catch_line>
+    <order_by>24F</order_by>
+    <text>
+        Persons convicted of using a motor vehicle without authority under the provisions of paragraph (a) of subdivision (2) of section twenty-four shall be liable in a civil action to the owner of such vehicle, if it is recovered, for all towing and storage charges necessitated and all property damage caused to said vehicle by such use without authority.
+    </text>
+</law>

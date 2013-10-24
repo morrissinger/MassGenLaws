@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49Q</section_number>
+    <catch_line>Service Of Process; Proof Of Service</catch_line>
+    <order_by>49Q</order_by>
+    <text>
+        <section prefix="a">
+    	     Service of process as provided for in section fifty shall be made by serving the original thereof and a copy of the declaration upon the chairman of the commission or by filing the same in his office, together with a fee of two dollars and by the mailing of a copy of such process and of the declaration by the plaintiff or his attorney to the defendant, and to each of the defendants if more than one, at his last known address, within ten days thereafter by registered mail. In lieu of such mailing to such defendant in another state, plaintiff may cause a copy of the declaration and process to be served personally in such other state upon such defendant by any disinterested person, by actually delivering the same to such defendant or by offering to make such delivery in case the defendant refuses to accept delivery.
+        </section>
+        <section prefix="b">
+    	     Proof of the service of such process upon the chairman of the commission or the filing thereof in his office, and proof of the mailing or personal delivery thereof to the defendant shall be made by the affidavit of the person doing the acts, which shall be filed in the office of the clerk of the court in which the suit is filed. Process shall be deemed to be completed upon the filing of such affidavit and of the original registry receipt if service is obtained by mail.
+        </section>
+    </text>
+</law>

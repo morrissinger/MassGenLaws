@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Documents; Issuance; Fees</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     For a certificate of release of any lien imposed by this chapter, a certificate of discharge of any property subject to any lien imposed by this chapter, or a certificate that particular property is free of any lien imposed by this chapter.
+        </section>
+        <section prefix="b">
+    	     For a certificate showing no tax is due under this chapter as a result of the death of a specified decedent.
+        </section>
+        <section prefix="c">
+    	     For a copy of a computation sheet showing the computation of the tax due under this chapter as a result of the death of a specified decedent.
+        </section>
+        <section prefix="d">
+    	     For a certificate showing the amount of tax paid under this chapter.
+        </section>
+        <section prefix="e">
+    	     For a duplicate copy of a notice of assessment showing the amount of any tax assessed under this chapter.
+        </section>
+        <section prefix="f">
+    	     For a duplicate copy of a receipt showing the amount of any tax paid under this chapter.
+        </section>
+    </text>
+</law>

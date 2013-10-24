@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Disobedience Of Orders; Penalty</catch_line>
+    <order_by>45</order_by>
+    <text>
+        If an officer neglects or refuses to obey such order of the commander-in-chief or such precept, or if any officer or enlisted person fails to obey an order issued in pursuance thereof, he shall be punished as a court-martial may direct.
+    </text>
+</law>

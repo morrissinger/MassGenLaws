@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93A" order_by="93A" level="3">Regulation Of Business Practices For Consumers Protection</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Examination Of Books And Records; Attendance Of Persons; Notice</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     The attorney general, whenever he believes a person has engaged in or is engaging in any method, act or practice declared to be unlawful by this chapter, may conduct an investigation to ascertain whether in fact such person has engaged in or is engaging in such method, act or practice. In conducting such investigation he may (a) take testimony under oath concerning such alleged unlawful method, act or practice; (b) examine or cause to be examined any documentary material of whatever nature relevant to such alleged unlawful method, act or practice; and (c) require attendance during such examination of documentary material of any person having knowledge of the documentary material and take testimony under oath or acknowledgment in respect of any such documentary material. Such testimony and examination shall take place in the county where such person resides or has a place of business or, if the parties consent or such person is a nonresident or has no place of business within the commonwealth, in Suffolk county.
+        </section>
+        <section prefix="2">
+    	     Notice of the time, place and cause of such taking of testimony, examination or attendance shall be given by the attorney general at least ten days prior to the date of such taking of testimony or examination.
+        </section>
+        <section prefix="3">
+    	     Service of any such notice may be made by (a) delivering a duly executed copy thereof to the person to be served or to a partner or to any officer or agent authorized by appointment or by law to receive service of process on behalf of such person; (b) delivering a duly executed copy thereof to the principal place of business in the commonwealth of the person to be served; or (c) mailing by registered or certified mail a duly executed copy thereof addressed to the person to be served at the principal place of business in the commonwealth or, if said person has no place of business in the commonwealth, to his principal office or place of business.
+        </section>
+        <section prefix="4">
+    	     Each such notice shall (a) state the time and place for the taking of testimony or the examination and the name and address of each person to be examined, if known, and, if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs; (b) state the statute and section thereof, the alleged violation of which is under investigation and the general subject matter of the investigation; (c) describe the class or classes of documentary material to be produced thereunder with reasonable specificity, so as fairly to indicate the material demanded; (d) prescribe a return date within which the documentary material is to be produced; and (e) identify the members of the attorney general’s staff to whom such documentary material is to be made available for inspection and copying.
+        </section>
+        <section prefix="5">
+    	     No such notice shall contain any requirement which would be unreasonable or improper if contained in a subpoena duces tecum issued by a court of the commonwealth; or require the disclosure of any documentary material which would be privileged, or which for any other reason would not be required by a subpoena duces tecum issued by a court of the commonwealth.
+        </section>
+        <section prefix="6">
+    	     Any documentary material or other information produced by any person pursuant to this section shall not, unless otherwise ordered by a court of the commonwealth for good cause shown, be disclosed to any person other than the authorized agent or representative of the attorney general, unless with the consent of the person producing the same; provided, however, that such material or information may be disclosed by the attorney general in court pleadings or other papers filed in court.
+        </section>
+        <section prefix="7">
+    	     At any time prior to the date specified in the notice, or within twenty-one days after the notice has been served, whichever period is shorter, the court may, upon motion for good cause shown, extend such reporting date or modify or set aside such demand or grant a protective order in accordance with the standards set forth in Rule 26(c) of the Massachusetts Rules of Civil Procedure. The motion may be filed in the superior court of the county in which the person served resides or has his usual place of business, or in Suffolk county. This section shall not be applicable to any criminal proceeding nor shall information obtained under the authority of this section be admissible in evidence in any criminal prosecution for substantially identical transactions.
+        </section>
+    </text>
+</law>

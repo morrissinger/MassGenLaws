@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>272</section_number>
+    <catch_line>Labeling; Manner; Power Of Department; Reciprocity; Removal Of Labels</catch_line>
+    <order_by>272</order_by>
+    <text>
+        <section prefix="a">
+    	     Whether the concealed materials are new or secondhand. If the materials are wholly new, the heading shall read “All New Material”. If the materials are in whole or in part secondhand, the heading shall read “Secondhand Material”.
+        </section>
+        <section prefix="b">
+    	     An accurate description of the kind of material used for filling including an accurate statement as to the percentage of the components of said filling material in accordance with the regulations of the department. In the case of feathers and mixtures thereof or articles containing such mixtures, the label shall specify the kind of fowl from which the feathers were obtained and the physical condition of such feathers. If an article contains down, the term down may be used without further description if the contents consist wholly of said material. If, however, the article is labeled goose or duck down it shall consist wholly of down derived from said fowl. If the article is labeled as containing a mixture of goose and duck down, the label shall specify the percentage of each. In the case of mattresses, upholstered furniture or stuffed toys containing hair, the label shall specify the animal source of such hair. In all regulations requiring percentages to be specified upon the label, the department may include generally accepted tolerances.
+        </section>
+        <section prefix="c">
+    	     If sterilized, the statement “Contents Sterilized”.
+        </section>
+        <section prefix="d">
+    	     The serial number of the manufacturer, assigned by the department.
+        </section>
+    </text>
+</law>

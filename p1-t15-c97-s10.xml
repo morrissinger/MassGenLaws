@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Coordinates, Definition</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The plane rectangular coordinates of a point on the earth’s surface, shall be used in expressing the position or location of such point in the appropriate zone of said system, and shall consist of two distances, either expressed in meters and decimals of meters or in the United States survey feet and decimals of a foot. One of these distances, to be known as the easting or “X” coordinate shall give the position in an east-west direction; the other to be known as the northing or “Y” coordinate shall give the position in a north-south direction. Such coordinates shall be made to depend upon and conform to the plane rectangular metric coordinates values for the horizontal control stations of the North American Horizontal, Geodetic Control Network as published by said National Ocean Service, National Geodetic Survey or its successors, and whose plane coordinates have been computed on the systems defined in this chapter.
+    </text>
+</law>

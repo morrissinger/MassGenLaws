@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>98</section_number>
+    <catch_line>Back Taxes; Actions To Recover</catch_line>
+    <order_by>98</order_by>
+    <text>
+        No action to recover back a tax shall be maintained, except as provided in sections sixty and eighty-five, unless commenced within three months after payment of the tax nor unless such tax is paid either after an arrest of the person paying it, a levy on his goods, a notice of a sale of his land, a written protest signed by him, or a withholding of money due him under section ninety-three. In an action founded on an error or irregularity in the assessment or apportionment of a tax, only the amount in excess of the tax for which the plaintiff was liable shall be recoverable; and no sale, contract or levy shall be avoided solely by reason of such error or irregularity.
+    </text>
+</law>

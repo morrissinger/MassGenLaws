@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Increase Of Services Or Supplies Specified In Contract</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="1">
+    	     the unit prices remain the same or less;
+        </section>
+        <section prefix="2">
+    	     the procurement officer has specified in writing that an increase is necessary to fulfill the actual needs of the governmental body and is more economical and practical than awarding another contract;
+        </section>
+        <section prefix="3">
+    	     the parties agree to the increase in writing; and
+        </section>
+        <section prefix="4">
+    	     the increase in the total contract price does not exceed 25 per cent but a contract for the purchase of gasoline, special fuel, fuel oil, road salt or other ice and snow control supplies shall not be subject to this limit; and
+        </section>
+        <section prefix="5">
+    	     the governmental body, with the agreement of the contractor, may reduce the unit price for supplies or services or both specified in a contract to be paid by the governmental body at any time during the term of the contract or when an option to renew, extend or purchase is exercised.
+        </section>
+    </text>
+</law>

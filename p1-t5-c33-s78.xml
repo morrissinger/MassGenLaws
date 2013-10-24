@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>78</section_number>
+    <catch_line>Execution Of Processes And Sentences; Duties Of Jailor; Payment Of Costs; Disposition Of Fines</catch_line>
+    <order_by>78</order_by>
+    <text>
+        <section prefix="a">
+    	     All processes and sentences of courts-martial shall be executed by an officer qualified to serve criminal process, and commitment under said sentences may be made to any jail or house of correction in the commonwealth. The master, or keeper, of the jail or house of correction to which a person is sentenced shall receive and detain him in the same manner as if he had been sentenced by a civil court sitting in the county where such jail or house of correction is situated. The necessary charges shall be paid by the commonwealth on vouchers in duplicate submitted to and approved by the adjutant general.
+        </section>
+        <section prefix="b">
+    	     All fines assessed by a court-martial and collected or withheld shall be paid to the commonwealth through the adjutant general subject to such regulations as he may describe.
+        </section>
+    </text>
+</law>

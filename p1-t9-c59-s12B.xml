@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>12B</section_number>
+    <catch_line>Mortgagors And Mortgagees Deemed Joint Owners; Tax Bill</catch_line>
+    <order_by>12B</order_by>
+    <text>
+        Mortgagors and mortgagees referred to in the two preceding sections shall for the purpose of taxation be deemed joint owners until the mortgagee takes possession; and until such possession is taken by a first mortgagee, an assessor or the collector of taxes, upon application, shall give to any such mortgagee or mortgagor a tax bill showing the whole tax on the mortgaged estate and the amount included in the valuation thereof as the interest of each mortgagee and of the mortgagor respectively. If the first mortgagee is in possession, he shall be deemed sole owner; and any other mortgagee in possession shall be deemed joint owner with prior mortgagees.
+    </text>
+</law>

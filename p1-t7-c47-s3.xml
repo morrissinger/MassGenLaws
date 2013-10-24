@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="47" order_by="47" level="3">Infirmaries</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Meetings Of Directors; Promulgation Of Rules And Regulations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The directors shall at least monthly hold general meetings at which they may make orders and regulations for the infirmary, to be binding until the next meeting of the town or of the city council, when the same shall be submitted to such meeting, and if approved shall remain in force until revoked by the town or by the city council.
+    </text>
+</law>

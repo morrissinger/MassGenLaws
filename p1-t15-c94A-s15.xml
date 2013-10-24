@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Sale By Co Operative Associations; Statement Of Deductions</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     No sale of milk by a co-operative association to a milk dealer in any market shall be made at less than the applicable minimum prices, terms and conditions of sale as set forth in the orders of the commissioner for milk bought directly from producers who are nonmembers of a co-operative association.
+        </section>
+        <section prefix="b">
+    	     When the net return to be made for milk by a co-operative association to its members is below the net applicable return for milk as fixed by the orders of the commissioner for a nonmember of a co-operative association, said co-operative association shall submit in writing to the commission a full and complete statement in detail, setting forth the amount of the deductions which have been made from the fixed minimum prices of the commissioner and, in addition, a detailed statement of such deductions shall accompany every such payment to the member.
+        </section>
+    </text>
+</law>

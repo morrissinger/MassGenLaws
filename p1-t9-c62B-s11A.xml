@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Penalties</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        In addition to any criminal penalty provided by law, if (1) any individual makes a statement under section four which results in a decrease in the amount deducted or withheld under this chapter, and (2) as of the time of such statement was made, there was no reasonable basis for such statement, such individual shall pay a penalty of five hundred dollars for such statement. 
+Said penalty shall be paid upon notice by the commissioner and shall be assessed and collected in the same manner as a tax. 
+The commissioner may waive, in whole or in part, the penalty imposed under this section if the taxes imposed with respect to the individual under chapter sixty-two for the taxable year are equal to or less than the sum of the credits against such taxes allowed by chapter sixty-two and this chapter.
+    </text>
+</law>

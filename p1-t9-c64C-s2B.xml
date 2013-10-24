@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>Test Method And Performance Standard For Cigarettes Offered For Sale Or Sold To Persons Located In Commonwealth</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        <section prefix="a">
+    	     No cigarettes may be sold or offered for sale in the commonwealth or offered for sale or sold to persons located in the commonwealth unless the cigarettes have been tested in accordance with the test method prescribed in this section and meet the performance standard specified in this section and unless a written certification has been filed by the manufacturer with the secretary in accordance with section 2C. Such test method and performance standard shall require that:
+        </section>
+        <section prefix="1">
+    	     testing of cigarettes shall be conducted in accordance with the American Society of Testing and Materials, or “ASTM”, standard E2187-04 “Standard Test Method for Measuring the Ignition Strength of Cigarettes”;
+        </section>
+        <section prefix="2">
+    	     testing shall be conducted on 10 layers of filter paper;
+        </section>
+        <section prefix="3">
+    	     no more than 25 per cent of the cigarettes tested in a test trial in accordance with this section shall exhibit full-length burns. Forty replicate tests shall comprise a complete test trial for each cigarette tested;
+        </section>
+        <section prefix="4">
+    	     the performance standard required by this section shall only be applied to a complete test trial; and
+        </section>
+        <section prefix="5">
+    	     laboratories conducting testing in accordance with this section shall implement a quality control and quality assurance program that includes a procedure to determine the repeatability of the testing results. The repeatability value shall be no greater than 0.19.
+        </section>
+        <section prefix="b">
+    	     Each cigarette listed in a certification submitted pursuant to section 2C that uses lowered permeability bands in the cigarette paper to achieve compliance with the performance standard set forth in this section shall have at least 2 nominally identical bands on the paper surrounding the tobacco column. At least 1 complete band shall be located at least 15 millimeters from the lighting end of the cigarette. For cigarettes on which the bands are positioned by design, there shall be at least 2 bands fully located at least 15 millimeters from the lighting end and 10 millimeters from the filter end of the tobacco column, or 10 millimeters from the labeled end of the tobacco column for a non-filtered cigarette.
+        </section>
+        <section prefix="c">
+    	     The manufacturer or manufacturers of a cigarette that the secretary determines cannot be tested in accordance with the test method prescribed in subsection (a) shall propose a test method and performance standard for such cigarette to the secretary. Upon approval of the proposed test method and a determination by the secretary, in consultation with the commissioner of the department of public health, that the performance standard proposed by the manufacturer or manufacturers is equivalent to the performance standard prescribed in subsection (a), the manufacturer or manufacturers may employ such test method and performance standard to certify such cigarette pursuant to section 2C. All other applicable requirements of this section shall apply to such manufacturer or manufacturers.
+        </section>
+        <section prefix="d">
+    	     In order to ensure compliance with the performance standard specified in subsection (a) or (c), data from testing conducted, or caused to be conducted, by manufacturers to comply shall be kept on file by such manufacturers for a period of 3 years and shall, upon request, be sent to the secretary and to the attorney general.
+        </section>
+        <section prefix="e">
+    	     The secretary may adopt, by regulation, a subsequent ASTM standard test method or any other state’s cigarette test method, upon a finding that such subsequent method does not result in a decrease in the percentage of full-length burns exhibited by any tested cigarette when compared to the percentage of full-length burns the same cigarette would exhibit when tested in accordance with ASTM Standard E2187-04.
+        </section>
+        <section prefix="f">
+    	     The secretary, in consultation with the state fire marshal, shall review the effectiveness of this section, annually, and provide the joint committee on public safety and the committees on ways and means a report detailing his findings and recommendations for legislation, if any, to improve the effectiveness of this section. The report and recommendations shall be submitted not later than June 30th each year.
+        </section>
+        <section prefix="g">
+    	     Nothing in this section shall prohibit any person or entity from manufacturing or selling cigarettes that do not meet the requirements of this section if such cigarettes are or will be stamped for sale in another state or are packaged for sale outside the United States and if the person or entity has taken reasonable steps to ensure that such cigarettes will not be sold or offered for sale to persons located in the commonwealth.
+        </section>
+        <section prefix="h">
+    	     This section shall not require additional testing if cigarettes are tested to satisfy another purpose, but are tested in a manner that satisfies this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60B" order_by="60B" level="3">Excise On Boats, Ships And Vessels In Lieu Of Local Property Tax</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Excise Taxes</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as hereinafter provided there shall be assessed and levied by each city and town in each fiscal year on every vessel, and its equipment, for the privilege of using the waterways of the commonwealth, an excise measured by the value thereof, as hereinafter defined and determined, at the rate of ten dollars per thousand of valuation.
+        </section>
+        <section prefix="b">
+    	     Any person who owns such a vessel on July first shall annually, on or before August first, make a return on oath to the assessors of the city or town where such vessel is habitually moored or docked, or in the case of a vessel which has no mooring or docking space, where said vessel is principally situated, setting forth the vessel’s registration or documentation number, if any; an adequate description, as well as the owner’s estimate of the fair cash value of said vessel and any engine or motor used to propel said vessel, as of the next preceding July first; and the place of habitual mooring or docking or other principal location of said vessel.
+        </section>
+        <section prefix="c">
+    	     For the purpose of computing the excise under this chapter the value of each such vessel, and its equipment, shall be deemed to be the fair cash value as determined by the assessors of each city and town, but not in excess of the following values:
+        </section>
+        <section prefix="d">
+    	     The payment of such excise shall exempt such owner from any other tax applicable to said vessels and their equipment under chapter fifty-nine.
+        </section>
+        <section prefix="e">
+    	     If an owner fails to make such a return within the time herein provided, the assessors may abate the tax otherwise imposed by this chapter if such owner provides the assessors with a reasonable excuse for failure to file such return and if the return is filed on or before October thirty-first of the year in which the tax is assessed; but no abatement hereunder shall reduce the tax otherwise imposed to an amount less than the sum of the excise imposed by this section plus fifty per cent thereof.
+        </section>
+        <section prefix="f">
+    	     Said excise shall be assessed in the city or town where the vessel is habitually moored or docked, or in the case of a ship or vessel which has no mooring or docking space, where the ship or vessel is principally situated; provided, however, that if more than one municipality owns property in a harbor, the municipality which maintains such harbor in which the vessel is habitually moored, docked or situated shall assess and collect said excise; and provided, further, that where more than one municipality maintains portions of the harbor, the municipality which maintains that portion of the harbor in which the vessel is habitually moored, docked or situated shall assess and collect said excise.
+        </section>
+        <section prefix="g">
+    	     Nothing in this section shall be construed to prevent the board of assessors from granting an abatement in any case in which the excise aforesaid is, in the opinion of the board, excessive.
+        </section>
+        <section prefix="h">
+    	     If during any fiscal year ownership of a boat subject to an excise under this chapter is transferred by sale or otherwise, or if during any fiscal year the owner of a boat subject to such an excise removes to another state and registers a boat in such other state and surrenders or does not renew his registration in this state, the excise under this chapter shall be reduced, upon application, by an abatement equal to the proportion of an excise under this chapter on such boat for the full fiscal year which the number of months in said year remaining after the month in which such transfer by sale or otherwise or such surrender or expiration of registration occurs bears to twelve.
+        </section>
+        <section prefix="i">
+    	     All sums received from the excise imposed under this chapter shall be paid into the treasury of the city or town and fifty per cent of said excise shall be credited to the municipal waterways improvement and maintenance fund established under the provisions of section five G of chapter forty.
+        </section>
+    </text>
+</law>

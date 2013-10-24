@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12A" order_by="12A" level="3">Office Of Inspector General</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Civil Actions</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The inspector general shall have the authority to institute a civil recovery action if authorized by the attorney general. In any case where the inspector general has discovered fraudulent acts and believes that civil recovery proceedings may be appropriate, he shall refer the matter to the attorney general. The attorney general may institute whatever proceedings he deems appropriate, may refer the matter to another state or local agency, may authorize the institution of appropriate civil proceedings by the inspector general, may retain the matter for further investigation, or may remand the matter to the inspector general for further investigation.
+    </text>
+</law>

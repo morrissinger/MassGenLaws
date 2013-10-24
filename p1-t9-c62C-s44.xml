@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Sale Of Business; Withholdings To Cover Tax; Liability Of Purchaser;  Certificate From Commissioner</catch_line>
+    <order_by>44</order_by>
+    <text>
+        <section prefix="a">
+    	     If any vendor liable for any amount under chapters sixty-four H or sixty-four I sells out his business or stock of goods or quits the business, his successors or assigns shall withhold a sufficient portion of the purchase price to cover such amount until the former owner produces a certificate from the commissioner showing that it has been paid or that no amount is due. Said certificate shall also indicate that the seller’s obligations to the Employment Security Fund pursuant to section fourteen of chapter one hundred and fifty-one A are not included on said certificate.
+        </section>
+        <section prefix="b">
+    	     If the purchaser of a business or stock of goods fails to withhold the portion of the purchase price as required by paragraph (a) he shall become personally liable for the payment of the amount required to be withheld by him to the extent of the purchase price valued in money. Within ninety days after receiving a written request from the purchaser for a certificate, the commissioner shall either issue the certificate or mail a notice to the purchaser at his address as it appears on the records of the commissioner of the amount that must be paid as a condition of issuing the certificate. Failure of the commissioner to mail the notice shall release the purchaser from any further obligation to withhold purchase price as above provided. The time within which the obligation of the successor may be enforced shall start to run at the time the vendor sells out his business or stock of goods or at the time the assessment against the vendor becomes final, whichever event occurs later.
+        </section>
+    </text>
+</law>

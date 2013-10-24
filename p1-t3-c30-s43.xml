@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Fees For Copying Records; Keeping By Employees; Penalties</catch_line>
+    <order_by>43</order_by>
+    <text>
+        No person employed in any state department shall receive for his own use any fee for copying public records or documents, or for other services during office hours, but all fees therefor shall be paid to the commonwealth. Whoever violates this section shall be punished by a fine of not more than one hundred dollars and shall be disqualified for employment in any state department.
+    </text>
+</law>

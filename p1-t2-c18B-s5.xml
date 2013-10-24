@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18B" order_by="18B" level="3">Department Of Social Services</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Federal Requirements; Additional Services; Inspection Of Records</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The department shall make provision for such social services as are required under Title XX and Title IV B of the Social Security Act and the regulations established thereunder and shall provide such additional services as the general court may determine. 
+In order to assure the fullest possible reimbursement from the federal government, the records of the department shall be open for inspection by representatives of the federal government for fiscal purposes including, but not limited to audit, the approval or authorization of payments for assistance to children or families, or for any other purpose directly connected with the administration of such payments for assistance.
+    </text>
+</law>

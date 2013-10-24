@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22" order_by="22" level="3">Department Of Public Safety</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Commissioner; Division Of Inspection; Board Of Building Regulations</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The commissioner shall be the executive and administrative head of the department. There shall be in the department a division of inspection as established by section four A, under the charge of a director to be known as the chief of inspections. There shall be in the department a board to be known as the board of building regulations, established under section 93 of chapter 143.
+    </text>
+</law>

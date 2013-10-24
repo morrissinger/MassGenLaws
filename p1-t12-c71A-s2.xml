@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71A" order_by="71A" level="3">English Language Education In Public Schools</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     “Bilingual education” means a language acquisition process for students in which all or substantial portions of the instruction, textbooks, or teaching materials are in the child’s native language other than English.
+        </section>
+        <section prefix="b">
+    	     “English language classroom” means a classroom in which the language of instruction used by the teaching personnel is overwhelmingly the English language, and in which such teaching personnel are fluent and literate in English. English language classrooms encompass both English language mainstream classrooms and sheltered English immersion classrooms.
+        </section>
+        <section prefix="c">
+    	     “English language mainstream classroom” means a standard classroom, one in which the students either are native English language speakers or already have acquired reasonable fluency in English.
+        </section>
+        <section prefix="d">
+    	     “English learner” means a child who does not speak English or whose native language is not English, and who is not currently able to perform ordinary classroom work in English.
+        </section>
+        <section prefix="e">
+    	     “Sheltered English immersion” means an English language acquisition process for young children in which nearly all classroom instruction is in English but with the curriculum and presentation designed for children who are learning the language. Books and instruction materials are in English and all reading, writing, and subject matter are taught in English. Although teachers may use a minimal amount of the child’s native language when necessary, no subject matter shall be taught in any language other than English, and children in this program learn to read and write solely in English. This educational methodology represents the standard definition of “sheltered English” or “structured English” found in educational literature.
+        </section>
+    </text>
+</law>

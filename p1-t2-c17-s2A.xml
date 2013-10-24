@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="17" order_by="17" level="3">Department Of Public Health</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Powers Of Commissioner Upon Declaration Of Emergency</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        Upon declaration by the governor that an emergency exists which is detrimental to the public health, the commissioner may, with the approval of the governor and the public health council, during such period of emergency, take such action and incur such liabilities as he may deem necessary to assure the maintenance of public health and the prevention of disease. 
+The commissioner, with the approval of the public health council, may establish procedures to be followed during such emergency to insure the continuation of essential public health services and the enforcement of the same. 
+Upon declaration by the governor that such emergency has terminated, all powers granted to and exercised by the commissioner under this section shall terminate.
+    </text>
+</law>

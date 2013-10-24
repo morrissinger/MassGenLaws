@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Detention Of Goods Distrained; Notice; Sale</catch_line>
+    <order_by>25</order_by>
+    <text>
+        The collector may keep the goods distrained, at the expense of the owner and, if they are not redeemed by payment by the owner or his agent of the tax due, shall within thirty days after the seizure, sell them by public auction for a payment of the tax and charges of keeping and sale, first posting notice of the sale in some public place in the town at least forty-eight hours prior thereto.
+    </text>
+</law>

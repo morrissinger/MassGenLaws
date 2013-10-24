@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Qualified Terminable Interest Property</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        <section prefix="a">
+    	     In the case of qualified terminable interest property, (i) for purposes of subsection (a) of section two thousand and fifty-six of the Code, such property shall be treated as passing to the surviving spouse, and (ii) for purposes of subsection (b)(1)(A) of section two thousand and fifty-six of the Code, no part of such property shall be treated as passing to any person other than the surviving spouse; provided, however, that a deduction with respect to such terminable interest property shall not be limited by subsection (c) of section two thousand and fifty-six of the Code.
+        </section>
+        <section prefix="b">
+    	     For purposes of this section, the term “qualified terminable interest property” shall mean property (i) which is included in the Massachusetts gross estate, (ii) which passes from the decedent, (iii) in which the surviving spouse has a qualifying income interest for life, and (iv) to which an election under this section applies.
+        </section>
+        <section prefix="c">
+    	     The surviving spouse has a qualifying income interest for life if (i) the surviving spouse is entitled to all the income from the property, payable annually or at more frequent intervals, and (ii) no person has a power to appoint any part of the property to any person other than the surviving spouse. Clause (ii) of this subsection shall not apply to a power exercisable only at or after the death of the surviving spouse.
+        </section>
+        <section prefix="d">
+    	     The term “property” includes an interest in property.
+        </section>
+        <section prefix="e">
+    	     A specific portion of property shall be treated as separate property.
+        </section>
+        <section prefix="f">
+    	     An election under this section with respect to any property shall be made by the executor on the Massachusetts estate tax return filed within the time prescribed for filing such return, or any extension of such time granted by the commissioner, to have the property treated as qualified terminable interest property for Massachusetts estate tax purposes. Such election, once made, shall be irrevocable and shall be separate from and independent of any election made by the executor for federal estate tax purposes.
+        </section>
+        <section prefix="g">
+    	     If the surviving spouse of the decedent is the only noncharitable beneficiary of a qualified charitable remainder trust, subsection (b)(1) of section two thousand and fifty-six of the Code shall not apply to any interest in such trust which passes or has passed from the decedent to such surviving spouse. For purposes of the preceding sentence, the term “noncharitable beneficiary” shall mean any beneficiary of the qualified charitable remainder trust other than an organization described in subsection (c) of section one hundred and seventy of the Code and the term “qualified charitable remainder trust” shall mean a charitable remainder annuity trust or charitable remainder unitrust as described in section six hundred and sixty-four of the Code.
+        </section>
+        <section prefix="h">
+    	     Nothing in this section or any other provision of this chapter shall allow the value of any interest in property to be deducted under this chapter more than once with respect to the same decedent.
+        </section>
+    </text>
+</law>

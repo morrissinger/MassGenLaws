@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     the capability of operating only on alternative fuel;
+        </section>
+        <section prefix="b">
+    	     its original use was commenced with the taxpayer;
+        </section>
+        <section prefix="c">
+    	     acquired by the taxpayer for use or lease, but not for resale;
+        </section>
+        <section prefix="d">
+    	     is designed to use and uses alternative fuel for a significant portion of the total fuel used for propulsion energy for the vehicle; and
+        </section>
+        <section prefix="e">
+    	     when operating on petroleum fuel, the vehicle model’s miles per gallon rating from the United States Environmental Protection Agency exceeds the agency’s corporate average fuel economy requirement for the class of vehicles, whether cars or light trucks, in which the vehicle model is classified. The model specification shall include characteristics that affect fuel economy and for which the United States Environmental Protection Agency issues distinct miles per gallon ratings, such as transmission type and engine size.
+        </section>
+    </text>
+</law>

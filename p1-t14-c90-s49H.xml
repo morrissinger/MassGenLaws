@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49H</section_number>
+    <catch_line>Certificate Of Registration Or Non Resident’S Operating Privilege;  Allowance; Suspension; Notice</catch_line>
+    <order_by>49H</order_by>
+    <text>
+        <section prefix="a">
+    	     In case the operator or owner of an aircraft involved in an accident within the commonwealth has no certificate of registration, or is a non-resident, he shall not be allowed a certificate of registration or a non-resident’s operating privilege, until he has complied with the requirements of sections forty-nine B to forty-nine R, inclusive.
+        </section>
+        <section prefix="b">
+    	     When a non-resident’s operating privilege is suspended pursuant to section forty-nine D or section forty-nine F, the commission shall transmit a certified copy of the record of such action to the official or department regulating the operation of aircraft in the state in which the non-resident resides, if the law of the other state provides for action in relation thereto, similar to that provided for in subsection (c).
+        </section>
+        <section prefix="c">
+    	     Upon receipt of notice that the operating privilege of a resident of the commonwealth has been suspended or revoked in any other state pursuant to a law providing for its suspension or revocation for failure to deposit security for the payment of judgments arising out of an aircraft accident, under circumstances which would require the commission to suspend a non-resident’s operating privilege had the accident occurred in the commonwealth, the commission upon ten days’ notice shall suspend his registration if he were the operator of an aircraft involved in the accident, or if he were the owner of an aircraft involved in the accident and was legally responsible for its operation. Such suspension shall continue until the resident furnishes evidence of his compliance with the security requirements of the law of the other state.
+        </section>
+    </text>
+</law>

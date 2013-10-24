@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Annual Personnel Report</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        The state treasurer shall file an annual report not later than the first Wednesday in February with the senate and house committees on ways and means containing the job classification, duties and salary of each officer and employee within the department and all personnel regulations established pursuant to section five. The treasurer shall file amendments to such report with the senate and house committees on ways and means whenever any changes become effective.
+    </text>
+</law>

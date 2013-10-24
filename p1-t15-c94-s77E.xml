@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>77E</section_number>
+    <catch_line>Marking Of Imported Fish Formerly In Cold Storage</catch_line>
+    <order_by>77E</order_by>
+    <text>
+        No person shall deposit or cause to be deposited in cold storage for a period exceeding six months fish received from any other state or country which have been previously in cold storage either within or without this commonwealth, unless at the time of deposit such fish are plainly marked with the date of their original deposit in cold storage, whether within or without.
+    </text>
+</law>

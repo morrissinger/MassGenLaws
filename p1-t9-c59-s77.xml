@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>77</section_number>
+    <catch_line>Reassessments</catch_line>
+    <order_by>77</order_by>
+    <text>
+        Every tax except a poll tax, which is invalid by reason of error or irregularity in the assessment and every tax on land which, by reason of such error or irregularity, does not constitute a valid lien on such land, may, if it has not been paid in full, or if it has been recovered back, or if it has been paid under such circumstances that it can be recovered back, be reassessed by the assessors for the time being, to the just amount to which, on the estate on which, and to the person to whom, it ought at first to have been assessed, whether such person has continued an inhabitant of the town or not. A reassessed tax on land shall be a lien thereon for the same period and under the same conditions as the original tax, if it had constituted a valid lien, would be, except where the reassessment is made after such period has expired. The reassessment of a tax on land shall not be defeated by an alienation of such land; but a reassessed tax on land shall be a lien thereon only as herein provided.
+    </text>
+</law>

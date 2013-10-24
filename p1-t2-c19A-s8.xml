@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Employees; Appointments And Removal; Age Restriction</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The secretary, subject to appropriation, shall appoint and may remove all employees in the department. Unless otherwise provided by law, all such appointments and removals shall be in accordance with chapter thirty-one. 
+In making such appointments, the secretary shall make every reasonable effort to assure that at least twenty-five per cent of all employees of the department are fifty-five years of age or older.
+    </text>
+</law>

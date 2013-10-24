@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>76</section_number>
+    <catch_line>Revision Of Valuation Or Classification</catch_line>
+    <order_by>76</order_by>
+    <text>
+        If any property subject to taxation has been unintentionally valued or classified in an incorrect manner due to clerical or data processing error or other good faith reason or due to discovery upon an examination of the books, papers, records and other data under section 31A that the property was not accurately or properly reported, the assessors shall revise its valuation or classification and shall assess any additional taxes resulting from such revision in the manner and within the time provided by section seventy-five and subject to its provisions.
+    </text>
+</law>

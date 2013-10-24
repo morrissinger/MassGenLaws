@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>178D</section_number>
+    <catch_line>Sex Offender Registry</catch_line>
+    <order_by>178D</order_by>
+    <text>
+        <section prefix="a">
+    	     the sex offender’s name, aliases used, date and place of birth, sex, race, height, weight, eye and hair color, social security number, home address, any secondary addresses and work address and, if the sex offender works at or attends an institution of higher learning, the name and address of the institution;
+        </section>
+        <section prefix="b">
+    	     a photograph and set of fingerprints;
+        </section>
+        <section prefix="c">
+    	     a description of the offense for which the sex offender was convicted or adjudicated, the city or town where the offense occurred, the date of conviction or adjudication and the sentence imposed;
+        </section>
+        <section prefix="d">
+    	     any other information which may be useful in assessing the risk of the sex offender to reoffend; and
+        </section>
+        <section prefix="e">
+    	     any other information which may be useful in identifying the sex offender.
+        </section>
+        <section prefix="i">
+    	     the name of the sex offender;
+        </section>
+        <section prefix="ii">
+    	     the offender’s home address and any secondary addresses;
+        </section>
+        <section prefix="iii">
+    	     the offender’s work address;
+        </section>
+        <section prefix="iv">
+    	     the offense for which the offender was convicted or adjudicated and the date of the conviction or adjudication;
+        </section>
+        <section prefix="v">
+    	     the sex offender’s age, sex, race, height, weight, eye and hair color;
+        </section>
+        <section prefix="vi">
+    	     a photograph of the sex offender, if available;
+        </section>
+        <section prefix="vii">
+    	     whether the sex offender has been designated a sexually violent predator; and
+        </section>
+        <section prefix="viii">
+    	     whether the offender is in compliance with the registration obligations of sections 178C to 178P, inclusive.
+        </section>
+    </text>
+</law>

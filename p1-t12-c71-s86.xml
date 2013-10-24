@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Application Of Secs. 83 To 85</catch_line>
+    <order_by>86</order_by>
+    <text>
+        The provisions of sections eighty-three to eighty-five, inclusive, shall apply only to cities and towns which accept the same.
+    </text>
+</law>

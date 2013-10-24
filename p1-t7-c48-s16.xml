@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="48" order_by="48" level="3">Fires, Fire Departments And Fire Districts</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     hardwood slash shall not remain more than two feet above the ground within forty feet of any woodland of another, or of any railroad location, or of the outer edge of the boundary of any highway, or twenty feet from the outer edge of any forest or woods road;
+        </section>
+        <section prefix="b">
+    	     softwood slash shall not remain on the ground within forty feet of any woodland of another, or of any railroad location, or of the outer edge of the boundary of any highway, and shall not lie more than two feet above the ground between forty feet and one hundred feet of the outer edge of the boundary of any highway, or twenty-five feet from the edge of any forest or woods road;
+        </section>
+        <section prefix="c">
+    	     all slash resulting from such cutting operations shall be disposed of in such a manner as to minimize the danger from fire. No slash shall be permitted within twenty-five feet of any continuously flowing brook or stream, pond, river or water supply. The director of the division of forests and parks may make exceptions to this procedure in the preparation or approval of cutting plans; provided, however, that any exceptions made on lands adjacent to a state highway shall be approved by the commissioner of the department of highways.
+        </section>
+    </text>
+</law>

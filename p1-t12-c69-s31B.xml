@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="69" order_by="69" level="3">Powers And Duties Of The Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>31B</section_number>
+    <catch_line>Transfer Of Student Records By Institutions Ceasing To Exist</catch_line>
+    <order_by>31B</order_by>
+    <text>
+        Any educational institution with power to grant degrees in the commonwealth which ceases to exist shall transfer all of its student records to the board of higher education.
+    </text>
+</law>

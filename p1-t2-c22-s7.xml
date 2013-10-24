@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22" order_by="22" level="3">Department Of Public Safety</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Expenses; Inspectors</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Each inspector in the department shall receive his actual traveling and necessary expenses when on duty, which shall be verified by oath and approved by the commissioner. No salary shall be paid to any such inspector until he has made oath that he has paid to the commonwealth all fees received by him.
+    </text>
+</law>

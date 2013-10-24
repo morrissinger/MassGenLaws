@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Responsibilities Of All State Agencies</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="A">
+    	     review the programs and associated regulations of the agency and ascertain how toxics use reduction can be promoted and achieved;
+        </section>
+        <section prefix="B">
+    	     amend those programs or associated regulations, where feasible, so as to promote toxics use reduction as the preferred method for achieving the goals of such programs and submit to the council recommendations for coordinating toxics use reduction efforts with the programs specifically established by this chapter within the department, the office, and the Institute;
+        </section>
+        <section prefix="C">
+    	     by January 1, 1992, coordinate, to the extent feasible, reporting requirements and guidelines concerning the manufacture, use, or release of toxic or hazardous substances in a manner consistent with the recommendations for standardized, consolidated and coordinated state reporting requirements developed by the council pursuant to section four (B) of this chapter;
+        </section>
+        <section prefix="D">
+    	     develop, on a biennial basis, a multi-media inspection manual and training program for all inspectors on multi-media team inspections related to toxics. Where feasible, inspector training shall include cross-training with other agencies that administer toxics-related inspections. Agencies may request that the Institute assist with the training of inspectors to carry out multi-media inspections.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66" order_by="66" level="3">Public Records</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Public Inspection And Copies Of Records; Presumption; Exceptions</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Every person having custody of any public record, as defined in clause Twenty-sixth of section seven of chapter four, shall, at reasonable times and without unreasonable delay, permit it, or any segregable portion of a record which is an independent public record, to be inspected and examined by any person, under his supervision, and shall furnish one copy thereof upon payment of a reasonable fee. Every person for whom a search of public records is made shall, at the direction of the person having custody of such records, pay the actual expense of such search. The following fees shall apply to any public record in the custody of the state police, the Massachusetts bay transportation authority police or any municipal police department or fire department: for preparing and mailing a motor vehicle accident report, five dollars for not more than six pages and fifty cents for each additional page; for preparing and mailing a fire insurance report, five dollars for not more than six pages plus fifty cents for each additional page; for preparing and mailing crime, incident or miscellaneous reports, one dollar per page; for furnishing any public record, in hand, to a person requesting such records, fifty cents per page. A page shall be defined as one side of an eight and one-half inch by eleven inch sheet of paper.
+        </section>
+        <section prefix="b">
+    	     A custodian of a public record shall, within ten days following receipt of a request for inspection or copy of a public record, comply with such request. Such request may be delivered in hand to the office of the custodian or mailed via first class mail. If the custodian refuses or fails to comply with such a request, the person making the request may petition the supervisor of records for a determination whether the record requested is public. Upon the determination by the supervisor of records that the record is public, he shall order the custodian of the public record to comply with the person’s request. If the custodian refuses or fails to comply with any such order, the supervisor of records may notify the attorney general or the appropriate district attorney thereof who may take whatever measures he deems necessary to insure compliance with the provisions of this section. The administrative remedy provided by this section shall in no way limit the availability of the administrative remedies provided by the commissioner of administration and finance with respect to any officer or employee of any agency, executive office, department or board; nor shall the administrative remedy provided by this section in any way limit the availability of judicial remedies otherwise available to any person requesting a public record. If a custodian of a public record refuses or fails to comply with the request of any person for inspection or copy of a public record or with an administrative order under this section, the supreme judicial or superior court shall have jurisdiction to order compliance.
+        </section>
+        <section prefix="c">
+    	     In any court proceeding pursuant to paragraph (b) there shall be a presumption that the record sought is public, and the burden shall be upon the custodian to prove with specificity the exemption which applies.
+        </section>
+        <section prefix="d">
+    	     The clerk of every city or town shall post, in a conspicuous place in the city or town hall in the vicinity of the clerk’s office, a brief printed statement that any citizen may, at his discretion, obtain copies of certain public records from local officials for a fee as provided for in this chapter.
+        </section>
+    </text>
+</law>

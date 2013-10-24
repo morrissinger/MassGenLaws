@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Results Of Audit; Report To Municipality</catch_line>
+    <order_by>39</order_by>
+    <text>
+        Upon the completion of an audit under section thirty-five or thirty-six, the director shall render a report to the city government or the board of selectmen or the prudential committee or commissioners, respectively, embodying the results of his findings, with such suggestions as he may deem advisable for the proper administration of the finances of the city, town or district.
+    </text>
+</law>

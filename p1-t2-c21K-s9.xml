@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21K" order_by="21K" level="3">Mitigation Of Hazardous Materials</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Confidentiality; Trade Secrets</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Notwithstanding the provisions of any general or special law to the contrary, any information, record or particular part thereof obtained by the department, its personnel or contractors pursuant to the provisions of this chapter, upon request shall be confidential and shall not be considered to be a public record when it is determined by the state fire marshal that such information, record or report relates to secret processes, methods of manufacture or production or that such information, record or report, if made public, would divulge a trade secret.
+    </text>
+</law>

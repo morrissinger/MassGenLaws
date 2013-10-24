@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>19A</section_number>
+    <catch_line>Emergency Contraception</catch_line>
+    <order_by>19A</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section “emergency contraception” shall, unless the context clearly requires otherwise, mean any drug approved by the federal Food and Drug Administration as a contraceptive method for use after sexual intercourse.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any other law, a licensed pharmacist may dispense emergency contraception in accordance with written, standardized procedures or protocols developed by an actively practicing physician registered with the commissioner to distribute or dispense a controlled substance in the course of professional practice pursuant to section 7 if such procedures or protocols are filed at the pharmacist’s place of practice and with the board of registration in pharmacy before implementation.
+        </section>
+        <section prefix="c">
+    	     Before dispensing emergency contraception authorized under this section, a pharmacist shall complete a training program approved by the commissioner on emergency contraception, which training shall include but not be limited to proper documentation, quality assurance, and referral to additional services, including appropriate recommendation that the patient follow-up with a medical practitioner.
+        </section>
+        <section prefix="d">
+    	     A pharmacist dispensing emergency contraception under this section shall annually provide to the department of public health the number of times such emergency contraception is dispensed. Reports made pursuant to this section shall not identify any individual patient, shall be confidential and shall not be public records as defined by clause twenty-sixth of section 7 of chapter 4.
+        </section>
+        <section prefix="e">
+    	     The department of public health, board of registration in medicine, and board of registration in pharmacy shall adopt regulations to implement this section.
+        </section>
+    </text>
+</law>

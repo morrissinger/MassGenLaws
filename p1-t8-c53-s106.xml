@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>106</section_number>
+    <catch_line>Form Of Official Ballot</catch_line>
+    <order_by>106</order_by>
+    <text>
+        On the back and outside of each ballot when folded shall be printed the words “Official ballot of the (here shall be inserted the party name)” followed by the number of the precinct and ward or the name of the town for which the ballot is prepared, the date of the caucus and a facsimile of the signature of the secretary of the political committee. 
+Ballots shall be printed on white paper, except as otherwise provided by law. 
+Names of candidates for caucus officers shall be arranged in groups in the order in which they are filed. 
+Against the name of a candidate for an elective or caucus office shall be printed the street and number, if any, of his residence. 
+A star (*) against a name shall indicate that a person is a candidate for re-election.
+    </text>
+</law>

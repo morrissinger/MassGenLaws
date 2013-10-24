@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>5G</section_number>
+    <catch_line>Claimant; Subrogation</catch_line>
+    <order_by>5G</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings unless the context clearly requires otherwise:
+        </section>
+        <section prefix="b">
+    	     When a claimant or a claimant’s heirs, estate or legal representative receives payment from a liability or workers’ compensation insurer or any other third party as the result of a loss, the claimant or the claimant’s heirs, estate or legal representative shall repay to the department the total of all financial assistance benefits provided by the department on and after the date of the loss to or on behalf of the claimant, the claimant’s spouse or children and any other individual the claimant is required by law to support; provided, however, that if on the date of the loss the claimant was already eligible for public assistance benefits, the claimant or the claimant’s heirs, estate or legal representative shall repay only any increase in financial assistance that occurred as a result of the property damage, accident, illness, injury or other incident.
+        </section>
+        <section prefix="c">
+    	     The application for and receipt of benefits recoverable under this section, after notice to the third party, shall operate as a lien to secure repayment against monies which may be provided by the third party up to the amount of such recoverable benefits, but the department may also perfect its right to a lien against any monies which may come into possession of the claimant’s attorney from the third party by giving notice to that attorney.
+        </section>
+        <section prefix="d">
+    	     A person receiving public assistance benefits recoverable under this section shall assign to the commonwealth an amount equal to the benefits so provided from the proceeds of any such claim against the third party.
+        </section>
+        <section prefix="e">
+    	     A claimant shall notify the department in writing within 10 calendar days after commencement of a civil action or other proceeding to establish the liability of a third party or to collect monies payable under accident, liability or health insurance, workers’ compensation or from any other third party.
+        </section>
+        <section prefix="f">
+    	     The commonwealth shall be subrogated to a claimant’s entire cause of action or right to proceed against a third party and to a claimant’s claim for monies to the extent of assistance provided under chapter 118. The commonwealth shall also have a separate and independent cause of action to recover, from a third party, assistance provided to a claimant under said chapter 118, which cause of action shall be in addition to other causes of action. The commonwealth may, by attorneys employed or selected by the commonwealth, commence a civil action or other proceeding to establish the liability of a third party or to collect such moneys, or may intervene as of right in a civil action commenced by a claimant against a third party. No third party shall require written authorization from the claimant before honoring the commonwealth’s rights under this section.
+        </section>
+        <section prefix="g">
+    	     Failure of a claimant without good cause to provide notice as required under this section or to provide such further information deemed necessary by the department to pursue its rights under this section shall be grounds for termination of benefits.
+        </section>
+        <section prefix="h">
+    	     Notwithstanding any general or special law, rule or regulation to the contrary, an insurer doing business in the commonwealth shall provide information requested by the department for use by the agency to recover public assistance benefits under this section.
+        </section>
+    </text>
+</law>

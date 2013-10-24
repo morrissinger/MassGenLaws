@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Failure To File Or Filing Of Incorrect Return; Determination And Assessment Of Tax</catch_line>
+    <order_by>28</order_by>
+    <text>
+        If a person who has been notified by the commissioner that he has failed to file a return or has filed an incorrect or insufficient return refuses or neglects within thirty days after the date of such notification to file a proper return, or if a person has filed a false or fraudulent return or has filed a return with a willful attempt in any manner to defeat or evade the tax, the commissioner may determine the tax due, according to his best information and belief, and may assess the same at not more than double the amount so determined, which additional tax shall be in addition to the other penalties provided by this chapter.
+    </text>
+</law>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18B" order_by="18B" level="3">Department Of Social Services</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Services Enumerated</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     casework or counseling, including services to families, foster families or individuals;
+        </section>
+        <section prefix="2">
+    	     protective services for children;
+        </section>
+        <section prefix="3">
+    	     legal services for families, children or individuals who are clients of the department;
+        </section>
+        <section prefix="4">
+    	     adoption services;
+        </section>
+        <section prefix="5">
+    	     information and referral services;
+        </section>
+        <section prefix="6">
+    	     foster family care for children and specialized foster family care for children with special needs;
+        </section>
+        <section prefix="7">
+    	     residential care for children with special needs who are not suited for foster family care or specialized foster family care;
+        </section>
+        <section prefix="8">
+    	     informal education and group activities;
+        </section>
+        <section prefix="9">
+    	     training in parenthood and home management for parents, foster parents and prospective parents;
+        </section>
+        <section prefix="10">
+    	     family services intended to prevent the need for foster care and services to children in foster care;
+        </section>
+        <section prefix="11">
+    	     temporary residential programs providing counseling and supportive assistance for families in transition and their children who, because of domestic violence, homelessness, or other situations, require temporary shelter and assistance;
+        </section>
+        <section prefix="12">
+    	     camping services;
+        </section>
+        <section prefix="13">
+    	     information and referral services;
+        </section>
+        <section prefix="14">
+    	     services for families and individuals in emergency and transitional housing;
+        </section>
+        <section prefix="15">
+    	     comprehensive youth development services;
+        </section>
+        <section prefix="16">
+    	     access to and coordination of medical, dental and mental health services for children in foster care whose families are receiving services from other state agencies; and
+        </section>
+        <section prefix="17">
+    	     child care placements for children whose families have an open case with the department.
+        </section>
+    </text>
+</law>

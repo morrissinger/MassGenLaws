@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>93</section_number>
+    <catch_line>Subrogation</catch_line>
+    <order_by>93</order_by>
+    <text>
+        Where the damage or injury for which compensation is claimed under section ninety was caused under circumstances creating a legal liability in some person other than the commonwealth to pay damages in respect thereof, the commonwealth may enforce, in the name of the claimant or in its own name and for its own benefit, the liability of such other person. The sum recovered shall be for the benefit of the commonwealth unless such sum is greater than that paid by it to the claimant, in which case four fifths of the excess shall be paid to the claimant.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Right To Receive Other Books And Documents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        All incorporated law libraries in the commonwealth shall be entitled to receive from the officers charged with the distribution of the same, copies of all books and documents to which the county law libraries are entitled by law, and one additional copy for each branch library maintained by them.
+    </text>
+</law>

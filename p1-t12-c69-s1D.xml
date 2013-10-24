@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="69" order_by="69" level="3">Powers And Duties Of The Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>1D</section_number>
+    <catch_line>Statewide Educational Goals; Academic Standards; Vocational Training; Grant Program</catch_line>
+    <order_by>1D</order_by>
+    <text>
+        <section prefix="i">
+    	     The “competency determination” shall be based on the academic standards and curriculum frameworks for tenth graders in the areas of mathematics, science and technology, history and social science, foreign languages, and English, and shall represent a determination that a particular student has demonstrated mastery of a common core of skills, competencies and knowledge in these areas, as measured by the assessment instruments described in section one I. Satisfaction of the requirements of the competency determination shall be a condition for high school graduation. If the particular student’s assessment results for the tenth grade do not demonstrate the required level of competency, the student shall have the right to participate in the assessment program the following year or years. Students who fail to satisfy the requirements of the competency determination may be eligible to receive an educational assistance plan designed within the confines of the foundation budget to impart the skills, competencies and knowledge required to attain the required level of mastery. The parent, guardian or person acting as parent of the student shall have the opportunity to review the remedial plan with the student’s teachers. Nothing in this section shall be construed to provide a parent, guardian, person acting as a parent or student with an entitlement to contest the proposed plan or with a cause of action for educational malpractice if the student fails to obtain a competency determination.
+        </section>
+        <section prefix="ii">
+    	     The “certificate of mastery” shall be based upon a determination that the recipient has demonstrated mastery of a comprehensive body of skills, competencies and knowledge comparable to that possessed by accomplished graduates of high school or equivalent programs in the most advanced education systems in the world. The criteria for a certificate of mastery may incorporate a number of factors which may include, but not be limited to, any of the following: high school graduation standards, superior performance on advanced placement tests administered by the educational testing service, and demonstrated excellence in areas not reflected by the state’s assessment instruments, such as artistic or literary achievement. Eligibility for potential receipt of a certificate of mastery shall extend to all secondary students residing in the commonwealth.
+        </section>
+        <section prefix="iii">
+    	     The “certificate of occupational proficiency” shall be awarded to students who successfully complete a comprehensive education and training program in a particular trade or professional skill area and shall reflect a determination that the recipient has demonstrated mastery of a core of skills, competencies and knowledge comparable to that possessed by students of equivalent age entering the particular trade or profession from the most educationally advanced education systems in the world. No student may receive said certificate of occupational proficiency without also having acquired a competency determination.
+        </section>
+    </text>
+</law>

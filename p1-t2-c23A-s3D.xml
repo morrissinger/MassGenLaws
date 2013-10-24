@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23A" order_by="23A" level="3">Department Of Economic Development</unit>
+    </structure>
+    <section_number>3D</section_number>
+    <catch_line>Economic Target Areas</catch_line>
+    <order_by>3D</order_by>
+    <text>
+        <section prefix="a">
+    	     receipt of a municipal application requesting such designation and representing therein that the municipality, based on its own independent investigation, has determined that the area proposed for designation and comprised of three or more contiguous census tracts or one or more contiguous municipalities, in their entirety and either;
+        </section>
+        <section prefix="i">
+    	     has an unemployment rate that exceeds the statewide average by at least twenty-five percent; or
+        </section>
+        <section prefix="ii">
+    	     satisfies at least one of the following criteria:
+        </section>
+        <section prefix="A">
+    	     if the municipality is located in a metropolitan area as defined by the EACC, then at least fifty-one percent of the households in the area proposed for designation have household incomes that are below eighty percent of the median income for households in the metropolitan area in which said municipality is located;
+        </section>
+        <section prefix="B">
+    	     if the municipality is not located in a metropolitan area as defined by the EACC, then at least fifty-one percent of the households in the area proposed for the designation have household incomes that are below eighty percent of the median income for households (i) in the commonwealth, or (ii) in such applicable non-metropolitan area category as the EACC may from time to time establish or employ;
+        </section>
+        <section prefix="C">
+    	     has a poverty rate which is at least twenty percent higher than the average poverty rate for the commonwealth;
+        </section>
+        <section prefix="D">
+    	     if the municipality has experienced a plant closing or permanent layoffs, or military base closing resulting in job loss of two thousand or more within the four years prior to designation as an ETA;
+        </section>
+        <section prefix="E">
+    	     is located in a community or labor market area which has a distress factor greater than one and thirty-three one hundredths, as defined in section three A;
+        </section>
+        <section prefix="F">
+    	     if within the municipality there is an area owned by a state agency or authority authorized and established under the laws of the commonwealth which exceeds fifty acres and such land has, within the past ten years, been used to manufacture or repair maritime vessels and is zoned for development or industrial use which the municipality would like to designate as an ETA to develop and return to the tax rolls, and is not being developed or used by such agency or authority;
+        </section>
+        <section prefix="G">
+    	     the designated area has a commercial vacancy rate of 20 per cent or more; or
+        </section>
+        <section prefix="H">
+    	     the municipality has sited within it a generation facility, as defined pursuant to section 1 of chapter 164, which has a market value at the time of sale that is at least 50 per cent less than its current net book value.
+        </section>
+        <section prefix="I">
+    	     the area has sited within it a facility of at least 1,000,000 square feet, which facility would qualify as an abandoned building within the meaning of 38O of chapter 63; or
+        </section>
+        <section prefix="J">
+    	     the area has sited within it a development project of at least 200 acres to be used for the establishment of a regional technology center with the capability of supporting the build-out of 3,000,000 square feet of commercial or industrial space;
+        </section>
+        <section prefix="K">
+    	     the area has been designated by the municipality as an area with potential for the development of a Class I renewable energy generating sources, as defined by section 11F of chapter 25A.
+        </section>
+        <section prefix="b">
+    	     approval of the municipal application by the EACC; provided, however, that the EACC shall find, based on the information submitted in support of the municipal application and such additional investigation as the EACC shall make, and incorporate in its minutes, that the area or areas proposed for designation in said application comport with the definition of an ETA as set forth in, clauses (i) to (iii), inclusive, of paragraph (a); provided, further, that such decision shall be effective as specified by the EACC; provided, further, that the statistical criteria employed by the EACC in making such designation shall be the most recent data available as of the date of such decision; provided, further, that the EACC shall be under no obligation to revoke or modify any designation because of changes in statistical data which are published subsequent to a designation decision; and, provided further, that in the event the statistical categories incorporated by reference as aforesaid are subsequently materially altered or superseded by the publishers thereof, the EACC is authorized and directed to develop or employ new categories of statistical criteria which most nearly comport with the aforesaid referenced criteria; provided, that said new categories of statistical criteria shall become effective when approved by the director of economic development.
+        </section>
+    </text>
+</law>

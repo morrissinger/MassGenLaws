@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>274</section_number>
+    <catch_line>Rules And Regulations; Advisory Board</catch_line>
+    <order_by>274</order_by>
+    <text>
+        <section prefix="a">
+    	     Act entirely in an advisory capacity, except as provided in section two hundred and seventy-one. A majority of the members of the board present and voting shall constitute the basis for an official action or recommendation of said board.
+        </section>
+        <section prefix="b">
+    	     Consider all matters submitted to it by the director.
+        </section>
+        <section prefix="c">
+    	     On its own initiative recommend to the department such rules and regulations and any changes thereon which the advisory board may deem important and necessary.
+        </section>
+        <section prefix="d">
+    	     Co-operate in the preparation of rules and regulations supplemental to the provisions of this law.
+        </section>
+    </text>
+</law>

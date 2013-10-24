@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>311</section_number>
+    <catch_line>Suspension Or Revocation Of License; Notice And Hearing;  Reinstatement Of License</catch_line>
+    <order_by>311</order_by>
+    <text>
+        <section prefix="a">
+    	     A license to operate a vending machine may be suspended by the commissioner for violation of any provision of this chapter, or may be revoked for serious or repeated violations of any such provision.
+        </section>
+        <section prefix="b">
+    	     Whenever the commissioner finds that an operator has violated any applicable provision of this chapter or that unsanitary or other conditions exist in the operation of any vending machine or commissary, he shall issue a written notice to the operator citing the existence of such condition, specifying the corrective action to be taken, stating that a hearing on such findings shall be given upon the written request of the operator filed within ten days of the receipt of this notice, and advising the operator that unless such violation and condition is corrected within a specified and reasonable period of time his license may be suspended or revoked. When the necessary corrective action has been taken, the operator shall forthwith notify the commissioner who shall cause a new inspection to be made.
+        </section>
+        <section prefix="c">
+    	     After any hearing held under the provisions of this section, the commissioner shall sustain, modify or rescind any notice or order considered in the hearing.
+        </section>
+        <section prefix="d">
+    	     Any operator whose license has been suspended, may at any time make application for the reinstatement of the license. Within ten days after the receipt of a written application, accompanied by, or including, a statement signed by the operator to the effect that the conditions responsible for such suspension have been corrected and no longer exist, the commissioner shall cause a new inspection to be made. If the inspection satisfies the commissioner that the applicant is again complying with applicable provisions of law, the commissioner shall reinstate the license.
+        </section>
+    </text>
+</law>

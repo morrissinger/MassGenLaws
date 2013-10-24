@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Use Of Facilities By Non Residents</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Any free town public library may loan its books or other library material to any other such library or to citizens of other towns or non-residents, under such written conditions and regulations as may be made by the board of trustees or other authority having control of the library so loaning. Any town may raise money to pay the expenses of so borrowing books and other library material from the library of any other town.
+    </text>
+</law>

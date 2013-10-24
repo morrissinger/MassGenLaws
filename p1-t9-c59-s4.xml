@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Property Taxable As Personal Estate</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Except as provided in the following section and in chapters sixty-two and sixty-three, personal estate for the purpose of taxation shall include: 
+First, Goods, chattels, money and effects, wherever they are; ships and vessels and their equipment at home or abroad, except as provided in section eight of this chapter, in chapter sixty B and in section sixty-seven of chapter sixty-three. 
+Second, Money at interest, and other debts due the person to be taxed more than he is indebted or pays interest for; but not including in such debts due him or indebtedness from him any loan on mortgage of real estate, taxable as real estate, except the excess of such loan above the assessed value of the mortgaged real estate. 
+Third, Public stocks and securities, bonds of railroads and street railways and stocks in turnpikes, bridges and moneyed corporations within or without this commonwealth.
+    </text>
+</law>

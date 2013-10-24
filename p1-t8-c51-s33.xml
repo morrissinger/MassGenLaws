@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Affidavits Of Registration</catch_line>
+    <order_by>33</order_by>
+    <text>
+        Any registrar, at such places as may be appointed, and on the day and during hours designated for the purpose, may receive affidavits of registration, but all the actions of one registrar shall be subject to review and acceptance by the board. 
+In cities, and in towns having six hundred or more registered voters, any person shall be registered, as aforesaid, during regular business hours.
+    </text>
+</law>

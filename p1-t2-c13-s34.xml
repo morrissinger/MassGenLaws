@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Board Of Public Accountancy; Officers; Records Of Proceedings;  Register; Meetings</catch_line>
+    <order_by>34</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall annually elect a chairman and a secretary from its members. The board shall hold meetings at such times as it shall determine, and may adopt, revoke and amend from time to time regulations for the orderly conduct of its internal affairs and practice. A majority of the board shall constitute a quorum for the transaction of business.
+        </section>
+    </text>
+</law>

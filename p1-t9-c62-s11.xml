@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Income Received From Nonresident Trustee</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Any inhabitant of the commonwealth who receives, is entitled to, or to whom income is available from one or more trustees or other fiduciaries who are not subject to taxation under this chapter, shall be subject to the taxes imposed by this chapter upon such income according to the nature of the income received by such trustees, or other fiduciaries, and shall include such income in a return as required by section six of chapter sixty-two C. Amounts distributed by a charitable remainder annuity trust or a charitable remainder unitrust, as defined in section six hundred and sixty-four of the Code, shall, for the purposes of taxation under this chapter, be considered as having in the hands of the recipients thereof the characteristics described in subsection (b) of said section six hundred and sixty-four.
+    </text>
+</law>

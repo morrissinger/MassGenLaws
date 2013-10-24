@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Person Defined</catch_line>
+    <order_by>72</order_by>
+    <text>
+        The term “person”, as used in section seventy-three, shall include, but not be limited to, an officer or employee of a corporation, a member, officer or employee of a partnership, or a trustee, officer or employee of a corporate trust who as such officer, employee, member or trustee is under a duty either to perform or to refrain from performing the act with respect to which the violation occurs. Sections seventy-three and seventy-seven shall apply to persons, as herein defined, acting in any fiduciary capacity.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Powers And Jurisdiction Of Law Enforcement Officers</catch_line>
+    <order_by>71</order_by>
+    <text>
+        <section prefix="a">
+    	     Law enforcement officers of the commonwealth and of an affected local jurisdiction shall have the same powers and jurisdiction within the limits of a transportation facility as they have in their respective areas of jurisdiction and access to the transportation facility at any time for the purpose of exercising such powers and jurisdiction.
+        </section>
+        <section prefix="b">
+    	     The traffic and motor vehicle laws of the commonwealth and, if applicable, any local by-laws or ordinances shall apply to a transportation facility.
+        </section>
+    </text>
+</law>

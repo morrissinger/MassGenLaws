@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Results Of Analysis Sent To Owner</catch_line>
+    <order_by>36</order_by>
+    <text>
+        An officer of the department of public health or of the division of regulatory services of the department of food and agriculture, an inspector of milk or collector of samples of milk, or other officer of the commonwealth or of a city or town who obtains a sample of milk for analysis shall, within ten days after obtaining the result of the analysis, send it to the person from whom the sample was taken or to the person responsible for the condition of such milk.
+    </text>
+</law>

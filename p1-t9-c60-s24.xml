@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Levy By Distress Or Seizure And Sale; Exemptions</catch_line>
+    <order_by>24</order_by>
+    <text>
+        If a person refuses or neglects to pay his tax for fourteen days after demand, and after a warrant to collect and a warrant to distrain or commit is issued pursuant to section twenty-nine, the collector may without unnecessary delay levy the same by distress, or seizure and sale of his goods, except tools or implements necessary for his trade or occupation, beasts of the plough necessary for the cultivation of his improved land, military arms, uniforms and equipment, utensils for housekeeping necessary for upholding life, and bedding and apparel necessary for himself and family.
+    </text>
+</law>

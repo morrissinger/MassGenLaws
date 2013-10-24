@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12A" order_by="12A" level="3">Office Of Inspector General</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Confidentiality Of Records</catch_line>
+    <order_by>13</order_by>
+    <text>
+        All records of the office of inspector general shall be confidential unless, it is necessary for the inspector general to make such records public in the performance of his duties, and shall not be public records as defined in section seven of chapter four. 
+Violation of the provisions of section nine and section ten relative to the secrecy of proceedings by the inspector general or any member of the staff, or by any member of the inspector general council, shall be punished by imprisonment in a jail or house of correction for not more than six months or by a fine of not more than one thousand dollars.
+    </text>
+</law>

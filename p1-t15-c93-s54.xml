@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Procedures To Be Maintained By Reporting Agency</catch_line>
+    <order_by>54</order_by>
+    <text>
+        <section prefix="a">
+    	     Every consumer reporting agency shall maintain reasonable procedures designed to avoid violations of section fifty-two and to limit the furnishing of consumer reports to the purposes listed under section fifty-one. These procedures shall require that prospective users of the information identify themselves, certify the purposes for which the information is sought, and certify that the information will be used for no other purpose. Every consumer reporting agency shall make a reasonable effort to verify the identity of a new prospective user and the uses certified by such prospective user prior to furnishing such user a consumer report. No consumer reporting agency may furnish a consumer report to any person if it has reasonable grounds for believing that the consumer report will not be used for a purpose listed in section fifty-one.
+        </section>
+        <section prefix="b">
+    	     Whenever a consumer reporting agency prepares or disseminates a consumer report it shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the report relates.
+        </section>
+    </text>
+</law>

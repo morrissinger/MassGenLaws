@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Dispensing By Practitioner For Narcotic Drug Research Or Treatment Of Drug Dependent Persons</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     If the commissioner determines that a research subject or patient is receiving a controlled substance from more than one source and in quantities which he determines to be harmful to the health of such research subject or patient, said commissioner shall so notify the practitioners who have dispensed the controlled substance.
+        </section>
+        <section prefix="b">
+    	     In order to prevent the dispensing of controlled substances to the same individual from multiple sources or the unlawful diversion of controlled substances, the commissioner shall, pursuant to the provisions of chapter 30A, adopt rules and regulations for carrying out the provisions of this section.
+        </section>
+    </text>
+</law>

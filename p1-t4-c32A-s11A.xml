@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32A" order_by="32A" level="3">Contributory Group General Or Blanket Insurance For Persons In The Service Of The Commonwealth</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Divorced Or Separated Spouses; Continuation Of Insurance Coverage</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="a">
+    	     In the event of the granting of a judgment absolute of divorce or of separate support to which an employee or retiree who has health insurance or coverage under a plan or contract authorized by this chapter is a party, the person who was the spouse of said employee or retiree prior to the issuance of such judgment shall be and remain eligible for benefits under said plan or contract, whether or not said judgment was entered prior to the effective date of said plan or contract, without additional premium or examination therefor, as if said judgment had not been entered; provided, however, that such eligibility shall not be required if said judgment so provides. Such eligibility shall continue through the employee’s or retiree’s participation in the plan or contract until the remarriage of either the employee or retiree or such spouse, or until such time as provided by said judgment, whichever is earlier.
+        </section>
+        <section prefix="b">
+    	     In the event of the remarriage of the employee or retiree referred to in paragraph (a), the former spouse thereafter shall have the right, if so provided in said judgment, to continue to receive benefits as are available to the employee or retiree, by means of the addition of a rider to the family plan or contract or the issuance of an individual plan or contract, either of which may be at additional premium rates determined by the group insurance commission to be just and reasonably in accordance with the additional insuring risks involved.
+        </section>
+        <section prefix="c">
+    	     The name, address, and certificate number of a person eligible for health insurance or coverage pursuant to paragraph (a) or (b), if available, shall be forwarded by the plan or contractor, whichever is applicable, to the department of public welfare within thirty days of the date when coverage of said person under said paragraph (a) or (b) is commenced.
+        </section>
+    </text>
+</law>

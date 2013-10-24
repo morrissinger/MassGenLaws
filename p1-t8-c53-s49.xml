@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Nomination In Case Of Withdrawal, Death Or Ineligibility</catch_line>
+    <order_by>49</order_by>
+    <text>
+        If a person nominated to be voted for at a state primary dies before the day of the primary, or withdraws his name from nomination, or is found ineligible, and there is no other candidate for the party nomination for the office, the vacancy may be filled by the state committee, if the candidate is one to be voted for by all the voters of the commonwealth; and, in the case of candidates for nomination or election in a district, by the members of the ward and town committees in the wards and towns comprising the district.
+    </text>
+</law>

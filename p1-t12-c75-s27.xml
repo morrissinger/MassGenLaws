@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Approvals Of Sales And Leases</catch_line>
+    <order_by>27</order_by>
+    <text>
+        No sale or conveyance under section twenty-five shall become operative until it is approved by the governor and council, and no lease under section twenty-six shall become operative until the form thereof is approved by the governor and council.
+    </text>
+</law>

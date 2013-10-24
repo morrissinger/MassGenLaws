@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Insufficient Funds; Liability Of Commonwealth</catch_line>
+    <order_by>30</order_by>
+    <text>
+        In the event that the monies in the insolvency fund are insufficient to provide for the purposes set forth in section eighteen, no claimant or any other person shall have any right to require the payment of funds or to compel any other action with respect to such occurrence by the commonwealth or by any agency thereof. Neither the commonwealth nor any agency thereof shall be liable for civil damages arising from any action taken in accordance with the provisions of sections fifteen to thirty, inclusive.
+    </text>
+</law>

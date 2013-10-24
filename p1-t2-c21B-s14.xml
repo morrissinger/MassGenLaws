@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21B" order_by="21B" level="3">Mining Regulation And Reclamation</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Inspections By Public Officials</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Any public official authorized by the commissioner of any municipality in which coal mining is occurring shall have the right to inspect any of the mined or affected areas in the course of the normal performance of his duties.
+    </text>
+</law>

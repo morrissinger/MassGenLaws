@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Minors; Payment Of Prize Money</catch_line>
+    <order_by>34</order_by>
+    <text>
+        If the person entitled to a prize or any winning ticket is under the age of eighteen years, and such prize is less than five thousand dollars, the director may direct payment of the prize by delivery to an adult member of the minor’s family or a guardian of the minor of a check or draft payable to the order of such minor. If the person entitled to a prize or any winning ticket is under the age of eighteen years, and such prize is five thousand dollars or more, the director may direct payment to such minor by depositing the amount of the prize in any bank to the credit of an adult member of the minor’s family or a guardian of the minor as custodian for such minor. The director shall be discharged of all further liability upon payment of a prize to a minor pursuant to this section.
+    </text>
+</law>

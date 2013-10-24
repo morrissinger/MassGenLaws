@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>80A</section_number>
+    <catch_line>Title To Land Conveyed Under Sec. 79 Or Sec. 80; Questioning Barred</catch_line>
+    <order_by>80A</order_by>
+    <text>
+        Any person, having a right of redemption or any other interest in the land conveyed or purporting to be conveyed under section seventy-nine or section eighty, upon whom service of the notice of sale provided in said section seventy-nine has been made by registered mail, who, prior to the sale, neither redeems the land nor brings proceedings to enjoin the sale, shall, upon the recording of the deed as required by said section seventy-nine or said section eighty, be forever barred from raising any question concerning the validity of the title conveyed thereby, and a statement contained in the treasurer’s deed that such service has been made, naming the persons who were served by registered mail, shall be prima facie evidence thereof.
+    </text>
+</law>

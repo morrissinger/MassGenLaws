@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58" order_by="58" level="3">General Provisions Relative To Taxation</unit>
+    </structure>
+    <section_number>25B</section_number>
+    <catch_line>Proceeds Of Cigarette Excise; Certification For Payment By Commissioner Of Revenue</catch_line>
+    <order_by>25B</order_by>
+    <text>
+        <section prefix="a">
+    	     From time to time when required, the contract assistance to the Massachusetts Bay Transportation Authority provided under section twenty-eight of chapter one hundred and sixty-one A or under other applicable laws, and from time to time when required, the contract assistance to regional transportation authorities, provided under section twenty-three of chapter one hundred and sixty-one B;
+        </section>
+        <section prefix="b">
+    	     From time to time, when required, reimbursements to cities and towns comprising transportation areas as provided under section one hundred and fifty-two A of chapter one hundred and sixty-one, and to the Woods Hole, Martha’s Vineyard and Nantucket Steamship Authority, as provided under section nine A of chapter seven hundred and one of the acts of nineteen hundred and sixty, as amended;
+        </section>
+        <section prefix="d">
+    	     On or before November twentieth of each year, the amount certified by the commissioner of education to be payable to any city or town as a transportation allowance under the provisions of section seven B of chapter seventy-one.
+        </section>
+    </text>
+</law>

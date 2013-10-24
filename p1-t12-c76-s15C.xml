@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>15C</section_number>
+    <catch_line>Immunization Of College Health Science Students</catch_line>
+    <order_by>15C</order_by>
+    <text>
+        No full-time student under thirty years of age or any full-time or part-time undergraduate or graduate students in a health science who is in contact with patients shall, except as hereinafter provided, be registered at an institution of higher education except upon presentation of a medical certificate that such student has been immunized against measles, mumps, rubella, tetanus and diphtheria; provided, however, that a student may be registered at such institution upon certification made, in writing, by a physician who has personally examined such student and in whose opinion the physical condition of such student is such that his health would be endangered by any such immunization; and provided, further, that students who have attended an elementary or secondary school in the commonwealth may submit a copy of their school immunization record, indicating receipt of the above required immunizations, in lieu of such certificate; and provided, further, that unimmunized students may be registered on the condition that the required immunizations be obtained within ten days of registration. 
+In the absence of an emergency or epidemic of disease declared by the department of public health, no student who states in writing that such immunization would conflict with his religious beliefs shall be required to present such medical certificate in order to be admitted to such institution.
+    </text>
+</law>

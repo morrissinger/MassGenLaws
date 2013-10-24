@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="73" order_by="73" level="3">State Colleges And Community Colleges</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Educational Program</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The trustees may provide for residents of the commonwealth an educational program at each of the state universities, such program to include, in addition to the subjects mentioned in sections two and two A, instruction in such subjects as it deems expedient in the training of such residents.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40J" order_by="40J" level="3">Massachusetts Technology Park Corporation</unit>
+    </structure>
+    <section_number>6F</section_number>
+    <catch_line>Requirements For Approved Plans And Grantees Or Organizations Receiving Monies</catch_line>
+    <order_by>6F</order_by>
+    <text>
+        [ Text of section effective until November 4, 2012. Repealed by 2012, 224, Sec. 40.]  Any plan approved by the board and every grantee and implementing organization that receives monies for the adoption of health information technology shall:  (1) establish a mechanism to allow patients to opt-in to the health information network and to opt-out at any time;  (2) maintain identifiable health information in physically and technologically secure environments by means including, but not limited to: prohibiting the storage or transfer of unencrypted and non-password protected identifiable health information on portable data storage devices; requiring data encryption, unique alpha-numerical identifiers and password protection; and other methods to prevent unauthorized access to identifiable health information;  (3) provide individuals the option of, upon request, obtaining a list of individuals and entities that have accessed their identifiable health information; and  (4) develop and distribute to authorized users of the health information network and to prospective network participants, written guidelines addressing privacy, confidentiality and security of health information and inform individuals of what information about them is available, who may access their information, and the purposes for which their information may be accessed.
+    </text>
+</law>

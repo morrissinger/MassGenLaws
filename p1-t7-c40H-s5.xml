@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40H" order_by="40H" level="3">Community Economic Development Assistance Corporation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Technical And Financial Assistance; Eligible Organizations;  Standards; Preference To Certain Projects</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="i">
+    	     the project is within a target area and may reasonably be expected to contribute to the redevelopment and economic well-being of the target area within which it is located and to increase or maintain threatened primary employment and capital within such target area, or if the project may reasonably be expected to preserve existing or create new units of affordable housing;
+        </section>
+        <section prefix="ii">
+    	     the project has provided reasonable assurance that it will conform to all applicable environmental, zoning and building laws;
+        </section>
+        <section prefix="iii">
+    	     the benefits of the project, including the addition or retention of primary employment and of capital in the project’s target area, shall primarily accrue to the residents of such target area, or a portion of the dwelling units in the project shall constitute or otherwise qualify as affordable housing;
+        </section>
+        <section prefix="iv">
+    	     there is a reasonable expectation that the project will be successful and that the eligible organization and project participants are responsible parties;
+        </section>
+        <section prefix="v">
+    	     the private sector has not provided sufficient primary employment opportunities in the project’s target area;
+        </section>
+        <section prefix="vi">
+    	     alternative sources, including other agencies and subdivisions of the commonwealth and of the federal government, for technical and financial assistance have been sought and are either insufficient or unavailable to meet the needs of the project;
+        </section>
+        <section prefix="vii">
+    	     the technical and financial assistance to be provided is essential to the success of the project; and
+        </section>
+        <section prefix="viii">
+    	     provision has been made for the active participation of residents of the target area in the project; and
+        </section>
+        <section prefix="3">
+    	     adequate provisions have been made for reporting by the eligible organization and the project concerning the manner in which the technical and financial assistance is used and the extent to which it achieves its intended results.
+        </section>
+    </text>
+</law>

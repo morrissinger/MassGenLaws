@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Misdemeanors Committed In Presence Of On Duty Uniformed Member;  Enforcement Powers</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Any uniformed member of the state police may, upon view of any misdemeanor committed in his presence while on duty, arrest the person committing such misdemeanor, where such misdemeanor was committed in any building or grounds owned or occupied, wholly or in part by the commonwealth, or on streets adjacent to any such building, and shall enforce all traffic rules, regulations and ordinances on streets adjacent to buildings owned or occupied, wholly or in part, by the commonwealth.
+    </text>
+</law>

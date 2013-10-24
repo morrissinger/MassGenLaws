@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Nonresident Recreational Vehicles</catch_line>
+    <order_by>30</order_by>
+    <text>
+        A recreational vehicle owned by a resident in another state may be deemed to be registered in the commonwealth if it is registered in accordance with the laws of the state in which the owner of such vehicle resides, but only to the extent that a similar registration exemption or privilege is granted under the laws of said state for recreational vehicles registered in the commonwealth; provided, however, that the commissioner of fisheries, wildlife and environmental law enforcement shall designate which states shall be granted said exemption or privilege.
+    </text>
+</law>

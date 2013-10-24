@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Massachusetts Military Academy; Establishment; Curriculum; Academic Board; Membership; Compensation</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established the Massachusetts Military Academy, hereinafter called the academy, which shall offer to selected enlisted persons and officers of the armed forces of the commonwealth of satisfactory educational and military attainments such courses of instruction to prepare them for the responsibility of commissioned command as the commander-in-chief may prescribe.
+        </section>
+        <section prefix="b">
+    	     Under such regulations as the commander-in-chief may prescribe, the educational policies, courses of study, standards of admission and graduation of the academy shall be determined by an academic board of twelve commissioned officers, of whom one shall be the senior army advisor and one shall be the commandant of the academy, to be appointed by the commander-in-chief. At least a majority of the members of said academic board shall be active officers of the national guard, army or air, at the time of their appointment. Members of the academic board shall serve for such terms as the commander-in-chief may prescribe, or until relieved by his order.
+        </section>
+        <section prefix="c">
+    	     Subject to the approval of the commander-in-chief, the academic board shall appoint a commandant and an assistant commandant of the academy, who shall serve for such terms as the academic board may prescribe, or until their resignations are accepted, or until they are relieved by a majority vote of the said board.
+        </section>
+        <section prefix="d">
+    	     The commandant shall select faculty members, instructors and employees and shall administer the academy in accordance with such regulations as the academic board may prescribe.
+        </section>
+        <section prefix="e">
+    	     The commandant and such other persons as may be detailed under the provisions of this section shall receive such pay and may incur such expenses for the operation of the academy as may be approved therefor.
+        </section>
+    </text>
+</law>

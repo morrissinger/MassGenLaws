@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31J</section_number>
+    <catch_line>Deductible Interest; Interest Paid To Related Member; Taxpayer’S Burden To Show Disallowance Of Deduction Unreasonable</catch_line>
+    <order_by>31J</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of computing its net income under this chapter, a taxpayer shall add back otherwise deductible interest paid, accrued or incurred to a related member, as defined in section 31I, during the taxable year, except that a deduction shall be permitted when either: (1) the taxpayer establishes by clear and convincing evidence, as determined by the commissioner, that the disallowance of the deduction is unreasonable, or (2) the taxpayer and the commissioner agree in writing to the application of an alternative method of apportionment under section 42. Nothing in this subsection shall be construed to limit or negate the commissioner’s authority to otherwise enter into agreements and compromises otherwise allowed by law.
+        </section>
+        <section prefix="b">
+    	     The adjustments required in subsection (a) shall not apply if the taxpayer establishes by clear and convincing evidence, as determined by the commissioner, that: (i) a principal purpose of the transaction giving rise to the payment of interest was not to avoid payment of taxes due under this chapter; (ii) the interest is paid pursuant to a contract that reflects an arm’s length rate of interest and terms; and (iii) (A) the related member was subject to tax on its net income in this state or another state or possession of the United States or a foreign nation; (B) a measure of said tax included the interest received from the taxpayer; and (C) the rate of tax applied to the interest received by the related member is no less than the statutory rate of tax applied to the taxpayer under this chapter minus 3 percentage points.
+        </section>
+        <section prefix="c">
+    	     For purposes of subsection (a), interest payments by the taxpayer to a person or entity that is not a related member will be treated as if made to a related member if the interest is paid in connection with a debt incurred to acquire the taxpayer’s assets or stock in a transaction that is referenced in section 368 of Internal Revenue Code, as amended and in effect for the taxable year. For purposes of this subsection, subsection (b) shall not apply.
+        </section>
+        <section prefix="d">
+    	     Nothing in this section shall be construed to limit or negate the commissioner’s authority to make adjustments under sections 33 and 39A.
+        </section>
+    </text>
+</law>

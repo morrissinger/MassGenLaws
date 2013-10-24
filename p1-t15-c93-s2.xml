@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        For purpose of this chapter, the following words and terms shall have the following meanings: 
+“Attorney general”, the attorney general of the commonwealth and individuals designated by him in writing to act on his behalf in carrying out the purposes of this chapter. 
+“Demand”, a civil investigative demand issued pursuant to section eight of this chapter. 
+“Natural person”, not proprietorships, partnerships or any commercial entity. 
+“New England”, the states of Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont. 
+“Person”, natural persons, corporations and other legal entities. 
+“Trade or commerce”, the advertising, offering for sale, rent or lease, or the sale, rent, lease, furnishing or distribution of any service or any article, commodity or property, tangible or intangible, which directly and substantially affects the people of the commonwealth; provided, however, that trade or commerce shall not include the conveyance, transfer or use of real property. 
+“Trade secrets”, anything which constitutes, represents, evidences, or records secret or confidential scientific, technical, merchandising, production, management or commercial information.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19C" order_by="19C" level="3">Disabled Persons Protection Commission</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Powers And Duties</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     to employ, subject to appropriation, such staff as shall be necessary to carry out its duties pursuant to this chapter; provided, however, that the commission shall establish written standards for the position of investigator and shall hire investigators whose education and training qualifies them for the position pursuant to the standards established by said commission; and provided further, that the commission shall take such steps as are necessary to ensure that the conduct of each investigator meets or exceeds such standards. For the purposes of determining the standards established under this section, the commission shall confer with the district attorneys and the attorney general. Such staff shall serve at the pleasure of the commission and shall not be subject to the provisions of chapter thirty-one;
+        </section>
+        <section prefix="b">
+    	     to promulgate, pursuant to the provisions of chapter thirty A, rules and regulations to carry out the purposes of this chapter, including rules governing the conduct of hearings conducted pursuant to section eight;
+        </section>
+        <section prefix="c">
+    	     to provide for the investigation of alleged abuse of disabled persons initiated pursuant to section four;
+        </section>
+        <section prefix="d">
+    	     to designate other state agencies within the executive office of health and human services for the furnishing of protective services in accordance with the provisions of section six;
+        </section>
+        <section prefix="e">
+    	     to issue reports, including findings of facts and recommendations, upon concluding an investigation, and to refer matters upon which investigations have been completed pursuant to section nine;
+        </section>
+        <section prefix="f">
+    	     to take appropriate measures to notify state agencies, disabled persons and other interested parties of the provisions of this chapter;
+        </section>
+        <section prefix="g">
+    	     to maintain files, records of investigations and reports which shall be retained and made available in accordance with the provisions of chapters sixty-six and sixty-six A;
+        </section>
+        <section prefix="h">
+    	     to develop standards for deferral of investigations to the executive office of health and human services and to agencies within the executive office of health and human services under section twelve and in consultation with the secretary of the executive office of health and human services.
+        </section>
+        <section prefix="i">
+    	     to establish within the commission a special investigative unit, which shall have sole responsibility for the initial investigation of all reports of abuse received by the commission in connection with which there is an allegation of criminal conduct. The colonel of the state police shall assign not fewer than five state police officers to the special investigative unit.
+        </section>
+    </text>
+</law>

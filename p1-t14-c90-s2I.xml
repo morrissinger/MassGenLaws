@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>2I</section_number>
+    <catch_line>Registration Prerequisites For Certain Custom Vehicles; Salvage Inspection; State Assigned Vin; Safety Belts; Air Bags</catch_line>
+    <order_by>2I</order_by>
+    <text>
+        <section prefix="a">
+    	     The registrar, prior to the initial registration of a custom vehicle, replica vehicle, specially-constructed vehicle or street rod, may require such vehicle to undergo a salvage-type inspection at a facility to be determined by the registrar to ensure that stolen parts have not been included in the vehicle.
+        </section>
+        <section prefix="b">
+    	     The registrar, prior to the initial registration of a custom vehicle, replica vehicle, specially-constructed vehicle or street rod, may require such vehicle to obtain a state-assigned vehicle identification number, unless the registrar is satisfied that there is a clearly visible state-assigned vehicle identification number that was previously assigned by the commonwealth or another state.
+        </section>
+        <section prefix="c">
+    	     The registrar may refuse to register or may revoke the registration of a custom vehicle, replica vehicle, specially constructed vehicle or street rod, originally built by its manufacturer as a model year 1966 or later vehicle, unless such vehicle is equipped with operable safety belts for all passenger positions.
+        </section>
+        <section prefix="d">
+    	     The registrar may refuse to register or may revoke the registration of a custom vehicle, replica vehicle, specially constructed vehicle or street rod if the registrar determines that the original manufacturer had installed an air bag or air bags in the vehicle and the current version of the vehicle does not contain such air bag or air bags.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Objection By State Auditor; Review</catch_line>
+    <order_by>55</order_by>
+    <text>
+        <section prefix="a">
+    	     An agency shall not make any privatization contract and no such contract shall be valid if, within thirty business days after receiving the certificate required by section fifty-four, the state auditor notifies the agency of his objection. Such objection shall be in writing and shall state specifically the state auditor’s finding that the agency has failed to comply with one or more requirements of said section fifty-four, including that the state auditor finds incorrect, based on independent review of all the relevant facts, any of the findings required by paragraph (7) of said section fifty-four. The state auditor may extend the time for such objection for an additional period of 30 business days beyond the original 30 business days by written notice to the submitting agency stating the reason for such extension.
+        </section>
+        <section prefix="b">
+    	     For the purpose of reviewing the agency’s compliance and certificate pursuant to said section fifty-four, the state auditor or his designee may require by summons the attendance and testimony under oath of witnesses and the production of books, papers and other records relating to such review. All provisions of law relative to summonses in civil cases, including the manner of service, the scope and relevance to such review, and the compensation of witnesses who are not state employees, shall apply to such summonses. Such summonses shall be enforced pursuant to section ten of chapter two hundred and thirty-three.
+        </section>
+        <section prefix="c">
+    	     The state auditor may adopt regulations and prescribe forms to carry out the provisions of this section and section fifty-four.
+        </section>
+        <section prefix="d">
+    	     The objection of the state auditor pursuant to subsection (a) shall be final and binding on the agency, unless the state auditor thereafter in writing withdraws the objection, stating the specific reasons, based upon a revised certificate by the agency and by the commissioner of administration and upon the state auditor’s review thereof.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Employment Sponsored Health Plans; Annual Statements For Covered Individuals; Penalties</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        <section prefix="a">
+    	     An employer or other sponsor of an employment-sponsored health plan shall (i) provide, or contract with service providers or insurance carriers to provide, a written statement, annually on or before January 31 of each year, to each subscriber or covered individual residing in the commonwealth to whom it provided creditable coverage, as defined in chapter 111M, in the previous calendar year and (ii) provide a separate report verifying the statement to the commissioner.
+        </section>
+        <section prefix="b">
+    	     If a resident is not covered under a Massachusetts-based employment-sponsored health plan, the office of Medicaid and carriers licensed or otherwise authorized to offer health coverage under chapters 175, 176A, 176B, and 176G shall (i) provide, or contract with service providers to provide, a written statement, annually on or before January 31 of each year, to each subscriber or covered individual residing in the commonwealth to whom it provided creditable coverage, as defined in said chapter 111M, in the previous calendar year and (ii) provide a separate report verifying the statement to the commissioner.
+        </section>
+        <section prefix="c">
+    	     The statements and reports shall identify the carrier or employer, the covered individual and covered dependents, the insurance policy or similar numbers and the dates of coverage during the year, and shall provide other information as required by the commissioner of revenue for the purposes of chapter 111M. Such information shall be limited to the minimum amount of personal information necessary, shall not include information about diagnoses or treatments and, except for the office of Medicaid, shall not include social security numbers. The commissioner of revenue, in consultation with the commissioner of insurance, may specify the content and format of the statements and reports. The commissioner of revenue may disclose the information in the statements and reports to the division of insurance, the division of health care finance and policy and the commonwealth health insurance connector. The information in the statements and reports shall be confidential and shall not constitute a public record.
+        </section>
+        <section prefix="d">
+    	     The commissioner of revenue, in consultation with the commissioner of insurance pursuant to section 7B of chapter 26, shall promulgate regulations or other written guidance to implement this section, which may include an allowance for reporting alternatives for family or other joint coverage.
+        </section>
+        <section prefix="e">
+    	     Carriers, employers or other sponsors of employment-sponsored health plans that fail to provide written statements to covered individuals or to report to the commissioner in violation of this section shall be punishable by a penalty of $50 per individual to which the failure relates, not to exceed $50,000 per year per violator. The commissioner shall assess such penalties as a tax subject to chapter 62C but, in his discretion, may waive all or any portion of such penalties for reasonable cause shown.
+        </section>
+    </text>
+</law>

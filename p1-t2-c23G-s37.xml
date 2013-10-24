@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Monies Credited To Government Land Bank Fund; Reversion Upon Termination Of Agency</catch_line>
+    <order_by>37</order_by>
+    <text>
+        Upon the termination of the Agency’s existence, all monies credited to the Government Land Bank Fund shall, after payments, other than the interest on or the principal of any bonds and notes issued pursuant to this chapter, due on account of the Agency shall have been made, revert to the treasury of the commonwealth and shall be used solely toward meeting the debt service obligations of the General Fund.
+    </text>
+</law>

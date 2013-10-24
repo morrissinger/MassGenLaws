@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66A" order_by="66A" level="3">Fair Information Practices</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, the following words shall have the following meanings unless the context clearly indicates otherwise:— 
+“Agency”, any agency of the executive branch of the government, including but not limited to any constitutional or other office, executive office, department, division, bureau, board, commission or committee thereof; or any authority created by the general court to serve a public purpose, having either statewide or local jurisdiction. 
+“Automated personal data system”, a personal data system in which personal data is stored, in whole or in part, in a computer or in electronically controlled or accessible files. 
+“Computer accessible”, recorded on magnetic tape, magnetic film, magnetic disc, magnetic drum, punched card, or optically scannable paper or film. 
+“Criminal justice agency”, an agency at any level of government which performs as its principal function activity relating to (a) the apprehension, prosecution, defense, adjudication, incarceration, or rehabilitation of criminal offenders; or (b) the collection, storage, dissemination, or usage of criminal offender record information. 
+“Data subject”, an individual to whom personal data refers. This term shall not include corporations, corporate trusts, partnerships, limited partnerships, trusts or other similar entities. 
+“Holder”, an agency which collects, uses, maintains or disseminates personal data or any person or entity which contracts or has an arrangement with an agency whereby it holds personal data as part or as a result of performing a governmental or public function or purpose. A holder which is not an agency is a holder, and subject to the provisions of this chapter, only with respect to personal data so held under contract or arrangement with an agency. 
+“Manual personal data system”, a personal data system which is not an automated or other electronically accessible or controlled personal data system. 
+“Personal data”, any information concerning an individual which, because of name, identifying number, mark or description can be readily associated with a particular individual; provided, however, that such information is not contained in a public record, as defined in clause Twenty-sixth of section seven of chapter four and shall not include intelligence information, evaluative information or criminal offender record information as defined in section one hundred and sixty-seven of chapter six. 
+“Personal data system”, a system of records containing personal data, which system is organized such that the data are retrievable by use of the identity of the data subject.
+    </text>
+</law>

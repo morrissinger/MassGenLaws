@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7A" order_by="7A" level="3">Office Of The Comptroller</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Annual Reports</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="2">
+    	     The comptroller shall prepare an annual statutory basis financial report based on the final closing of the accounting records. The report shall be published annually not later than October 31.
+        </section>
+        <section prefix="3">
+    	     The statutory basis financial report shall present fairly the aggregated financial statements for the budgeted governmental funds and tables of beginning and ending balances, revenues, sources, expenditures and uses for the non-budgeted governmental funds and the capital project governmental funds. These statements shall be reviewed in accordance with professional standards established by the American Institute of Certified Public Accountants. The reports shall be prepared in accordance with the accounting system established by the comptroller under section 7, as cash outflows, including expenditures made under section 13 of said chapter 29 and cash inflows including receipts of federal grants and subsidies from other governmental entities for reimbursement of such expenditures.
+        </section>
+        <section prefix="4">
+    	     The comptroller shall include, supplemental to the aggregated financial statements in the statutory basis financial report, a statement of the consolidated net surplus in the budgetary funds for the preceding fiscal year, under section 5C of chapter 29 and the amount by which such surplus exceeds the maximum allowable amount under section 2H of chapter 29.
+        </section>
+        <section prefix="5">
+    	     Accompanying the statutory basis financial statements, the comptroller shall include financial statements for the budgeted funds that compare the budgeted amounts to final operations for each fund subject to appropriation.
+        </section>
+        <section prefix="6">
+    	     The comptroller may include narratives, statistical tables and other disclosures and reference material in the statutory basis financial report that the comptroller considers, in his professional judgment, appropriate.
+        </section>
+        <section prefix="b">
+    	     The comptroller shall prepare an annual federal funds report based on the final closing of the accounting records which shall be published not later than the second Wednesday in January and shall present fairly all federal funds received by each agency and department during the fiscal year. The report shall include for each program of federal financial participation the opening balances, revenues and other sources, expenses and other uses and ending balances for the fiscal year. The final federal funds report shall be audited in conjunction with the state single audit and the report of the auditor shall be included.
+        </section>
+        <section prefix="c">
+    	     The comptroller shall prepare a comprehensive annual financial report in conformity to generally-accepted accounting principles for governments which shall be published not later than the second Wednesday in January. The report shall be audited in accordance with generally-accepted auditing standards and generally-accepted governmental auditing standards and the report of the auditor shall be included.
+        </section>
+    </text>
+</law>

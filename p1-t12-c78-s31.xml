@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Status Of Existing Librarians; Certificates</catch_line>
+    <order_by>31</order_by>
+    <text>
+        Any person who, upon the effective date of this act, is employed in a position defined as that of professional librarian or subprofessional librarian in section twenty-four, shall be granted a certificate as a professional or subprofessional librarian, if he makes application within two years after such effective date.
+    </text>
+</law>

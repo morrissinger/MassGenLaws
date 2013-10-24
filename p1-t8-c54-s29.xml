@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Replacement Of Defective, Lost Or Destroyed Ballot Boxes</catch_line>
+    <order_by>29</order_by>
+    <text>
+        If a state ballot box becomes defective or is lost or destroyed, the state secretary, upon application by the city or town clerk, shall provide another ballot box at the expense of such city or town.
+    </text>
+</law>

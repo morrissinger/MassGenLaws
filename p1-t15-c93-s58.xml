@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Completeness Or Accuracy Of Information; Dispute By Consumer; Reinvestigation; Deletion Of Information; Notification Of Deletion Or Dispute; Reinsertion Of Information</catch_line>
+    <order_by>58</order_by>
+    <text>
+        <section prefix="a">
+    	     If the completeness or accuracy of any item of information in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time, but not to exceed thirty business days beginning on the date the consumer reporting agency receives notice from the consumer, reinvestigate and record the current status of such information unless it has reasonable grounds to believe that the dispute is frivolous or irrelevant; including by reason of a failure of the consumer to provide sufficient information, as requested by the consumer reporting agency, to resolve the dispute. Unless the consumer reporting agency determines that the dispute is frivolous or irrelevant before the end of the five business day period beginning on the date the consumer reporting agency receives notice of the dispute under this section, the agency shall notify any person who provided the information in dispute at the address provided by the person. A consumer reporting agency may require that disputes by consumers be in writing, but shall provide consumers with the option of speaking with a live representative at any time during the dispute resolution process, whenever possible and practicable or to the extent consistent with federal law.
+        </section>
+        <section prefix="b">
+    	     If the consumer reporting agency determines that the dispute is frivolous or irrelevant, it shall notify the consumer by mail or, if authorized by the consumer for that purpose, by any other means available to the consumer reporting agency, within five business days after the determination is made that it is terminating its reinvestigation of the item of information. In this notification the consumer reporting agency shall state the specific reasons why it has determined that the consumer’s dispute is frivolous or irrelevant. The presence of contradictory information in the consumer’s file shall not in and of itself constitute grounds for believing the dispute to be frivolous or irrelevant.
+        </section>
+        <section prefix="c">
+    	     If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall within three business days delete such information.
+        </section>
+        <section prefix="d">
+    	     If the reinvestigation does not resolve the dispute, the consumer may file a statement setting forth the nature of the dispute.
+        </section>
+        <section prefix="e">
+    	     Within ten business days after completion of a reinvestigation, the agency shall provide the consumer with written information, free of charge, that includes: (1) a statement that the reinvestigation is completed, (2) a consumer report that is based on the consumer’s file as that file is revised as a result of the reinvestigation, (3) a description or indication of any changes made in the consumer report as a result of such revisions, (4) notice that, if requested by the consumer, a description of the procedure used to determine the accuracy and completeness of the information shall be provided to the consumer by the consumer reporting agency, including the business name, address, and telephone number of any furnisher of information contacted in connection with such information, (5) notice that the consumer has the right to add a statement to the consumer’s file disputing the accuracy or completeness of the information, (6) notice that the consumer has the right to request that the consumer reporting agency furnish notifications under paragraphs (g) and (i), and (7) notice that the consumer has a right to obtain all information required to be disclosed under section fifty-six.
+        </section>
+        <section prefix="f">
+    	     Whenever a statement of dispute is filed, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide the consumer’s statement as part of its report.
+        </section>
+        <section prefix="g">
+    	     Following any deletion of information which is found not to be accurate, or whose accuracy can no longer be verified, the consumer reporting agency shall, upon the request of the consumer, within fifteen business days, furnish notification to any person who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted item, that the item has been deleted.
+        </section>
+        <section prefix="h">
+    	     A consumer reporting agency shall accept the consumer’s version of the disputed information and correct or delete the disputed item when the consumer submits to the consumer reporting agency documentation obtained from the source of the item in dispute or from public records confirming that the report was inaccurate or incomplete, unless the consumer reporting agency in good faith has substantial reason to doubt the authenticity of the documentation, or the completeness of the information provided.
+        </section>
+        <section prefix="i">
+    	     No information may be reinserted in a consumer’s file after having been deleted pursuant to this section unless the person who furnishes the information to be reinserted verifies that the information is accurate. If any information so deleted from a consumer’s file is reinserted in the file, the consumer reporting agency shall promptly notify the consumer of the reinsertion in writing or, if authorized by the consumer for that purpose, by any other means available to the consumer reporting agency. As part of, or in addition to, said notice the consumer reporting agency shall, within five business days of reinserting the information, provide, in writing to the consumer: (1) a statement that the disputed information has been reinserted; (2) a notice that the agency will provide to the consumer, within fifteen days following a request, the name, address, and telephone number of any furnisher of information contacted or which contacted the consumer reporting agency in connection with the reinsertion; (3) the toll-free telephone number of the consumer reporting agency that the consumer may use to obtain such name, address, and telephone number; and, (4) a notice that the consumer has the right to add a statement to his file disputing the accuracy or completeness of the information.
+        </section>
+        <section prefix="j">
+    	     At any time during the dispute process described in this section, the consumer shall have the right to request to speak to a live representative from the consumer reporting agency in an attempt to resolve the dispute. The consumer reporting agency shall maintain a toll-free telephone number available to consumers for such purpose and shall notify consumers of its availability whenever possible and practicable or to the extent consistent with federal law.
+        </section>
+    </text>
+</law>

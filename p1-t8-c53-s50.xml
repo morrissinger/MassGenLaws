@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Vacancies Caused By Withdrawal; Nominations To Fill; Objections</catch_line>
+    <order_by>50</order_by>
+    <text>
+        In cases of withdrawal, nominations to fill vacancies shall be filed with the state secretary within seventy-two week day hours succeeding five o’clock in the afternoon of the last day for filing withdrawals. 
+They shall be open to objections in the same manner, so far as practicable, as other nominations. 
+No vacancy caused by withdrawal shall be filled before the withdrawal has been filed.
+    </text>
+</law>

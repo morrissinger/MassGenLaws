@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Filing And Storage Of Dna Records</catch_line>
+    <order_by>6</order_by>
+    <text>
+        All DNA samples collected pursuant to sections 3 and 4 shall be forwarded to the director for the purpose of DNA analysis. The director shall provide for the receipt and analysis of DNA samples and for the filing and storage of DNA records derived from such DNA analysis in the state DNA database. The director shall promulgate regulations governing the collection, submission, receipt, identification, storage and disposal of DNA samples.
+    </text>
+</law>

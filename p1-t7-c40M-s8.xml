@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40M" order_by="40M" level="3">Governmental Units Pooled Insurance</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Membership In Group</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="A">
+    	     A public employer joining a public employer’s self-insurance group after the group has been issued a certificate of approval shall submit an application for membership to the board of trustees or its administrator. Membership takes effect no earlier than each member’s date of approval. The application for membership and its approval shall be maintained as permanent records of the board of trustees.
+        </section>
+        <section prefix="B">
+    	     Individual members of a group shall be subject to cancellation by the group pursuant to the by-laws of the group. In addition, individual members may elect to terminate their participation in the group. A voluntary termination may not be tendered prior to the members participation in the group for a period of less than one year. The group shall notify the commissioner of the termination or cancellation of a member within ten days and shall maintain coverage of each cancelled or terminated member for thirty days after such notice, at the terminating member’s expense, unless the group is notified sooner by the insurance department that the cancelled or terminated member has insurance, has become a self-insurer, or has become a member of another public employer self-insurance group.
+        </section>
+        <section prefix="C">
+    	     The agreement between the group and the member shall specify the terms and conditions of payment of benefits for each member’s incurred liabilities during its period of membership.
+        </section>
+        <section prefix="D">
+    	     A group member is not relieved of its liabilities incurred during its period of membership except through payment by the group or the member or a combination thereof. Payment of benefits by the group to the member shall be limited to the terms specified in the agreement between the group and the member.
+        </section>
+        <section prefix="E">
+    	     There shall be a minimum period of at least one year for which a member shall contract to participate in the group.
+        </section>
+    </text>
+</law>

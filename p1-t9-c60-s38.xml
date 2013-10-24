@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Mortgagees; Notice Requiring Demand For Payment</catch_line>
+    <order_by>38</order_by>
+    <text>
+        If a mortgagee of land situated in the place of his residence, before July first of the year in which the tax is assessed, gives written notice to the collector that he holds a mortgage on land, with a description of the land, the demand for payment shall be made on the mortgagee instead of the mortgagor.
+    </text>
+</law>

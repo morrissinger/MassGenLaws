@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18B" order_by="18B" level="3">Department Of Social Services</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Payment For Services</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Subject to appropriation, services of the department shall not be denied to any person because of such person’s financial assets or income; provided, however, that the department shall establish a schedule of fees for services which may vary with the ability of the recipient of such services to pay therefor. 
+The department shall develop regulations defining standards of need and priorities for the allocation of social services; such regulations may not deny any category of social services to any person on the basis of such person’s financial assets or income, except with regard to any category of social service which, prior to July twenty-second, nineteen hundred and seventy-eight, could have been denied to a person on the basis of such person’s financial assets or income.
+    </text>
+</law>

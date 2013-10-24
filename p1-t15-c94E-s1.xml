@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94E" order_by="94E" level="3">Provisions Concerning Certain Tobacco Manufacturers</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     manufactures cigarettes anywhere that such manufacturer intends to be sold in the United States, including cigarettes intended to be sold in the United States through an importer (except where such importer is an original participating manufacturer, as that term is defined in the Master Settlement Agreement, that will be responsible for the payments under the Master Settlement Agreement with respect to such cigarettes as a result of the provisions of subsection II(mm) of the Master Settlement Agreement and that pays the taxes specified in subsection II(z) of the Master Settlement Agreement, and if the manufacturer of such cigarettes does not market or advertise such cigarettes in the United States);
+        </section>
+        <section prefix="b">
+    	     is the first purchaser anywhere for resale in the United States of cigarettes manufactured anywhere that the manufacturer does not intend to be sold in the United States; or
+        </section>
+        <section prefix="c">
+    	     becomes a successor of an entity described in clause (a) or (b).
+        </section>
+    </text>
+</law>

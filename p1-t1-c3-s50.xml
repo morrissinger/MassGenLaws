@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Sections Inapplicable To Public Employees Or Agents Or Other Persons Requested To Appear Before Committee Or Commission</catch_line>
+    <order_by>50</order_by>
+    <text>
+        Sections thirty-nine to forty-nine, inclusive, shall not apply to employees or agents of the commonwealth or of a city, town, district or regional school district who are acting in their capacity as such employees or agents or to any person requested to appear before any committee or commission of the general court by a majority of the members of such committee or commission; provided, that such person performs no other act to influence legislation; and provided further, that the name of such person be recorded in the official records of such committee or commission.
+    </text>
+</law>

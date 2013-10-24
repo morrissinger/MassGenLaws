@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="52" order_by="52" level="3">Political Committees</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Election Of Existing Committees</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Each committee existing at the time when the party which it represents first polls for any office to be filled by all the voters of the commonwealth at a biennial state election three per cent of the entire vote cast in the commonwealth for that office, and each committee existing at the time when the party it represents first polls for mayor or a selectman at a city or town election at least three per cent of the entire vote cast in the city or town for that office, shall be deemed elected under this chapter, and shall be subject to its provisions.
+    </text>
+</law>

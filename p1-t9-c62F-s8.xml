@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62F" order_by="62F" level="3">Limitation On The Growth Of State Tax Revenues</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The provisions of this law are severable, and if any clause, sentence, paragraph, or section of this chapter or an application thereof shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or section adjudged invalid.
+    </text>
+</law>

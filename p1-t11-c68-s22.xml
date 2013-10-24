@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68" order_by="68" level="3">Donations And Conveyances For Pious And Charitable Uses</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Contracts</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     Every contract or agreement between a professional fund-raising counsel or a commercial co-venturer or a professional solicitor and a charitable organization required to have a certificate of registration pursuant to section nineteen shall be in writing, signed by two officers of the charitable organization, and filed with the director of the division within ten days after such contract or agreement is entered into. No solicitation shall be conducted prior to the filing of such contract or agreement. (b) Every contract or agreement between a professional solicitor or a commercial co-venturer and a charitable organization shall include: (1) a statement of the charitable purposes to be described in the solicitation; and (2) a statement of the guaranteed minimum percentage of the gross receipts from fund-raising which will be utilized exclusively for the charitable purposes described in the solicitation.
+        </section>
+    </text>
+</law>

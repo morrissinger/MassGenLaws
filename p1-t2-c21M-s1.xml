@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21M" order_by="21M" level="3">Vessel Traffic Service</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     a power-driven vessel of 20 meters, approximately 65 feet or more in length, while navigating;
+        </section>
+        <section prefix="2">
+    	     a towing vessel of 8 meters, approximately 26 feet or more in length, while navigating;
+        </section>
+        <section prefix="3">
+    	     a vessel issued a certificate to carry 50 or more passengers for hire, when engaged in trade.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40M" order_by="40M" level="3">Governmental Units Pooled Insurance</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Board Of Trustees; Powers And Duties</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="A">
+    	     The board of trustees shall:
+        </section>
+        <section prefix="1">
+    	     Maintain responsibility for all monies collected or disbursed from the group and segregate all monies in a claims fund account and an administrative fund account. Net premiums shall be placed into a designated depository for the sole purpose of paying claims, allocated claims expenses, reinsurance or excess insurance, and special fund contributions. This shall be called the claims fund account. The remaining net premium after any payments for reinsurance or excess insurance shall be placed in a designated depository for the payment of taxes, general regulatory fees and assessments and administrative costs. This shall be called the administrative fund account.
+        </section>
+        <section prefix="2">
+    	     Maintain minutes of its meetings and make such minutes available to the commissioner.
+        </section>
+        <section prefix="3">
+    	     Designate an administrator to carry out the policies established by the board of trustees and to provide day to day management of the group and delineate in the written minutes of its meetings the areas of authority it delegates to the administrator.
+        </section>
+        <section prefix="4">
+    	     Funds not needed for current obligations may be invested by the board of trustees in accordance with section fifty-four of chapter forty-four.
+        </section>
+        <section prefix="5">
+    	     Retain an independent certified public accountant to prepare the statement of financial conditions required by subsection (A) of section ten.
+        </section>
+        <section prefix="B">
+    	     The board of trustees shall not borrow any monies from the group or in the name of the group except in the ordinary course of business, without first advising the commissioner of the nature and purpose of the loan and obtaining prior approval from the commissioner.
+        </section>
+    </text>
+</law>

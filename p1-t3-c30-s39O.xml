@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>39O</section_number>
+    <catch_line>Contracts For Construction And Materials; Suspension, Delay Or Interruption Due To Order Of Awarding Authority; Adjustment In Contract Price; Written Claim</catch_line>
+    <order_by>39O</order_by>
+    <text>
+        <section prefix="a">
+    	     The awarding authority may order the general contractor in writing to suspend, delay, or interrupt all or any part of the work for such period of time as it may determine to be appropriate for the convenience of the awarding authority; provided however, that if there is a suspension, delay or interruption for fifteen days or more or due to a failure of the awarding authority to act within the time specified in this contract, the awarding authority shall make an adjustment in the contract price for any increase in the cost of performance of this contract but shall not include any profit to the general contractor on such increase; and provided further, that the awarding authority shall not make any adjustment in the contract price under this provision for any suspension, delay, interruption or failure to act to the extent that such is due to any cause for which this contract provides for an equitable adjustment of the contract price under any other contract provisions.
+        </section>
+        <section prefix="b">
+    	     The general contractor must submit the amount of a claim under provision (a) to the awarding authority in writing as soon as practicable after the end of the suspension, delay, interruption or failure to act and, in any event, not later than the date of final payment under this contract and, except for costs due to a suspension order, the awarding authority shall not approve any costs in the claim incurred more than twenty days before the general contractor notified the awarding authority in writing of the act or failure to act involved in the claim.
+        </section>
+    </text>
+</law>

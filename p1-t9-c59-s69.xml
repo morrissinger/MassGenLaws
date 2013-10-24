@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>69</section_number>
+    <catch_line>Reimbursement; Interest</catch_line>
+    <order_by>69</order_by>
+    <text>
+        A person whose tax has been abated shall, if the tax has been paid, be reimbursed by the town to the amount of the abatement allowed, including all interest and all charges paid therewith except legal costs paid as provided in section sixty-two, with interest on the amount so abated at eight per cent from the time of payment or the due date of the tax, whichever is later. No refund shall be paid on account of an abatement when there remains an outstanding balance of the tax to which the abatement relates, nor shall any interest be paid on account of an abatement for any period during which any part of the abated tax, net of the amount of the abatement, was outstanding.
+    </text>
+</law>

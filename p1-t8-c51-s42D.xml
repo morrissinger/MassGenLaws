@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>42D</section_number>
+    <catch_line>Registration Sessions In Regional High Schools, Colleges Or Universities</catch_line>
+    <order_by>42D</order_by>
+    <text>
+        The registrars or election commissioners may hold registration sessions in any regional high school, college or university, in any city or town in the commonwealth where there are persons entitled to be registered in their city or town who are regularly gathered there by reason of education or employment.
+    </text>
+</law>

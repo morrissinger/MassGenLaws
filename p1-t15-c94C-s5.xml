@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Dispensing Controlled Substances Excepted Under Sec. 4</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     that such preparation shall be dispensed, or sold in good faith as a medicine, and not for the purpose of evading the provisions of the controlled substances law; (2) that the purchaser of such preparation identify himself to the satisfaction of the pharmacist; and (3) that of such preparation not more than four ounces are dispensed, or sold to a person during any 48 hour period.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Prescription Drug Review Commission; Membership; Recommendations</catch_line>
+    <order_by>40</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a prescription drug review commission, hereinafter referred to as the commission, to oversee the program established in section 39. The commission shall consist of: the speaker of the house of representatives; the president of the senate; the chairs of the house and senate ways and means committees or their designees; the co-chairs of the joint committee on health care or their designees; the secretary of elder affairs or his designee and 9 members to be appointed by the governor, including 2 representatives of senior citizens’ advocacy organizations, 2 representatives of disability advocacy organizations, a health care economist from a university or college within the commonwealth, 2 representatives from retail pharmacies, an individual who is a full-time employee of a pharmaceutical manufacturer and an individual who is a full-time employee of a biotechnology manufacturer. A representative of the contracted pharmacy benefit manager shall also participate, but shall not be a voting member of the commission.
+        </section>
+        <section prefix="b">
+    	     The commission shall be co-chaired by the speaker of the house of representatives and the president of the senate. The commission shall adopt such rules and establish such procedures as it deems necessary for the oversight of the program established in section 39. No action of the commission shall be considered approved unless it is endorsed by a majority vote of the commission.
+        </section>
+        <section prefix="c">
+    	     The commission shall meet annually and shall, not less than annually, submit written recommendations to the governor regarding changes to the administration, management, eligibility criteria, benefits, funding or any other aspect of the program.
+        </section>
+        <section prefix="d">
+    	     To facilitate the commission’s development of the recommendations, the department, and any entity with which it contracts, shall review the operations of the program and, not less than biannually, prepare and submit the following summary information to said commission:—
+        </section>
+        <section prefix="1">
+    	     financial reports of said program, including actual and projected costs and revenues and an analysis of the adequacy of appropriated funding;
+        </section>
+        <section prefix="2">
+    	     enrollment information, including enrollee demographics and benefit utilization data;
+        </section>
+        <section prefix="3">
+    	     specific problems associated with the program and suggested strategies to resolve such problems;
+        </section>
+        <section prefix="4">
+    	     a review of the pharmacy benefit manager’s designated formulary for the program and any proposed changes thereto;
+        </section>
+        <section prefix="5">
+    	     an analysis of current and future technological advancements that may result in cost savings or otherwise affect the program;
+        </section>
+        <section prefix="6">
+    	     an analysis of the program’s cost sharing requirements including, but not limited to, co-payments, premiums and deductibles, in relation to actual market trends in outpatient prescription drug costs, prescription drug inflation and any proposed changes thereto;
+        </section>
+        <section prefix="7">
+    	     an analysis of the disabled enrollees’ drug utilization pattern including, but not limited to, the cost associated with such utilization and the implications for expanding benefits to all disabled individuals who reside in the commonwealth; and
+        </section>
+        <section prefix="8">
+    	     all other information requested by the commission.
+        </section>
+    </text>
+</law>

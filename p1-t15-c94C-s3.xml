@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Findings Required For Placement In Schedules</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     SCHEDULE I.—
+        </section>
+        <section prefix="A">
+    	     The drug or other substance has a high potential for abuse.
+        </section>
+        <section prefix="B">
+    	     The drug or other substance has no currently accepted medical use in treatment in the United States.
+        </section>
+        <section prefix="C">
+    	     There is a lack of accepted safety for use of the drug or other substance under medical supervision.
+        </section>
+        <section prefix="2">
+    	     SCHEDULE II.—
+        </section>
+        <section prefix="A">
+    	     The drug or other substance has a high potential for abuse.
+        </section>
+        <section prefix="B">
+    	     The drug or other substance has a currently accepted medical use in treatment in the United States or a currently accepted medical use with severe restrictions.
+        </section>
+        <section prefix="C">
+    	     Abuse of the drug or other substances may lead to severe psychological or physical dependence.
+        </section>
+        <section prefix="3">
+    	     SCHEDULE III.—
+        </section>
+        <section prefix="A">
+    	     The drug or other substance has a potential for abuse less than the drugs or other substances in schedules I and II.
+        </section>
+        <section prefix="B">
+    	     The drug or other substance has a currently accepted medical use in treatment in the United States.
+        </section>
+        <section prefix="C">
+    	     Abuse of the drug or other substance may lead to moderate or low physical dependence or high psychological dependence.
+        </section>
+        <section prefix="4">
+    	     SCHEDULE IV.—
+        </section>
+        <section prefix="A">
+    	     The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule III.
+        </section>
+        <section prefix="B">
+    	     The drug or other substance has a currently accepted medical use in treatment in the United States.
+        </section>
+        <section prefix="C">
+    	     Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule III.
+        </section>
+        <section prefix="5">
+    	     SCHEDULE V.—
+        </section>
+        <section prefix="A">
+    	     The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
+        </section>
+        <section prefix="B">
+    	     The drug or other substance has a currently accepted medical use in treatment in the United States.
+        </section>
+        <section prefix="C">
+    	     Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
+        </section>
+        <section prefix="6">
+    	     SCHEDULE VI.—
+        </section>
+        <section prefix="A">
+    	     The substance is a prescription drug; and
+        </section>
+        <section prefix="B">
+    	     Said prescription drug has not been included in Schedules I through V.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Funds Raised By Taxation</catch_line>
+    <order_by>29</order_by>
+    <text>
+        If any part of the amount estimated under the preceding section shall be authorized as part of the county taxes, the respective counties shall raise the said amounts by taxation.
+    </text>
+</law>

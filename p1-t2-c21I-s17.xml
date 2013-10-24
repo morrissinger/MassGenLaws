@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Toxics Use Reduction Waiver</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="A">
+    	     that the proposed toxics use reduction technique or combination of techniques will be effective in achieving toxics use reduction and will achieve compliance with toxics laws and regulations within the time period of the waiver; and
+        </section>
+        <section prefix="B">
+    	     that the proposed technique or combination of techniques will not cause or contribute to an unreasonable risk to public health or safety or the environment in their operation, function or malfunction; and
+        </section>
+        <section prefix="C">
+    	     for waivers regarding the use of innovative toxics use reduction techniques, that the proposed technique or combination of techniques ultimately will achieve greater toxics use reduction than currently available toxics use reduction techniques; and
+        </section>
+        <section prefix="D">
+    	     for waivers regarding the use of a toxics use reduction technique or combination of such techniques in preference to other techniques, that the long-term benefit to the environment from the proposed technique or combination of techniques outweighs the benefits to the environment from more prompt compliance through other techniques.
+        </section>
+    </text>
+</law>

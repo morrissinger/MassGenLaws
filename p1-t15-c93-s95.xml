@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>95</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>95</order_by>
+    <text>
+        For purposes of sections ninety-five to one hundred, inclusive, the following words shall have the following meanings unless the context clearly requires otherwise:— 
+“Listed action”, any (a) claim for personal injuries made against any provider of health care services or subscriber, whether for injuries to the person making the claim or to any other person, or (b) complaint or stated intention to complain of the conduct of any provider of health care services or subscriber to any governmental agency, licensing authority or certifying authority. 
+“Listing service”, any person, firm, corporation, partnership, unincorporated association, franchise, franchisor or other entity which compiles plaintiff personal injury listings for distribution to subscribers. 
+“Plaintiff”, any person who has initiated a listed action. 
+“Plaintiff personal injury listing”, a compilation or index of one or more names of persons who have initiated, or currently are initiating, or who have sought or have attempted to seek a settlement of, a listed action. 
+“Subscriber”, any person, firm, corporation, partnership, unincorporated association, franchise, franchisor or other entity which directly provides health care services or which is engaged in the organization, administration, management, financing or insuring of the provision of health care services and which purchases, rents, borrows or otherwise obtains information contained in a plaintiff personal injury listing.
+    </text>
+</law>

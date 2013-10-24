@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25A" order_by="25A" level="3">Division Of Energy Resources</unit>
+    </structure>
+    <section_number>11H</section_number>
+    <catch_line>Assessments Against Electric And Gas Utility Companies; Rate Determined And Certified Annually By Commissioner</catch_line>
+    <order_by>11H</order_by>
+    <text>
+        <section prefix="a">
+    	     The department of energy resources may make an assessment against each electric and gas utility company doing business in the commonwealth. This section shall not apply to municipally owned electric and gas companies.
+        </section>
+        <section prefix="b">
+    	     The assessments shall be made to finance activities undertaken by the department in accordance with section 11G related to oversight and coordination of ratepayer funded programs for energy efficiency, energy conservation, and demand reduction programs.
+        </section>
+        <section prefix="c">
+    	     The assessment shall be made at a rate determined and certified annually by the commissioner as sufficient to reimburse the commonwealth for funds appropriated by the general court for activities of the department related to the oversight and coordination of programs for energy efficiency, energy conservation, and demand reduction. The assessment shall not exceed an amount equal to 3.75 per cent of the total annual mandatory charge collected by each utility company under section 19 of chapter 25 in the case of electric companies, or 3.75 per cent of the efficiency budgets as approved by the department of public utilities or otherwise required by law in the case of gas companies, as applicable. Assessments made under this section shall be charged by the utility companies against the revenues so collected under section 19 of chapter 25 or as the revenues are approved by the department of public utilities or otherwise required by law, as applicable. Each company shall pay the amount assessed against it within 30 days after the date of the notice of assessment from the department.
+        </section>
+    </text>
+</law>

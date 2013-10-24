@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Validity Of Certificate Issued Prior To Certain Dates</catch_line>
+    <order_by>38</order_by>
+    <text>
+        Nothing contained in this chapter shall be deemed to impair the validity of any certificate of registration issued by the registrar prior to September first, nineteen hundred and seventy-two or within a period of two years next following said date, regardless of the validity or invalidity of any certificate of title issued in connection therewith.
+    </text>
+</law>

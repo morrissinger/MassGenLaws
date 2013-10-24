@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Admission Of Non Residents</catch_line>
+    <order_by>32</order_by>
+    <text>
+        Any resident of the commonwealth over 14 years of age who resides in any town outside of a county in which a county agricultural school is located may be admitted to such school on the conditions prescribed in section 7.
+    </text>
+</law>

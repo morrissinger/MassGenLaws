@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64H" order_by="64H" level="3">Tax On Retail Sales Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Payment By Purchaser; Collection By Vendor; Sales Of Motor Vehicles Or Trailers</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in paragraph (c), reimbursement for the tax hereby imposed shall be paid by the purchaser to the vendor, and each vendor in the commonwealth shall add to the sales price and shall collect from the purchaser the full amount of the tax imposed by this chapter, or an amount equal as nearly as possible or practicable to the average equivalent thereof; and such tax shall be a debt from the purchaser to the vendor, when so added to the sales price, and shall be recoverable at law in the same manner as other debts.
+        </section>
+        <section prefix="b">
+    	     Any purchaser who operates a business and who acquires tangible personal property or services may apply to the commissioner for a direct payment permit. The commissioner, in his discretion, may issue a direct payment permit to the purchaser. A direct payment permit shall provide that no vendor making a sale to the permit holder shall be required to collect the sales or use tax otherwise payable on such sale and that the permit holder shall report, on such form as the commissioner shall designate, and pay directly to the commissioner the sales or use tax due on any tangible personal property or services acquired by him.
+        </section>
+        <section prefix="c">
+    	     The excise imposed by section two upon sales at retail of motor vehicles or trailers shall be paid by the purchaser to the registrar of motor vehicles in the manner prescribed by the commissioner. The vendor thereof shall not add the tax to the sales price and shall not collect the tax from the purchaser. The vendor thereof shall, however, furnish to the purchaser, the registrar and the commissioner a sworn statement of the sale upon a form prescribed by the commissioner, with the approval of the commission, giving such information as the commissioner may require for the determination of such tax. On any form prescribed by the commissioner under this section, the purchaser shall be required to identify the place of his principal residence under the pains and penalties of perjury. For the purpose of this paragraph, the term “motor vehicle” means any self-propelled vehicle designed for use and used primarily upon the highways.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19" order_by="19" level="3">Department Of Mental Health</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Mental Health Advisory Council</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall advise the commissioner on policy, program development, and priorities of need in the commonwealth for comprehensive programs in mental health;
+        </section>
+        <section prefix="b">
+    	     It shall participate with the department in holding a regular series of public hearings throughout the commonwealth to obtain the views of the area boards and other citizens concerning the programs of the department and the needs of the people for mental health services;
+        </section>
+        <section prefix="c">
+    	     It shall review the annual plans and the proposed annual budget of the department, and shall make recommendations to the commissioner in regard thereto;
+        </section>
+        <section prefix="d">
+    	     It shall hold at least three meetings per year and shall convene special meetings at the call of the chairman of the council, a majority of the council, or the commissioner.
+        </section>
+    </text>
+</law>

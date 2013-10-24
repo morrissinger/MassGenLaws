@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Items Exempted From Repurchase</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     a repair part with a limited storage life or otherwise subject to physical or structural deterioration including, but not limited to, gaskets or batteries;
+        </section>
+        <section prefix="2">
+    	     a single repair part normally priced and sold in a set of two or more items;
+        </section>
+        <section prefix="3">
+    	     a repair part that, because of its condition, cannot be marketed as a new part without repackaging or reconditioning by the supplier or manufacturer;
+        </section>
+        <section prefix="4">
+    	     any inventory that the dealer elects to retain;
+        </section>
+        <section prefix="5">
+    	     any inventory ordered by the dealer after receipt of notice of termination of the dealer agreement by either the dealer or supplier;
+        </section>
+        <section prefix="6">
+    	     any inventory that was acquired by the dealer from a source other than the supplier.
+        </section>
+    </text>
+</law>

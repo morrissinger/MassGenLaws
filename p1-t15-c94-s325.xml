@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>325</section_number>
+    <catch_line>Refund Value; Statement On Container; Vending Machines</catch_line>
+    <order_by>325</order_by>
+    <text>
+        <section prefix="a">
+    	     Every beverage container, except permanently labelled reusable glass containers, imported into, or offered for sale in the commonwealth by a bottler, distributor, or dealer shall clearly indicate in at least eight point type, by embossing or by stamp, or by label, or other method securely affixed to any portion except the bottom of the beverage container, the refund value of the container. A permanently labelled reusable glass beverage container first imported into, or offered for sale in the commonwealth after the effective date of this act by a bottler, distributor, or dealer shall clearly indicate in at least eight point type, by embossing or by stamp, or by label, or other method securely affixed to any portion except the bottom of the permanently labelled reusable glass beverage container, that the container may be returned for deposit. A dealer, distributor, redemption center, or bottler, may refuse to accept from any person any empty beverage container, except a permanently labelled reusable glass beverage container, which does not state thereon a refund value and may refuse to accept any permanently labelled reusable glass beverage container which does not state thereon that the container may be returned for deposit.
+        </section>
+        <section prefix="b">
+    	     Every operator of a vending machine which sells beverages in beverage containers shall post a conspicuous notice on each vending machine indicating that a refund of not less than five cents is available on each beverage container purchased and where and from whom that refund may be obtained. The provisions of this paragraph shall not be construed to require such vending machine operators to provide refunds at the premises wherein such vending machines are located.
+        </section>
+    </text>
+</law>

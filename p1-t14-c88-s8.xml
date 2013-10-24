@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="88" order_by="88" level="3">Ferries, Canals And Public Landings</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Negligence In Maintaining Ferry</catch_line>
+    <order_by>8</order_by>
+    <text>
+        A town which neglects to maintain a ferry as provided in the two preceding sections shall forfeit not more than one hundred dollars for each month such neglect continues.
+    </text>
+</law>

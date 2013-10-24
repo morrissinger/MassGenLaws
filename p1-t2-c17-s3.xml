@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="17" order_by="17" level="3">Department Of Public Health</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Public Health Council</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a public health council to advise the commissioner of public health and to perform other duties as required by law. The council shall consist of the commissioner of public health as chairperson and 14 members appointed for terms of 6 years under this section. The commissioner may designate 1 of the members as vice chairperson and may appoint subcommittees or special committees as needed.
+        </section>
+        <section prefix="b">
+    	     Four of the members shall be appointed by the governor: 1 shall be appointed from among the chancellor of the University of Massachusetts Medical School and a list of 3 nominated by said chancellor; 1 shall be appointed from among the dean of the University of Massachusetts Amherst School of Public Health or Health Sciences and a list of 3 nominated by said dean; 1 shall be appointed from among the heads of the non-public schools of medicine in the commonwealth or their nominees; and 1 shall be appointed from among the heads of the non-public schools or programs in public health in the commonwealth or their nominees.
+        </section>
+        <section prefix="c">
+    	     Four of the appointed members shall be providers of health services, appointed by the governor: 1 of whom shall have expertise in acute care hospital management; 1 of whom shall have expertise in long term care management; 1 of whom shall have expertise in home or community-based care management, and 1 of whom shall have expertise in the practice of primary care medicine or public health nursing.
+        </section>
+        <section prefix="d">
+    	     Six of the appointed members shall be non-providers: 1 shall be appointed by the secretary of elder affairs; 1 shall be appointed by the secretary of veterans’ services; 1 shall be appointed by the governor from a list of 3 nominated by Health Care For All, Inc.; 1 shall be appointed by the governor from a list of 3 nominated by the Coalition for the Prevention of Medical Errors, Inc.; 1 shall be appointed by the governor from a list of 3 nominated by the Massachusetts Public Health Association; and 1 shall be appointed by the governor from a list of 3 nominated by the Massachusetts Community Health Worker Network. Whenever an organization nominates a list of candidates for appointment by the governor under this subsection, the organization may nominate additional candidates if the governor declines to appoint any of those originally nominated.
+        </section>
+        <section prefix="e">
+    	     For purposes of this section, “non-provider” shall mean a person whose background and experience indicate that he is qualified to act on the council in the public interest; who, and whose spouse, parents, siblings or children, have no financial interest in a health care facility; who, and whose spouse has no employment relationship to a health care facility, to a nonprofit service corporation established under chapters 176A to 176E, inclusive, or to a corporation authorized to insure the health of individuals; and who, and whose spouse, is not licensed to practice medicine.
+        </section>
+        <section prefix="f">
+    	     Upon the expiration of the term of office of an appointive member, his successor shall be appointed in the same manner as the original appointment, for a term of 6 years and until the qualification of his successor. The members shall be appointed not later than 60 days after a vacancy. The council shall meet at least once a month, and at such other times as it shall determine by its rules, or when requested by the commissioner or any 4 members. The appointive members shall receive $100 per day that the council meets, and their reasonably necessary traveling expenses while in the performance of their official duties.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Assignment, Etc. Of Security Interest In Vehicle; Liability Of Lienholder; Assignee’S Rights</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     A lienholder may assign, absolutely or otherwise, his security interest in the vehicle to a person other than the owner without affecting the interest of the owner or the validity of the security interest, but any person without notice of the assignment is protected in dealing with the lienholder as the holder of the security interest and the lienholder remains liable for any obligations as lienholder until the assignee is named as lienholder on the certificate.
+        </section>
+        <section prefix="b">
+    	     It is not necessary for the assignee to have the certificate of title endorsed or issued with the assignee named as lienholder in order to continue the perfected status of the security interest against creditors of and transferees from the owner. The assignee may, however, have the certificate of title endorsed or issued with the assignee named as lienholder, upon delivering to the registrar the certificate and an assignment by the lienholder named in the certificate in the form the registrar prescribes.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>7O</section_number>
+    <catch_line>Motor Vehicle Pollutant Control Devices; Removal</catch_line>
+    <order_by>7O</order_by>
+    <text>
+        No person shall remove or render inoperative, except temporarily for maintenance purposes, any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under the National Emission Standards Act (42 USC 1857f-1), unless such device or element is to be replaced by or modified by another device or element, approved by the registrar, the installation of which will result in a reduction of pollutant emission.
+    </text>
+</law>

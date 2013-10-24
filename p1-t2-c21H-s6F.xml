@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6F</section_number>
+    <catch_line>Exemptions From Prohibitions In Secs. 6 D And 6 E; Applications; Fees</catch_line>
+    <order_by>6F</order_by>
+    <text>
+        <section prefix="a">
+    	     The department, at its discretion and in consultation with the executive office of economic development and the department of public health, may allow for exemptions to the prohibitions in sections 6D and 6E.
+        </section>
+        <section prefix="b">
+    	     Applications for exemptions shall demonstrate that:
+        </section>
+        <section prefix="1">
+    	     the use of the product is beneficial to the environment or protective of the public health or public safety;
+        </section>
+        <section prefix="2">
+    	     there is no technically feasible alternative to the use of mercury in the product;
+        </section>
+        <section prefix="3">
+    	     there is no comparable non-mercury-added product available at reasonable cost; and
+        </section>
+        <section prefix="4">
+    	     an effective system exists for the collection, transportation and processing of the mercury-added product. Such a system may include direct return of a waste product to the manufacturer, an industry or trade group-supported collection and recycling system or other similar private and public section efforts.
+        </section>
+        <section prefix="c">
+    	     The department shall establish application fees and a timeline for reviewing applications for exemptions that does not exceed 90 days.
+        </section>
+        <section prefix="d">
+    	     Before issuing an exemption, the department shall consult with neighboring states and regional organizations to promote consistency. The department shall avoid, to the extent feasible, inconsistencies in the implementation of this section.
+        </section>
+        <section prefix="e">
+    	     An exemption shall be valid for not more than 3 years and may be extended upon request of the applicant, at the discretion of the department.
+        </section>
+    </text>
+</law>

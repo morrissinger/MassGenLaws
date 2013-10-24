@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>35D</section_number>
+    <catch_line>Inconsistent Position In Reporting Of Income; Disclosure</catch_line>
+    <order_by>35D</order_by>
+    <text>
+        <section prefix="a">
+    	     A taxpayer subject to the tax imposed under chapter 62 or an excise imposed under chapter 63 that takes an inconsistent position in reporting its income subject to tax under said chapters shall disclose the inconsistency when it files its return.
+        </section>
+        <section prefix="b">
+    	     For purposes of this section, a taxpayer is considered to have taken an “inconsistent position” when (i) the governing law in another state in which the taxpayer files a return is the same in all material respects as the law in the commonwealth; and (ii) if the taxpayer had interpreted the law of the commonwealth as it interpreted the law of the other state in filing its return in such state, the taxable income attributed to the commonwealth would have been greater.
+        </section>
+        <section prefix="c">
+    	     Any taxpayer that fails to disclose an inconsistency as required under subsection (a) shall pay a penalty equal to the amount of tax attributable to the inconsistency, which penalty shall be in addition to all other penalties that may apply. The commissioner may waive or abate the penalty if the inconsistency or the failure to disclose was attributable to reasonable cause and not willful neglect.
+        </section>
+    </text>
+</law>

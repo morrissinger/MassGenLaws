@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>37B</section_number>
+    <catch_line>Installment Payment Agreements; Modification Or Termination</catch_line>
+    <order_by>37B</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner is authorized to enter into written agreements with any taxpayer under which such taxpayer is allowed to satisfy liability for payment of any tax in installment payments if the commissioner determines that such agreement will facilitate collection of such liability. Except as otherwise provided in this subsection, any agreement entered into by the commissioner shall remain in effect for the term of the agreement. The commissioner may terminate any agreement entered into by the commissioner if information which the taxpayer provided to the commissioner prior to the date such agreement was entered into was inaccurate or incomplete; or the commissioner believes that collection of any tax to which an agreement under this section relates is in jeopardy.
+        </section>
+        <section prefix="b">
+    	     If the commissioner makes a determination that the financial condition of a taxpayer with whom the commissioner entered into an agreement under subsection (a) has significantly changed, the commissioner may alter, modify, or terminate such agreement. Action may be taken by the commissioner hereunder only if (i) notice of such determination is provided to the taxpayer no later than thirty days prior to the date of such action and (ii) such notice includes the reasons why the commissioner believes a significant change in the financial condition of the taxpayer has occurred.
+        </section>
+        <section prefix="c">
+    	     The commissioner may alter, modify, or terminate any agreement entered into by the commissioner under subsection (a) in the case of the failure of the taxpayer (i) to pay any installment at the time such installment payment is due under such agreement, (ii) to pay any other tax liability at the time such liability is due, or (iii) to provide a financial condition update as requested by the commissioner.
+        </section>
+    </text>
+</law>

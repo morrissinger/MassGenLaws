@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     an officer or employee of a creditor while, in the name of the creditor, collecting debts for the creditor;
+        </section>
+        <section prefix="b">
+    	     a person while acting as a debt collector for another person, both of whom are related by common ownership or affiliated by corporate control, if the person acting as a debt collector does so only for a person to whom it is so related or affiliated and if the principal business of the person is not the collection of a debt;
+        </section>
+        <section prefix="c">
+    	     an officer or employee of the United States or a state of the United States to the extent that collecting or attempting to collect a debt is in the performance of his official duty;
+        </section>
+        <section prefix="d">
+    	     a person while serving or attempting to serve legal process on another person in connection with the judicial enforcement of a debt;
+        </section>
+        <section prefix="e">
+    	     a nonprofit organization which, at the request of a consumer, performs bona fide consumer credit counseling and assists the consumer in the liquidation of debts by receiving payments from the consumer and distributing the amounts to creditors;
+        </section>
+        <section prefix="f">
+    	     a person collecting or attempting to collect a debt owed or due or asserted to be owed or due another to the extent the activity (i) is incidental to a bona fide fiduciary obligation or a bona fide escrow arrangement; (ii) concerns a debt which was originated by the person; (iii) concerns a debt which was not in default at the time it was obtained by the person; or (iv) concerns a debt obtained by the person as a secured party in a commercial credit transaction involving the creditor;
+        </section>
+        <section prefix="g">
+    	     attorneys-at-law collecting a debt on behalf of a client; and
+        </section>
+        <section prefix="h">
+    	     an agent or independent contractor employed for the purpose of collecting a charge or bill owed by a tenant to a landlord or owed by a customer to a corporation subject to the supervision of the department of public utilities or the department of telecommunications and cable or the division of insurance insofar as the person collects charges or bills only for the landlord or supervised corporations.
+        </section>
+    </text>
+</law>

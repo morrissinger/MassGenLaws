@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Books Furnished By Municipalities</catch_line>
+    <order_by>45</order_by>
+    <text>
+        Each city or town shall provide, on or before January first, annually, suitable books for the use of its assessors in the assessment of taxes, which shall contain blank columns with uniform headings for a valuation list, in such form as the commissioner shall, from time to time, determine and approve.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>133A</section_number>
+    <catch_line>Duties Of Officers, Boards Or Authorities In Charge Of State Buildings Or Property</catch_line>
+    <order_by>133A</order_by>
+    <text>
+        <section prefix="1">
+    	     Shall adopt such policies and take such actions as may be necessary to assure that blind persons licensed by the commission for the blind will be given preference in the establishment and operation of vending facilities on property under their jurisdiction.
+        </section>
+        <section prefix="2">
+    	     Shall cooperate with the commission in surveys of property and buildings under their control in order to find suitable locations for the operation of vending facilities by blind persons, and after it has been determined that there is need for a vending facility and after the commission has determined that such a facility may be properly and satisfactorily operated by a blind person, shall cooperate with the commission in the installation of such vending facility.
+        </section>
+        <section prefix="3">
+    	     Shall no later than December thirty-first, nineteen hundred and eighty-three, notify the commission in writing of any and all existing locations where vending facilities might be operated by the commission under the Randolph-Shepard Vending Facility Program.
+        </section>
+        <section prefix="4">
+    	     Shall no less than thirty days prior to the reactivation or licensing for the operation of any vending facility inform the commission of such contemplated action.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>Income Reporting By Member Or Indirect Owner Of Pass Through Entity;  Unified Audit Procedure; Statute Of Limitations For Tax Assessment; Opting Out Of Unified Audit Procedure</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        <section prefix="a">
+    	     Members or indirect owners of a pass-through entity shall report items of income, expense or credit derived from the pass-through entity in a manner consistent with the reporting of the pass-through entity, except to the extent that a taxpayer member or indirect owner makes a declaration of inconsistency with its original return.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall establish by regulation unified audit procedures. The commissioner may audit, in a unified proceeding, a pass-through entity 1 or more of whose members or indirect owners are subject to tax under chapters 62 or 63; provided, however, that nothing in this section shall limit the ability of the commissioner to audit or assess individual members or indirect owners with respect to items derived from a pass-through entity. The commissioner’s regulations shall establish the types of pass-through entities subject to unified audit proceedings which may include, but shall not be limited to, partnerships and S corporations. The regulations shall also provide for the designation by the pass-through entity of a tax matters partner who shall have the authority to represent all the members or indirect owners in the unified proceeding, except to the extent that a member or indirect owner opts out of the unified proceeding as provided in subsection (d). The authority of the tax matters partner in a unified proceeding generally shall include, but not be limited to, the following: (i) receiving tax notices on behalf of participating members or indirect owners with respect to pass-through entity items; (ii) entering into settlement agreements with the commissioner under section 37C on behalf of the participating members or indirect owners with regard to pass-through entity items; (iii) filing applications for abatement under section 37 on behalf of the participating members or indirect owners with respect to pass-through entity items; and (iv) filing appeals with the appellate tax board under section 39 on behalf of participating members or indirect owners in the case of a denial of an abatement by the commissioner, if the underlying abatement application relates to pass-through entity items. So far as practicable, the commissioner’s regulations shall be modeled on federal rules.
+        </section>
+        <section prefix="c">
+    	     The statute of limitations for the assessment of tax of a member or indirect owner with respect to a pass-through entity item for an entity’s taxable year shall not expire before the latest of: (i) 3 years after the later of the date on which the entity’s return for the taxable year was filed or the last day for filing the entity’s return for that year, without extensions, or (ii) an assessment period otherwise applicable to the taxpayer member or indirect owner. Subsections (d) and (h) of section 26 shall apply to returns filed by a pass-through entity. In the case of a unified proceeding, the tax matters partner or other person authorized by a pass-through entity may enter into a written agreement with the commissioner under section 27 to extend the statute of limitations for assessment with respect to items of the pass-through entity, in which case such agreement shall operate to extend the statute of limitation for assessment with respect to all members or indirect owners with respect to such items, including any members or indirect owners who may have opted out of the unified proceeding pursuant to subsection (d).
+        </section>
+        <section prefix="d">
+    	     Members or indirect owners of a pass-through entity may choose not to participate in a unified audit procedure by providing notice to the commissioner in such manner as the commissioner may require. Non-participating members or indirect owners shall retain all rights provided under this chapter with respect to determining and disputing tax related to pass-through entity items; provided, however, that the statute of limitations for assessment of tax to non-participating members or indirect owners with respect to items derived from a pass-through entity that is subject to a unified proceeding shall not expire before the end of the time period provided in subsection (c).
+        </section>
+    </text>
+</law>

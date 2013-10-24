@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>83</section_number>
+    <catch_line>Pay And Allowances For Certain Duties</catch_line>
+    <order_by>83</order_by>
+    <text>
+        <section prefix="a">
+    	     For duty performed under the provisions of sections sixty and sixty-one, there shall be allowed and paid from funds appropriated therefor to members of the armed forces of the commonwealth the same rate of pay of like grade as would be received by them if they were on active duty status in the armed forces of the United States with less than two years’ service, and such subsistence, travel or other allowances as the adjutant general may authorize.
+        </section>
+        <section prefix="b">
+    	     For duty performed under the provisions of sections thirty-eight, forty, forty-one and forty-two, there shall be allowed and paid to members of the armed forces of the commonwealth from funds appropriated therefor the same rate of pay for length of service and basic allowances as if they were on active duty status in the armed forces of the United States, however, such compensation shall not be less than 100 dollars per day, subject, however, to the provisions of subsection (c).
+        </section>
+        <section prefix="c">
+    	     For duty performed under the provisions of sections thirty-eight, forty, forty-one, forty-two and sixty, the pay and allowances authorized by this section shall be reduced by any amounts received from the United States government as pay or allowances for military service performed during the same pay period.
+        </section>
+    </text>
+</law>

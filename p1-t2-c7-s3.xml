@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Principal Agency Of Executive Department; Purposes</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     Developing, co-ordinating, administering and controlling the financial policies and programs of the commonwealth;
+        </section>
+        <section prefix="2">
+    	     Supervising the organization and conduct of the business affairs of the departments, commissions, offices, boards, divisions, institutions and other agencies within the executive department of the government of the commonwealth;
+        </section>
+        <section prefix="3">
+    	     Developing new policies and programs which will improve the organization, structure, functions, economy, efficiency, procedures, services and administrative practices of all such departments, commissions, offices, boards, divisions, institutions and other agencies.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Assessment Of Additional Taxes</catch_line>
+    <order_by>59</order_by>
+    <text>
+        When the commissioner has received notice of an abatement of the taxes of any corporation under section seventy-four of chapter fifty-nine, he shall assess upon such corporation an additional tax upon its corporate franchise value, in such amount as shall make the total franchise tax equal that which would have been assessed had the valuation as established by said abatement been adopted by the commissioner when making his original assessment upon the corporate franchise value of such corporation, which additional tax shall be paid and collected as an addition to the franchise tax next to be assessed upon said corporation after such abatement; but this section shall not apply to corporations subject to section fifty-two A.
+    </text>
+</law>

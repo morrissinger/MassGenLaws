@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Collection, Storage, Etc., Of Hazardous Waste At Generation Site;  Regulations</catch_line>
+    <order_by>6</order_by>
+    <text>
+        The department shall establish such regulations concerning the collection, storage, treatment, use or disposal of hazardous wastes at the site of generation as it deems necessary to protect public health, safety and welfare and the environment, and to implement the provisions of this chapter and RCRA. 
+Said regulations shall include requirements that generators maintain records and report to the division and to other agencies regarding the quantity and type of hazardous wastes which they have generated, stored, treated, disposed of or transferred to another person, and such other requirements as the division deems necessary.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64L" order_by="64L" level="3">Local Option Meals Excise</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Local Sales Tax Upon Restaurant Meals; Distribution; Effective Date Upon Acceptance By Municipality; Reports</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A city or town which accepts this section in the manner provided in section 4 of chapter 4 may impose a local sales tax upon the sale of restaurant meals originating within the city or town by a vendor at a rate of.75 per cent of the gross receipts of the vendor from the sale of restaurant meals. No excise shall be imposed if the sale is exempt under section 6 of chapter 64H. The vendor shall pay the local sales tax imposed under this section to the commissioner at the same time and in the same manner as the sales tax due to the commonwealth.
+        </section>
+        <section prefix="b">
+    	     All sums received by the commissioner under this section shall, at least quarterly, be distributed, credited and paid by the state treasurer upon certification of the commissioner to each city or town that has accepted this section in proportion to the amount of the sums received from the sales of restaurant meals in that city or town. Any city or town seeking to dispute the commissioner’s calculation of its distribution under this subsection shall notify the commissioner, in writing, not later than 1 year from the date the tax was distributed by the commissioner to the city or town.
+        </section>
+        <section prefix="c">
+    	     This section shall take effect in a municipality on the first day of the calendar quarter following 30 days after its acceptance by the municipality or on the first day of a later calendar quarter that the city or town may designate.
+        </section>
+        <section prefix="d">
+    	     Notwithstanding any provisions in section 21 of chapter 62C to the contrary, the commissioner may make available to cities and towns any information necessary for administration of the excise imposed by this section including, but not limited to, a report of the amount of local option sales tax on restaurant meals collected in the aggregate by each city or town under this section in the preceding fiscal year, and the identification of each individual vendor collecting local option sales tax on restaurant meals collected under this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Allowance Of Final Account In Estates With Future Interests</catch_line>
+    <order_by>24</order_by>
+    <text>
+        The fact that an estate may later become subject to a tax imposed by this chapter, or that a tax hereby imposed is due and the amount thereof cannot be ascertained, shall not prevent the allowance of the final account of the executor, administrator or trustee thereof, if it appears that all taxes imposed by this chapter for which such estate is liable, which are already payable and the amount of which can be ascertained, have been paid, and that such property or interest therein has been transferred to a trustee appointed by a probate court of the commonwealth who has given bond, with sufficient sureties, in such a sum as to insure the payment of all taxes which are or may become due on said estate, unless such trustee is exempted from giving sureties by the probate court appointing him; and such trustee shall be liable for such taxes and the interest thereon in the same manner and to the same amount as if he had been the executor, administrator or trustee originally liable therefor, and the property received by him shall be subject to a lien for said taxes and interest until the same are paid.
+    </text>
+</law>

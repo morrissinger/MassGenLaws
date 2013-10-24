@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Unlawful Use Of Registration Numbers In Manufacture Or Distribution, Or Fraudulently Obtaining Possession, Of Controlled Substances; Criminal Penalties</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall knowingly or intentionally use in the course of the manufacture or distribution of a controlled substance a registration number which is fictitious, revoked, suspended, or issued to another person.
+        </section>
+        <section prefix="b">
+    	     No person shall utter a false prescription for a controlled substance, nor knowingly or intentionally acquire or obtain possession of a controlled substance by means of forgery, fraud, deception or subterfuge, including but not limited to the forgery or falsification of a prescription or the nondisclosure of a material fact in order to obtain a controlled substance from a practitioner.
+        </section>
+        <section prefix="c">
+    	     Whoever violates any provision of this section shall be punished by imprisonment in the state prison for not more than four years or in a house of correction for not more than two and one half years or by a fine of not more than twenty thousand dollars, or by both such fine and imprisonment. Whoever violates any provision of this section after one or more prior convictions of a violation of this section, or of a felony under any other provision of this chapter, or under a provision of prior law relative to the sale or manufacture of a narcotic drug or a harmful drug as defined in said earlier law shall be punished by imprisonment in the state prison for not more than eight years or in a jail or house of correction for not more than two and one half years, or by a fine of not more than thirty thousand dollars or by both such fine and imprisonment.
+        </section>
+    </text>
+</law>

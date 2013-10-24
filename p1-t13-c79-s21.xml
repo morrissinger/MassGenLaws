@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="79" order_by="79" level="3">Eminent Domain</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Procedure On Death Of Person Entitled To Damages</catch_line>
+    <order_by>21</order_by>
+    <text>
+        If a person who is entitled to petition for an award or assessment of his damages under this chapter dies without filing such petition within the time limited therefor, his executor or administrator may within one year from the date of his appointment file such petition in the same manner and with the same effect as if filed by the deceased in his lifetime.
+    </text>
+</law>

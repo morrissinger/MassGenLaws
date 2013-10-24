@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following words as used in this chapter shall, unless the context otherwise requires, have the following meanings:— 
+“Corporation”, every corporation, company or association subject to taxation under the provisions of chapter sixty-three, or under any special act which is in lieu of the provisions of said chapter sixty-three. 
+“Estimated tax”, the amount which the corporation estimates as the taxes required to be paid under chapter sixty-three or any act in lieu thereof, and under any act in addition thereto.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>34A</section_number>
+    <catch_line>Bond; Release Of Delinquent Taxpayer From Custody</catch_line>
+    <order_by>34A</order_by>
+    <text>
+        A person shall not be committed to jail for the non-payment of a tax, nor shall a person so committed be further detained therein, if he gives to the collector or to the officer charged with the service of the collector’s warrant a bond running to the collector sufficient in amount to cover the amount of the tax and all interest and other charges and fees which are or may become due thereon, conditioned to pay the same to the collector or officer within thirty days thereafter or within such further time as the collector or officer may fix, and with such surety or sureties as the collector or officer or a master in chancery may approve. A person shall not be committed for such non-payment until he has been given a reasonable time to procure such a bond.
+    </text>
+</law>

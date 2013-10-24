@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Forms; Provisions Respecting Fractional Parts Of A Dollar; Credit, Refund, Or Abatement</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The commissioner may by regulation provide with respect to any amount required to be shown on a form prescribed by him for any return, statement, or other document that, if such amount is other than a whole dollar amount, the fractional part of a dollar shall be disregarded unless it amounts to one half dollar or more, in which case the amount determined without regard to the fractional part of a dollar shall be increased by one dollar. 
+The provisions of the above paragraph shall not be applicable to items which must be taken into account in making the computations necessary to determine the amount required to be shown on the form, but shall be applicable only to such final amount. 
+In the assessment or collection of any tax, or in the allowance of any amount as a credit, refund, or abatement, the commissioner, may, under regulations issued by him, disregard a fractional part of a dollar unless it amounts to fifty cents or more, in which case it shall be increased to one dollar.
+    </text>
+</law>

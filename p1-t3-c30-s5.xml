@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Conflicting Orders Or Regulations; Appeal To Governor And Council</catch_line>
+    <order_by>5</order_by>
+    <text>
+        In all cases where a question arises between executive or administrative departments, or officers or boards thereof, as to their respective jurisdictions or powers, or where such departments, or officers or boards thereof, issue conflicting orders or make conflicting rules and regulations, the governor and council may, on appeal by any such department or by any person affected thereby, determine the question, and order any such order, rule or regulation amended or annulled; provided, that this section shall not deprive any person of the right to pursue any other lawful remedy. The time within which such appeal may be taken shall be fixed by the governor and council.
+    </text>
+</law>

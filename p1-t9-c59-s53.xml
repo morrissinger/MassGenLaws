@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Tax Lists; Commitment; Warrants; Collector Of Taxes</catch_line>
+    <order_by>53</order_by>
+    <text>
+        The assessors shall, within a reasonable time, commit the tax list with their warrant to the collector of taxes, and, if there is a fire, water, light or improvement district in the town, they shall commit to him a separate list and warrant for the district taxes. If no collector has been chosen, they shall commit such list with their warrants, to a constable; or, if there is no constable, to the sheriff or his deputy; but the assessors of a town shall not commit a tax list to the collector until the bonds of such collector and of the town treasurer have been given and approved as required by law.
+    </text>
+</law>

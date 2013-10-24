@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>33D</section_number>
+    <catch_line>Voting For Persons Not Listed On Ballot Labels Of Machine</catch_line>
+    <order_by>33D</order_by>
+    <text>
+        Every vote cast for any person whose name does not appear on the ballot labels of the machine as a nominated candidate for office shall be written or affixed or enclosed on or in the appropriate place on the machine provided for that purpose, or it shall not be counted.
+    </text>
+</law>

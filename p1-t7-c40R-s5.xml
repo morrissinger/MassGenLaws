@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40R" order_by="40R" level="3">Smart Growth Zoning And Housing Production</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Information In Application For Determination Of Eligibility</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     identify and describe the boundaries of the proposed smart growth zoning district;
+        </section>
+        <section prefix="b">
+    	     identify and describe the developable land area within the proposed smart growth zoning district;
+        </section>
+        <section prefix="c">
+    	     identify and describe other residential development opportunities for infill housing and the residential re-use of existing buildings and underutilized buildings within already developed areas;
+        </section>
+        <section prefix="d">
+    	     include a comprehensive housing plan, as set forth in section 8;
+        </section>
+        <section prefix="e">
+    	     include a copy of the proposed smart growth district ordinance or by-law;
+        </section>
+        <section prefix="f">
+    	     by narrative and exhibits, establish the elements set forth in section 6.
+        </section>
+    </text>
+</law>

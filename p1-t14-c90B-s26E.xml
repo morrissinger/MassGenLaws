@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>26E</section_number>
+    <catch_line>Permitting Underage Operation Of Snow Or Recreation Vehicle; Joint And Several Liability For Resulting Damages</catch_line>
+    <order_by>26E</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person age 18 or older with custody or control of a snow vehicle or recreation vehicle, who knowingly permits another, who is under the age of 18, to operate such vehicle shall be held liable, jointly and severally with the operator, for any damage or injuries caused by such operator’s operation of the vehicle and for any fines, penalties or restitution resulting therefrom.
+        </section>
+        <section prefix="b">
+    	     An owner of a snow vehicle or recreation vehicle or other person who knowingly permits a person 18 years of age or older to operate a snow vehicle or a recreation vehicle in violation of this chapter shall be held liable, jointly and severally, with the operator, for any damage or injuries caused by such operator’s negligent operation and for any fines, penalties or restitution resulting therefrom.
+        </section>
+        <section prefix="c">
+    	     Lack of ownership of the vehicle or mistake as to the age of the operator shall not be defenses in an action filed pursuant to this section.
+        </section>
+    </text>
+</law>

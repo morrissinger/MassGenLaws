@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Return By Executor</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     An executor, as defined in chapter sixty-five C, of the estate of a resident or nonresident decedent, shall, within nine months after the date of the decedent’s death, make a return with respect to the tax imposed by chapter sixty-five C if, in the case of a decedent dying on or before December thirty-first, nineteen hundred and ninety-six, the Massachusetts gross estate exceeds the amount of the exemption afforded by subsection (a) of section three of chapter sixty-five C, or in the case of a decedent dying thereafter, the estate is liable for any amount of tax under chapter sixty-five C. For purposes of this section the Massachusetts gross estate of a nonresident decedent shall be computed as if the decedent had been a resident. Such return shall be in such form as may be prescribed by the commissioner. The return shall be accompanied by a filing fee as determined annually by the commissioner of administration under the provision of section three B of chapter seven.
+        </section>
+        <section prefix="b">
+    	     If the executor is unable to make a complete return as to any part of the federal gross estate of the decedent, he shall include in his return a description of such part and the name of every person holding a legal or beneficial interest therein. Upon notice from the commissioner such person shall in like manner make a return as to such part of the federal gross estate.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6D</section_number>
+    <catch_line>Sale Of Mercury Added Thermostats And Other Mercury Added Products</catch_line>
+    <order_by>6D</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall sell or offer to sell or distribute a mercury-added thermostat in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     No person shall sell or offer to sell or distribute in the commonwealth the following mercury-added products:
+        </section>
+        <section prefix="1">
+    	     barometers;
+        </section>
+        <section prefix="2">
+    	     esophageal dilators, bourgie tubes or gastrointestinal tubes;
+        </section>
+        <section prefix="3">
+    	     flow meters;
+        </section>
+        <section prefix="4">
+    	     hydrometers;
+        </section>
+        <section prefix="5">
+    	     hygrometers or psychrometers;
+        </section>
+        <section prefix="6">
+    	     manometers;
+        </section>
+        <section prefix="7">
+    	     pyrometers;
+        </section>
+        <section prefix="8">
+    	     sphygmomanometers; or
+        </section>
+        <section prefix="9">
+    	     basal thermometers.
+        </section>
+        <section prefix="c">
+    	     Subsections (a) and (b) shall not apply: (i) to the sale of mercury-added products if the use of the product is a federal requirement; (ii) to the sale of thermometers if they are determined to be medically necessary by a licensed physician or are ordered by prescription, or (iii) to the sale of mercury-added antique barometers, including antique barometers with attached mercury thermometers, if the barometer was manufactured prior to 1955.
+        </section>
+    </text>
+</law>

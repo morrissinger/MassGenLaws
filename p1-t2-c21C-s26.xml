@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Records Of Negotiations And Meetings; Insolvency Fund As Creditor</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="1">
+    	     Records shall be kept of all negotiations and meetings in which the insolvency fund or its representatives are involved to discuss the activities of the insolvency fund in carrying out its powers and duties. Records of such negotiations or meetings shall be made public only upon the termination of a bankruptcy, liquidation, rehabilitation, or conservation proceeding involving the impaired or insolvent licensee, upon the termination of the impairment or insolvency of the licensee, or upon the order of a court of competent jurisdiction. Nothing in this section shall limit the duty of the insolvency fund to render a report of its activities under section twenty-seven.
+        </section>
+        <section prefix="2">
+    	     For the purposes of this chapter, the insolvency fund shall be deemed to be a creditor of the impaired or insolvent licensee to the extent of any amounts to which the association is entitled as subrogee. Assets of the impaired or insolvent licensee, wherever located, shall be used to pay all covered claims against the impaired or insolvent licensee as required.
+        </section>
+    </text>
+</law>

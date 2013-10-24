@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58" order_by="58" level="3">General Provisions Relative To Taxation</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Deductions From Sums Payable To Cities And Towns</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        If, at the time any amount is distributable or payable by the commonwealth to any city or town, there is due to the commonwealth any sum from such city or town, for any service or cause whatsoever, such sum so due to the commonwealth shall be deducted by the state treasurer from the amount so distributable or payable to the city or town, and shall be applied to the payment of the sum so due to the commonwealth.
+    </text>
+</law>

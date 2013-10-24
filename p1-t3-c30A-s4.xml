@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Petitions For Adoption, Amendment Or Repeal Of Regulations</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Any interested person may petition an agency requesting the adoption, amendment or repeal of any regulation, and may accompany his petition with such data, views and arguments as he thinks pertinent. Each agency shall prescribe by regulation the procedure for the submission, consideration and disposition of such petitions.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Money Received To Be Held As Trust Funds</catch_line>
+    <order_by>8</order_by>
+    <text>
+        All moneys received pursuant to this chapter, whether as proceeds from the issue of refunding bonds or as revenues or otherwise, shall be deemed to be trust funds to be held and applied solely as provided in this chapter. The resolution authorizing the refunding bonds or the trust agreement securing such notes or bonds shall provide that any officer with whom, or any bank or trust company with which, such moneys shall be deposited shall act as trustee of such moneys and shall hold and apply the same for the purposes hereof, subject to such regulations as this chapter and such resolution or trust agreement may provide.
+    </text>
+</law>

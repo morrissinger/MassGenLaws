@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Levy Upon Property For Payment Of Tax</catch_line>
+    <order_by>53</order_by>
+    <text>
+        <section prefix="a">
+    	     If any person liable to pay any tax neglects or refuses to pay the same within ten days after demand, it shall be lawful for the commissioner to collect such tax, and such further sum as shall be sufficient to cover the expenses of the levy, by levy upon all property and rights to property belonging to such person or on which there is a lien provided in this chapter or in chapter sixty-five or sixty-five C for the payment of such tax including, without limitation, any periodic or lump sum payments from any state or local agency or authority, including unemployment compensation and other benefits not otherwise exempt, judgments, settlements and lottery winnings. If the commissioner makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the commissioner and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the ten-day period provided in this section.
+        </section>
+        <section prefix="b">
+    	     The term “levy” as used in this chapter includes the power of distraint and seizure by any means. A levy shall extend only to property possessed and obligations existing at the time thereof. In any case in which the commissioner may levy upon property or rights to property, he may seize and sell such property or rights to property, whether real or personal, tangible or intangible.
+        </section>
+        <section prefix="c">
+    	     Whenever any property or right to property upon which levy has been made by virtue of subsection (a) is not sufficient to satisfy the claim of the commonwealth for which levy is made, the commissioner may, thereafter, and as often as may be necessary, proceed to levy in like manner upon any other property liable to levy of the person against whom such claim exists, until the amount due from him, together with all expenses, is fully paid.
+        </section>
+        <section prefix="d">
+    	     The effect of a levy on salary or wages payable to or received by a taxpayer shall be continuous from the date such levy is first made until the liability out of which such levy arose is satisfied or becomes unenforceable by reason of lapse of time. The effect of a levy on any other property or rights to property shall remain in effect for six months from the date such levy is first made until the liability out of which such levy arose is satisfied or becomes unenforceable by reason of lapse of time. With respect to a levy described in this subsection, the commissioner shall promptly release the levy when the liability out of which such levy arose is satisfied or becomes unenforceable by reason of lapse of time, and shall promptly notify the person upon whom such levy was made that such levy has been released.
+        </section>
+        <section prefix="e">
+    	     With respect to a levy on securities or a levy on shares of a mutual fund other than a money market mutual fund, the person or entity may sell or repurchase such securities or shares in the ordinary and usual course of investing, but may not receive funds resulting from such sale, for a time period of up to 45 days. If, during such time period, the commissioner has not rescinded the levy, extended the time period or notified the person or entity in possession of such securities or shares to remit funds, at the end of such time period such person shall forthwith liquidate sufficient securities or shares to satisfy the full amount of the lien and remit the liquidated funds to the commissioner.
+        </section>
+    </text>
+</law>

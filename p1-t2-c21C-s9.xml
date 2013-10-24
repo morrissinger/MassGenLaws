@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Violations; Orders By Department</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Whenever it appears that there is a violation of any provision of this chapter or any license, order, approval or regulation issued or adopted thereunder, the department may issue to a person causing or contributing, or likely to cause or contribute, to such violation or potential violation an order requiring the production or analysis of samples and the production of records, or imposing such restraints on or requiring such action by said persons, as it deems necessary to abate or prevent such hazard or violation. The department also may issue such orders as it deems necessary to secure compliance with any license. Issuance of an order under this section shall not preclude, and shall not be deemed an election to forego, any action to recover damages, or, to seek civil penalties, criminal fines and penalties or injunctive relief.
+    </text>
+</law>

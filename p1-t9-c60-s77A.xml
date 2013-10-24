@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>77A</section_number>
+    <catch_line>Sale By Municipalities; Land Acquired Through Foreclosure; Recording Deeds</catch_line>
+    <order_by>77A</order_by>
+    <text>
+        In case of the sale of land acquired by a city or town through foreclosure under any provision of this chapter, the purchaser shall be required as a condition of the sale to authorize the official or officials executing the deed on behalf of the city or town to record the same, and the expense of such recording shall be paid by such purchaser. Such official or officials shall cause such deed to be recorded in the proper registry of deeds within fifteen days after the execution thereof.
+    </text>
+</law>

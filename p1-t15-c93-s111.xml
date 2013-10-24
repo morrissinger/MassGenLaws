@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>111</section_number>
+    <catch_line>Information Booklet Describing Customer’S Rights Under Secs. 108 To 113</catch_line>
+    <order_by>111</order_by>
+    <text>
+        <section prefix="a">
+    	     An LEC doing business in the commonwealth shall prepare an information booklet describing customer’s rights under the provisions of sections 108 to 113, inclusive. The LEC shall mail such booklet to each of its customers, including new customers. The information booklet shall be approved by the department.
+        </section>
+        <section prefix="b">
+    	     After switching a customer’s IXC or LEC, said LEC shall include in the customer’s next monthly statement a notice that shall include the following: (i) the customer’s telephone number for which the LEC switched the IXC or LEC; (ii) the name, address, and telephone number of the original IXC or original LEC.
+        </section>
+    </text>
+</law>

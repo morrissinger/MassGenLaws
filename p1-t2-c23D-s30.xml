@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23D" order_by="23D" level="3">Employee Ownership Revolving Loan Fund</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Industrial Service Program; Manufacturing Network Grants</catch_line>
+    <order_by>30</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section the following terms shall, unless the context clearly requires otherwise have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     The industrial service program, hereinafter referred to as “the program,” shall support the creation and development of manufacturing networks to enhance the quality of Massachusetts manufactured products and improve the national and international competitiveness of Massachusetts manufacturing firms.
+        </section>
+        <section prefix="1">
+    	     share, develop and finance improvements and innovation in manufacturing technology;
+        </section>
+        <section prefix="2">
+    	     improve productivity, including but not limited to, total quality management, statistical quality control and just-in-time production;
+        </section>
+        <section prefix="3">
+    	     enhance work force development and employee training;
+        </section>
+        <section prefix="4">
+    	     access new export markets;
+        </section>
+        <section prefix="5">
+    	     improve work organization and management practices, including but not limited to increasing front-line employee responsibility and participation;
+        </section>
+        <section prefix="6">
+    	     convert from military- to civilian-based production;
+        </section>
+        <section prefix="7">
+    	     meet environmental standards or regulations;
+        </section>
+        <section prefix="8">
+    	     reduce employee health care costs and improve workplace safety; and
+        </section>
+        <section prefix="9">
+    	     engage in other related activities.
+        </section>
+        <section prefix="c">
+    	     The program shall annually file with the clerks of the senate and the house of representatives on or before January first, a report of its activities in support of manufacturing networks in the commonwealth. Said report shall include, but not be limited to: (1) a financial statement summarizing the corporation activities involving manufacturing networks; (2) the number and types of manufacturers assisted and a description of the assistance provided; and (3) legislative recommendations to enhance the competitiveness of Massachusetts manufacturers.
+        </section>
+        <section prefix="d">
+    	     Said program shall work cooperatively with the university of Massachusetts and the department of labor and workforce development.
+        </section>
+    </text>
+</law>

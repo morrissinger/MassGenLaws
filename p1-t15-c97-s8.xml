@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Massachusetts Coordinate System Nad, 1983; Mainland And Island Zones</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The system of plane rectangular coordinates shall be the North American Datum of 1983 as established by the National Ocean Services/National Geodetic Survey (NOS/NGS), or its successors for defining and stating the geographic positions or locations of points on the surface of the earth within the commonwealth and shall be known as the Massachusetts Coordinate System North American Datum (NAD), 1983. 
+For the purposes of the use of said system the commonwealth is hereby divided into a mainland zone and an island zone. 
+The area now included in the following counties shall constitute the mainland zone: Barnstable, Berkshire, Bristol, Essex, Franklin, Hampden, Hampshire, Middlesex, Norfolk, Plymouth, Suffolk and Worcester. 
+The area now included in the counties of Dukes County and Nantucket shall constitute the island zone.
+    </text>
+</law>

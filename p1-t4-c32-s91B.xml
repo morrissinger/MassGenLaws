@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>91B</section_number>
+    <catch_line>Enforcement Of Sec. 91 A; Wage Reporting System And Computer Match File</catch_line>
+    <order_by>91B</order_by>
+    <text>
+        <section prefix="A">
+    	     On an annual basis, the public employee retirement administration commission shall provide to the department of revenue such information as may be agreed upon pursuant to the terms of an interagency agreement between the department of revenue and the public employee retirement administration commission.
+        </section>
+        <section prefix="B">
+    	     The department of revenue shall compare such lists with data furnished to it in accordance with section ninety-one A, so as to determine if persons retired or pensioned and subject to the provisions of said section ninety-one A have complied with said section. Upon receipt of such information, the commission shall notify the respective retirement board which shall take the appropriate formal action provided for under this chapter.
+        </section>
+    </text>
+</law>

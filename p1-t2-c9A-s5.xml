@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9A" order_by="9A" level="3">Address Confidentiality Program</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Availability Of Program Participant’S Address For Inspection Or Copying</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     If requested of the secretary by the chief commanding officer of a law enforcement agency or his designee in the manner provided for by regulation.
+        </section>
+        <section prefix="2">
+    	     Upon request to the secretary by a commissioner of a state agency, or his specific designee, in the manner provided for by regulation and upon a showing of a bona fide statutory or administrative requirement for the use of the participant’s actual residential address, such that it is unable to fulfill its statutory duties and obligations without such residential address.
+        </section>
+        <section prefix="3">
+    	     To a person identified in a court order, upon the secretary’s receipt of that court order which specifically orders the disclosure of a particular program participant’s address and the reasons stated therefor.
+        </section>
+        <section prefix="4">
+    	     If certification has been canceled due to provision of false or incorrect information in an application or knowingly falsely attesting that disclosure of the applicant’s address threatens the safety of the applicant or the applicants children or the minor or incapacitated person on whose behalf the application is made, as provided for in paragraph (5) of section 2.
+        </section>
+    </text>
+</law>

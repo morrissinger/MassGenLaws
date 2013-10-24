@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70" order_by="70" level="3">School Funds And State Aid For Public Schools</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Legislative Intent</catch_line>
+    <order_by>1</order_by>
+    <text>
+        It is the intention of the general court, subject to appropriation, to assure fair and adequate minimum per student funding for public schools in the commonwealth by defining a foundation budget and a standard of local funding effort applicable to every city and town in the commonwealth.
+    </text>
+</law>

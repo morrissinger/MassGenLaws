@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Installment Transactions</catch_line>
+    <order_by>63</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purposes of this section, the term “installment transaction” shall mean a transaction which:
+        </section>
+        <section prefix="1">
+    	     is treated for federal income tax purposes under section 453 of the Code; and
+        </section>
+        <section prefix="2">
+    	     would, but for the application of said section 453 of the Code, result in an item of Massachusetts gross income for the taxable year of the transaction that is equal to or greater than $1,000,000.
+        </section>
+        <section prefix="b">
+    	     In the case of any person having an installment transaction for a taxable year, the federal gross income of such taxable year shall be modified for the purpose of applying section two as follows:
+        </section>
+        <section prefix="1">
+    	     the federal gross income shall be increased by the excess of the federal adjusted basis of the property disposed of in the transaction over the Massachusetts adjusted basis of such property, or, if there is more than one such transaction by the sum of all such excesses; and
+        </section>
+        <section prefix="2">
+    	     the federal gross income shall be decreased by the excess of the Massachusetts adjusted basis of the property disposed of in the transaction over the federal adjusted basis of such property, or, if there is more than one such transaction, by the same of all such excesses.
+        </section>
+        <section prefix="3">
+    	     no modification shall be made under this subsection to the extent that such modification would duplicate a modification required under section six F.
+        </section>
+        <section prefix="c">
+    	     Any person having an installment transaction in a taxable year shall file a return for such taxable year and shall, with respect to all such transactions in such year, as a group and not separately, file with the return an election to be treated either under paragraph (d) or (e) of this section. Once made election shall not be revoked without the consent of the commissioner. In the case of a person having an installment transaction treated under section four hundred and fifty-three of the Code such election shall apply to the taxable year and to all subsequent taxable years, unless the commissioner consents to a new election for any taxable year and all subsequent taxable years.
+        </section>
+        <section prefix="d">
+    	     If installment transaction treatment under this paragraph is elected for any taxable year no further modifications with respect to installment transactions of such taxable year shall be made to federal gross income in determining Massachusetts gross income for such taxable year or for any subsequent taxable year of any person. There shall be computed the excess, if any, of the tax which would have been imposed under this chapter for the taxable year had the method of paragraph (e) of this section been elected over the tax actually imposed by this chapter for such taxable year. The person making the election shall deposit with the commissioner security, in a form satisfactory to the commissioner, in an amount equal to such excess for the payment of future taxes under this chapter. When all federal gross income to be included with respect to installment transactions of such taxable year has been included in federal gross income, and all resulting taxes have been paid to the commonwealth, the commissioner shall release the security deposited for such taxable year. The commissioner shall by regulation provide for proportionate releases in intervening years. All items of federal gross income arising from such installment transactions shall be deemed to be income from sources within the commonwealth.
+        </section>
+        <section prefix="e">
+    	     If installment transaction treatment under this paragraph is elected for any taxable year the federal gross income of such taxable year shall be further modified, for the purpose of applying section two by eliminating the effect of the treatment under section four hundred and fifty-three of the Code of all installment transactions of such taxable year. For each subsequent taxable year as to which an item of federal gross income is includable by any person with respect to such an installment transaction, the federal gross income of such person shall be modified, for purposes of applying section two, by reducing federal gross income by the sum of all such items.
+        </section>
+    </text>
+</law>

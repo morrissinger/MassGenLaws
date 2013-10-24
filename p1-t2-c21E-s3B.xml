@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>3B</section_number>
+    <catch_line>Permit Application Fees; Annual Compliance Assurance Fees</catch_line>
+    <order_by>3B</order_by>
+    <text>
+        <section prefix="1">
+    	     the schedule shall begin when an application is received by the department and the application fee paid;
+        </section>
+        <section prefix="2">
+    	     one or more periods of reasonable length, based on the nature and complexity of the review required of the department, at the end of which time the department shall issue a decision to grant or deny the permit, or an identification of deficiencies in the application; provided, that the schedule may reasonably limit the amount of time to which the applicant may remedy such deficiencies;
+        </section>
+        <section prefix="3">
+    	     a period of reasonable length, based on the nature and complexity of the review required of the department, beginning with receipt of materials submitted by the applicant in response to the department’s identification of deficiencies, at the end of which time the department shall issue a decision to grant or deny the permit;
+        </section>
+        <section prefix="4">
+    	     allowance for applicable state or federal public participation requirements; and
+        </section>
+        <section prefix="5">
+    	     a provision extending the time periods set forth in clauses (2) and (3) when action by another federal, state, or municipal government agency is required before the department may act, when judicial proceedings affect the ability of the department or the applicant to proceed with application, when the department has commenced enforcement proceedings which could affect the application, or when the applicant provides written assent extending any applicable time period.
+        </section>
+    </text>
+</law>

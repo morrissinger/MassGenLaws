@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>32E</section_number>
+    <catch_line>Application And Refund Of Credits Earned Under Sec. 38 X;  Substantiation Of Claims; Regulations</catch_line>
+    <order_by>32E</order_by>
+    <text>
+        <section prefix="a">
+    	     This section shall apply to credits earned under section 38X.
+        </section>
+        <section prefix="b">
+    	     At the written election of a taxpayer entitled to a credit under section 38X, the commissioner shall apply the credit against the liability of the taxpayer as determined on its return, as first reduced by any other available credits, and shall then refund to the taxpayer 90 per cent of the balance of the credits.
+        </section>
+        <section prefix="c">
+    	     The commissioner may require substantiation of a taxpayer’s claim for a refund under subsection (b) before payment of the refund. No interest shall accrue on a refund under section 40 of chapter 62C before the commissioner’s receipt of the substantiation request.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall promulgate regulations or other guidelines as he deems necessary to implement this section. The commissioner shall submit any proposed regulations to the joint committee on revenue and the house and senate committees on ways and means before their adoption by the department. The regulations shall be accompanied by a summary which clearly instructs the taxpayer of his rights under this section.
+        </section>
+    </text>
+</law>

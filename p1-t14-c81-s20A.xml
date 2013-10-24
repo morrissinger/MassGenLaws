@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="81" order_by="81" level="3">State Highways</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Illumination Of Highways</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        The department may illuminate, or cause to be illuminated, by means of highway lighting, traffic circles, traffic underpasses, traffic overpasses, traffic islands and other locations in the state highways wherever, in its opinion, such illumination is necessary for the safety of the travelling public.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Suspension Or Revocation Of License Or Registration; Appeal;  Reissuance Of Registration</catch_line>
+    <order_by>68</order_by>
+    <text>
+        <section prefix="1">
+    	     The licensee or registrant willfully fails to file any return or report required by this chapter;
+        </section>
+        <section prefix="2">
+    	     The licensee or registrant willfully files, causes to be filed, gives or causes to be given a return, report, certificate or affidavit required under this chapter, or under the provisions of the applicable tax, which is false;
+        </section>
+        <section prefix="3">
+    	     The licensee or registrant willfully fails to collect, truthfully account for or pay over any tax under the provisions of this chapter;
+        </section>
+        <section prefix="4">
+    	     The licensee or registrant has been convicted of a crime provided for by this chapter;
+        </section>
+        <section prefix="5">
+    	     The licensee or registrant has otherwise willfully failed to comply with any provision of the tax laws of the commonwealth or regulations thereunder; or
+        </section>
+        <section prefix="6">
+    	     The licensee or registrant has ceased to act in the capacity for which the license or registration was issued.
+        </section>
+    </text>
+</law>

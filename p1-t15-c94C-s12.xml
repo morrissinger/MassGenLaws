@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Issuance Of Registration To Manufacture Or Distribute Controlled Substances</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases shall register an applicant to manufacture or distribute controlled substances included in the schedules established pursuant to section two unless he determines that the issuance of that registration would be inconsistent with the public interest. In determining the public interest, the board of registration in pharmacy in the case of a retail drug store or a wholesale druggist and the commissioner in all other cases shall consider the following factors:
+        </section>
+        <section prefix="1">
+    	     maintenance of effective controls against diversion of controlled substances into other than legitimate medical, scientific, or industrial channels;
+        </section>
+        <section prefix="2">
+    	     compliance with applicable federal, state and local law;
+        </section>
+        <section prefix="3">
+    	     any conviction of the applicant under any federal and state law relating to any controlled substance;
+        </section>
+        <section prefix="4">
+    	     past experience in the manufacture or distribution of controlled substances, and the existence in the applicant’s establishment of effective controls against diversion;
+        </section>
+        <section prefix="5">
+    	     furnishing by the applicant of false or fraudulent material in any application filed under the provisions of this chapter;
+        </section>
+        <section prefix="6">
+    	     suspension or revocation of the applicant’s federal registration to manufacture, distribute or dispense controlled substances as authorized by federal law; and
+        </section>
+        <section prefix="7">
+    	     any other factors relevant to and consistent with the public health and safety.
+        </section>
+        <section prefix="b">
+    	     Registration under subsection (a) of this section shall not entitle a registrant to manufacture or distribute controlled substances in Schedules I or II established pursuant to the provisions of section two except to the extent specified in the registration.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>78</section_number>
+    <catch_line>Vocational Rehabilitation Services; Independent Living Rehabilitation Services</catch_line>
+    <order_by>78</order_by>
+    <text>
+        <section prefix="1">
+    	     The commission shall, subject to appropriation, directly provide or purchase vocational rehabilitation services or independent living rehabilitation services for any handicapped individual who meets the eligibility criteria prescribed by the commission and who is present in the state at the time of filing his application therefor; provided, however, that those vocational rehabilitation services set forth in clauses (4) to (15), inclusive, of section seventy-seven shall be provided at public cost only to those handicapped individuals who are found by the commission to require financial assistance with respect thereto; and provided, further that the commission for the blind shall provide vocational rehabilitation services to the blind. The commission shall, prior to providing any of the vocational rehabilitation services set forth in clauses (4) to (15), inclusive, of section seventy-seven consider similar benefits available to the handicapped individuals. If vocational rehabilitation services cannot be provided to all eligible handicapped individuals who apply therefor, the commission shall provide by regulations the order to be followed in selecting those to whom such services will be provided.
+        </section>
+        <section prefix="2">
+    	     The commission shall, subject to appropriation, develop and provide, either directly or through purchase of service, such other rehabilitation services as it determines are necessary and appropriate to enable a handicapped individual to live independently and function within his family and community. The commission shall prescribe eligibility requirements for each such service.
+        </section>
+    </text>
+</law>

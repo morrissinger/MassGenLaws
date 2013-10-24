@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Purchases And Sales Of Hearing Aids; Prerequisites</catch_line>
+    <order_by>72</order_by>
+    <text>
+        No person shall enter into a contract for the sale of or sell a hearing aid unless within the preceding six months the prospective purchaser has obtained a medical clearance. 
+No person shall enter into a contract for the sale of or sell a hearing aid to a person under eighteen years of age unless within the preceding six months the prospective purchaser has obtained an audiological evaluation. 
+No person except a person eighteen years of age or older whose religious or personal beliefs preclude consultation with a physician may waive the requirement of a medical clearance.
+    </text>
+</law>

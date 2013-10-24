@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Rules Governing Testing And Analysis; Quality Assurance Program;  Independent Forensic Laboratories</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The director shall establish procedural rules governing the testing and analysis of DNA samples and a quality assurance program, which shall include proficiency standards for laboratories and analysts responsible for performing DNA testing and analysis. Such procedural rules and quality assurance program shall be compatible with the procedural rules and quality assurance program utilized by the FBI and shall establish compatible laboratory techniques, laboratory equipment, supplies, computer software and acceptance criteria for DNA records in CODIS. The director may employ independent forensic laboratories to perform the DNA analysis required under section 3; provided, however, that such laboratories shall comply with the regulations established pursuant to this section and the procedural rules and quality assurance program established pursuant to this section. With respect to any independent forensic laboratory that performs or seeks to perform the DNA analysis required under section 3, the director may audit such laboratory for compliance with such regulations or procedures as may be adopted under this chapter and may revoke such laboratory’s right to create and exchange DNA records on the ground that such laboratory has failed to comply with any regulations, procedures, rules or quality assurance programs established pursuant to this section.
+    </text>
+</law>

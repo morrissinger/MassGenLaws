@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Advisory Committees</catch_line>
+    <order_by>6</order_by>
+    <text>
+        Each school district, county agricultural school, collaborative or municipality operating an approved vocational-technical program shall, under a plan approved by the commissioner under the direction of the state board, appoint advisory committees composed of representatives of local business and industry related to the program, organized labor, parents and students, which shall consult with and advise the trustees and other school officials managing and supervising such schools.
+    </text>
+</law>

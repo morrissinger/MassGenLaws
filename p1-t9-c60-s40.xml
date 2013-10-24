@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Notice Of Sale; Contents</catch_line>
+    <order_by>40</order_by>
+    <text>
+        The collector shall give notice by publication of the time and place of sale of land for nonpayment of taxes. Such notice shall contain a substantially accurate description of the several rights, lots or divisions of the land to be sold, which shall be furnished to the collector by the assessors upon demand of the collector, the amount of the tax assessed on each, and the names of all owners known to the collector. Such notice of the sale of the undivided real estate of a deceased person assessed to his heirs or devisees or assessed in general terms to his estate shall contain the names of all the heirs or devisees interested in such real estate, if the probate records of the county where the land lies disclose their identity.
+    </text>
+</law>

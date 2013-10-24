@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22A" order_by="22A" level="3">Central Register For Missing Children</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Establishment Of Central Register</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The director in consultation with the colonel of state police, through electronic data processing and related procedures, shall establish a statewide central register containing all available identifying data of any missing child, including, but not limited to, fingerprints and blood types. The director may use existing data processing and data communications systems of the criminal justice information system.
+    </text>
+</law>

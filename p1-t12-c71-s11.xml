@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>High School; Definition</catch_line>
+    <order_by>11</order_by>
+    <text>
+        For the purposes of the six preceding sections, a “high school” is defined as that part of the school system which furnishes instruction in addition to that offered in the first eight grades and other than vocational instruction directly aided by the commonwealth.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55C" order_by="55C" level="3">Limited Public Financing Of Campaignsfor Statewide Elective Office</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Declining Public Financing</catch_line>
+    <order_by>10</order_by>
+    <text>
+        No candidate shall be required to accept public financing nor shall any candidate otherwise eligible for public financing be denied such financing solely because an opposing candidate declines to accept such financing.
+    </text>
+</law>

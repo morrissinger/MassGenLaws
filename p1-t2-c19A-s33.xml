@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Ombudsman; Duties</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     establish and conduct a training program for persons employed by or associated with the ombudsman or any designated local ombudsman program who perform the duties and responsibilities enumerated in section thirty-one regarding the receipt, investigation and resolution through administrative action of complaints, and certify such persons upon satisfactory completion of such training programs;
+        </section>
+        <section prefix="b">
+    	     monitor the development and implementation of federal, state and local statutes, regulations and policies regarding long term care facilities;
+        </section>
+        <section prefix="c">
+    	     provide information to public agencies regarding the problems of elderly persons in long term care facilities;
+        </section>
+        <section prefix="d">
+    	     provide that complete records shall be maintained of complaints received, the actions taken, findings and recommendations in response to such complaints and other action, including the facilities’ responses to serious complaints, finding or recommendation of the ombudsman or his designee initiated independent of a specific complaint;
+        </section>
+        <section prefix="e">
+    	     establish a statewide uniform reporting system to collect and analyze data relating to complaints and conditions in long term care facilities for the purpose of identifying and resolving significant problems; with provision for submission of such data to the one agency of the state responsible for licensing and certifying long term care facilities on a regular basis;
+        </section>
+        <section prefix="f">
+    	     file a report of the activities of the nursing home ombudsman program and the ombudsman’s recommendation concerning long term care facilities and the protection of the rights of residents of said facilities with the secretary, governor and the general court within one hundred and twenty days following the end of each fiscal year;
+        </section>
+        <section prefix="g">
+    	     carry out other activities consistent with the requirements of 42 USC 3027(a)(12) and the provisions of this chapter; and
+        </section>
+        <section prefix="h">
+    	     establish and conduct a training program for persons employed by or associated with a community group offering free advocacy assistance to residents of long term care facilities, and certify such persons upon satisfactory completion of such training program.
+        </section>
+    </text>
+</law>

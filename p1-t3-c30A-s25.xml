@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Authority Of Attorney General To Promulgate Rules And Regulations, Letter Rulings And Advisory Opinions</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="a">
+    	     The attorney general shall have the authority to promulgate rules and regulations to carry out enforcement of the open meeting law.
+        </section>
+        <section prefix="b">
+    	     The attorney general shall have the authority to interpret the open meeting law and to issue written letter rulings or advisory opinions according to rules established under this section.
+        </section>
+    </text>
+</law>

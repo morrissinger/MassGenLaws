@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23A" order_by="23A" level="3">Department Of Economic Development</unit>
+    </structure>
+    <section_number>13D</section_number>
+    <catch_line>Marketing Partnership; Operation As State Agency; Representation By Attorney General In Suits And Other Civil Proceedings; Staff Support</catch_line>
+    <order_by>13D</order_by>
+    <text>
+        <section prefix="a">
+    	     The partnership and the agencies within the partnership shall, for the purposes of compliance with state finance law, operate as a state agency, as defined in section 1 of chapter 29, and shall be subject to the laws applicable to agencies under the control of the governor including, but not limited to, chapters 7, 7A, 10 and 29; provided, however, that the comptroller may identify additional instructions or actions necessary for the partnership to manage fiscal operations in the state accounting system and meet statewide and other governmental accounting and audit standards. Unless otherwise exempted by law or the applicable central service agency, the partnership shall participate in other available commonwealth central services including, but not limited, to the state payroll system under section 31 of chapter 29 and may purchase other goods and services provided by state agencies under the direction of the comptroller. The comptroller may chargeback the partnership for the transition and ongoing costs for participation in the state accounting and payroll systems and may retain and expend such costs without further appropriation for the purposes of this section. The partnership shall be subject to section 5D of chapter 29 and subsection (f) of section 6B of said chapter 29. This section shall not apply to authorities who are serving as partners of the partnership.
+        </section>
+        <section prefix="b">
+    	     The office of the attorney general shall appear for the partnership in all suits and other civil proceedings in which the partnership is a party or interested or in which the official acts and doings of the partnership are called into question, to the same extent and in the same manner as provided to the commonwealth and state departments, officers and commissions under section 3 of chapter 12. The partnership shall be considered to be an agency of the commonwealth for purposes of chapter 12.
+        </section>
+        <section prefix="c">
+    	     The Massachusetts office of business development may provide staff support for the Massachusetts marketing partnership; provided, however, that the partnership shall contract with said office or with another public authority for the performance by that authority of core administrative functions, as determined by the secretary of housing and economic development which may include, but shall not be limited to, human resources, financial management, information technology, legal, procurement and asset management, to minimize the administrative costs and expenses of the partnership.
+        </section>
+    </text>
+</law>

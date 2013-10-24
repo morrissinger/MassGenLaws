@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23" order_by="23" level="3">Executive Office Of Labor And Workforce Development</unit>
+    </structure>
+    <section_number>11T</section_number>
+    <catch_line>Voluntary Deregistration Of Apprentice Programs; Program Investigation; Deregistration For Cause; Notice To Interested Persons;  Appeals; Program Reinstatement</catch_line>
+    <order_by>11T</order_by>
+    <text>
+        <section prefix="a">
+    	     An apprentice program sponsor may voluntarily deregister its program by providing written notice to the division and its apprentices and otherwise complying with provisions established by the division.
+        </section>
+        <section prefix="b">
+    	     The deputy director, on his own initiative, or upon the complaint of an interested person, may investigate and determine whether there has been a violation of the terms of an apprentice agreement or apprentice program and may hold hearings, inquiries and other proceedings necessary to such investigations and determination. All hearings, investigations and determinations shall be made under authority of reasonable rules and procedure approved by the director.
+        </section>
+        <section prefix="c">
+    	     Within 30 days of the date of the deregistration, whether voluntary or involuntary, of an apprentice program, the apprentice program sponsor shall send to the division a copy of all documents demonstrating the number of hours of hands-on training and related instruction obtained by all apprentices in the program.
+        </section>
+        <section prefix="d">
+    	     The division may reinstate the registration of an apprentice program in its discretion upon presentation of adequate evidence that the condition that gave rise to the deregistration has been remedied.
+        </section>
+    </text>
+</law>

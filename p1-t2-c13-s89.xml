@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Board Of Registration Of Allied Mental Health And Human Services Professions; Qualifications Of Members</catch_line>
+    <order_by>89</order_by>
+    <text>
+        <section prefix="A">
+    	     Eight members shall be licensed practicing mental health and human services professionals, two of whom shall be marriage and family therapists, two of whom shall be rehabilitation counselors, two of whom shall be clinical mental health counselors, two of whom shall be educational psychologists; and each shall have been, for at least five years immediately preceding appointment, actively engaged as a practitioner rendering professional services in that field, or in the education and training of graduate students or interns in the field, or in appropriate human developmental research, or in other areas substantially equivalent thereto, and shall have spent the majority of the professional time in such activity during the two years preceding the appointment in the commonwealth. One of the six shall also be a member of a union licensable under sections one hundred and sixty-three to one hundred and seventy-two, inclusive, of chapter one hundred and twelve; and
+        </section>
+        <section prefix="B">
+    	     Three members shall be representatives of the general public who have no direct affiliation with the practice of any allied mental health or human services profession.
+        </section>
+    </text>
+</law>

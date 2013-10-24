@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Travel Policy</catch_line>
+    <order_by>32</order_by>
+    <text>
+        The trustees shall have complete authority in determining the university’s travel policy provided, however, that said policy shall require coordination with the state purchasing agent to insure cost-effective utilization of the group purchasing power of the commonwealth. Such power shall include the right to determine who among university personnel should travel within and without the commonwealth at state expense and where such personnel shall travel.
+    </text>
+</law>

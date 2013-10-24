@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Licenses And Registration Certificates Of Taxpayers Under Chapters 64 A, 64 C, 64 E To 64 J Or 64 M</catch_line>
+    <order_by>67</order_by>
+    <text>
+        <section prefix="1">
+    	     The registration, license or permit of the applicant has been previously cancelled for cause by the commissioner;
+        </section>
+        <section prefix="2">
+    	     In the opinion of the commissioner, such application is filed by a person as a subterfuge for the real person in interest whose registration or license has previously been cancelled for cause by the commissioner;
+        </section>
+        <section prefix="3">
+    	     The applicant fails to pay the prescribed fee or to file such bond as the commissioner requires pursuant to section sixty-six;
+        </section>
+        <section prefix="4">
+    	     Any tax payable under this chapter has been finally determined to be due from the applicant and has not been paid in full;
+        </section>
+        <section prefix="5">
+    	     Any tax payable under this chapter has been finally determined to be due from an officer, director, partner or employee of the applicant in his capacity as a person under a duty to collect and pay over a tax on behalf of the applicant or another person and has not been paid in full;
+        </section>
+        <section prefix="6">
+    	     The applicant has been convicted of a crime provided for in this chapter within one year from the date on which such application is filed;
+        </section>
+        <section prefix="7">
+    	     An officer, director, partner or employee of the applicant, which officer, director, partner or employee is a person under a duty to collect and pay over a tax on behalf of the applicant has in his capacity as a person under a duty to collect and pay over a tax on behalf of the applicant or another person been convicted of a crime provided for in this chapter within one year from the date on which such application is filed; or
+        </section>
+        <section prefix="8">
+    	     A shareholder owning more than fifty per cent of the voting stock of the applicant where the applicant is a corporation who owned more than fifty per cent of the voting stock of another corporation at the time any tax payable under this chapter has been finally determined to be due and where such tax has not been paid in full, or at the time such other person was convicted of a crime provided for in this chapter within one year from the date on which such application is filed.
+        </section>
+    </text>
+</law>

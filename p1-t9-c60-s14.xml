@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Appointment; Bond</catch_line>
+    <order_by>14</order_by>
+    <text>
+        In towns, not cities, if, at the expiration of three years from the date of the commitment of tax lists and warrant to a collector of taxes, any taxes remain uncollected and recovery cannot be made upon the bond of the collector of the amount of such uncollected taxes, the selectmen shall appoint the collector of taxes for the current year or some other person as special collector thereof. He shall furnish a satisfactory bond for the faithful performance of his duties, in such sum as the selectmen require, in a form to be approved by the commissioner.
+    </text>
+</law>

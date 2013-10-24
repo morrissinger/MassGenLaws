@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>1B</section_number>
+    <catch_line>Voluntary Prayer</catch_line>
+    <order_by>1B</order_by>
+    <text>
+        The school committee of any city or town may permit any child attending its public schools to participate in voluntary prayer with the approval of such child’s parents before the commencement of each daily school session. Notwithstanding any provision of law to the contrary, no city or town which permits such prayer shall be denied any funds for school purposes to which it may be entitled from the commonwealth.
+    </text>
+</law>

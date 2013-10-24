@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64E" order_by="64E" level="3">Taxation Of Special Fuels Used In The Propulsion Of Motor Vehicles</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Penalties For Sale Or Acquisition Of Unlicensed Fuels</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Any person not licensed under this chapter who delivers to any person other than a licensee under this chapter special fuels upon which the tax due hereunder has not been paid, knowing, or who reasonably should know, that such special fuel is to be used or sold for the purpose of propelling motor vehicles on the public highways, shall be liable for the tax imposed by this chapter. 
+Any user who shall acquire special fuels in the commonwealth for the purpose of propelling motor vehicles owned or leased by him on the highways of this commonwealth upon which special fuels the tax due hereunder has not been paid shall be liable for the tax imposed by this chapter, and the commissioner may collect said tax either from the seller thereof or from said user of special fuels.
+    </text>
+</law>

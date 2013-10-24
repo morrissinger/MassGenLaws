@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>33A</section_number>
+    <catch_line>Additional Requirements For Voting Machines</catch_line>
+    <order_by>33A</order_by>
+    <text>
+        Voting machines shall be provided with convenient spaces, which shall be specified and described on the cards of instructions, where the name of a person may be written in or a paster or sticker affixed by a voter who desires to vote for a person whose name does not appear on the voting machine. They shall be suitably lighted so that the voter will be able to easily read the titles of the offices, the names of the candidates and the questions submitted to the voters. The machines shall be equipped with proper devices or locks to prevent any operation of the machine before of after the voting, and with the following counters or indicators:—A “Public Counter”, which shall mean the counter or other device that registers each time the machine is operated during the election and shows the number of persons who have voted thereon, a “Protective Counter”, which shall mean the device or counter which registers the grand total of times that the machine has been operated, a “Candidate Counter”, which shall mean the counters on which are registered numerically the votes cast for candidates, a “Question Counter”, which shall mean the counters upon which are registered numerically the votes cast on questions submitted to the voters, and the “Vote Indicators”, which shall mean the pointers or other devices upon which are registered the votes for candidates or on questions submitted to voters. Voting machines which contain electronic components need not be equipped with a protective counter, and, instead of candidate and question counters, may be equipped with internal components which register votes electronically. All voting machines used in primary elections shall be so equipped that the election officers can adjust the machines to prevent voters from voting for candidates of any party in which they are not enrolled.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Oral Prescriptions</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon receiving an oral prescription for a controlled substance or instrument described in section twenty-seven from an authorized practitioner, the pharmacist shall immediately reduce the prescription to writing on a prescription form and shall record the name, address and registration number of the practitioner and the name of any expressly authorized representative, the date of the prescription, the name, dosage and strength per dosage unit of the controlled substance, the serial number assigned to the prescription by the dispensing pharmacy, the name of said pharmacy, the name and address of the patient unless it is a veterinary prescription, the directions for use and any cautionary statements required, and a statement indicating the number of times to be refilled.
+        </section>
+        <section prefix="b">
+    	     If the prescribing practitioner is not known to the pharmacist, he shall make a reasonable effort to determine that the oral authorization came from a registered practitioner.
+        </section>
+        <section prefix="c">
+    	     Whenever a practitioner dispenses a controlled substance by oral prescription, such practitioner shall, within a period of not more than seven days or such shorter period that is required by federal law cause a written prescription for the prescribed controlled substance to be delivered to the dispensing pharmacy. The prescription may be delivered to the pharmacy in person or by mail, but if delivered by mail the envelope shall be postmarked within the seven-day period or such shorter period that is required by federal law. Upon receipt, the dispensing pharmacy shall attach said prescription to the oral prescription which the pharmacy has reduced to writing. Persons charged with the enforcement of this chapter shall report violations of this subsection to the board of registration in medicine, the board of registration in dentistry, the board of registration in podiatry or the board of registration in veterinary medicine, whichever is applicable, and to the commissioner or board of registration in pharmacy, whichever is applicable. The requirements of this subsection shall not apply to controlled substances in Schedule VI of section 3.
+        </section>
+    </text>
+</law>

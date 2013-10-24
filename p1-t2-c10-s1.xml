@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>State Treasurer; Supervision Of Department; Salary; Term Limitation</catch_line>
+    <order_by>1</order_by>
+    <text>
+        There shall be a department of the state treasurer, under his supervision and control, organized as provided in this chapter. The state treasurer shall receive a salary of $124,920, and an additional amount to be calculated by applying the adjustment percentage most recently ascertained by the governor pursuant to Article CXVIII of the Articles of Amendment to the Constitution to the preceding figure. 
+Notwithstanding other provisions of this section to the contrary, any state treasurer who has served, or but for resignation would have served, two consecutive terms in that office within the preceding eleven years shall receive no compensation. For the purpose of this section, any person serving as state treasurer as of January 15, 1995 shall be deemed to be serving his first term in that office.
+    </text>
+</law>

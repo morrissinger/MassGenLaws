@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Appeals; Eligibility For Exemption Under Sec. 5, Third Clause;  Corporations Or Trusts</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        Any person of a city or town aggrieved by a determination of the board of assessors as to the eligibility or noneligibility of a corporation or trust for the exemption granted pursuant to the clause Third of section five may appeal therefrom by filing a petition with the clerk of the appellate tax board in accordance with the provisions of section seven of chapter fifty-eight A within three months of said determination. As used in this section the term “person” shall mean the corporation or trust applying for the exemption or an individual, corporation, or trust engaged in a business activity in direct competition with an activity conducted by the charitable corporation or trust.
+    </text>
+</law>

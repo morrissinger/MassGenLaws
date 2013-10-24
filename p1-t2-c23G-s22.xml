@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Application Approval; Requirements By Incubator Sponsor</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="1">
+    	     the business applying for financial aid has a clearly developed business concept or prototype;
+        </section>
+        <section prefix="2">
+    	     the business has a reasonable chance of being commercially successful;
+        </section>
+        <section prefix="3">
+    	     the financial aid provided by the Agency shall be used to further commercialization of the business including, but not limited to, the further development of the business; the construction of a prototype, the development of a manufacturing process to produce, or to implement a marketing or distribution strategy for the product;
+        </section>
+        <section prefix="4">
+    	     financial aid by the Agency is necessary for the commercial development of the business because funding for such commercial development of the business is only available on terms that would substantially hinder its successful commercial development; and
+        </section>
+        <section prefix="5">
+    	     the employment created or maintained by commercial development and production of the business will be in the commonwealth.
+        </section>
+    </text>
+</law>

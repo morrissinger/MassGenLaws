@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="37" order_by="37" level="3">Sheriffs</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Suits On Bonds Of Sheriffs</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The holder of a judgment against a sheriff or his estate, for a cause which constitutes a breach of the condition of his official bond, or a person who has obtained an allowance of such claim against his estate, if settled as insolvent, may, at his own expense, prosecute a suit on such bond in the name of the state treasurer, and the proceedings shall be the same as in a suit by a creditor on an administration bond.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Expungement Of Record</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Any person whose DNA record has been included in the state DNA database may apply to the superior court to have such record expunged on the grounds that the conviction or judicial determination that resulted in the inclusion of the person’s DNA record in the state DNA database has been reversed and the case dismissed; provided, however, that one year shall have elapsed from the date the judgment reversing or dismissing the conviction became final or such person shall have obtained, in writing, authorization from the district attorney that no further prosecution is contemplated under the original offense for which such person was convicted or for which the original judicial determination was entered.
+    </text>
+</law>

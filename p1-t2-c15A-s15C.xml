@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>15C</section_number>
+    <catch_line>Expenditures And Revenues; Management And Accounting Reporting System</catch_line>
+    <order_by>15C</order_by>
+    <text>
+        The public institutions of higher education shall report monthly by subsidiary all expenditures and revenues from all appropriated and non-appropriated funds on the Massachusetts management and accounting reporting system, so-called, by July thirty-first, nineteen hundred and ninety-three.
+    </text>
+</law>

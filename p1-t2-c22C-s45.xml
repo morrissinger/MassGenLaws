@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Property Lost, Stolen Or Taken From Arrested Persons; Unclaimed Property; Public Auction</catch_line>
+    <order_by>45</order_by>
+    <text>
+        If money, goods or other property which has been stolen, lost, abandoned or taken from a person under arrest comes in the possession of an officer or other employee of the department by virtue of his office or employment, he shall deliver the same to the person designated by the colonel to receive the same and shall thereupon be relieved from further responsibility therefor. If no person proves ownership of such money, goods or other property within six months, the colonel may cause the same, except money unclaimed, to be sold at public auction at such place and time and by such person as the colonel may designate. Notice of the time and place of sale, with a description of the property, shall be given by publishing the same once in a newspaper published in the county where the property was found or taken as aforesaid.
+    </text>
+</law>

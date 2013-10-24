@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Tax Bills; Notices; Affidavits Of Sending</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The collector shall forthwith, after receiving a tax list and warrant, send notice to each person assessed, resident or non-resident, of the amount of his tax; if mailed, it shall be postpaid and directed to the town where the assessed person resided on January first of the year in which the tax was assessed, and, if he resides in a city, it shall, if possible, be directed to the street and number of his residence. If the tax is a tax on real estate, the collector shall send a separate bill or notice for the portion of the tax applicable to each parcel of real estate separately assessed. An omission to send a notice under this section shall not affect the validity either of a tax or of the proceedings for its collection. An affidavit of the collector or deputy collector sending a tax bill or notice as to the time of sending shall be prima facie evidence that the same was sent at such time. All tax bills or notices issued pursuant to this section shall state (a) the date as of which the tax was assessed and (b) the fiscal year to which the tax relates. The tax notice and bill shall state that all payments shall be to or to the order of the city, town or district and not to or to the order of any officer, board or commission. 
+The collector may send the notice required by this section to an owner who has acquired title by a deed duly recorded subsequent to January first in the year in which said tax was assessed.
+    </text>
+</law>

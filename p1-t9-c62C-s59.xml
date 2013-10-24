@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Certificates Of Sale; Execution Of Deeds</catch_line>
+    <order_by>59</order_by>
+    <text>
+        <section prefix="a">
+    	     In the case of property sold as provided in section fifty-six the commissioner shall give the purchaser a certificate of sale upon payment in full of the purchase price. In the case of real property, such certificate shall set forth the real property purchased, for whose taxes the same was sold, the name of the purchaser and the price paid therefor.
+        </section>
+        <section prefix="b">
+    	     In the case of any real property sold as provided in section fifty-six and not redeemed in the manner and within the time provided in section fifty-eight, the commissioner shall execute to the purchaser of such real property at such sale, upon his surrender of the certificate of sale, a deed of the real property so purchased by him, reciting the facts set forth in the certificate.
+        </section>
+        <section prefix="c">
+    	     If real property is declared purchased by the commonwealth at a sale pursuant to section fifty-six the commissioner shall at the proper time execute a deed therefor, and without delay cause such deed to be duly recorded in the proper registry of deeds.
+        </section>
+    </text>
+</law>

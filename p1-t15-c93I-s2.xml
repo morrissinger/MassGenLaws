@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93I" order_by="93I" level="3">Dispositions And Destruction Of Records</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Standards For Disposal Of Records Containing Personal Information; Disposal By Third Party; Enforcement</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     paper documents containing personal information shall be either redacted, burned, pulverized or shredded so that personal data cannot practicably be read or reconstructed;
+        </section>
+        <section prefix="b">
+    	     electronic media and other non-paper media containing personal information shall be destroyed or erased so that personal information cannot practicably be read or reconstructed.
+        </section>
+    </text>
+</law>

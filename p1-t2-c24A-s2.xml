@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="24A" order_by="24A" level="3">Office Of Consumer Affairs And Business Regulation</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Additional Duties</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     maintain a telephone information service;
+        </section>
+        <section prefix="b">
+    	     conduct surveys of consumer needs;
+        </section>
+        <section prefix="c">
+    	     investigate consumer problems in cooperation with the attorney general;
+        </section>
+        <section prefix="d">
+    	     publish educational brochures;
+        </section>
+        <section prefix="e">
+    	     establish programs and services to assist consumers in understanding their rights and responsibilities in consumer transactions;
+        </section>
+        <section prefix="f">
+    	     recommend and implement consumer protection policies;
+        </section>
+        <section prefix="g">
+    	     monitor the marketplace to promote fair and honest competition; and
+        </section>
+        <section prefix="h">
+    	     establish a trust fund for the purpose of consumer education and to further the office’s other purposes and, to such extent the director shall have the powers provided in section six of chapter six A. Nothing herein shall restrict any official or agency not within said office from performing consumer-related responsibilities assigned to him or it by law.
+        </section>
+    </text>
+</law>

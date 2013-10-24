@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6K</section_number>
+    <catch_line>Labeling Requirements For Mercury Added Products</catch_line>
+    <order_by>6K</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall sell a mercury-added product unless the product is labeled by the manufacturer pursuant to this section. The label, constructed of materials that are sufficiently durable to remain legible for the useful life of the product, shall clearly inform the purchaser that mercury is present in the product and that the product shall be reused, recycled or properly disposed of as hazardous waste. Manufacturers of products that contain an irremovable mercury-containing lamp used for backlighting shall meet the product labeling requirements of this section by placing the label on the product or its care and use manual.
+        </section>
+        <section prefix="b">
+    	     Mercury product labeling plans approved by another state that is a member of IMERC shall be considered to be in compliance with this section if they are effectively implemented in the commonwealth. The manufacturer shall provide a copy of the labeling plan to the department upon request and shall notify the department if the approval is modified.
+        </section>
+        <section prefix="c">
+    	     A person who sells mercury-added lamps to the owner or manager of an industrial, commercial or office building or to any person who replaces or removes from service outdoor lamps that contain mercury shall clearly inform the purchaser, in writing on the invoice for the lamps or in a separate document, that the lamps contain mercury, that mercury is a hazardous substance that is regulated by federal and state law and that the lamps may not be placed in solid waste destined for disposal. Retail establishments that incidentally sell mercury-added lamps to the specified purchasers are exempt from this subsection.
+        </section>
+        <section prefix="d">
+    	     This section shall not apply to refurbished medical equipment.
+        </section>
+        <section prefix="e">
+    	     This section shall not apply to the labeling of those products whose only mercury component is a removable mercury-added lamp or button cell battery.
+        </section>
+        <section prefix="f">
+    	     This section shall not apply to mercury-added antique barometers, antique thermometers, and antique clocks if the antique barometer, thermometer or clock was manufactured prior to 1955. A person who sells a mercury-added antique barometer, thermometer or clock manufactured prior to 1955 shall clearly inform the purchaser, in writing, at the time of sale: (1) that the antique contains mercury; (2) that mercury is a hazardous substance; (3) that mercury is regulated by federal and state law; (4) the proper and commercially available methods for disposal and recycling of the antique; and (5) the proper procedures for cleaning up mercury spills if the antique is broken while in the purchaser’s possession.
+        </section>
+    </text>
+</law>

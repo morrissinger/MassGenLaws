@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Response Action Contractor Liability</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     A response action contractor with respect to any release or threatened release of oil or hazardous material shall not be strictly liable under this chapter nor under any other state law to any person for injuries, costs, damages, expenses or other liability including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to real or personal property or economic loss which results from such release or threatened release.
+        </section>
+        <section prefix="b">
+    	     The limitation of liability provided under subsection (a) shall apply only to response action contractor liability arising out of a release or threatened release of oil or hazardous material resulting from response actions conducted by the response action contractor.
+        </section>
+        <section prefix="c">
+    	     Any response action contractor who is otherwise liable under subsection (a) of section five for a release or threatened release of oil or hazardous material at a site shall not be entitled to any limitation of liability under this section by virtue of becoming a response action contractor at that site.
+        </section>
+    </text>
+</law>

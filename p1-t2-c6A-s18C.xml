@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6A" order_by="6A" level="3">Executive Offices</unit>
+    </structure>
+    <section_number>18C</section_number>
+    <catch_line>Public Safety Answering Points; Transmittal And Process Of Requests;  Requests From Outside Jurisdiction</catch_line>
+    <order_by>18C</order_by>
+    <text>
+        <section prefix="a">
+    	     Each PSAP shall be capable of transmitting a request for law enforcement, fire fighting, medical, ambulance or other emergency services to a public or private safety department that provides the requested services.
+        </section>
+        <section prefix="b">
+    	     Each primary and regional PSAP shall be equipped with a system approved by the department for the processing of requests for emergency services from people with disabilities.
+        </section>
+        <section prefix="c">
+    	     Except as approved by the department, no person shall permit an automatic alarm or other alerting device to dial the numbers 911 automatically or provide a prerecorded message in order to access emergency services directly.
+        </section>
+        <section prefix="d">
+    	     A public safety department or private safety department that receives a request for emergency service outside of its jurisdiction shall promptly forward the request to the PSAP or public safety department responsible for that geographical area. Any emergency unit dispatched to a location outside its jurisdiction in the commonwealth in response to such request shall render service to the requesting party until relieved by the public safety department responsible for that geographical area.
+        </section>
+        <section prefix="e">
+    	     Municipalities may enter into written cooperative agreements to carry out subsections (a), (b) and (d).
+        </section>
+    </text>
+</law>

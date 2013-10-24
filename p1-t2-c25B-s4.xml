@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25B" order_by="25B" level="3">Massachusetts Appliance Efficiency Standards Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Restrictions On Sale Or Installation</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No new appliance covered by clauses (a) to (e), inclusive, of section 3 may be sold, offered for sale or installed in the commonwealth on or after January first, nineteen hundred and eighty-eight, unless the energy efficiency of the appliance meets or exceeds the standards established pursuant to this act. 
+No new lamp covered by clauses (a) to (e), inclusive, of section 3 shall be installed in the commonwealth in a building other than a residence on or after January first, nineteen hundred and ninety, unless the energy efficiency of the lamp meets or exceeds the standards established by the commissioner pursuant to this chapter. The commissioner may, through regulation, establish exemptions for certain lamps used for specified purposes.
+    </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Certification Of Good Faith</catch_line>
+    <order_by>10</order_by>
+    <text>
+        A person submitting a bid or a proposal for the procurement or disposal of supplies or services to any governmental body shall certify in writing, on the bid or proposal, as follows: 
+The undersigned certifies under penalties of perjury that this bid or proposal has been made and submitted in good faith and without collusion or fraud with any other person. As used in this certification, the word “person” shall mean any natural person, business, partnership, corporation, union, committee, club, or other organization, entity, or group of individuals. 
+______________________________________________(Signature of individual submitting bid or proposal)   
+______________________________________________(Name of business)            
+    </text>
+</law>

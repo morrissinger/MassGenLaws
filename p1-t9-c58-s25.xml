@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58" order_by="58" level="3">General Provisions Relative To Taxation</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Amounts Due Municipalities; Determination; Payment</catch_line>
+    <order_by>25</order_by>
+    <text>
+        The commissioner shall ascertain and determine the amount due to each city and town under section eighteen A, notify the treasurer of each city and town of the amount determined to be due to such city or town, or that no amount is due, as the case may be, and certify the amount as determined to the state treasurer, who shall thereupon pay the same in accordance with the provisions of said sections.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18C" order_by="18C" level="3">Office Of The Child Advocate</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Office Of The Child Advocate; Duties</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     ensure that children involved with an executive agency, in particular, children served by the child welfare or juvenile justice systems, receive timely, safe and effective services;
+        </section>
+        <section prefix="b">
+    	     ensure that children placed in the care of the commonwealth or treated under the supervision of an executive agency in any public or private facility shall receive humane and dignified treatment at all times, with full respect for the child’s personal dignity, right to privacy, and right to a free and appropriate education in accordance with state and federal law;
+        </section>
+        <section prefix="c">
+    	     examine, on a system-wide basis, the care and services that executive agencies provide children; and
+        </section>
+        <section prefix="d">
+    	     advise the public and those at the highest levels of state government about how the commonwealth may improve its services to and for children and their families.
+        </section>
+    </text>
+</law>

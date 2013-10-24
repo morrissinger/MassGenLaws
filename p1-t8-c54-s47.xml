@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Vacancies; Printing Ballots</catch_line>
+    <order_by>47</order_by>
+    <text>
+        If a vacancy occurs or is declared in the list of nominations, by reason of death or ineligibility, the name of the candidate nominated to fill such vacancy shall, if the ballots have not been printed, be placed on them or, if the ballots have been printed, ballots containing the new nomination shall, when practicable, be substituted.
+    </text>
+</law>

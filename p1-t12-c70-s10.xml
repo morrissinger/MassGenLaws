@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70" order_by="70" level="3">School Funds And State Aid For Public Schools</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Aid Paid To Municipalities And Districts; Amounts</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Subject to appropriation, the amount of state aid to be paid to each municipality in each fiscal year under this chapter shall be the sum of the base aid, the overburden aid, minimum aid, foundation aid and equity aid to which the municipality may be entitled under the provisions of this chapter. The amount of aid paid to each district shall be identified separately for each municipality that is a member of the district.
+    </text>
+</law>

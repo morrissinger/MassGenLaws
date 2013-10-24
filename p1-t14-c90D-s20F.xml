@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>20F</section_number>
+    <catch_line>Reassembly Of Motor Vehicles From Other Motor Vehicles; Application For Title And Inspection</catch_line>
+    <order_by>20F</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person, including a person licensed under section fifty-nine of chapter one hundred and forty, who reassembles a motor vehicle by means of welding together or connecting the frames or unit bodies of two or more motor vehicles, which are not total loss salvage vehicles, shall make application to the registrar for a certificate of title and an inspection of the motor vehicle prior to registration or sale of said vehicle. Each application for title and inspection shall be accompanied by the following:
+        </section>
+        <section prefix="1">
+    	     the outstanding certificate of title;
+        </section>
+        <section prefix="2">
+    	     an affidavit signed by the owner in the form prescribed by the registrar which includes the following information: (i) the identification numbers of each motor vehicle used to reassemble or connect the motor vehicle; (ii) bills of sale evidencing acquisition of all major component parts used to rebuild the vehicle with the corresponding identification numbers of the vehicles from which parts were removed if such a part contains or should contain the manufacturer’s vehicle identification number; (iii) a description of the location of the point of connection or weld joint of the two or more vehicle frames; and
+        </section>
+        <section prefix="3">
+    	     the required inspection fee.
+        </section>
+        <section prefix="b">
+    	     Upon satisfactory inspection results and receipt of all required documents and fees, the registrar shall issue a new certificate of title which shall contain the notation “reconstructed”.
+        </section>
+    </text>
+</law>

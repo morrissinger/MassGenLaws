@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>105</section_number>
+    <catch_line>Reinstatement</catch_line>
+    <order_by>105</order_by>
+    <text>
+        <section prefix="a">
+    	     Any member retired under section 5 or section 10 shall be eligible to be reinstated in a retirement system established under this chapter, if the retired member repays to the system from which he retired an amount equal to the total amount of any retirement allowance received by the retired member, together with buyback interest. Such payment shall be made in one lump sum or in installments as the board shall prescribe. Upon such reinstatement, regular deductions shall be made from regular compensation pursuant to paragraphs (b) and (b 1/2) of subdivision (1) of section 22, and for such purpose, the member’s date of entry into service shall be the date such member waived his retirement allowance or the date of reinstatement, whichever occurs earlier. Upon completion of such payment, the member shall be entitled to creditable service for all periods of service for which deductions were made from the member’s regular compensation. For purposes of this section, the term “reinstatement service” shall mean a member’s period of full-time employment after reinstatement in a retirement system under this section.
+        </section>
+        <section prefix="b">
+    	     If the member shall have less than 5 years reinstatement service, upon retirement, that member shall receive a refund of the payments actually made to the system under this section. The member shall not be entitled to any creditable service for the reinstatement service, nor shall the member be eligible to establish any additional creditable service under any provision for make up payments or other payments.
+        </section>
+        <section prefix="c">
+    	     If the member shall have 5 years or more of reinstatement service, the member shall be entitled to creditable service resulting from his reinstatement service upon the completion of payments required under subsection (a) and payment of regular deductions under section 22 for the reinstatement service. In the event that a retirement allowance becomes effective for the member before the completion of payments under subsection (a), the member shall be entitled to credit for that proportion of reinstatement service as the board shall prescribe, in addition to any credit for service rendered prior to the date of reinstatement, provided that the member would have otherwise been eligible for that prior service.
+        </section>
+    </text>
+</law>

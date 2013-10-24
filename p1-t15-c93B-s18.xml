@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Rights And Remedies</catch_line>
+    <order_by>18</order_by>
+    <text>
+        All rights and remedies accorded motor vehicle dealers under this chapter shall apply with equal force and effect to a distributor in its dealings with the manufacturer from which it purchases new motor vehicles.
+    </text>
+</law>

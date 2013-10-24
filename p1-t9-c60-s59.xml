@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Payments By Mortgagors Or Mortgagees</catch_line>
+    <order_by>59</order_by>
+    <text>
+        If a tax on land is assessed to a mortgagor and mortgagee separately, any part thereof remaining unpaid on October first following its assessment may be paid by either party. If a mortgagee pays a tax, interest or costs thereon which by law or by the terms of the mortgage was payable by the mortgagor, the amount so paid shall be added to the mortgage debt. If it is by law or by the terms of the mortgage payable by the mortgagee, and is paid by the mortgagor, the amount so paid shall be deducted from the mortgage debt unless the parties have, in writing, otherwise agreed.
+    </text>
+</law>

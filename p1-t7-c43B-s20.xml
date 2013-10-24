@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43B" order_by="43B" level="3">Home Rule Procedures</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Provisions Of Charter Or Amendment Deemed Consistent With Certain Other Laws</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     that any particular local office shall be either elected or appointed; provided, however, that in any town having a board of selectmen the members of such board shall always be elected; provided, further, that in any city or town having a school committee the members of such committee shall always be elected; and provided, further, that in any town having a form of town meeting open to all of its registered voters the town moderator shall always be elected and in every other case all of the members of the legislative body shall always be elected;
+        </section>
+        <section prefix="b">
+    	     that any particular local officer or employee shall be appointed by any particular local officer;
+        </section>
+        <section prefix="c">
+    	     for the number of persons to serve as members of any multiple member body; provided, however, that all such multiple member bodies shall always consist of an odd number of members;
+        </section>
+        <section prefix="d">
+    	     for the term of office to be served by any local elected officer; provided, however, that no term of office of a local elected officer shall be for more than five years, and the members of multiple member bodies shall serve for terms which, as nearly as possible, expire in different years;
+        </section>
+        <section prefix="e">
+    	     for the merger or consolidation of two or more local offices into a single office;
+        </section>
+        <section prefix="f">
+    	     that the powers, duties and responsibilities of one local office be divided and exercised by two or more local offices;
+        </section>
+        <section prefix="g">
+    	     for the confirmation of any appointment by another municipal agency.
+        </section>
+    </text>
+</law>

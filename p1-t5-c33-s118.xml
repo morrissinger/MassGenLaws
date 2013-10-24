@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>118</section_number>
+    <catch_line>Rentals</catch_line>
+    <order_by>118</order_by>
+    <text>
+        For each armory, air installation or adequate facility maintained by a city or town, or privately owned, there shall annually be allowed and paid by the commonwealth such rental as has been mutually agreed upon.
+    </text>
+</law>

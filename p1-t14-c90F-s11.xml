@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Consent To Alcohol And Other Drug Tests; Test Refusal;  Disqualification From Driving</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="A">
+    	     Any person who operates a commercial motor vehicle upon the highways of the commonwealth shall be deemed to have given consent, to a test or tests of that person’s blood, breath, or urine for the purpose of determining that person’s alcohol concentration, or the presence of other drugs.
+        </section>
+        <section prefix="B">
+    	     A test or tests may be administered at the direction of a law enforcement officer, who after stopping or detaining the operator of a commercial motor vehicle, has probable cause to believe that the operator was operating a commercial motor vehicle while having alcohol in his system.
+        </section>
+        <section prefix="C">
+    	     A person requested to submit to a test as provided shall be advised that a refusal to submit to the test will result in that person being disqualified from operating a commercial motor vehicle.
+        </section>
+        <section prefix="D">
+    	     If the person refuses testing, or submits to a test which discloses an alcohol concentration of four hundredths or more, the law enforcement officer must submit a sworn report to the registrar certifying that the test was requested pursuant to paragraph (A) and that the person refused to submit to testing, or submitted to a test which disclosed an alcohol concentration of four hundredths or more.
+        </section>
+        <section prefix="E">
+    	     Upon receipt of the sworn report of a law enforcement officer submitted under paragraph (D), the registrar shall disqualify the driver from driving a commercial motor vehicle for a period of one year; provided, however, that upon receipt of such report with respect to any person who refuses to submit to such a test or submits to a test which discloses an alcohol level of four one-hundredths or more while transporting a hazardous material required to be placarded, the registrar shall disqualify such person from driving a commercial motor vehicle for three years. The registrar shall disqualify for life any person who refuses to submit to two or more tests, or submits to two or more tests which disclose an alcohol level of four one-hundredths or more, or any combination of the two or more thereof. Any operator who has been disqualified shall be entitled to a hearing before the registrar which shall be limited to the following issues: (1) did the law enforcement officer, who after stopping or detaining the commercial motor vehicle driver, have probable cause to believe that the driver was driving a commercial motor vehicle while having alcohol in his system and (2) did such person refuse to submit to such test.
+        </section>
+    </text>
+</law>

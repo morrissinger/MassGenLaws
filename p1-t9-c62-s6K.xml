@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>6K</section_number>
+    <catch_line>Refunds And Contributions Credited To Massachusetts Military Family Relief Fund</catch_line>
+    <order_by>6K</order_by>
+    <text>
+        <section prefix="a">
+    	     Every individual who files a separate return and every husband and wife filing a return jointly may voluntarily contribute all or part of any refund to which they are entitled, or may voluntarily add an amount onto any amount due, to be credited to the Massachusetts Military Family Relief Fund established pursuant to section 35CC of chapter 10.
+        </section>
+        <section prefix="b">
+    	     A contribution made under this section may be with respect to any taxable year at the time of filing a return of the tax established by this chapter for such taxable year; provided, however, that the commissioner shall prescribe the manner in which the contribution shall be made on the face of the return required by section 5 of chapter 62C; and provided, further, that the commissioner shall assure that taxpayers filing the forms are made aware of their ability to make the contributions provided for by this section.
+        </section>
+        <section prefix="c">
+    	     The commissioner shall annually report the total amount designated under this section to the state treasurer, who shall credit the amount to the Massachusetts Military Family Relief Fund.
+        </section>
+    </text>
+</law>

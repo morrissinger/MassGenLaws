@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25A" order_by="25A" level="3">Division Of Energy Resources</unit>
+    </structure>
+    <section_number>11F1/2</section_number>
+    <catch_line>Alternative Renewable Energy Portfolio Standard</catch_line>
+    <order_by>11F1/2</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall establish an alternative energy portfolio standard for all retail electricity suppliers selling electricity to end-use customers in the commonwealth. Every retail electric supplier providing service under contracts executed or extended on or after January 1, 2009 shall provide a minimum percentage of kilowatt-hour sales, as determined by the department, to end-use customers in the commonwealth from alternative energy generating sources and the department shall annually thereafter determine the minimum percentage of kilowatt-hour sales to end-use customers in the commonwealth which shall be derived from alternative energy generating sources. For the purposes of this section, an alternative energy generating source is one which generates electricity using any of the following: (1) gasification with capture and permanent sequestration of carbon dioxide; provided, however, that the fuel shall be purchased by, and contractually transported to, the alternative energy generating source in ISO-NE, as defined in section 1 of chapter 164; (2) combined heat and power; (3) flywheel energy storage; (4) any facility which substitutes any portion of its fossil fuel source with an equal to or greater portion of an alternative, paper-derived fuel source approved by the department of environmental protection through a beneficial use determination for the production of heat or power; (5) energy efficient steam technology; or (6) any other alternative energy technology approved by the department under an administrative proceeding conducted under chapter 30A; provided, however, that the following technologies shall not be considered alternative energy supplies: coal, except when used in gasification; petroleum coke, except when used in gasification; oil; natural gas, except when used in gasification or combined heat and power; and nuclear power.
+        </section>
+        <section prefix="b">
+    	     The department, in consultation with the department of environmental protection, shall set: (1) emission performance standards, including standards for carbon dioxide emissions, permanent sequestration definitions and standards, and fuel conversion efficiency standards for all technologies included in this section such that in the case of gasification, the total overall fuel conversion efficiency from feedstock to final combustible fuel shall not be less than 70 per cent, consistent with the commonwealth’s environmental goals, including, but not limited to, the reduction of greenhouse gas emissions; and (2) a net carbon dioxide emissions rate not to exceed the average emissions rate of existing natural gas plants in the commonwealth, which shall include all emissions related to combustion, gasification, fuel processing and sequestration, whether or not such activities occur at the alternative generating source or at another location, and in the case of combined heat and power shall also include thermal delivery. At least once every 2 years the department shall review and update all standards for new alternative energy generating sources to strengthen them, as appropriate, as technology improvements occur.
+        </section>
+        <section prefix="c">
+    	     The department shall adopt regulations allowing for a retail supplier to discharge its obligations under this section by making an alternative compliance payment in an amount established by the department. Such regulations shall outline procedures by which each retail supplier shall annually submit for the department’s review a filing illustrating the retail supplier’s compliance with the requirements of this section.
+        </section>
+        <section prefix="d">
+    	     A municipal lighting plant shall be exempt from the obligations under this section so long as and insofar as it is exempt from the requirements to allow competitive choice of generation supply under section 47A of chapter 164.
+        </section>
+    </text>
+</law>

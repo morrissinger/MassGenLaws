@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Access To Consenting Residents; Purpose Of Visit</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="1">
+    	     visit, talk with and make personal, social and legal services available to all residents;
+        </section>
+        <section prefix="2">
+    	     inform residents of their rights and entitlements and their correspondent obligations, under federal and state laws, by means of educational materials and discussion in groups and with individual residents;
+        </section>
+        <section prefix="3">
+    	     assist residents in asserting their legal rights regarding claims for public assistance, medical assistance and social security benefits, or assist residents in action against agencies responsible for such programs, as well as in all other matters in which residents are aggrieved and may include advising litigation; or
+        </section>
+        <section prefix="4">
+    	     engage in other methods of assisting, advising and representing residents so as to extend to them full enjoyment of their rights.
+        </section>
+    </text>
+</law>

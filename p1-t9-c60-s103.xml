@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>103</section_number>
+    <catch_line>Failure To Aid Collector</catch_line>
+    <order_by>103</order_by>
+    <text>
+        Whoever refuses or neglects to aid a collector when required under section thirty-three shall forfeit not more than ten dollars.
+    </text>
+</law>

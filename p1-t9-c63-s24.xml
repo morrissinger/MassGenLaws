@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Deductions</catch_line>
+    <order_by>24</order_by>
+    <text>
+        In determining the amount of the tax payable under sections twenty-two and twenty-three, there shall be deducted all premiums on policies written but not taken, or cancelled through default of payment, and all premiums returned or credited to policyholders during the year for which the tax is determined, but not including premiums returned or credited on reinsurance assumed, provided that all premiums for which deduction is claimed have been included as premium receipts in a return made under section twelve of chapter sixty-two C and a tax assessed thereon.
+    </text>
+</law>

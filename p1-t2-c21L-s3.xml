@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21L" order_by="21L" level="3">Environmental Endangerment Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Court Sentencing</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The court: (1) shall, when sentencing an organization for an offense under clause (2) of subsection (a) of section 2 or for a second or subsequent offense under clause (2) of subsection (b) of said section 2; and (2) may, when sentencing an organization for a first offense under said clause (2) of said subsection (b) of said section (2) place the organization on probation and require as a condition of that probation that the organization pay for an environmental audit.
+        </section>
+        <section prefix="b">
+    	     The court shall appoint an independent expert with no prior involvement in the environmental management of the organization sentenced to conduct an environmental audit under this section. The prosecution and the defense may each submit names of suggested experts. The court shall consider any such submissions in making an appointment under this subsection.
+        </section>
+        <section prefix="c">
+    	     The environmental audit shall: (1) identify all causes of, and any factors that contributed to, the conduct that is the basis for the conviction and recommend specific measures to prevent a recurrence of such causes or factors; and (2) recommend a schedule for implementation of the recommendations under clause (1).
+        </section>
+        <section prefix="d">
+    	     The court shall order the defendant to implement each recommendation of the audit unless the court finds by clear and convincing evidence that: (1) the recommendation will not achieve the result the recommendation seeks to bring about: (2) the adverse environmental effects of implementing the recommendation outweigh the environmental benefits of the recommendation: (3) the technology does not exist to carry out the recommendation: or (4) there are alternative means to achieve the equivalent result at significantly less cost to the defendant. Any such alternative means shall be incorporated into the audit in place of the relevant recommendation and the court shall order the defendant to implement the audit as modified.
+        </section>
+        <section prefix="e">
+    	     The court may impose for an offense under this chapter a term of probation that is longer than the term otherwise permitted by law, if the court determines that the longer term is necessary to implement the environmental audit.
+        </section>
+        <section prefix="f">
+    	     The prosecutor, the auditor appointed under clause 2 subsection (b) or governmental agency may suggest to the court that a failure to implement the audit has taken place. Whenever the alleged failure to implement an environmental audit is properly before the court, unless the defendant demonstrates that the failure did not take place, the court shall order appropriate sanctions.
+        </section>
+        <section prefix="g">
+    	     In addition to any other sanctions the court may impose for failure to implement an environmental audit, the court may: (1) hold any appropriate person in contempt; or (2) appoint a special master to conduct such affairs of the defendant as are necessary and relevant to implementation of the audit.
+        </section>
+    </text>
+</law>

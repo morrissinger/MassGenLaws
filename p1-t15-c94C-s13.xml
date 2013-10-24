@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Suspension Or Revocation Of Registration; Report Of Criminal Violations; Controlled Substances Affected Placed Under Embargo;  Forfeiture; Notice To Bureau</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases may suspend or revoke a registration to manufacture, distribute, dispense or possess a controlled substance, after a hearing pursuant to the provisions of chapter thirty A upon a finding that the registrant:
+        </section>
+        <section prefix="1">
+    	     has furnished false or fraudulent material information in any application filed under the provisions of this chapter;
+        </section>
+        <section prefix="2">
+    	     has been convicted under any state or federal law of any criminal violation relating to his fitness to be registered under this chapter;
+        </section>
+        <section prefix="3">
+    	     has had his federal registration suspended or revoked to manufacture, distribute, dispense, administer or possess controlled substances; or
+        </section>
+        <section prefix="4">
+    	     is, upon good cause, found to be unfit or unqualified to manufacture, distribute, dispense, or possess any controlled substance.
+        </section>
+        <section prefix="b">
+    	     The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases may pursuant to the provisions of this section or section fourteen suspend or revoke any registration issued by him or it for violation of any provision of this chapter.
+        </section>
+        <section prefix="c">
+    	     Whenever the commissioner, the board of registration in pharmacy, or the commissioner of mental health has substantial reason to believe that a registrant has committed a criminal violation of any provision of this chapter, he or it shall promptly report all pertinent facts to the district attorney in the county where the violation is believed to have occurred, or to the attorney general.
+        </section>
+        <section prefix="d">
+    	     The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases may limit revocation or suspension of a registration to the particular controlled substance with respect to which grounds for revocation or suspension exists.
+        </section>
+        <section prefix="e">
+    	     If the board of registration in pharmacy in the case of a retail drug business or wholesale druggist or the commissioner in all other cases suspends or revokes a registration, all controlled substances which are affected by such suspension or revocation order at the time of suspension or the effective date of the revocation order shall be placed under embargo pursuant to the procedures prescribed in sections one hundred and eighty-nine and one hundred and eighty-nine A of chapter ninety-four. No disposition may be made of substances under such embargo until the time for taking an appeal has elapsed or until all appeals have been concluded unless a court, upon application therefor, orders the sale of perishable substances and the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all controlled substances may be forfeited to the commonwealth under the provisions of section forty-seven.
+        </section>
+        <section prefix="f">
+    	     The board of registration in pharmacy in the case of a retail drug business or wholesale druggist and the commissioner in all other cases shall promptly notify the bureau of all orders suspending or revoking a registration and all forfeitures of controlled substances.
+        </section>
+    </text>
+</law>

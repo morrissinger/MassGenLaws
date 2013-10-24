@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="20" order_by="20" level="3">Department Of Food And Agriculture</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Property Tax Assessment Of Land Under Agricultural Preservation Restrictions</catch_line>
+    <order_by>26</order_by>
+    <text>
+        Land under agricultural preservation restrictions, while actively devoted to agricultural, horticultural or agricultural and horticultural use as defined in sections 1 to 5, inclusive, of chapter 61A, shall be assessed for general property tax purposes at values no greater than those determined by the methods and provisions of section 10 of said chapter 61A.
+    </text>
+</law>

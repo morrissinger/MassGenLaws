@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Levy Of Tax On Land By Distress Of Stock And Produce</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If a person is taxed for land in his occupation, but of which he is not the owner, the collector, or his designee, after demand for payment, the issuance of the warrant to collect, and the issuance of the warrant to distrain or commit pursuant to section twenty-nine, may levy the tax by distress by the sale of cattle, sheep, horses, swine or other stock or produce of such estate, belonging to the owner thereof, which, within nine months after such assessment has been committed to him, may be found upon the premises, in the same manner as if such stock or produce were the property of the person so taxed; provided, however, that such demand for payment need not be made if the person on whom the tax is assessed resided within the precinct of the collector at the time of the assessment, and subsequently removes therefrom and remains absent three months.
+    </text>
+</law>

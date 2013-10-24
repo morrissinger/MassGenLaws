@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Cash Books</catch_line>
+    <order_by>7</order_by>
+    <text>
+        He shall also keep a cash book, in which he shall enter all sums paid to him, as received, specifying the total amount of tax, abatements allowed, all interest charged, the total amount received and the date of receipt, the date and amount of every payment and disbursement made by him, and to whom paid, with such other matters as the town requires.
+    </text>
+</law>

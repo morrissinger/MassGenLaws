@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Alcohol In System Of Commercial Driver; Refusal Of Alcoholic Concentration Test; Out Of Service</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="A">
+    	     Notwithstanding any other provision of this chapter, a person may not drive, operate, or be in physical control of a commercial motor vehicle while having alcohol in his system.
+        </section>
+        <section prefix="B">
+    	     A person who drives, operates, or is in physical control of a commercial motor vehicle while having alcohol in his system or who refuses to take an alcohol concentration test to determine his blood alcohol content shall be placed out-of-service for twenty-four hours.
+        </section>
+    </text>
+</law>

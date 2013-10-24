@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>62</order_by>
+    <text>
+        For the purposes of sections sixty-one to sixty-two H, inclusive, the following words shall have the following meanings unless the context otherwise requires:— 
+“Agency”, an agency, department, board, commission or authority of the commonwealth, and any authority of any political subdivision which is specifically created as an authority under special or general law. 
+“Permit”, a permit determination, order or other action, including the issuance of a lease, license, permit, certificate, variance, approval or other entitlement for use, granted to any person, firm or corporation, including trusts, voluntary association or other forms of business organizations by an agency for a project but shall not include a general entitlement to a person to carry on a trade or profession or to operate mechanical equipment which does not depend upon the location of such trade or operation. 
+“Person”, a private person, firm or corporation, or any governmental entity which is not an agency. 
+“Project”, work, project, or activity either directly undertaken by an agency, or if undertaken by a person, which seeks the provision of financial assistance by an agency, or requires the issuance of a permit by an agency but shall not include a grant of aid for medical services or personal support, such as welfare or unemployment funds, to an individual or a third party on behalf of an individual.
+    </text>
+</law>

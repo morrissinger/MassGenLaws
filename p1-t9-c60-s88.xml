@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>88</section_number>
+    <catch_line>Tax Lists And Warrants; Posting By Sheriff Or Deputies</catch_line>
+    <order_by>88</order_by>
+    <text>
+        When the tax list and warrant of the assessors is committed to the sheriff or his deputy, he shall forthwith post, in some public place in the town, an attested copy of said list and warrant; and shall make no distress for a tax within thirty days thereafter.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>9A</section_number>
+    <catch_line>Redivision Into Precincts Or Districts; Elections Thereafter; Census</catch_line>
+    <order_by>9A</order_by>
+    <text>
+        All regular municipal elections and primaries held in any town after it has been redivided into precincts or into any districts for electing town officers shall be held in such town as redivided. 
+Any precinct established or remaining unchanged following the decennial federal census shall remain unchanged for the purpose of forming congressional, representative, senatorial or councillor districts based on said census until the formation of the districts aforesaid, and, if such precinct is in a town the territory of which in such formation is included in two or more congressional, representative or senatorial districts, shall remain unchanged for the purpose of electing such officers as long as such districts are required by the constitution to be used for such purpose.
+    </text>
+</law>

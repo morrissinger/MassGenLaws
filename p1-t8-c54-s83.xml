@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>83</section_number>
+    <catch_line>Deposit Of Ballots, Voting List Check, Endorsement</catch_line>
+    <order_by>83</order_by>
+    <text>
+        Except where voting machines are used, a voter after marking his ballot shall give his name and, if requested, his residence, to one of the officers in charge of the ballot box who shall distinctly announce the same. If the name is found on the voting list by the election officer, he shall distinctly repeat the name and check it on the voting list; and the voter may then deposit his ballot in the ballot box with the official endorsement uppermost and in sight. No ballot without the official endorsement, except as provided in section sixty-one, shall be deposited in the ballot box.
+    </text>
+</law>

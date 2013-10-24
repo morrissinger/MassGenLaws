@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Oaths Of Office</catch_line>
+    <order_by>11</order_by>
+    <text>
+        A person chosen or appointed to an office may, unless otherwise provided by law, take and subscribe the oaths required to qualify him before the governor, lieutenant governor, secretary of the commonwealth, two councillors or two commissioners appointed under section three of chapter two hundred and twenty-two.
+    </text>
+</law>

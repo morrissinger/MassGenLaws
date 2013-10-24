@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>59A</section_number>
+    <catch_line>Spinal Cord Injury Trust Fund</catch_line>
+    <order_by>59A</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established on the books of the commonwealth a separate trust fund known as the Spinal Cord Injury Trust Fund. The trust fund shall consist of monies paid to the commonwealth on a surcharge of $50 assessed against any person who seeks reinstatement of his license to operate after the license has been suspended as a result of receiving 3 speeding convictions under section 17 of chapter 90 within any 1-year period or as a result of receiving 5 or more moving violations or surchargeable offenses within any 3-year period. The first $25 of each surcharge shall be transferred by the registrar of motor vehicles to the state treasurer for deposit into the Spinal Cord Injury Trust Fund. The remaining amount shall be transferred by the registrar to the state treasurer for deposit in the General Fund.
+        </section>
+        <section prefix="b">
+    	     The state treasurer shall be the custodian of the Spinal Cord Injury Trust Fund and shall receive, deposit, and invest all monies transmitted to him under this section and shall credit interest and earnings on the trust fund to the trust fund. The monies shall be expended for the purpose of medical cure research services for spinal cord injured persons in such manner as the commissioner of public health may direct.
+        </section>
+        <section prefix="c">
+    	     The commissioner of public health shall appoint an advisory board, consisting of 2 physicians and 1 member of the spinal cord community for the purpose of reviewing proposals for funding research in spinal cord injury and making related recommendations.
+        </section>
+    </text>
+</law>

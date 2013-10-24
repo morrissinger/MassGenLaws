@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Tax Rate</catch_line>
+    <order_by>58</order_by>
+    <text>
+        Every corporation required to file a return under subsection (h) of section twelve of chapter sixty-two C shall annually pay a tax upon its corporate franchise, after making the deductions provided for in section fifty-five, at a rate equal to the average of the annual rates for three years preceding that in which such assessment is laid, said annual rates to be determined by an apportionment of the whole amount of money to be raised by taxation upon property in the commonwealth during each of the said three years, as returned by the assessors of the several towns under section forty-seven of chapter fifty-nine, upon the aggregate valuation of all towns for each of the said three years, as returned under said section forty-seven.
+    </text>
+</law>

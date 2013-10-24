@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>60A</section_number>
+    <catch_line>Procedures For Accurate Reporting Of Public Record Information</catch_line>
+    <order_by>60A</order_by>
+    <text>
+        <section prefix="a">
+    	     Maintain reasonable procedures designed to insure that whenever public record information is reported, in a consumer report, it is complete and up to date to the extent practicable. It shall be deemed a reasonable procedure for a consumer reporting agency to accurately report the status of public record information as of the date recorded in its files provided that such information is updated on a regular basis.
+        </section>
+        <section prefix="b">
+    	     When conducting a reinvestigation as required by paragraph (a) of section fifty-eight, a consumer reporting agency shall promptly record and report the current status of the public record.
+        </section>
+    </text>
+</law>

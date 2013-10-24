@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49F</section_number>
+    <catch_line>Restoration Or Renewal Of Registration Or Non Resident’S Operating Privilege</catch_line>
+    <order_by>49F</order_by>
+    <text>
+        <section prefix="a">
+    	     Security is deposited as required under section forty-nine D; or
+        </section>
+        <section prefix="b">
+    	     One year shall have elapsed following the date of such suspension and satisfactory evidence is filed with the commission that during such period no action for damages arising out of the accident has been instituted; or
+        </section>
+        <section prefix="c">
+    	     Satisfactory evidence is filed with the commission of a release from liability, or a judgment of non-liability as to all persons damaged or injured in the accident, or a written agreement, in accordance with paragraph (8) of sub-section (c) of section forty-nine D. If there is a default in payment under such written agreement, then upon ten days’ notice of the owner or operator, the commission shall suspend the registration or non-resident’s operating privilege of such person defaulting, and the same shall not be restored unless and until (1) such person deposits and thereafter maintains security as required under section forty-nine D in such amount as the commission may then determine, within the limits provided in section forty-nine E, or (2) one year has elapsed following the time when such security was required and during such period no action upon the agreement has been instituted in a court of the commonwealth; or
+        </section>
+        <section prefix="d">
+    	     Satisfactory evidence is filed with the commission that any judgment against such person for damages resulting from the accident has been satisfied in full or that there has been paid thereon an amount equal to the applicable limits set forth in section forty-nine E; or
+        </section>
+        <section prefix="e">
+    	     Written consent thereto has been filed with the commission by all claimants and the same is approved by the commission.
+        </section>
+    </text>
+</law>

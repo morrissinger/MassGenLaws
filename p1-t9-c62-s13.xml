@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Application Of Sections To All Fiduciaries</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Sections 10 and 11 shall so far as apt, apply to executors, administrators, guardians, conservators, trustees in bankruptcy, receivers and assignees for the benefit of creditors, to the income received by them and to their beneficiaries. All such fiduciaries and their successors in office shall be personally liable for all taxes due under this chapter from them or from their predecessors in office to the value of all property in their hands as such fiduciaries at the time of distribution as provided in section six of chapter sixty-two C.
+    </text>
+</law>

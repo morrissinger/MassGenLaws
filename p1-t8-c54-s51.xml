@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Town Elections; Posting Names Of Candidates</catch_line>
+    <order_by>51</order_by>
+    <text>
+        In towns using official ballots the town clerk, at least four days before an election therein, shall cause to be posted in one or more public places the names, residences and designations of all candidates duly nominated to be voted for in the town, substantially in the form of the official ballot.
+    </text>
+</law>

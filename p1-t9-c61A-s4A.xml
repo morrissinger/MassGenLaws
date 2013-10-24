@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61A" order_by="61A" level="3">Assessment And Taxation Of Agricultural And Horticultural Land</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Tax Rate For Land Actively Devoted To Agricultural Or Horticultural Use</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        In a city or town that accepts this section, the rate of tax applicable to land actively devoted to agricultural, horticultural or agricultural and horticultural uses shall be the rate determined to be applicable to class two, open space.
+    </text>
+</law>

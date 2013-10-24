@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40R" order_by="40R" level="3">Smart Growth Zoning And Housing Production</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Letter Of Eligibility</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon application by a city or town, the department shall make a preliminary determination, before the city or town votes on a proposed smart growth zoning ordinance or bylaw, whether the district would be eligible for the financial incentives and the priorities for state expenditures set forth in section 9. The department’s determination shall be communicated to the city or town in a letter of eligibility. If the department denies the application, it shall inform the applicant of the deficiencies in its submission. A city or town may re-apply for approval after addressing any deficiencies in a prior application. If the department does not act upon a complete and approvable application within 60 days of receipt, the application shall be deemed approved.
+        </section>
+        <section prefix="b">
+    	     After issuance of a letter of eligibility and upon application of the town with proof of adoption of the smart growth zoning district ordinance or by-law included in the application for a letter of eligibility, along with any amendment required by the department in the letter of eligibility, the department shall confirm its approval within 30 days of receipt of the application.
+        </section>
+    </text>
+</law>

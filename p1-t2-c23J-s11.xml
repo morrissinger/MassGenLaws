@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23J" order_by="23J" level="3">Massachusetts Clean Energy Technology Center</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Audit Of Expenditures And Investments Of Monies From The Fund And The Trust Fund</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The books and records of the center and board relative to expenditures and investments of monies from the fund and the trust fund shall be subject to a biennial audit by the auditor of the commonwealth.
+    </text>
+</law>

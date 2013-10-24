@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="79" order_by="79" level="3">Eminent Domain</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Officials Authorized To Exercise Eminent Domain</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Where no other provision is made by law, a taking of land by eminent domain by or on behalf of the commonwealth shall be made by the governor and council, a taking by or on behalf of a county by the county commissioners of such county, a taking by or on behalf of a city by the aldermen, a taking by or on behalf of a town by the selectmen, a taking by or on behalf of a district by its prudential committee and a taking by or on behalf of a private corporation by its board of directors.
+    </text>
+</law>

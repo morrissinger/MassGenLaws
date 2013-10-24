@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Conspiracy</catch_line>
+    <order_by>40</order_by>
+    <text>
+        Whoever conspires with another person to violate any provision of this chapter shall be punished by imprisonment or fine, or both, which punishment shall not exceed the maximum punishment prescribed for the offense, the commission of which was the object of the conspiracy.
+    </text>
+</law>

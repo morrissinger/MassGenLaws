@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Eligibility Of Candidates</catch_line>
+    <order_by>15</order_by>
+    <text>
+        No person shall, at a state, city or town election, be eligible or act as an election officer in a voting precinct where he is a candidate for election; and if a person appointed an election officer becomes such a candidate, and does not forthwith resign his office, the mayor or selectmen, if he is a candidate at a state election, shall remove him from office before November first, or, if a candidate at a city election, the mayor shall so remove him at least eight days before the day of the election, or if a candidate at a town election the selectmen shall remove him before the election. Neither a town moderator nor any member of a board of selectmen shall be eligible or act as an election officer in a state or presidential primary, or state election.
+    </text>
+</law>

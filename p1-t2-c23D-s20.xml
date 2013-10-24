@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23D" order_by="23D" level="3">Employee Ownership Revolving Loan Fund</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Assistance For Applicants; Outreach Program</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     The program of employee involvement and ownership shall assist applicants seeking to institute or implement employee-ownership projects by serving as an advocate for such applicants in obtaining financial and other assistance from private sources and from other governmental agencies. Said program shall make such applicants aware of the financial assistance available for qualified employee-ownership projects pursuant to this chapter and may, upon request, assist applicants in the preparation of applications for such financial assistance.
+        </section>
+        <section prefix="b">
+    	     Said program shall coordinate with and assist the board of directors of the Massachusetts Growth Capital Corporation in the approval process for persons and businesses seeking financial assistance pursuant to this chapter for employee-ownership projects.
+        </section>
+        <section prefix="c">
+    	     Said program shall compile and make available to applicants a directory of qualified vendors of professional services essential to employee-ownership projects.
+        </section>
+        <section prefix="d">
+    	     Said program may assist applicants seeking to institute or implement employee-ownership projects by making the staff of said program available for aid in the preparation of legal and other necessary documentation.
+        </section>
+        <section prefix="e">
+    	     Said program may design and implement a special outreach program to inform and educate potential retiring owners of small businesses about the benefits of employee-ownership. Said program shall include, but not be limited to, generating a list of closely held businesses domiciled in the commonwealth, developing information materials, explaining the benefits and assistance available to retiring owners interested in selling their businesses to the employees of the business, and targeting said informational materials to the identified small business owners.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Division Of Open Government; Open Meeting Law Training; Open Meeting Law Advisory Commission; Annual Report</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be in the department of the attorney general a division of open government under the direction of a director of open government. The attorney general shall designate an assistant attorney general as the director of the open government division. The director may appoint and remove, subject to the approval of the attorney general, such expert, clerical and other assistants as the work of the division may require. The division shall perform the duties imposed upon the attorney general by the open meeting law, which may include participating, appearing and intervening in any administrative and judicial proceedings pertaining to the enforcement of the open meeting law. For the purpose of such participation, appearance, intervention and training authorized by this chapter the attorney general may expend such funds as may be appropriated therefor.
+        </section>
+        <section prefix="b">
+    	     The attorney general shall create and distribute educational materials and provide training to public bodies in order to foster awareness and compliance with the open meeting law. Open meeting law training may include, but shall not be limited to, instruction in:
+        </section>
+        <section prefix="1">
+    	     the general background of the legal requirements for the open meeting law;
+        </section>
+        <section prefix="2">
+    	     applicability of sections 18 to 25, inclusive, to governmental bodies;
+        </section>
+        <section prefix="3">
+    	     the role of the attorney general in enforcing the open meeting law; and
+        </section>
+        <section prefix="4">
+    	     penalties and other consequences for failure to comply with this chapter.
+        </section>
+        <section prefix="c">
+    	     There shall be an open meeting law advisory commission. The commission shall consist of 5 members, 2 of whom shall be the chairmen of the joint committee on state administration and regulatory oversight; 1 of whom shall be the president of the Massachusetts Municipal Association or his designee; 1 of whom shall be the president of the Massachusetts Newspaper Publishers Association or his designee; and 1 of whom shall be the attorney general or his designee.
+        </section>
+        <section prefix="d">
+    	     The attorney general shall, not later than January 31, file annually with the commission a report providing information on the enforcement of the open meeting law during the preceding calendar year. The report shall include, but not be limited to:
+        </section>
+        <section prefix="1">
+    	     the number of open meeting law complaints received by the attorney general;
+        </section>
+        <section prefix="2">
+    	     the number of hearings convened as the result of open meeting law complaints by the attorney general;
+        </section>
+        <section prefix="3">
+    	     a summary of the determinations of violations made by the attorney general;
+        </section>
+        <section prefix="4">
+    	     a summary of the orders issued as the result of the determination of an open meeting law violation by the attorney general;
+        </section>
+        <section prefix="5">
+    	     an accounting of the fines obtained by the attorney general as the result of open meeting law enforcement actions;
+        </section>
+        <section prefix="6">
+    	     the number of actions filed in superior court seeking relief from an order of the attorney general; and
+        </section>
+        <section prefix="7">
+    	     any additional information relevant to the administration and enforcement of the open meeting law that the attorney general deems appropriate.
+        </section>
+    </text>
+</law>

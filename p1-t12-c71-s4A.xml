@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Failure To Keep Schools Open For Required Period; Penalty</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        Every town which, without having received a specific exemption from the board of education, fails to keep open all schools required to be maintained under sections one and four or fails to provide school facilities under section six for grade nine through twelve, the number of days required by said board in each school year shall have deducted from the sum of school aid payable to it under chapter seventy an amount equal to the proportion which the number of such days during which schools were not kept open bears to the total number of days required that they be kept open by said board.
+    </text>
+</law>

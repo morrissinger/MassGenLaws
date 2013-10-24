@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Local Assessment Committee</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     to represent generally the best interests of the host community in all negotiations with the developers of proposed facilities in said community;
+        </section>
+        <section prefix="2">
+    	     to negotiate with the developer the detailed terms, provisions, and conditions of a siting agreement to protect the public health, the public safety, and the environment of the host community, as well as to promote the fiscal welfare of said community through special benefits and compensation;
+        </section>
+        <section prefix="3">
+    	     to receive and expend such technical assistance and planning grants as may be made available pursuant to section eleven of this chapter and such other funds as may become available for such purposes from any other source, public or private;
+        </section>
+        <section prefix="4">
+    	     to enter into a nonassignable contract binding upon the host community, and enforceable against said host community in any court of competent jurisdiction, by the decision to sign a siting agreement pursuant to section thirteen of this chapter;
+        </section>
+        <section prefix="5">
+    	     to cooperate wherever possible with abutting communities in negotiations with the developer over compensation for said abutting communities; and
+        </section>
+        <section prefix="6">
+    	     to adopt such rules, regulations, procedures and standards as may be necessary to carry out its functions and perform its duties under this chapter.
+        </section>
+    </text>
+</law>

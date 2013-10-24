@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94F" order_by="94F" level="3">Complementary Provisions Concerning Tobacco Product Manufacturers</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Violations; Remedies; Penalties</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall: (i) sell or distribute cigarettes in violation of subsection (h) of section 2; or (ii) acquire, hold, own, possess, transport, import or cause to be imported cigarettes that the person knows or should know are intended for distribution or sale in the commonwealth in violation of said subsection (h). A violation of this section shall be punished by a fine of not more than $1,000 or by imprisonment in a house of correction for not more than 1 year, or both.
+        </section>
+        <section prefix="b">
+    	     In addition to or in lieu of any other civil or criminal remedy provided by law, upon a determination that a stamper has violated subsection (h) of section 2 or any regulation adopted pursuant to said subsection (c) of section 6, the commissioner may revoke or suspend the stamping authority of the stamper in the manner provided in chapter 62C or chapter 64C. Each stamp affixed and each sale or offer to sell cigarettes in violation of said subsection (h) of said section 2 shall constitute a separate violation. The commissioner may also impose a civil penalty in an amount not to exceed the greater of 500 per cent of the retail value of the cigarettes sold or $5,000 for each violation.
+        </section>
+        <section prefix="c">
+    	     Any cigarettes that have been sold, offered for sale or possessed for sale in the commonwealth in violation of subsection (h) of section 2 shall be deemed contraband, and such cigarettes shall be subject to seizure and forfeiture. All cigarettes so seized and forfeited shall be destroyed and not resold.
+        </section>
+        <section prefix="d">
+    	     The attorney general, on behalf of the commissioner, may seek an injunction to restrain a threatened or actual violation of this chapter and to compel compliance with its terms.
+        </section>
+        <section prefix="e">
+    	     If a court determines that a person has violated this chapter, the court shall order any profits, gains, gross receipts or other benefits from the violation to be disgorged and paid to commonwealth.
+        </section>
+        <section prefix="f">
+    	     In any civil action brought to enforce this chapter or chapter 94E, the commonwealth shall be entitled to recover the costs of investigation and the costs of the action, including reasonable attorney fees and expert witness fees.
+        </section>
+        <section prefix="g">
+    	     A person who violates subsection (h) of section 2 shall be deemed to have engaged in an unfair and deceptive trade practice in violation of chapter 93A.
+        </section>
+        <section prefix="h">
+    	     Unless otherwise expressly provided, the remedies and penalties provided by this chapter are cumulative to each other and to remedies or penalties otherwise available.
+        </section>
+    </text>
+</law>

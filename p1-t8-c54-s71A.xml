@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>71A</section_number>
+    <catch_line>Supervision Of Election Officers In Cities And Towns</catch_line>
+    <order_by>71A</order_by>
+    <text>
+        Election officers in cities and in towns shall perform their duties under the supervision of the city or town clerk.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Railroad Subscriptions; Interest On Debts</catch_line>
+    <order_by>24</order_by>
+    <text>
+        The assessors of a town owing debts incurred to obtain funds for subscriptions for the capital stock and securities of a railroad corporation shall annually assess, in addition to the other amounts required by law, an amount sufficient to pay the excess of such interest payable by such town over any income received from such stock or securities.
+    </text>
+</law>

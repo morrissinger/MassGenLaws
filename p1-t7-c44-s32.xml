@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Submission Of City Budget To City Council; Procedure For Approval, Rejection Or Alteration</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="1">
+    	     Ordinary maintenance, which shall also include debt and interest charges matured and maturing during the next fiscal year, and shall be subdivided as follows:—
+        </section>
+        <section prefix="a">
+    	     Salaries and wages of officers, officials and employees other than laborers or persons performing the duties of laborers; and
+        </section>
+        <section prefix="b">
+    	     Ordinary maintenance not included under (a); and
+        </section>
+        <section prefix="2">
+    	     Proposed expenditures for other than ordinary maintenance, including additional equipment the estimated cost of which exceeds one thousand dollars.
+        </section>
+    </text>
+</law>

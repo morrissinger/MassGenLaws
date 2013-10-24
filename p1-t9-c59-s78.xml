@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>78</section_number>
+    <catch_line>Collection Of Reassessed Taxes</catch_line>
+    <order_by>78</order_by>
+    <text>
+        Taxes reassessed under section seventy-seven shall be committed to, and collected and paid over by, the collector for the time being, in the same manner as other taxes, except that the name of the person to whom they were originally assessed shall be stated in the tax list; and the bond of such collector shall apply to such reassessed taxes. Taxes so reassessed shall bear interest as provided in section fifty-seven with respect to real estate and personal property taxes generally.
+    </text>
+</law>

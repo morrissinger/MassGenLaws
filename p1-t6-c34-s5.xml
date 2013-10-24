@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34" order_by="34" level="3">Counties And County Commissioners</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Salaries</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The salaries of county commissioners, payable by their respective counties in full for all services performed by said commissioners except as otherwise provided, shall be as follows:— 
+   Middlesex..... $9,505.16 Essex..... 8,799.73 Norfolk..... 8,799.73 Worcester..... 8,799.73 Bristol..... 7,388.87 Hampden..... 7,388.87 Barnstable..... 6,683.44 Berkshire..... 6,683.44 Plymouth..... 6,683.44 Franklin..... 5,272.58 Hampshire..... 5,272.58 Dukes..... 2,963.90
+    </text>
+</law>

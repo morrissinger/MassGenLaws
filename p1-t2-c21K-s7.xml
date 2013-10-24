@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21K" order_by="21K" level="3">Mitigation Of Hazardous Materials</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Administrative Review; Civil Actions; Actions To Recover Costs;  Limitation Of Actions</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Any owner, operator or other responsible party reasonably believed to be liable who is aggrieved by any action of the department may petition the department for administrative review of its actions within ten days of receipt of notice as provided in section 5. The department’s review and the procedures for reviewing responses made by the department shall not be adjudicatory proceedings and shall not be subject to the provisions of chapter 30A or any other law governing adjudicatory proceedings. Any owner, operator or other responsible party aggrieved by the decision of the department may bring a civil action in the nature of certiorari pursuant to section 4 of chapter 249; provided, however, that such action shall be commenced within 30 days of the date of determination on review made by the department.
+        </section>
+        <section prefix="b">
+    	     Upon request of the department, the attorney general may bring an action to recover all costs incurred by the commonwealth for an emergency mitigation response as the result of a hazardous material release.
+        </section>
+        <section prefix="c">
+    	     Actions brought by the attorney general pursuant to this chapter to recover emergency mitigation response costs and actions brought by the attorney general to enforce or foreclose liens recorded or filed pursuant to this chapter shall be commenced within five years from the date the commonwealth incurs all such costs or five years from the date the commonwealth discovers that the person against whom the action is being brought is a person liable pursuant to this chapter for a hazardous material release for which the commonwealth has incurred emergency mitigation response costs, whichever is later.
+        </section>
+    </text>
+</law>

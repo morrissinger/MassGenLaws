@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Filing Petition; Time Limitation; Extension</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If a suit in which the validity of an assessment is drawn in question is brought within the time for filing a petition to the board for the abatement thereof or within six months after the determination of an earlier suit involving the same question, brought within the time for filing such petition, which failed for want of jurisdiction, defect of form or other like cause not decisive of the merits of the controversy, the petition may be filed within six months after the final determination of such suit.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19" order_by="19" level="3">Department Of Mental Health</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Community Mental Health Services</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The department shall establish a comprehensive program of community mental health services which shall include state hospitals, clinics, comprehensive centers and other facilities of the department, and to promote such programs the department shall divide the commonwealth into service areas for the conduct of said mental health services, and shall establish standards for the development of said community programs. 
+Each area shall be drawn so as to include and to allow for the development of mental health services and facilities, as needed, which shall be readily accessible to the people in the area, taking into consideration such factors as geographic boundaries, roads and other means of transportation, population concentration, city, town and county lines, other relevant community services, and community economic and social relationships.
+    </text>
+</law>

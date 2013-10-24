@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Necessity Of Prescription For Dispensing Controlled Substances</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     No controlled substance in Schedule II may be dispensed without the written prescription of a practitioner, except that—
+        </section>
+        <section prefix="b">
+    	     In emergency situations, as defined by rule or regulation of the commissioner acting jointly with the board of registration in pharmacy, drugs in said Schedule II may be dispensed upon oral prescription of a practitioner, reduced promptly to writing and filed by the pharmacy, pursuant to the provisions of subsection (a) of section twenty.
+        </section>
+        <section prefix="c">
+    	     A controlled substance included in Schedule III, IV, V or VI shall not be dispensed without a written or oral prescription of a practitioner.
+        </section>
+    </text>
+</law>

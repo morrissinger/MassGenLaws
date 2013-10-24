@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Settlements Of Accounts Between Towns And Department Of Public Welfare, Etc.</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Settlements of the accounts of the several towns under the three preceding sections with the commonwealth and with Boston shall be made annually on July first, and the amounts found due shall be paid within three months thereafter.
+    </text>
+</law>

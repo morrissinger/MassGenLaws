@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Contents Of Prescription Written By Practitioner</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     A practitioner who dispenses a controlled substance by issuing a written prescription shall state on the prescription the name, address and registration number of the practitioner, the date of delivery of the prescription, the name, dosage and strength per dosage unit of the controlled substance, the name and address of the patient unless it is a veterinary prescription, the directions for use and any cautionary statements required, and a statement indicating the number of times to be refilled.
+        </section>
+        <section prefix="b">
+    	     A practitioner who dispenses by delivering to an ultimate user a controlled substance which is not for immediate administration shall package the controlled substance in a container, affixing to the container a label bearing the practitioner’s name and address, the date of dispensing, the name of the patient unless it is a veterinary prescription, the name, dosage and strength per dosage unit, of the controlled substance, directions for use and any necessary cautionary statements.
+        </section>
+    </text>
+</law>

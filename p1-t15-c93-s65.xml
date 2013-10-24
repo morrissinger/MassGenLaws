@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>65</section_number>
+    <catch_line>Jurisdiction; Limitations</catch_line>
+    <order_by>65</order_by>
+    <text>
+        An action to enforce any liability created under sections fifty through sixty-four, inclusive, may be brought in any court of competent jurisdiction, within two years from the date on which the liability arises, except that where a defendant has materially and willfully misrepresented any information required to be disclosed to an individual and the information so misrepresented is material to the establishment of the defendant’s liability to that individual the action may be brought at any time within two years after discovery by the individual of the misrepresentation.
+    </text>
+</law>

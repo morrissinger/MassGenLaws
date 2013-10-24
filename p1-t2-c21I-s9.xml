@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Toxic Or Hazardous Substance List</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="A">
+    	     As of January 1, 1990, and thereafter, the chemicals identified on the Toxic Chemical List established pursuant to Each year the council shall adjust the toxic or hazardous substance list to add or delete substances consistent with changes in said toxic chemical list.
+        </section>
+        <section prefix="B">
+    	     The substances identified on the list pursuant to sections 101(14) and 102 of CERCLA shall be included in the toxic or hazardous substance list until August 1, 2008. On or before August 1, 2007, the institute and the board shall make recommendations to the council as to what substances listed pursuant to said sections 101(14) and 102 of CERCLA shall be retained on the toxic or hazardous substance list. On or before August 1, 2008, the council shall take action on the recommendations of the institute and the board to retain or delete substances listed pursuant to said sections 101(14) and 102 of CERCLA from the toxic or hazardous substance list. Thereafter, the council may add or delete substances from the toxic or hazardous substance list consistent with changes in the lists of substances established pursuant to said sections 101(14) and 102 of said CERCLA.
+        </section>
+        <section prefix="C">
+    	     Notwithstanding subparagraphs (A) and (B), the council may add or delete additional substances from the toxic or hazardous substance list. Except for those substances covered under subsection (B), no more than l0 substances may be added for any 1 calendar year, and no more than l0 substances may be deleted for any 1 calendar year. The institute and the board shall provide recommendations proposing additions or deletions. A proposed change in the toxic or hazardous substance list shall not take effect until the calendar year immediately following the year in which the council makes the change. Substances added or deleted by the council shall not be affected by subparagraphs (A) and (B). The designation of higher and lower hazard substances pursuant to subparagraph (D) shall not be affected by this subparagraph.
+        </section>
+        <section prefix="D">
+    	     The council shall designate substances as a higher hazard substance, a lower hazard substance or may leave any substance as an otherwise uncategorized toxic or hazardous substance in consultation with the institute and the board. The council shall first consider designating as a higher hazard substance those substances designated as Category 1/more hazardous by the board. The council may add or delete additional substances from the higher hazard substance or lower hazard substance designations. In any 1 calendar year, no more than 10 toxic or hazardous substances shall be designated as a higher hazard substance, nor shall more than 10 toxic or hazardous substances be designated as a lower hazard substance, except that, on the effective date of this subparagraph, those substances identified as Persistent, Bioaccumulative and Toxic chemical substances, the “PBT List”, at 64 Fed. Reg. 60194 - 60204 (1999), policy statement on category for Persistent, Bioaccumulative, and Toxic New Chemical Substances, dated November 4, 1999, shall be designated as higher hazard substances. The designation shall be solely for the purposes of this chapter and shall not otherwise diminish the authority of the council or the department. The designation as a higher hazard substance or lower hazard substance beyond those specified in this section shall not take effect until the calendar year immediately following the year in which the council makes the change.
+        </section>
+    </text>
+</law>

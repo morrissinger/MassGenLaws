@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>State Treasurer; Death; Vacancy; Care Of Property And Funds</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Upon a vacancy in the office of state treasurer, the state secretary, with two suitable persons appointed by warrant of the governor, shall, after notice to the former treasurer, or, if he is deceased, to his heirs, executors or administrators, and to his sureties or one of them, or to such of them as are within the commonwealth, seal up and secure, in their presence if they attend, all money, papers and other things supposed to be the property of the commonwealth; and they shall give such representatives or sureties, if required by them, a true list of all packages so sealed up and of the places where they are deposited.
+    </text>
+</law>

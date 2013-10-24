@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>103</section_number>
+    <catch_line>Board Of Registration Of Genetic Counselors; Members; Removal And Resignation</catch_line>
+    <order_by>103</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a board of registration of genetic counselors, called the board in sections 103 to 105, inclusive, which shall consist of 5 members to be appointed by the governor, 4 of whom shall be genetic counselors licensed under this section, and 1 member of the general public. Members of the board shall be residents of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     Each member of the board shall serve for a term of 3 years and until the governor appoints a successor. No member shall be appointed to more than 2 consecutive full terms. A member appointed for less than a full term may serve 2 full terms in addition to such part of a full term. A former member shall be eligible for appointment after a lapse of 1 year.
+        </section>
+        <section prefix="c">
+    	     A member may be removed by the governor for neglect of duty, misconduct or malfeasance or misfeasance in office after a written notice of the charges against him and an opportunity to be heard. Upon the death, resignation or removal for cause of any member of the board, the governor shall fill the vacancy for the remainder of that member’s year.
+        </section>
+    </text>
+</law>

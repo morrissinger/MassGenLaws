@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9" order_by="9" level="3">Department Of The State Secretary</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Annual List Of Designated Justices Of The Peace</catch_line>
+    <order_by>16</order_by>
+    <text>
+        He shall annually in January send to the town clerks and registrars a list of all justices of the peace designated under section thirty-nine of chapter two hundred and seven, with the dates of expiration of their commissions and notice of any revocation of a designation.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>3C</section_number>
+    <catch_line>Service Of Process; Notice Of Service; Continuance</catch_line>
+    <order_by>3C</order_by>
+    <text>
+        <section prefix="1">
+    	     If the defendant is known by the plaintiff to be the holder of a motor vehicle registration or operator’s license issued by another state or country, notice of such service upon the registrar as attorney for the defendant and a copy of the process shall forthwith be sent by registered mail, with return receipt requested, by the plaintiff to the defendant at his address of record in the office from which such registration or license was issued. The plaintiff’s affidavit of compliance herewith, and the defendant’s return receipt, if received by the plaintiff, shall be filed in the case on or before the return day of the process or within such further time as the court may allow. If the defendant has no motor vehicle registration or license known to the plaintiff, such notice and copy shall be sent in the same manner to the last address of the defendant known to the plaintiff, and affidavit of compliance herewith, and the defendant’s return receipt or other proof of actual notice, shall be filed in the case within the time above provided.
+        </section>
+        <section prefix="2">
+    	     Notice of such service upon the registrar and a copy of the process shall be served upon the defendant, if found within the commonwealth, by a sheriff or deputy sheriff of any county of this commonwealth, or, if found without the commonwealth, by any duly constituted public officer qualified to serve like process in the state or jurisdiction where the defendant is found, and the officer’s return showing such service to have been made shall be filed in the case on or before the return day of the process or within such further time as the court may allow.
+        </section>
+        <section prefix="3">
+    	     The court in which the action is pending may order such continuances as may be necessary to afford the defendant reasonable opportunity to defend the action.
+        </section>
+    </text>
+</law>

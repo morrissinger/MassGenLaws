@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Separate Statement And Charge Of Amount Of Excise</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The amount of the excise collected by the operator from the occupant under the provisions of this chapter shall be stated and charged separately from the rent and shown separately on any record thereof at the time the transfer of occupancy is made, or on any evidence of such transfer issued or used by the operator.
+    </text>
+</law>

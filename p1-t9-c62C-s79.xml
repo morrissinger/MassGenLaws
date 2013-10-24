@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>79</section_number>
+    <catch_line>Time; Filing Returns; Payments</catch_line>
+    <order_by>79</order_by>
+    <text>
+        <section prefix="a">
+    	     Any return filed before the last day prescribed for the filing thereof shall be considered as filed on such last day; payment of any portion of a tax made before the last day prescribed for the payment of the tax shall be considered made on such last day. As used in this subsection, the last day prescribed for filing the return or paying the tax shall be determined without regard to any extension of time granted the taxpayer and without regard to any election to pay the tax in installments.
+        </section>
+        <section prefix="b">
+    	     Any tax deducted and withheld at the source during any calendar year under chapter sixty-two B shall, in respect of the recipient of the income, be deemed to have been paid by him on the fifteenth day of the fourth month following the close of his taxable year with respect to which such tax is allowable as a credit under chapter sixty-two.
+        </section>
+        <section prefix="c">
+    	     Any amount paid as estimated tax for any taxable year under chapter sixty-two B or sixty-three B shall be deemed to have been paid on the last day prescribed for filing the return for such taxable year, determined without regard to any extension of time for filing such return.
+        </section>
+        <section prefix="d">
+    	     If any overpayment of tax is claimed as a credit against estimated tax for the succeeding taxable year, such amount shall be considered as a payment of tax for the succeeding taxable year, whether or not claimed as a credit in the return of estimated tax for such succeeding taxable year, and no claim for credit or refund of such overpayment shall be allowed for the taxable year in which the overpayment arises.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>8N</section_number>
+    <catch_line>Fees, Costs, Penalties And Other Monies; General Fund</catch_line>
+    <order_by>8N</order_by>
+    <text>
+        All fees, attorneys fees, costs, civil penalties and other monies received by the commonwealth pursuant to sections eight through eight M or sections eighteen through thirty-five of chapter sixty-eight shall be credited by the state treasurer to the General Fund.
+    </text>
+</law>

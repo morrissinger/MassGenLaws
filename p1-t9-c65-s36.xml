@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>36</order_by>
+    <text>
+        This chapter shall apply only to property or interests therein passing or accruing upon the death of persons dying on or after May fourth, nineteen hundred and twenty, and as to all property and interests therein passing or accruing upon the death of persons who have died prior to said date the laws theretofore applicable shall remain in force; but so much of this chapter as relates to property or interests therein passing by deed, grant or gift completed inter vivos in contemplation of death shall apply only to such deeds, grants or gifts made on or after May twenty-seventh, nineteen hundred and twenty.
+    </text>
+</law>

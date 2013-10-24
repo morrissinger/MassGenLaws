@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Description In Case Of Change Of Local Name</catch_line>
+    <order_by>41</order_by>
+    <text>
+        If land to be sold is situated in a town the name of which has been changed by law within three years preceding the sale, the collector shall designate such town in his notices of the sale by both its former and existing name.
+    </text>
+</law>

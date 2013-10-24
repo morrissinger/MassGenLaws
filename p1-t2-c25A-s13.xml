@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25A" order_by="25A" level="3">Division Of Energy Resources</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Department Of Energy Resources Credit Trust Fund</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary, the department may apply for, receive, retain, redeem, sell or transfer any energy conservation credits, renewable energy certificates or credits, emissions credits, or energy reduction allowances earned or received by the commonwealth including but not limited to allowances awarded through the public benefit set-aside provisions of the NOx Allowance Trading Program implemented by the department of environmental protection.
+        </section>
+        <section prefix="b">
+    	     There shall be established upon the books of the commonwealth a separate fund to be known as the Department of Energy Resources Credit Trust Fund. There shall be credited to said fund all amounts received through the redemption or sale of such certificates, credits and allowances specified in this section and any income derived from the investment of amounts credited to the fund. All amounts credited to the fund shall be held in trust and shall be available for expenditure, without further appropriation, by the department for activities of the department related to the development, oversight and implementation of programs for energy reliability, renewable energy, public procurement of energy and energy efficiency, and climate change. Any unexpended balance in the fund at the close of a fiscal year shall remain in the fund and shall be available for expenditure in the following fiscal year; provided however, that the fund shall not be in deficit at the end of any state fiscal year.
+        </section>
+    </text>
+</law>

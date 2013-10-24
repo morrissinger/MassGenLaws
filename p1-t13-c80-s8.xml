@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Death Of Person Entitled To Petition For Abatement</catch_line>
+    <order_by>8</order_by>
+    <text>
+        If a person who is entitled to petition for an abatement under this chapter dies within the time limited for such petition without having filed the same, his executor, administrator, heir or devisee, if interested, may, within one year after his interest vests, file such petition in the same manner and with the same effect as if filed by the deceased in his lifetime.
+    </text>
+</law>

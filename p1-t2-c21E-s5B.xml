@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Judicial Review Of Response Actions</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        <section prefix="1">
+    	     an action under section four for contribution, reimbursement or for equitable sharing of the costs of response action or for other liability pursuant to this chapter; provided, that the court shall not make any ruling or decision that affects the rights or interests of the commonwealth unless the commonwealth is a party to the action; or
+        </section>
+        <section prefix="2">
+    	     an action under section five to recover costs or damages; or
+        </section>
+        <section prefix="3">
+    	     an action under subsection (c) of section ten for reimbursement of the reasonable costs of compliance with the order; or
+        </section>
+        <section prefix="4">
+    	     an action under section eleven for civil or criminal penalties; or
+        </section>
+        <section prefix="5">
+    	     an action brought by the commissioner or the attorney general pursuant to section eleven for injunctive relief; or
+        </section>
+        <section prefix="6">
+    	     judicial review, pursuant to the provisions of chapter thirty A governing adjudicatory proceedings, of a civil administrative penalty assessed pursuant to section sixteen of chapter twenty-one A.
+        </section>
+    </text>
+</law>

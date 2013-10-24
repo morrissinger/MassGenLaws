@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="37" order_by="37" level="3">Sheriffs</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Deputies; Appointment; Oath</catch_line>
+    <order_by>3</order_by>
+    <text>
+        A sheriff may appoint deputies, who shall be sworn before performing any official act.
+    </text>
+</law>

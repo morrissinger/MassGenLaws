@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Attendance Outside Place Of Residence</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Any child, with the consent of the school committee of the town where he resides, may attend, at the expense of said town, the public schools of another town, upon such terms as may be fixed by the two committees.
+    </text>
+</law>

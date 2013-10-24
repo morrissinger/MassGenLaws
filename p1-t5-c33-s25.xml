@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Officers; Performance Of Duties; Prerequisites</catch_line>
+    <order_by>25</order_by>
+    <text>
+        No person commissioned as an officer or appointed as a warrant officer in the national guard, army or air, shall enter upon the performance of his official duties or exercise any command unless he shall possess such minimum qualifications, and shall have passed such other tests as to his physical, moral and professional fitness, as are prescribed by the laws of the United States, and shall have taken and subscribed to the oath of office. The commander-in-chief shall forthwith discharge, or place upon the retired list under section thirty-one, unless further time is allowed for cause, any officer failing to pass the tests required by this chapter or the laws of the United States and the regulations issued thereunder.
+    </text>
+</law>

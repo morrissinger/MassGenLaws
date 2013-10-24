@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40D" order_by="40D" level="3">Industrial Development Of Cities And Towns</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Exemption From Taxation; Leased Property</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     the payment of the tax shall not be enforced by any lien upon or sale of such land or buildings, but for the purpose of enforcing the payment of such taxes by such lessees to the city or town in which such land or buildings are situated, a sale of the leasehold interest therein may be made by the collector of the city or town in the manner provided by law for selling real estate for the nonpayment of real estate taxes;
+        </section>
+        <section prefix="b">
+    	     real estate acquired by a municipality and leased for any activity or transaction described above to a corporation or group of corporations operating under chapter one hundred and twenty-one A shall be taxed as provided therein and not otherwise.
+        </section>
+    </text>
+</law>

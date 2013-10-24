@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Unit Called Into Service; Duties Of Commander</catch_line>
+    <order_by>44</order_by>
+    <text>
+        The officer to whom the order of the commander-in-chief, or a precept under section forty-two, is directed shall forthwith order the troops therein called for to appear at the time and place appointed, and shall immediately notify the commander-in-chief of his order, in the most expeditious manner, and also by letter through the usual military channels.
+    </text>
+</law>

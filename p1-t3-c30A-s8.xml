@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Advisory Rulings By Agencies</catch_line>
+    <order_by>8</order_by>
+    <text>
+        On request of any interested person, an agency may make an advisory ruling with respect to the applicability to any person, property or state of facts of any statute or regulation enforced or administered by that agency. In issuing the advisory ruling, the agency need not comply with the requirements of this chapter with respect to regulations.
+    </text>
+</law>

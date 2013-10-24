@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Submission Of Quotations</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as permitted pursuant to this section and section seven, for the procurement of a supply or service in the amount of $5,000 or greater, but less than $25,000, a procurement officer shall seek written or oral quotations from no fewer than three persons customarily providing such supply or service. The procurement officer shall record the names and addresses of all persons from whom quotations were sought, the names of the persons submitting quotations and the date and amount of each quotation. A governmental body may require that procurements in amounts of less than $25,000 be based on written quotations or be subject to the provisions of section five.
+        </section>
+        <section prefix="b">
+    	     The procurement officer shall award the contract to the responsible person offering the needed quality of supply or service at the lowest quotation.
+        </section>
+        <section prefix="c">
+    	     A procurement in the amount of less than $5,000 shall be obtained through the exercise of sound business practices.
+        </section>
+        <section prefix="d">
+    	     A procurement officer, who follows sound business practices, may award contracts which include individual purchases of less than $25,000 to Massachusetts farm operations for the procurement of products of agriculture as defined in section 1A of chapter 128 including, but not limited to, fruits, vegetables, eggs, dairy products, meats, crops, horticultural products and products processed into value added products, that are grown or produced using products grown in the commonwealth as well as fish, seafood and other aquatic products, without seeking quotations as required under subsection (a).
+        </section>
+    </text>
+</law>

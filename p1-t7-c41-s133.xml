@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>133</section_number>
+    <catch_line>Appointment And Reappointment Of Police Officers</catch_line>
+    <order_by>133</order_by>
+    <text>
+        <section prefix="a">
+    	     The initial appointment shall be for a period of one year during which a person shall actually perform the duties of such position on a full-time basis. The initial appointment shall be a probationary period during which police officers shall be deemed employees at will whose removal or dismissal shall be without recourse at any time during such initial appointment.
+        </section>
+        <section prefix="b">
+    	     Appointment subsequent to the initial appointment shall be made annually or for a term of years not exceeding three years, as the appointing authority shall determine, and such appointing authority may remove any such officer for cause, and after a hearing, at any time during such appointment. For police officers covered by collective bargaining agreements which contain standards for the discharge, termination or removal of employees, the nonreappointment of a police officer serving under an appointment subsequent to an initial appointment shall be considered to be a discharge, termination or removal and the standards shall be enforceable with respect to such nonreappointment by the procedures set forth in the collective bargaining agreement.
+        </section>
+    </text>
+</law>

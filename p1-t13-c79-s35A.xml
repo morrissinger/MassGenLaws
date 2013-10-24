@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="79" order_by="79" level="3">Eminent Domain</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Apportionment Of Taxes</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        In case of a trial by jury in a proceeding brought under section fourteen, the amount, if any, to which the petitioner is entitled by reason of the tax assessed upon the property in the year in which it was taken, as provided in section twelve, shall be separately determined by the court, either upon stipulation of the parties or upon evidence received, after the jury has rendered its verdict.
+    </text>
+</law>

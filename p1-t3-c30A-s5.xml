@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Regulations; Filing; Small Business Impact Statement</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     establishing less stringent compliance or reporting requirements for small businesses;
+        </section>
+        <section prefix="2">
+    	     establishing less stringent schedules or deadlines for compliance or reporting requirements for small businesses;
+        </section>
+        <section prefix="3">
+    	     consolidating or simplifying compliance or reporting requirements for small businesses;
+        </section>
+        <section prefix="4">
+    	     establishing performance standards for small businesses to replace design or operational standards required in the proposed regulation;
+        </section>
+        <section prefix="5">
+    	     an analysis of whether the proposed regulation is likely to deter or encourage the formation of new businesses in the commonwealth; and
+        </section>
+        <section prefix="6">
+    	     minimizing adverse impact on small businesses by using alternative regulatory methods.
+        </section>
+    </text>
+</law>

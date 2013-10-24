@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Division Of Public Charities; Duties</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        There shall be in the department of the attorney general a division of public charities which shall, under the direction and control of the attorney general, perform the duties imposed upon him by the provisions of section eight to eight M, inclusive.
+    </text>
+</law>

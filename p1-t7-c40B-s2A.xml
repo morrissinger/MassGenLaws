@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40B" order_by="40B" level="3">Regional Planning</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Regional Or District Groupings; Consent To Placement</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        No state agency shall place a city or town individually or severally, within a regional or district grouping without the consent of the governing body of such city or town. The governing body in a town shall be the town meeting and in a city, the city council.
+    </text>
+</law>

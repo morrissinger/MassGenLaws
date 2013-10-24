@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>36B</section_number>
+    <catch_line>Analysis Of Drugs, Medicine, Chemicals, Etc.; Law Enforcement;  Report</catch_line>
+    <order_by>36B</order_by>
+    <text>
+        The University of Massachusetts medical school shall make an analysis of any narcotic drugs, or any synthetic substitute for the same, or any preparation containing the same or any salt compound thereof, and of any poison, drug, medicine or chemical, when submitted to it by police authorities or by such incorporated charitable organizations in the commonwealth as the university shall approve; provided, however, that no such analysis shall be made if the medical school finds that such analysis is not to be used in connection with the enforcement of law; and provided further, however, that the reports of such analysis shall be forwarded to the district attorney of the appropriate district or his designee, and to other appropriate persons in accordance with the requirements of law. All operational and capital costs of this analysis shall be paid by the commonwealth, subject to appropriation.
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     “Adjudicatory proceeding” means a proceeding before an agency in which the legal rights, duties or privileges of specifically named persons are required by constitutional right or by any provision of the General Laws to be determined after opportunity for an agency hearing. Without enlarging the scope of this definition, adjudicatory proceeding does not include (a) proceedings solely to determine whether the agency shall institute or recommend institution of proceedings in a court; or (b) proceedings for the arbitration of labor disputes voluntarily submitted by the parties to such disputes; or (c) proceedings for the disposition of grievances of employees of the commonwealth; or (d) proceedings to classify or reclassify, or to allocate or reallocate, appointive offices and positions in the government of the commonwealth; or (e) proceedings to determine the equalized valuations of the several cities and towns; or (f) proceedings for the determination of wages under section twenty-six T of chapter one hundred and twenty-one.
+        </section>
+        <section prefix="2">
+    	     “Agency”, any department, board, commission, division or authority of the state government or subdivision of any of the foregoing, or official of the state government, authorized by law to make regulations or to conduct adjudicatory proceedings, but does not include the following: the legislative and judicial departments; the governor and council; military or naval boards, commissions or officials; the department of correction; the department of youth services; the parole board; the division of dispute resolution of the division of industrial accidents; the personnel administrator; the civil service commission; and the appellate tax board.
+        </section>
+        <section prefix="3">
+    	     “Party” to an adjudicatory proceeding means:— (a) the specifically named persons whose legal rights, duties or privileges are being determined in the proceeding; and (b) any other person who as a matter of constitutional right or by any provision of the General Laws is entitled to participate fully in the proceeding, and who upon notice as required in paragraph (1) of section eleven makes an appearance; and (c) any other person allowed by the agency to intervene as a party. Agencies may by regulation not inconsistent with this section further define the classes of persons who may become parties.
+        </section>
+        <section prefix="4">
+    	     “Person” includes all political subdivisions of the commonwealth.
+        </section>
+        <section prefix="4A">
+    	     “Proposed regulation”, a proposal by an agency to adopt, amend or repeal an existing regulation.
+        </section>
+        <section prefix="5">
+    	     “Regulation” includes the whole or any part of every rule, regulation, standard or other requirement of general application and future effect, including the amendment or repeal thereof, adopted by an agency to implement or interpret the law enforced or administered by it, but does not include (a) advisory rulings issued under section eight; or (b) regulations concerning only the internal management or discipline of the adopting agency or any other agency, and not substantially affecting the rights of or the procedures available to the public or that portion of the public affected by the agency’s activities; or (d) regulations relating to the use of the public works, including streets and highways, when the substance of such regulations is indicated to the public by means of signs or signals; or (e) decisions issued in adjudicatory proceedings.
+        </section>
+        <section prefix="5A">
+    	     “Small business”, a business entity or agriculture operation, including its affiliates, that: (i) is independently owned and operated; (ii) has a principal place of business in the commonwealth; and (iii) would be defined as a “small business” under applicable federal law, as established in the United States Code and promulgated from time to time by the United States Small Business Administration.
+        </section>
+        <section prefix="6">
+    	     “Substantial evidence” means such evidence as a reasonable mind might accept as adequate to support a conclusion.
+        </section>
+    </text>
+</law>

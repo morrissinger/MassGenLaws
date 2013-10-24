@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>62A</section_number>
+    <catch_line>Consumer Requested Security Freeze On Consumer Report</catch_line>
+    <order_by>62A</order_by>
+    <text>
+        <section prefix="a">
+    	     a person or agent thereof, or an assignee of a financial obligation owing by the consumer to such person or agent thereof, or a prospective assignee of a financial obligation owing by the consumer to that person or agent thereof in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had, prior to assignment, an account or contract, including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owing for the account, contract or negotiable instrument. For purposes of this paragraph, “reviewing the account” shall include activities related to account maintenance, monitoring, credit line increases and account upgrades and enhancements; or access to said account by a subsidiary, affiliate, agent, assignee or prospective assignee of a person, or agent thereof, to whom access has been granted for purposes of facilitating the extension of credit or other permissible use;
+        </section>
+        <section prefix="b">
+    	     any federal, state or local agency, law enforcement agency, or trial court acting pursuant to a court order, warrant or subpoena;
+        </section>
+        <section prefix="c">
+    	     the Massachusetts child support agency under Title IV-D of the Social Security Act, 42 U.S.C. et seq;
+        </section>
+        <section prefix="d">
+    	     the executive office of health and human services or its agents or assigns acting to investigate Medicaid fraud;
+        </section>
+        <section prefix="e">
+    	     the department of revenue or its agents or assigns acting to investigate or collect delinquent taxes or unpaid court orders or to fulfill any of its other statutory responsibilities;
+        </section>
+        <section prefix="f">
+    	     a person using credit information for the purposes of prescreening as provided for by the federal Fair Credit Reporting Act;
+        </section>
+        <section prefix="g">
+    	     any person administering a credit file monitoring subscription service to which the consumer has subscribed;
+        </section>
+        <section prefix="h">
+    	     any person acting solely for the purpose of providing a consumer with a copy of his consumer report upon the consumer’s request; or
+        </section>
+        <section prefix="i">
+    	     to the extent otherwise allowed by statute, any property and casualty insurer licensed by the commonwealth for use in rating or underwriting insurance policies.
+        </section>
+        <section prefix="a">
+    	     a check services or fraud prevention services company, which issues reports on incidents of fraud or authorizations for the purpose of approving or processing negotiable instruments, electronic funds transfers or similar methods of payments;
+        </section>
+        <section prefix="b">
+    	     a deposit account information service company, which issues reports regarding account closures due to fraud, substantial overdrafts, ATM abuse, or similar negative information regarding a consumer, to inquiring banks or other financial institutions for use only in reviewing a consumer request for a demand deposit account at the inquiring bank; or
+        </section>
+        <section prefix="c">
+    	     a consumer reporting agency that acts only as a reseller of credit information by assembling and merging information contained in the database of another consumer reporting agency or multiple consumer reporting agencies, and does not maintain a permanent database of credit information from which new consumer reports are produced, except that such financial institution or consumer reporting agency shall be subject to any security freeze placed on a consumer report by another consumer reporting agency from which it obtains information.
+        </section>
+    </text>
+</law>

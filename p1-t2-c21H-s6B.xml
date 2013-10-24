@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Notification Of Mercury Added Products Offered For Final Sale, Use Or Distribution In Commonwealth</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        <section prefix="a">
+    	     No mercury-added product shall be offered for final sale or use or distributed in the commonwealth without notification in writing by the manufacturer of the product to the department through IMERC within 30 days of the product’s release in accordance with this section.
+        </section>
+        <section prefix="b">
+    	     Notification that complies with the notification forms of IMERC shall satisfy the requirements of this section. The department may require that it be notified directly in addition to reporting through IMERC. The manufacturer or trade group shall update and revise the notification information whenever there are significant changes in the product category.
+        </section>
+        <section prefix="c">
+    	     Any mercury-added product for which federal law governs notice in a manner that preempts state authority shall be exempt from this section.
+        </section>
+        <section prefix="d">
+    	     Public disclosure of confidential business information submitted to the department pursuant to this section shall be governed by the requirements of section 10 of chapter 66. The department and IMERC may compile or publish analyses or summaries of such information provided that the analyses or summaries do not identify any manufacturer’s confidential information.
+        </section>
+        <section prefix="e">
+    	     The department shall protect trade secrets.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Courses Of Instruction</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The Bristol county agricultural school and the Norfolk county agricultural school shall provide instruction in agriculture and, at a time approved by the commissioner, in household arts or homemaking.
+    </text>
+</law>

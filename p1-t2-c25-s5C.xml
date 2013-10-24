@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25" order_by="25" level="3">Department Of Public Utilities</unit>
+    </structure>
+    <section_number>5C</section_number>
+    <catch_line>Hazardous Materials; Rail Transportation Regulations</catch_line>
+    <order_by>5C</order_by>
+    <text>
+        The department shall promulgate, in accordance with chapter thirty A, rules and regulations for the transportation by rail of hazardous materials in the commonwealth. Said regulations shall be consistent with any federal regulations in effect.
+    </text>
+</law>

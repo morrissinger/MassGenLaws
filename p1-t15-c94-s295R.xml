@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>295R</section_number>
+    <catch_line>Application Of Secs. 295 P To 295 W To Retail Sales</catch_line>
+    <order_by>295R</order_by>
+    <text>
+        <section prefix="a">
+    	     Where motor fuel is advertised or offered for sale or sold upon the final liquidation of the business of said retail dealer.
+        </section>
+        <section prefix="b">
+    	     Where motor fuel is sold in good faith to meet the price of a competitor.
+        </section>
+        <section prefix="c">
+    	     Where motor fuel is advertised or offered for sale or sold by any fiduciary or other officer acting under the order or direction of any court.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Adjournment</catch_line>
+    <order_by>44</order_by>
+    <text>
+        The collector may adjourn the sale from time to time not exceeding seven days in all, and shall give notice of every adjournment by a public declaration thereof at the time and place appointed for the sale.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>35B</section_number>
+    <catch_line>Good Faith Defense For Underpayment Penalty; List Of Abusive Transactions Or Tax Strategies</catch_line>
+    <order_by>35B</order_by>
+    <text>
+        <section prefix="a">
+    	     A penalty shall not be imposed under section 35A with respect to any portion of an underpayment if it is shown that there was reasonable cause for such portion and that the taxpayer acted in good faith with respect to such portion. With respect to listed abusive transactions or strategies within the meaning of subsection (b), the commissioner may, by regulation, set forth circumstances under which the penalties otherwise may be waived in the interest of the efficient administration of the tax laws of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The commissioner may, from time to time, list by regulation items that he considers to be abusive transactions or tax strategies for purposes of section 35A and of this section.
+        </section>
+    </text>
+</law>

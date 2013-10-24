@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Hearing Prerequisite To Exclusion</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A school committee shall not permanently exclude a pupil from the public schools for alleged misconduct without first giving him and his parent or guardian an opportunity to be heard.
+    </text>
+</law>

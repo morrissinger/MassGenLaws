@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Publication Of Required Notices</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        Notices filed in accordance with sections two and three shall be published by the state secretary as required by section six no later than one week prior to the date of any hearing or action to which such notices relate.
+    </text>
+</law>

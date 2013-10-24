@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Optional Tax Table</catch_line>
+    <order_by>64</order_by>
+    <text>
+        In lieu of computing the taxes imposed by this chapter, a taxpayer may, at his option except as hereinafter provided, determine his tax liability for each class of income in accordance with a tax table prepared by the commissioner and approved by the commissioner. The tax for each bracket of such table shall be computed upon the median of the taxable income for such bracket and shall be computed to the nearest whole dollar. The size of the brackets of taxable income shall be determined by the commissioner and approved by the commissioner. After arriving at the total tax from the applicable tables, the taxpayer shall deduct therefrom the total rounded to the nearest whole dollar of his withheld taxes and payments of his estimated taxes and the credits to which he is entitled. The commissioner may require taxpayers having taxable income within such limits as he may prescribe to use the tax tables for the computation of their tax liabilities under this chapter.
+    </text>
+</law>

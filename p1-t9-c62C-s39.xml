@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Appeal From Refusal For Abatement</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     appeals from the decision of the commissioner as to the value of an asset of the estate for purposes of chapter 65C shall be made by filing a petition with the clerk of the appellate tax board;
+        </section>
+        <section prefix="b">
+    	     appeals from the decision of the commissioner as to all other matters arising under chapter 65C shall be made by filing a petition with either the clerk of the appellate tax board or the probate court having jurisdiction of the estate of the decedent;
+        </section>
+        <section prefix="c">
+    	     appeals from the commissioner’s refusal to abate any other tax or to refund any tax, in whole or in part, whether such refusal results from the denial of an abatement application made under section 36 or section 37, shall be made by filing a petition with the clerk of the appellate tax board. If, on hearing, the board or the court, whichever the case may be, finds that the person making the appeal was entitled to an abatement or a refund, it shall make such abatement or refund as it sees fit. If a tax so abated has been paid, the state treasurer, upon presentation to him of the notice of the decision of the board, or the court, shall repay to the petitioner the amount of the abatement and interest computed in accordance with section 40.
+        </section>
+    </text>
+</law>

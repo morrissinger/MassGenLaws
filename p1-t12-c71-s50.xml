@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Change Of School Books</catch_line>
+    <order_by>50</order_by>
+    <text>
+        A change may be made in the school books used in the public schools by a vote of two thirds of the whole school committee at a meeting thereof, notice of such intended change having been given at a previous meeting.
+    </text>
+</law>

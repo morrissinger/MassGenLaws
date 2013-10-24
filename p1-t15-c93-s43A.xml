@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>43A</section_number>
+    <catch_line>Fees, Penalties Or Other Charges For Sending Original Bill Or Invoice By Postal Mail</catch_line>
+    <order_by>43A</order_by>
+    <text>
+        A person engaged in trade or commerce shall not assess a fee, penalty or other charge for the sending of an original bill or invoice by postal mail to a natural person in this commonwealth; but this section shall not apply to a reasonable discount offered to a natural person for voluntary agreement to pay or otherwise satisfy a bill or invoice after its receipt by means other than postal mail, or for voluntary options such as customized bills or invoices.
+    </text>
+</law>

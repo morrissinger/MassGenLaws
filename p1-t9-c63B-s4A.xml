@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Amount And Time Of Installment Payments</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        If the first required installment of estimated tax is paid after the fifteenth day of the third month of the taxable year and is required by section four to be paid on or before the fifteenth day of the sixth month of the taxable year, sixty-five percent of the estimated tax shall be paid; the second required installment shall be paid on or before the fifteenth day of the ninth month of the taxable year and shall be equal to twenty-five percent of the estimated tax; and the last installment shall be paid on or before the fifteenth day of the twelfth month of the taxable year and shall be equal to the remaining ten percent of the estimated tax. 
+If the first required installment of estimated tax is paid after the fifteenth day of the sixth month of the taxable year and is required by section four to be paid on or before the fifteenth day of the ninth month of the taxable year, ninety percent of the estimated tax shall be paid; and the last installment shall be paid on or before the fifteenth day of the twelfth month of the taxable year and shall be equal to the remaining ten percent of the estimated tax. 
+If the first required installment of estimated tax is paid after the fifteenth day of the ninth month of the taxable year and is required by section four to be paid on or before the fifteenth day of the twelfth month of the taxable year, the estimated tax shall be paid in full on or before the fifteenth day of the twelfth month of the taxable year.
+    </text>
+</law>

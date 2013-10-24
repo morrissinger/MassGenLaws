@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22D" order_by="22D" level="3">Department Of Fire Services</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Establishment Of Department</catch_line>
+    <order_by>1</order_by>
+    <text>
+        There shall be within the executive office of public safety a department of fire services under the supervision and control of a state fire marshal.
+    </text>
+</law>

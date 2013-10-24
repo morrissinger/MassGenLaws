@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Bonds; Determining Amount</catch_line>
+    <order_by>15</order_by>
+    <text>
+        When state officials or employees are required to give bond in which the amount is not fixed by law, the comptroller shall fix the amount and shall require that such bonds be made uniform so far as possible.
+    </text>
+</law>

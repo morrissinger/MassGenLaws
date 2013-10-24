@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Suspension Or Revocation Of Registration; Hearing</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     nonownership by the applicant;
+        </section>
+        <section prefix="2">
+    	     the failure of said vehicle to meet equipment standards after the owner has received notice to comply with the standards;
+        </section>
+        <section prefix="3">
+    	     operation of such vehicle improperly or in such a manner as to cause damage to any property or death or injury to any person, or that the registrant has allowed or permitted such vehicle to be so operated.
+        </section>
+    </text>
+</law>

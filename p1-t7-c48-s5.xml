@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="48" order_by="48" level="3">Fires, Fire Departments And Fire Districts</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Indemnification For Demolition</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If such demolition of a building is the means of stopping the fire or if the fire stops before it comes to it, the owner shall be entitled to recover reasonable compensation from the town unless it was the building in which the fire started. Such compensation shall be determined and recovered under chapter seventy-nine, as if the building demolished were taken by eminent domain.
+    </text>
+</law>

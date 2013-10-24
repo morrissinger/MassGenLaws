@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>5H</section_number>
+    <catch_line>Money Recovered By Commonwealth; False Claims Prosecution Fund</catch_line>
+    <order_by>5H</order_by>
+    <text>
+        <section prefix="1">
+    	     All money recovered by the commonwealth, as a result of actions brought by the attorney general or a person pursuant to sections 5B to 5O, inclusive, other than costs and attorney’s fees awarded pursuant to paragraph (2), shall be credited by the state treasurer to the False Claims Prosecution Fund, established by section 2YY of chapter 29.
+        </section>
+        <section prefix="2">
+    	     Costs and attorney’s fees awarded to a relator by final judicial order in an action under this section shall be paid directly by the defendant to the relator.
+        </section>
+    </text>
+</law>

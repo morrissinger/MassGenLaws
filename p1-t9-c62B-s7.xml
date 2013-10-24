@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Failure To Withhold Or Pay Over Taxes; Effect; Penalty</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever any employer fails to deduct and withhold taxes, file returns relating thereto, or pay over such taxes to the commissioner at the time and in the manner prescribed by this chapter or by chapter sixty-two C or by any regulation issued thereunder, and is notified, by notice delivered in hand to such employer, of any such failure, then all the requirements of paragraph (b) shall be complied with. In the case of a corporation, partnership or trust, notice delivered in hand to an officer, partner or trustee, shall, for the purposes of this section be deemed to be notice delivered in hand to such corporation, partnership or trust and to all officers, partners, trustees and employees thereof.
+        </section>
+        <section prefix="b">
+    	     Any employer who is required by this chapter or by chapter sixty-two C to deduct and withhold taxes, file returns relating thereto and pay over such taxes to the commissioner, if notice has been delivered to such employer in accordance with paragraph (a), shall withhold the taxes required by section two to be withheld after the delivery of such notice, and, not later than the end of the second banking day after any amount of such taxes is withheld, deposit the same in a separate account in a national bank doing business in the commonwealth or in a trust company chartered by the commonwealth, and shall keep the amount of such taxes so withheld in such account until payment over to the commissioner. Any such account shall be designated as a special fund in trust for the commonwealth, payable to the commonwealth by such employer as trustee.
+        </section>
+        <section prefix="c">
+    	     Whenever the commissioner is satisfied, with respect to any notification made under paragraph (a), that all the requirements of this chapter and of section ten of chapter sixty-two C and the regulations thereunder will thereafter be complied with, he may cancel such notification. Such cancellation shall take effect at such time as is specified in the notice of such cancellation.
+        </section>
+        <section prefix="d">
+    	     Any employer who fails to comply with any provisions of paragraph (b) shall, in addition to any other penalties provided by law, be punished by a fine of not less than one hundred nor more than five thousand dollars, or by imprisonment for not more than one year, or both.
+        </section>
+        <section prefix="e">
+    	     This section shall not apply to any employer who shows that there was reasonable doubt as to whether the law required the withholding of tax, or as to who was required by law to withhold the tax, and shall not apply to any employer who shows that his failure to comply with the provisions of paragraph (b) was due to circumstances beyond his control. For the purposes of the preceding sentence, a lack of funds existing immediately after the payment of wages, whether or not created by the payment of such wages, shall not be considered to be circumstances beyond the control of an employer.
+        </section>
+    </text>
+</law>

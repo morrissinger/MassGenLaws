@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Waiver Of Sovereign Immunity Not Limited</catch_line>
+    <order_by>72</order_by>
+    <text>
+        Nothing in sections 62 to 73, inclusive, shall limit any waiver of the sovereign immunity of the commonwealth or any officer or employee of the commonwealth with respect to the participation in or approval of all or any part of the transportation facility or its operation.
+    </text>
+</law>

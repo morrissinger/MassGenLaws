@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55B" order_by="55B" level="3">The State Ballot Law Commission</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Hearings On Objections</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Hearings on objections to certificates of nomination or nomination papers, except for special primaries and elections, shall not be held prior to the second Monday following the Friday for filing such objections. 
+Hearings on objections to signatures on initiative or referendum petitions shall not be held prior to the second Monday following the last day for filing such objections. 
+Hearings on objections to supplemental signature filings for initiative petitions shall not be held prior to the first Wednesday following the last day for filing such objections. 
+Hearings on objections to nominations at regular state primaries shall not be held prior to the Monday following the last day for filing such objections.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Withholding Exemption Certificates; Duty Of Employee To Furnish;  Forms</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Every employee on or before the date of commencement of employment shall furnish his employer with a signed withholding exemption certificate setting forth the number of dependency exemptions which he claims, which shall in no event exceed the number to which he is entitled under chapter sixty-two plus one for his own personal exemption under said chapter. The term “dependency exemptions”, as used in this chapter, shall include an exemption for a spouse meeting the requirements of chapter sixty-two. If any employee fails to furnish such signed certificate, the number of his exemptions shall be considered zero.
+        </section>
+        <section prefix="b">
+    	     Withholding exemption certificates shall take effect as of the beginning of the first pay-roll period ending, or as of the time of the first payment of wages made without regard to pay-roll period, on or after the date on which such certificate is so furnished; provided, that certificates furnished before February fourteenth, nineteen hundred and fifty-nine, shall be considered as furnished on that date. Each such certificate shall continue in effect with respect to the employer to whom it was submitted until another such certificate shall take effect under this paragraph. If a withholding exemption certificate is furnished to take the place of an existing certificate, the employer may, at his option, continue the old certificate in force with respect to all wages paid on or before the first status determination date which occurs at least thirty days after the date on which such new certificate is furnished. For the purpose of this paragraph, the term “status determination date” means January first and July first of each year.
+        </section>
+        <section prefix="c">
+    	     If, on any day during the calendar year, the number of dependency exemptions to which the employee is entitled is less than the number of dependency exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall, within ten days thereafter, furnish the employer with a new withholding exemption certificate relating the number of dependency exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of dependency exemptions to which the employee is entitled to is greater than the number of dependency exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of dependency exemptions which the employee then claims which shall in no event exceed the number to which he is entitled on such day.
+        </section>
+        <section prefix="d">
+    	     If, on any day during the calendar year, the number of dependency exemptions to which the employee may reasonably by expected to be entitled at the beginning of the next calendar year is different from the number of dependency exemptions to which the employee is entitled on such day, the employee shall in such cases and at such times as the commissioner may by regulation prescribe, furnish the employer with a withholding exemption certificate relating to the number of dependency exemptions which he claims with respect to such next calendar year, which shall in no event exceed the number to which he may reasonably be expected to be so entitled. Withholding exemption certificates issued pursuant to this paragraph shall not take effect with respect to any payment of wages made in the calendar year in which the certificate is furnished.
+        </section>
+        <section prefix="e">
+    	     Withholding exemption certificates shall be in such form and contain such information as the commissioner shall prescribe.
+        </section>
+        <section prefix="f">
+    	     If the commissioner finds that an employee has no reasonable basis for the number of dependency exemptions claimed in the exemption certificate filed with his employer, the commissioner shall determine the proper number of dependency exemptions to which such employee is entitled, and shall so notify the employer. Upon such notification, the employer shall use the number of dependency exemptions determined by the commissioner with respect to any payment of wages thereafter made to such employee.
+        </section>
+    </text>
+</law>

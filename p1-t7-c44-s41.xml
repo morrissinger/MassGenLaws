@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Expenses Of Auditing; Payment</catch_line>
+    <order_by>41</order_by>
+    <text>
+        The expenses incurred under sections thirty-five to forty, inclusive, shall be paid primarily by the commonwealth; and the state treasurer shall issue his warrant requiring the assessors of the cities and towns concerned and of the towns in which such district is located to assess a tax to the amount of said expense, and such amounts shall be collected and paid to the state treasurer as provided by section twenty of chapter fifty-nine. Any balance due shall be assessed, collected and paid in the succeeding years in like manner.
+    </text>
+</law>

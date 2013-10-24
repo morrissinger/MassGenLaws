@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Performance Standards</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="A">
+    	     The department may request authority from the council to establish, by regulation, a performance standard for a priority user segment on a segment-wide basis. Such authority shall only be granted if:
+        </section>
+        <section prefix="1">
+    	     A majority of toxics users in the user segment fall significantly below regional, national or international achievements of byproduct generated per unit of product based on reasonably proven, public domain technologies and/or industry practices; or
+        </section>
+        <section prefix="2">
+    	     A number of toxics users in the user segment fall significantly below a Massachusetts-based norm for byproduct generated per unit of product based on reasonably proven, public domain technologies and/or industry practices.
+        </section>
+        <section prefix="B">
+    	     Each performance standard issued under subsection (a) of this section shall require large quantity toxics users within the relevant user segment to achieve a level or set of levels of byproducts generated per unit of product. Any such level shall be based on reasonably proven, public domain technologies and/or industry practices applicable to that user segment.
+        </section>
+        <section prefix="C">
+    	     Each performance standard issued under subsection (a) of this section shall specify a reasonable time for compliance, not to exceed three years. Any production unit covered by a performance standard shall come into compliance to the extent economically feasible. The toxics user shall maintain on-site justification for any noncompliance with the standard, or shall apply to the department for a waiver of the standard based on a showing that the standard is not economically feasible for that user.
+        </section>
+        <section prefix="D">
+    	     The department may establish performance standards under this section for a specific toxics user within a priority segment after considering the toxics user’s efforts to reduce byproduct and emissions and the potential effectiveness of referral for technical assistance and/or proposing changes in the toxics user’s use reduction plan instead of establishing a performance standard, such consideration not being subject to adjudication. A standard shall be set through the issuance of an administrative order applicable to the toxics user, which may require a specified percent reduction of byproduct generated per unit of product which is cost-effective, economically and technically feasible to the toxics user and the technology for which is commercially available to the user segment. Such an administrative order shall specify a reasonable time for compliance. A toxics user for whom a performance standard is set through this administrative order mechanism may appeal said order through the adjudicatory hearing process set forth in chapter thirty A of the General Laws.
+        </section>
+        <section prefix="E">
+    	     Upon the date one year after issuance of a performance standard for a user segment, the department may apply to the council for authority to extend the standard by regulation to small quantity toxics users within the relevant user segment.
+        </section>
+        <section prefix="F">
+    	     A production unit otherwise covered by a performance standard shall be exempt from such standard if compliance would adversely affect the toxics user’s ability to produce its product in conformance with product specifications of the United States Food and Drug Administration, Department of Defense or any other federal agency.
+        </section>
+        <section prefix="G">
+    	     Nothing in this section shall diminish the existing authority of the department pursuant to any statute to establish by regulation, permit, license, or order treatment technology standards, emission or discharge limits, operation and maintenance requirements, or management practices for abating, controlling or preventing a release or threat of release of toxic or hazardous substances to the environment.
+        </section>
+    </text>
+</law>

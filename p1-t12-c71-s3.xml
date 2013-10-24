@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Physical Education</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Physical education shall be taught as a required subject in all grades for all students in the public schools for the purpose of promoting the physical well-being of such students. Instruction in physical education may include calisthenics, gymnastics and military drill; but no pupil shall be required to take part in any military exercise if his parent or guardian is of any religious denomination conscientiously opposed to bearing arms, or is himself so opposed, and the school committee is so notified in writing; and no pupil shall be required to take part in physical education exercises if a licensed physician certifies in writing that in his opinion such physical education exercises would be injurious to the pupil.
+    </text>
+</law>

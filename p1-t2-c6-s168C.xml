@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>168C</section_number>
+    <catch_line>Post Secondary Schools; Annual Uniform Crime Reports; Campus Security Policies</catch_line>
+    <order_by>168C</order_by>
+    <text>
+        <section prefix="a">
+    	     Each public or private degree-granting post-secondary institution of higher education shall submit, on an annual basis, a uniform crime report, consistent with the Federal Bureau of Investigation’s Uniform Crime Report, to the department. Said board shall file all such reports with the Federal Bureau of Investigation. In addition, said board shall keep a copy of such reports on file for at least five years. Upon submitting such crime report, each such institution shall provide public notice to its campuses that the institution makes such report available, upon request, to an applicant, student or employee of the institution and how any such individuals may obtain a copy of the report from the institution.
+        </section>
+        <section prefix="b">
+    	     In addition, each such institution shall certify that it has a campus security policy that has been made available, upon request, to an applicant, student or employee of the institution. Such policy shall provide information on campus security procedures including, but not limited to, the following: (1) the administrative office responsible for security on the campus; (2) policy regarding the possession, use and sale of alcoholic beverages and enforcement of underage drinking laws; (3) policy regarding the possession, use and sale of illegal drugs and enforcement of federal and state drug laws; (4) policy regarding the unauthorized possession and use of weapons by students and employees; (5) policy regarding access to institutional facilities and programs by students, employees, guests and other individuals; (6) procedures and facilities for students and others to report criminal actions or other emergencies occurring on campus and policies concerning the institution’s response to such reports; (7) a description of the communication media used to inform the campus community about security matters as well as the frequency with which the information is usually provided.
+        </section>
+        <section prefix="c">
+    	     Any such campus security policy shall further provide information on security and access to grounds and buildings including, but not limited to, security considerations used in the maintenance of campus facilities.
+        </section>
+        <section prefix="d">
+    	     Any such policy shall further provide information on student housing safety measures, including, but not limited to: (1) policies concerning the identification and admission of visitors in student housing facilities; (2) measures to secure entrances to student housing facilities; (3) standard security features used to secure doors and windows in students’ rooms; (4) the type and frequency of programs designed to inform student housing residents about housing security and enforcement procedures; (5) policy and special security procedures for housing students during low-occupancy periods such as holidays and vacation periods; and (6) policy on the housing of guests and others not assigned to the student housing or not regularly associated with the institution of higher education.
+        </section>
+        <section prefix="e">
+    	     Any such policy shall further provide information on campus law enforcement, including: (1) a description of the type and number of security personnel utilized by the institution and a description of their training; (2) the enforcement authority of security personnel, including their working relationship with state and local police agencies; and (3) policy for reporting criminal incidents to state and local police.
+        </section>
+    </text>
+</law>

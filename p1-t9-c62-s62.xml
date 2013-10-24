@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Methods Of Accounting; Fiscal Years</catch_line>
+    <order_by>62</order_by>
+    <text>
+        Income taxable under this chapter shall be determined in accordance with the method of accounting regularly employed in keeping the books of the taxpayer unless it is established that such method does not clearly reflect income. If a taxpayer does not keep books of account, his income shall be determined on the cash receipts and disbursements method of accounting. Any taxpayer who changes the method of accounting regularly employed by him in keeping his books shall not be permitted to report his income on a method different from that used for the preceding year without obtaining the consent of the commissioner. The period for which income is to be computed shall be on the basis of a calendar year unless a taxpayer actually keeps his books of account on the basis of a fiscal year and has obtained permission from the commissioner to report his income on such a basis.
+    </text>
+</law>

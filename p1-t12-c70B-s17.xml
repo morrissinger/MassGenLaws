@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70B" order_by="70B" level="3">School Building Assistance Program</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Annual Report; Anticipated Needs For School Facilities Projects</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     On or before June 30 of each year, the authority shall submit a report to the governor, the house and senate committees on ways and means, the joint committee on education, arts and humanities, the joint committee on natural resources, the house and senate committees on long-term debt and capital expenditures and the joint committee on local affairs which analyzes the anticipated financial needs for school facilities projects of the kind that qualify for assistance under this chapter. The report shall include a listing of each school building within the commonwealth, together with a description of its size, capacity, age and state of maintenance and whether it is likely to require construction, enlargement, reconstruction, rehabilitation or improvement due to such factors as deterioration, lack of adequate facilities to meet educational standards and anticipated increases in school-age population.
+        </section>
+        <section prefix="b">
+    	     The authority shall also conduct periodic surveys of the cities, towns and regional school districts to determine the need for new school facility construction to meet demand.
+        </section>
+        <section prefix="c">
+    	     The authority shall develop a long-term capital plan in accordance with needs and funding projected to be available in the trust under this chapter for purposes of planning and guiding the policies of the authority.
+        </section>
+        <section prefix="d">
+    	     The capital plans, needs surveys and reports of the authority shall not give rise to any claim, legal or moral, or enforceable right in any party to benefits or funds from the trust or from other sources.
+        </section>
+    </text>
+</law>

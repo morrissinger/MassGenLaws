@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Investigations, Studies, Grant Applications And Applications For Project Approvals; Lease, Loan, Grant Or Conveyance Of Real Or Personal Property To Department</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     All local bodies and all public agencies, instrumentalities, commissions and authorities of the commonwealth may undertake activities, programs and projects in conjunction with the department in furtherance of the purposes of this chapter including, without limiting the generality of the foregoing, to join in investigations and studies and to submit grant applications and applications for project approvals.
+        </section>
+        <section prefix="b">
+    	     Except with respect to real property acquired or held for purposes described in Article XCVII of the amendments to the constitution of the commonwealth, all local bodies and all public agencies, instrumentalities, commissions and authorities of the commonwealth may lease, lend, grant or convey to the department, upon such terms and conditions as the proper authorities of such public bodies, public agencies, instrumentalities, commissions and authorities of the commonwealth may deem appropriate and without the necessity of any action or formality other than the regular and formal action of such public bodies, agencies, instrumentalities, commissions and authorities of the commonwealth, any interest in any real or personal property which may be necessary or convenient to effect the purposes of the department.
+        </section>
+    </text>
+</law>

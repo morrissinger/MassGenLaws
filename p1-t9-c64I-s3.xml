@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64I" order_by="64I" level="3">Tax On The Storage, Use Or Other Consumption Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Liability For Tax</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Every person storing, using or otherwise consuming in the commonwealth tangible personal property or services purchased from a vendor shall be liable for the tax imposed by this chapter. His liability shall not be extinguished until said tax has been paid to the commissioner, except that a receipt from a vendor engaged in business in the commonwealth or from a vendor who is authorized by the commissioner, under such regulations as the commissioner may prescribe, to collect the tax and who is, for the purposes of this chapter, regarded as a vendor engaged in business in the commonwealth, given to the purchaser pursuant to section four, shall be sufficient to relieve the purchaser from further liability for the tax to which the receipt refers.
+    </text>
+</law>

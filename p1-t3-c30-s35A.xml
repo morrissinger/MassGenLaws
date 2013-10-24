@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Reports; Projects Requiring Assessments Upon Municipalities; Notice</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        Reports of state officers, departments or heads thereof, and special commissions, recommending the expenditure of money to an amount in the aggregate exceeding five hundred thousand dollars for a new project or undertaking, any part of the cost of which is recommended to be assessed upon the cities and towns of any metropolitan district, shall be accompanied by a statement showing the amount, in dollars and cents, that would be assessed upon each such city and town if such recommendation should be enacted into law. The officer, department or special commission making a recommendation as aforesaid shall, upon the filing of its report containing the same, send a copy of said statement to each city and town which would be subject to such assessment.
+    </text>
+</law>

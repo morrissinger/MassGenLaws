@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25B" order_by="25B" level="3">Massachusetts Appliance Efficiency Standards Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Superseding Federal Statutes, Etc.; Duties Of Commissioner</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If the commissioner determines that a federal statute, rule or determination would supersede any requirement of this act, or if the commissioner is notified by the United States Department of Energy that a petition has been filed to supersede any requirement of this act, the commissioner shall determine (a) whether there is a substantial state or local need which is sufficient to justify the state requirement at issue, (b) whether the state requirement at issue does not unduly burden interstate commerce, and (c) whether the state requirement at issue contains a more stringent energy efficiency standard than a corresponding federal standard. If the commissioner determines that these criteria are met, the commissioner shall promptly petition the United States Department of Energy requesting a ruling that the state requirement at issue not be superseded, or shall promptly file with the United States Department of Energy a request that the petition to supersede be denied.
+    </text>
+</law>

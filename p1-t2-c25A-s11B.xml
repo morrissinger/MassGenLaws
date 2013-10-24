@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25A" order_by="25A" level="3">Division Of Energy Resources</unit>
+    </structure>
+    <section_number>11B</section_number>
+    <catch_line>Motor Vehicles Owned By Commonwealth; Fuel Efficiency</catch_line>
+    <order_by>11B</order_by>
+    <text>
+        Motor vehicles owned and operated by the commonwealth, as they are removed from service, shall only be replaced with vehicles that have above-average fuel efficiency for new vehicles within their size class as determined by the federal government. The provisions of this section shall not apply in cases where the purchase of an above-average fuel efficiency vehicle within their size class as determined by the federal government would result in an inability of the new vehicle to perform its intended duties.
+    </text>
+</law>

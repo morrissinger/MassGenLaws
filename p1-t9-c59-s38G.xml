@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>38G</section_number>
+    <catch_line>Testimony Under Oath Concerning Written Return Filed Under Sec. 38 F</catch_line>
+    <order_by>38G</order_by>
+    <text>
+        A board of assessors may require testimony under oath of a taxpayer relative to his written return filed under section thirty-eight F and may also require testimony under oath of any applicant for abatement under section fifty-nine.
+    </text>
+</law>

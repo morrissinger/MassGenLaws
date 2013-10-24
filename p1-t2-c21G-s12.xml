@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Adjudicatory Hearing; Judicial Review</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Any person aggrieved by a decision of the department with respect to a permit application or an addition to an existing withdrawal may request an adjudicatory hearing before the department under the provisions of chapter thirty A. Any such decision shall contain a notice of this right to request a hearing and shall specify a time limit of twenty-one days, within which aggrieved persons may request such a hearing. If no such request is timely made, the decision shall be deemed assented to. If a timely request is received, the department shall, within a reasonable time, act upon the request in accordance with the provisions of chapter thirty A. A person aggrieved by a final decision in an adjudicatory hearing held under the provisions of this section shall be entitled to judicial review thereof in the superior court, in accordance with chapter thirty A; provided, however, that in any action seeking judicial review pursuant to this section, the court in which such action is pending may appoint a master to investigate and report on any scientific or hydrological issue relevant to a question of law presented in the case.
+    </text>
+</law>

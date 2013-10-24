@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>1C</section_number>
+    <catch_line>Motorized Bicycles And Scooters; Compliance With Federal Standards</catch_line>
+    <order_by>1C</order_by>
+    <text>
+        Motorized bicycles and motorized scooters shall comply with all applicable federal motor vehicle safety standards.
+    </text>
+</law>

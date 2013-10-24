@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Voting Lists For Use At Polls</catch_line>
+    <order_by>60</order_by>
+    <text>
+        Before every election and meeting in a city or town at which voting lists may be required to be used, the registrars shall prepare such lists for each ward, voting precinct, polling place or town in which such election or meeting is being held, containing the names and residences of all persons qualified to vote therein, as the same appear upon the annual register, and shall seasonably transmit the same to the election officers in every such ward, voting precinct, polling place or town. Such registrars shall also make available at such locations the inactive voters list. Such voting lists shall be in duplicate for all elections and meetings at which duplicate lists are required to be used.
+    </text>
+</law>

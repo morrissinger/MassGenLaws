@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Method Of Making Payments</catch_line>
+    <order_by>86</order_by>
+    <text>
+        Officers authorized to make payments in cash shall secure proper vouchers for all payments so made and shall submit to the adjutant general as he may direct an accounting of such payments made with supporting vouchers.
+    </text>
+</law>

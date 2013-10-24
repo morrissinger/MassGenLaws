@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31A" order_by="31A" level="3">Municipal Personnel Systems</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Acceptance By Municipality Of Local Option; Adoption Of Personnel Ordinance; Application Of Chapter Thirty One</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     all testing for municipal public safety positions shall be administered by the human resources division within the executive office for administration and finance in accordance with the provisions of chapter thirty-one;
+        </section>
+        <section prefix="b">
+    	     employees serving in positions subject to the provisions of chapter thirty-one on the effective date of this act, and their successors, may appeal disciplinary actions, decisions that the examination fairly tested the knowledge, skills and abilities required to perform the primary or dominant duties of the position for which the examination was held and the results of performance evaluations to the civil service commission pursuant to section eight. The said commission shall hear such appeals in accordance with the provisions of said chapter thirty-one; and
+        </section>
+        <section prefix="c">
+    	     the provisions of chapter thirty-one contained in sections twenty-five, twenty-six and twenty-eight providing for veterans’ preference.
+        </section>
+    </text>
+</law>

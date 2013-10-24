@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40M" order_by="40M" level="3">Governmental Units Pooled Insurance</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Premium Payments; Loss Reserves</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="A">
+    	     Each group shall establish to the satisfaction of the commissioner a premium payment plan in which at least thirty-three per cent of each members estimated net annual premium is payable at the start of the groups fund year and payment of the balance of each member’s annual premium is payable within the first nine months of that fund year in monthly or quarterly installments.
+        </section>
+        <section prefix="B">
+    	     Each group shall establish and maintain actuarially appropriate loss reserves which shall include reserves for (1) known claims and expenses associated therewith and (2) claim incurred but not reported and expenses associated therewith.
+        </section>
+    </text>
+</law>

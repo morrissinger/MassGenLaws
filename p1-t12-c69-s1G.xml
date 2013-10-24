@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="69" order_by="69" level="3">Powers And Duties Of The Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>1G</section_number>
+    <catch_line>Minimum Length Of School Day And School Year</catch_line>
+    <order_by>1G</order_by>
+    <text>
+        The board shall establish the minimum length for a school day and the minimum number of days in the school year.
+    </text>
+</law>

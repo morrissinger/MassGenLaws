@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23" order_by="23" level="3">Executive Office Of Labor And Workforce Development</unit>
+    </structure>
+    <section_number>11K</section_number>
+    <catch_line>Basic Apprentice Program Standards; Apprentice Ratio; Eligibility;  Minimum Employment; Pay; Credit; Resolution Of Complaints</catch_line>
+    <order_by>11K</order_by>
+    <text>
+        <section prefix="a">
+    	     The ratio of apprentices to journeypersons shall not conflict with the ratio established in apprenticeable occupations operated by the joint labor management apprentice training programs approved under this chapter. Notwithstanding section 11G, neither the deputy director, the director, nor the apprenticeship council shall set up and establish conditions and training standards for apprentice programs which are in conflict with this ratio.
+        </section>
+        <section prefix="b">
+    	     The apprentice program shall be open to all persons at least 16 years old and shall not discriminate on the basis of age, race, color, creed, national origin, gender, sexual orientation or disability.
+        </section>
+        <section prefix="c">
+    	     The apprentice program shall ensure that each apprentice works a minimum of 2,000 hours of employment, consistent with training requirements as established by industry practice, at the occupation to which he is apprenticed. The apprentice program shall ensure that each apprentice receives a minimum of 150 hours annually of related classroom instruction in the occupation to be learned and any examinations administered during such instruction shall be monitored by a proctor.
+        </section>
+        <section prefix="d">
+    	     The apprentice program must ensure that each apprentice is paid in accordance with a predetermined schedule of wage rates based on the journeyperson rate, said schedule to progressively increase with the apprentice’s skill level and average at least 50 per cent of the journeyperson’s rate for the apprenticeship term.
+        </section>
+        <section prefix="e">
+    	     The apprentice program shall allow credit or advanced standing to be granted to an apprentice for hands-on training or related instruction which the apprentice may have previously obtained, but all such credit or advanced standing shall comply with this chapter.
+        </section>
+        <section prefix="f">
+    	     The apprentice program shall establish a procedure to receive, investigate and resolve apprentices’ complaints about the program. The procedure shall provide that any such complaint shall be filed within 6 months after the apprentice knew, or reasonably should have known of the act giving rise to the complaint. Notice of the complaint procedure shall be provided to all apprentices. Such notice shall advise an apprentice that the division is available to receive, investigate and resolve any complaints about the program that have not been resolved to the satisfaction of the apprentice after all internal procedures have been fully exhausted.
+        </section>
+    </text>
+</law>

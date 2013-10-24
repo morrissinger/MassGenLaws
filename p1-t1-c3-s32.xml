@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Expenses Of Committees Acting During Recess</catch_line>
+    <order_by>32</order_by>
+    <text>
+        No committee of the general court shall, after the close of the regular session, incur any expense to be paid by the commonwealth unless there is an authorized appropriation therefor.
+    </text>
+</law>

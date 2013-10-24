@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Expenditure Of Federal Funds</catch_line>
+    <order_by>21</order_by>
+    <text>
+        Subject to section twenty, the funds received under the act of Congress may be paid out, on requisition of the state board, as reimbursement for expenses already incurred, to approved schools.
+    </text>
+</law>

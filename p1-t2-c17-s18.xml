@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="17" order_by="17" level="3">Department Of Public Health</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Bureau Of Substance Abuse Services; Telephone Helpline</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be a bureau of substance abuse services within the department.
+        </section>
+        <section prefix="b">
+    	     The bureau shall establish and advertise a free, anonymous and confidential toll-free telephone helpline that provides comprehensive, accurate and current information and referrals related to addiction treatment and prevention services. The administration of the helpline shall be coordinated with other departments and agencies to prevent the duplication of similar services. The operation of the helpline may be contracted to third parties; provided, however, that any such contracts shall be performance-based and subject to approval by the commissioner.
+        </section>
+    </text>
+</law>

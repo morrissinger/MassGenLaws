@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Persons Required To Make Returns; Fiduciaries; Time For Making</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Every individual inhabitant of the commonwealth who receives or accrues during the taxable year Massachusetts gross income, as defined in section two of chapter sixty-two, in excess of eight thousand dollars shall make a return of such income.
+        </section>
+        <section prefix="b">
+    	     Every executor, administrator, trustee, guardian, conservator, trustee in bankruptcy, assignee for the benefit of creditors and receiver, other than a receiver of a business corporation, every fiduciary referred to in section twenty-five of chapter sixty-two and every other person receiving income taxable under chapter sixty-two which exceeds one hundred dollars, shall make an annual return of his taxable income. An executor or administrator shall file a return under this section if his decedent received any such amount not returned by the decedent as to which a tax under chapter sixty-two may still be assessed within the time limited by section twenty-six of this chapter. If a person has been appointed executor or administrator after January first in any year, the return of such income received by his decedent but not reported by him shall be due and shall be filed on or before the fifteenth day of the fourth month after the date of such appointment. Every such fiduciary intending to make final distribution of an estate or trust before the end of any year shall file immediately prior to such distribution a return under this section of all such income received by him and by his decedent during said year and prior to such distribution, and the taxes thereon shall become due and payable forthwith.
+        </section>
+        <section prefix="c">
+    	     Except as otherwise provided, returns under this section shall be made on or before the fifteenth day of the fourth month following the close of each taxable year.
+        </section>
+    </text>
+</law>

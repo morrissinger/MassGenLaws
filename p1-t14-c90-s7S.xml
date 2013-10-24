@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>7S</section_number>
+    <catch_line>Motorcycle Sound Emissions; Definitions</catch_line>
+    <order_by>7S</order_by>
+    <text>
+        The following words used in this section twenty-four A to twenty-four C, inclusive, unless the context otherwise requires shall have the following meanings:— 
+“A-weighted sound level”, the sound level in decibels as measured on a sound level meter using the A-weighting network. The level is designated dB(A). 
+“Decibel (dB)”, a unit for measuring the volume of a sound, equal to twenty times the logarithm to the base 10 of the ratio of the pressure of the sound measured to the reference pressure; which is 20 micropascals or 20 micronewtons per square meter. 
+“Motorcycle”, any motor vehicle having a seat or saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground, including any bicycle with a motor or driving wheel attached, except a tractor or a motor vehicle designed for carrying golf clubs and not more than four persons, an industrial three-wheel truck, or a motor vehicle on which the operator and passengers ride within an enclosed cab. 
+“Person”, any individual, association, partnership, or corporation, and includes any officer, employee, department, agency or instrumentality of the commonwealth or any political subdivision of the commonwealth. 
+“Registrar”, the registrar of motor vehicles. 
+“Sound level”, the weighted sound pressure level obtained by the use of a sound level meter and frequency weighting network, such as A, B or C as specified in American National Standards Institute specifications for sound level meters (ANSI S1.4-1971). If the frequency weighting employed is not indicated, the A-weighting shall apply.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Fees Of Sheriff For Collecting Taxes</catch_line>
+    <order_by>89</order_by>
+    <text>
+        If a person pays his tax within said thirty days, the officer shall receive from him for his fees five per cent on the sum assessed; but if a tax remains unpaid after said thirty days, he shall collect it by distress or imprisonment, or by sale of land as a collector would do. The officer may also levy his fees for service and travel in the collection of each person’s tax, as in other cases of distress and commitment, or sale of land.
+    </text>
+</law>

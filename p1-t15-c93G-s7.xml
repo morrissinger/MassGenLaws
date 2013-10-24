@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Supplier’S Security Interest</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Nothing contained in this chapter may be construed to release or terminate a perfected security interest of the supplier in the inventory of the dealer.
+    </text>
+</law>

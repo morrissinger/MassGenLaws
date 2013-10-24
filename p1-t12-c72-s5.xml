@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="72" order_by="72" level="3">School Registers And Returns</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Procedure On Failure To File Reports Or Returns; Irregular Returns</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If a superintendent of schools fails, within the prescribed time, to make both the returns and the report required by law, the commissioner shall forthwith notify the chairman of the school committee thereof, and he shall immediately transmit the same to him. If a return is found to be irregular or incorrect, the commissioner shall forthwith return it for correction, with a statement of all deficiencies therein, to the committee or its agent, who shall promptly correct and return it.
+    </text>
+</law>

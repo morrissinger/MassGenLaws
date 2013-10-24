@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Records; Disclosure; Destruction; Regulations; Penalties</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, all records containing personal data which are created, collected, used, maintained or disseminated pursuant to this chapter shall not be public records, and shall be governed by the provisions of chapter sixty-six A, the notice provisions of section sixty-three of chapter thirty and the enforcement provisions of section three B of chapter two hundred and fourteen.
+        </section>
+        <section prefix="b">
+    	     If the department, any designated agency, or any other agency obligated to make an assessment under this chapter determines that the allegations in a report cannot be substantiated, it shall within 3 years of such determination, either (i) destroy said report and any other records containing personal data created because of the receipt of said report or (ii) physically remove therefrom all personal identifiers; provided, however, that the department, the designated agency or any other agency obligated to make assessments may create and hold whatever statistical records it needs for purposes of planning and reporting, as may be prescribed by regulations adopted by the department pursuant to section two of chapter thirty. Each government agency shall promulgate regulations prescribing the manner of creating and holding its own such statistical records, and the department shall adopt such regulations for itself and any designated agency. Each government agency shall annually report such statistical records to the executive office of elder affairs.
+        </section>
+        <section prefix="c">
+    	     The department, any designated agency, or any other agency obligated to make an assessment under this chapter shall inform in writing an individual, upon his request, whether he is a data subject, as that term is defined in section one of chapter sixty-six A, with respect to records created or maintained under this chapter, and if so, the department or agency shall make such data fully available to him or his authorized representative, upon his request, in a form comprehensible to him, unless doing so is prohibited or excused under the provisions of this or any other statute. In making any disclosure or information to a data subject the department or agency may remove personal identifiers relating to a third person, except where such third person is an officer or employee of a government or non-governmental department or agency obligated to make assessments under this chapter.
+        </section>
+        <section prefix="d">
+    	     Any agent or employee of the department, a designated agency, or any other agency obligated to make an assessment under this chapter who violates the provisions of chapter sixty-six A, as modified by this section, with respect to records created or maintained under this chapter shall be punished by a fine of not more than five hundred dollars, or, if harm shall have resulted to any one whose privacy was sought to be protected by the provision violated, by a fine of not more than one thousand dollars, and, if such agent or employee is employed by the commonwealth, he shall also be subject to administrative disciplinary action pursuant to regulations adopted by the department or agency under section two of chapter thirty A.
+        </section>
+        <section prefix="e">
+    	     No provision of chapter sixty-six A, section one hundred and thirty-five of chapter one hundred and twelve or this section relating to confidential data or confidential communications shall prohibit the department or designated agency from making reports to the district attorney under subsection (b) of section sixteen or subsection (a) of section eighteen, or from providing in such reports to the district attorney any information obtained by the department or a designated agency under section fifteen or section eighteen. No person providing notification or information to a district attorney or testimony in court pursuant to the provisions of this subsection shall be liable in any civil or criminal act by reason of such action.
+        </section>
+    </text>
+</law>

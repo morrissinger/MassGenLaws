@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Definitions Applicable To Secs. 18 To 25</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     an on-site inspection of a project or program, so long as the members do not deliberate;
+        </section>
+        <section prefix="b">
+    	     attendance by a quorum of a public body at a public or private gathering, including a conference or training program or a media, social or other event, so long as the members do not deliberate;
+        </section>
+        <section prefix="c">
+    	     attendance by a quorum of a public body at a meeting of another public body that has complied with the notice requirements of the open meeting law, so long as the visiting members communicate only by open participation in the meeting on those matters under discussion by the host body and do not deliberate;
+        </section>
+        <section prefix="d">
+    	     a meeting of a quasi-judicial board or commission held for the sole purpose of making a decision required in an adjudicatory proceeding brought before it; or
+        </section>
+        <section prefix="e">
+    	     a session of a town meeting convened under section 9 of chapter 39 which would include the attendance by a quorum of a public body at any such session.
+        </section>
+    </text>
+</law>

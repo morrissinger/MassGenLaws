@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Toxics Use Reduction Planners</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="A">
+    	     In order to be a certified toxics use reduction planner, an individual must either (1) have satisfactorily completed a toxics use reduction planning program, developed pursuant to section six (E) of this chapter, and passed a uniform certification examination which the department shall prepare by January 1, 1992 and modify thereafter as appropriate, or (2) have at least two years of work experience in toxics use reduction activities. The department shall by January 1, 1991, after consultation with the Institute and the office, promulgate regulations implementing the requirements of this section.
+        </section>
+        <section prefix="B">
+    	     Any individual who satisfies the requirement of at least two years of work experience in toxics use reduction activities, but who has not satisfactorily completed a toxics use reduction planning program and passed the uniform certification examination, shall only be certified as a toxics use reduction planner to engage in toxics use reduction activities in the facilities owned or operated by his employer.
+        </section>
+        <section prefix="C">
+    	     Certification shall be for not more than two years and shall be renewable for additional two year periods. For a certification to be renewed, a toxics use reduction planner must successfully complete continuing education instruction in toxics use reduction activities.
+        </section>
+        <section prefix="D">
+    	     The department may establish a fee to be assessed on any individual when such individual receives or renews his certification as a toxics use reduction planner pursuant to this section. Any such fees shall be deposited in the toxics use reduction fund established pursuant to section two K of chapter twenty-nine of the General Laws.
+        </section>
+        <section prefix="E">
+    	     Certification may be suspended or revoked by the department based on a finding of fraud, gross negligence in the certification of toxics use reduction plans, or other good cause.
+        </section>
+        <section prefix="F">
+    	     In order to certify an alternative resource conservation plan or the implementation of an environmental management system pursuant to section 11, a toxics use reduction planner must successfully complete continuing education instruction in resource conservation and environmental management systems as specified by the department.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>18D</section_number>
+    <catch_line>Expenditures By Vendors On Behalf Of A Political Committee</catch_line>
+    <order_by>18D</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of this section the following words shall, unless the context clearly requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     A vendor that makes an expenditure on behalf of a political committee shall within 5 days of making such expenditure provide the political committee with a detailed account of the expenditure including, but not limited to, the date of the expenditure, the person who received payment, the full name and address of the subvendor, the purpose of the expenditure, and the amount of the expenditure.
+        </section>
+        <section prefix="c">
+    	     A political committee that makes a payment to a vendor or incurs a liability to a vendor shall file reports with the director disclosing the full name and address, listed alphabetically, of each subvendor receiving payments of more than $500 in the aggregate during a calendar year from the vendor, and of each subvendor to whom a liability of more than $500 was incurred. The contents of such report shall include the information required by section 18 and shall be disclosed on a form prescribed by the director. For committees required to designate a depository account under section 19, the reports shall be filed on or before the fifth day of each month covering the preceding month; provided, however, that for other committees, the report must be filed in accordance with the schedule established by section 18.
+        </section>
+        <section prefix="d">
+    	     Vendors shall keep detailed accounts of all expenditures made on behalf of political committees.
+        </section>
+    </text>
+</law>

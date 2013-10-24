@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Lists Of Candidates Without Party Designations; Distribution</catch_line>
+    <order_by>44</order_by>
+    <text>
+        No individual, except as otherwise provided by law, and no non-elected political committee, shall distribute by mail, or otherwise or directly or indirectly cause to be distributed by mail or otherwise, a list or slate containing names of candidates for state office of more than one political party to be nominated at state primaries or to be elected at a biennial state election, unless against the name of each candidate on such list or slate appears his political party designation. 
+Violation of any provision of this section shall be punished by imprisonment for not more than six months or by a fine of not more than five hundred dollars.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>2D</section_number>
+    <catch_line>Marking To Indicate Compliance With Testing And Performance Standard Requirements</catch_line>
+    <order_by>2D</order_by>
+    <text>
+        <section prefix="a">
+    	     Cigarettes that are certified by a manufacturer in accordance with section 2C shall be marked to indicate compliance with the requirements of section 2B. Such marking shall be in 8 point font type or larger and consist of:
+        </section>
+        <section prefix="1">
+    	     Modification of the product UPC code to indicate a visible mark printed at or around the area of the UPC code. Such mark may consist of alphanumeric or symbolic characters permanently stamped, engraved, embossed or printed in conjunction with the UPC code;
+        </section>
+        <section prefix="2">
+    	     Any visible combination of alphanumeric or symbolic characters permanently stamped, engraved, embossed or printed upon the cigarette package or cellophane wrap; or
+        </section>
+        <section prefix="3">
+    	     Printed, stamped, engraved or embossed text that indicates that the cigarettes meet the standards of this section.
+        </section>
+        <section prefix="b">
+    	     A manufacturer shall use only 1 marking and shall apply this marking uniformly for all packages including, but not limited to, packs, cartons and cases and all brands marketed by that manufacturer.
+        </section>
+        <section prefix="c">
+    	     The secretary shall be notified as to the marking that is selected.
+        </section>
+        <section prefix="d">
+    	     Prior to the certification of any cigarette, a manufacturer shall present its proposed marking to the secretary for approval. Upon receipt of the request, the secretary shall approve or disapprove the marking offered, except that the secretary shall approve any marking in use and approved for sale in New York State pursuant to the New York fire safety standards for cigarettes. Proposed markings shall be deemed approved if the secretary fails to act within 10 business days of receiving a request for approval.
+        </section>
+        <section prefix="e">
+    	     No manufacturer shall modify its approved marking unless the modification has been approved by the secretary in accordance with this section.
+        </section>
+        <section prefix="f">
+    	     Manufacturers certifying cigarettes in accordance with section 2C shall provide a copy of such certifications to all wholesale dealers and agents to which they sell cigarettes, and shall also provide sufficient copies of an illustration of the package marking utilized by the manufacturer pursuant to this section for each retailer to which the wholesale dealers or agents sell cigarettes. Wholesale dealers and agents shall provide a copy of these package markings received from manufacturers to all retail dealers to which they sell cigarettes. Wholesale dealers, agents and retail dealers shall permit the secretary, the commissioner of the department of revenue, the attorney general, or employees thereof, to inspect markings of cigarette packaging marked in accordance with this section.
+        </section>
+    </text>
+</law>

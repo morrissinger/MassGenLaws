@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="11" order_by="11" level="3">Department Of The State Auditor</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Annual Personnel Report</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        The state auditor shall file an annual report not later than the first Wednesday in February with the senate and house committees on ways and means containing the job classification, duties and salary of each officer and employee within the department and all personnel regulations established pursuant to section six. The auditor shall file amendments to such report with the senate and house committees on ways and means, whenever any changes become effective.
+    </text>
+</law>

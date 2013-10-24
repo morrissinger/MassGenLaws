@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>24I</section_number>
+    <catch_line>Possession Of Alcoholic Beverages In Motor Vehicles</catch_line>
+    <order_by>24I</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings:
+        </section>
+        <section prefix="b">
+    	     Whoever, upon any way or in any place to which the public has a right of access, or upon any way or in any place to which members of the public have access as invitees or licensees, possesses an open container of alcoholic beverage in the passenger area of any motor vehicle shall be punished by a fine of not less than $100 nor more than $500.
+        </section>
+        <section prefix="c">
+    	     This section shall not apply to (1) the passengers of a motor vehicle designed, maintained and used for the transportation of persons for compensation, or (2) the living quarters of a house coach or house trailer.
+        </section>
+        <section prefix="d">
+    	     Notwithstanding this section, the driver of any motor vehicle, including but not limited to a house coach or house trailer, shall not possess an open container of alcoholic beverage.
+        </section>
+    </text>
+</law>

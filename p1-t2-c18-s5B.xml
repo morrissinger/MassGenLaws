@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>False Representations Or Failure To Disclose Facts; Penalty</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        Any person or institution which knowingly makes a false representation or, contrary to a legal duty to do so, knowingly fails to disclose any material fact affecting eligibility or level of benefits to the department of public welfare or its agents, for the purpose of causing any person, including the person making such representations, to be supported in whole or in part by the commonwealth, or for the purpose of procuring a payment under any assistance program administered by the department, shall be punished by a fine of not less than two hundred nor more than five hundred dollars or by imprisonment for not more than one year. 
+Nothing in this section shall be construed as preventing the institution of criminal proceedings for the violation of any other law of the commonwealth.
+    </text>
+</law>

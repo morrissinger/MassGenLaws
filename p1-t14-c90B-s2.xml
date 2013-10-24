@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Numbering; Exceptions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     A motorboat owned in a country other than the United States temporarily using the waters of the commonwealth.
+        </section>
+        <section prefix="2">
+    	     A motorboat owned by an agency of the United States government or by a state, county, city or town.
+        </section>
+        <section prefix="3">
+    	     Ship’s lifeboats.
+        </section>
+        <section prefix="4">
+    	     A motorboat numbered in accordance with a numbering system established by the secretary; provided, that the certificate of number or similar document awarding a number to such motorboat is in full force and effect; and provided, further, that such motorboat shall not have been within the commonwealth for a period of time in excess of sixty consecutive days.
+        </section>
+        <section prefix="5">
+    	     A motorboat numbered in accordance with the numbering system of another state, which system has been approved by the secretary; provided, that the certificate of number or similar document awarding a number to such motorboat is in full force and effect; and provided, further, that such motorboat shall not have been within the commonwealth for a period of time in excess of sixty consecutive days.
+        </section>
+        <section prefix="6">
+    	     A vessel which has a valid marine document issued by the Bureau of Customs of the United States government or any federal agency successor thereto.
+        </section>
+    </text>
+</law>

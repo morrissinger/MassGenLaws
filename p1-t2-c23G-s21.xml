@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Application Requirements For Incubator Development Plan, Loans Or Grants</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="i">
+    	     make provision for a professional business manager or be accompanied by a contract between a professional management service and the incubator sponsor. Said business management contract shall include whenever possible but not be limited to the regional Small Business Development Centers established pursuant to 15 USC 648, if such assistance is provided without charge to said sponsors;
+        </section>
+        <section prefix="ii">
+    	     contain a needs analysis demonstrating a shortage of small units of industrial space for businesses in the service area of the proposed facility; and
+        </section>
+        <section prefix="iii">
+    	     adequately demonstrate the capacity of the recipient to make or administer loans or investments to capitalize businesses that are or will be served by said facility.
+        </section>
+    </text>
+</law>

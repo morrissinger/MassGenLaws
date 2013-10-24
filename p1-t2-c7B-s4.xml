@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7B" order_by="7B" level="3">Asset Management Board</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Board; Powers And Duties</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall promulgate rules and regulations to implement the provisions of this chapter. Said regulations shall include but not be limited to:
+        </section>
+        <section prefix="i">
+    	     establishing standards and procedures to govern state agency presentation to and board review and approval of asset management projects. Such standards shall include, but not be limited to, the promotion of sound management of all assets held by state agencies; the protection against projects with conflicts of interest; the prevention of unfair or windfall profits accruing to any individual or group of individuals; the assurance that approved projects do not interfere with nor deny an agency’s access to assets that are needed to meet current or reasonably foreseeable legal obligations of the agency presenting the project; and, assurance that each project is technically and financially viable;
+        </section>
+        <section prefix="ii">
+    	     establishing alternative property procurement and disposition standards and procedures consistent with the authority and requirements set forth in subsection (b); provided, however, that such standards and procedures shall include, but not be limited to, adequate public notice, public review and comment for each proposed asset management project;
+        </section>
+        <section prefix="iii">
+    	     establishing standards and procedures for the monitoring and termination of approved projects consistent with the authority and requirements set forth in subsection (c); and
+        </section>
+        <section prefix="iv">
+    	     ensuring that the agency proposing the project has the capacity to execute the project.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, the board shall be authorized to determine that property procurement and disposition laws and regulations otherwise applicable to projects managed or proposed by state agencies shall not apply to a proposed project. The board shall make such determination only after making a written finding that such project is financially feasible, will not interfere with the mission and functions of the managing or proposing agency, and is in the best interests of the commonwealth. Such written finding of the board shall be available to the public. The board shall establish for each such project alternative property procurement or disposition requirements consistent with standards set forth in its regulations; provided that the board shall not have the authority to limit or modify in any way the application of any property procurement or disposition law or regulation that by its terms applies equally to both public and private agencies or entities.
+        </section>
+        <section prefix="c">
+    	     The board shall monitor approved projects in accordance with standards and procedures set forth in its regulations. Said standards and procedures shall include, but not be limited to, provisions for periodic site visits, submission of an annual independent audit, if applicable, for each project, and review of the public purposes served by the project. The board shall terminate any previously approved project in the event that it determines, in accordance with its standards and procedures, that such project no longer serves a public purpose or is no longer in the public interest.
+        </section>
+        <section prefix="d">
+    	     The board shall have the authority to authorize the establishment of asset management trusts in accordance with the provisions of section eight.
+        </section>
+    </text>
+</law>

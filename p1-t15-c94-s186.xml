@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>186</section_number>
+    <catch_line>Adulteration Of Drugs, Foods, Cosmetics And Devices Defined</catch_line>
+    <order_by>186</order_by>
+    <text>
+        <section prefix="2">
+    	     if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 408 of the Federal Food, Drug and Cosmetic Act;
+        </section>
+        <section prefix="3">
+    	     if it bears or contains any food additive which is unsafe within the meaning of section 409 of the Federal Food, Drug and Cosmetic Act;
+        </section>
+        <section prefix="4">
+    	     if it bears or contains any color additive which is unsafe within the meaning of section 706 of the Federal Food, Drug and Cosmetic Act; provided that an article which is not otherwise deemed adulterated under clause (2), (3) or (4) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the department;
+        </section>
+    </text>
+</law>

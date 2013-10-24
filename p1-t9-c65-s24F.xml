@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>24F</section_number>
+    <catch_line>Liberal Construction Of Sections Relating To Non Residents</catch_line>
+    <order_by>24F</order_by>
+    <text>
+        The provisions of sections twenty-four A to twenty-four E, inclusive, shall be liberally construed in order to ensure that the domiciliary state of any non-resident decedent whose estate is administered in this commonwealth shall receive any death taxes, together with interest and penalties thereon, due to it from the estate of such decedent.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64F" order_by="64F" level="3">Taxation Of Fuel And Special Fuels Acquired Outside And Used Within The Commonwealth</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Commissioner”, the commissioner of revenue.
+        </section>
+        <section prefix="c">
+    	     “Fuel” shall mean all products commonly or commercially known or sold as gasoline (including casing-head and absorption or natural gasoline) regardless of their classification or uses; and any liquid prepared, advertised, offered for sale, or sold for use as or commonly and commercially used as a fuel in internal combustion engines, which when subjected to distillation in accordance with the standard method of test for distillation of gasoline, naphtha, kerosene and similar petroleum products (American Society for Testing Materials Designation D-86) show not less than ten per cent distilled (recovered) below 347° Fahrenheit (175° Centigrade) and not less than ninety-five per cent distilled (recovered) below 464° Fahrenheit (240° Centigrade); provided, that the term fuel shall not include industrial solvents or naphthas which distill, by American Society for Testing Materials Method D-86, not more than nine per cent at 176° Fahrenheit, and which have a distillation range of 150° Fahrenheit, or less, or liquefied gases which would not exist as liquids at a temperature of 60° Fahrenheit and a pressure of 14.7 pounds per square inch absolute.
+        </section>
+        <section prefix="d">
+    	     “Special fuels”, shall mean and include all combustible gases and liquids, used or sold for use in an internal combustion engine or motor for the generation of power to propel motor vehicles registered for use on the public highways except such fuel as defined in paragraph (c).
+        </section>
+        <section prefix="e">
+    	     “Motor carrier” shall mean any person who regularly or habitually uses or operates motor vehicles upon the highways of this commonwealth which are propelled by fuel or special fuels purchased or acquired outside this commonwealth and is subject to the excise imposed by section three.
+        </section>
+        <section prefix="f">
+    	     “Motor vehicle” shall include any vehicle propelled by any power other than muscular, except boats, tractors used exclusively for agricultural purposes and such vehicles as run only on rails or tracks.
+        </section>
+    </text>
+</law>

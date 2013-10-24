@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Recording Of Certified Copies Of Instruments In More Than County Or District</catch_line>
+    <order_by>13</order_by>
+    <text>
+        If a deed or other writing affecting land has been recorded in a registry of deeds or registered in a registry district of the land court, a copy thereof, duly certified by a proper official, may be recorded or registered in any county or registry district wherein the original might properly have been recorded or registered, and when so recorded or registered shall have the same effect as a record or registration of the original instrument.
+    </text>
+</law>

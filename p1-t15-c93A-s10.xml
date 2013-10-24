@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93A" order_by="93A" level="3">Regulation Of Business Practices For Consumers Protection</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Notice To Attorney General; Injunction, Prima Facie Evidence</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Upon commencement of any action brought under section nine or section eleven, the clerk of the court shall mail a copy of the bill in equity to the attorney general and, upon entry of any judgment or decree in the action, the clerk of the court shall mail a copy of such judgment or decree to the attorney general. 
+Any permanent injunction or order of the court made under section four shall be prima facie evidence in an action brought under section nine or section eleven that the respondent used or employed an unfair or deceptive act or practice declared unlawful by section two.
+    </text>
+</law>

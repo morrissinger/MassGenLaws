@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>133B</section_number>
+    <catch_line>Powers And Duties Of Commission</catch_line>
+    <order_by>133B</order_by>
+    <text>
+        <section prefix="1">
+    	     Shall prescribe such regulations as are consistent with the Randolph-Shepard act and may be necessary to carry out the purposes of this act.
+        </section>
+        <section prefix="2">
+    	     Shall conduct surveys to find locations where vending facilities may be properly and satisfactorily operated by blind persons who are participants in the Randolph-Shepard Vending Facilities Program and shall establish vending facilities as it deems appropriate.
+        </section>
+        <section prefix="3">
+    	     Shall provide such management and supervisory services as it deems necessary to assure that each vending facility will be operated in the most effective and productive manner possible.
+        </section>
+        <section prefix="4">
+    	     Shall provide plans and specifications for proposed vending facilities and equipment to the appropriate officer, board or authority for approval prior to installation, which approval shall not be unreasonably withheld.
+        </section>
+        <section prefix="5">
+    	     Shall take any such other action as the commissioner may deem necessary or appropriate to carry out the purposes of this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32B" order_by="32B" level="3">Contributory Group General Or Blanket Insurance For Persons In The Service Of Counties, Cities, Towns And Districts, And Their Dependents</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Insurance Coverage For Employees Of Governmental Units; Appropriation Or Expenditure Of Public Funds For Payment Of Premiums</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon acceptance of this subsection by its appropriate public authority and subject to any necessary appropriation, a governmental unit, acting by and through its appropriate public authority, may offer its employees a policy or policies of group long-term disability insurance, group dental insurance or group vision care insurance. A governmental unit may contract for such insurance coverage individually or through its membership in a trust or joint purchase group as provided in section twelve of this chapter. A governmental unit may elect to pay any part or none of the premium cost for such insurance coverage for its employees, and may bargain for such insurance coverage collectively.
+        </section>
+        <section prefix="b">
+    	     No governmental unit may appropriate or expend public funds for the payment of premiums for group life insurance, group accidental death and dismemberment insurance and group general or blanket hospital, surgical, medical, dental and other health insurance for its active or retired employees, or their dependents, unless such insurance is procured pursuant to the provisions of this chapter, or unless such payments are authorized by section five of chapter forty, or unless such payments are made, pursuant to an agreement of an employer and an employee organization, to a health and welfare trust fund agreement for the purposes of (i) providing health benefits not otherwise provided to such employees by said governmental unit under the provisions of this chapter or (ii) paying contributions by said governmental unit toward premium costs or rates in excess of the level of such premium cost or rate contributions otherwise provided for under the provisions of this chapter or (iii) providing health benefits required under this chapter. This subsection shall not apply to the county of Worcester.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40D" order_by="40D" level="3">Industrial Development Of Cities And Towns</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Financing Documents; Excess Payments</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="i">
+    	     be for a term not in excess of ninety-nine years;
+        </section>
+        <section prefix="ii">
+    	     provide for payments sufficient to amortize the principal and interest of all bonds and other obligations of the municipality issued or incurred to pay the cost of the project and current expenses of the municipality incurred in connection therewith; and
+        </section>
+        <section prefix="iii">
+    	     provide in the case of the lease of a project by the municipality to a user that the lessee shall pay to the municipality acting by and through an authority or otherwise assume and pay all other cost of maintaining and operating the project including taxes and assessments on the lessee’s interest in the project or excises as hereinafter in this chapter provided.
+        </section>
+    </text>
+</law>

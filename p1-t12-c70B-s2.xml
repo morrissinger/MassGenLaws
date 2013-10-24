@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70B" order_by="70B" level="3">School Building Assistance Program</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     In the case of a grant for an approved project of a regional school district or a county, the total facilities grant shall be the sum of the grants computed separately for each city and town which is a member of said regional school district or located in said county as hereinafter provided. For purposes of this computation, each member city’s and town’s share of the combined grant shall be equal to the total approved project cost, including costs referred to in section 4, multiplied by the product of the reimbursement percentage listed in subsection (a) of section 10, multiplied by the percentage of district or county capital costs that would be apportioned to such city or town in accordance with the applicable regional school district agreement or law for capital costs incurred in the fiscal year in which the grant is approved. The amount of the total capital costs apportioned to a member city or town in any fiscal year on account of an approved school project of a regional school or county, determined in accordance with the applicable regional school district agreement or law, shall be reduced by an amount equal to the amount of the grant payable on account of such project in such fiscal year multiplied by a fraction the numerator of which is the city’s or town’s reimbursement percentage, determined as aforesaid, multiplied by the percentage of capital costs apportioned to the city or town for such fiscal year in accordance with the applicable regional school district agreement or law and the denominator of which is the sum of the percentages so derived as the numerators for all of the member cities and towns.
+        </section>
+        <section prefix="2">
+    	     In the case of a grant for an approved project of an independent agricultural and technical school, the total facilities grant shall be the sum of the grants computed separately for each city and town in which students of said school reside averaged by means of a weighted average multiplied by the final approved costs.
+        </section>
+    </text>
+</law>

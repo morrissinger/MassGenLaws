@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Contagious Diseases; Regulations</catch_line>
+    <order_by>55</order_by>
+    <text>
+        A child infected, or in a household where a person is infected, with a disease dangerous to the public health as defined in accordance with section six of chapter one hundred and eleven, or in a household exposed to contagion from any such disease in another household, shall not attend any public school while he is so infected or remains in a household where such infection or exposure exists if the regulations of the board of health require such exclusion. A child returning to school after having been absent on account of such infection or exposure shall present a certificate from the board of health or its duly appointed agent that the danger of conveying such disease by such child has passed; provided, that if such a child returns to school without such a certificate, after having been absent on account of such infection or exposure, he shall immediately be referred to a school physician for examination and, if it is found by such physician upon such examination that such danger has passed, he may remain at school.
+    </text>
+</law>

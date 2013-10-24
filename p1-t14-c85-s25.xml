@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="85" order_by="85" level="3">Regulations And By Laws Relative To Ways And Bridges</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Jurisdiction Of District Court Over Bridges</catch_line>
+    <order_by>25</order_by>
+    <text>
+        District courts in the towns in which the bridge terminates, shall have jurisdiction of complaints for the violation, on such bridges, of the five preceding sections.
+    </text>
+</law>

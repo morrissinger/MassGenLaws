@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>State Board Of Retirement; Reimbursement Of Expense Or Loss</catch_line>
+    <order_by>19</order_by>
+    <text>
+        The members of the state board of retirement shall serve without compensation, but they shall be reimbursed from the expense fund of the state employees’ retirement system for any expense or loss of salary or wages which they may incur through service on the board. All claims for reimbursement on this account shall be subject to the approval of the governor and council.
+    </text>
+</law>

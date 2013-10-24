@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Procedure For Disclosures; Actions Based On Information Disclosed</catch_line>
+    <order_by>57</order_by>
+    <text>
+        <section prefix="a">
+    	     A consumer reporting agency shall make the disclosures required under section fifty-six during normal business hours and on reasonable notice.
+        </section>
+        <section prefix="b">
+    	     The disclosures required under said section fifty-six shall be made to the consumer—
+        </section>
+        <section prefix="1">
+    	     in person if he appears in person and furnishes proper identification; or
+        </section>
+        <section prefix="2">
+    	     by telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer; or
+        </section>
+        <section prefix="3">
+    	     by certified mail, if he has made a written request, return receipt requested, deliver to addressee only.
+        </section>
+        <section prefix="c">
+    	     Any consumer reporting agency shall provide a toll-free telephone number and trained personnel to explain to the consumer any information furnished to him pursuant to section fifty-six.
+        </section>
+        <section prefix="d">
+    	     The consumer shall be permitted to be accompanied by one other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer reporting agency to discuss the consumer’s file in such person’s presence.
+        </section>
+        <section prefix="e">
+    	     Except as provided in sections sixty-three and sixty-four, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to sections fifty-six, fifty-seven or sixty-two except as to false information furnished with malice or willful intent to injure such consumer.
+        </section>
+        <section prefix="f">
+    	     No person shall be held liable for any violation of paragraph (3) of subsection (b) if such person proves by a preponderance of evidence that at the time of the alleged violation such person maintained reasonable procedures to assure compliance with said paragraph (3).
+        </section>
+    </text>
+</law>

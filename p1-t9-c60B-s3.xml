@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60B" order_by="60B" level="3">Excise On Boats, Ships And Vessels In Lieu Of Local Property Tax</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Exemptions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The excise imposed by this chapter shall not apply to vessels described in section eight of chapter fifty-nine and in section sixty-seven of chapter sixty-three; to vessels owned by the commonwealth or any political subdivision thereof; to law enforcement vessels; to vessels under construction; to ferries; to boats, fishing gear and nets owned and actually used by the owner in the prosecution of his business if engaged exclusively in commercial fishing, with a total value of ten thousand dollars or less; nor to other vessels with a value of one thousand dollars or less. Said exemptions shall not subject said vessels and their equipment to any other tax under section four of chapter fifty-nine.
+    </text>
+</law>

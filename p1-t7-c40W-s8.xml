@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40W" order_by="40W" level="3">Massachusetts Growth Capital Corporation</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Program Supporting The Provision Of Financial And Managerial Consulting And Technical Assistance To Recipients Of Financial Assistance From The Commonwealth</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The corporation shall establish a program to support the provision of financial and managerial consulting and technical assistance to eligible companies which receive financial assistance from the commonwealth or any of the commonwealth’s public authorities. Services supported may include, but shall not be limited to, procurement of investment capital, management, administration, production, product marketing, assisting business in securing federal contracts and business expansion, renovation and diversification. The program shall include: (i) referrals to technical assistance provided without charge to eligible companies by public and private small business support organizations; (ii) financial support to engage private consultants; and (iii) a directory of organizations, experts and consultants available to be engaged to offer financial or managerial consulting services.
+        </section>
+        <section prefix="b">
+    	     The corporation shall coordinate the program with the United State Small Business Administration, the Massachusetts Small Business Development Center Network and other private for profit and nonprofit providers of consulting and technical assistance to small businesses. The corporation shall consult with the commonwealth’s public authorities, private business associations and regional economic development organizations in administering the program.
+        </section>
+        <section prefix="c">
+    	     The corporation may provide matching grants to fund consulting and technical assistance to small businesses who receive financial assistance from the commonwealth or any of the commonwealth’s public authorities. The grants shall be used by the recipient businesses to pay for mandated small business consulting and technical assistance services. Prior to awarding a grant, the corporation shall have determined that the financial or managerial consulting services mandated as a condition of financial support of the small business are not available without charge from an entity participating in the program and that procuring such services creates a hardship and impedes the likelihood of success of a project. Grants awarded shall require a 100 percent match by the recipient.
+        </section>
+    </text>
+</law>

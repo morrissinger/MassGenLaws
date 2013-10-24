@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Use Of System In Describing Locations Of Survey Stations Or Land Boundary Points</catch_line>
+    <order_by>17</order_by>
+    <text>
+        For the purpose of describing the location of any survey station or land boundary point in the commonwealth it shall be a complete, legal and satisfactory description of such location to give the position of said survey station or land boundary point on the Massachusetts Coordinate System. Nothing contained in sections eight to seventeen, inclusive, shall be interpreted as requiring any purchaser or mortgagee to rely exclusively on a description based on said system.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61B" order_by="61B" level="3">Classification And Taxation Of Recreational Land</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Tax List Of Board Of Assessors; Information Required</catch_line>
+    <order_by>17</order_by>
+    <text>
+        The factual details to be shown on the tax list of a board of assessors with respect to land which is valued, assessed and taxed under this chapter shall be the same as those set forth by said board with respect to other taxable property in the same city or town.
+    </text>
+</law>

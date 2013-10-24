@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21N" order_by="21N" level="3">Climate Protection And Green Economy Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Advisory Committee</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The secretary shall convene an advisory committee to advise the executive office in overseeing the greenhouse emissions reduction measures. The advisory committee shall consist of representatives from the following sectors: commercial, industrial and manufacturing; transportation; low-income consumers; energy generation and distribution; environmental protection; energy efficiency and renewable energy; local government; and academic institutions.
+    </text>
+</law>

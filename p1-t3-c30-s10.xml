@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Officers Requiring Gubernatorial Appointments; Filling Vacancies</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Any vacancy in any office, the original appointment to which is required by law to be made by the governor, with or without the advice and consent of the council, and for which no other method of filling vacancies is expressly provided by law, shall be filled for the unexpired term in the manner provided for an original appointment; and the appointment of a successor of any incumbent of any such office who is holding over after the expiration of his term of office shall be made in like manner for the remainder of the term which would have begun at such expiration if his successor had then been appointed.
+    </text>
+</law>

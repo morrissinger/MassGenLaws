@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15C" order_by="15C" level="3">Massachusetts College Student Loan Authority</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Refunding Of Outstanding Revenue Bonds Or Notes; Investment And Reinvestment Of Proceeds; Additional Loans</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The Authority is hereby authorized to provide for the issuance of revenue bonds or notes of the Authority for the purposes of refunding any revenue bonds or notes of the Authority then outstanding, including the payment of any redemption premium thereon and any interest accrued or to accrue to the earliest or any subsequent date of redemption, purchase or maturity of such revenue bonds or notes, and, if deemed advisable by the Authority, for the additional purpose of making an additional Authority loan.
+        </section>
+        <section prefix="b">
+    	     The proceeds of any such revenue bonds or notes issued for the purpose of refunding outstanding revenue bonds may, in the discretion of the Authority, be applied to the purchase or retirement at maturity or redemption of such outstanding revenue bonds either on their earliest or any subsequent redemption date or upon the purchase or at the maturity thereof and may, pending such application, be placed in escrow to be applied to such purchase or retirement at maturity or redemption on such date as may be determined by the Authority.
+        </section>
+        <section prefix="c">
+    	     Any such escrowed proceeds pending such use may be invested and reinvested in direct obligations of the United States, or in certificates of deposit or time deposits secured by direct obligations of the United States, maturing at such time or times as shall be appropriate to assure the prompt payment, as to principal, interest and redemption premium, if any, of the outstanding revenue bonds to be so refunded. The interest, income and profits, if any, earned or realized on any such investment may also be applied to the payment of the outstanding revenue bonds to be so refunded. After the terms of the escrow have been fully satisfied and carried out, any balance of such proceeds and interest, income and profits, if any, earned or realized on the investments thereof may be returned to the Authority for use by it in any lawful manner.
+        </section>
+        <section prefix="d">
+    	     The portion of the proceeds of any such revenue bonds or notes issued for the additional purpose of making additional Authority loans may be invested and reinvested in direct obligations of the United States, or in certificates of deposit or time deposits secured by direct obligations of the United States, maturing not later than the time or times when such proceeds will be needed for the purpose of paying all or any part of such cost. The interest, income and profits, if any, earned or realized on such investment may be applied to the payment of all or any part of such cost or may be used by the Authority in any lawful manner.
+        </section>
+        <section prefix="e">
+    	     All such revenue bonds or notes shall be subject to the provisions of this chapter in the same manner and to the same extent as other revenue bonds issued pursuant to this chapter.
+        </section>
+    </text>
+</law>

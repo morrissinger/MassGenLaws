@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21A" order_by="21A" level="3">Executive Office Of Energy And Environmental Affairs</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Competitive Procurement Of Electric Generation</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The secretary, in conjunction with the secretary of administration and finance, shall design and implement a bidding process for the competitive procurement of electric generation on behalf of any agency, executive office, department, board, commission, bureau, division or authority of the commonwealth procuring electricity from a local distribution company via basic service under section 1B of chapter 164. Any such competitive bid received shall include payment options with rates that remain uniform for a minimum period of 1 year. In lieu of designing and implementing a competitive bidding process as required by this section, the secretary may become a member of programs organized and administered by the Health and Educational Facilities Authority or its subsidiary organization for the purpose of such competitive group purchasing of electricity.
+    </text>
+</law>

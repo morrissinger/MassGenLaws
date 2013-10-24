@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70" order_by="70" level="3">School Funds And State Aid For Public Schools</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Reports On Amounts Spent For Certain Expenses</catch_line>
+    <order_by>9</order_by>
+    <text>
+        School districts shall report each fiscal year to the commissioner of education on the amounts spent for extraordinary maintenance, extended programming, professional development, and books and instructional equipment. To the extent that the amounts spent for these purposes fall short of the allotments defined in this chapter, the superintendent shall explain the reasons for the shortfall. 
+School districts shall report each fiscal year to the commissioner of education on the amounts spent for administrative expenses. To the extent that the amounts spent for these purposes exceed the allotments defined in this chapter, the superintendent shall explain the reasons for the additional costs.
+    </text>
+</law>

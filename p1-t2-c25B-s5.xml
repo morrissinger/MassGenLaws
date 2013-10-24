@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25B" order_by="25B" level="3">Massachusetts Appliance Efficiency Standards Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Establishment Of Energy Efficiency Standards; Revision</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     New medium voltage dry-type distribution transformers, single voltage external AC to DC power supplies, and state-regulated incandescent reflector lamps manufactured on or after January 1, 2008, shall not be sold or offered for sale in the commonwealth unless the efficiency of the new product meets or exceeds the efficiency standards set forth in 225 CMR 9.03.
+        </section>
+        <section prefix="2">
+    	     Metal halide lamp fixtures designed to be operated with lamps rated greater than or equal to 150 watts but less than or equal to 500 watts shall not contain a probe-start metal halide ballast.
+        </section>
+        <section prefix="3">
+    	     Residential furnaces or boilers shall meet or exceed the following Annual Fuel Utilization Efficiency (AFUE):
+        </section>
+        <section prefix="4">
+    	     Single-voltage external AC to DC power supplies shall meet the tier 1 energy efficiency requirements of California Code of Regulations, Title 20, This standard applies to single-voltage AC to DC power supplies that are sold individually and to those that are sold as a component of or in conjunction with another product.
+        </section>
+        <section prefix="5">
+    	     State-regulated incandescent reflector lamps shall meet the minimum average lamp efficiency requirements for federally-regulated incandescent reflector lamps contained in 42 U.S.C. section 6295 (i)(1)(A). The following lamps are exempt from these requirements: ER30, BR30, BR40 and ER40 of 50 watts or less; BR30, BR40 and ER40 of 65 watts; and R20 of 45 watts or less.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>Retaliatory Taxes; Applicability And Reciprocal Exemption;  Definition</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        As used herein, “retaliatory taxes” means those taxes imposed upon insurance companies organized in another state or country which result from the fact that an insurance company organized in the taxing jurisdiction and doing business in such other state or country is taxable in an amount exceeding that imposed by the taxing jurisdiction upon an insurance company organized in such other state or country and doing business to the same extent in the taxing jurisdiction.
+    </text>
+</law>

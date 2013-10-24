@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Examinations; Investigations; General Or Special Hearings;  Opportunity To Appear And Be Heard; Evidence</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner or his authorized agent, may hold any examination or investigation, or any general or special hearing required or authorized under this chapter, at such places and at such times as the commissioner deems necessary for the proper administration of this chapter.
+        </section>
+        <section prefix="b">
+    	     Before adopting, altering or rescinding any general order, rule or regulation, the commissioner shall hold a general hearing upon the subject matter thereof, and afford all persons interested an opportunity to offer evidence pertinent thereto.
+        </section>
+        <section prefix="c">
+    	     Before declining to grant a license, or granting a conditional or limited license, or suspending or revoking a license, or adopting any other special order, rule or regulation applying only to one or more persons named therein, the commissioner shall hold a special hearing, and afford to the applicant or licensee, or such person or persons, opportunity to appear and be heard with respect thereto.
+        </section>
+    </text>
+</law>

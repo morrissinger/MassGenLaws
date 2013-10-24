@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Place Of Record</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Every deed and other instrument required to be recorded in the registry of deeds shall be recorded in the registry of deeds for the district where the land lies to which such deed or instrument relates; and in all things relating to the register or registry of deeds, each district therefor shall be deemed a county.
+    </text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Vaccination And Immunization</catch_line>
+    <order_by>15</order_by>
+    <text>
+        No child shall, except as hereinafter provided, be admitted to school except upon presentation of a physician’s certificate that the child has been successfully immunized against diphtheria, pertussis, tetanus, measles and poliomyelitis and such other communicable diseases as may be specified from time to time by the department of public health. 
+A child shall be admitted to school upon certification by a physician that he has personally examined such child and that in his opinion the physical condition of the child is such that his health would be endangered by such vaccination or by any of such immunizations. Such certification shall be submitted at the beginning of each school year to the physician in charge of the school health program. If the physician in charge of the school health program does not agree with the opinion of the child’s physician, the matter shall be referred to the department of public health, whose decision will be final. 
+In the absence of an emergency or epidemic of disease declared by the department of public health, no child whose parent or guardian states in writing that vaccination or immunization conflicts with his sincere religious beliefs shall be required to present said physician’s certificate in order to be admitted to school.
+    </text>
+</law>

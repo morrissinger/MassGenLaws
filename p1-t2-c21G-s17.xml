@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>State Of Water Emergency; Orders</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="1">
+    	     Establish priorities for the distribution of any water or quantity of water use;
+        </section>
+        <section prefix="2">
+    	     Permit any person engaged in the operation of a water supply system to reduce or increase by a specified amount or to cease the distribution of that water; to distribute a specified amount of water to certain users as specified by the department; or to share any water with other water supply systems;
+        </section>
+        <section prefix="3">
+    	     Direct any person to reduce, by a specified volume, the withdrawal or use of any water; or to cease the withdrawal or use of any water;
+        </section>
+        <section prefix="4">
+    	     Require the implementation of specific water conservation measures; and
+        </section>
+        <section prefix="5">
+    	     Mandate the denial, for the duration of the state of water emergency, of all applications for withdrawal permits within the areas of the commonwealth to which the state of water emergency applies.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Collection From Decedents’ Estates</catch_line>
+    <order_by>36</order_by>
+    <text>
+        If a person assessed for a tax dies or becomes insolvent before the payment thereof, or if a tax is assessed upon the estate of a deceased person, the executor, administrator or assignee shall, if a demand has been made on him therefor, forthwith on receipt of any money applicable to the payment of the tax, pay the same, and in default shall be personally liable therefor as for his own tax.
+    </text>
+</law>

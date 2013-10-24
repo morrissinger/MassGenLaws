@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Injunctive Relief</catch_line>
+    <order_by>22</order_by>
+    <text>
+        The attorney general may, upon request of the department, bring action for injunctive relief against any person violating a provision of this chapter or any regulation or approval issued or adopted hereunder, and the superior court in equity shall have jurisdiction to enjoin such violation and to grant such further relief as it may deem appropriate.
+    </text>
+</law>

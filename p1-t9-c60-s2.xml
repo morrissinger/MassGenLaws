@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Collection; Payment Over; Returns; Abatement</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Every collector of taxes, constable, sheriff or deputy sheriff, receiving a tax list and warrant from the assessors, shall collect the taxes therein set forth, with interest, and pay over said taxes and interest to the city or town treasurer according to the warrant, and shall make written return thereof with his tax list and of his doings thereon at such times as the assessors shall in writing require. He shall also give to the treasurer an account of all charges and fees collected by him. He shall, once in each week or more often, pay over to the treasurer all money received by him for taxes and interest during the preceding week or lesser period together with any interest earned as a result of depositing said taxes and interest received. 
+In cities and towns which accept the provisions of this paragraph, no tax shall be collected if the actual tax due is less than ten dollars. If a tax committed to the collector is unpaid and is less than ten dollars, the collector shall request in writing that the assessors abate the tax. Upon receipt of such request, the assessors shall forthwith abate such tax and certify such abatement in writing to the collector. Said certificate of abatement shall discharge the collector from further obligation to collect the tax so abated.
+    </text>
+</law>

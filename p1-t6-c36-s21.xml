@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Marginal References On Record Of Instruments Affecting Certain Mortgages</catch_line>
+    <order_by>21</order_by>
+    <text>
+        When an instrument described in the preceding section affecting a mortgage is recorded, and it refers by book and page to the record of the mortgage, the register shall enter upon the margin of such record, if in the same registry, a notation of the record of the instrument containing such reference.
+    </text>
+</law>

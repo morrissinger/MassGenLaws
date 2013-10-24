@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>19L</section_number>
+    <catch_line>Massachusetts Library And Information Network</catch_line>
+    <order_by>19L</order_by>
+    <text>
+        The board of library commissioners shall, subject to appropriation, establish and administer a program for the purposes of providing funds for a Massachusetts library and information network. Grants and contracts awarded under this section shall be awarded for, but not limited to, purchase of computer equipment and software, acquisition of telecommunications equipment, development of information and referral services, and training. The board shall establish minimum requirements to be met by all applicants under this program.
+    </text>
+</law>

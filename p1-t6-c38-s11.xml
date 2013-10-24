@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="38" order_by="38" level="3">Medical Examiners And Inquests</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Persons Charged With Crime; Arrest</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If a person charged by an inquest report with the commission of a crime is at large, the district court, upon the request of the district attorney, shall forthwith issue process for such person’s arrest, returnable before any court or magistrate having jurisdiction.
+    </text>
+</law>

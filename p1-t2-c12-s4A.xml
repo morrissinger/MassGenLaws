@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Acceptance Of Gifts Or Grants Of Money Or Property</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        The department may accept any gifts or grants of money or property, whether real or personal, from any source, whether public or private, including but not limited to the United States of America or its agencies, for the purpose of assisting the department in the discharge of its duties.
+    </text>
+</law>

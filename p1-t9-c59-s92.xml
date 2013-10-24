@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>92</section_number>
+    <catch_line>Taverns And Boarding Houses; Refusing Information; Penalties</catch_line>
+    <order_by>92</order_by>
+    <text>
+        Keepers of taverns and boarding houses and masters and mistresses of dwelling houses, upon application of an assessor or assistant assessor of the town where their house is situated, shall give the names of all persons residing therein liable to be assessed for taxes. Every such keeper, master or mistress refusing to give such information, or knowingly giving false information, shall be punished by a fine of twenty dollars.
+    </text>
+</law>

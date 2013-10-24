@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40J" order_by="40J" level="3">Massachusetts Technology Park Corporation</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Annual Audit</catch_line>
+    <order_by>9</order_by>
+    <text>
+        The books and records of the corporation shall be subject to an annual audit by the auditor of the commonwealth.
+    </text>
+</law>

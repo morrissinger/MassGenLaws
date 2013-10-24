@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23J" order_by="23J" level="3">Massachusetts Clean Energy Technology Center</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Application Of Other Laws To Center</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The center shall be subject to section 16G of chapter 6A and section 56 of chapter 23A.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Blind Persons; Examinations; Temporary Appointment Of Persons With An Intellectual Disability</catch_line>
+    <order_by>47</order_by>
+    <text>
+        <section prefix="1">
+    	     the specific title and duties to be assigned to such person with an intellectual disability and the title of his immediate supervisor;
+        </section>
+        <section prefix="2">
+    	     a certificate from the Massachusetts rehabilitation commission that the person with an intellectual disability: (a) can satisfactorily perform the duties of the position, (b) is qualified to do the work without hazard to himself or to others, and (c) is socially competent to maintain himself in a work environment;
+        </section>
+        <section prefix="3">
+    	     a statement that it will fully utilize the services of the Massachusetts rehabilitation commission for assistance to the employee’s immediate supervisor in the training and supervision of the employee and for post-placement counseling of the employee;
+        </section>
+        <section prefix="4">
+    	     a statement that it will not terminate the person with an intellectual disability’s employment without prior notification to the Massachusetts rehabilitation commission.
+        </section>
+    </text>
+</law>

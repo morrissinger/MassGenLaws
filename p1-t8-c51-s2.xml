@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Name Of Registered Voter Changed</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A registered voter who chooses to adopt a new name shall continue to be registered in his former name until June first of the following year at which time the voter shall be registered in his new name; provided, however, that if such voter appears in person prior to the close of registration for any preliminary, primary, or election to notify the registrars of such adoption of a new name, the registrars shall correct the current annual register so that such voter shall be registered in his new name. 
+If a voter does not choose to adopt a new name as a result of marriage, the registrars shall make no change in the name of such voter entered in the current annual register.
+    </text>
+</law>

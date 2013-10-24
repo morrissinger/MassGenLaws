@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The provisions of this chapter shall, so far as pertinent and consistent, apply to the taxes imposed by chapter sixty A; by chapters sixty-two through sixty-five C, inclusive; by section ten of chapter one hundred and twenty-one A; by section twenty-one of chapter one hundred and thirty-eight; and by any act in addition thereto or amendment thereof.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>87</section_number>
+    <catch_line>Directions To Collectors; Ordinances Or By Laws</catch_line>
+    <order_by>87</order_by>
+    <text>
+        A city or town may, by ordinance or by-law, respectively, direct whether its collector shall exercise the power of sale or the power of taking to enforce the lien for taxes; and in default of such ordinance or by-law the collector may exercise either power at his discretion; but the passage of any such ordinance or by-law shall not render invalid any proceedings then pending.
+    </text>
+</law>

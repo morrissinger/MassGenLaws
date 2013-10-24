@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>67A</section_number>
+    <catch_line>Shows; Registration Certificates</catch_line>
+    <order_by>67A</order_by>
+    <text>
+        <section prefix="a">
+    	     Every promoter of a show within the commonwealth shall, at least ten days prior to the opening of such show, file with the commissioner, in such form as the said commissioner may prescribe, a notice stating the location and dates of such show.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall, within five days after the receipt of any such notice, issue to the promoter, without charge, a registration certificate to operate such show, except as hereinafter provided. No promoter shall rent, lease or grant a license to use space for a show or operate a show without obtaining such registration certificate. Such registration certificate shall be prominently displayed at the main entrance to the show. If a notice required under this section has been filed, and if a registration certificate has not been received by the promoter prior to the opening of the show, the requirements contained in this section with respect to obtaining and displaying such a registration shall be deemed to have been complied with. A promoter shall have a right to a hearing before the commissioner to contest any notice of denial by the commissioner of such registration certificate.
+        </section>
+        <section prefix="c">
+    	     Any promoter who is a vendor under the provisions of chapter sixty-four H shall comply with all the provisions of said chapter sixty-four H applicable to vendors and with all of the provisions of this chapter relating to promoters.
+        </section>
+        <section prefix="d">
+    	     A promoter shall not permit any person to display for sale or to sell tangible personal property subject to tax under chapter sixty-four H at a show unless such person is registered under section sixty-seven as a vendor and displays his certificate of registration in accordance with the provisions of said section.
+        </section>
+        <section prefix="e">
+    	     Any promoter who fails to file a notice of a show, operates a show without a registration certificate, fails to file a report of a show, files a report which is wilfully false, or fails to comply with any provision contained in this chapter or any regulation promulgated by the commissioner pertaining to shows shall, after hearing, be subject to the revocation of all existing registration certificates issued, pursuant to this section. The commissioner may, after such hearing, issue an order denying such promoter a registration certificate to operate a show for a period of not more than six months from the date of such order. Such penalty shall be in addition to any other penalty imposed by this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43B" order_by="43B" level="3">Home Rule Procedures</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Hearings Before Charter Commission; Reports Of Commission</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Within forty-five days after its election, the charter commission shall hold a public hearing.
+        </section>
+        <section prefix="b">
+    	     Within sixteen months after its election, the charter commission shall prepare a preliminary report including the text of the charter or charter revision which the commission intends shall be submitted to the voters and any explanatory information the commission deems desirable, shall cause such report to be published in a newspaper having general circulation in the city or town, shall provide sufficient copies of the preliminary report to the city or town clerk to permit its distribution to each registered voter requesting the same, and shall furnish two copies to the attorney general and two copies to the department of housing and community development. Within four weeks after such publication, the commission shall hold one or more public hearings upon the report. Within four weeks after his receipt of the report, the attorney general shall furnish the commission with a written opinion setting forth any conflict between the proposed charter or charter revision and the constitution and laws of the commonwealth. A copy of the opinion shall at the same time be furnished to the department of housing and community development.
+        </section>
+        <section prefix="c">
+    	     Within eighteen months after its election, the charter commission shall submit to the city council or board of selectmen its final report, which shall include the full text and an explanation of the proposed new charter or charter revision, such comments as the commission deems desirable, an indication of the major differences between the current and proposed charters, and a statement of not more than one thousand words by the commission minority, if any, provided such statement is filed with the chairman of the commission within forty-eight hours after the commission’s vote approving such report. A copy of said final report shall also be submitted to the department of housing and community development and to the attorney general.
+        </section>
+        <section prefix="d">
+    	     All public hearings before a charter commission shall be held within the city or town at such time and place as may be specified in a notice published at least ten days prior to the hearing in a newspaper having general circulation in the city or town, but hearings may be adjourned from time to time without further published notice.
+        </section>
+    </text>
+</law>

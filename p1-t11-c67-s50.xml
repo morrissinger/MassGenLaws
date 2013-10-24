@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>By Laws</catch_line>
+    <order_by>50</order_by>
+    <text>
+        The church may make by-laws and may prescribe therein the manner in which and the officers and agents by whom the purposes of its incorporation may be effected. If no provision is made by a vote or by-law of the church for calling meetings, they shall be called in such manner as the standing committee may direct.
+    </text>
+</law>

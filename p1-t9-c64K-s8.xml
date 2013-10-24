@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64K" order_by="64K" level="3">Controlled Substances Tax</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Tax Rates</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="1">
+    	     on each gram of marihuana, or each portion of a gram, three dollars and fifty cents; and
+        </section>
+        <section prefix="2">
+    	     on each gram of controlled substance, or portion of a gram, two hundred dollars; or
+        </section>
+        <section prefix="3">
+    	     on each fifty dosage units of a controlled substance that is not sold by weight, or a portion thereof, two thousand dollars.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60B" order_by="60B" level="3">Excise On Boats, Ships And Vessels In Lieu Of Local Property Tax</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Ship And Vessel Information</catch_line>
+    <order_by>6</order_by>
+    <text>
+        The commissioner of corporations and taxation shall annually transmit to the director of marine and recreational vehicles a list of all ships or vessels documented as of July first under the laws of the United States whose owners reside in Massachusetts. The boat list shall include for each boat the name and residence of the registered owner, the documentation number, type, length, and model year of the boat and type and horsepower of the engine or motor used to propel said boat and the city or town in which it is habitually moored or docked.
+    </text>
+</law>

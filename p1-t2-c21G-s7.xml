@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Issuance Of Permits; Criteria And Standards</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     The impact of the proposed withdrawal on other water sources which are hydrologically interconnected with the water source from which the withdrawal is to be made;
+        </section>
+        <section prefix="2">
+    	     The anticipated times of year when withdrawals will be made;
+        </section>
+        <section prefix="3">
+    	     The water available within the safe yield of the water source from which the withdrawal is to be made;
+        </section>
+        <section prefix="4">
+    	     Reasonable protection of water uses, land values, investments and enterprises that are dependent on previously allowable withdrawals;
+        </section>
+        <section prefix="5">
+    	     The use to be made of the water proposed to be withdrawn and other existing, presently permitted or projected uses of the water source from which the withdrawal is to be made;
+        </section>
+        <section prefix="6">
+    	     Any water resources management plan for any city or town in which the affected water source is located;
+        </section>
+        <section prefix="7">
+    	     Any state water resources management plan adopted by the commission;
+        </section>
+        <section prefix="8">
+    	     Reasonable conservation practices and measures, consistent with efficient utilization of the water;
+        </section>
+        <section prefix="9">
+    	     Reasonable protection of public drinking water supplies, water quality, wastewater treatment capacity, waste assimilation capacity, groundwater recharge areas, navigation, hydropower resources, water-based recreation, wetland habitat, fish and wildlife, agriculture, and flood plains; and
+        </section>
+        <section prefix="10">
+    	     Reasonable economic development and the creation of jobs in the commonwealth.
+        </section>
+    </text>
+</law>

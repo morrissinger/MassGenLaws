@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Agreement As To Total Tax Due From Trustees</catch_line>
+    <order_by>16</order_by>
+    <text>
+        For the purpose of facilitating the settlement and distribution of estates held by trustees and the other fiduciaries named in section thirteen, the commissioner may on behalf of the commonwealth agree on the amount of taxes at any time due or to become due from such estates under this chapter, and payment in accordance with such agreement shall be full satisfaction of the taxes to which the agreement relates.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21N" order_by="21N" level="3">Climate Protection And Green Economy Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Projected 2020 Business As Usual Level; Adoption Of Statewide Greenhouse Gas Emissions Limits; Levels And Limits For Electric Sector;  Establishment Of Declining Annual Aggregate Limit</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall, pursuant to chapter 30A, determine the statewide greenhouse gas emissions level in calendar year 1990 and reasonably project what the emissions level will be in calendar year 2020 if no measures are imposed to lower emissions other than those formally adopted and implemented as of January 1, 2009. This projection shall hereafter be referred to as the projected 2020 business as usual level.
+        </section>
+        <section prefix="b">
+    	     The secretary shall, in consultation with the department and the department of energy resources, adopt the following statewide greenhouse gas emissions limits: (1) a 2020 statewide emissions limit and a plan to achieve that limit pursuant to section 4; (2) an interim 2030 emissions limit accompanied by plans to achieve this limit in accordance with said section 4; provided, however, that the 2030 interim emissions limits shall maximize the ability of the commonwealth to meet the 2050 emissions limit; (3) an interim 2040 emissions limit accompanied by plans to achieve this limit in accordance with said section 4; provided, however, that the 2040 interim emissions limit shall maximize the ability of the commonwealth to meet the 2050 emissions limit; and (4) a 2050 statewide emissions limit that is at least 80 per cent below the 1990 level.
+        </section>
+        <section prefix="c">
+    	     Emissions levels and limits associated with the electric sector shall be established by the executive office and the department, in consultation with the department of energy resources, based on consumption and purchases of electricity from the regional electric grid, taking into account the regional greenhouse gas initiative and the renewable portfolio standard.
+        </section>
+        <section prefix="d">
+    	     The department shall promulgate regulations establishing a desired level of declining annual aggregate emission limits for sources or categories of sources that emit greenhouse gas emissions.
+        </section>
+    </text>
+</law>

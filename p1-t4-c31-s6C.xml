@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>6C</section_number>
+    <catch_line>Employee Disagreement With Evaluation; Appeal</catch_line>
+    <order_by>6C</order_by>
+    <text>
+        <section prefix="a">
+    	     Within ten days after the employee has reviewed the original evaluation, he may appeal the evaluation to a neutral party selected by the appointing authority to review the evaluation.
+        </section>
+        <section prefix="b">
+    	     Within ten days of receipt of a decision on employee’s appeal outlined in paragraph (a), the employee or the employer may appeal an evaluation to a three-member panel appointed by the appointing authority, in conjunction with representatives of labor.
+        </section>
+        <section prefix="c">
+    	     Within ten days receipt of a decision on an appeal provided for in paragraph (b) the employer or the employee may further appeal the evaluation to the civil service commission. The commission shall, within twenty-one days after the close of such hearing or the evaluation, render a written decision and send notice thereof to all parties concerned.
+        </section>
+    </text>
+</law>

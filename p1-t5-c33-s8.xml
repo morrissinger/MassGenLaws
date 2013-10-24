@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Powers Of Commander In Chief; Provisional Officers</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The commander-in-chief may, to recruit the organized militia, appoint provisional officers for such units as he may from time to time create by orders in accordance with this chapter. Such provisional officers, subject to removal by the commander-in-chief and until their successors are qualified as provided by the constitution and laws of the commonwealth, shall exercise the same military authority over their several commands as is specified in the said laws for duly qualified officers of the organized militia.
+    </text>
+</law>

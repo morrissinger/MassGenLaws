@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Distinguishing Marks On Ballots</catch_line>
+    <order_by>53</order_by>
+    <text>
+        Whoever places a mark against a name on a ballot not cast by himself, or places a distinguishing mark on a ballot not cast by himself, except as authorized by law, shall be punished by imprisonment for not more than two and one half years.
+    </text>
+</law>

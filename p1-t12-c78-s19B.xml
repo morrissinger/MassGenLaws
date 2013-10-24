@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>19B</section_number>
+    <catch_line>State Aid; Annual Reports By Libraries; Requisites For Aid</catch_line>
+    <order_by>19B</order_by>
+    <text>
+        <section prefix="1">
+    	     be open to all residents of the commonwealth,
+        </section>
+        <section prefix="2">
+    	     make no charge for normal library services,
+        </section>
+        <section prefix="3">
+    	     be kept open a minimum number of hours per week,
+        </section>
+        <section prefix="4">
+    	     employ trained personnel in accordance with regulations promulgated by the board of library commissioners; provided, however, that in cities of more than one hundred and fifty thousand residents, nothing in said regulations shall prevent the appointing authority from employing a chief executive officer of the library system in addition to the chief librarian,
+        </section>
+        <section prefix="5">
+    	     expend a reasonable portion of the library’s total budget on library materials,
+        </section>
+        <section prefix="6">
+    	     lend books to other libraries in the commonwealth and extend privileges to the holders of cards issued by other public libraries in the commonwealth on a reciprocal basis,
+        </section>
+        <section prefix="7">
+    	     include in their annual report the total number of nonresident loans and nonresident circulation as a percentage of the library’s total circulation, as certified by the librarian and subject to an audit by the state auditor.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="29C" order_by="29C" level="3">Water Pollution Abatement Revolving Loan Program</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Additional Authorized Applications And Disbursements Of Fund Monies And Revenues; Contract Assistance Agreements; Criteria For Zero Rate Of Interest Loans</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="i">
+    	     after taking account of any grant made by the department pursuant to section 33E of chapter 21, to provide, and enter into binding commitments to provide, a subsidy for, or to otherwise assist local governmental units in the payment of, debt service costs on loans and other forms of financial assistance made by the trust; and
+        </section>
+        <section prefix="ii">
+    	     to provide reserves for, or to otherwise secure, amounts payable by local governmental units on loans and other forms of financial assistance made by the trust pursuant to this chapter.
+        </section>
+        <section prefix="1">
+    	     the project is primarily intended to remediate or prevent nutrient enrichment of a surface water body or a source of water supply;
+        </section>
+        <section prefix="2">
+    	     the applicant is not currently subject, due a violation of a nutrient-related total maximum daily load standard or other nutrient based standard, to a department of environmental protection enforcement order, administrative consent order or unilateral administrative order, enforcement action by the United States Environmental Protection Agency or subject to a state or federal court order relative to the proposed project;
+        </section>
+        <section prefix="3">
+    	     the applicant has a Comprehensive Wastewater Management Plan approved pursuant to regulations adopted by the Department of Environmental Protection;
+        </section>
+        <section prefix="4">
+    	     the project has been deemed consistent with the regional water resources management plans if one exists;
+        </section>
+        <section prefix="5">
+    	     the applicant has adopted land use controls, subject to the review and approval of the department of environmental protection in consultation with the department of housing and economic development and, where applicable any regional land use regulatory entity, intended to limit wastewater flows to the amount authorized under zoning and wastewater regulations as of the date of the approval of the CWMP.
+        </section>
+    </text>
+</law>

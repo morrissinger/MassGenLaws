@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Security Interest In Vehicle; Requirements Of Owner, Lienholder And Subordinate Lienholder</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     The owner shall immediately execute the application, in the space provided therefor on the certificate of title or on such separate form as the registrar shall prescribe, to name the lienholder on the certificate, showing the name and address of the lienholder and the date of his security agreement, and cause the certificate, application and the required fee to be mailed or delivered to the lienholder or, at the lienholder’s request to the registrar.
+        </section>
+        <section prefix="b">
+    	     The lienholder shall immediately cause the certificate, application and the required fee to be mailed or delivered to the registrar.
+        </section>
+        <section prefix="c">
+    	     Upon request of the owner or subordinate lienholder, a lienholder in possession of the certificate of title shall either mail or deliver the certificate to the subordinate lienholder for delivery to the registrar or, upon receipt from the subordinate lienholder of the owner’s application and the required fee, mail or deliver them to the registrar with the certificate. The delivery of the certificate does not affect the rights of the first lienholder under his security agreement.
+        </section>
+        <section prefix="d">
+    	     Upon receipt of the certificate of title, application and the required fee, the registrar shall either endorse on the certificate or issue a new certificate containing the name and address of the new lienholder, and mail the certificate to the first lienholder named in it.
+        </section>
+    </text>
+</law>

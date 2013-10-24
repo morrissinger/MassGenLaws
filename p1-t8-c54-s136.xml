@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>136</section_number>
+    <catch_line>Information Regarding Ballots Cast By Challenged Voters</catch_line>
+    <order_by>136</order_by>
+    <text>
+        No officer recounting ballots shall, except as required by law, make any statement or give any information relative to a ballot cast by a challenged voter.
+    </text>
+</law>

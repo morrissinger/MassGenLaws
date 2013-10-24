@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Librarians; Appointment; Examination; Registration</catch_line>
+    <order_by>20</order_by>
+    <text>
+        The board may determine by examination or by such rules as it may establish the selection and appointment of supervising librarians and all other library workers who are paid wholly or in part, under the authority of said board, by the commonwealth. Such selection and appointment shall not be subject to chapter thirty-one. 
+In order to assist library trustees who seek advice from the board in securing qualified librarians and assistants, the board shall keep a registry of librarians which shall give due credit for experience and successful accomplishment as well as for formal examination.
+    </text>
+</law>

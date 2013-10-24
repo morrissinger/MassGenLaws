@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Marketing Agreements; Mandatory Non Waiverable Provisions</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     No agreement between a retail dealer and a supplier shall require a retail dealer to keep his station open for business any specified number of hours per day or days per week.
+        </section>
+        <section prefix="b">
+    	     No party to a marketing agreement with a retail dealer shall withhold his consent to any assignment, transfer or sale of the marketing agreement without first notifying the retail dealer in writing within thirty days prior to the effective date of said agreement, transfer or sale, stating the specific grounds for such refusal to consent to said assignment, transfer, or sale.
+        </section>
+        <section prefix="c">
+    	     A supplier who requires in a marketing agreement a security deposit for a period of one year or longer for the use of a service station or delivery of fuel shall, beginning with the first day of the agreement, pay interest at the rate of six percent per year, payable to the retail dealer within thirty days after the termination of said agreement. The supplier shall return the security deposit or any balance thereof, and interest thereon, after deducting the amount of any damage caused by the retail dealer or any person on the demised premises with his knowledge or consent, reasonable wear and tear excepted, and less any unpaid rent or other indebtedness.
+        </section>
+    </text>
+</law>

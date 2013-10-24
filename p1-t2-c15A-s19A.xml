@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>19A</section_number>
+    <catch_line>Student Loan Repayment Program; Guidelines; Expenses For Administration</catch_line>
+    <order_by>19A</order_by>
+    <text>
+        <section prefix="1">
+    	     eligibility for the program shall be limited to persons who have graduated in the top 15 per cent of their undergraduate classes or who have graduated with honors designations, as certified by the institution attended by any such applicant;
+        </section>
+        <section prefix="2">
+    	     eligibility shall be limited to persons entering the teaching profession after July first, nineteen hundred and ninety-four;
+        </section>
+        <section prefix="3">
+    	     the commonwealth shall repay a participating teacher’s student loan at a rate not to exceed one hundred and fifty dollars per month for a period not to exceed forty-eight months;
+        </section>
+        <section prefix="4">
+    	     repayment shall be made to the participating teacher annually upon the presentation by the participating teacher of satisfactory evidence of payments under the loan;
+        </section>
+        <section prefix="5">
+    	     payments by the commonwealth shall cover only loan payments made by the participating teacher in the months during which the participating teacher teaches in public school in the commonwealth;
+        </section>
+        <section prefix="6">
+    	     the program may or may not be limited to teachers who teach in school districts designated by the board of education;
+        </section>
+        <section prefix="7">
+    	     the program shall set forth an affirmative action policy and specific annual affirmative action goals. The council shall annually publish a report detailing its efforts to publicize the loan repayment program in order to advance the goals of this affirmative action policy and its success in meeting those goals.
+        </section>
+    </text>
+</law>

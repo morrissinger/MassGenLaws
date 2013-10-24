@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>Persons Retired For Disability; Certification For Reinstatement</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who has been retired for disability pursuant to section 6, 7, or 26 of chapter 32 who, upon return to active service in the same position, would so return in the position of a sworn member of the department of state police and is subsequently determined capable of employment as a sworn member of the state police pursuant to subdivision (5) of section 26 of chapter 32 by the rating board, as defined in subdivision (1) of said section 26, shall be placed in such position prior to the appointment from an eligible list or promotional list established pursuant to the provisions of section 11 or 26; provided, however, that such member shall, upon petition to the colonel, obtain the prior written certification by the colonel, as a condition for placement under this section; provided, further, that such member, shall not return to work in such position if such member does not meet the appointment standards of said department as set forth in section 14 of chapter 22C. If the member seeking to return to work in the position of a sworn member of said department exceeds a one year in break of service, the colonel shall not allow the member to return to such position if the member fails to successfully pass a background investigation, drug testing, applicable physical fitness testing, psychological testing, and complete retraining as determined by the colonel.
+        </section>
+        <section prefix="b">
+    	     The colonel shall, within 40 days immediately following the receipt of a written petition for certification, either certify the petitioner for reinstatement or deny such petition for certification and serve written notice of such denial and of the reason therefor upon the applicant by first class mail, postage prepaid; provided, however, that the colonel shall deny such request submitted by or on behalf of any petitioner who is disqualified by law from placement under this section.
+        </section>
+        <section prefix="c">
+    	     If, after two years from the date that a member is retired under section 6, 7 or 26 and would return to active service in the same or similar position as a sworn member of the department of the state police if meeting requirements set forth in paragraph (a), the regional medical panel determines that the retired member is qualified for and able to perform the essential duties of the position from which he retired or a similar position within the same department, as determined by the colonel, said member shall be returned to such position, provided said member meets the requirements for those who have a break of service of more than one year and further that the position is vacant; provided however, that said returning retired member shall displace or supersede an individual currently on existing eligible or promotional lists only with the approval of the colonel.
+        </section>
+        <section prefix="d">
+    	     Any member, retired for disability for more than three years shall not return to active service for the department if such member fails to meet the requirements set forth in paragraph (a) and fails to complete state police academy training as required by the colonel.
+        </section>
+    </text>
+</law>

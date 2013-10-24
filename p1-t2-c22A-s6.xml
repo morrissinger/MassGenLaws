@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22A" order_by="22A" level="3">Central Register For Missing Children</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Release Of Medical And Dental Records; Comparison Of Dental Records</catch_line>
+    <order_by>6</order_by>
+    <text>
+        When any person makes a report of a missing person to a law enforcement authority, the authority shall request a member of the family or next of kin of the missing person to authorize the release to the department of the medical and dental records of the person reported missing. 
+The department of the state police shall compare the dental records received from the medical examiner to dental records of missing persons on file with the department. The department of the state police shall submit the results of the comparison to the medical examiner and if a tentative or positive identification is made, to the law enforcement authority which submitted the report of the missing person.
+    </text>
+</law>

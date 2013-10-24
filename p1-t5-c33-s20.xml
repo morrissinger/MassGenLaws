@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Officers; Qualifications For Appointment</catch_line>
+    <order_by>20</order_by>
+    <text>
+        No person shall be eligible to appointment, or be appointed, as an officer in the armed forces of the commonwealth who is not a citizen of the United States of eighteen years of age or over, resident in the commonwealth, or who is not certified as eligible by the military service commission as provided in section twenty-two; and no person shall be eligible to such appointment, or be appointed, who is under sentence of a court or board which disables him from holding office or command, or is under suspension from command in the armed forces of the United States or of any state, or is under sentence of imprisonment by a civil court, whether suspended or not, or is made ineligible to such service under the laws of the United States. No person shall receive a commission in the national guard, army or air, unless he shall possess such minimum qualifications as may be prescribed by the laws of the United States and has qualified for such commission thereunder.
+    </text>
+</law>

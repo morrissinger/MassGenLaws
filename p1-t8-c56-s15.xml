@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Reading Or Showing Names Selected On Ballots During Election</catch_line>
+    <order_by>15</order_by>
+    <text>
+        A presiding officer who, at a town election at which official ballots are not used, before the polls are closed and without the consent of a voter, reads or examines or permits to be read or examined, the names written or printed on the ballot of such voter, in order to ascertain the persons voted for by him, shall be punished by a fine of not more than one hundred dollars.
+    </text>
+</law>

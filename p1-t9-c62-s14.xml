@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Applicability To Corporate Trustees</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Corporations acting as trustee or in any other fiduciary capacity shall, with respect to the income received by them in that capacity, be subject to this chapter in the same manner and under the same conditions as individual inhabitants of the commonwealth acting in similar capacities, except that no such corporation shall be taxed on account of any property the income of which would be taxable if received by an individual inhabitant, or on account of the income derived from such property, if such property is held by such corporation as mortgagee or pledge to secure the payment of bonds, notes or other evidences of indebtedness the interest on which is subject to taxation to such individual inhabitants of the commonwealth as received it, or the principal of which is exempt from taxation under laws other than this chapter.
+    </text>
+</law>

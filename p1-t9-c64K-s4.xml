@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64K" order_by="64K" level="3">Controlled Substances Tax</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Possession Prohibited Unless Tax Paid</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No dealer shall possess any marihuana or controlled substance upon which a tax is imposed by section eight unless the tax has been paid on the marihuana or controlled substance as evidenced by a stamp or other official indicia.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Civil Actions</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="1">
+    	     Actions brought by the attorney general pursuant to sections five or ten or both to recover response costs incurred by the commonwealth, and actions brought by the attorney general to enforce or foreclose liens recorded or filed pursuant to this chapter, shall be commenced within five years from the date the commonwealth incurs all such costs or five years from the date the commonwealth discovers that the person against whom the action is being brought is a person liable pursuant to this chapter for the release or threat of release on account of which the commonwealth has incurred such costs, whichever is later.
+        </section>
+        <section prefix="2">
+    	     Actions brought by persons other than the commonwealth pursuant to sections four or four A to recover reimbursement, contribution or equitable share shall be commenced within three years after the date the person seeking such recovery discovers or reasonably should have discovered that the person against whom the action is being brought is a person liable pursuant to the provisions of this chapter for the release or threat of release for which such costs or liability were incurred, or within three years of the time when the person bringing the action first learns of a material violation of an agreement entered into pursuant to section four A, or within three years after the person bringing the action incurs all response costs, or within three years after payment by the person seeking contribution, reimbursement, or an equitable share for liability pursuant to the provisions of this chapter, or within three years after sending notice pursuant to the first paragraph of section four A, whichever is later.
+        </section>
+        <section prefix="3">
+    	     Actions brought by the commonwealth pursuant to this chapter to recover for damage to natural resources, including costs of assessment and evaluation, or for damage to real or personal property, shall be commenced within three years after the date of the discovery of the damage or loss and its connection with the release in question, or three years after the date the commonwealth discovers that the person against whom the action is being brought is a person liable pursuant to this chapter for the release or threat of release that caused the damage, or by the deadline specified in subsection (1) of this section, whichever is later.
+        </section>
+        <section prefix="4">
+    	     Actions by persons other than the commonwealth to recover for damage to real or personal property shall be commenced within three years after the date that the person seeking recovery first suffers the damage or within three years after the date the person seeking recovery of such damage discovers or reasonably should have discovered that the person against whom the action is being brought is a person liable pursuant to this chapter for the release or threat of release that caused the damage, whichever is later.
+        </section>
+        <section prefix="5">
+    	     Actions brought against the commonwealth for reimbursement of response costs pursuant to subsection (b) of section ten shall be commenced within the deadline set forth therein.
+        </section>
+    </text>
+</law>

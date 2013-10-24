@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Consumer Report; Circumstances Under Which Reporting Agency May Furnish</catch_line>
+    <order_by>51</order_by>
+    <text>
+        <section prefix="a">
+    	     A consumer reporting agency may furnish a consumer report under the following circumstances and no other:
+        </section>
+        <section prefix="1">
+    	     in response to the order of a court having jurisdiction to issue such an order; or
+        </section>
+        <section prefix="2">
+    	     in accordance with the written instructions of the consumer to whom it relates; or
+        </section>
+        <section prefix="3">
+    	     to a person which it reasonably believes:
+        </section>
+        <section prefix="i">
+    	     intends to use the information in connection with a credit transaction involving the consumer on whom the information is to be furnished and involving the extension of credit to, or review or collection of an account of, the consumer; or
+        </section>
+        <section prefix="ii">
+    	     intends to use the information for employment purposes; or
+        </section>
+        <section prefix="iii">
+    	     intends to use the information in connection with the underwriting of insurance involving the consumer; or
+        </section>
+        <section prefix="iv">
+    	     intends to use the information in connection with a determination of the consumer’s eligibility, or continuing eligibility, for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant’s financial responsibility or status; or
+        </section>
+        <section prefix="v">
+    	     intends to use the information in connection with a transaction either entered into or being negotiated with a consumer, if by the terms of the transaction either party transfers an interest in real or personal property, pays money or renders services, or becomes obligated so to transfer property, pay money or render services; provided, however, that the consumer who is the subject of the report, except in the case of the rental or lease of residential property, has provided permission in writing or in the same manner in which the transaction was negotiated or entered into, that a consumer report may be requested in connection with the transaction; or
+        </section>
+        <section prefix="vi">
+    	     intends to use the information for the enforcement of child support orders under chapter one hundred and nineteen A; or
+        </section>
+        <section prefix="b">
+    	     A consumer reporting agency may furnish information for the purposes of a credit transaction under subclause (i) of clause (3) of paragraph (a) where the credit transaction is not initiated by the consumer, only if:
+        </section>
+        <section prefix="1">
+    	     the consumer authorizes the consumer reporting agency to furnish the consumer credit report to the person; or
+        </section>
+        <section prefix="2">
+    	     the proposed transaction involves a firm offer of credit to the consumer, the consumer reporting agency has complied with the provisions of section fifty-one A, and the consumer has not elected to have his name excluded from any list of names provided by the consumer reporting agency for purposes of reporting in connection with the potential issuance of firm offers of credit and the agency only provides the name and address of the consumer and information pertaining to a consumer which is not identified or identifiable with particular accounts or transactions of the consumer.
+        </section>
+    </text>
+</law>

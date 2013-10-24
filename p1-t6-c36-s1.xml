@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Registry Districts</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The counties of Berkshire, Bristol, Essex, Middlesex and Worcester are for the registry of deeds severally divided into the following districts: 
+In Berkshire, the middle district, with its office in Pittsfield, comprising Pittsfield, Becket, Dalton, Hinsdale, Lee, Lenox, Otis, Peru, Richmond, Stockbridge, Tyringham and Washington; the northern district, with its office in Adams, that portion of the county lying north of the middle district; and the southern district, with its office in Great Barrington, that portion of the county lying south of the middle district. 
+In Bristol, the southern district, with its office in New Bedford, comprising, New Bedford, Acushnet, Dartmouth, Fairhaven and Westport, the Fall River district, with its office in Fall River, comprising Fall River, Freetown, Somerset and Swansea; and the northern district, with its office in Taunton, the remainder of said county. 
+In Essex, the northern district, with its office in Lawrence, comprising Lawrence, Andover, Methuen and North Andover; the southern district, with its office in Salem, the remainder of said county. 
+In Middlesex, the northern district, with its office in Lowell, comprising Lowell, Billerica, Carlisle, Chelmsford, Dracut, Dunstable, Tewksbury, Tyngsborough, Westford and Wilmington; the southern district, with its office in Cambridge, the remainder of said county. 
+In Worcester, the northern district, with its office in Fitchburg, comprising Fitchburg, Ashburnham, Leominster, Lunenburg and Westminster; the Worcester district, with its office in Worcester, the remainder of said county. 
+Each of the other counties of the commonwealth shall have an office for the registry of deeds in a shire town thereof.
+    </text>
+</law>

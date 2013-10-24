@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Regional Mobility Assistance Program</catch_line>
+    <order_by>50</order_by>
+    <text>
+        <section prefix="a">
+    	     The administrator shall establish a regional mobility assistance program to assist cities and towns in geographic regions of the commonwealth with public works improvements and enhancements for transportation-related projects as deemed necessary by the department for the (1) development, rehabilitation, and improvement of tourism expansion corridors, (2) protection of historic centers, (3) promotion of improved mobility and access from neighboring states, and (4) promotion of local economic growth and reliability for transportation facilities in rural and less accessible regions of the commonwealth. The administrator may promulgate rules or regulations or implement such other procedures in accordance with this section, which shall govern the criteria by which the funds shall be distributed and the method by which a regional project shall be selected.
+        </section>
+        <section prefix="b">
+    	     The administrator may, subject to appropriation, commit the funds pursuant to this section through projects to be undertaken by the division or by executing a grant or other contractual agreement with a municipality and, upon execution, the funds so committed shall be made available as a grant directly to the municipality which has entered into an agreement without further review or approval of the department. Each agreement shall contain assurances satisfactory to the secretary that the municipality will award a construction contract for the project which is the subject of the agreement not later than 180 days after the date of execution of the agreement.
+        </section>
+        <section prefix="c">
+    	     In the event that a contract is not awarded by the municipality within the period provided in subsection (b), the administrator may require, by written notification to the municipality, that the funds paid to it by the commonwealth pursuant to the agreement shall be returned forthwith to the commonwealth.
+        </section>
+        <section prefix="d">
+    	     The administrator may, through execution of a grant or other contractual agreement as provided in subsection (b), commit an amount of funds up to but not exceeding the aggregate amount of funds returned by municipalities under subsection (c) to any other municipality which has otherwise complied with the applicable requirements for such projects, including the terms and conditions provided in this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="46" order_by="46" level="3">Return And Registry Of Births, Marriages And Deaths</unit>
+    </structure>
+    <section_number>1E</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1E</order_by>
+    <text>
+        <section prefix="a">
+    	     “Administrator”, the hospital administrator or other person in charge of a hospital or similar institution in which births occur.
+        </section>
+        <section prefix="b">
+    	     “Commissioner”, the commissioner of public health.
+        </section>
+        <section prefix="c">
+    	     “Custodian”, a town clerk, the archivist of the commonwealth, the superintendent of the Quabbin reservoir and the state registrar.
+        </section>
+        <section prefix="d">
+    	     “Department”, department of public health.
+        </section>
+        <section prefix="e">
+    	     “Hospital medical officer”, a person registered under section nine of chapter one hundred and twelve.
+        </section>
+        <section prefix="f">
+    	     “Physician”, a person authorized or licensed to practice medicine or osteopathy pursuant to section two of chapter one hundred and twelve.
+        </section>
+        <section prefix="g">
+    	     “State registrar”, the registrar of vital records and statistics.
+        </section>
+        <section prefix="h">
+    	     “Registry”, the registry of vital records and statistics established in section four of chapter seventeen.
+        </section>
+        <section prefix="i">
+    	     “Town clerk or clerk”, a town clerk, city clerk or local registrar as provided in section twenty-two.
+        </section>
+    </text>
+</law>

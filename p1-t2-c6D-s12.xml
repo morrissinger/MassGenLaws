@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6D" order_by="6D" level="3">Health Policy Commission</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Negotiation Of Network Contracts By Unregistered Provider Or Provider Organization Prohibited</catch_line>
+    <order_by>12</order_by>
+    <text>
+        [ Text of section added by 2012, 224, Sec. 15 effective November 4, 2012.]  (a) No provider or provider organization may negotiate network contracts with any carrier or third-party administrator except for a provider or provider organizations which are registered under this chapter and regulations promulgated under this chapter; provided, however, that nothing in this chapter shall require a provider or provider organization with a patient panel of 15,000 or fewer or which represents providers who collectively receive, less than $25,000,000 in annual net patient service revenue from carriers or third-party administrators to be registered if such provider or provider is not a risk-bearing provider organization.  (b) Nothing in this chapter shall require a carrier to negotiate a network contract with a registered provider organization or with a registered provider or provider organization for all providers that are part of, or represented by, a registered provider organization.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Review Of Rules And Regulations Regarding Economic Impact On Small Businesses</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="1">
+    	     the continuing need for the rule or regulation;
+        </section>
+        <section prefix="2">
+    	     the nature of complaints or comments received concerning the rule or regulation from the public;
+        </section>
+        <section prefix="3">
+    	     the complexity of the rule or regulation;
+        </section>
+        <section prefix="4">
+    	     the extent to which the rule or regulation overlaps, duplicates or conflicts with other federal, state and local governmental rules and regulations;
+        </section>
+        <section prefix="5">
+    	     the length of time since the rule or regulation has been enacted, changed, amended or modified; and
+        </section>
+        <section prefix="6">
+    	     the degree to which technology, economic conditions or other factors have changed in the subject areas affected by the rule or regulation.
+        </section>
+    </text>
+</law>

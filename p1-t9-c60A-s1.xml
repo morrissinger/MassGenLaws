@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60A" order_by="60A" level="3">Excise Tax On Registered Motor Vehicles In Lieu Of Local Tax</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Excise Tax On Motor Vehicles; Assessment And Levy; Exemptions;  Abatement For Theft Of Motor Vehicle</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     The owner of the stolen vehicle or trailer has notified the local police authorities of the theft within forty-eight hours of discovery of the theft.
+        </section>
+        <section prefix="2">
+    	     The owner of the stolen motor vehicle or trailer has surrendered the certificate of registration of the stolen motor vehicle or trailer and has obtained a certificate, setting forth the facts, and signed by the registrar of motor vehicles or his authorized agent. Such surrender shall not be made sooner than thirty days subsequent to the date of the theft.
+        </section>
+    </text>
+</law>

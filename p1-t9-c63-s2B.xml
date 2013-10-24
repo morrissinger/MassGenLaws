@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>S Corporations; Excise Rate; Determining Factors Of Amount</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        <section prefix="a">
+    	     Any financial institution which is an S corporation, as defined under section 1361 of the Code, shall pay, on account of each taxable year, an excise measured by its net income determined to be taxable under section 2A as follows:—
+        </section>
+        <section prefix="1">
+    	     The net income shall be determined by taking into account subchapter S of the Code. Income or loss shall be determined as if it were realized or incurred directly by an owner subject to taxation under chapter 62 or 63, as applicable. In the case of an S corporation, income shall be included in the net income measure under this subsection and, to the extent that the income is taxed to the S corporation for federal income tax purposes, subject to tax at the following rates:— (i) for each taxable year beginning on or after January 1, 1995, but before January 1, 2010, 10.5 per cent; (ii) for each taxable year beginning on or after January 1, 2010, but before January 1, 2011, 10.0 per cent; (iii) for each taxable year beginning on or after January 1, 2011, but before January 1, 2012, 9.5 per cent; or (iv) for each taxable year beginning on or after January 1, 2012 and thereafter, 9.0 per cent.
+        </section>
+        <section prefix="2">
+    	     Any financial institution which is an S corporation and has total receipts for the taxable year of at least $6,000,000 but less than $9,000,000 shall include in its excise an amount determined by multiplying its net income determined to be taxable in accordance with this chapter by two-thirds of the rate specified in clause (3).
+        </section>
+        <section prefix="3">
+    	     Any financial institution which is an S corporation and has total receipts for the taxable year of $9,000,000 or more shall also include in its excise an amount determined by multiplying its net income determined to be taxable in accordance with this chapter by a rate calculated by subtracting the rate applicable to Part B taxable income for that year in subsection (b) of section 4 of chapter 62 from the rate applicable to financial institutions in that taxable year under subsection (b) of section 2 of chapter 63.
+        </section>
+        <section prefix="4">
+    	     Qualified subchapter S subsidiaries shall not be subject to separate entity level taxation under this section; provided, however, that the parent S corporation shall be subject to tax under this section and shall include the income and take into account the activities of all qualified subchapter S subsidiaries for purposes of calculating the excise due under paragraphs (1), (2) and (3). The parent S corporation and its qualified subchapter S subsidiaries shall be jointly and severally liable for the tax due under this chapter.
+        </section>
+        <section prefix="b">
+    	     The excise imposed under this section for each taxable year shall be not less than $456.
+        </section>
+        <section prefix="5">
+    	     For purposes of paragraphs (2) and (3), net income determined to be taxable in accordance with this chapter shall be determined without taking into account subchapter S of the Code and shall not include income that is taxed to S corporation at the entity level under paragraph (1). For purposes of said paragraphs (2) and (3), the term “total receipts” shall mean gross receipts or sales, less returns and allowances, and shall include dividends, interest, royalties, capital gain net income, rental income and all other income; provided, however, that the cost of goods sold or the cost of operations shall not be deductible in determining these total receipts; and provided further, that the commissioner shall, by regulation, apply limits on an aggregate basis to S corporations engaged in unitary business with majority direct or indirect ownership by common stockholders, which shall include any other type of entity so engaged and so owned which the commissioner finds was established for the purpose of avoiding the foregoing limit.
+        </section>
+    </text>
+</law>

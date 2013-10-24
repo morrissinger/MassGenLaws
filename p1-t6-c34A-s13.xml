@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Optional Forms Of Government, Referendum; Special Charter, Enabling Legislation</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="A">
+    	     If the charter commission shall have recommended the adoption of one of the optional forms of government authorized by this chapter, the charter commission shall notify the state secretary by the first Wednesday in August to place the following referendum question on the election ballot:
+        </section>
+        <section prefix="B">
+    	     If the charter commission shall have proposed a special charter, it shall be the duty of the commission to petition the legislature forthwith for a special law or laws, pursuant to the state constitution and in the manner provided by general enabling legislation thereunder, to carry out the recommendations of the charter commission.
+        </section>
+        <section prefix="C">
+    	     If the charter commission shall have proposed any recommendations pursuant to clause (iv) of the first paragraph of subsection (A) of section twelve, it shall be the duty of the commission to petition the legislature forthwith for a special law or laws pursuant to the state constitution and in the manner provided by general enabling legislation thereunder, to carry out such recommendations of the charter commission, provided, that upon enactment of such enabling legislation, the legislation implementing such recommendations shall be submitted to the voters of the petitioning county for adoption in a manner provided in said subsection (A) or as may otherwise be appropriate. No such legislation shall become effective until approved by a majority of all votes cast on the question of adoption.
+        </section>
+    </text>
+</law>

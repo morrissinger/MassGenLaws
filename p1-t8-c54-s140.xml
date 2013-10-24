@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>140</section_number>
+    <catch_line>Senators And Representatives In Congress; Vacancies</catch_line>
+    <order_by>140</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon failure to choose a senator or representative in congress or upon creation of a vacancy in that office, the governor shall immediately cause precepts to be issued to the aldermen in every city and the selectmen in every town in the district, directing them to call an election on the day appointed in the precepts for the election of such senator or representative. The day so appointed shall not be more than 160 nor less than 145 days after the date that a vacancy is created or a failure to choose occurs. Filing a letter of resignation creates a vacancy under this section, even if the resignation is not effective until some later time, but the date of the election to fill a vacancy under this section shall be after the resignation is effective.
+        </section>
+        <section prefix="b">
+    	     If a vacancy under this section is created after February 1 of an even-numbered year, the governor shall not issue the precepts required by subsection (a), except as subsection (c) provides for a vacancy for senator.
+        </section>
+        <section prefix="c">
+    	     If a vacancy is created for senator in congress after April 10 of an even-numbered year, the governor shall issue precepts under this section, unless section 152 requires that office to appear on the biennial state election ballot in that year. If this section prevents issuance of precepts for senator, the office shall appear on the biennial state election ballot in that year. If a vacancy for senator is created after April 10 of an even-numbered year, but on or before the seventieth day preceding the regular state primary, the precepts shall appoint the day of the regular state primary and the biennial state election for holding the special primary and special election required by this section.
+        </section>
+        <section prefix="d">
+    	     If at the time a senator or representative in congress is elected at the biennial state election, there exists a vacancy in that office, the senator or representative shall also be deemed to have been elected to serve out that vacancy.
+        </section>
+        <section prefix="e">
+    	     A senator elected to fill a vacancy under this section shall serve for the remainder of the unexpired term.
+        </section>
+        <section prefix="f">
+    	     Upon failure to choose a senator in congress or upon a vacancy in that office, the governor shall make a temporary appointment to fill the vacancy; provided, however, that the person so appointed shall serve until the election and qualification of the person duly elected to fill the vacancy pursuant to subsection (a) or (c).
+        </section>
+    </text>
+</law>

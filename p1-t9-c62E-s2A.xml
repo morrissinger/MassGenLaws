@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62E" order_by="62E" level="3">Wage Reporting System</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Application Of New Hire Reporting Requirements</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        Notwithstanding any other provision of this chapter, the new hire reporting requirements of this chapter and the penalties associated with the failure to comply with those requirements shall apply to any entity electing to report new hire information to the Commonwealth pursuant to the multistate employer provisions of 42 U.S.C. § 653a(b)(1)(B).
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Real Property; Mortgages; Classifications</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        <section prefix="a">
+    	     Real property for the purpose of taxation shall include all land within the commonwealth and all buildings and other things thereon or affixed thereto, unless otherwise exempted from taxation under other provisions of law. The assessors of each city and town shall determine the fair cash valuation of such real property for the purpose of taxation on the first day of January of each year. Notwithstanding the foregoing, in any city or town which accepts the provisions of this sentence, buildings and other things erected on or affixed to land during the period beginning on January second and ending on June thirtieth of the fiscal year preceding that to which the tax relates shall be deemed part of such real property as of January first.
+        </section>
+        <section prefix="b">
+    	     The assessors shall determine the fair cash valuation of such real property according to section thirty-eight; and if the city or town has been certified by the commissioner pursuant to subsection (c) shall classify such real property according to the following uses:—
+        </section>
+        <section prefix="c">
+    	     Classification of real property shall not be implemented in any city or town until the commissioner has certified in writing to the assessors of such city or town that the assessments on the real property that they propose to make are at full and fair cash valuation as required by section thirty-eight and that a majority of its assessors are qualified to classify its property.
+        </section>
+    </text>
+</law>

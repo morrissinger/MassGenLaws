@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>16C</section_number>
+    <catch_line>Issuance And Renewal Of Certificates; Inspection</catch_line>
+    <order_by>16C</order_by>
+    <text>
+        <section prefix="a">
+    	     is certified by the Food and Drug Administration, Public Health Service, United States Department of Health, Education and Welfare; and
+        </section>
+        <section prefix="b">
+    	     certifies with respect to each such report that the farm involved was, upon inspection by said state agency, in compliance with the requirements of said other state for approval of dairy farms; and
+        </section>
+        <section prefix="c">
+    	     accepts the right of the commissioner, based upon reasonable information alleging violation of the rules and regulations adopted pursuant to said section thirteen by a dairy farm located outside the commonwealth to assure correction of such violation by the duly authorized regulatory agency of the state involved; provided, that if the violations are not so corrected within a reasonable time, an inspection of the dairy farm for such purpose may be made by the commissioner.
+        </section>
+    </text>
+</law>

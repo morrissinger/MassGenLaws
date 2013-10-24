@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Appeals; Judicial Review</catch_line>
+    <order_by>24</order_by>
+    <text>
+        Any action of the board of directors or the insolvency fund may be appealed to the commissioner by any generator or any person adversely affected thereby, if such appeal is taken within thirty days of the action being appealed. If a generator is appealing an assessment, the amount assessed shall be paid to the insolvency fund and available to meet insolvency fund obligations during the pendency of an appeal. If the appeal on the assessment is upheld, the amount paid in error or excess shall be returned to the generator. Any final action or order of the commissioner shall be subject to judicial review, pursuant to chapter thirty A.
+    </text>
+</law>

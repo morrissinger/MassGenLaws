@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65B" order_by="65B" level="3">Settlement Of Disputes Respecting The Domicile Of Decedents For Death Tax Purposes</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Executor”, any executor of the will or administrator of the estate of a decedent, except an ancillary administrator;
+        </section>
+        <section prefix="b">
+    	     “Taxing official”, the commissioner of revenue in this commonwealth, and in any other reciprocal state the officer or body designated in the statute of such state substantially similar to this chapter;
+        </section>
+        <section prefix="c">
+    	     “Death tax”, any tax levied by a state on account of the transfer or shifting of economic benefits in property at death, or in contemplation thereof, or intended to take effect in possession or enjoyment at or after death, whether denominated an “inheritance tax”, “transfer tax”, “succession tax”, “estate tax”, “death duty”, “death dues”, or otherwise;
+        </section>
+        <section prefix="d">
+    	     “Interested person”, any person who may be entitled to receive, or who has received any property or interest which may be required to be considered in computing the death tax of any state involved.
+        </section>
+    </text>
+</law>

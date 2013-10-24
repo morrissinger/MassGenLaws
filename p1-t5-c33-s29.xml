@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Discharge Of Officers; Grounds</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="a">
+    	     At any time the moral character, capacity and general fitness for the service of any officer may be investigated and determined by an efficiency board of three commissioned officers, senior in rank to him, to be designated by the commander-in-chief. The investigation may include misconduct in civil life for which the officer is not amenable to court-martial. If the findings of the board are unfavorable to the officer and are approved by the commander-in-chief, the officer shall be discharged.
+        </section>
+        <section prefix="b">
+    	     An officer may be honorably discharged by the commander-in-chief upon removal from the commonwealth, upon tender of resignation, or when he accepts an appointment in a regular component or in another reserve component of the armed forces of the United States.
+        </section>
+        <section prefix="c">
+    	     The commander-in-chief may discharge an officer who is under sentence of imprisonment by a civil court, whether suspended or not, or who has been absent without leave for two months continuously.
+        </section>
+    </text>
+</law>

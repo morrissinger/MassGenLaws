@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66" order_by="66" level="3">Public Records</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>18</order_by>
+    <text>
+        This chapter shall not apply to the records of the general court, nor shall declarations, affidavits and other papers filed by claimants in the office of the commissioner of veterans’ services, or records kept by him for reference by the officials of his office, be public records.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>24O</section_number>
+    <catch_line>Statement To Defendant Regarding Further Violations</catch_line>
+    <order_by>24O</order_by>
+    <text>
+        Upon conviction of any violation of the provisions of this chapter, the defendant shall be provided by the probation office in the court in which said conviction was entered a statement in writing prepared by the secretary of public safety of the statutory provisions that apply to any further violation of this chapter.
+    </text>
+</law>

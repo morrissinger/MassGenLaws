@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>29E</section_number>
+    <catch_line>Definitions; Property And Casualty Insurance Companies; Retaliatory Taxes; Credits Against Taxes Imposed By Sec. 22</catch_line>
+    <order_by>29E</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings:—
+        </section>
+        <section prefix="1">
+    	     $8,000,000;
+        </section>
+        <section prefix="2">
+    	     multiplied by a fraction, the numerator of which shall be the domestic property and casualties insurer’s retaliatory taxes attributable to the surtax which would have been payable for the preceding taxable year, before application of the credit provided by subsection (b) and the denominator of which shall be the total retaliatory taxes attributable to the surtax which would have been payable for the preceding taxable year, before application of the credit provided by subsection (b) for all domestic property and casualty companies that do business in the commonwealth and that have submitted the information required by subsection (d).
+        </section>
+        <section prefix="b">
+    	     Property and casualty insurers which pay retaliatory taxes to other jurisdictions may claim a credit against the tax imposed by section 22 of chapter 63 of the General Laws. Except as provided in subsection (c), the amount of the credit shall equal 100 per cent of the retaliatory taxes attributable to the surtax which would have been payable for the preceding taxable year, before application of any credit. The company seeking the credit must furnish proof of payment of the retaliatory tax to the commissioner as required pursuant to subsection (d).
+        </section>
+        <section prefix="c">
+    	     If the total retaliatory taxes attributable to the surtax payable for the prior tax year as reported pursuant to subsection (d) for all domestic property and casualty companies that do business in the commonwealth exceed $8,000,000, the amount of each domestic property and casualty company’s credit shall be limited to that company’s credit share. The commissioner of revenue shall be responsible for reporting to each company its credit share amount by February fifteenth of the current taxable year.
+        </section>
+        <section prefix="d">
+    	     A domestic property and casualty company shall provide the commissioner of revenue with the amount of its retaliatory taxes attributable to the surtax and payable for the preceding taxable year, before application of the credit, by December 31 of the current taxable year.
+        </section>
+    </text>
+</law>

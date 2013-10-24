@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Organization Of County Law Libraries</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Attorneys at law who have been admitted to practice in the courts of the commonwealth and who are resident in a county for which there is no law library association may organize, under chapter one hundred and eighty, by the name of the law library association for such county, and may adopt by-laws which shall be subject to the approval of the superior court.
+    </text>
+</law>

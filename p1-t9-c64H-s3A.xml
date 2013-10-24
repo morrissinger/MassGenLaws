@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64H" order_by="64H" level="3">Tax On Retail Sales Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Prepayment Of Tax On Tobacco Products That Will Be Held For Retail Sale; Credit For Prepaid Taxes; Regulations.</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        <section prefix="a">
+    	     Every manufacturer, wholesaler or unclassified acquirer, as defined in chapter 64C, doing business in the commonwealth, or any other person doing business in the commonwealth, selling tobacco products, including cigarettes, cigars, smokeless tobacco and smoking tobacco, to others for resale in the commonwealth, shall pay, as a prepayment for the tax imposed by this chapter, a tax on tobacco products that will be held for retail sale in the commonwealth. The tax shall be computed on each sale of tobacco products by multiplying the tax rate set by this chapter by the wholesale sales price at which such manufacturer, wholesaler, unclassified acquirer or other person sells the tobacco products. The tax imposed by this section shall be paid at the same time and in the same manner as the tax imposed by section 2. Any manufacturer, wholesaler, unclassified acquirer or other person prepaying the tax shall, with respect to such prepayment, be a vendor for purposes of section 1 of this chapter and section 16 of chapter 62C, shall file returns and pay over tax accordingly, and shall separately state on each customer invoice or other written record, as prescribed by the commissioner, the amount of prepaid sales tax charged. This section shall not apply to manufacturers and unclassified acquirers to the extent that said manufacturers and unclassified acquirers distribute such product through a licensed wholesaler or unclassified acquirer.
+        </section>
+        <section prefix="b">
+    	     Every person selling tobacco products at retail in the commonwealth who is required to pay the tax imposed by this chapter shall be allowed a credit in the amount of the prepayment against the total amount of tax it is required to pay over to the commissioner under this chapter. Every such person must maintain invoices and other records substantiating the amount of tax prepaid.
+        </section>
+        <section prefix="c">
+    	     Chapter 64I shall apply to the extent that the tax under this section is not paid over to the commissioner by any of the persons mentioned in subsection (a) or (b). All taxes imposed by this section shall be presumed to be a direct tax on the retail consumer, pre-collected for the purpose of convenience and facility only.
+        </section>
+        <section prefix="d">
+    	     The commissioner may adopt regulations to implement this section, which regulations shall include a provision to prevent the payment of tax by more than 1 taxpayer.
+        </section>
+    </text>
+</law>

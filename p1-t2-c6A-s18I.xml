@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6A" order_by="6A" level="3">Executive Offices</unit>
+    </structure>
+    <section_number>18I</section_number>
+    <catch_line>Monitoring Of Emergency 911 Communications</catch_line>
+    <order_by>18I</order_by>
+    <text>
+        Notwithstanding any general or special law to the contrary, a municipality or other governmental body, under the requirements of chapter 150E, may modify, change or alter communication equipment used in the municipality’s or other governmental body’s enhanced 911 system in order to permit the monitoring of emergency 911 communications by the fire department of the municipality or other governmental body at a secure location staffed at all times by fire department personnel fully trained in such monitoring. The emergency 911 communications shall be monitored in a manner that prevents any broadcast of such communications to the general public. The secure location used for monitoring emergency 911 communications shall be restricted to trained fire department personnel when such communications are being monitored. No such modification or change in a municipality’s or other governmental body’s wireline carrier equipment or enhanced 911 system shall cause any degradation of the state’s 911 system.
+    </text>
+</law>

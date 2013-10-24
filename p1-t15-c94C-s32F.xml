@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>32F</section_number>
+    <catch_line>Unlawful Manufacture, Distribution, Dispensing Or Possession With Intent To Manufacture, Etc. Of Controlled Substances In Classes A To C To Minors</catch_line>
+    <order_by>32F</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who knowingly or intentionally manufactures, distributes, dispenses, or possesses with intent to manufacture, distribute, or dispense a controlled substance in Class A of section thirty-one to a person under the age of eighteen years shall be punished by a term of imprisonment in the state prison for not less than five nor more than fifteen years. No sentence imposed under the provisions of this section shall be for less than a mandatory minimum term of imprisonment of five years and a fine of not less than one thousand nor more than twenty-five thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+        <section prefix="b">
+    	     Any person who knowingly or intentionally manufactures, distributes, dispenses, or possesses with intent to manufacture, distribute, or dispense a controlled substance in Class B of section thirty-one to a person under the age of eighteen years shall be punished by a term of imprisonment in the state prison for not less than three nor more than fifteen years. No sentence imposed under the provisions of this section shall be for less than a mandatory minimum term of imprisonment of three years and a fine of not less than one thousand nor more than twenty-five thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+        <section prefix="c">
+    	     Any person who knowingly or intentionally manufactures, distributes, dispenses, or possesses with intent to manufacture, distribute, or dispense a controlled substance in Class C of section thirty-one to a person under the age of eighteen years shall be punished by a term of imprisonment in the state prison for not less than two and one-half nor more than fifteen years or in a jail or house of correction for not less than two nor more than two and one-half years. No sentence imposed under the provisions of this section shall be for less than a mandatory minimum term of imprisonment of two years and a fine of not less than one thousand nor more than twenty-five thousand dollars may be imposed but not in lieu of the mandatory minimum two year term of imprisonment, as established herein.
+        </section>
+        <section prefix="d">
+    	     Any person who knowingly or intentionally manufactures, distributes, dispenses, or possesses with intent to manufacture, distribute or dispense a controlled substance as defined in clause (4) of paragraph (a) of class B of section thirty-one, to a person under the age of eighteen years shall be punished by a term of imprisonment in the state prison for not less than five nor more than fifteen years. No sentence imposed under the provisions of this section shall be for less than a minimum term of imprisonment of five years, and a fine of not less than one thousand nor more than twenty-five thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+    </text>
+</law>

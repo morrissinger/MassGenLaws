@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Certification Of Deposits In Trust</catch_line>
+    <order_by>6</order_by>
+    <text>
+        [ Text of section effective until January 1, 2013. Repealed by 2012, 165, Sec. 91. See 2012, 165, Sec. 137.]  The state treasurer shall annually certify to the commissioner of revenue the average deposits of every corporation or organization required to make deposits in trust with the state treasurer.
+    </text>
+</law>

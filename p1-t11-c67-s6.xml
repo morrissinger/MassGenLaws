@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Membership; Women And Non Residents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        A religious society may admit women to membership with full rights and privileges, and a territorial parish may admit to membership persons who are not residents of its territory.
+    </text>
+</law>

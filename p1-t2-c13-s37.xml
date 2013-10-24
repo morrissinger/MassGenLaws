@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Board Of State Examiners Of Plumbers And Gas Fitters; Meetings</catch_line>
+    <order_by>37</order_by>
+    <text>
+        The examiners shall hold meetings at such times and places as they may designate.
+    </text>
+</law>

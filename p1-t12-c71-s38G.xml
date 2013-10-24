@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>38G</section_number>
+    <catch_line>Certification For Certain Teaching And Administrative Positions;  Provisional And Standard Certificates; Policies And Guidelines Regarding Requirements And Qualifications; Applications; Recommendations; Review;  Continuing Education; Renewal Of Certificate</catch_line>
+    <order_by>38G</order_by>
+    <text>
+        <section prefix="1">
+    	     Approved: recommends that advanced standing status be granted upon completion of the other preparation and eligibility requirements as established by the board;
+        </section>
+        <section prefix="2">
+    	     Insufficient: recommends that the candidate be allowed to seek entry in the future into a district training program; or a candidate found insufficient twice shall not be allowed to enter another district training program; or
+        </section>
+        <section prefix="3">
+    	     Disapproved: recommends that advanced standing status not be granted and that the candidate not be allowed to enter into a district training program.
+        </section>
+    </text>
+</law>

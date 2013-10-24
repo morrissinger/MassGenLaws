@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Death Taxes Of Nonresident Decedent; Proof Of Payment; Filing</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     The terms “death tax” and “death taxes”, as used in this section, shall include inheritance, succession, transfer and estate taxes and any taxes levied against the estate of a decedent upon the occasion of his death.
+        </section>
+        <section prefix="b">
+    	     At any time before the expiration of eighteen months after the qualification in any probate court in the commonwealth of any executor of the will or administrator of the estate of any nonresident decedent, such executor or administrator shall file with such court proof that all death taxes, together with interest or penalties thereon, which are due to the state of domicile of such decedent or to any political subdivision thereof, have been paid or secured, or that no such taxes, interest or penalties are due, as the case may be, unless it appears that letters testamentary or of administration have been issued on the estate of such decedent in the state of his domicile, herein called the domiciliary state.
+        </section>
+        <section prefix="c">
+    	     The proof required by subsection (b) may be in the form of a certificate issued by the official or body charged with the administration of the death tax laws of the domiciliary state. If such proof has not been filed within the time limited in subsection (b) and if within such time it does not appear that letters testamentary or of administration have been issued in the domiciliary state, the register of probate shall forthwith upon the expiration of such time notify by mail the official or body of the domiciliary state charged with the administration of the death tax laws thereof with respect to such estate, and shall state in such notice so far as is known to him—
+        </section>
+        <section prefix="i">
+    	     the name, date of death and last domicile of such decedent,
+        </section>
+        <section prefix="ii">
+    	     the name and address of each executor or administrator,
+        </section>
+        <section prefix="iii">
+    	     a summary of the values of the real estate, tangible personalty, and intangible personalty, wherever situated, belonging to such decedent at the time of his death, and
+        </section>
+        <section prefix="iv">
+    	     the fact that such executor or administrator has not filed theretofore the proof required in subsection (b).
+        </section>
+        <section prefix="d">
+    	     No final account of an executor or an administrator of a nonresident decedent shall be allowed unless either:—
+        </section>
+        <section prefix="i">
+    	     proof has been filed as required by subsection (b), or
+        </section>
+        <section prefix="ii">
+    	     notice under subsection (c) has been given to the official or body charged with the administration of the death tax laws of the domiciliary state, and such official or body has not petitioned for an accounting under said section within sixty days after the mailing of such notice, or
+        </section>
+        <section prefix="iii">
+    	     an accounting has been filed and approved under said subsection (c), an order has been made upon such accounting and it appears that the executor or administrator has paid such sums and remitted such securities, if any, as he was required to pay or remit by such decree, or
+        </section>
+        <section prefix="iv">
+    	     it appears that letters testamentary or of administration have been issued by the domiciliary state and that no notice has been given under said subsection (c).
+        </section>
+        <section prefix="e">
+    	     This section shall apply to the estate of a nonresident decedent only in case the laws of the domiciliary state contain a provision, of any nature or however expressed, whereby the commonwealth is given reasonable assurance, as finally determined by the commissioner, of the collection of its death taxes, interest and penalties from the estates of decedents dying domiciled in the commonwealth, when such estates are administered in whole or in part by a probate court or other court charged with administration of estates of decedents in such other states.
+        </section>
+        <section prefix="f">
+    	     The provisions of this section shall be liberally construed in order to insure that the domiciliary state of any nonresident decedent whose estate is administered in the commonwealth shall receive any death taxes, together with interest and penalties thereon, due to it from the estate of such decedent.
+        </section>
+    </text>
+</law>

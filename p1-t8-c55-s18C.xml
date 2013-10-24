@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>18C</section_number>
+    <catch_line>Electronic Reporting System; Candidates And Political Committees;  Campaign Finance Reports And Activity Statements</catch_line>
+    <order_by>18C</order_by>
+    <text>
+        <section prefix="a">
+    	     The director shall develop an electronic reporting system for the submission, retrieval, storage and public disclosure of campaign finance reports and financial activity statements required to be filed with the director.
+        </section>
+        <section prefix="b">
+    	     The following individuals and political committees shall be required to file electronically by modem or via computer terminals provided or approved by the director:
+        </section>
+        <section prefix="1">
+    	     each candidate or candidate’s committee that, during an election cycle, can reasonably expect to raise or spend more than $50,000 for the offices of governor, lieutenant governor, state secretary, attorney general, state treasurer and receiver general, auditor or $5,000 for the offices of councillor, state senator and state representative.
+        </section>
+        <section prefix="2">
+    	     each ballot question committee that, since December thirty-first following the last state election, has raised or spent more than $25,000;
+        </section>
+        <section prefix="3">
+    	     any other political committee, other than a candidate’s committee or a ballot question committee, if such political committee is aiding or promoting the success or defeat of one or more candidates for an office listed in subsection (b)(1) and has, since December thirty-first following the last state election, raised or spent more than $10,000.
+        </section>
+        <section prefix="4">
+    	     every political committee organized on behalf of a candidate that files with the director, including committees required to designate a depository on behalf of a candidate and every ballot question committee that files with the director, which receives and deposits a contribution of $500 or more after the eighteenth day, but more than 72 hours, before the date of a special, preliminary, primary or general election within 72 hours of depositing such contribution;
+        </section>
+        <section prefix="5">
+    	     every state committee referred to in section 1 of chapter 52 required to designate a depository by section 19 of this chapter, which receives a contribution of $500 or more after the eighteenth day, but more than 24 hours before, the date of a special, preliminary, primary or general election, within 72 hours of depositing such contribution;
+        </section>
+        <section prefix="6">
+    	     for every political committee required to file campaign finance reports electronically with the director, any reports filed pursuant to section 18D made to disclose expenditures by vendors of the committee to subvendors;
+        </section>
+        <section prefix="7">
+    	     an individual, group, association or political committee that is required to file a report of independent expenditures with the director in accordance with subsection (a) or (b) of section 18A;
+        </section>
+        <section prefix="8">
+    	     each candidate’s committee organized on behalf of a candidate for mayor in a municipality with a total population, as determined by the most recent federal decennial census, of 40,000 to 100,000 persons, if the committee, during the election cycle, can reasonably expect to raise or spend more than $5,000; and
+        </section>
+        <section prefix="9">
+    	     every individual, group or association who makes an independent expenditure or electioneering communication expenditure in an aggregate amount exceeding $250 during any calendar year.
+        </section>
+        <section prefix="c">
+    	     For every individual and committee required to file electronically under subsection (b) the dates for filing and the contents of the filing shall be the same as that required for a candidate or political committee in section 18 of chapter 55. The filings required under section 19 of chapter 55 for candidates listed in subsection (b) of this section shall be filed electronically. Filers specified in subsection (b) shall continue to file all paper-generated reports as a form of backup until such time as the director determines that the electronic filing system meets all pertinent filing and disclosure requirements.
+        </section>
+        <section prefix="d">
+    	     The director shall provide the public with electronic access to all campaign finance data and financial activity statements submitted to the agency as required under subsections (b) and (c) not later than three days after the information is received. The director shall have the discretion to provide the public with electronic access to all other campaign finance data and financial activity statements. Electronic access shall include access through the World Wide Web.
+        </section>
+        <section prefix="e">
+    	     Electronic filing shall commence on January 1, 2002 for candidates seeking offices listed in subsection (b)(1). Electronic filing shall commence for candidates for the state senate and house of representatives, on January 1, 2002. Electronic filing shall commence for political committees required to file under subsection (b)(2) on January 1, 2002. Electronic filing shall commence for all other political committees required to file under subsection (b) on January 1, 2004. The director may allow voluntary electronic filing prior to the dates listed and may allow candidates and political committees not required to file electronically to file electronically. After January 1, 2005, the director shall have the discretion to require electronic filing by any class of candidates, individuals, or political committees required to make paper filings as required by chapter 55.
+        </section>
+        <section prefix="f">
+    	     Candidates and political committees who are required to file electronically and fail to file shall be subject to the same penalties as if they failed to file paper filings required under sections 18 and 19 of chapter 55.
+        </section>
+        <section prefix="g">
+    	     The director shall have the discretion to develop the electronic reporting system; to contract with private vendors to develop the system; or to specify the format in which the data is to be filed and to permit any person to adapt his filing software to the required format.
+        </section>
+        <section prefix="h">
+    	     The Director shall develop or employ encryption technology and other means of ensuring the integrity of transmitted data which may be used by filers in lieu of a handwritten signature for verification purposes and to constitute signature under penalties of perjury as required by section 24 of chapter 55.
+        </section>
+        <section prefix="i">
+    	     Any party required to file electronically under this section who fails to file, files late, files a false return, or allows a false return to be filed, shall be subject to the same penalties as if they failed to file or filed late a paper filing required under section 18, or filed a false return or allowed a false return to be filed.
+        </section>
+    </text>
+</law>

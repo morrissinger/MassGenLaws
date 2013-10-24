@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Violations Of Secs. 38 And 39; Submitting False Information;  Penalties</catch_line>
+    <order_by>40</order_by>
+    <text>
+        Whoever violates any provision of sections thirty-eight and thirty-nine the punishment for which is not otherwise provided, and whoever submits false information on any application, report or return required by any provision of said sections, shall be punished by a fine of not more than one thousand dollars or by imprisonment in the house of correction for not more than one year, or both.
+    </text>
+</law>

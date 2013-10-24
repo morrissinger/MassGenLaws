@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>15A</section_number>
+    <catch_line>Death Of Registered Owner Of Motor Vehicle; Presumption Of Joint Ownership In Surviving Spouse</catch_line>
+    <order_by>15A</order_by>
+    <text>
+        <section prefix="1">
+    	     Where a certificate of title has been issued on said vehicle a new certificate of title shall be issued to said spouse upon written application made to the registrar accompanied by a copy of the death certificate, the certificate of title previously issued, and the title change fee for such spouse shall be waived.
+        </section>
+        <section prefix="2">
+    	     Where no certificate of title has been issued on said vehicle and where such transfer requires the issuance of a certificate of title a first certificate of title shall be issued to said spouse upon application to the registrar accompanied by a copy of the death certificate and any required fee.
+        </section>
+        <section prefix="3">
+    	     A sworn affidavit to the effect that said vehicle has not been disposed of otherwise by will, shall accompany the application for the issuance of a certificate of title. Said affidavit shall be in a form prepared by the registrar.
+        </section>
+    </text>
+</law>

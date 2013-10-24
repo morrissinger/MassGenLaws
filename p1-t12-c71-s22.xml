@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Attendance</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Every minor described in the preceding section shall, subject to the laws relating to the public schools, attend said schools or courses in the town of his employment for not less than four hours per week; but the attendance of minors who have been required to attend continuation schools, and are temporarily out of employment or business, shall be for not less than twenty hours per week, if said schools or courses are so long in session. Instruction in the regular schools may and upon application of the parent or guardian shall be accepted as equivalent to that required by this section and section twenty-five.
+    </text>
+</law>

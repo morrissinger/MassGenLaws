@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22A" order_by="22A" level="3">Central Register For Missing Children</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Entry Of Information Relative To Missing Children; Access To Data</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Whenever a parent, guardian, or governmental unit responsible for a child, reports to any police officer or law enforcement official that a child is missing, such police officer or official shall immediately cause to be entered into the central register relevant information relative to said missing child. Such police officer or law enforcement official shall also immediately undertake to locate such missing child. 
+Police officers, law enforcement officials and others so designated by the colonel of state police solely for the purpose of locating a missing child shall have access to the fingerprints and other data and information concerning the missing child on file with the central register.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="4" order_by="4" level="3">Statutes</unit>
+    </structure>
+    <section_number>4B</section_number>
+    <catch_line>Rescission Of Laws Previously Accepted By Cities, Towns Or Municipalities</catch_line>
+    <order_by>4B</order_by>
+    <text>
+        <section prefix="a">
+    	     This section shall not apply if such law provides for another manner of revocation.
+        </section>
+        <section prefix="b">
+    	     This section shall not apply to any such law which authorizes, but does not require, acceptance by a city, town or municipality to act.
+        </section>
+        <section prefix="c">
+    	     This section shall not apply to any action taken under chapter thirty-two or thirty-two B.
+        </section>
+        <section prefix="d">
+    	     This section shall not apply to any action taken to establish a regional district, authority or other entity which involves another city, town, municipality, district or other governmental entity.
+        </section>
+        <section prefix="e">
+    	     This section shall not affect any contractual or civil service rights which have come into existence between the city, town or municipality and any officer or employee thereof as a result of the original acceptance of any such law or the provisions thereof; provided, however, that such revocation shall apply to the successor to the incumbent officer or employee, which application shall prevent such contractual or civil service right from automatically continuing with respect to such successor officer or employee.
+        </section>
+    </text>
+</law>

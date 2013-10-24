@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23" order_by="23" level="3">Executive Office Of Labor And Workforce Development</unit>
+    </structure>
+    <section_number>11I</section_number>
+    <catch_line>Apprentice Agreements; Basic Standards</catch_line>
+    <order_by>11I</order_by>
+    <text>
+        <section prefix="a">
+    	     a requirement that the apprentice receive a minimum of 2,000 hours of employment as an apprentice, consistent with training requirements as established by industry practice, in the occupation to which he is apprenticed;
+        </section>
+        <section prefix="b">
+    	     a requirement that the apprentice receive a minimum of 150 hours per year of related classroom instruction during the period of apprenticeship in the occupation to which he is apprenticed and any examinations administered during such instruction shall be monitored by a proctor;
+        </section>
+        <section prefix="c">
+    	     a schedule of the work processes to be learned in the occupation;
+        </section>
+        <section prefix="d">
+    	     a progressively increasing scale of wages for the apprentice, during the period of apprenticeship, averaging at least 1/2 of the rate of pay of a journey person over a similar period;
+        </section>
+        <section prefix="e">
+    	     a concise and accurate statement of the terms and conditions of the employment and training of the apprentice and a statement that the apprenticeship agreement shall be registered with the division within 30 days of its execution;
+        </section>
+        <section prefix="f">
+    	     a statement that such agreement may be terminated, within 6 months of its execution, by either the employer or the apprentice, for any reason;
+        </section>
+        <section prefix="g">
+    	     a statement that the agreement may be terminated by the deputy director any time during the duration of the agreement if the deputy director deems it proper; and
+        </section>
+        <section prefix="h">
+    	     a statement that the division is available to receive, investigate and resolve any complaints the apprentice has about the apprentice training program in which the apprentice is registered.
+        </section>
+    </text>
+</law>

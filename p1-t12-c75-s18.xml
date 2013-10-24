@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Officers; Equipment</catch_line>
+    <order_by>18</order_by>
+    <text>
+        The trustees shall appoint a director of said station, a chemist and necessary assistants, and shall provide and maintain suitable and necessary appliances for the purposes specified in the preceding section.
+    </text>
+</law>

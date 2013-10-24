@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22" order_by="22" level="3">Department Of Public Safety</unit>
+    </structure>
+    <section_number>7A</section_number>
+    <catch_line>Injuries In Line Of Duty; Police Services; Medical Expenses</catch_line>
+    <order_by>7A</order_by>
+    <text>
+        The commissioner may authorize the payment, out of any appropriation made for traveling or other expenses of the department, of the reasonable hospital, medical and surgical expenses incurred by any inspector of the department when temporarily or permanently disabled by reason of injuries sustained through no fault of his own while actually performing police service, or while in training.
+    </text>
+</law>

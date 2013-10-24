@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66" order_by="66" level="3">Public Records</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Penalties</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Whoever unlawfully keeps in his possession any public record or removes it from the room where it is usually kept, or alters, defaces, mutilates or destroys any public record or violates any provision of this chapter shall be punished by a fine of not less than ten nor more than five hundred dollars, or by imprisonment for not more than one year, or both. Any public officer who refuses or neglects to perform any duty required of him by this chapter shall for each month of such neglect or refusal be punished by a fine of not more than twenty dollars.
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>82</section_number>
+    <catch_line>Aggregate Statistical Report Of Taxes Collected; Contents</catch_line>
+    <order_by>82</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner annually shall prepare and publish an aggregate statistical report of taxes collected from corporations and other businesses, other than marine insurance companies, taxable under section twenty-nine A of chapter sixty-three, that are (i) taxable under any provision of chapter sixty-three and (ii) required to file a return under section eleven or twelve of this chapter.
+        </section>
+        <section prefix="b">
+    	     The report shall contain the following tax return information:
+        </section>
+        <section prefix="1">
+    	     the aggregate amount of tax collected under chapter sixty-three;
+        </section>
+        <section prefix="2">
+    	     the aggregate amount of each credit, deduction, exemption and exclusion allowed under chapter sixty-three that results in a tax expenditure by the commonwealth, provided that the report need not contain such information with respect to (i) any deduction, exemption, or exclusion, allowed under the Internal Revenue Code and adopted by the commonwealth, that results in a tax expenditure by the commonwealth of less than five million dollars for the calendar year to which the report relates or (ii) any credit, deduction, exemption, or exclusion, that is determined separately from any credit, deduction, exemption, or exclusion allowed under the Internal Revenue Code that results in a tax expenditure by the commonwealth of less than one million dollars for the calendar year to which the report relates.
+        </section>
+        <section prefix="3">
+    	     such other aggregate information as the commissioner deems appropriate.
+        </section>
+        <section prefix="c">
+    	     For purposes of the report, the relevant aggregate tax return information designated under subsection (b) shall be stated separately for taxpayers within each of several major industry groups determined by the commissioner. In addition, such information shall be stated separately for each of the ranges of amounts of relevant items included in the reports required under section eighty-three as such ranges are determined by the commissioner.
+        </section>
+        <section prefix="d">
+    	     Each report shall be based on a period of one calendar year and shall include returns for the taxable years beginning during that calendar year. The report for each period shall be issued within three calendar years of the end of such period; provided, however, that the initial report required by this section shall be issued by December thirty-first, nineteen hundred and ninety-three and shall be based on tax return information relating to taxable years beginning during the calendar year nineteen hundred and ninety. Notwithstanding any other provision of this section, information not required to be reported on Massachusetts tax returns need not be included in reports relating to taxable years beginning before January first, nineteen hundred and ninety-three, and information regarding the amount of any excess tax credit or credits subject to carry-over to future taxable years and the amount of domestic life insurance company income subject to apportionment need not be included in reports relating to taxable years beginning before January first, nineteen hundred and ninety-two.
+        </section>
+        <section prefix="e">
+    	     Nothing in this section shall allow or require the commissioner to disclose the identity of any taxpayer that provides tax return information included in the report required by this section.
+        </section>
+    </text>
+</law>

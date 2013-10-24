@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>116</section_number>
+    <catch_line>Acceptance Of Gifts</catch_line>
+    <order_by>116</order_by>
+    <text>
+        The adjutant general, with the approval of the governor and council, may accept on behalf of the commonwealth any gift or bequest of personal property to or for the use of the military forces of the commonwealth, and shall forthwith transfer any money or securities so received to the state treasurer who shall administer the same as provided in section seventeen A of chapter ten.
+    </text>
+</law>

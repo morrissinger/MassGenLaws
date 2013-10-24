@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43" order_by="43" level="3">City Charters</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Dates Of Elections Under Adopted Plan; Municipal Year Defined</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     If the plan adopted provides for annual elections, regular municipal elections under said plan shall take place in the year following its adoption, and thereafter, on the Tuesday next following the first Monday of December in each year; provided, that if said city accepts or has accepted section one hundred and three A of chapter fifty-four all regular municipal elections under such plan following such acceptance shall take place on the third Tuesday of December in each year;
+        </section>
+        <section prefix="b">
+    	     If the plan adopted provides for elections to be held biennially in every even-numbered year, the regular municipal election next succeeding the adoption of such plan shall take place on the Tuesday following the first Monday of December in the even-numbered year next succeeding the year of its adoption, and regular municipal elections thereafter shall take place on the Tuesday next following the first Monday of December in every even-numbered year; provided, that in any such city which accepts or has accepted said section one hundred and three A all regular municipal elections under said plan following such acceptance shall take place biennially on the third Tuesday of December in every even-numbered year; and
+        </section>
+        <section prefix="c">
+    	     If the plan adopted provides for elections to be held biennially in every odd-numbered year, the first regular municipal election following its adoption shall take place in the odd-numbered year next succeeding the year of its adoption on the day fixed for the holding of such elections under the laws in effect in such city immediately prior to such adoption, and regular municipal elections thereafter shall take place in every odd-numbered year on the day fixed as aforesaid; provided, that in any city which adopts Plan E all regular municipal elections shall take place as provided in section one hundred and nine.
+        </section>
+    </text>
+</law>

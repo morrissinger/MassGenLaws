@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>9A</section_number>
+    <catch_line>American Sign Language</catch_line>
+    <order_by>9A</order_by>
+    <text>
+        American Sign Language is hereby recognized as a full and legitimate language, as the language of a unique culture in the United States, and as the equivalent of a spoken language for the purposes of foreign language study and course credit.
+    </text>
+</law>

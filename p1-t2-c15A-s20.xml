@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Educational Opportunities Information Center</catch_line>
+    <order_by>20</order_by>
+    <text>
+        There shall be an educational opportunities information center in the office of the council to provide information and assistance to prospective college and university students, and to public and independent institutions of higher education on matters regarding student admissions, transfers, and enrollments. 
+Such public institutions shall cooperate with the center by furnishing such nonconfidential information as may assist the center in the performance of its duties. The center may request and receive similar information from private or other public educational institutions to the commonwealth. 
+An applicant for admission to an institution whose application is not accepted may send to the center appropriate nonconfidential information concerning his application. The center may, at its discretion and with permission of the applicant, direct the attention of the applicant to other institutions and direct the attention of other institutions to the applicant. 
+The center may conduct such studies and analyses of admission, transfers and enrollments as may be deemed appropriate.
+    </text>
+</law>

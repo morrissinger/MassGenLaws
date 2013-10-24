@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Judicial Review</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     Proceedings for judicial review of an agency decision shall be instituted in the superior court for the county (a) where the plaintiffs or any of them reside or have their principal place of business within the commonwealth, or (b) where the agency has its principal office, or (c) of Suffolk. The court may grant a change of venue upon good cause shown. The action shall, except as otherwise provided by law, be commenced in the court within thirty days after receipt of notice of the final decision of the agency or if a petition for rehearing has been timely filed with the agency, within thirty days after receipt of notice of agency denial of such petition for rehearing. Upon application made within the thirty-day period or any extension thereof, the court may for good cause shown extend the time.
+        </section>
+        <section prefix="2">
+    	     Service shall be made upon the agency and each party to the agency proceeding in accordance with the Massachusetts Rules of Civil Procedure governing service of process. For the purpose of such service the agency upon request shall certify to the plaintiff the names and addresses of all such parties as disclosed by its records, and service upon parties so certified shall be sufficient. All parties to the proceeding before the agency shall have the right to intervene in the proceeding for review. The court may in its discretion permit other interested persons to intervene.
+        </section>
+        <section prefix="3">
+    	     The commencement of an action shall not operate as a stay of enforcement of the agency decision, but the agency may stay enforcement, and the reviewing court may order a stay upon such terms as it considers proper.
+        </section>
+        <section prefix="4">
+    	     The agency shall, by way of answer, file in the court the original or a certified copy of the record of the proceeding under review. The record shall consist of (a) the entire proceedings, or (b) such portions thereof as the agency and the parties may stipulate, or (c) a statement of the case agreed to by the agency and the parties. The expense of preparing the record may be assessed as part of the costs in the case, and the court may, regardless of the outcome of the case, assess any one unreasonably refusing to stipulate to limit the record, for the additional expenses of preparation caused by such refusal. The court may require or permit subsequent corrections or additions to the record when deemed desirable.
+        </section>
+        <section prefix="5">
+    	     The review shall be conducted by the court without a jury and shall be confined to the record, except that in cases of alleged irregularities in procedure before the agency, not shown in the record, testimony thereon may be taken in the court.
+        </section>
+        <section prefix="6">
+    	     If application is made to the court for leave to present additional evidence, and it is shown to the satisfaction of the court that the additional evidence is material to the issues in the case, and that there was good reason for failure to present it in the proceeding before the agency, the court may order that the additional evidence be taken before the agency upon such conditions as the court deems proper. The agency may modify its findings and decision by reason of such additional evidence and shall file with the reviewing court, to become part of the record, the additional evidence, together with any modified or new findings or decision.
+        </section>
+        <section prefix="7">
+    	     The court may affirm the decision of the agency, or remand the matter for further proceedings before the agency; or the court may set aside or modify the decision, or compel any action unlawfully withheld or unreasonably delayed, if it determines that the substantial rights of any party may have been prejudiced because the agency decision is—
+        </section>
+        <section prefix="a">
+    	     In violation of constitutional provisions; or
+        </section>
+        <section prefix="b">
+    	     In excess of the statutory authority or jurisdiction of the agency; or
+        </section>
+        <section prefix="c">
+    	     Based upon an error of law; or
+        </section>
+        <section prefix="d">
+    	     Made upon unlawful procedure; or
+        </section>
+        <section prefix="e">
+    	     Unsupported by substantial evidence; or
+        </section>
+        <section prefix="f">
+    	     Unwarranted by facts found by the court on the record as submitted or as amplified under paragraph (6) of this section, in those instances where the court is constitutionally required to make independent findings of fact; or
+        </section>
+        <section prefix="g">
+    	     Arbitrary or capricious, an abuse of discretion, or otherwise not in accordance with law.
+        </section>
+    </text>
+</law>

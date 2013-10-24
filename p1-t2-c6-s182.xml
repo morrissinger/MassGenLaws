@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>182</section_number>
+    <catch_line>Advisory Function; Duties</catch_line>
+    <order_by>182</order_by>
+    <text>
+        <section prefix="i">
+    	     plan long-range nutrition programs for the commonwealth according to need;
+        </section>
+        <section prefix="ii">
+    	     inform the commissioners serving on the board, and other state employees when necessary, as to the goals set forth by the White House Conference on Food and Nutrition;
+        </section>
+        <section prefix="iii">
+    	     review and evaluate existing food and nutritionally related programs, including school lunch and other meal programs, food assistance programs, such as the food commodity distribution program and the food stamp program, budget allocations for dietary needs under the categorical financial assistance programs, nutrition programs for the elderly, and any other such programs;
+        </section>
+        <section prefix="iv">
+    	     survey the nutritional health of the citizens of the commonwealth, particularly that of low-income persons and other high risk groups;
+        </section>
+        <section prefix="v">
+    	     assist in planning the development of nutrition programs and projects in private and public institutions and the various bureaus, departments and offices of the commonwealth and its political subdivisions;
+        </section>
+        <section prefix="vi">
+    	     review the annual plans and the proposed budgets of the various state departments insofar as said plans and budget relate to or have an effect on any nutrition or nutritionally related matters or programs, the eating habits of the citizens of the commonwealth or the nutritional health of the citizens of the commonwealth and make recommendations to the commissioners of the various departments in relation thereto;
+        </section>
+        <section prefix="vii">
+    	     devise a plan whereby the benefits of various governmental and nongovernmental funding opportunities can be secured for the citizens of the commonwealth;
+        </section>
+        <section prefix="viii">
+    	     submit an annual report to the governor, the commissioners of departments of the commonwealth and the general court, which report may include recommendations for legislation regarding nutritional and food service problems and programs in the commonwealth.
+        </section>
+    </text>
+</law>

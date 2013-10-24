@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Issuance Of License Or Approval To Persons Or Department, Agency And Institution Meeting Applicable Standards And Requirements; Provisional License Or Approval</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall issue and may renew a license to any person other than a department, agency or institution of the commonwealth or any political subdivision thereof, who meets applicable standards and requirements to establish and maintain or to assist in the establishment and maintenance of a school-aged child care program, a child care center, family child care home, placement agency or large family child care home, family foster care which is not supervised and approved by a placement agency, group care facility or temporary shelter facility.
+        </section>
+        <section prefix="b">
+    	     The department shall issue approval to a department, agency, or institution of the commonwealth or any political subdivision thereof which it determines meets the applicable standards and requirements to establish and maintain a child care center, family child care home or large family child care home, placement agency, group care facility or temporary shelter facility.
+        </section>
+        <section prefix="c">
+    	     The department may issue a provisional license for or may provisionally approve a school-aged child care program, a child care center, family child care home or large family child care home, family foster care which is not supervised and approved by a placement agency, placement agency, group care facility or temporary shelter facility, which has not previously operated, or is operating, but is temporarily unable to meet applicable standards and requirements. A provisional license or approval shall be issued for a period not to exceed 6 months, and in no case shall a person operate under a provisional license, provisional approval, or renewal thereof for more than 12 consecutive months.
+        </section>
+    </text>
+</law>

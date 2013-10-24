@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Altitude Of Aircraft Flights</catch_line>
+    <order_by>46</order_by>
+    <text>
+        Flight of aircraft over the lands and waters of this commonwealth, within the navigable air space as defined in section thirty-five, shall be lawful unless at such a low altitude as to interfere with the then existing use to which the land or water or space over the land or water is put by the owner or occupant, or unless so conducted as to be imminently dangerous to persons or property lawfully on the land or water beneath.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31F</section_number>
+    <catch_line>Vanpool Vehicle Registration; Fee</catch_line>
+    <order_by>31F</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon registration of a vanpool vehicle, registration plates for each vehicle shall be provided which include the word VANPOOL on the face thereof.
+        </section>
+        <section prefix="b">
+    	     There shall be no vehicle registration fee required for vanpool vehicle owners who are able to establish the following:
+        </section>
+        <section prefix="1">
+    	     the vanpool vehicle will be used principally for the purpose of carrying employees between their residences and their places of employment or nearby public transportation facilities.
+        </section>
+        <section prefix="2">
+    	     there is a signed list of seven persons, including the driver of the vanpool vehicle, who have agreed to participate in the vanpool for at least eleven of the twelve months subsequent to the registration of the vehicle.
+        </section>
+        <section prefix="3">
+    	     such vehicle is covered by a policy of insurance which shall indemnify the insured against any liability for personal injury, the death of any person or property damage, which injury, death or damage may result from or have been caused by the use or operation of the vanpool vehicle described in the contract of insurance. The amount of such insurance or indemnity against claims for personal injury or death shall be not less than one million dollars. Any person or company issuing any such insurance or indemnity bond shall file a certificate with the registrar of motor vehicles in such form as may be prescribed by said registrar. No such insurance or bond shall be subject to nonrenewal or cancellation while the registration is in force unless said registrar has been given at least twenty days’ written notice prior to the effective date of nonrenewal or cancellation. If within such twenty day period said registrar is not presented with satisfactory evidence that other insurance or another indemnity bond has been obtained the registration shall be revoked. Liability under such insurance policy or bond shall continue beyond such twenty day notification period until such time as the registration for such vanpool vehicle has been surrendered and its plates have been returned to said registrar, but in no case shall such liability continue for more than ten days after such notification period has expired.
+        </section>
+        <section prefix="c">
+    	     If the vanpool owner is unable to establish the conditions of paragraph (b), the vehicle registration fee for each vanpool vehicle shall in no instance exceed the fee which would be required to be paid for such vehicle if it were not used for the purpose of vanpooling.
+        </section>
+    </text>
+</law>

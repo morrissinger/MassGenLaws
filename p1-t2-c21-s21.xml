@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Conservation Districts; Formation, Change Of Boundaries Or Dissolution Of District; Procedure</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="1">
+    	     Upon the receipt of such petition, the state commission shall as soon as possible set a date for a public hearing upon the question of the establishment of the district, the change in the boundaries of an existing district, or the dissolution of the district, as the case may be, and shall cause notice to be given of such hearing at least ten days prior to the date set therefor, by publication in a newspaper having general circulation in the area affected. Such hearing shall be held by the state commission within the affected area. All interested parties shall have the right to attend such hearing and to be heard.
+        </section>
+        <section prefix="2">
+    	     If the state commission determines after such hearing that a majority of the land occupiers who would be affected by the organization of the district, the change in the boundaries of the district, or the dissolution of the district, as the case may be, are in favor of the proposal contained in the petition, and that such proposal is in the best interests of the district or in the public interest, the state commission shall record such determinations; and thereupon the district shall be established, the boundaries of the district changed, or the district dissolved, as may be appropriate.
+        </section>
+        <section prefix="3">
+    	     If a conservation district is dissolved, the supervisors shall forthwith proceed to terminate the affairs of the district and shall dispose of all property belonging to the district as directed by the director. Any sums remaining on hand after payment of district obligations shall be paid into the state treasury and shall be subject for a period of three years to claims against the district or the supervisors acting in their official capacity to the extent that such claims are found valid.
+        </section>
+    </text>
+</law>

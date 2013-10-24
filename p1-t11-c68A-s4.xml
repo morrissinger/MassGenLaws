@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68A" order_by="68A" level="3">Limitations Upon The Conduct Of Certain Trusts And Corporations Having Charitable Interests</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Prohibited Acts Of Corporations</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     engage in any act of “self-dealing” (as defined in section 4941(d) of said Code), which would give rise to any liability for the tax imposed by section 4941(a) of said Code;
+        </section>
+        <section prefix="b">
+    	     retain any “excess business holdings” (as defined in section 4943(c) of said Code), which would give rise to any liability for the tax imposed by section 4943(a) of said Code;
+        </section>
+        <section prefix="c">
+    	     make any investment which would jeopardize the carrying out of any of its exempt purposes, within the meaning of section 4944 of said Code, so as to give rise to any liability for the tax imposed by section 4944(a) of said Code; or
+        </section>
+        <section prefix="d">
+    	     make any “taxable expenditures” (as defined in section 4945(d) of said Code) which would give rise to any liability for the tax imposed by section 4945(a) of said Code.
+        </section>
+    </text>
+</law>

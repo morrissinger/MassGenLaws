@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61A" order_by="61A" level="3">Assessment And Taxation Of Agricultural And Horticultural Land</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Land In Horticultural Use Defined</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Land shall be considered to be in horticultural use when primarily and directly used in raising fruits, vegetables, berries, nuts and other foods for human consumption, feed for animals, tobacco, flower, sod, trees, nursery or greenhouse products, and ornamental plants and shrubs for the purpose of selling these products in the regular course of business; or when primarily and directly used in raising forest products under a certified forest management plan, approved by and subject to procedures established by the state forester, designed to improve the quantity and quality of a continuous crop for the purpose of selling these products in the regular course of business; or when primarily and directly used in a related manner which is incidental to those uses and represents a customary and necessary use in raising these products and preparing them for market.
+    </text>
+</law>

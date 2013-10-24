@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64K" order_by="64K" level="3">Controlled Substances Tax</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Immunity From Criminal Prosecution</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Nothing in this chapter shall be construed to provide immunity for a dealer from criminal prosecution pursuant to Massachusetts law.
+    </text>
+</law>

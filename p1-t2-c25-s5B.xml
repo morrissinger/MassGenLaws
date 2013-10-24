@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25" order_by="25" level="3">Department Of Public Utilities</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        The department shall issue, following public hearings in accordance with chapter thirty A, rules and regulations for the enforcement of section thirty-three A of chapter one hundred and sixty-four.
+    </text>
+</law>

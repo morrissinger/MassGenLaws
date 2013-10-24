@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Interest On Underpayment Of Estimated Taxes; Installment Payments</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, in the case of any underpayment of estimated tax by a corporation, there shall be added to the tax due under chapter sixty-three, or any law in lieu thereof, and under any law in addition thereto, for the taxable year an amount determined at the rate established under section thirty-two of chapter sixty-two C upon the amount of such underpayment for the period of such underpayment.
+        </section>
+        <section prefix="b">
+    	     For the purposes of subsection (a), the “amount of such underpayment” shall mean the excess of the required installment over the amount, if any, of the installment paid on or before the due date for the installment; and the “period of such underpayment” shall mean the period of time from the due date of the installment to the fifteenth day of the third month following the close of the taxable year, or with respect to any portion of the underpayment, the date on which such portion is paid, whichever is the earlier. A payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
+        </section>
+        <section prefix="c">
+    	     For purposes of this chapter, there shall be four required installments for each taxable year, except as otherwise provided by this chapter. The first installment shall be paid on or before the fifteenth day of the third month of the taxable year and shall be equal to forty percent of the required annual payment; the second installment shall be paid on or before the fifteenth day of the sixth month of the taxable year and shall be equal to twenty-five percent of the required annual payment; the third installment shall be paid on or before the fifteenth day of the ninth month of the taxable year and shall be equal to twenty-five percent of the required annual payment; and the fourth installment shall be paid on or before the fifteenth day of the twelfth month of the taxable year and shall be equal to the remaining ten percent of the required annual payment. Except as otherwise provided in this subsection, the term “required annual payment” shall mean the lesser of:
+        </section>
+        <section prefix="i">
+    	     ninety percent of the tax shown on the return for the taxable year or, if no return is filed, ninety percent of the tax for such year, or
+        </section>
+        <section prefix="ii">
+    	     one hundred percent of the tax shown on the return of the corporation for the preceding taxable year, or
+        </section>
+        <section prefix="iii">
+    	     90 per cent of the tax for the taxable year, or
+        </section>
+        <section prefix="iv">
+    	     90 per cent of the tax that would be required to be shown on the return for the taxable year if the tax were determined by using the income apportionment percentage determined for the preceding taxable year under chapter 63.
+        </section>
+    </text>
+</law>

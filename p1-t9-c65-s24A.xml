@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>“Death Tax,” Defined</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        The terms “death tax” and “death taxes”, as used in the five following sections, shall include inheritance, succession, transfer and estate taxes and any taxes levied against the estate of a decedent upon the occasion of his death.
+    </text>
+</law>

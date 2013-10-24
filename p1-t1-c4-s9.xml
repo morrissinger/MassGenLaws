@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="4" order_by="4" level="3">Statutes</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Time For Performance Of Acts Performable On Sunday Or Holiday</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Except as otherwise provided, when the day or the last day for the performance of any act, including the making of any payment or tender of payment, authorized or required by statute or by contract, falls on Sunday or a legal holiday, the act may, unless it is specifically authorized or required to be performed on Sunday or on a legal holiday, be performed on the next succeeding business day.
+    </text>
+</law>

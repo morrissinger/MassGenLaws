@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>32J</section_number>
+    <catch_line>Vehicles In Fleet Of Car Sharing Organization; Display Of Registration Plates</catch_line>
+    <order_by>32J</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, “car-sharing organization” shall mean a membership-based entity with a distributed fleet of private passenger motor vehicles that are made available to its members primarily for hourly or other short-term use through a self-service fully automated reservation system that periodically charges a membership fee separate from a use-based fee relating to a specific vehicle; provided, however, that “car-sharing organization” shall not include an arrangement where a separate written agreement is entered into each time a vehicle is transferred to a customer.
+        </section>
+        <section prefix="b">
+    	     Vehicles in a fleet of a car-sharing organization may display private passenger motor vehicle registration number plates issued by the registrar; provided, however, that a registered vehicle of any such organization which identifies the name of the organization by business markings thereon shall not be required to display a commercial registration plate if the markings are limited to the name, address, telephone number, logo or website address of the organization.
+        </section>
+    </text>
+</law>

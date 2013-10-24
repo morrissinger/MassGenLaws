@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Accounts Of Contributions And Expenditures; Violations; Penalties</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     the full name and residential address of each person who has made a contribution, in an amount or value in excess of fifty dollars in a reporting period, and such information for each contribution of less than or equal to the sum of fifty dollars, if the aggregate of all contributions received from such contributor within said reporting period is in excess of fifty dollars, and the amount of value and date of the contribution;
+        </section>
+        <section prefix="2">
+    	     the amount or value and date of each contribution made in a reporting period, which is not otherwise included under clause (1);
+        </section>
+        <section prefix="3">
+    	     the full name and address of each person to whom an expenditure is made in excess of fifty dollars in a reporting period, a receipted bill stating the particulars of each such expenditure, including the amount or value, date and purpose of each such expenditure;
+        </section>
+        <section prefix="4">
+    	     the amount or value, date and purpose of each expenditure made in a reporting period, which is not otherwise included under clause (3).
+        </section>
+    </text>
+</law>

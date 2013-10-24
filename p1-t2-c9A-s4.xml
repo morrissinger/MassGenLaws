@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9A" order_by="9A" level="3">Address Confidentiality Program</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Acceptance Of Address Designations By Secretary As A Substitute Address For Program Participants</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="1">
+    	     The agency has a bona fide statutory or administrative requirement for the use of the participant’s actual residential address, such that it is unable to fulfill its statutory duties and obligations without such residential address; and
+        </section>
+        <section prefix="2">
+    	     The participant’s actual residential address will be used only for those statutory and administrative purposes.
+        </section>
+    </text>
+</law>

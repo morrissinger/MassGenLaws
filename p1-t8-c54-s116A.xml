@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>116A</section_number>
+    <catch_line>Election Of Person Not Listed On State Ballot; Financial Interest Statement</catch_line>
+    <order_by>116A</order_by>
+    <text>
+        Any person whose name does not appear on the state election ballot, but who receives sufficient votes to elect him to an office appearing on said ballot, shall within three days after the certification of his election file a statement of financial interest under chapter two hundred and sixty-eight B with the state ethics commission, if he has not already done so.
+    </text>
+</law>

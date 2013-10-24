@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Real Estate Appraisal Review Board</catch_line>
+    <order_by>43</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be within the division a real estate appraisal review board. The board shall consist of not less than 3 nor more than 5 members to be appointed by the governor, 2 of whom shall be certified general real estate appraisers licensed by the board of real estate appraisers pursuant to section 92 of chapter 13. Members of the board shall be appointed for terms of 3 years or until a successor is appointed. Members shall be eligible to be reappointed and may be compensated at a rate to be determined by the division. Members of the board shall be state employees for the purposes of chapter 268A. A chairman of the board shall be elected annually from the membership. The division shall provide administrative support to the council as requested. In the event of a vacancy on the board, the governor shall appoint a new member consistent with this section to fulfill the remainder of the unexpired term.
+        </section>
+        <section prefix="b">
+    	     The division shall not purchase or acquire by eminent domain any real property or any interest in real property with a value in excess of $300,000 without the written approval of the board.
+        </section>
+        <section prefix="c">
+    	     The board shall meet periodically, but not less than twice each year. The board shall keep a public record of all meetings, votes and other business.
+        </section>
+        <section prefix="d">
+    	     The board shall submit an annual report of its activities during the preceding fiscal year not later than September 1 to the governor, the secretary of the Massachusetts Department of Transportation, the administrator, the chairs of the joint committee on transportation and the chairs of the house and senate committees on ways and means.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>6C</section_number>
+    <catch_line>Failure To Comply With Sec. 6 B; Report</catch_line>
+    <order_by>6C</order_by>
+    <text>
+        If the state secretary finds that any agency fails to comply with any provision of section six B, he shall report the matter to the governor and the attorney general.
+    </text>
+</law>

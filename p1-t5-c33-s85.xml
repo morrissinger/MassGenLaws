@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>85</section_number>
+    <catch_line>Subsistence</catch_line>
+    <order_by>85</order_by>
+    <text>
+        Subsistence for members of the armed forces of the commonwealth ordered to duty under the provisions of sections thirty-eight, forty, forty-one, forty-two and sixty, shall be furnished in kind unless otherwise directed by the adjutant general.
+    </text>
+</law>

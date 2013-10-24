@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64H" order_by="64H" level="3">Tax On Retail Sales Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Service Of Notices</catch_line>
+    <order_by>29</order_by>
+    <text>
+        Any notice authorized or required under the provisions of this chapter may be served personally or may be given by mailing the same, postage prepaid, to the person for whom it is intended, addressed to such person at his address as it appears in the records of the commissioner.
+    </text>
+</law>

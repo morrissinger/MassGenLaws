@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94B" order_by="94B" level="3">Hazardous Substances</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Commissioner; General Powers</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever in the judgment of the commissioner such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the commissioner may by reasonable rules and regulations declare to be a hazardous substance, for the purpose of this chapter, any substance or mixture of substances which he finds meets the requirements of the same term as defined in section one.
+        </section>
+        <section prefix="b">
+    	     If the commissioner finds that the requirements of section one, as to labeling of a “misbranded hazardous substance” are not adequate for the protection of the public health and safety in view of the special hazard presented by any particular hazardous substance, he may by regulation establish such reasonable variations of additional label requirements as he finds necessary for the protection of the public health and safety; and any hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with these regulations shall be deemed to be a misbranded hazardous substance.
+        </section>
+        <section prefix="c">
+    	     If the commissioner finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health and safety, he shall promulgate regulations exempting the substance from these requirements, to an extent he determines consistent with adequate protection of the public health and safety.
+        </section>
+        <section prefix="d">
+    	     If the commissioner finds that an article subject to this chapter cannot be labeled adequately to protect the public health and safety, or the article presents an imminent danger to the public health and safety, he may declare the article to be a banned hazardous substance and require its removal from commerce.
+        </section>
+    </text>
+</law>

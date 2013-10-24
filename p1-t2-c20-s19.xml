@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="20" order_by="20" level="3">Department Of Food And Agriculture</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Appeal</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Any person aggrieved by a decision of the commissioner may, within ten days after such decision, appeal therefrom, by petition to the superior court in the county he resides in, or the county of Suffolk. The court shall hear such petitions speedily in accordance with the usual course of procedure in equity, and may affirm, modify or revoke such decision.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18B" order_by="18B" level="3">Department Of Social Services</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Regional Offices; Directors</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The commissioner may, subject to appropriation, establish regional offices at such locations in the commonwealth as may be deemed necessary to ensure the development and maintenance of effective administration in the provision of social services therein. 
+The commissioner may, subject to appropriation, appoint regional social services directors to administer the regional offices and perform such duties as may be assigned by the commissioner.
+    </text>
+</law>

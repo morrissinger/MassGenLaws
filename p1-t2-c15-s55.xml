@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15" order_by="15" level="3">Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Reach Awards</catch_line>
+    <order_by>55</order_by>
+    <text>
+        <section prefix="a">
+    	     the increase in the percentage of students passing all three sections of the basic skills test;
+        </section>
+        <section prefix="b">
+    	     the maintenance of at least a ninety-five per cent passing rate on all three sections of the basic skills test for no less than two successive years;
+        </section>
+        <section prefix="c">
+    	     the number of students who previously failed any of the basic skills areas but who succeed in passing upon retesting in grades nine through twelve;
+        </section>
+        <section prefix="d">
+    	     the increase, over the previous year, in the percentage of eligible school age children residing in the district and attending the public schools;
+        </section>
+        <section prefix="e">
+    	     the decrease in the school’s or the district’s dropout rate;
+        </section>
+        <section prefix="f">
+    	     the promotion of physical and emotional well-being and a positive school environment that fosters self-esteem;
+        </section>
+        <section prefix="g">
+    	     the improvement of critical thinking and communication skills;
+        </section>
+        <section prefix="h">
+    	     the recognition of the rights and responsibilities of citizenship in a democratic society;
+        </section>
+        <section prefix="i">
+    	     the cultivation of shared values and mutual respect;
+        </section>
+        <section prefix="j">
+    	     the appreciation of the arts and the encouragement of creative expression;
+        </section>
+        <section prefix="k">
+    	     the understanding of history and the humanities;
+        </section>
+        <section prefix="l">
+    	     the comprehension of mathematics, the sciences, and the uses of technology;
+        </section>
+        <section prefix="m">
+    	     the mastery of foreign languages and interest in foreign cultures;
+        </section>
+        <section prefix="n">
+    	     the development of occupational and vocational skills; and
+        </section>
+        <section prefix="o">
+    	     the stimulation of desire for lifelong learning.
+        </section>
+    </text>
+</law>

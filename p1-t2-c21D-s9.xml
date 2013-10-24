@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Review Of Proposals; Suggestions For Sites</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="1">
+    	     private individuals who own, or have a substantial financial interest in, the suggested site;
+        </section>
+        <section prefix="2">
+    	     the chief executive officer or the local assessment committee of a host community suggesting a site within said host community which is publicly owned and probably available for lease or sale to the developer, or which is privately owned, where reasonable grounds exist for the belief that said site might be readily available for use as a site for a facility;
+        </section>
+        <section prefix="3">
+    	     the developer suggesting a site either as an alternative to, or in addition to the site originally proposed in his notice of intent or as an initial suggestion for a site if none was proposed in his notice of intent;
+        </section>
+        <section prefix="4">
+    	     any agency of the commonwealth suggesting a site which is publicly owned and probably available for lease or sale to the developer, or which is privately owned, where reasonable grounds exist for the belief that said site might be readily available for use as a site for a facility; and
+        </section>
+        <section prefix="5">
+    	     the chief executive officer of any city or town in the commonwealth suggesting a site in his city or town which is publicly owned and probably available for lease or sale to the developer, or which is privately owned, where reasonable grounds exist for the belief that said site might be readily available for use as a site for a facility.
+        </section>
+    </text>
+</law>

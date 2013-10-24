@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31D</section_number>
+    <catch_line>Definitions Applicable To Secs. 31 D To 31 F</catch_line>
+    <order_by>31D</order_by>
+    <text>
+        <section prefix="1">
+    	     has a seating capacity of at least seven adults, including the driver;
+        </section>
+        <section prefix="2">
+    	     at least eighty per cent of the mileage of which reasonably can be expected to be for the purpose of transporting taxpayer’s employees between their residence, or public transportation facilities that interface with such routes and their place of employment within the commonwealth, provided, however, that the number of employees transported on such trips is at least one half of the adult seating capacity of such vehicle, not including the driver.
+        </section>
+        <section prefix="1">
+    	     an individual who performs service for an employer for more than eight hours per week for remuneration, or
+        </section>
+        <section prefix="2">
+    	     any commuting student.
+        </section>
+        <section prefix="1">
+    	     a person for whom services are performed by employees, except government agencies, or
+        </section>
+        <section prefix="2">
+    	     a private educational institution which enrolls students at higher than the secondary level.
+        </section>
+    </text>
+</law>

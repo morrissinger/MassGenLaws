@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>118</section_number>
+    <catch_line>Presidential Electors; Copies Of Records Of Votes; Proclamations;  Certificate Of Election</catch_line>
+    <order_by>118</order_by>
+    <text>
+        The copies of the records of votes for presidential electors shall, in any event, within ten days after they have been transmitted to the state secretary, be examined by the governor and council, who shall thereafter declare, by proclamation, the names of the persons who have received at least one-fifth of the entire number of votes cast for electors, and the number of votes received by each such person. The several persons, to the number of electors required to be chosen, who have received the highest number of votes so ascertained, unless notice of a contest has been received by the governor, shall, at the expiration of fourteen days from the date of such proclamation, be deemed to be elected; and the governor shall thereupon issue a certificate of election to every such person.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94B" order_by="94B" level="3">Hazardous Substances</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Prohibited Acts</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall sell, expose for sale, deliver, give away, have in his possession, introduce or deliver for introduction into commerce any misbranded hazardous substance or banned hazardous substance.
+        </section>
+        <section prefix="b">
+    	     No person shall alter, mutilate, destroy, obliterate or remove the whole or any part of the label of, or do any other act with respect to, any hazardous substance if such act is done while the substance is in commerce or held for sale, whether or not the first sale, and such act results in the hazardous substance being a misbranded hazardous substance or a banned hazardous substance.
+        </section>
+        <section prefix="c">
+    	     No person shall receive in commerce any misbranded hazardous substance or banned hazardous substance and deliver or proffer delivery thereof for pay or otherwise.
+        </section>
+        <section prefix="d">
+    	     No person shall give a guarantee or undertaking referred to in section four which guarantee or undertaking is false, except in reliance upon a guarantee or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the hazardous substance.
+        </section>
+        <section prefix="e">
+    	     No person shall sell, expose for sale, deliver, give away, have in his possession, introduce or deliver for introduction into commerce, or receive in commerce and subsequently deliver or proffer delivery for pay or otherwise, any hazardous substance in a reused food, drug or cosmetic container or in a container which though not a reused container, is identifiable as a food, drug, or cosmetic container by its labeling or by other identification. The reuse of a food, drug or cosmetic container as a container for a hazardous substance shall be deemed to be an act which results in the hazardous substance being a misbranded hazardous substance. As used in this paragraph, the terms “food”, “drug”, and “cosmetic” shall have the same meaning as in section one of chapter ninety-four.
+        </section>
+        <section prefix="f">
+    	     No person shall manufacture any hazardous substance that is misbranded with the intent that the same be distributed or sold in violation of this chapter.
+        </section>
+        <section prefix="g">
+    	     No person shall use to his own advantage, or reveal other than to the commissioner or officers or employees of the department or to the courts when relevant in any judicial proceeding under this chapter or to a physician treating a patient for potential poisoning any information acquired under authority of sections six and seven concerning any method or process which as a trade secret is entitled to protection.
+        </section>
+    </text>
+</law>

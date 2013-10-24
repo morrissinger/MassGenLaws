@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="17" order_by="17" level="3">Department Of Public Health</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Advisory Council On Quality Of Care In Nursing Homes; Members; Duties</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     to propose regulations to the department of public health establishing appropriate staffing levels for long-term care facilities to ensure quality of care for residents. In developing such regulations, the council shall consider the staffing ratios recommended by the National Citizens’ Coalition for Nursing Home Reform and staffing levels established in other states;
+        </section>
+        <section prefix="b">
+    	     to evaluate, annually, the required minimum staffing levels for nursing and ancillary nursing personnel set forth in department of public health’s long-term care facility regulations and to make recommendations to ensure adequate staffing;
+        </section>
+        <section prefix="c">
+    	     to submit a report, annually, to the governor and file a copy of the report with the state secretary, the clerks of the senate and house of representatives reflecting any legislative, budgetary and policy recommendations necessary to support and improve quality of care in nursing homes; and
+        </section>
+        <section prefix="d">
+    	     to study the status of the healthcare workforce in the commonwealth and develop legislative, budgetary and policy recommendations on labor recruitment and retention, including workforce development, compensation and benefits for staff of long term-care facilities. In developing such recommendations, the council shall consult with individuals and organizations with expertise in the area of labor recruitment and workforce issues.
+        </section>
+    </text>
+</law>

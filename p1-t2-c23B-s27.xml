@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23B" order_by="23B" level="3">Department Of Housing And Community Development</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Contracts With Rental Housing Project Sponsors For Financial Assistance; Loans; Findings</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="1">
+    	     the allocation of state rental assistance funds is necessary to achieve a fiscally sound project, and;
+        </section>
+        <section prefix="2">
+    	     alternative sources of funding are inappropriate; provided, however, that the director of housing and community development shall, pursuant to said determination, allocate funds appropriated for the state rental assistance program to eligible units within MHFA developments financed pursuant to this section, the number of said units to which state rental assistance funds shall be allocated, not to exceed twenty-five per cent of the total number of units in each development.
+        </section>
+    </text>
+</law>

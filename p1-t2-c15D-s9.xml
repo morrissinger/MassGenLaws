@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Inspection Of Facilities; Investigation And Evaluation Of Notices Of Abuse Or Neglect</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The department may, at any reasonable time, visit and inspect any facility operated by a person who is subject to licensure or approval under this section in order to determine whether the facility is being operated in compliance with law and with the rules and regulations established by the board.
+        </section>
+        <section prefix="b">
+    	     The department shall make an unannounced monitoring inspection of all large family day care homes within 6 months after the issuance of licenses for those facilities and shall, annually, make at least 1 such unannounced monitoring inspection thereafter.
+        </section>
+        <section prefix="c">
+    	     The department shall promptly investigate and evaluate any notice transmitted to the department by the department of children and families under subsection (l) of section 51B of chapter 119. Such investigation and evaluation shall determine whether the facility being operated by a person subject to licensure or approval under this section is being operated in compliance with this chapter and within the rules and regulations established under this chapter. If, during the course of any such investigation or licensing study conducted by the department, any agent or employee of the department receives or discovers information concerning the occurrence of child abuse or neglect, such agent or that employee shall make a report to the department of children and families under said section 51A of said chapter 119.
+        </section>
+    </text>
+</law>

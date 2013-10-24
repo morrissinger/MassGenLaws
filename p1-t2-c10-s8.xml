@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Receipt Of Federal Funds For Highways</catch_line>
+    <order_by>8</order_by>
+    <text>
+        He shall receive from the United States all sums of money payable to the commonwealth under any act of congress for the construction of any highways therein. The sums so received shall be credited to the Highway Fund.
+    </text>
+</law>

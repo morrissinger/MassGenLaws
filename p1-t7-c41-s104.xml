@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>104</section_number>
+    <catch_line>Establishment Of Purchasing Department; Submission To Electorate</catch_line>
+    <order_by>104</order_by>
+    <text>
+        A city council, with the approval of the mayor, may vote to submit the preceding section to the qualified voters of the city at any annual city election, in the form of the following question to be placed upon the ballot: 
+“Shall section one hundred and three of chapter forty-one of the General Laws, authorizing the establishment of purchasing departments in cities, be accepted?” 
+If a majority of the voters voting thereon shall vote in the affirmative, said section shall take effect in that city.
+    </text>
+</law>

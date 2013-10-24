@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>32D</section_number>
+    <catch_line>S Corporations; Net Income Measure</catch_line>
+    <order_by>32D</order_by>
+    <text>
+        <section prefix="a">
+    	     Any business corporation subject to an excise under section 39 which is an S corporation, as defined under section 1361 of the Code, as amended and in effect for the taxable year, shall determine the net income measure of the excise as follows:
+        </section>
+        <section prefix="i">
+    	     The net income shall be determined by taking into account subchapter S of said Code. Income or loss shall be determined as if it were realized or incurred directly by an owner subject to taxation under chapter 62 or 63, as applicable. In the case of an S corporation, income shall be included in the net income measure under this subsection to the extent that such income is taxed to the S corporation for federal income tax purposes; and
+        </section>
+        <section prefix="ii">
+    	     Any such business corporation which is an S corporation and has total receipts for the taxable year of $6,000,000 or more shall also include in the net income measure of the excise imposed under section 39 an amount determined by multiplying its net income determined to be taxable in accordance with this chapter by 1 of the following rates, in lieu of the rate provided in said section 39:—
+        </section>
+        <section prefix="1">
+    	     when the total receipts for the taxable year are at least $6,000,000 but less than $9,000,000, the rate shall be two-thirds of the rate specified in clause (2); and
+        </section>
+        <section prefix="2">
+    	     when the total receipts for the taxable year are $9,000,000 or more, the rate in any taxable year shall be calculated by subtracting the rate applicable to Part B taxable income for that year in subsection (b) of section 4 of chapter 62 from the rate applicable to business corporations in that taxable year under clause (2) of paragraph (a) of subsection (3) of section 39 of chapter 63.
+        </section>
+        <section prefix="b">
+    	     Qualified subchapter S subsidiaries shall not be subject to separate entity level taxation under this section or section 39. Rather, the parent S corporation shall be subject to tax under this section and section 39, and shall include the income and take into account the activities of all qualified subchapter S subsidiaries for purposes of determining the excise due under subsection (a) of this section, and shall include the value of the property or the net worth of all qualified subchapter S subsidiaries for purposes of determining the non-income measure of the excise under clause (1) of subsection (a) of section 39. The parent S corporation and its qualified subchapter S subsidiaries shall be jointly and severally liable for the tax due under this chapter.
+        </section>
+    </text>
+</law>

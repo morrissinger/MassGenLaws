@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Financial Institutions; Excise Rate</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsections (b) and (d), every financial institution engaged in business in the commonwealth shall pay, on account of each taxable year, an excise measured by its net income determined to be taxable under section two A at the following rate: taxable years beginning on or after January first, nineteen hundred and ninety-five but before January first, nineteen hundred and ninety-six, twelve and thirteen hundredths percent; on or after January first, nineteen hundred and ninety-six but before January first, nineteen hundred and ninety-seven, eleven and seventy-two hundredths percent; on or after January first, nineteen hundred and ninety-seven but before January first, nineteen hundred and ninety-eight, eleven and thirty-two hundredths percent; on or after January first, nineteen hundred and ninety-eight but before January first, nineteen hundred and ninety-nine, ten and ninety-one hundredths percent; on or after January first, nineteen hundred and ninety-nine, ten and one-half percent; provided, however, that the excise imposed hereunder shall be no less than four hundred and fifty-six dollars.
+        </section>
+        <section prefix="b">
+    	     Any corporation taxable under this section shall pay an excise measured by its net income determined to be taxable under section 2A at the following rates:— (i) for each taxable year beginning on or after January 1, 1995, but before January 1, 2010, 10.5 per cent; (ii) for each taxable year beginning on or after January 1, 2010, but before January 1, 2011, 10.0 per cent; (iii) for each taxable year beginning on or after January 1, 2011, but before January 1, 2012, 9.5 per cent; or (iv) for each taxable year beginning on or after January 1, 2012 and thereafter, 9.0 per cent; provided, however, that in no case shall the excise imposed under this section amount to less than $456.
+        </section>
+        <section prefix="c">
+    	     The commissioner is hereby authorized to adjust the net income of any taxpayer in accordance with the provisions of and the rules and regulations under section 482 of the Internal Revenue Code, as amended from time to time.
+        </section>
+        <section prefix="d">
+    	     Any financial institution that is an S corporation, as defined in section 1361 of the Code, shall not be subject to the tax provided in subsections (a) and (b) and shall instead be subject to the excise in section 2B.
+        </section>
+    </text>
+</law>

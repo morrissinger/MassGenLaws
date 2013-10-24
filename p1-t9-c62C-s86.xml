@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Convention Center Financing Surcharges; Administration; Collection</catch_line>
+    <order_by>86</order_by>
+    <text>
+        <section prefix="a">
+    	     The administration of the convention center financing surcharges imposed under subsections (d), (e) and (f) of section 9 of chapter 152 of the acts of 1997 is vested in the commissioner. All provisions of this chapter relative to assessment, collection, payment, abatement, verification and administration, including penalties and interest, shall, so far as pertinent, be applicable to the convention center financing surcharges as though they were taxes enumerated in section 2.
+        </section>
+        <section prefix="b">
+    	     The convention center financing surcharge imposed under subsection (d) of section 9 of chapter 152 of the acts of 1997 shall be collected by the operator of the tour or cruise and remitted to the department of revenue on a quarterly basis.
+        </section>
+        <section prefix="c">
+    	     The convention center financing surcharge imposed under subsection (e) of section 9 of said chapter 152 shall be collected by the vendor and remitted to the department of revenue on a quarterly basis.
+        </section>
+        <section prefix="d">
+    	     The convention center financing surcharge imposed under subsection (f) of section 9 of said chapter 152 shall be collected by the operator of the parking facility and remitted to the department of revenue on a quarterly basis.
+        </section>
+    </text>
+</law>

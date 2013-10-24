@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     any amount payable for the use or possession of real property or tangible property whether designated as a fixed sum of money or as a percentage of receipts, profits or otherwise;
+        </section>
+        <section prefix="b">
+    	     any amount payable as additional rent or in lieu of rent, such as interest, taxes, insurance, repairs or any other amount required to be paid by the terms of a lease or other arrangement; and
+        </section>
+        <section prefix="c">
+    	     a proportionate part of the cost of any improvement to real property made by or on behalf of the taxpayer which reverts to the owner or lessor upon termination of a lease or other arrangement. The amount to be included in gross rents shall be the amount of amortization or depreciation allowed in computing the taxable income base for the taxable year; provided, however, where a building is erected on leased land by or on behalf of the taxpayer, the value of the land shall be determined by multiplying the gross rent by eight and the value of the building shall be determined in the same manner as if owned by the taxpayer.
+        </section>
+        <section prefix="d">
+    	     the following shall not be included in the term “gross rents”:
+        </section>
+        <section prefix="i">
+    	     reasonable amounts payable as separate charges for water, steam, and electric service furnished by the lessor;
+        </section>
+        <section prefix="ii">
+    	     reasonable amounts payable as service charges for janitorial services furnished by the lessor;
+        </section>
+        <section prefix="iii">
+    	     reasonable amounts payable for storage, provided such amounts are payable for space not designated and not under the control of the taxpayer; and
+        </section>
+        <section prefix="iv">
+    	     that portion of any rental payment which is applicable to the space subleased from the taxpayer and not used by it.
+        </section>
+        <section prefix="a">
+    	     dividends received, except as otherwise provided;
+        </section>
+        <section prefix="b">
+    	     losses sustained in other taxable years;
+        </section>
+        <section prefix="c">
+    	     taxes on or measured by income, franchise taxes measured by net income, franchise taxes for the privilege of doing business and capital stock taxes imposed by a state;
+        </section>
+        <section prefix="d">
+    	     the deduction allowed by section 168 (k) of the Code;
+        </section>
+        <section prefix="e">
+    	     the deduction allowed by section 199 of the Code; or
+        </section>
+        <section prefix="f">
+    	     the deduction described in section 163(e)(5) of the Code, to the extent increased by amendments to section 163(e)(5)(F) and section 163(i)(1) of the Code, inserted by section 1232 of the American Recovery and Reinvestment Act of 2009.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64I" order_by="64I" level="3">Tax On The Storage, Use Or Other Consumption Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>31A</section_number>
+    <catch_line>Bond Or Deposit; Non Resident Contractors; Definition</catch_line>
+    <order_by>31A</order_by>
+    <text>
+        <section prefix="a">
+    	     Where a nonresident contractor enters into a contract with a person pursuant to which or in the carrying out of which tangible personal property will be consumed or used within the commonwealth, the nonresident contractor shall deposit with the commissioner a sum equivalent to 6.25 per cent of the total amount to be paid under the contract, or shall furnish the commissioner with a guarantee bond satisfactory to the commissioner in a sum equivalent to 6.25 per cent of such total amount, to secure payment of the tax payable relative to tangible personal property consumed or used pursuant to or in the carrying out of the contract and shall obtain a certificate in duplicate from the commissioner that the requirements of this subsection have been met.
+        </section>
+        <section prefix="b">
+    	     Any person dealing with a nonresident contractor without first obtaining the duplicate copy of the certificate from the commissioner as required in subsection (a) shall deduct 6.25 per cent of all amounts payable to the nonresident contractor and pay it over to the commissioner on behalf of or as agent for the nonresident contractor, or shall furnish the commissioner with a guarantee bond satisfactory to the commissioner in a sum equivalent to 6.25 per cent of such total amount, to secure payment of the tax payable relative to tangible personal property consumed or used pursuant to or in the carrying out of the contract.
+        </section>
+        <section prefix="c">
+    	     A person dealing with a nonresident contractor fails to comply with subsection (b), shall be personally liable for payment of the tax imposed by this chapter relative to tangible personal property consumed or used pursuant to or in the carrying out of the contract.
+        </section>
+    </text>
+</law>

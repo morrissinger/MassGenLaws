@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="37" order_by="37" level="3">Sheriffs</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Duties Of Sheriffs And Deputies; Service Of Demands, Notices And Citations</catch_line>
+    <order_by>12</order_by>
+    <text>
+        They may serve by copy, by them attested, demands, notices and citations not required by law to be served by an officer, and their returns of service thereof shall be prima facie evidence.
+    </text>
+</law>

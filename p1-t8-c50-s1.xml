@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="50" order_by="50" level="3">General Provisions Relative To Primaries, Caucuses And Elections</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="i">
+    	     absent from the city or town of residence and in the active service of the armed forces or in the merchant marine of the United States, or a spouse or dependent of such person;
+        </section>
+        <section prefix="ii">
+    	     absent from the commonwealth; or
+        </section>
+        <section prefix="iii">
+    	     confined in a correctional facility or a jail, except if by reason of a felony conviction.
+        </section>
+    </text>
+</law>

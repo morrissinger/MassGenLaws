@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44B" order_by="44B" level="3">Community Preservation</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Surcharges; Fees Of Registers Of Deeds; Fees Of Assistant Recorder</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided, the fees of the registers of deeds to be paid when a document or instrument is recorded shall be subject to a surcharge of $20; provided, however, that if the document or instrument to be filed includes multiple references to a document or instrument intending or attempting to assign, discharge, release, partially release, subordinate or notice any other document or instrument, each reference shall be separately indexed and separately assessed an additional $20 surcharge. The fee for recording a municipal lien certificate shall be subject to a surcharge of $10; provided, however, that if the certificate includes multiple references to a document or instrument intending or attempting to assign, discharge, release, partially release, subordinate or notice any other document or instrument, each reference shall be separately indexed and separately assessed an additional $10 surcharge. The surcharges imposed shall be used for community preservation purposes. No surcharge shall apply to a declaration of homestead under chapter 188. No surcharge shall apply to the fees charged for additional pages, photostatic copies, abstract cards or additional square feet for the recording of plans.
+        </section>
+        <section prefix="b">
+    	     The fees of the assistant recorder, except as otherwise provided, to be paid when the instrument is left for registering, filing or entering with respect to registered land shall be subject to a surcharge of $20. The fees for so registering, filing or entering a municipal lien certificate shall be subject to a surcharge of $10. The surcharges shall be imposed for the purposes of community preservation. No surcharge shall apply to a declaration of homestead of chapter 188. No surcharge shall apply to the fees charged for additional lots shown on plans, for indexing instruments recorded while a petition for registering is pending, for additional certificates of sewer assessments, for old age assistance liens, for duplicates and for photocopies.
+        </section>
+        <section prefix="c">
+    	     All surcharges on fees collected pursuant to this section shall be forwarded to the Massachusetts Community Preservation Trust Fund, established in section 9.
+        </section>
+    </text>
+</law>

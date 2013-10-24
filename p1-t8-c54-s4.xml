@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>New Divisions Of Cities Into Wards, When Effective; Congressional Districts</catch_line>
+    <order_by>4</order_by>
+    <text>
+        All regular municipal elections and primaries held in any city after it has been redivided into wards or into any districts for electing city officers shall be held in such city as redivided. 
+In the division of wards into voting precincts under this chapter, no voting precinct shall be so formed that it will be partly in one congressional district and partly in another congressional district.
+    </text>
+</law>

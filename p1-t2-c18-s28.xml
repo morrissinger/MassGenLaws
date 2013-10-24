@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Accreditation Of Homemaker Services; Board, Establishment, Members, Staff And Services; Standards; Rules And Regulations; Restrictions;  Enforcement</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     “Homemaker services”, care of individuals in their own homes, or helping individuals and families to achieve adequate household and family management, where the service is rendered by a person who receives a third party payment for said service or is employed for the purpose of rendering such services by other than the family or household receiving said service.
+        </section>
+        <section prefix="2">
+    	     “Person”, any department, office, commission, committee, council, board, division, bureau, institution, or authority of the commonwealth or its political subdivisions, and any individual, partnership, corporation, or other legal entity.
+        </section>
+    </text>
+</law>

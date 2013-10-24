@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Managers And Staff; Qualifications</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     The manager of an assisted living residence shall be at least twenty-one years of age, qualified by education or experience to be responsible for the operation of the residence in conformance with the applicable laws and regulations, and of good moral and responsible character, and shall never have been convicted of a felony.
+        </section>
+        <section prefix="b">
+    	     The sponsor may employ staff directly, in which case it shall comply with department’s standards for personal care homemaker services and personnel as from time to time in effect. The sponsor may also engage an agency approved by the department to offer personal care homemaker services. All personnel providing personal care shall be qualified by training or experience to assist with activities of daily living and to provide self-administered medication management.
+        </section>
+        <section prefix="c">
+    	     The department shall promulgate regulations concerning the education, training and experience of the manager and staff, including the service coordinator, necessary to carry out the purposes and requirements of this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>27A</section_number>
+    <catch_line>Travel Related Services; Purchase Coordination</catch_line>
+    <order_by>27A</order_by>
+    <text>
+        The state purchasing agent shall coordinate the purchase of travel and travel-related services by authorized officers and employees of the commonwealth to insure cost-effective management of the commonwealth’s purchasing power for such services. 
+The purchasing agent may contract with one or more vendors to coordinate the management of the purchase of said services.
+    </text>
+</law>

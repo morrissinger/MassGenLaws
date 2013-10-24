@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62F" order_by="62F" level="3">Limitation On The Growth Of State Tax Revenues</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>State Auditor; Oversight</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall annually, on or before September first prepare a report of the net state tax revenues and the allowable state tax revenues of the commonwealth for the preceding fiscal year, and shall submit the report to the state auditor. Said state auditor shall review the report for completeness and accuracy, and may make or request the commissioner to make any necessary adjustments or modifications to assure its completeness and accuracy.
+        </section>
+        <section prefix="b">
+    	     Said state auditor shall annually on or before the third Tuesday of September, independently determine whether net state tax revenues for the immediately preceding fiscal year exceeded the allowable state tax revenues for said fiscal year. If said state auditor determines that the allowable state tax revenues for the immediately preceding fiscal year were exceeded, except as otherwise specifically authorized herein, he shall report that determination and the amount by which allowable state tax revenues were exceeded to the governor, the president of the senate, the speaker of the house of representatives, the house and senate committees on ways and means, and the commissioner. Said commissioner shall take all necessary action to effectuate the provisions of section six.
+        </section>
+        <section prefix="c">
+    	     Except as otherwise provided therein, the determination of said state auditor both as to the existence and the amount of an excess of net state tax revenues over the allowable state tax revenues in a fiscal year shall be conclusive for purposes of section six.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall calculate the permissible tax revenue, as defined in this chapter, on a quarterly basis, in accordance with the manner and fiscal year schedule with which the commissioner calculates tax revenues.
+        </section>
+    </text>
+</law>

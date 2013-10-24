@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Collection Of Hate Crime Data; Regulations</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="1">
+    	     establishment of a central repository for the collection and analysis of hate crime data and, upon the establishment of such repository, the crime reporting unit shall be responsible for collecting, analyzing, classifying and reporting such data, and shall maintain this information in a central repository;
+        </section>
+        <section prefix="2">
+    	     procedures necessary to ensure effective data-gathering and preservation and protection of confidential information, and the disclosure of information in accordance with section thirty-five;
+        </section>
+        <section prefix="3">
+    	     procedures for the solicitation and acceptance of reports regarding hate crimes which are submitted to the crime reporting unit;
+        </section>
+        <section prefix="4">
+    	     procedures for assessing the credibility and accuracy of reports of hate crime data from law enforcement agencies.
+        </section>
+    </text>
+</law>

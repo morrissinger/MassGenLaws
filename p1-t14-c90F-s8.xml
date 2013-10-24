@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Commercial Driver Licenses; Issuance; Expiration; Renewal</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="1">
+    	     the name and residential address of the person;
+        </section>
+        <section prefix="2">
+    	     the person’s color photograph;
+        </section>
+        <section prefix="3">
+    	     a physical description of the person including sex, height;
+        </section>
+        <section prefix="4">
+    	     date of birth;
+        </section>
+        <section prefix="5">
+    	     the person’s social security number and any number or identifier deemed appropriate by the registrar;
+        </section>
+        <section prefix="6">
+    	     the person’s signature;
+        </section>
+        <section prefix="7">
+    	     the class or type of commercial motor vehicle or vehicles which the person is authorized to operate, together with any endorsements or restrictions;
+        </section>
+        <section prefix="8">
+    	     the name of the commonwealth; and
+        </section>
+        <section prefix="9">
+    	     the dates between which the license is valid.
+        </section>
+    </text>
+</law>

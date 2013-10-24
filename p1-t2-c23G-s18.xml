@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Government Land Bank Fund</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     after deducting the administrative expenses of the Agency, all principal and interest received by the Agency under a mortgage made by the Agency’s predecessor, the Massachusetts government land bank, financed by the proceeds of an industrial development bond or note as such term, or a successor term of comparable import, is defined by the Internal Revenue Code of 1954, issued by the commonwealth on behalf or for the purposes of one of the said Massachusetts government land bank.
+        </section>
+        <section prefix="b">
+    	     monies transferred from the reserves of the Agency pursuant to a vote of the board of directors of the Agency;
+        </section>
+        <section prefix="c">
+    	     all monies transferred pursuant to an authorization by the general court or by law.
+        </section>
+    </text>
+</law>

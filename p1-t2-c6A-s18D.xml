@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6A" order_by="6A" level="3">Executive Offices</unit>
+    </structure>
+    <section_number>18D</section_number>
+    <catch_line>Public Safety Answering Points; Establishment; Proposed Municipal Plans; Statewide Plan</catch_line>
+    <order_by>18D</order_by>
+    <text>
+        <section prefix="a">
+    	     Each municipality in the commonwealth, under the requirements of chapter 150E, shall establish, staff and operate, in conjunction with 1 or more other municipalities or governmental bodies, as determined by the department, or by itself, a PSAP on a 24 hour a day, 7 days a week basis, in a manner and according to a schedule to be approved by the department.
+        </section>
+        <section prefix="b">
+    	     The department shall review each proposed municipal or regional plan to determine if it meets the requirements of sections 18A to 18J, inclusive, and the technical and operational standards established by the department. The department shall require primary and regional PSAPs to display automatic number identification, automatic location identification and may require other enhanced 911 features that are or may become available and set forth in the department’s regulations, standards and guidelines for administration of statewide enhanced 911 services. The primary and regional PSAP shall be designed according to the plan as specified in subsection (c).
+        </section>
+        <section prefix="c">
+    	     The department shall develop and maintain a statewide plan for the implementation and maintenance of enhanced 911 service consistent with federal law and regulation, including next generation 911 and IP-enabled 911 services and, if the technological and operational capability and financial feasibility exists, the routing of 911 wireless calls to primary and regional PSAPs. Such plan shall include the following:
+        </section>
+        <section prefix="1">
+    	     a division of the commonwealth into geographical segments under which an enhanced 911 system shall be established for each municipality, or by groups of municipalities, or by other governmental bodies, or groups of other governmental bodies, or by a combination of municipalities or governmental bodies, as specified and approved by the department;
+        </section>
+        <section prefix="2">
+    	     an implementation schedule, developed after consultation with communication services providers for the sequence of converting to enhanced 911 systems or next generation 911 systems;
+        </section>
+        <section prefix="3">
+    	     a designation, within each enhanced 911 system, of the municipalities and the public safety departments within such municipalities to serve as the primary or regional PSAPs. The department shall also evaluate the need for secondary and regional secondary PSAPs in municipalities which have requested them. It shall be the responsibility of the department to make the final determination regarding the total number and location of such PSAPs; and
+        </section>
+        <section prefix="4">
+    	     the department shall, not later than September 30, annually, review the existing configuration of primary, regional, regional secondary, limited secondary and ringing PSAPs and develop changes or recommendations for change by December 31, annually.
+        </section>
+    </text>
+</law>

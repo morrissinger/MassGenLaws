@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>20C</section_number>
+    <catch_line>Transfer Of Interest In Vehicle With Issued Salvage Title</catch_line>
+    <order_by>20C</order_by>
+    <text>
+        <section prefix="a">
+    	     If an owner of a vehicle for which a salvage title has been issued under this chapter transfers his interest therein, he shall execute the assignment to the transferee on the space provided therefor on the salvage title or on such other form as the registrar shall prescribe and cause the title and assignment to be delivered to the transferee at the time of delivery of the vehicle.
+        </section>
+        <section prefix="b">
+    	     Except for dealers licensed under the provisions of section fifty-nine of chapter one hundred and forty, the transferee of a vehicle for which a salvage title has been issued under this chapter or under the laws, of another state shall, within ten days after receiving delivery of the total loss salvage vehicle, apply for a new salvage title on the form prescribed by the registrar. The application shall be accompanied by the properly executed salvage title, required fee and any other information and documents the registrar may reasonably require to establish ownership of the vehicle.
+        </section>
+        <section prefix="c">
+    	     If a dealer, licensed under the provisions of section fifty-nine of chapter one hundred and forty, is a transferee of a vehicle for which a salvage title has been issued, he need not apply for a new salvage title but, upon transferring the vehicle, shall execute the assignment to the transferee in the space provided for such dealer assignments on the title on such form as the registrar prescribes and cause the title and assignment to be delivered to the transferee.
+        </section>
+        <section prefix="d">
+    	     Any transferor of a vehicle for which a salvage title has been issued under this chapter shall fully and fairly disclose that fact to any transferee for value. The director of consumer affairs and business regulation may by regulation provide for the timing, form and content of such disclosure.
+        </section>
+        <section prefix="e">
+    	     The registrar may issue a salvage title for any motor vehicle which is transferred into the commonwealth and which was previously covered by a similar title from any other state.
+        </section>
+        <section prefix="f">
+    	     The owner of any vehicle which would qualify as a “total loss salvage vehicle” under section one of chapter ninety D which is transferred into the commonwealth but was not covered by a similar title from another state shall apply for a salvage title from the registrar.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Scope Of Chapter; Local Regulations; Approval Of Ordinances And By Laws</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     The provisions of this chapter shall govern the numbering, operation, equipment and all other matters relating thereto of any vessel subject to the provisions of this chapter or of any rule or regulation made under authority hereof, whenever any such vessel shall be operated or maintained on the waters of the commonwealth, or whenever any activity regulated by said chapter or said rules and regulations shall take place thereon.
+        </section>
+        <section prefix="b">
+    	     Nothing in this section shall be construed as prohibiting any city or town from regulating, by ordinance or by-law, not contrary to the provisions of this chapter or of any rule or regulation made under authority hereof, other than numbering, of such vessels on such waters of the commonwealth as lie within the city or town, or such activities which take place thereon. Such cities and towns may, by joint action, provide for such regulations for such waters lying in two or more cities or towns.
+        </section>
+        <section prefix="c">
+    	     No such ordinance or by-law shall be valid unless it shall have been approved by the director and published in a newspaper of general distribution in said city or town not less than five days before the effective date thereof.
+        </section>
+    </text>
+</law>

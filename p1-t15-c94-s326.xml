@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>326</section_number>
+    <catch_line>Administration; Rules And Regulations</catch_line>
+    <order_by>326</order_by>
+    <text>
+        <section prefix="1">
+    	     readily identifiable plastic bottles and rigid plastic containers;
+        </section>
+        <section prefix="2">
+    	     plastic bottles and rigid plastic containers for which there is no technological capability for recycling, reclamation or reuse; and
+        </section>
+        <section prefix="3">
+    	     plastic bottles and rigid plastic containers for which recycling, reclamation or reuse is not economically feasible.
+        </section>
+    </text>
+</law>

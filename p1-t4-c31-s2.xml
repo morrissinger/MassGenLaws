@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Powers And Duties Of Commission</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     To conduct investigations at its discretion or upon the written request of the governor, the executive council, the general court or either of its branches, the administrator, an aggrieved person, or by ten persons registered to vote in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     To hear and decide appeals by a person aggrieved by any decision, action, or failure to act by the administrator, except as limited by the provisions of section twenty-four relating to the grading of examinations; provided that no decision or action of the administrator shall be reversed or modified nor shall any action be ordered in the case of a failure of the administrator to act, except by an affirmative vote of at least three members of the commission, and in each such case the commission shall state in the minutes of its proceedings the specific reasons for its decision.
+        </section>
+        <section prefix="c">
+    	     Subject to the procedures set forth in paragraph (b), except that all references therein to the administrator shall be taken to mean the local appointing authority or its designated representative, to hear and decide appeals by persons aggrieved by decisions, actions, or failure to act by local appointing authorities in accordance with the provisions of section eight of chapter thirty-one A.
+        </section>
+        <section prefix="d">
+    	     To conduct hearings regarding performance audits conducted by the administrator in accordance with provisions of chapter thirty-one A.
+        </section>
+        <section prefix="e">
+    	     To hear and decide appeals concerning performance evaluations, as provided by this chapter and chapter thirty-one A.
+        </section>
+        <section prefix="f">
+    	     To recommend any proposed rule changes to the administrator it feels would be consistent with basic merit principles outlined in this chapter and would be in the public interest.
+        </section>
+        <section prefix="g">
+    	     To adopt such rules of procedure as necessary for the conduct of its proceedings.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Consumer Warranties; Claims</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Whenever a supplier and a dealer enter into an agreement providing consumer warranties, the supplier shall pay any warranty claim made for warranty parts and service within thirty days after its receipt and approval. The supplier shall approve or disapprove a warranty claim within thirty days after its receipt. If a claim is not specifically disapproved in writing thirty days after its receipt, it shall be deemed to be approved and payment shall be made by the supplier within thirty days.
+    </text>
+</law>

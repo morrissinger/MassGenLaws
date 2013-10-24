@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>85</section_number>
+    <catch_line>Taxes Paid By Co Tenants; Lien On Co Tenants’ Interest</catch_line>
+    <order_by>85</order_by>
+    <text>
+        A tenant in common or joint tenant, who pays the entire tax assessed upon land held jointly or in common, shall have a lien upon the interest of each of his co-tenants, to secure the payment to him of the proportion of such tax payable by each of said co-tenants respectively, with the costs of enforcing the same; but any person whose tax has been so paid by his co-tenant shall have the same right to recover it back if illegally assessed as he would have had if the tax had been paid under a protest by him in writing.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Function Of Commission</catch_line>
+    <order_by>8</order_by>
+    <text>
+        It shall be the function and duty of the charter commission to study the form of government of the county, to compare it with other forms available under the laws of this state, to determine whether or not in its judgment the government of the county could be strengthened, made more clearly responsive or accountable to the people or whether its operation could be more economical or efficient, under a changed form of government.
+    </text>
+</law>

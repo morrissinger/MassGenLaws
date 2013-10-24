@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9" order_by="9" level="3">Department Of The State Secretary</unit>
+    </structure>
+    <section_number>15A</section_number>
+    <catch_line>Justices And Notaries; Acting After Expiration Of Commission;  Validation Certificate</catch_line>
+    <order_by>15A</order_by>
+    <text>
+        If a notary public, whose name has been changed by marriage or decree of court and who has failed to re-register as required by law, or a notary public or justice of the peace whose commission has expired, continues to act as such after such change of name or expiration the state secretary, upon the application of such person and the payment of a fee of five dollars, may issue a certificate validating all such acts done after such change of name or expiration.
+    </text>
+</law>

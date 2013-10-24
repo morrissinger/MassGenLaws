@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12A" order_by="12A" level="3">Office Of Inspector General</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Purpose</catch_line>
+    <order_by>7</order_by>
+    <text>
+        The office of inspector general shall act to prevent and detect fraud, waste and abuse in the expenditure of public funds, whether state, federal, or local, or relating to programs and operations involving the procurement of any supplies, services, or construction, by agencies, bureaus, divisions, sections, departments, offices, commissions, institutions and activities of the commonwealth, including those districts, authorities, instrumentalities or political subdivisions created by the general court and including the cities and towns.
+    </text>
+</law>

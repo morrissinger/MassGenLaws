@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="99" order_by="99" level="3">The Metric System Of Weights And Measures</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Tables Of Weights And Measures</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The tables of weights and measures as set forth in the National Bureau of Standards Miscellaneous Publication, issued December 20, 1960, and titled “Units of Weight and Measure, Definitions and Tables of Equivalents”, shall be recognized in the construction of contracts and in legal proceedings as establishing in terms of the metric system the equivalents of the other weights and measures expressed therein and may also be used for computing, determining and expressing in customary weights and measures the weights and measures of the metric system.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90E" order_by="90E" level="3">Bikeways</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Rules, Regulations And Plans; Bikeways Program; Participation</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     state, regional and local agencies and authorities, including without limitation, regional planning agencies, affected by said proposals, plans, programs and projects;
+        </section>
+        <section prefix="b">
+    	     elected officials from cities and towns affected by said proposals, plans, programs and projects;
+        </section>
+        <section prefix="c">
+    	     other public and private organizations, groups and persons who are affected by, and who have provided the commissioner with reasonable notice in writing of their desire to participate in the development of said proposals, plans, programs and projects.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>20D</section_number>
+    <catch_line>Reconstruction Or Restoration Of Total Loss Salvage Motor Vehicle</catch_line>
+    <order_by>20D</order_by>
+    <text>
+        <section prefix="a">
+    	     Any owner who reconstructs or restores a total loss salvage motor vehicle to its operating condition which existed prior to the event which caused a salvage title to issue under this chapter or the laws of another state, or who recovers a total loss salvage motor vehicle if stolen, shall make application to the registrar for a certificate of title and an inspection of the vehicle prior to registration or sale of said vehicle. Each application for title and inspection shall be accompanied by the following:
+        </section>
+        <section prefix="1">
+    	     the outstanding salvage title previously issued for the salvage vehicle;
+        </section>
+        <section prefix="2">
+    	     bills of sale evidencing acquisition of all major component parts used to restore the vehicle, listing the manufacturer’s vehicle identification number of the vehicle from which the parts were removed, if such part contained or should contain the manufacturer’s vehicle identification number;
+        </section>
+        <section prefix="3">
+    	     the owner shall also provide a sworn affidavit in the form prescribed by the registrar which states that: (i) the identification numbers of the restored vehicle and its parts have not been removed, destroyed, falsified, altered or defaced; (ii) the salvage title document attached to the application has not been forged, falsified, altered or counterfeited; (iii) all information contained on the application and its attachments is true and correct to the knowledge of the owner; and
+        </section>
+        <section prefix="4">
+    	     the required inspection fee.
+        </section>
+        <section prefix="b">
+    	     Upon satisfactory inspection results, and receipt of all required documents and fees, the registrar shall issue a new certificate of title in the name of the owner which shall contain the notation “reconstructed”, or if the vehicle was a stolen vehicle which was subsequently recovered in an undamaged condition, said certificate shall contain the notation “recovered theft vehicle”.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Services For Residents</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The sponsor of the assisted living residence shall provide or arrange for the provision of the following:
+        </section>
+        <section prefix="1">
+    	     Opportunities for socializing and access to community resources.
+        </section>
+        <section prefix="2">
+    	     For all residents whose service plans so specify, such services, supervision of and assistance with activities of daily living including, at a minimum, assistance with bathing, dressing and ambulation.
+        </section>
+        <section prefix="3">
+    	     Up to three meals daily.
+        </section>
+        <section prefix="4">
+    	     Housekeeping.
+        </section>
+        <section prefix="5">
+    	     For all residents whose service plans so specify, self-administered medication management by personnel meeting standards for professional qualifications and training set forth in the regulations.
+        </section>
+        <section prefix="6">
+    	     Ability to provide timely assistance to residents and to respond to urgent or emergency needs, by the presence of twenty-four hour per day on-site staff capability, by the provision of personal emergency response devices for all residents or similar means for the purpose of signaling such staff, and by such other means as the department may deem necessary for each assisted living residence, taking into account the service plans of its residents.
+        </section>
+        <section prefix="7">
+    	     Laundry services at a fee if necessary.
+        </section>
+        <section prefix="b">
+    	     The sponsor of the assisted living residence may provide or arrange for the provision of additional services, including the following:
+        </section>
+        <section prefix="1">
+    	     Barber/beauty services, sundries for personal consumption, and other amenities.
+        </section>
+        <section prefix="2">
+    	     Local transportation for medical and recreational purposes.
+        </section>
+        <section prefix="3">
+    	     Assistance with and supervision of instrumental activities of daily living.
+        </section>
+        <section prefix="c">
+    	     The sponsor may arrange for, but may not use assisted living residence staff for, unless such staff is specifically licensed for the provision of ancillary services for health-related care, such as physician, pharmacist, restorative therapies, podiatry, hospice, home health.
+        </section>
+        <section prefix="d">
+    	     No personnel of an assisted living residence shall control or manage the funds or property of an assisted living resident. If the resident is unable to manage their funds or property, money management and other financial arrangements should be made with an independent party.
+        </section>
+    </text>
+</law>

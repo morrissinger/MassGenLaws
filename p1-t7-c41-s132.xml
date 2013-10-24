@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>132</section_number>
+    <catch_line>Tenure Limitations</catch_line>
+    <order_by>132</order_by>
+    <text>
+        <section prefix="a">
+    	     Said provisions shall not apply to persons whose tenure in office is terminated by a law enacted subsequent to his commencement of tenure.
+        </section>
+        <section prefix="b">
+    	     Said provisions shall not prevent abolition of any municipal office or the transfer of any of the powers and duties of any office.
+        </section>
+        <section prefix="c">
+    	     Said provisions shall not prevent termination of tenure upon an appointive office becoming elective. Any person’s length of service in an elective office which becomes appointive, however, may be credited to his eligibility period for tenure if he succeeds himself in such office.
+        </section>
+        <section prefix="d">
+    	     Said provisions shall not extend the time at which an officer is otherwise required to retire.
+        </section>
+        <section prefix="e">
+    	     Said provisions shall not waive residency requirements in determining tenure eligibility.
+        </section>
+    </text>
+</law>

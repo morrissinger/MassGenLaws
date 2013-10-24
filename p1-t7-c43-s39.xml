@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43" order_by="43" level="3">City Charters</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Initiative Petition; Passage And Submission To Electorate</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="1">
+    	     the city council or the school committee shall, within twenty days after the date of the certificate of the registrars to that effect, pass said measure without alteration, subject to the referendum vote provided by this chapter, or
+        </section>
+        <section prefix="2">
+    	     the city clerk shall call a special election to be held on a Tuesday fixed by said clerk not less than thirty nor more than forty-five days after the date of qualification, and shall submit the proposed measure without alteration to a vote of the registered voters of the city at that election; provided, however, that if any city election is otherwise to occur within ninety days after the date of qualification, the city clerk may, at his discretion, omit calling the special election and submit the proposed measure to the voters at such approaching election.
+        </section>
+    </text>
+</law>

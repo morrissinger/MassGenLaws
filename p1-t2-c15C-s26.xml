@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15C" order_by="15C" level="3">Massachusetts College Student Loan Authority</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Bankruptcy Of Borrower</catch_line>
+    <order_by>26</order_by>
+    <text>
+        The obligations of a borrower under the provisions of this chapter shall not be subject to discharge as a result of bankruptcy proceedings.
+    </text>
+</law>

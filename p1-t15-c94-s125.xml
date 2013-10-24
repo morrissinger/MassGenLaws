@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>125</section_number>
+    <catch_line>Inspections; Quarantine; Segregation, Marking And Labeling Products; Prohibiting Products; Sanitation Regulations; Required Records</catch_line>
+    <order_by>125</order_by>
+    <text>
+        <section prefix="b">
+    	     require the identification of livestock and poultry for inspection purposes and the marking and labeling of livestock products or poultry products or their containers or both as “Mass. D.P.H. Inspected and Passed” if the products are found upon inspection to be not adulterated and as “Mass. D.P.H. Inspected and Condemned” if they are found upon inspection to be adulterated and the destruction for food purposes of all such condemned products, each of the foregoing acts to be performed under the direct and immediate supervision of an inspector;
+        </section>
+        <section prefix="c">
+    	     prohibit the entry into official establishments of livestock products and poultry products not prepared under federal inspection or inspection pursuant to this chapter and further limit the entry of such articles and other materials into such establishments under such conditions as the department may prescribe;
+        </section>
+        <section prefix="d">
+    	     require that when livestock products and poultry products leave official establishments they shall bear directly thereon or on their containers, or both, as the department may require, all information required under the provisions of or by the authority of this chapter; and require approval of all labeling and containers to be used for such products when sold or transported to assure that they comply with the requirements of this chapter;
+        </section>
+        <section prefix="e">
+    	     investigate on a regular basis the sanitary conditions of each official establishment and withdraw or otherwise refuse to provide inspection service at any such establishment where the sanitary conditions are such as to render adulterated any livestock products or poultry products prepared or handled thereat;
+        </section>
+        <section prefix="f">
+    	     prescribe regulations relating to sanitation for all official establishments;
+        </section>
+        <section prefix="g">
+    	     require that the following classes of persons shall keep such records and for such periods as are specified in regulations which shall be promulgated by the department to fully and correctly disclose all transactions involved in their business, and afforded to the commissioner, access to such places of business, and opportunity, at all reasonable times, to examine the facilities, inventory and records thereof, to copy the records, and to take reasonable samples of the inventory upon payment of the fair market value therefor: any persons that engage (1) in the business of slaughtering any livestock or poultry, or preparing, freezing, packaging or labeling, buying or selling as brokers, wholesalers or otherwise, transporting, or storing any livestock products or poultry products for human or animal food; or (2) in business as renderers or in the business of buying, selling or transporting any dead, dying, disabled or diseased livestock or poultry, or parts of the carcasses of any such animals including poultry that died otherwise than by slaughter.
+        </section>
+    </text>
+</law>

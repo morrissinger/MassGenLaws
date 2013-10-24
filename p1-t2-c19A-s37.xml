@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Hot Lunch Program; Incorporation Into School Lunch Program</catch_line>
+    <order_by>37</order_by>
+    <text>
+        <section prefix="1">
+    	     Each program shall solicit voluntary contributions for each meal furnished in accordance with the requirements of Title IIIB of the Older Americans Act of 1965, as amended.
+        </section>
+        <section prefix="2">
+    	     The lunches served shall meet the nutritional standards established in accordance with Title III of the Older Americans Act of 1965, as amended.
+        </section>
+        <section prefix="3">
+    	     The procedures determined by each designated school committee or independent school in serving such lunches shall be approved by the department of elder affairs.
+        </section>
+    </text>
+</law>

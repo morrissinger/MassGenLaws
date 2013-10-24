@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Separate Registration</catch_line>
+    <order_by>10</order_by>
+    <text>
+        A separate registration shall be required at each principal place of business or professional practice where the registrant manufactures, distributes, or dispenses controlled substances.
+    </text>
+</law>

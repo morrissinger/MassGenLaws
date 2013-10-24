@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>70</section_number>
+    <catch_line>Location Of Schools</catch_line>
+    <order_by>70</order_by>
+    <text>
+        A town may, at a town meeting, determine the situation of its schoolhouses.
+    </text>
+</law>

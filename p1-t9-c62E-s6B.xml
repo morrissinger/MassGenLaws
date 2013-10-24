@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62E" order_by="62E" level="3">Wage Reporting System</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Fraud; Notification Of Other State Agencies</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        Whenever the bureau finds probable cause to believe that a person has engaged in fraud in any such programs the bureau may notify other state agencies of such information so that such state agencies may investigate whether such person has engaged in fraud in other programs.
+    </text>
+</law>

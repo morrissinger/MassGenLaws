@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>109</section_number>
+    <catch_line>Ballots And Lists; Custody; Disposition</catch_line>
+    <order_by>109</order_by>
+    <text>
+        City and town clerks shall retain in their custody the envelopes or containers containing the ballots cast, without examining them or permitting them to be examined by any person except as required by law, and upon the expiration of the period fixed for their preservation shall cause such ballots to be destroyed. 
+City and town clerks shall retain in their custody the voting lists as long as they retain the ballots cast. They shall then transmit such voting lists to the registrars of voters, and shall destroy the ballots marked “Spoiled”, without examining them or permitting them to be examined. Such voting lists shall be preserved by the registrars of voters for reference for two years after the expiration of which they may be destroyed. 
+City and town clerks shall retain in their custody ballots not cast for 30 days or until any contest is determined or claim is withdrawn under section 134, and shall then make such disposition of the ballots not cast as they consider proper.
+    </text>
+</law>

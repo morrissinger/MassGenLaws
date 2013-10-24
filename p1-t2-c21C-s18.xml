@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Insolvency Fund; Impaired Or Insolvent Licensees; Defense Or Payment Of Potential Covered Claims; Limits</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     If a licensee is an impaired licensee, the insolvency fund may, in its discretion and subject to any conditions imposed by the insolvency fund, that do not impair the contractual obligations of the impaired licensee and that are approved by the commissioner:
+        </section>
+        <section prefix="1">
+    	     defend, guarantee, assume insure or reinsure, or cause to be defended, guaranteed, assumed, or insured, any or all of the potential covered claims against the impaired licensee; or
+        </section>
+        <section prefix="2">
+    	     provide such monies, pledges, notes, guarantees, or other means as are proper to effectuate clause (1) and assure defense or payment of the potential covered claim against the impaired licensee pending action under said clause (1).
+        </section>
+        <section prefix="b">
+    	     If a member licensee is an insolvent licensee, the insolvency fund may, in its discretion, either (1) defend, guarantee, assume, insure or reinsure, or cause to be defended, guaranteed, assumed or reinsured, the potential covered claims against the insolvent licensee; or (2) assure payment of the potential covered claims against the insolvent licensee; or (3) provide such monies, pledges, notes, guarantees, or other means as are reasonably necessary to discharge such duties.
+        </section>
+        <section prefix="c">
+    	     The insolvency fund shall pay, pursuant to the procedures set forth in section nineteen, and subject to the limits described herein, so much of any covered claim against an insolvent licensee as exceeds the total of (1) the amount of liability insurance available to satisfy the judgment; and (2) the value of the assets of the insolvent licensee reasonably available to satisfy the judgment; and (3) the value of the assets of any other party liable jointly for all or any part of the said judgment to the extent that those assets are reasonably available to satisfy the judgment.
+        </section>
+    </text>
+</law>

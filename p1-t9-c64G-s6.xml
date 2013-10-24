@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Certificate Of Registration</catch_line>
+    <order_by>6</order_by>
+    <text>
+        No person shall operate a bed and breakfast establishment, hotel, lodging house or motel in this commonwealth unless a certificate of registration has been issued to him in accordance with section sixty-seven of chapter sixty-two C.
+    </text>
+</law>

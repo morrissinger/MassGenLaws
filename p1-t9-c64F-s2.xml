@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64F" order_by="64F" level="3">Taxation Of Fuel And Special Fuels Acquired Outside And Used Within The Commonwealth</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Motor Carrier Licenses</catch_line>
+    <order_by>2</order_by>
+    <text>
+        No person subject to the excise imposed by section three shall act as a motor carrier unless such person is the holder of an uncancelled motor carrier license issued by the commissioner pursuant to section sixty-seven of chapter sixty-two C.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Penalty For Refusing To Furnish Information To Commissioner</catch_line>
+    <order_by>29</order_by>
+    <text>
+        Whenever an executor, administrator, trustee, or any person liable to taxation under this chapter, refuses or neglects to furnish to the commissioner any information which in the opinion of the commissioner is necessary to the proper computation of taxes payable by such executor, administrator, trustee or person, after having been requested so to do, the commissioner shall certify such taxes at the highest rate at which they could in any event be computed.
+    </text>
+</law>

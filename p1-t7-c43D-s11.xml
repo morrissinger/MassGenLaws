@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43D" order_by="43D" level="3">Expedited Permitting</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Transfer Of Permits; Renewals; Modification; Expiration</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Permits shall not transfer automatically to successors in title, unless the permit expressly allows the transfer without the approval of the issuing authority.
+        </section>
+        <section prefix="b">
+    	     Issuing authorities having substantive jurisdiction over permit issuance may develop procedures for simplified permit renewals and annual reporting requirements. If the procedures are not developed, renewals of permits shall be governed by the same procedures and timelines as specified in conjunction with this chapter.
+        </section>
+        <section prefix="c">
+    	     Issuing authorities shall make reasonable effort to review permit modification requests within as short a period as is feasible to maintain the integrity of the expedited permitting process. An issuing authority shall inform an applicant within 20 business days of receipt of a request whether the modification is approved, denied, determined to be substantial or additional information is required by the issuing authority in order to issue a decision. If additional information is required, the issuing authority shall inform an applicant within 20 business days after receipt of the required additional information whether the modification is approved or denied or that additional information is still required by the issuing authority in order to render a decision. In cases in which the issuing authority determines that a requested modification is substantial, the original review period for permit categories as set forth in section 5 shall apply.
+        </section>
+        <section prefix="d">
+    	     Permits issued pursuant to this chapter shall expire 5 years from the date of the expiration of the applicable appeal period unless exercised sooner. Where permits cover multiple buildings, commencement and continuation of construction of 1 building shall preserve the permit validity. Changes in the law subsequent to the issuance of permits based upon the priority proposal shall not invalidate the permits or review certificates. Nothing in this section shall limit the effectiveness of section 6 of chapter 40A.
+        </section>
+    </text>
+</law>

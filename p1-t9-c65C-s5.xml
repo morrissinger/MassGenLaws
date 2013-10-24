@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Valuation; Gross Estate</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Property in the Massachusetts gross estate shall be valued as of the date of death of the decedent; provided, however, that if an alternate valuation has been properly elected for purposes of the federal estate tax in accordance with section two thousand and thirty-two of the Code in effect on January first, nineteen hundred and eighty-five the property in the Massachusetts gross estate shall be valued as of the dates used for federal estate tax valuation purposes; and provided, further, that if no federal estate tax is payable under federal estate tax laws applicable to the decedent’s estate, whether or not a federal estate tax return is required to be filed, the executor may elect to value the property in the Massachusetts gross estate on the alternate valuation dates and in the manner provided under the provisions of section two thousand and thirty-two of said Code on the Massachusetts estate tax return.
+        </section>
+        <section prefix="b">
+    	     The value of an annuity, a life estate or an interest in property less than an absolute interest shall be determined in accordance with the actuarial tables in effect as of the decedent’s death under section two thousand and thirty-one of the Code in effect on January first, nineteen hundred and eighty-five at such time and regulations issued thereunder.
+        </section>
+        <section prefix="c">
+    	     If the gross estate of a decedent includes real property devoted to use as a farm for farming purposes, the estate may elect to value such property in accordance with section two thousand and thirty-two A of the Code, in effect on January first, nineteen hundred and eighty-five. If a federal return is required to be filed the election under this subsection shall be consistent with the election made for federal estate tax purposes. All the substantive and procedural provisions of said section two thousand and thirty-two A shall, insofar as pertinent and consistent, apply to the election made under this subsection. The commissioner shall promulgate regulations to carry out the provisions of this subsection.
+        </section>
+    </text>
+</law>

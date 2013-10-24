@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="38" order_by="38" level="3">Medical Examiners And Inquests</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Embalming Fluid; Restriction On Use</catch_line>
+    <order_by>12</order_by>
+    <text>
+        No embalming fluid, or any substitute therefor, shall be injected into the body of any person whose death is being investigated by the office until authorization from a representative of the office has first been obtained.
+    </text>
+</law>

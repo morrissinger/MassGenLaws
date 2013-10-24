@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>124</section_number>
+    <catch_line>Inspection Of Livestock And Poultry; Seizure And Destruction;  Reports; Publication</catch_line>
+    <order_by>124</order_by>
+    <text>
+        <section prefix="a">
+    	     to the person whose establishment has been inspected;
+        </section>
+        <section prefix="b">
+    	     to the commissioner; and,
+        </section>
+        <section prefix="c">
+    	     to the director of the division of food and drugs; and,
+        </section>
+        <section prefix="d">
+    	     one is to be retained by the inspector making said report.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>19A</section_number>
+    <catch_line>State Aid; Determination</catch_line>
+    <order_by>19A</order_by>
+    <text>
+        <section prefix="1">
+    	     to each town having a population of less than two thousand five hundred, a sum equivalent to the amount appropriated by it for free public library service during the preceding year, but in no event more than one thousand two hundred and fifty dollars;
+        </section>
+        <section prefix="2">
+    	     to each city and to each town having a population of two thousand five hundred or more, a sum not exceeding fifty cents for each resident therein; provided, however, that such city or town appropriates during the preceding year for its free public library service at least one thousand two hundred and fifty dollars;
+        </section>
+        <section prefix="3">
+    	     to each city and town, in addition to the amount specified in paragraph (1) or (2), a sum determined by allocating the remaining available amount among the cities and towns according to the provisions of section eighteen C of chapter fifty-eight.
+        </section>
+        <section prefix="4">
+    	     in addition to the amounts specified in paragraphs (1), (2) and (3), to each city or town whose library is designated a major nonresident lender by said board, an amount for the purpose of offsetting the costs of extending said service to nonresidents. Said amount shall be determined by said board by allocating the sum appropriated for this purpose according to criteria and formulae developed by said board in consultation with the regional public library systems established under section nineteen C.
+        </section>
+    </text>
+</law>

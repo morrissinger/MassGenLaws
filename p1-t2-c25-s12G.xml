@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25" order_by="25" level="3">Department Of Public Utilities</unit>
+    </structure>
+    <section_number>12G</section_number>
+    <catch_line>Investigations And Inquiries</catch_line>
+    <order_by>12G</order_by>
+    <text>
+        In all investigations and inquiries authorized by law to be made by the director of the transportation division, and in all proceedings before him, he may summon witnesses, administer oaths and take testimony. The provisions of section five A relative to fees of witnesses in proceedings before the department shall apply to witnesses summoned under this section.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94B" order_by="94B" level="3">Hazardous Substances</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Inspection; Access To Premises; Penalties</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of administering the provisions of this chapter, the director and inspectors shall have access and entry at reasonable times to any premises pursuant to a search warrant duly issued by a court of competent jurisdiction, provided that no sample of an alleged hazardous substance obtained in the course of such inspection and no result of any analysis or test of any such sample shall be received in evidence in any criminal proceeding under this chapter unless the sample shall have been taken and the analysis or test conducted in accordance with the procedure provided in sections one hundred and eighty-eight and one hundred and eighty-nine of chapter ninety-four.
+        </section>
+        <section prefix="b">
+    	     Any person who obstructs the director or an inspector from entering premises under a valid search warrant where a hazardous substance is kept as provided in section six, or any person who does not comply with the provisions of section seven, shall be punished by a fine of not less than five hundred nor more than two thousand dollars or by imprisonment for not more than six months, or both.
+        </section>
+    </text>
+</law>

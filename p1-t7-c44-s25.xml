@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Payments; Notice To Director Of Accounts</catch_line>
+    <order_by>25</order_by>
+    <text>
+        Whenever a note issued by a city, town or district is paid, the treasurer thereof shall immediately notify the director of such payment, stating the source from which such payment was made.
+    </text>
+</law>

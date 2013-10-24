@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Radiopharmaceutical Drugs</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        Notwithstanding any other provisions of this chapter, a prescription for a radiopharmaceutical drug shall be dispensed only to an individual authorized by the nuclear regulatory commission to possess and administer such drug. 
+Upon receiving an oral prescription for a radiopharmaceutical drug from an authorized practitioner, the nuclear pharmacist shall immediately reduce the prescription to writing and shall record the name, address and registration number of the practitioner and the name of any expressly authorized representative, the date of the prescription, the name and the dose of the radiopharmaceutical drug, the serial number assigned to the prescription by the dispensing nuclear pharmacy, the name of said nuclear pharmacy, the name and address of the patient and any specific instructions required. If the radiopharmaceutical drug is not administered, it shall be returned to the nuclear pharmacy to be disposed of in accordance with requirements established by the nuclear regulatory commission and any applicable law and the nuclear pharmacist shall note on the prescription form the amount of the radiopharmaceutical drug that has been returned and disposed of as required.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Meetings Of A Public Body To Be Open To The Public; Notice Of Meeting; Remote Participation; Recording And Transmission Of Meeting;  Removal Of Persons For Disruption Of Proceedings</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in section 21, all meetings of a public body shall be open to the public.
+        </section>
+        <section prefix="b">
+    	     Except in an emergency, in addition to any notice otherwise required by law, a public body shall post notice of every meeting at least 48 hours prior to such meeting, excluding Saturdays, Sundays and legal holidays. In an emergency, a public body shall post notice as soon as reasonably possible prior to such meeting. Notice shall be printed in a legible, easily understandable format and shall contain the date, time and place of such meeting and a listing of topics that the chair reasonably anticipates will be discussed at the meeting.
+        </section>
+        <section prefix="c">
+    	     For meetings of a local public body, notice shall be filed with the municipal clerk and posted in a manner conspicuously visible to the public at all hours in or on the municipal building in which the clerk’s office is located.
+        </section>
+        <section prefix="d">
+    	     The attorney general may by regulation or letter ruling, authorize remote participation by members of a public body not present at the meeting location; provided, however, that the absent members and all persons present at the meeting location are clearly audible to each other; and provided, further, that a quorum of the body, including the chair, are present at the meeting location. Such authorized members may vote and shall not be deemed absent for the purposes of section 23D of chapter 39.
+        </section>
+        <section prefix="e">
+    	     After notifying the chair of the public body, any person may make a video or audio recording of an open session of a meeting of a public body, or may transmit the meeting through any medium, subject to reasonable requirements of the chair as to the number, placement and operation of equipment used so as not to interfere with the conduct of the meeting. At the beginning of the meeting the chair shall inform other attendees of any such recordings.
+        </section>
+        <section prefix="f">
+    	     No person shall address a meeting of a public body without permission of the chair, and all persons shall, at the request of the chair, be silent. No person shall disrupt the proceedings of a meeting of a public body. If, after clear warning from the chair, a person continues to disrupt the proceedings, the chair may order the person to withdraw from the meeting and if the person does not withdraw, the chair may authorize a constable or other officer to remove the person from the meeting.
+        </section>
+        <section prefix="g">
+    	     Within 2 weeks of qualification for office, all persons serving on a public body shall certify, on a form prescribed by the attorney general, the receipt of a copy of the open meeting law, regulations promulgated pursuant to section 25 and a copy of the educational materials prepared by the attorney general explaining the open meeting law and its application pursuant to section 19. Unless otherwise directed or approved by the attorney general, the appointing authority, city or town clerk or the executive director or other appropriate administrator of a state or regional body, or their designees, shall obtain such certification from each person upon entering service and shall retain it subject to the applicable records retention schedule where the body maintains its official records. The certification shall be evidence that the member of a public body has read and understands the requirements of the open meeting law and the consequences of violating it.
+        </section>
+    </text>
+</law>

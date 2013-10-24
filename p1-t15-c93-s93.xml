@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>93</section_number>
+    <catch_line>Liability Of Lessor; Limits On Recovery; Offset And Counterclaim</catch_line>
+    <order_by>93</order_by>
+    <text>
+        <section prefix="a">
+    	     Any lessee who suffers harm due to the lessor’s failure to comply with any requirement imposed under section ninety-one or section ninety-two shall be entitled to recover from such lessor:
+        </section>
+        <section prefix="1">
+    	     any actual damage sustained by the lessee as a result of such failure;
+        </section>
+        <section prefix="2">
+    	     twenty-five per cent of the total amount of monthly payments under the lease, except that the liability imposed under this subsection shall not be less than one hundred nor more than one thousand dollars; and
+        </section>
+        <section prefix="3">
+    	     in case of any successful action to enforce the foregoing liability, the costs of such action, together with a reasonable attorney’s fee as determined by the court.
+        </section>
+        <section prefix="b">
+    	     Such actions alleging a failure to disclose or otherwise comply with the requirements of section ninety-one or section ninety-two shall be brought within one year of the termination of the lease agreement.
+        </section>
+        <section prefix="c">
+    	     A lessor shall not be held liable in any action brought under this section if he shows by a preponderance of the evidence that the violation was not intentional and resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adopted to avoid any such error. A bona fide error shall include, but shall not be limited to, clerical, calculation, computer malfunction and programming and printing errors; provided, however, that an error of legal judgment with respect to a person’s obligations under section ninety-one or section ninety-two shall not be a bona fide error.
+        </section>
+        <section prefix="d">
+    	     A lessor shall not be deemed liable under subsection (a) of this section for a violation of the provisions of section ninety-one if within sixty days after discovering the error, and before an action is filed in accordance with the provisions of this section or written notice of the error is received from the consumer, the lessor notifies the consumer of the error and makes whatever adjustments in the account necessary to assure that the consumer shall not be required to pay an amount in excess of the amounts actually disclosed. This provision shall apply whether the discovery of the error was made through the lessor’s own procedures, or otherwise.
+        </section>
+        <section prefix="e">
+    	     When there is more than one lessee in a consumer lease, there shall be no more than one recovery of damages under said subsection (a) for a violation of section ninety-one or section ninety-two.
+        </section>
+        <section prefix="f">
+    	     The continued or repeated failure to disclose to any person any information required under section ninety-one or section ninety-two to be disclosed in connection with a consumer lease, shall entitle the person to a single recovery under said subsection (a); provided, however, that continued failure to disclose after a recovery has been granted shall give rise to rights to additional recoveries.
+        </section>
+        <section prefix="g">
+    	     A person may not take any action to offset any amount for which a lessor is potentially liable to such person under said subsection (a) against any amount owed by such person, unless the amount of the lessor’s liability under sections ninety-one to ninety-three, inclusive, has been determined by judgment of a court of competent jurisdiction in an action in which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of section ninety-one or section ninety-three as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under said section ninety-one or said section ninety-three.
+        </section>
+    </text>
+</law>

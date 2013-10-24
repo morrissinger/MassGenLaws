@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>108</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>108</order_by>
+    <text>
+        As used in sections 108 to 113, inclusive, the following words shall, unless the context clearly requires otherwise, have the following meanings:— 
+“Customer”, a person who resides in the commonwealth and subscribes to local or long distance telecommunications services. 
+“Department”, the department of telecommunications and cable. 
+“Interexchange carrier” or “IXC”, any person engaged in the provision of long distance telephone service. 
+“Letter of agency” or “LOA”, a document meeting the form and content requirements of section 109 and 47 CFR 64.1150. 
+“Local exchange carrier” or “LEC”, any person engaged in the provision of telephone exchange service, not including a person engaged in the provision of commercial mobile service under section 332(e) of the Federal Communications Act of 1934, except to the extent that the department determines such service should be included in the definition of such term. 
+“Third party verification” or “TPV”, service provider, an entity registered with the department pursuant to section 12E of chapter 159 that provides customer authorization confirmation services under section 110.
+    </text>
+</law>

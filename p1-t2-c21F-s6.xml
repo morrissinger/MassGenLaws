@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21F" order_by="21F" level="3">Coastal Facilities Improvement</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Findings Required In Application</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     the proposed improvement will serve the public interest and is consistent with community wide needs and priorities;
+        </section>
+        <section prefix="b">
+    	     the project will have a significant economic impact on the fishing, marine, commercial or industrial, recreation or tourist industry or provide significant public benefits;
+        </section>
+        <section prefix="c">
+    	     there is a clear need for the improvement;
+        </section>
+        <section prefix="d">
+    	     the improvement is consistent with the guidelines set by the executive office of environmental affairs and that all required local, state and federal permits, approvals and licenses, have been sought or obtained in the case of an improvement requiring such;
+        </section>
+        <section prefix="e">
+    	     the funds required to complete the total improvement are or will be secured;
+        </section>
+        <section prefix="f">
+    	     the application for assistance has been approved by the mayor in the case of a city, the town manager in a town having a town counsel form of government and the board of selectmen in any other town;
+        </section>
+        <section prefix="g">
+    	     funds shall not be used for dredging projects.
+        </section>
+    </text>
+</law>

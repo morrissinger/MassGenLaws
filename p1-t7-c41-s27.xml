@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Appointment Upon Failure Of Incumbents To Perform Duties</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If assessors, or selectmen acting as such, shall fail to perform their duties, the commissioner of revenue may appoint three or more persons to be assessors for such town, who shall be sworn, shall hold office until the offices of assessors are filled by the town, and shall receive from the town compensation as assessors.
+    </text>
+</law>

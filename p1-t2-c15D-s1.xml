@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Purpose</catch_line>
+    <order_by>1</order_by>
+    <text>
+        It is hereby declared to be the policy of the commonwealth to assure every child a fair and full opportunity to reach his full potential by providing and encouraging services which maximize a child’s capacity and opportunity to learn, which strengthen family life, and which support families in their essential function of nurturing a child’s physical, social, educational, moral, and spiritual development.
+    </text>
+</law>

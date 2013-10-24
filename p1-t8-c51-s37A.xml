@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>37A</section_number>
+    <catch_line>Inactive Voters List</catch_line>
+    <order_by>37A</order_by>
+    <text>
+        The name and address of a voter that is not entered in the annual register pursuant to section thirty-seven shall be maintained on an inactive voters list until such voter has failed to vote in two consecutive biennial state elections and has thereafter been notified, by mail, of such removal from the inactive voters list.
+    </text>
+</law>

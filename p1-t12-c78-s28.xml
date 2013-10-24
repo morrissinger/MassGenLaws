@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Duties Of Board</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     Keep an official record of all its meetings or parts of meetings concerned with certification.
+        </section>
+        <section prefix="2">
+    	     Issue, suspend, revoke or renew certificates to properly qualified persons.
+        </section>
+        <section prefix="3">
+    	     Keep a roster showing the names and last-known business addresses of all persons holding certificates and furnish the information contained therein to the public on request.
+        </section>
+        <section prefix="4">
+    	     Furnish information as to the requirements for certification upon request and without charge to all prospective applicants.
+        </section>
+        <section prefix="5">
+    	     Hold examinations at least semi-annually if there are applicants for examination.
+        </section>
+    </text>
+</law>

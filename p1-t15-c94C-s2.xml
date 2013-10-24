@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Establishment Of Schedules Of Drugs Or Other Controlled Substances</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of administration and regulation of the manufacture, distribution, dispensing, and possession of controlled substances by persons authorized under this chapter, the commissioner shall establish by regulations pursuant to the provisions of chapter thirty A five schedules incorporating the five schedules of controlled substances under the “Comprehensive Drug Abuse, Prevention and Control Act of 1970” or any amendment thereof. In addition thereto the commissioner shall by regulation as aforesaid establish a sixth schedule which shall include all prescription drugs not included in the first five schedules.
+        </section>
+        <section prefix="b">
+    	     In making any finding under subsection (a) of this section or under subsection (a) of section three, the commissioner shall consider the following factors with respect to each drug or other substance proposed to be controlled or removed from the schedules:
+        </section>
+        <section prefix="1">
+    	     Its actual or relative potential for abuse.
+        </section>
+        <section prefix="2">
+    	     Scientific evidence of its pharmacological effect, if known.
+        </section>
+        <section prefix="3">
+    	     The state of current scientific knowledge regarding the drug or other substance.
+        </section>
+        <section prefix="4">
+    	     Its history and current pattern of abuse.
+        </section>
+        <section prefix="5">
+    	     The scope, duration and significance of abuse.
+        </section>
+        <section prefix="6">
+    	     What, if any, risk there is to the public health.
+        </section>
+        <section prefix="7">
+    	     Its psychological or physiological dependence liability.
+        </section>
+        <section prefix="8">
+    	     Whether the substance is an immediate precursor of a substance already controlled under this chapter.
+        </section>
+        <section prefix="c">
+    	     The commissioner acting jointly with the board of registration in pharmacy shall by regulation pursuant to the provisions of chapter thirty A exclude any non-narcotic substance from a schedule if such substance may, under the Federal “Comprehensive Drug Abuse Prevention and Control Act of 1970” and the Food, Drug, and Cosmetic Act, be lawfully sold over the counter without a prescription.
+        </section>
+        <section prefix="d">
+    	     Authority to control under this section shall not extend to distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1954.
+        </section>
+    </text>
+</law>

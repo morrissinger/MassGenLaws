@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61B" order_by="61B" level="3">Classification And Taxation Of Recreational Land</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Separation Of Land For Non Recreational Use</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If, by conveyance or other action of the owner thereof, a portion of land which is valued, assessed and taxed under the provisions of this chapter is separated for a use which does not qualify as recreational land, the land so separated shall be subject to liability for conveyance or roll-back taxes applicable thereto, but such separation shall not impair the right of the remainder of such land to continuance of valuation, assessment and taxation thereunder; provided, however, that such remaining land continues to so qualify.
+    </text>
+</law>

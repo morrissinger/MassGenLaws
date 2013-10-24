@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Pensions And Expenses; Payment</catch_line>
+    <order_by>67</order_by>
+    <text>
+        Pensions granted under the preceding section and all expenses connected therewith shall be paid by the commonwealth and the several counties to the same extent and in the same proportion as the salaries of the pensioners were paid at the time of their retirement.
+    </text>
+</law>

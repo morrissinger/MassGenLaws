@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25" order_by="25" level="3">Department Of Public Utilities</unit>
+    </structure>
+    <section_number>5D</section_number>
+    <catch_line>Trade Secrets, Confidential Information; Protection From Disclosure;  Burden Of Proof</catch_line>
+    <order_by>5D</order_by>
+    <text>
+        Notwithstanding the provisions of clause Twenty-sixth of section seven of chapter four and section ten of chapter sixty-six, the department may protect from public disclosure, trade secrets, confidential, competitively sensitive or other proprietary information provided in the course of proceedings conducted pursuant to this chapter. There shall be a presumption that the information for which such protection is sought is public information and the burden shall be upon the proponent of such protection to prove the need for such protection. Where such a need has been found to exist, the department shall protect only so much of the information as is necessary to meet such need. The department shall promulgate procedural rules and regulations consistent with this section as it deems necessary to implement the provisions hereof.
+    </text>
+</law>

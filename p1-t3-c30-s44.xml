@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Employees As Agents For Others; Sale Of Lands</catch_line>
+    <order_by>44</order_by>
+    <text>
+        No officer or employee of the commonwealth shall act as agent or attorney of any person in a sale or conveyance of land to the commonwealth. Whoever violates any provision of this section shall be punished by a fine of not more than one thousand dollars and shall be disqualified for employment in any state department.
+    </text>
+</law>

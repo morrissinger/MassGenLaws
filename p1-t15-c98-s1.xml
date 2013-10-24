@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="98" order_by="98" level="3">Weights And Measures</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        In this chapter the following words, unless a different meaning is required by the context or is specifically prescribed, shall have the following meanings: 
+“Deputy”, deputy sealer of weights and measures certified by the director. 
+“Deputy director”, deputy director of standards in the office of consumer affairs and business regulation. 
+“Inspector”, inspector of standards certified by the director. 
+“Sealer”, sealer of weights and measures certified by the director. 
+“Committee”, the certification within the division of standards. Said committee shall consist of the director of standards, and a designee from each of the following organizations: the Massachusetts Weights and Measures Association, the Eastern Massachusetts Weights and Measures Association, the Western Massachusetts Weights and Measures Association, and the city of Boston’s department of inspectional services. 
+“Weighing or measuring device”, all weights, measures, scales, balance beams, vibrating steelyards, and weighing or measuring devices used for weighing or measuring any commodity bought, sold or exchanged or for hire or reward, computing scales and other devices having a device for indicating or registering the price as well as the weight or measure of a commodity offered for sale, taximeters and other forms of measuring devices used upon vehicles for determining the cost of transportation; and all machines and other forms of measuring devices used or intended to be used for determining the measurement of leather bought, sold or offered for sale.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="73" order_by="73" level="3">State Colleges And Community Colleges</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Institutions Of Higher Learning; Jurisdiction Of Board</catch_line>
+    <order_by>19</order_by>
+    <text>
+        The institutions of higher learning under the jurisdiction of the board of trustees of state universities shall be those institutions in the state university segment established by section 5 of chapter 15A.
+    </text>
+</law>

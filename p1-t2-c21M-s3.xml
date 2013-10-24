@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21M" order_by="21M" level="3">Vessel Traffic Service</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Tank Vessel; Owner And Operator; Chemical Testing</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="i">
+    	     a person neither consumes, nor is under the influence of, alcohol on a tank vessel while on the waters of the commonwealth unless that person is a passenger who does not perform, and will not perform, any duty on that tank vessel; and
+        </section>
+        <section prefix="ii">
+    	     a person neither consumes, nor is under the influence of, illicit drugs on a tank vessel while in the waters of the commonwealth.
+        </section>
+        <section prefix="i">
+    	     chemical tests for evidence of alcohol or drug use shall be taken from all persons directly involved in a serious marine incident as defined in 46 CFR 4.03-4 as soon as practicable, but not more than 2 hours, after any such incident occurs which involves the vessel, with such tests performed in such a manner as to ensure best achievable accuracy and a demonstrable connection between each tested person and the corresponding test results;
+        </section>
+        <section prefix="ii">
+    	     owners and operators of tank vessels shall be responsible for ensuring that each of their tank vessels operating in the waters of the commonwealth has adequate equipment on board to perform the chemical tests described in this section and to preserve evidence pertaining to those tests, including all test results and evidence of the timeliness of the tests; and that a person on a tank vessel shall be tested for drug and alcohol use when there is reasonable cause to believe the person is under the influence of alcohol or illicit drugs.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Late Returns; Penalty; Abatement</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     If any return is not filed with the commissioner on or before its due date or within any extension of time granted by him, there shall be added to and become a part of the tax, as an additional tax, a penalty of one per cent of the amount required to be shown as the tax on such return for each month or fraction thereof during which such failure continues, not exceeding, in the aggregate, twenty-five per cent of said amount.
+        </section>
+        <section prefix="b">
+    	     If any amount of tax is not paid to the commissioner on or before the date prescribed for payment of such tax, determined with regard to any extension of time for payment, there shall be added to the amount shown as tax on such return a penalty of one per cent of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding, in the aggregate, twenty-five per cent of said amount.
+        </section>
+        <section prefix="c">
+    	     If any amount of tax required to be shown on a return is not so shown, including an assessment made pursuant to the provisions of this chapter, and such tax is not paid within thirty days following the date of the notice of the tax due, there shall be added to the amount of tax stated in such notice a penalty of one per cent of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding, in the aggregate, twenty-five per cent of said amount.
+        </section>
+        <section prefix="d">
+    	     For purposes of subsection (a), the amount of tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed upon the return. For purposes of subsections (b) and (c), the amount of tax shown on the return shall, for the purpose of computing the addition for any month, be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+        </section>
+        <section prefix="e">
+    	     This section shall not apply to any failure to file a declaration of estimated tax required by chapters sixty-two B or sixty-three B or to pay any estimated tax required to be paid by said chapters.
+        </section>
+        <section prefix="f">
+    	     If it is shown that any failure to file a return or to pay a tax in a timely manner is due to reasonable cause and not due to willful neglect, any penalty or addition to tax under this section may be waived by the commissioner, or if such penalty or addition to tax has been assessed, it may be abated by the commissioner, in whole or in part.
+        </section>
+        <section prefix="g">
+    	     If after the commissioner has required taxpayers either to prepare or file any required return, document, or information, or to make a required tax payment or estimated payment, by way of a specified automated or electronic means, format, method, or medium, a taxpayer fails to comply with the prescribed method for the filing, data transfer, or payment, the taxpayer shall be considered not to have made the required filing or the required payment. Upon a failure to comply, the commissioner, in addition to other remedies available to him, shall send the taxpayer a notice of improper filing or payment specifying the nonconformity therein, but shall not be required to send the notice for subsequent instances of noncompliance. Thereafter, if the taxpayer, without reasonable cause, fails to conform any filing, data transfer or payment with the method prescribed by the commissioner in tax years beginning on or after January 1, 2005, there shall be added to and become a part of the tax required to be paid a penalty in an amount not greater than $100 for each improper return, document or data transmission, and for each improper payment. The penalty shall be considered assessed by the issuance by the commissioner of a notice to the taxpayer setting out the amount of the penalty, the tax period and tax type affected and the reason for the penalty. No notice of intention to assess, notice of assessment, or any demand for payment shall be required as a prerequisite to the imposition or collection of a penalty imposed under this subsection. A penalty imposed by the commissioner for an improper filing or payment shall be subject to subsection (f) relative to the waiver of penalties.
+        </section>
+    </text>
+</law>

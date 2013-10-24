@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18B" order_by="18B" level="3">Department Of Social Services</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Legal Counsel; Staff Personnel</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The commissioner may appoint a member of the Massachusetts bar a legal counsel who shall be placed in grade 30 of the classification and pay scale of the commonwealth. Said legal counsel shall devote full time to the duties of the office. 
+The commissioner may also, subject to appropriation, appoint such other personnel as may be deemed necessary for the efficient management of the office.
+    </text>
+</law>

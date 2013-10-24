@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Expenses Of Physically Disabled Children</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If the school committee of a town of less than five hundred families or householders not maintaining a public high school offering four years of instruction, pays, with the approval of the department, for the instruction of a pupil who by reason of physical disability is unable to attend a high school in another town, the commonwealth shall reimburse the town therefor under the same conditions and to the same amount as for tuition in such a high school, and for transportation thereto, but not exceeding one hundred dollars a year in lieu of tuition plus one dollar and fifty cents per week of actual instruction in lieu of transportation.
+    </text>
+</law>

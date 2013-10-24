@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Expenses Payable By Commonwealth</catch_line>
+    <order_by>24</order_by>
+    <text>
+        A district attorney, in the name of the commonwealth, may contract such bills for stationery, experts, travel outside of the commonwealth by witnesses required by the commonwealth in the prosecution of cases, for necessary expenses incurred by himself or by officers and others under his direction in going outside of the commonwealth for the purpose of searching for or bringing back for trial persons under indictment or against whom complaints are pending in his district, and for such other expenses as may in his opinion be necessary for the proper conduct of his office in the investigation of or preparation and trial of criminal cases; and all such bills shall be paid by the commonwealth upon a certificate by the district attorney that they were necessarily incurred in the proper performance of his duty.
+    </text>
+</law>

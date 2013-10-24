@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Registration Under Chapter 90; Application For Certificate Of Title Required</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Except for vehicles referred to in section two, whoever acquires a motor vehicle or trailer after the effective date of this chapter, shall be required to make application for a certificate of title. Such application shall be made within ten days from the acquisition of ownership of said vehicle or trailer.
+        </section>
+        <section prefix="b">
+    	     Except for vehicles referred to in section two, no new application for registration pertaining to a motor vehicle or trailer shall be accepted under the provisions of chapter ninety until the owner thereof makes application to the registrar for a certificate of title of the vehicle.
+        </section>
+    </text>
+</law>

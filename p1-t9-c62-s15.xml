@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Duties Of Corporate Trustees</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Every corporation liable to taxation under the preceding section shall make the returns prescribed by section six of chapter sixty-two C and shall be subject to the penalties imposed by said chapter.
+    </text>
+</law>

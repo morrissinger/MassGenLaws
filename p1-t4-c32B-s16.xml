@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32B" order_by="32B" level="3">Contributory Group General Or Blanket Insurance For Persons In The Service Of Counties, Cities, Towns And Districts, And Their Dependents</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Optional Insurance For Services Of Health Care Organizations</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="1">
+    	     that the total monthly premium cost to be paid by the governmental unit is to be paid under the terms of a contract to a carrier and not paid directly to a health care organization. For purposes of this chapter such a contract shall be deemed to be a contract of insurance;
+        </section>
+        <section prefix="2">
+    	     that the health care organization maintains fair and non-discriminatory formulas for the payment of all vendor’s services and that such formulas result in the same relative charges to all fiscal intermediaries or carriers with whom the health care organization has an agreement; provided, however, that any difference in relative charges which may result from the application of a rate of payment approved under section five of chapter one hundred and seventy-six A shall be deemed to comply herewith.
+        </section>
+    </text>
+</law>

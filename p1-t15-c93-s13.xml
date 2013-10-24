@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Limitations Of Actions</catch_line>
+    <order_by>13</order_by>
+    <text>
+        An action brought to enforce the provisions of this Act shall be barred unless commenced within four years after the cause of action accrued. 
+Whenever any civil or criminal proceedings shall be commenced by the commonwealth under this Act, the running of the statute of limitations with respect to every private right of action arising under this Act and based in whole or in part on any matter complained of in said proceedings shall be suspended during the pendency thereof and for one year thereafter; provided, however, that whenever the running of the statute of limitations with respect to a cause of action is suspended, any action to enforce such cause of action shall forever be barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
+    </text>
+</law>

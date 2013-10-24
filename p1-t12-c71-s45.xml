@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Procurement Of Teaching Positions; Regulation Of Fees; Penalty For Violation</catch_line>
+    <order_by>45</order_by>
+    <text>
+        No person shall demand or accept from any applicant for the position of teacher in the public schools a fee or other compensation exceeding two dollars, and no additional sum shall be charged to cover expenses or for any other reason, except that further compensation, not exceeding five per cent of the teacher’s salary for the first year, provided the position is open to the teacher for said period, may be charged for procuring such position. Violation of this section shall be punished by a fine of not less than fifty nor more than five hundred dollars.
+    </text>
+</law>

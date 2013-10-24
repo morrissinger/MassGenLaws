@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>11C</section_number>
+    <catch_line>Narcotic And Harmful Drugs; Training Program For Law Enforcement Officers</catch_line>
+    <order_by>11C</order_by>
+    <text>
+        <section prefix="1">
+    	     the laws of the commonwealth relating to the possession, sale, and manufacture of narcotic and harmful drugs;
+        </section>
+        <section prefix="2">
+    	     the methods and procedures for detecting and ascertaining the identity of the various narcotic and harmful drugs;
+        </section>
+        <section prefix="3">
+    	     law enforcement techniques, intelligence operations, and methods of promoting cooperation among the municipal, metropolitan, and state police departments;
+        </section>
+        <section prefix="4">
+    	     search and seizure techniques in accordance with the Constitution of the United States and with the Constitution and laws of the commonwealth;
+        </section>
+        <section prefix="5">
+    	     the physiological and psychological effects of the various narcotic and harmful drugs;
+        </section>
+        <section prefix="6">
+    	     the underlying psychological and sociological causes of drug use and drug abuse;
+        </section>
+        <section prefix="7">
+    	     opportunities for treatment and rehabilitation of drug dependent persons; and
+        </section>
+        <section prefix="8">
+    	     educational programs relating to drugs sponsored by the department of education, other public agencies, and private organizations.
+        </section>
+    </text>
+</law>

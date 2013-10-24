@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Generation Skipping Transfers</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     When used in this section, the following words shall, unless the context indicates otherwise, have the following meanings:—
+        </section>
+        <section prefix="1">
+    	     “Generation-skipping transfer”, every transfer subject to the federal generation-skipping transfer tax in which the original transferor is a resident of the commonwealth at the date of original transfer or the property transferred is real or personal property in the commonwealth.
+        </section>
+        <section prefix="2">
+    	     “Original transferor”, any grantor, donor, settlor or testator who by grant, gift, trust or will makes a transfer of real or personal property that results in a federal generation-skipping transfer tax.
+        </section>
+        <section prefix="b">
+    	     A tax is hereby imposed upon every generation-skipping transfer in which the original transferor is a resident of the commonwealth at the date of original transfer, in an amount equal to the amount allowable as a credit for state death taxes under section twenty-six hundred and two of the Internal Revenue Code of the United States in effect on December thirty-first, nineteen hundred and eighty-one.
+        </section>
+        <section prefix="c">
+    	     A tax is hereby imposed upon every generation-skipping transfer in which the original transferor is not a resident of the commonwealth at the date of the original transfer but in which the property transferred includes real or personal property in the commonwealth, in an amount equal to the amount allowable as a credit for state death taxes under section twenty-six hundred and two of the Internal Revenue Code of the United States in effect on December thirty-first, nineteen hundred and eighty-one.
+        </section>
+        <section prefix="d">
+    	     Every person required to file a return reporting a generation-skipping transfer under applicable federal law and regulations shall file with the commissioner, on or before the last day prescribed for filing the federal return, a return in such form as the commissioner may prescribe, including a duplicate copy of the federal return.
+        </section>
+        <section prefix="e">
+    	     The person liable for payment of the federal generation-skipping transfer tax shall be liable for the tax imposed by this section, which tax is due upon a taxable distribution or taxable termination as determined under the applicable provisions of the federal generation-skipping transfer tax, and shall be paid to the commissioner.
+        </section>
+        <section prefix="f">
+    	     Any person failing to file any payment of tax required by this section when due shall be subject to the interest and penalty provisions under sections thirty-two and thirty-three of chapter sixty-two C.
+        </section>
+        <section prefix="g">
+    	     If, after a duplicate copy of the federal return of a generation-skipping transfer has been filed with the commissioner, the amount of the federal generation-skipping transfer tax is increased or decreased by the federal government, an amended return shall be filed with the commissioner showing all changes made in the original return and the amount of increase or decrease in the federal generation-skipping transfer tax and in the state death tax credit relating thereto.
+        </section>
+    </text>
+</law>

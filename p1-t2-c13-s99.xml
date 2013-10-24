@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>99</section_number>
+    <catch_line>Board Of Registration Of Massage Therapy; Powers And Duties</catch_line>
+    <order_by>99</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall have the following powers and duties: (i) to administer and enforce sections 227 to 236, inclusive, of chapter 112; (ii) to adopt rules and regulations governing the licensure of massage therapists, the practice of massage therapy and the operation of massage schools to promote the public health, welfare and safety of citizens of the commonwealth; (iii) to establish standards of professional and ethical conduct; (iv) to establish standards for continuing education reflecting acceptable national standards; and (v) to investigate complaints, conduct inspections, review billing and treatment records and set and administer penalties as defined in sections 61 to 65E, inclusive, and sections 232 to 236, inclusive, of chapter 112 for fraudulent, deceptive or professionally incompetent and unsafe practices and for violations of rules and regulations promulgated by the board.
+        </section>
+        <section prefix="b">
+    	     The board shall make available to the public a list of licensed massage therapists. The board shall establish by regulation a code of ethics.
+        </section>
+    </text>
+</law>

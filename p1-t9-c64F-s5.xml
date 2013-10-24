@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64F" order_by="64F" level="3">Taxation Of Fuel And Special Fuels Acquired Outside And Used Within The Commonwealth</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Reciprocity With Other States</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The commissioner may enter into reciprocal agreements with appropriate officials of any other state under which he may waive all or any part of the requirements imposed by this chapter and fuel or special fuel licensing requirements imposed by chapter sixty-two C upon persons who use in the commonwealth fuel or special fuels upon which the tax and license fee has been paid to such other state, provided that the laws of such other state grant equivalent privileges with respect to fuel or special fuels used in such other state upon which a tax has been paid to this commonwealth.
+    </text>
+</law>

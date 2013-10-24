@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19C" order_by="19C" level="3">Disabled Persons Protection Commission</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Referral Of Abuse Reports</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     refer immediately any such reports which allege the occurrence of abuse that is subject to the provisions of sections fourteen to twenty-six, inclusive, of chapter nineteen A, sections seventy-two F to seventy-two L, inclusive, of chapter one hundred and eleven, or sections fifty-one A to fifty-one F, inclusive, of chapter one hundred and nineteen to the appropriate agency for the implementation of measures provided in said sections.
+        </section>
+        <section prefix="b">
+    	     refer immediately any such reports, which allege the occurrence of abuse to a disabled person whose caretaker is a state agency, to an investigator of the commission and the general counsel of the office of the secretary of health and human services, or his designee, within such office and to the department within the executive office of human services which provides or which has contracted for the provision of services to the disabled person. As determined by the commission, either the commission or said department, subject to the oversight of the commission, shall investigate such abuse as provided in section 5. In all cases where a commission investigation is being conducted, the department shall take reasonable steps to avoid unnecessary unwarranted or counterproductive duplication between any internal investigation or inquiry by the department and the commission’s investigation, by utilizing the commission’s investigation in lieu of an internal investigation conducted by said department.
+        </section>
+        <section prefix="c">
+    	     refer immediately any such reports which allege the occurrence of abuse to a disabled person whose caretaker is other than a state agency to the general counsel or to the department of mental health, in those cases where the disabled person is a person with an intellectual disability or otherwise mentally disabled, or to the Massachusetts rehabilitation commission, in those cases where the disabled person is physically disabled and said counsel or the department of mental health or the department of public health shall immediately, upon such referral, designate an investigator who shall investigate such abuse as provided in section five.
+        </section>
+    </text>
+</law>

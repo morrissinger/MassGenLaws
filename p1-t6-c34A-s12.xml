@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Report And Recommendation; Findings And Determinations</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="i">
+    	     That a referendum be held to submit to the voters of the county the question of adopting one of the optional forms of the government set forth in sections seventeen, eighteen, and nineteen of this chapter that the commission has designated; or (ii) That the charter commission shall petition the legislature for the enactment of a special charter, the text of which shall be appended to the charter commission’s report; or (iii) That the form of government of the county remain unchanged; or (iv) That any or any combination of the following changes be made: (a) that the present form of county government be abolished and which, if any, county agencies or operations should be placed under another state, local or regional governmental system; or (b) that part of the present form of county government be abolished and which, if any, county agencies or operations should remain as part of county government and which should be abolished, changed or placed under another governmental system; or (c) that all or some of the county agencies or operations be taken over by the state or allowed to exist as part of a regional system.
+        </section>
+        <section prefix="i">
+    	     Commissioners, number and term. The commission shall make recommendations as to changes if any in the number and terms of service of the county commissioners.
+        </section>
+        <section prefix="ii">
+    	     The commission shall recommend either a continuation of the present system of nonconcurrent terms or the adoption of a new system of concurrent terms.
+        </section>
+        <section prefix="iii">
+    	     Constituencies. The commission can recommend that the commissioners be elected at large or that they be elected by districts.
+        </section>
+    </text>
+</law>

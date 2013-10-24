@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23B" order_by="23B" level="3">Department Of Housing And Community Development</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Definitions Applicable To Secs. 12 To 15</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     “Eligible section of substantial poverty”, a section of one or more cities or towns of the commonwealth which (a) is designated as having “sections of concentrated unemployment or underemployment” by the United States Secretary of Labor, or (b) is part of a standard metropolitan statistical area of over two hundred and fifty thousand persons and contains one or more poverty areas as defined by the latest official United States decennial census, or (c) is part of a standard metropolitan statistical area of less than two hundred and fifty thousand persons but contains one or more “poor tracts” as defined by the latest official United States decennial census using a five-factor analysis, except that for the purposes of this definition the “poor tract” will be defined as one falling in the lowest quartile of all United States census tracts in Massachusetts cities with populations of fifty thousand or more.
+        </section>
+        <section prefix="b">
+    	     “Approved training or assistance program”, a federal, state or private training or rehabilitation program which has been certified as an approved program by the urban job incentive bureau of the Massachusetts office of business development of the department of economic development.
+        </section>
+        <section prefix="c">
+    	     “Eligible business facility”, a place of business of a corporation subject to the excise imposed under sections thirty to fifty-one, inclusive, of chapter sixty-three or a place of business located in a commercial center revitalization district which place of business is located in a city or town containing one or more eligible sections of substantial poverty or located in a city or town contiguous thereto and for which a certificate of eligibility has been issued by the urban job incentive bureau in the Massachusetts office of business development. A facility for which such a certificate is issued shall be deemed an eligible business facility only during the taxable year or as of the taxable status date to which such certificate relates, as provided in this chapter.
+        </section>
+        <section prefix="d">
+    	     “Resident”, an individual who is domiciled in an eligible section of substantial poverty.
+        </section>
+        <section prefix="e">
+    	     “Bureau”, the urban job incentive bureau of the Massachusetts office of business development.
+        </section>
+        <section prefix="f">
+    	     “Commercial center revitalization district,” a predominantly commercial geographic area in a city or town with one or more eligible sections of substantial poverty, which area is bounded and described in a commercial area revitalization plan adopted by the governing body of the city or town and approved by the director of housing and community development. The purposes of a commercial revitalization plan shall be to prevent or arrest and reverse the decay of the area covered by the plan. The plan shall describe the area and set forth the development or redevelopment, including public improvements, proposed to carry out the purposes of the plan. In exercising the power of approval of a commercial area revitalization plan, the director of housing and community development shall seek to avoid and correct the deterioration of older commercial districts which results from the movement of commercial enterprise to previously non-commercial areas.
+        </section>
+    </text>
+</law>

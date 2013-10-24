@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40" order_by="40" level="3">Powers And Duties Of Cities And Towns</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Appropriation Of Money For Exercise Of Corporate Powers</catch_line>
+    <order_by>5</order_by>
+    <text>
+        A town may at any town meeting appropriate money for the exercise of any of its corporate powers; provided, however, that a town shall not appropriate or expend money for any purpose, on any terms, or under any conditions inconsistent with any applicable provision of any general or special law.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Tangible Supply; Disposition</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     A governmental body shall dispose of a tangible supply, no longer useful to the governmental body but having resale or salvage value, in accordance with this section. This section does not apply to the disposal of real property.
+        </section>
+        <section prefix="b">
+    	     The governmental body shall offer such supply through competitive sealed bids, public auction, or established markets.
+        </section>
+        <section prefix="c">
+    	     Notice of sale by bid or auction shall conform with the procedures set forth in paragraph (c) of section five. The notice shall indicate the supply offered for sale, designate the location and method for inspection of such supply, state the terms and conditions of sale including the place, date and time for the bid opening or auction, and state that the governmental body retains the right to reject any and all bids.
+        </section>
+        <section prefix="d">
+    	     If the governmental body rejects the bid of the highest responsive bidder, the governmental body may:
+        </section>
+        <section prefix="1">
+    	     negotiate a sale of such supply so long as the negotiated sale price is higher than the bid price; or
+        </section>
+        <section prefix="2">
+    	     resolicit bids.
+        </section>
+        <section prefix="e">
+    	     A procurement officer may trade-in a supply listed for trade-in in the invitation for bids or request for proposals.
+        </section>
+        <section prefix="f">
+    	     For a supply with an estimated net value of less than $5,000, the procurement officer shall dispose of such supply using written procedures approved by the governmental body.
+        </section>
+        <section prefix="g">
+    	     Notwithstanding any other requirement of this section, a governmental body may by majority vote, unless otherwise prohibited by law, dispose of a tangible supply no longer useful to the governmental body but having resale or salvage value, at less than the fair market value to a charitable organization which has received a tax exemption from the United States by reason of its charitable nature.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Making Of Lists By Registrars Or Boards</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Registrars, assistant registrars, or boards having similar duties under any general or special law, except in the city of Boston, shall annually in January or February visit or communicate with the residents of each building in their respective cities and towns and, after diligent inquiry, shall make true lists containing, as nearly as they can ascertain, the name, date of birth, occupation, veteran status, nationality, if not a citizen of the United States, and residence on January 1 of the preceding year and the current year, of each person three years of age or older residing in their respective cities and towns. The police department of a city or town shall, upon request, have access to the lists. A list of all persons 3 to 21 years of age, inclusive, shall be transmitted by the board of registrars to the respective school committee not later than April 1 of each year. The list shall contain the name, residence and age or date of birth of each such person; but the names of persons 3 to 16 years of age, inclusive, shall not be disclosed to any person other than the respective school committee or board of trustees of a county agricultural school or a police department. That proportion of any expenses incurred by the registrars under this section, equal to the proportion that the number of persons under 17 years of age bears to the total number of persons listed thereunder, shall be carried as an item in the school committee budget.
+        </section>
+        <section prefix="b">
+    	     In the city of Boston, the registrars, assistant registrars or boards having similar duties under any general or special law, shall annually in January or February visit or communicate with the residents of each building in said city and, after diligent inquiry, shall make true lists containing, as nearly as they can ascertain, the name, date of birth, occupation, veteran status, nationality if not a citizen of the United States, and residence on January 1 of the preceding year and the current year, of each person 17 years of age or older residing in said city. The Boston police department shall, upon request, have access to the lists.
+        </section>
+        <section prefix="c">
+    	     In any city or town which communicates with residents by mail for the purpose of obtaining such information, the communication shall state in boldface type on the postcard, envelope and printed material contained in such communication the following statement: “Warning - failure to respond to this mailing shall result in removal from the active voting list and may result in removal from the voter registration rolls.”. Registrars, assistant registrars or boards in such cities or towns communicating with residents by mail for the purpose of obtaining such information may require a response under the penalties of perjury.
+        </section>
+        <section prefix="d">
+    	     The name and address of any person who provides the registrars with a copy of a court order granting protection, or evidence of residence in a protective shelter, or an affidavit signed by a chief of police or his designee that said person is entitled to have certain information withheld from the public under section 24C of chapter 265, shall not appear on the street list and such names shall not be disclosed to any person. The information collected under this section regarding a person’s status as a veteran shall not be a public record and shall only be disclosed to the adjutant general, the secretary of veterans’ services and local veterans’ service officers.
+        </section>
+        <section prefix="e">
+    	     The name and address of any law enforcement or public safety personnel who so requests shall not appear on the street list and such names shall not be disclosed to any person.
+        </section>
+    </text>
+</law>

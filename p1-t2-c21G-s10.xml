@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Recommendations</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The department shall, by regulation, establish a procedure to be followed in obtaining recommendations from local officials or bodies, regional planning agencies, or others including any comments received by the water resources management official pursuant to section nine, for use by the department in making findings under section eleven; provided, however, that failure of any local official or body or regional planning agency to make timely recommendations in accordance with such procedures shall not bar the department from ruling on any application if it determines that it has an adequate basis for making the findings required by regulation.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Exempted Property; Returns By Assessors</catch_line>
+    <order_by>86</order_by>
+    <text>
+        Assessors shall annually, on or before July first, forward to the commissioner a statement showing the whole amount of exempted property entered upon the valuation lists of their respective towns in accordance with section fifty-one, and the amount in each class, and stating separately the aggregate amount belonging to each class embraced in the clause third of section five.
+    </text>
+</law>

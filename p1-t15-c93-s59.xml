@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Charge To Consumer For Disclosures</catch_line>
+    <order_by>59</order_by>
+    <text>
+        <section prefix="a">
+    	     A consumer reporting agency shall make all disclosures pursuant to section fifty-six without charge to the consumer if, within sixty days after receipt by such consumer of a notification pursuant to section sixty-two or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section fifty-six.
+        </section>
+        <section prefix="b">
+    	     Except as provided in paragraph (c), a consumer reporting agency shall not charge a consumer for any disclosures or a copy of a consumer report requested pursuant to section fifty-eight.
+        </section>
+        <section prefix="c">
+    	     Except as otherwise provided, the consumer reporting agency may impose a reasonable charge, not to exceed eight dollars: (1) for making disclosures to a consumer pursuant to section fifty-six, the charge for which shall be indicated to the consumer prior to making disclosure; and (2) for furnishing notifications, statements, or summaries, to a person pursuant to paragraph (g) of section fifty-eight, the charge for which shall be indicated to the consumer prior to furnishing such information.
+        </section>
+        <section prefix="d">
+    	     Each consumer reporting agency which compiles and maintains files on consumers on a nationwide basis shall furnish without charge to any consumer who has provided verification of his identity and who meets other requirements as set forth in section fifty-seven and who requests a copy of his consumer report, one complete consumer report per calendar year.
+        </section>
+        <section prefix="e">
+    	     Each consumer reporting agency which does not compile and maintain files on consumers on a nationwide basis shall furnish, for a charge not to exceed five dollars, to any consumer who has provided verification of his identity and who meets other requirements as set forth in section fifty-seven and who requests a copy of his consumer report, one complete consumer report per calendar year.
+        </section>
+    </text>
+</law>

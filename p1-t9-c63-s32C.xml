@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>32C</section_number>
+    <catch_line>Maximum Amount Of Credits; Carryover</catch_line>
+    <order_by>32C</order_by>
+    <text>
+        Notwithstanding the provisions of sections thirty-one A and thirty-eight E and section eleven of chapter seven hundred and fifty-two of the acts of nineteen hundred and seventy-three, the maximum amount of credits, otherwise allowable in any one taxable year to a corporation, shall not exceed fifty per cent of its excise imposed by section thirty-two or thirty-nine. Any corporation may carry over and apply to its excise for any subsequent taxable year the portion of those credits, as reduced from year to year, which were not allowed by this section.
+    </text>
+</law>

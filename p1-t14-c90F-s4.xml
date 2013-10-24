@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Employers; Applicant Employment History Requirements; Applicant License Requirements; Violation Of Federal, State Or Local Law Or Regulation Regarding Railroad Highway Grade Crossings</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="C">
+    	     No employer shall knowingly allow, require, permit or authorize a driver to operate a commercial motor vehicle during any period in which the driver or the commercial motor vehicle or the motor carrier operation is subject to an out-of-service order. Any employer who violates the provisions of this paragraph shall be subject to a civil penalty of from $2,750 to $11,000 inclusive.
+        </section>
+        <section prefix="D">
+    	     No employer shall knowingly allow, require, permit or authorize a driver to operate a commercial motor vehicle in violation of a federal, state or local law or regulation pertaining to railroad-highway grade crossings. Any employer who violates the provisions of this paragraph shall be subject to a civil penalty of not more than $10,000.
+        </section>
+    </text>
+</law>

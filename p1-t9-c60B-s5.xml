@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60B" order_by="60B" level="3">Excise On Boats, Ships And Vessels In Lieu Of Local Property Tax</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Collection Provisions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The provisions of law relative to the collection, payment, abatement, verification and administration of the motor vehicle excise imposed under chapter sixty A shall so far as pertinent apply to the excise imposed under this chapter.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="92B" order_by="92B" level="3">Commonwealth Zoological Corporation</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Corporation Duties And Obligations</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The corporation is hereby directed to maintain, repair, enhance and otherwise improve the zoos and their collections.
+        </section>
+        <section prefix="b">
+    	     The corporation shall develop within a reasonable time individual master plans for the operation and improvement of each zoo. The plans are to be used as a framework to revitalize each zoo and to ensure that the programs and collections of each zoo compliment one another.
+        </section>
+        <section prefix="c">
+    	     The corporation shall file with the secretary of the commonwealth to establish itself as a chartered nonprofit corporation within the commonwealth.
+        </section>
+        <section prefix="d">
+    	     The corporation shall file with the Internal Revenue Service to establish itself as a nonprofit corporation to ensure that contributions to the corporation are tax deductible.
+        </section>
+        <section prefix="e">
+    	     The corporation shall, to the best of its ability, raise funds and gifts of property or services or both from individuals, corporations, foundations and any other public or private entities for the purpose of enhancing, expanding and maintaining programs, exhibits, buildings, visitor services, and any other purpose consonant with the responsibilities outlined in this chapter. The corporation may establish gift shops, concessions, rentals, membership programs, publications, and other revenue raising devices to meet its obligations to raise funds for operating and capital purposes.
+        </section>
+        <section prefix="f">
+    	     The corporation shall maintain a detailed inventory of its personal property which it shall incorporate in its annual financial report.
+        </section>
+        <section prefix="g">
+    	     The corporation shall maintain detailed records of all expenditures, and may, if requested through the commission, continue to utilize the Massachusetts management, accounting, and reporting system.
+        </section>
+    </text>
+</law>

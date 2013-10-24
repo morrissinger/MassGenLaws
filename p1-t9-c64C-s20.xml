@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Cost Survey As Evidence</catch_line>
+    <order_by>20</order_by>
+    <text>
+        Where the particular trade, of which the person complained against is a member, has an established cost survey for the trading area in which the offense is committed, said cost survey shall be deemed competent evidence to be used in proving the cost to the person complained against within the provisions of sections thirteen to twenty-one, inclusive.
+    </text>
+</law>

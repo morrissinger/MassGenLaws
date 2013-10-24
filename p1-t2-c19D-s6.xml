@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Denial, Suspension Or Revocation Of Certification</catch_line>
+    <order_by>6</order_by>
+    <text>
+        The department may deny, suspend or revoke a certification in any case in which it finds there has been a failure or refusal to comply with the requirements established under this chapter or the regulations promulgated thereunder. Notice of denial, revocation, suspension or modification and the sponsor’s or applicant’s right to an adjudicatory proceeding shall be governed by the provisions of chapter thirty A.
+    </text>
+</law>

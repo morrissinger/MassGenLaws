@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Exempt Income Of Individuals; Exemption Of Stock Bonus, Pension Or Profit Sharing Trust</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding the provisions of section four, Part A taxable income, Part B taxable income and Part C taxable income, shall be exempt from all taxes imposed under this chapter if the Massachusetts adjusted gross income for the taxable year does not exceed the following threshold:
+        </section>
+        <section prefix="1">
+    	     in the case of a single person, eight thousand dollars, or
+        </section>
+        <section prefix="2">
+    	     in the case of a husband and wife filing a joint return or a person filing as a head of household, seven thousand six hundred dollars plus the deductions allowed under the following provisions of paragraph (b) of subsection (B) of section three of this chapter.
+        </section>
+        <section prefix="A">
+    	     an amount equal to that allowed for personal exemptions under clause (A) of subparagraph (1a) of said paragraph or clause (A) of subparagraph (2) of said paragraph, and
+        </section>
+        <section prefix="B">
+    	     an amount equal to the total exemption allowed under subparagraph (3) of said paragraph.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any other provision of this chapter, no tax shall be imposed under this chapter upon any stock bonus, pension or profit-sharing trust qualifying under section four hundred and one of the Code or any individual retirement account qualifying under section four hundred and eight of the Code.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Testing And Control Of Hazardous Emissions From Refuse Burning Facilities</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     develop and establish procedures to be followed when the department tests or requires other persons to test for the presence of dioxins, furans, heavy metals or other hazardous constituents in the environment;
+        </section>
+        <section prefix="b">
+    	     conduct tests for the presence of dioxins, furans, or other hazardous constituents in the ambient air at locations in the commonwealth, as determined by the department;
+        </section>
+        <section prefix="c">
+    	     require that persons who own or operate refuse burning facilities test the air emissions, bottom ash, and fly ash from the facilities for the presence of dioxins, furans, heavy metals or other hazardous constituents; provided, however, that such persons shall conduct dioxin testing according to clause (a) at least once every nine months;
+        </section>
+        <section prefix="d">
+    	     retain the results of such tests for comparison purposes over time and initiate proper responses when the results of such tests indicate a potential violation of department standards and policies;
+        </section>
+        <section prefix="e">
+    	     make available to interested parties, the general public and residents of municipalities in which refuse burning facilities exist or border the results of such tests together with an explanation of such results as to the adherence by such facilities to department standards and policies;
+        </section>
+        <section prefix="f">
+    	     cause to be designed and established an acute toxics laboratory at the Lawrence Experimental Station capable of analyzing extremely low levels of contaminants in air, water and soil samples; and
+        </section>
+        <section prefix="g">
+    	     promulgate rules and regulations for the land disposal of bottom ash and fly ash from refuse burning facilities which shall protect the public health and environment from any significant adverse effects from the disposal of such ash residue. Said rules and regulations may include, but not be limited to, provision for ash residue landfills to operate with liners, leachate collection systems, daily cover, groundwater monitoring and other systems necessary to prevent contamination of the air, groundwater and surface water.
+        </section>
+    </text>
+</law>

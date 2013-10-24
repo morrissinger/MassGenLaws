@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>38Y</section_number>
+    <catch_line>Unrelated Business Taxable Income For Certain Exempt Corporations</catch_line>
+    <order_by>38Y</order_by>
+    <text>
+        <section prefix="a">
+    	     Every business corporation which is exempt from taxation under section 501 of the Code shall be subject to tax under section 39 on its unrelated business taxable income, as defined in section 512 of the Code. The property or net worth of those corporations shall not be subject to tax under this chapter, and the minimum excise under section 39 shall not apply. If a corporation has unrelated business taxable income that is taxable both within and without the commonwealth, it may apportion its net income to the commonwealth under section 38, but its apportionment factors shall be determined by reference only to the unrelated business activity of the corporation. The credits allowed under this chapter shall be determined only with respect to the unrelated business activity of the corporation.
+        </section>
+        <section prefix="b">
+    	     An entity that is exempt from taxation under section 501 of the Code shall not be considered to be a business corporation for purposes of chapter 59.
+        </section>
+    </text>
+</law>

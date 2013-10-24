@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64J" order_by="64J" level="3">Taxation Of Fuels Used In The Propulsion Of Aircraft</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Aircraft”, any machine or device, including airplanes and helicopters, capable of atmospheric flight.
+        </section>
+        <section prefix="b">
+    	     “Aircraft fuel”, all combustible gases and liquids, used or sold for use in propelling turbine-propellor jet, turbojet and jet driven aircraft and jet aircraft engines.
+        </section>
+        <section prefix="c">
+    	     “Average price”, the weighted average selling price per gallon of aircraft fuel exclusive of any federal and state aircraft fuel taxes imposed thereon sold by licensees, as determined by the commissioner on a consistent basis from information furnished by suppliers and user-sellers with their monthly returns and from other statistical data reflecting the average level of such prices at the time such determination is made.
+        </section>
+        <section prefix="d">
+    	     “Commissioner”, the commissioner of revenue.
+        </section>
+        <section prefix="e">
+    	     “Fuel”, shall mean “Fuel” as defined in paragraph (d) of section one of chapter sixty-four A or “Special Fuel” as defined in paragraph (c) of section one of chapter sixty-four E.
+        </section>
+        <section prefix="f">
+    	     “Purchaser”, shall include, but not be limited to, in addition to its usual meaning, a person who transfers aircraft fuel into an aircraft, or into a receptacle from which aircraft fuel is supplied by him to his own or other aircraft.
+        </section>
+        <section prefix="g">
+    	     “Sale”, shall include, in addition to its usual meaning, the transfer of aircraft fuel by a supplier into an aircraft or into a receptacle from which aircraft fuel is supplied by him to his own or other aircraft, and all sales shall be deemed to occur at the place in the commonwealth where the fuel is transferred into the aircraft by which it is to be used.
+        </section>
+        <section prefix="h">
+    	     “Supplier”, any person who sells or delivers fuel to a user-seller and any person who imports fuel into the commonwealth other than in the usual tank or receptacle connected with the engine of the aircraft in the operation of which the aircraft fuel is to be consumed, and resells or uses the same in an aircraft owned or operated by such person, and any person who otherwise would be a user-seller and who has elected instead to qualify and be licensed as a supplier.
+        </section>
+        <section prefix="i">
+    	     “Tax per gallon”, five per cent of the average price, as determined by the commissioner for each calendar quarter, computed to the nearest tenth of a cent per gallon; provided, however, that such tax shall not be less than five cents per gallon.
+        </section>
+        <section prefix="j">
+    	     “Use”, shall mean and include, in addition to its usual meaning, the receipt of aircraft fuel by any person into a fuel supply tank of an aircraft or into a receptacle from which aircraft fuel is supplied by any person to his own or other aircraft, and all uses shall be deemed to occur at the place in the commonwealth where the fuel is transferred into the aircraft by which it is to be used.
+        </section>
+        <section prefix="k">
+    	     “User-seller”, any person, not licensed as a supplier, who dispenses aircraft fuel into the fuel tanks of, or attached to, aircraft or including any such person who so dispenses aircraft fuel for consumption in such aircraft owned, leased or operated by him. Any user-seller may, with the permission of the commissioner, elect instead to qualify and be licensed as a supplier.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>34A</section_number>
+    <catch_line>Absentee Ballots; Application; Forms; Envelopes; Preparation</catch_line>
+    <order_by>34A</order_by>
+    <text>
+        <section prefix="a">
+    	     Official absent voting ballots, similar in all respects to the official ballot to be used at such primary, on paper similar in color to the official ballot of the respective parties. Instructions for the use of said absentee ballots may be printed on the back of the ballots.
+        </section>
+        <section prefix="b">
+    	     Blank forms of application for such ballots, worded substantially as provided by section eighty-seven of chapter fifty-four, except that the application shall indicate that the ballot is to be used at the primary, and shall also indicate the party whose ballot the voter desires to obtain.
+        </section>
+        <section prefix="c">
+    	     Envelopes conforming substantially to subsections (c) and (d) of section eighty-seven of said chapter fifty-four.
+        </section>
+    </text>
+</law>

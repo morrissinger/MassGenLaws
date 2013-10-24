@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23A" order_by="23A" level="3">Department Of Economic Development</unit>
+    </structure>
+    <section_number>3G</section_number>
+    <catch_line>Foreign Trade Zone</catch_line>
+    <order_by>3G</order_by>
+    <text>
+        Any municipality which contains an economic opportunity area is hereby authorized to make application to the foreign trade zone board established by an act of Congress, Public Law 397, 19 USC 81(a) to 81(u), inclusive, for a grant to said city or town for the privilege of establishing, operating and maintaining a foreign trade zone within its economic opportunity area.
+    </text>
+</law>

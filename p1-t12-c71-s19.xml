@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Evening Classes In High Schools</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Every city of fifty thousand inhabitants shall maintain annually an evening high school, in which shall be taught such subjects as the school committee considers expedient, if fifty or more residents, sixteen years or over, competent in the opinion of the committee to pursue high school studies, shall petition in writing for an evening high school and certify that they desire to attend.
+    </text>
+</law>

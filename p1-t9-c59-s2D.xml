@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>2D</section_number>
+    <catch_line>Taxation Of Improved Real Estate Based On Value At Issuance Of Occupancy Permit; Pro Rata</catch_line>
+    <order_by>2D</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever in any fiscal year real estate improved in assessed value by over 50 per cent by new construction is issued a temporary or permanent occupancy permit after January 1 in any year, the owner of the real estate shall pay a pro rata amount or amounts, as herein defined, to the city or town where such real estate is located that would have been due for the applicable fiscal year under this chapter if the real estate had been so improved on the assessment date for the fiscal year in which the occupancy permit issued. The amounts payable to the city or town shall be determined as follows:
+        </section>
+        <section prefix="1">
+    	     A real estate tax based on the assessed value of the improvement for the fiscal year in which such improvement and issuance of an occupancy permit occurred allocable on a pro rata basis to the days remaining in the fiscal year from the date of the issue of the occupancy permit to the end of the fiscal year; and
+        </section>
+        <section prefix="2">
+    	     A real estate tax based on the assessed value of the improvement for the succeeding fiscal year where the occupancy takes place between January 1 and June 30 of any year.
+        </section>
+        <section prefix="b">
+    	     A real estate tax based on the assessed value of the improvement shall be computed by applying the tax rate or the appropriate classified tax rate of the city or town for the fiscal year in which such improvement and issuance of an occupancy permit occurs to the assessed value of the improvement as if the real estate had been so improved on January first of the year of occupancy.
+        </section>
+        <section prefix="c">
+    	     Such amounts shall be paid by the property owner to the collector of the city or town within 30 days of the date of issuance by said city or town of a notification of such liability to said property owner or the date by which a tax assessed upon real estate would otherwise be payable without interest for the applicable fiscal year, whichever is later. Any amount not paid by the said date shall bear interest from the said date at the rate per annum provided in section 57. The collector shall have for the collection of sums assessed under this section all remedies provided by chapter 60 for the collection of taxes upon real estate.
+        </section>
+        <section prefix="d">
+    	     A person upon whom a tax has been assessed pursuant to the provisions of this section shall have all remedies provided by section 59 and section 64 of chapter 59 and all other applicable provisions of the General Laws for the abatement and appeal of taxes upon real estate.
+        </section>
+        <section prefix="e">
+    	     Whenever in any fiscal year, the assessed value of real estate is decreased by over 50 per cent as the result of fire or natural disaster, the city or town shall abate or refund taxes received, as the case may be, in an amount to be calculated in the same manner as a real estate tax increase, based on the assessed value of an improvement, is calculated pursuant to the provisions of this section.
+        </section>
+        <section prefix="f">
+    	     The local appropriating authority, as defined in section 21C, may reject this section by written notification to the department of revenue.
+        </section>
+    </text>
+</law>

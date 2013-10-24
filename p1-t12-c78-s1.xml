@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Existing Corporations</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Library corporations and associations which have been legally established shall continue to have all the powers and privileges and be subject to all the duties and restrictions attaching thereto.
+    </text>
+</law>

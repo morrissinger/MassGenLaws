@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23A" order_by="23A" level="3">Department Of Economic Development</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Purposes</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Promoting, developing and expanding all sectors of the economy by capitalizing on and fostering the technological, industrial, manufacturing, educational, cultural and geographic advantages of the commonwealth in the world economy.
+        </section>
+        <section prefix="b">
+    	     Providing a full and effective range of business services to Massachusetts’ businesses, including assuring the availability of the capital and human resources required for growth and development in the commonwealth.
+        </section>
+        <section prefix="c">
+    	     Preparing functional plans for the economic development of all areas within the commonwealth to assure the full utilization of the skills and potentials of all its citizens and public and private agencies affecting such plans.
+        </section>
+        <section prefix="d">
+    	     Promoting the development and commercial use of new technologies important to the commonwealth’s economic future.
+        </section>
+        <section prefix="e">
+    	     Assisting manufacturing industries in the state to improve their long-term competitiveness through continuous technological, managerial and workforce upgrading.
+        </section>
+        <section prefix="f">
+    	     Attracting new and expanding manufacturing industries to Massachusetts, especially to those regions of the commonwealth with an eroding traditional manufacturing base.
+        </section>
+        <section prefix="g">
+    	     Developing a rapid economic response team, herein referred to as the team. The team shall consist of the director of MOBD or his designee, the director of the industrial service program or his designee and the division coordinators as designated by the director of MOBD. The purpose of the team shall be to aggressively market the commonwealth to attract prospective business and to intervene in situations where there exists a possibility of job loss. The team shall create and disseminate promotional information concerning available economic assistance programs offered through any state, quasi-public, public, nonprofit corporation or other entity as deemed necessary. The director of MOBD shall also be empowered to adopt rules and regulations regarding expenditures including travel expenses, lines of communication and other activities consistent with these provisions. Marketing and disseminating promotional information to mutual fund service corporations based both within and without the commonwealth. Such information shall include, but not be limited to, details concerning changes in the tax structure of the commonwealth as it affects the mutual fund industry.
+        </section>
+        <section prefix="h">
+    	     To increase access to affordable and reliable broadband services across the commonwealth.
+        </section>
+    </text>
+</law>

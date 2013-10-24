@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>74</section_number>
+    <catch_line>Minor Offenses; Penalties; Appeals</catch_line>
+    <order_by>74</order_by>
+    <text>
+        <section prefix="a">
+    	     Under such regulations as the commander-in-chief may prescribe, any commanding officer may, in addition to or in lieu of admonition or reprimand, impose one of the following disciplinary punishments for minor offenses without the intervention of a court-martial:
+        </section>
+        <section prefix="1">
+    	     Upon any member of his command, the withholding of privileges for a period not to exceed two consecutive weeks, or restriction to certain specified limits for a similar period.
+        </section>
+        <section prefix="2">
+    	     Upon enlisted personnel of his command, extra duties for a period not to exceed two consecutive weeks, and not to exceed two hours per day, or reduction to the next inferior grade.
+        </section>
+        <section prefix="3">
+    	     An officer commanding a group, regiment, brigade, wing or division may impose upon any member of his command a fine not exceeding one hundred dollars for any single offense which relates to a violation of a flying regulation.
+        </section>
+        <section prefix="b">
+    	     A person punished under authority of this section who deems his punishment unjust or disproportionate to the offense may, through the proper channel, appeal to the next superior authority. The appeal shall be promptly forwarded and decided, but the person punished may in the meantime be required to undergo the punishment adjudged. The officer who imposes the punishment, his successor in command, and superior authority shall have power to suspend, set aside or remit any part or amount of the punishment and to restore all rights, privileges, and property affected.
+        </section>
+        <section prefix="c">
+    	     The imposition and enforcement of disciplinary punishment under authority of this section for any act or omission shall not be a bar to trial by court-martial for a serious crime or offense growing out of the same act or omission, and not properly punishable under this section; but the fact that a disciplinary punishment has been enforced may be shown by the accused upon trial, and when so shown shall be considered in determining the measure of punishment to be adjudged in the event of a finding of guilty.
+        </section>
+    </text>
+</law>

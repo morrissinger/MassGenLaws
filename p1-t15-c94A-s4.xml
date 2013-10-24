@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Licensing Of Milk Dealers; Exception; Licenses For Schools, Hospitals And Charitable Institutions</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     No milk dealer, except as provided in subsection (b), shall within the commonwealth buy or receive milk from producers or others, or sell or distribute milk, or pasteurize, bottle, package or otherwise process milk for sale, unless he is duly licensed as provided in this chapter, and no milk dealer shall buy milk from or sell milk to another milk dealer who, being required to be licensed, is not so licensed, or in any way deal in or handle milk which he has reason to believe has previously been dealt in or handled in violation of any provision of this chapter, or of any order, rule or regulation made thereunder.
+        </section>
+        <section prefix="b">
+    	     The commissioner, provided he shall first determine that such action will not adversely affect market conditions relative to milk, may by its order exempt from the operation of all or any portion of this chapter any milk dealer who purchases milk only from a licensed milk dealer, and whose only sales of milk are at a store.
+        </section>
+        <section prefix="c">
+    	     Licenses required by this chapter shall be in addition to any other license required by law.
+        </section>
+        <section prefix="d">
+    	     Any school, hospital, infirmary or other like charitable institution, located within the commonwealth and wholly supported by funds of the United States or of the commonwealth, or of any county, city, town or legally organized district within the commonwealth, and which purchases or receives from producers raw milk delivered in containers holding not less than twenty quarts each, and, on the premises of said institution, pasteurizes or otherwise processes the same for consumption on said premises, or uses the same in the manufacture of milk products for use or consumption on said premises, or proposes so to do, may make application, in the manner provided in section five, for a milk dealer license, which the commissioner is hereby authorized to grant.
+        </section>
+    </text>
+</law>

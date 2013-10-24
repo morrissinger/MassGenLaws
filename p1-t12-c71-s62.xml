@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Readjustment Of Town Unions</catch_line>
+    <order_by>62</order_by>
+    <text>
+        The department may form or readjust such unions whenever it becomes necessary to include one or more towns otherwise unable to comply with the preceding section, and in so doing may disregard the minimum number of schools prescribed therein, but no such readjustment shall deprive a town of its right to aid under section sixty-five.
+    </text>
+</law>

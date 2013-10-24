@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>76</section_number>
+    <catch_line>Jurisdiction Of Land Court; Petition For Redemption</catch_line>
+    <order_by>76</order_by>
+    <text>
+        In addition to its jurisdiction to allow a party to redeem under section sixty-eight, the land court shall have jurisdiction as to redemption in all cases of taking or sale of land for non-payment of taxes if relief is sought before the filing of a petition under section sixty-five for foreclosure of the right of redemption, and may grant such right of redemption or other relief as justice may require, fixing the terms therefor, or may refuse the same.
+    </text>
+</law>

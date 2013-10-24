@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>13A</section_number>
+    <catch_line>Seat Belt Use Required; Exemptions; Penalty</catch_line>
+    <order_by>13A</order_by>
+    <text>
+        <section prefix="a">
+    	     any child less than twelve years of age who is subject to the provisions of section seven AA;
+        </section>
+        <section prefix="b">
+    	     any person riding in a motor vehicle manufactured before July first, nineteen hundred and sixty-six;
+        </section>
+        <section prefix="c">
+    	     any person who is physically unable to use safety belts; provided, however, that such condition is duly certified by a physician who shall state the nature of the handicap, as well as the reasons such restraint is inappropriate; provided, further, that no such physician shall be subject to liability in any civil action for the issuance or for the failure to issue such certificate;
+        </section>
+        <section prefix="d">
+    	     any rural carrier of the United States Postal Service operating a motor vehicle while in the performance of his duties; provided, however, that such rural mail carrier shall be subject to department regulations regarding the use of safety belts or occupant crash protection devices;
+        </section>
+        <section prefix="e">
+    	     anyone involved in the operation of taxis, liveries, tractors, trucks with gross weight of eighteen thousand pounds or over, buses, and passengers of authorized emergency vehicles.
+        </section>
+        <section prefix="f">
+    	     the side facing seat on which the factory did not install a seat belt in any car owned for the purpose of antique collection.
+        </section>
+    </text>
+</law>

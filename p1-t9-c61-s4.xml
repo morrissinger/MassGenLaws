@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61" order_by="61" level="3">Classification And Taxation Of Forest Lands And Forest Products</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Valuation Of Buildings And Dwellings Located On Forest Production Land</catch_line>
+    <order_by>4</order_by>
+    <text>
+        All buildings located on land which is valued, assessed and taxed on the basis of its forest production use in accordance with this chapter and all land occupied by a dwelling or regularly used for family living shall be valued, assessed and taxed by the same standards, methods and procedures as other taxable property.
+    </text>
+</law>

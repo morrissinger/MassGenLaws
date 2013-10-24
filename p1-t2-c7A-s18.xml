@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7A" order_by="7A" level="3">Office Of The Comptroller</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Exclusion Of Debtors; Report</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     The comptroller may exclude from his certificate pursuant to section 3 any amount otherwise due to any person owing an overdue debt to a city or town or to an agency of a city or town, a housing authority, or to a state authority as defined in section 1 of chapter 29; provided however, that the responsible officer for a city, town or for an agency of a city or town or for a state authority shall have filed with the comptroller an affidavit specifying that a debt exists, the amount due and the name of the debtor. A debt may be charged by the comptroller against an amount otherwise due from the commonwealth to a debtor, subject to procedures promulgated by the comptroller. Such procedures shall include, but not be limited to, the following requirements:
+        </section>
+        <section prefix="1">
+    	     that the city or town, agency of the city or town the housing authority or state authority issue 4 written notices to the debtor over a 120-day period before requesting exclusion of the overdue debt from the certificate;
+        </section>
+        <section prefix="2">
+    	     that the notices advise the debtor of his right to a hearing before the agency or authority and the debtor’s liability for interest and late fees which may be assessed;
+        </section>
+        <section prefix="3">
+    	     that, unless otherwise provided by law, the city or town, agency of the city or town the housing authority or state authority shall hold a hearing pursuant to chapter 30A upon the timely written application of the debtor;
+        </section>
+        <section prefix="4">
+    	     that any costs incurred by the comptroller pursuant to section 3 or to this section on behalf of the city or town, agency of the city or town the housing authority or state authority may be added to the debt as a late fee pursuant to section 29H of chapter 29 and may be recovered from the city or town, agency of the city or town the housing authority or state authority;
+        </section>
+        <section prefix="5">
+    	     that any costs incurred pursuant to this section by the city or town, agency of the city or town the housing authority or state authority may be recovered from the debtor; and
+        </section>
+        <section prefix="6">
+    	     that the comptroller may establish late charges and flat fees as provided in section 29H of chapter 29 and retain and expend them, without further appropriation, in consultation with the information technology division of the executive office for administration and finance, for the costs of electronic revenue collection options, including those under clause (4), that increase revenue and debt collection within the commonwealth.
+        </section>
+        <section prefix="b">
+    	     A treasurer of a state authority and an appropriate financial officer as defined in section 2C of chapter 60 may avail themselves of this section’s procedures.
+        </section>
+        <section prefix="c">
+    	     The comptroller shall report on an annual basis to the house and senate committees on ways and means the status of all intercept projects undertaken pursuant to this section. The comptroller shall report on these projects as part of his annual report pursuant to section 12 of chapter 7A of the General Laws.
+        </section>
+    </text>
+</law>

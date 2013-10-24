@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>70</section_number>
+    <catch_line>Validity Of Title; Questioning; Decree Of Court</catch_line>
+    <order_by>70</order_by>
+    <text>
+        If a person claiming an interest desires to raise any question concerning the validity of such a title, he shall do so by answer filed in the proceeding on or before the return day, or within such further time as may on motion be allowed by the court, or else be forever barred from contesting or raising the question in any other proceeding. He shall also file specifications setting forth the matters upon which he relies to defeat the title; and unless such specifications are so filed, all questions of the validity or invalidity of the title, whether in form of deed or proceedings relating to the sale or taking, shall be deemed to have been waived. Upon the filing of the specifications the court shall hear the parties, and shall enter a decree in conformity with the law on the facts found.
+    </text>
+</law>

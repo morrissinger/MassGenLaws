@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64E" order_by="64E" level="3">Taxation Of Special Fuels Used In The Propulsion Of Motor Vehicles</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Commissioner”, the commissioner of revenue.
+        </section>
+        <section prefix="c">
+    	     “Special fuels” shall mean and include all combustible gases and liquids, used or sold for use in an internal combustion engine or motor for the generation of power to propel motor vehicles registered for use on the public highways, except such fuels defined as “Fuel” in paragraph (d) of section one of chapter sixty-four A.
+        </section>
+        <section prefix="d">
+    	     “Supplier”, any person who sells or delivers special fuels to a user-seller and any person who imports special fuels into the commonwealth other than in the usual tank or receptacle connected with the engine of the motor vehicle in the operation of which the special fuels are to be consumed, and resells or uses the same in a motor vehicle owned or operated by such person, and any person who otherwise would be a user-seller and who has elected instead to qualify and be licensed as a supplier.
+        </section>
+        <section prefix="e">
+    	     “User-seller”, any person, not licensed as a supplier, who dispenses special fuel into the fuel tanks of, or attached to motor vehicles, including any such person who so dispenses special fuels for consumption in such motor vehicles owned, leased or operated by him. Any user-seller may, with the permission of the commissioner, elect instead to qualify and be licensed as a supplier.
+        </section>
+        <section prefix="f">
+    	     “User of special fuels”, any person, including a supplier or user-seller, who owns or leases any special fuels propelled motor vehicle operated over the highways of this commonwealth.
+        </section>
+        <section prefix="g">
+    	     “Use” shall mean and include, in addition to its usual meaning, the receipt of special fuels by any person into a fuel supply tank of a registered motor vehicle or into a receptacle from which special fuels are supplied by any person to his own or other registered motor vehicles.
+        </section>
+        <section prefix="h">
+    	     “Motor vehicle” shall include any vehicle propelled by any power other than muscular, except boats, tractors used exclusively for agricultural purposes and such vehicles as run only on rails or tracks.
+        </section>
+        <section prefix="i">
+    	     “Purchaser” shall include, in addition to its usual meaning, a person who transfers special fuels into a motor vehicle, or into a receptacle from which special fuel is supplied by him to his own or other motor vehicles.
+        </section>
+        <section prefix="j">
+    	     “Sale” shall include, in addition to its usual meaning, the transfer of special fuel by a supplier into a motor vehicle or into a receptacle from which special fuel is supplied by him to his own or other motor vehicles.
+        </section>
+        <section prefix="k">
+    	     “Liquified gas”, that type of special fuels which is a combustible gas and exists in the gaseous state at a temperature of 60° Fahrenheit and a pressure of 14.7 pounds per square inch absolute.
+        </section>
+    </text>
+</law>

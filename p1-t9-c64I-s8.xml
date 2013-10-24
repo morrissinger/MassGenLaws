@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64I" order_by="64I" level="3">Tax On The Storage, Use Or Other Consumption Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Presumption Of Sale For Use, Storage Or Consumption; Burden Of Proof; Resale And Exempt Use Certificates</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of the proper administration of this chapter and to prevent evasion of the tax imposed hereunder, it shall be presumed that tangible personal property or services sold by any person for delivery in the commonwealth is sold for storage, use or other consumption in the commonwealth until the contrary is established. The burden of proving the contrary is upon the person who makes the sale unless he takes from the purchaser a certificate to the effect that the service or property is purchased for resale and such certificate is received and made available to the commissioner not later than sixty days from the date of notice from the commissioner to produce such certificate. Where a certificate is deficient in some material manner and where such deficiency is thereafter removed, also within said sixty day period, the receipt of such certificate shall be deemed to have satisfied the foregoing time limit.
+        </section>
+        <section prefix="c">
+    	     The certificate relieves the person selling the property or services from the burden of proof only if taken in good faith from a person who is engaged in the business of selling services or tangible personal property of the same kind as the services or property sold and who holds the registration as provided by section seven of chapter sixty-four H and who, at the time of purchasing the service or tangible personal property, intends to sell the service or property in a sale at retail in the regular course of business or is unable to ascertain at the time of purchase whether the service or property will be sold or will be used for some other purpose.
+        </section>
+        <section prefix="d">
+    	     The certificate shall be signed by and bear the name and address of the purchaser and the number of his registration, and personal property sold by the purchaser in the regular course of business. The certificate shall be in such form as the commissioner may prescribe.
+        </section>
+        <section prefix="e">
+    	     If the purchaser who gives a certificate stores or makes any use of the service or property other than retention, demonstration or display while holding it for sale in the regular course of business, the storage or use is taxable as of the time the service or property is first so stored or used. If the sole use of the service or property, other than retention, demonstration or display in the regular course of business, is the rental of the property while holding it for sale, the purchaser may elect to pay the tax on the use measured by the amount of the rental charged rather than the sales price of the property to him.
+        </section>
+        <section prefix="f">
+    	     It shall be presumed that tangible personal property shipped or brought to the commonwealth by the purchaser was purchased from a retailer for storage, use or other consumption in the commonwealth, provided that such property was shipped or brought into the commonwealth within six months after its purchase. It shall be presumed that services used within the commonwealth by the purchaser were purchased from the vendor for use within the commonwealth provided such services were used within the commonwealth within six months after its purchase.
+        </section>
+        <section prefix="g">
+    	     If the tangible personal property is purchased by a person who will use such property in a manner which exempts it from the tax imposed by this chapter, he may give an exempt use certificate to the vendor, certifying that the property being purchased will be so used. The burden of proving that a sale of tangible personal property by any vendor is exempt under this chapter shall be upon such vendor unless he takes from the purchaser a certificate to the effect that the property will be used in an exempt manner.
+        </section>
+        <section prefix="h">
+    	     The exempt use certificate shall relieve the vendor from the burden of proof only if taken in good faith for the purchase of property from a person who is engaged in an activity described in paragraph (r) or (s) of section six of chapter sixty-four H, and who, at the time of purchasing the tangible personal property, intends to use the property in an exempt manner or is unable to ascertain at the time of purchase whether the property will be used in an exempt manner or will be used for some other purpose and such certificate is received and made available to the commissioner not later than sixty days from the date of notice from the commissioner to produce such certificate. Where a certificate is received within the foregoing time limit, but is deficient in some material manner and where such deficiency is thereafter removed, also within said sixty day limit the receipt of such certificate shall be deemed to have satisfied the foregoing time requirement.
+        </section>
+        <section prefix="i">
+    	     The exempt use certificate shall be signed by and bear the name and address of the purchaser and the number of his registration, give a description of the property being purchased, certify the exempt use to which the property will be applied and be in such form as the commissioner may prescribe.
+        </section>
+        <section prefix="j">
+    	     If a purchaser who gives an exempt use certificate stores or makes any use of the property other than the one therein certified, the storage or use shall be deemed a retail sale by the purchaser as of the time the property is first so stored or used and the cost of the property to him shall be deemed the gross receipts from such retail sale.
+        </section>
+        <section prefix="k">
+    	     The commissioner may promulgate regulations determining which services shall be deemed purchased for resale under this section, containing provisions for the issuance of certificates to the effect that services are purchased for resale.
+        </section>
+    </text>
+</law>

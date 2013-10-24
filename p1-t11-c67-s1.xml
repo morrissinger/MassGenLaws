@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Continuance Of Existing Corporations</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Every religious society heretofore established or organized under any statute shall continue a body corporate with the powers given to such corporations by law, and with the powers, privileges, liabilities and duties set forth in this chapter; but this chapter shall not impair the existing rights of property of any territorial parish.
+    </text>
+</law>

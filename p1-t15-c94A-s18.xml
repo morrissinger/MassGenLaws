@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Attendance And Testimony Of Witnesses; Production Of Books And Records; Administration Of Oaths; Subpoenas; Excuse From Attendance;  Witness Fees</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may compel the attendance and testimony of witnesses and the production of books and records or any other evidence that relates to the subject matter of any examination, investigation or hearing held under authority of this chapter or of similar provisions of earlier law. The commissioner, the chief, or any hearing agent designated by the commissioner, or any employee designated by the commissioner as clerk, may administer oaths to any witness at any examination, investigation or hearing held under authority of the chapter or of similar provisions of earlier law. Any subpoena issued by the commissioner may require such attendance of witnesses and the production of evidence from any place within the commonwealth, at any designated place of hearing, and may be served in any manner provided in subsection (c) of section nineteen.
+        </section>
+        <section prefix="b">
+    	     In case of contumacy or refusal to obey a subpoena issued to any person, the superior court, upon application by the commissioner, shall have jurisdiction to issue an order requiring such person to appear before the commissioner or his agent to produce evidence, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by said court as a contempt thereof.
+        </section>
+        <section prefix="c">
+    	     No person shall be excused from attending and testifying or from producing books and records or other evidence in obedience to the subpoena of the commissioner, on the ground that the testimony or evidence required of him may tend to incriminate him or subject him to a penalty or forfeiture; but no individual shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
+        </section>
+        <section prefix="d">
+    	     Witnesses summoned before the commissioner or his agent, shall be paid the same fees and mileage as witnesses before the courts, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts.
+        </section>
+    </text>
+</law>

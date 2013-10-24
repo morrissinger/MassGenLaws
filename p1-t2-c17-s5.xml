@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="17" order_by="17" level="3">Department Of Public Health</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Deputy Commissioners</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The commissioner may, with the approval of the public health council, designate the director of one or more, but not more than three, divisions as deputy commissioners, who shall perform such duties as may be prescribed by the commissioner, and he may, with like approval, designate one of the deputy commissioners to perform the duties of the commissioner during his absence or disability.
+    </text>
+</law>

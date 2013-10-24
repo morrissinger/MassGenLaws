@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>24I</section_number>
+    <catch_line>Revocation Or Suspension Of License; Grounds; Notice And Hearing; Surrender; Civil And Criminal Liability; Contracts</catch_line>
+    <order_by>24I</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may suspend or revoke a license issued pursuant to this chapter if the commissioner finds that:
+        </section>
+        <section prefix="1">
+    	     the licensee has violated this chapter or any rule or regulation adopted hereunder, or any other law applicable to the conduct of its business; or
+        </section>
+        <section prefix="2">
+    	     any fact or condition exists which, if it had existed at the time of the original application for the license, would have warranted the commissioner in refusing to issue the license.
+        </section>
+        <section prefix="b">
+    	     Except as provided in section 7, a license shall not be revoked or suspended except after notice and a hearing thereon pursuant to chapter 30A.
+        </section>
+        <section prefix="c">
+    	     A licensee may surrender a license by delivering to the commissioner written notice that it thereby surrenders the license, but the surrender shall not affect the civil or criminal liability of the licensee for acts committed before the surrender.
+        </section>
+        <section prefix="d">
+    	     A revocation, suspension or surrender of any license shall not impair or affect the obligation of any pre-existing lawful contract between the licensee and another person.
+        </section>
+    </text>
+</law>

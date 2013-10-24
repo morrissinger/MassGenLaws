@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>19D</section_number>
+    <catch_line>Scholarship Program Known As Tomorrow’S Teachers Program; Guidelines</catch_line>
+    <order_by>19D</order_by>
+    <text>
+        <section prefix="1">
+    	     Eligibility for the program shall be limited to students who graduated in the top quarter of their high school classes, who agree to complete a four-year bachelor’s degree program in a public institution of higher education in the commonwealth and who commit to and actually teach for four years in a public school in the commonwealth upon successful completion of a bachelor’s degree from the institution of higher education and the appropriate certification in accordance with said section 38G of said chapter 71.
+        </section>
+        <section prefix="2">
+    	     The program shall set forth an outreach plan to attract underrepresented populations to the teaching profession.
+        </section>
+        <section prefix="3">
+    	     Persons who participate in the program but do not complete their college education within six years of entering college or who fail to complete their four-year teaching commitment within six years following graduation from college shall be obligated to repay the commonwealth the tuition and fees advanced to them, with interest, as determined by the board of higher education.
+        </section>
+    </text>
+</law>

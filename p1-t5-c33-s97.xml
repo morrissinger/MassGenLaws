@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>97</section_number>
+    <catch_line>Allowances For Administrative Purposes</catch_line>
+    <order_by>97</order_by>
+    <text>
+        <section prefix="a">
+    	     For administration and maintenance including telephone, postage, printing, office and other necessary supplies not available through issue, for athletic or recreational equipment for the common use of enlisted personnel, for clerical assistance, for the repair and alteration of uniforms, and such other military purposes as may be approved by the commander-in-chief, the following sums:
+        </section>
+        <section prefix="1">
+    	     ARMY
+        </section>
+        <section prefix="2">
+    	     AIR
+        </section>
+        <section prefix="b">
+    	     Where no federal caretaker is provided, for the services of a caretaker, who, under such regulations as may be promulgated by the commander-in-chief, shall devote the necessary attention to the care of quarters assigned to his headquarters or unit, and to the care of arms, equipment and supplies of such headquarters or unit, the sum of one hundred and twenty-five dollars annually.
+        </section>
+    </text>
+</law>

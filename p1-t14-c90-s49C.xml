@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49C</section_number>
+    <catch_line>Administration And Enforcement Of Secs. 49 B To 49 R; Hearings;  Judicial Review</catch_line>
+    <order_by>49C</order_by>
+    <text>
+        <section prefix="a">
+    	     The commission shall administer and enforce the provisions of sections forty-nine B to forty-nine R, inclusive, and may make rules and regulations necessary for the administration thereof, which shall become effective ten days after the filing of the same with the state secretary.
+        </section>
+        <section prefix="b">
+    	     The commission shall provide for hearings upon request of any person who may be affected by its orders or acts under the provisions of said sections, and shall provide for a stay thereof until a hearing may be had.
+        </section>
+        <section prefix="c">
+    	     Any person aggrieved by any order or act of the commission, or by a failure of the commission to act hereunder, may have judicial review thereof as provided in the General Laws for judicial review of the orders or acts of administrative agencies.
+        </section>
+    </text>
+</law>

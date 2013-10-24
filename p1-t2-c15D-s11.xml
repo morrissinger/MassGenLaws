@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Program Quality Standards And Requirements</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     The standards for all developmental stages and any succeeding developmental stages adopted by the department shall be incorporated into a single document and linked by a common philosophy and consistent goals and guiding principles. This document shall also include the policy developed jointly with the department and board of elementary and secondary education required under section 13 to ensure smooth transitions between infant and toddler programs, preschool and kindergarten. The standards shall be regularly updated to reflect applicable research and best practices. The board shall submit standards and requirements, or revisions of them, to the joint committee on education and the house and senate committees on ways and means at least 60 days before adoption. The joint committee on education shall review and comment on the rules and regulations during that time period.
+        </section>
+        <section prefix="b">
+    	     The board shall include, in its adoption and revision of program quality standards, a specific focus on the unique requirements and needs of preschool-aged children including, but not limited to, rigorous guidelines for preschool learning experiences. Every early education and care program or provider shall be required to meet these standards in order to participate in the Massachusetts universal pre-kindergarten program, established in section 13.
+        </section>
+        <section prefix="c">
+    	     The department, with approval of the board, shall develop a consistent set of learning standards for all preschool programs in the commonwealth, to be included in the program quality standards. The standards shall be consistent with the curriculum frameworks developed by the department of elementary and secondary education, shall be research-based and shall be updated regularly to reflect best practices in the field of early education and care. The standards shall guarantee, at a minimum, that every program participating in the Massachusetts universal pre-kindergarten program shall include consultation and intervention services for children at risk for expulsion.
+        </section>
+        <section prefix="d">
+    	     With the approval of the board, the department shall develop and establish a schedule for revising a comprehensive set of developmental benchmarks which may be incorporated into the quality standards, and which may be used by all early education and care programs in measuring children’s developmental progress utilizing the healthy, cognitive, linguistic, social, emotional and physical outcomes for developing the quality standards. In developing the benchmarks, the department shall collaborate with pediatricians, child psychologists, and researchers within the field of child development and developmental psychology, in order to ensure that the document reflects best practices in the field and the most recent evidence provided by science relative to early childhood development.
+        </section>
+    </text>
+</law>

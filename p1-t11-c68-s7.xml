@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68" order_by="68" level="3">Donations And Conveyances For Pious And Charitable Uses</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Conveyance Of Land By Minister</catch_line>
+    <order_by>7</order_by>
+    <text>
+        No conveyance by a minister of land held by him in succession shall be valid longer than he continues to be such minister, unless made with the consent of the religious society of which he is minister, or unless he is the minister of an Episcopal church and makes the conveyance with the consent of the vestry.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>81D</section_number>
+    <catch_line>Master Plan; Economic Development Supplement</catch_line>
+    <order_by>81D</order_by>
+    <text>
+        <section prefix="1">
+    	     Goals and policies statement which identifies the goals and policies of the municipality for its future growth and development. Each community shall conduct an interactive public process, to determine community values, goals and to identify patterns of development that will be consistent with these goals.
+        </section>
+        <section prefix="2">
+    	     Land use plan element which identifies present land use and designates the proposed distribution, location and inter-relationship of public and private land uses. This element shall relate the proposed standards of population density and building intensity to the capacity of land available or planned facilities and services. A land use plan map illustrating the land use policies of the municipality shall be included.
+        </section>
+        <section prefix="3">
+    	     Housing element which identifies and analyzes existing and forecasted housing needs and objectives including programs for the preservation, improvement and development of housing. This element shall identify policies and strategies to provide a balance of local housing opportunities for all citizens.
+        </section>
+        <section prefix="4">
+    	     Economic development element which identifies policies and strategies for the expansion or stabilization of the local economic base and the promotion of employment opportunities.
+        </section>
+        <section prefix="5">
+    	     Natural and cultural resources element which provides an inventory of the significant natural, cultural and historic resource areas of the municipality, and policies and strategies for the protection and management of such areas.
+        </section>
+        <section prefix="6">
+    	     Open space and recreation element which provides an inventory of recreational and resources and open space areas of the municipality, and policies and strategies for the management and protection of such resources and areas.
+        </section>
+        <section prefix="7">
+    	     Services and facilities element which identifies and analyzes existing and forecasted needs for facilities and services used by the public.
+        </section>
+        <section prefix="8">
+    	     Circulation element which provides an inventory of existing and proposed circulation and transportation systems.
+        </section>
+        <section prefix="9">
+    	     Implementation program element which defines and schedules the specific municipal actions necessary to achieve the objectives of each element of the master or study plan. Scheduled expansion or replacement of public facilities or circulation system components and the anticipated costs and revenues associated with accomplishment of such activities shall be detailed in this element. This element shall specify the process by which the municipality’s regulatory structures shall be amended so as to be consistent with the master plan.
+        </section>
+    </text>
+</law>

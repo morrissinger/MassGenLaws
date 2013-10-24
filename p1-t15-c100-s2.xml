@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="100" order_by="100" level="3">Auctioneers</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Auctioneers; Licenses</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Except as otherwise provided, no person shall engage in the business of or act as an auctioneer in the commonwealth, directly or indirectly, either temporarily or as an incident to any other transaction, unless licensed under the provisions of this chapter.
+    </text>
+</law>

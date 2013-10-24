@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90E" order_by="90E" level="3">Bikeways</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Funding; Expenditures; Federal Funds</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Seventy-five per cent of the costs for bikeways, the balance of the costs to be borne by the city or town in which said bikeways are located.
+        </section>
+        <section prefix="b">
+    	     Fifty per cent for the cost of constructing a bicycle parking facility at or adjacent to a mass transit facility, the balance of the costs to be borne by the city or town where said bicycle parking facility is to be constructed.
+        </section>
+        <section prefix="c">
+    	     One hundred per cent for the cost of unique regional bikeways and bicycle parking facilities, as determined by the commissioner.
+        </section>
+    </text>
+</law>

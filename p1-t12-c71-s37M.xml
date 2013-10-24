@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>37M</section_number>
+    <catch_line>Consolidation Of Administrative Functions With City Or Town</catch_line>
+    <order_by>37M</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding the provisions of chapter forty-one or chapter seventy-one or any other special or general law to the contrary, any city or town which accepts the provisions of this section may consolidate administrative functions, including but not limited to financial, personnel, and maintenance functions, of the school committee with those of the city or town; provided, however, that such consolidation may occur only upon a majority vote of both the school committee and in a city, the city council, with approval of the mayor required by law or in a town, the annual town meeting or in a town with no town meeting, the town council.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, a decision to consolidate functions pursuant to paragraph (a) of this section may be revoked by a majority vote of either the school committee of the city or town, or the city or town, or both as such vote is described in said paragraph (a).
+        </section>
+    </text>
+</law>

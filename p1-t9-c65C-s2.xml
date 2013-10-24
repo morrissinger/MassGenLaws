@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Computation Of Estate Tax</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A tax computed in accordance with the following table less the credit, if any, provided in subsection (a) of section three, is hereby imposed on the transfer of the Massachusetts taxable estate of every deceased resident of Massachusetts:—
+        </section>
+        <section prefix="b">
+    	     If the maximum credit for state death taxes allowable to the estate of a deceased resident or nonresident against the federal estate tax, computed according to the rate schedule found in section two thousand and eleven of the Code based upon an amount equal to the Massachusetts taxable estate, computed, with respect to a nonresident, as if the decedent had been a resident and apportioned in accordance with subsection (b) of section four, exceeds the tax imposed under subsection (a), the amount of such excess shall be added to the tax imposed under said subsection (a). In the case of a decedent who was a nonresident of the United States, however, the Massachusetts taxable estate shall be computed as if such decedent had been a resident without apportionment in accordance with subsection (b) of section four. For purposes of this subsection, the Massachusetts taxable estate shall include the value of any property subject to a power of appointment to the extent that such value has been excluded from the computation in said subsection (a) because a tax had been paid thereon pursuant to section fourteen of chapter sixty-five and shall also include the value of qualified terminable interest property, as defined in subsection (b)(7)(B) of section two thousand and fifty-six of the Internal Revenue Code in effect on January first, nineteen hundred and eighty-five, to the extent that such property has been included in the gross estate of the decedent as finally determined for federal estate tax purposes but has not been included in the gross estate of the decedent for Massachusetts estate tax purposes, in each case less the deductions described in subsection (b) of section three attributable thereto and the value of real and tangible personal property includible therein and having an actual situs outside the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The provisions of this section shall apply to decedents dying on or before December thirty-first nineteen hundred and ninety-six.
+        </section>
+    </text>
+</law>

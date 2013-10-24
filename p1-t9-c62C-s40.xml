@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Refund Of Overpaid Taxes; Interest</catch_line>
+    <order_by>40</order_by>
+    <text>
+        <section prefix="a">
+    	     If any refund of any tax, interest or penalties is made pursuant to sections thirty, thirty-one A, thirty-six, thirty-six A, thirty-seven or thirty-nine of this chapter, or sections twenty-seven or twenty-seven A of chapter sixty-five, or section six of chapter sixty-five A, the state treasurer shall repay to the taxpayer the amount of such refund with interest thereon at the rate of the federal short-term rate determined under section 6621(b) of the Internal Revenue Code, as amended and in effect for the taxable year, plus 2 percentage points, computed as simple interest, except as hereinafter provided, from the date of overpayment to a date, to be determined by the commissioner, preceding the date of the refund check by not more than thirty days, whether or not such refund check is accepted by the taxpayer after tender of such to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
+        </section>
+        <section prefix="b">
+    	     If an overpayment of tax is refunded within 90 days after the last day prescribed for filing the return of such tax, determined without regard to any extension of time for filing the return, or, in case the return is filed after such last date, is refunded within 90 days after the date the return is filed, no interest shall be allowed hereunder on such overpayment. If any overpayment of tax is not refunded within 90 days after a return is filed where such return is filed after the last day prescribed for filing such return, determined without regard to any extension of time for filing such return, interest shall be allowed hereunder on such overpayment only from the date the return is filed. Where 2 or more corporations elect to file returns on a combined net income basis under section 32B of chapter 63, the return of each such corporation filed under section 11 shall not be considered filed for purposes of this section until all members of the combined group have filed their returns.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Imposition And Rate; Exemption; Payment</catch_line>
+    <order_by>3</order_by>
+    <text>
+        An excise is hereby imposed upon the transfer of occupancy of any room or rooms in a bed and breakfast establishment, hotel, lodging house, or motel in this commonwealth by any operator at the rate of five per cent of the total amount of rent for each such occupancy. No excise shall be imposed if the total amount of rent is less than fifteen dollars per day or its equivalent. 
+The operator shall pay the excise to the commissioner at the time provided for filing the return required by section sixteen of chapter sixty-two C.
+    </text>
+</law>

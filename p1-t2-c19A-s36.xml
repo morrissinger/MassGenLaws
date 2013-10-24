@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Eligibility For Public Assistance Programs; Reverse Mortgage Proceeds</catch_line>
+    <order_by>36</order_by>
+    <text>
+        All proceeds from reverse mortgage loans held by or available to persons sixty years of age or older shall not be taken into consideration in determining eligibility or continuing eligibility for, or the amount of payment from, any medical or other public assistance program or any state or federal low interest loan or grant, unless such proceeds have become countable resources.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>13B</section_number>
+    <catch_line>Composing, Sending Or Reading Of Electronic Messages While Operating A Motor Vehicle Prohibited; Penalties</catch_line>
+    <order_by>13B</order_by>
+    <text>
+        <section prefix="a">
+    	     No operator of a motor vehicle shall use a mobile telephone, or any handheld device capable of accessing the internet, to manually compose, send or read an electronic message while operating a motor vehicle. For the purposes of this section, an operator shall not be considered to be operating a motor vehicle if the vehicle is stationary and not located in a part of the public way intended for travel.
+        </section>
+        <section prefix="b">
+    	     A violation of this section shall be punishable by a fine of $100 for a first offense, by a fine of $250 for a second offense and by a fine of $500 for a third or subsequent offense.
+        </section>
+        <section prefix="c">
+    	     A penalty under this section shall not be a surchargeable offense under section 113B of chapter 175.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Equipment Of Called Troops</catch_line>
+    <order_by>46</order_by>
+    <text>
+        The troops shall appear at the time and place appointed by the order or precept issued under section forty-one or forty-two, armed and equipped, and shall obey and execute such orders as they have received, or such additional orders as they may then and there or thereafter receive from the commander-in-chief, or from an officer or person acting under section forty-two.
+    </text>
+</law>

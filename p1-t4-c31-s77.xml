@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>77</section_number>
+    <catch_line>Enforcement Of Laws And Rules</catch_line>
+    <order_by>77</order_by>
+    <text>
+        The administrator may take any necessary and appropriate action to enforce the civil service law and rules.
+    </text>
+</law>

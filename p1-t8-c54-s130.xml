@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>130</section_number>
+    <catch_line>Number Of Ballots Cast; Statement At Length</catch_line>
+    <order_by>130</order_by>
+    <text>
+        The whole number of ballots cast at elections shall be stated in words at length in the records of votes and in all copies thereof, but if not so stated, the record or copy shall not be invalid if the true result can be ascertained therefrom.
+    </text>
+</law>

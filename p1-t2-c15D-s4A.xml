@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Sub State Regions For Licensure Of Child Care Centers And Family Child Care Homes; Community Plans; Region Wide Improvement Plans; State Wide Coordination Of Services</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to facilitate the licensure process, the commissioner, with the approval of the board, shall establish sub-state regions within which all licensure or approval of child care centers and family child care homes, large family child care homes, and family child care systems, under sections 6 to 10, inclusive, shall be carried out.
+        </section>
+        <section prefix="b">
+    	     The department shall support and work with local early education and care councils in the development of community plans that address how the councils and communities will: (1) build on the local array of services and improve access to services for additional families or increase services for families already receiving services; (2) increase quality; (3) support comprehensive services for children and families; (4) collaborate across agencies; and (5) provide services for hard to reach populations. Local plans shall be reviewed and evaluated using board-approved criteria to assess the quality of collaborative planning, the effectiveness of the plan in addressing community needs and the quality and cost-effectiveness of proposed services.
+        </section>
+        <section prefix="c">
+    	     In order to ensure regional coordination and to maximize local participation in the programs and services of the department, the department shall support and work with regional child care resource and referral agencies in the development of region-wide improvement plans.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall attempt to maximize statewide coordination of services by ensuring that the geographic service areas of the regional child care resource and referral agencies and the local early education and care councils are similar to each other and to the regions created by subsection (a). These regional agencies and local councils shall work together to provide and coordinate a broad range of services to promote access to high-quality early education and care programs to children and families throughout the commonwealth including, but not limited to, acting as local points of access for families seeking information about and financial assistance for early education and care and supporting professional development opportunities for early education and care providers.
+        </section>
+    </text>
+</law>

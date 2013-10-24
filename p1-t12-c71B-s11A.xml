@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71B" order_by="71B" level="3">Children With Special Needs</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Incarcerated Children With A Disability; Special Education</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        The department of education shall provide special education to school aged children with a disability who are incarcerated in county houses of correction.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>70H</section_number>
+    <catch_line>Applicability Of Certain Other Sections</catch_line>
+    <order_by>70H</order_by>
+    <text>
+        The provisions of law relating to primaries and nomination papers consistent with the five preceding sections shall apply to presidential primaries, so far as practicable.
+    </text>
+</law>

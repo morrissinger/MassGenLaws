@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Cost Of Maintenance; Source Of Funds</catch_line>
+    <order_by>24</order_by>
+    <text>
+        The town of residence of a person who is required by section twenty-two to attend a continuation school of another town shall pay to such other town a tuition fee to be fixed by the commissioner of education, and not to exceed the average annual maintenance cost per pupil of continuation schools throughout the commonwealth, as last ascertained. In default of payment, such fee may be recovered in an action of contract.
+    </text>
+</law>

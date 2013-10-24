@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49R</section_number>
+    <catch_line>Discharge In Bankruptcy</catch_line>
+    <order_by>49R</order_by>
+    <text>
+        A discharge in bankruptcy shall not relieve any person from the requirements of sections forty-nine B to forty-nine Q, inclusive.
+    </text>
+</law>

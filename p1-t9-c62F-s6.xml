@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62F" order_by="62F" level="3">Limitation On The Growth Of State Tax Revenues</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Effect Of Net State Tax Revenues In Excess Of Allowable State Tax Revenues; Tax Credit</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If net state tax revenues in any fiscal year exceed allowable state tax revenues for said fiscal year the amount of such excess, as determined by the State Auditor and reported to the Commissioner pursuant to section five of this chapter, shall result in a credit equal to the total amount of such excess. The credit shall be applied to the then current personal income tax liability of all taxpayers on a proportional basis to the personal income tax liability incurred by all taxpayers in the immediately preceding taxable year. 
+The Commissioner shall take such action and shall have the authority to issue such rules and regulations as are necessary to effectuate the requirements of this section.
+    </text>
+</law>

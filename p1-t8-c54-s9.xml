@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Discontinuance Of Voting Precincts</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any town of fewer than 6,200 inhabitants may discontinue its voting precincts; and subsequent elections therein shall be held as if no such division had been made. Any such discontinuance shall be subject to the second paragraph of section nine A.
+    </text>
+</law>

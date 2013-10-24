@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Zones, Designation</catch_line>
+    <order_by>9</order_by>
+    <text>
+        As established for use in the mainland zone, said system shall be named, and in any land description in which it is used it shall be designated, the “Massachusetts Coordinate System, NAD 1983, Mainland Zone”. 
+As established for use in the island zone, said system shall be named, and in any land description in which it is used it shall be designated, the “Massachusetts Coordinate System, NAD 1983, Island Zone”.
+    </text>
+</law>

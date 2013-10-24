@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Exempted Accommodations; Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="A">
+    	     is attributable to a mental or physical impairment or combination of mental and physical impairments;
+        </section>
+        <section prefix="B">
+    	     is likely to continue indefinitely;
+        </section>
+        <section prefix="C">
+    	     results in substantial functional limitations in three or more of the following areas of major life activity: (i) self-care; (ii) receptive and expressive language; (iii) learning; (iv) mobility; (v) self-direction; (vi) capacity for independent living; and (vii) economic self-sufficiency; and
+        </section>
+        <section prefix="D">
+    	     reflects the individual’s need for a combination and sequence of special, interdisciplinary, or generic care, treatment, or other services which are of lifelong or extended duration and are individually planned and coordinated.
+        </section>
+    </text>
+</law>

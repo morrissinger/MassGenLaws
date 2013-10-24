@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15" order_by="15" level="3">Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>15B</section_number>
+    <catch_line>Library Center For Visually Handicapped Children</catch_line>
+    <order_by>15B</order_by>
+    <text>
+        There shall be established in the division of special education a library center for the acquisition, maintenance and distribution of books and other material deemed essential to the proper instruction and training of visually-handicapped children.
+    </text>
+</law>

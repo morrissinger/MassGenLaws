@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>42M</section_number>
+    <catch_line>College And Institute Property; Management And Administration</catch_line>
+    <order_by>42M</order_by>
+    <text>
+        The trustees shall, on behalf of the commonwealth, manage and administer the college and the institute, and all property, real and personal, belonging to the commonwealth and occupied or used by said college or institute, and shall keep in repair houses, buildings and equipment so used or occupied.
+    </text>
+</law>

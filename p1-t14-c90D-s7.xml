@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Application For First Certificate Of Title; Contents</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The application for the first certificate of title of a vehicle in the commonwealth shall be made by the owner to the registrar on such form or forms as the registrar shall prescribe, and which shall contain: (1) The name, residence and mail address of the owner; (2) A description of the vehicle including, so far as the following data exist: its make, model, identifying number, type of body, the number of cylinders, the mileage shown on the odometer at the time of said application, and whether new or used; (3) The date of purchase by applicant, the name and address of the person from whom the vehicle was acquired, and the names and addresses of any lienholders in the order of their priority and the dates of their security agreements; (4) Any further information the registrar shall reasonably require to identify the vehicle and to enable him to determine whether the owner is entitled to a certificate of title and the existence or non-existence of security interests in the vehicle, and further data or information the registrar may require for purposes of registration under the provisions of chapter ninety.
+        </section>
+        <section prefix="b">
+    	     If the application refers to a vehicle purchased from a dealer, it shall contain the name and address of any lienholder holding a security interest created or reserved at the time of the sale and the date of his security agreement and be signed by the dealer as well as the owner. If the application refers to a new vehicle, the application shall be accompanied by a certificate of origin.
+        </section>
+        <section prefix="c">
+    	     If the application refers to a vehicle last previously registered in another state or country, the application shall contain or be accompanied by: (1) Any certificate of title issued by the other state or country; (2) Any other information and documents the registrar shall reasonably require to establish the ownership of the vehicle and the existence or nonexistence of security interests in it; and (3) The certificate of any person authorized by the registrar that the identifying number of the vehicle has been inspected and found to conform to the description given in the application, or any other proof of the identity of the vehicle the registrar shall reasonably require.
+        </section>
+        <section prefix="d">
+    	     If the application refers to a vehicle leased to a nonprofit corporation, the application shall contain a statement subscribed under penalties of perjury, by the owner, setting forth the length of the lease period and the name, address, and tax exemption number of the nonprofit lessee granted under section six of chapter sixty-four H.
+        </section>
+    </text>
+</law>

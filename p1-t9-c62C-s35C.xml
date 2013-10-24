@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>35C</section_number>
+    <catch_line>Understatement Of Liability With Respect To Any Return Or Claim For Abatement Or Refund; Penalty</catch_line>
+    <order_by>35C</order_by>
+    <text>
+        <section prefix="a">
+    	     If (i) any part of any understatement of liability with respect to any return or claim for abatement or refund is due to a position for which there was not a realistic possibility of being sustained on its merits; (ii) any person who is a return preparer with respect to the return or claim knew or reasonably should have known of the position; and (iii) the position was not disclosed as provided in subsection (d) of section 35A or was frivolous; the person shall pay a penalty of $1,000 with respect to the return or claim unless it is shown that there is reasonable cause for the understatement and the person acted in good faith. The penalty imposed under this paragraph may be assessed within 3 years after the return or claim was filed. Any claim for abatement of the penalty shall be filed within 3 years from the time the penalty was paid. The commissioner may waive or abate the penalty imposed under this subsection if the taxpayer demonstrates that its failure to comply was due to reasonable cause and not willful neglect.
+        </section>
+        <section prefix="b">
+    	     If any part of any understatement of liability with respect to any return or claim for refund is due to (i) a willful attempt in any manner to understate the liability for tax by a person who is a return preparer with respect to the return or claim, or (ii) a careless, reckless or intentional disregard by the person of the tax laws of the commonwealth or of public written statements issued by the commissioner; the person shall pay a penalty equal to the greater of $1,000 or 10 per cent of the tax attributable to such part of the understatement; but, if both the penalty imposed under subsection (a) and the penalty imposed under this subsection are applicable to the same return or claim, the penalty imposed under this subsection shall be reduced by the amount of the penalty imposed under subsection (a). The penalty imposed under this subsection may be assessed against the preparer at any time. A claim for abatement of the penalty shall be filed within 2 years from the time the assessment was made.
+        </section>
+        <section prefix="c">
+    	     Except as otherwise provided in this section, the penalties imposed under this section shall be administered in accordance with the rules set forth in this chapter for the administration of taxes generally.
+        </section>
+    </text>
+</law>

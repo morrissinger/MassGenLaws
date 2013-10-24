@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>98</section_number>
+    <catch_line>Absent Voter Unable To Mark Ballot</catch_line>
+    <order_by>98</order_by>
+    <text>
+        An absent voter who because of blindness or other physical disability or inability to read or read in the English language is unable to prepare his ballot may at his discretion be assisted in marking it by any person whom he may designate. Such designated person shall add in writing a statement that the voter is unable to write, the reason therefor, and shall sign the voter’s name on the inner envelope.
+    </text>
+</law>

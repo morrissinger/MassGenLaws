@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23" order_by="23" level="3">Executive Office Of Labor And Workforce Development</unit>
+    </structure>
+    <section_number>11V</section_number>
+    <catch_line>Apprentice Agreements In Collective Bargaining Agreements</catch_line>
+    <order_by>11V</order_by>
+    <text>
+        Nothing in this chapter or in an apprentice program or apprentice agreement entered into and approved under this chapter shall operate to invalidate any apprenticeship provision in a collective bargaining agreement between employers and employees setting up higher apprenticeship standards.
+    </text>
+</law>

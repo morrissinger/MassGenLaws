@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Involuntary Transfers Of Interests</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     If the interest of any owner in a vehicle passes to another other than by voluntary transfer, the transferee shall, except as provided in paragraph (b), promptly mail or deliver to the registrar the last certificate of title, if available, proof of the transfer, and his application for a new certificate in the form the registrar prescribes.
+        </section>
+        <section prefix="b">
+    	     If the interest of the owner is terminated or the vehicle is sold under a security agreement by a lienholder named in the certificate of title, the transferee shall promptly mail or deliver to the registrar the last certificate of title, his application for a new certificate in the form the registrar prescribes, and an affidavit made by or on behalf of the lienholder that the vehicle was repossessed and that the interest of the owner was lawfully terminated or sold pursuant to the terms of the security agreement. If the lienholder succeeds to the interest of the owner and holds the vehicle for resale, he need not secure a new certificate of title, but upon transfer to another person, shall promptly mail or deliver to the transferee or to the registrar the certificate, affidavit and other documents required to be sent to the registrar by the transferee.
+        </section>
+        <section prefix="c">
+    	     A person holding a certificate of title whose interest in the vehicle has been extinguished or transferred other than by voluntary transfer shall mail or deliver the certificate to the registrar upon request of the registrar. The delivery of the certificate pursuant to the request of the registrar does not affect the rights of the person surrendering the certificate, and the action of the registrar in issuing a new certificate of title as provided herein is not conclusive upon the rights of an owner or lienholder named in the old certificate.
+        </section>
+    </text>
+</law>

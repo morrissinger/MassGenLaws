@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Lectures</catch_line>
+    <order_by>27</order_by>
+    <text>
+        The school committee may employ competent persons to deliver lectures on the natural sciences, history, and kindred subjects, and may provide cards or pamphlets giving the titles and authors of books of reference on the subject matter of said lectures contained in the local public libraries.
+    </text>
+</law>

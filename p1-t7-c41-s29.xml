@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="41" order_by="41" level="3">Officers And Employees Of Cities, Towns And Districts</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Oath Of Office; Penalty For Failure To Take Oath</catch_line>
+    <order_by>29</order_by>
+    <text>
+        Any person chosen to assess taxes or to determine or to assist in determining the value of property for the purpose of taxation shall, before entering upon the performance of his duties, take the following oath: 
+I, having been chosen to assess taxes and estimate the value of property for the purpose of taxation for the town (or city) of              for the year (or years) ensuing, do swear that I will truly and impartially, according to my best skill and judgment, assess and apportion all such taxes as I may during that time assess; that I will neither overvalue nor undervalue any property subject to taxation, and that I will faithfully perform all the duties of said office. 
+If he neglects to take such oath before entering upon the performance of his duties, he shall forfeit not more than fifty dollars.
+    </text>
+</law>

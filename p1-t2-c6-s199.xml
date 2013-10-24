@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>199</section_number>
+    <catch_line>Records Of Commission; Confidentiality</catch_line>
+    <order_by>199</order_by>
+    <text>
+        All records pertaining to clients and applicants of the commission and all personal and medical information or records given or made available to the commission, including but not limited to, names and addresses of clients and applicants, shall be confidential and for the exclusive use of the commission in the discharge of its duties. Notwithstanding any other general or special law to the contrary, the commission may publish information in statistical form without disclosing the identity of the clients or applicants involved.
+    </text>
+</law>

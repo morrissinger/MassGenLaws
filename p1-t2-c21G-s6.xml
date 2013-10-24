@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Contents Of Registration Statements</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     The use for which the water is being withdrawn;
+        </section>
+        <section prefix="2">
+    	     An identification of the water source from which the withdrawal is being made, in sufficient detail to describe the water source adequately;
+        </section>
+        <section prefix="3">
+    	     The location of the withdrawal;
+        </section>
+        <section prefix="4">
+    	     The existing withdrawal; provided, however, that persons whose volume of withdrawals varies seasonally according to a substantially established pattern shall describe that variation;
+        </section>
+        <section prefix="5">
+    	     Conservation measures instituted, or to be instituted, by the registrant; and
+        </section>
+        <section prefix="6">
+    	     The point or points at which the water is to be discharged after use.
+        </section>
+    </text>
+</law>

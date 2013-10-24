@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Failure To Make And Transmit Election Records</catch_line>
+    <order_by>18</order_by>
+    <text>
+        A city or town clerk or an election commissioner who fails to make a record of votes cast at an election and to make and transmit copies of any such record, as required by chapter fifty-four, shall be punished by a fine of not more than two hundred dollars; but if a copy of the records is deposited in the post office within the time fixed for transmission or delivery, postpaid and properly addressed, it shall be a bar to any complaint for delinquency.
+    </text>
+</law>

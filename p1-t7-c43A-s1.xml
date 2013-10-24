@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43A" order_by="43A" level="3">Standard Form Of Representative Town Meeting Government</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Adoption Authorized; Conditions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Any town in which there has been constituted and established a form of representative town meeting government under a special statute, enacted in conformity with the provisions of the constitution of the commonwealth, may in substitution therefor adopt the standard form of representative town meeting government provided by sections three to twelve, inclusive.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Distribution In Course Of Business In Violation Of Sec. 16 Or Furnishing False Information In Application, Etc., Prohibited</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="1">
+    	     distribute a controlled substance classified in Schedule I or II in the course of his legitimate business, except pursuant to an order or an order form as required by section sixteen; or
+        </section>
+        <section prefix="2">
+    	     furnish false or fraudulent material information in, or omit any material information from, any application, report, record, or other document required to be made, kept, or filed pursuant to the provisions of this chapter.
+        </section>
+    </text>
+</law>

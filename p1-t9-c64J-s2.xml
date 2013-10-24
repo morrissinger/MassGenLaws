@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64J" order_by="64J" level="3">Taxation Of Fuels Used In The Propulsion Of Aircraft</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Licenses For User Sellers Or Suppliers; Storage Facilities; Sale Or Delivery</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The commissioner may grant licenses to persons as user-sellers or suppliers of aircraft fuel in accordance with section sixty-seven of chapter sixty-two C. 
+No person other than a licensed supplier shall maintain storage facilities for aircraft fuel and dispense aircraft fuel therefrom into any fuel tank attached to an aircraft unless such person is the holder of an uncancelled license as a user-seller issued by the commissioner. 
+No person shall sell or deliver aircraft fuel within this commonwealth to a licensed user-seller unless such person is the holder of an uncancelled license as a supplier issued by the commissioner.
+    </text>
+</law>

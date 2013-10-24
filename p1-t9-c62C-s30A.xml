@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>30A</section_number>
+    <catch_line>Adjustments Based On Final Determination Of Tax Due In Certain Other Jurisdictions; Report To Commissioner; Additional Tax Due Or Credit Allowed In The Commonwealth</catch_line>
+    <order_by>30A</order_by>
+    <text>
+        <section prefix="a">
+    	     If the tax due any other state, territory or possession of the United States, or the Dominion of Canada or any of its provinces, on account of any item of Massachusetts gross income of a Massachusetts resident, is finally determined by that jurisdiction to be less than the tax previously reported, and such tax was the basis for a credit claimed by the Massachusetts resident under subsection (a) of section 6 of chapter 62, the final determination shall be reported, accompanied by payment of any additional tax due with interest as provided in section 32, to the commissioner within 1 year of receipt of notice of the final determination. The report shall include a statement of the reasons for the difference in a form as the commissioner may require. If from the report or upon investigation it shall appear that any tax under chapter 62 has not been fully assessed, the commissioner shall, notwithstanding the limitation in section 26, assess an additional tax, if any, with respect thereto, with interest as provided in section 32. An assessment under this section shall be made in the manner provided in section 26 within 1 year of the receipt of the report or, where no report is filed with the commissioner, within 2 years of the receipt by the commissioner of information from the jurisdiction that it has made a final determination of the person’s tax. A person may include in the report of a change under this paragraph proposed offsets to the additional tax due based on issues unrelated to the change. The offsets, if allowed, may reduce or eliminate the additional tax due, but in no case shall the offset give rise to a refund of tax that would otherwise be barred as untimely.
+        </section>
+        <section prefix="b">
+    	     If, as a result of a change by such a jurisdiction in a person’s tax due that jurisdiction, the person believes that he is entitled to additional credit under subsection (a) of section 6 of chapter 62 and that a lesser tax was due the commonwealth than was paid, the person may apply in writing to the commissioner for an abatement thereof under section 37 within 1 year of the date of notice of the final determination. The commissioner in his consideration of the application may offset against the proposed abatement additional tax due whether or not the additional tax is based on issues related to the change. Offsets based on issues unrelated to the change may reduce or eliminate the abatement, but in no case shall the offset give rise to a net amount of tax due based on an assessment that would otherwise be barred as untimely.
+        </section>
+        <section prefix="c">
+    	     Any person failing to comply with subsection (a) shall be assessed a penalty of 10 per cent of the additional tax found due and such penalty shall become part of the additional tax found due. For reasonable cause shown, the commissioner may, in the commissioner’s discretion, abate the penalty in whole or in part.
+        </section>
+        <section prefix="d">
+    	     For purposes of this section, the term “person” shall include an individual or a fiduciary subject to taxation under chapter 62.
+        </section>
+        <section prefix="e">
+    	     For purposes of this section, a final determination of a change may be initiated by the filing of an amended return by the taxpayer in the jurisdiction whose tax gives rise to the change.
+        </section>
+        <section prefix="f">
+    	     The commissioner of revenue may promulgate rules and regulations necessary to implement this section.
+        </section>
+    </text>
+</law>

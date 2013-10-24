@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94B" order_by="94B" level="3">Hazardous Substances</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Publication Of Reports And Dissemination Of Information Pertaining To Hazardous Substances</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may cause to be published from time to time reports summarizing any judgments, decrees or court orders which have been rendered under this chapter including the nature of the charge and the disposition thereof.
+        </section>
+        <section prefix="b">
+    	     The commissioner may also cause to be disseminated information regarding hazardous substances in situations involving, in the opinion of the commission, possible danger to health. Nothing in this section shall be construed to prohibit the commissioner from collecting, reporting and illustrating the results of his investigations.
+        </section>
+    </text>
+</law>

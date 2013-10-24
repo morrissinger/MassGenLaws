@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>34A</section_number>
+    <catch_line>Tuition; Residents</catch_line>
+    <order_by>34A</order_by>
+    <text>
+        If tuition for the medical school is set at a lower amount for residents of the commonwealth, a resident shall be deemed to be a person who has resided in the commonwealth for 7 consecutive years or more prior to enrollment or a person whose immediate family has resided in the commonwealth for 7 consecutive years or more prior to his enrollment.
+    </text>
+</law>

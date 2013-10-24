@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Unfair And Deceptive Trade Practices</catch_line>
+    <order_by>84</order_by>
+    <text>
+        <section prefix="1">
+    	     misrepresent directly or indirectly, including in its advertising, promotional materials, or in any other manner, the size, location, available facilities, or equipment of its health club or health clubs, or the location or locations at which its services, facilities or equipment will be offered;
+        </section>
+        <section prefix="2">
+    	     misrepresent directly or indirectly, including in its advertising, promotional materials, or in any other manner, the nature of its courses, membership programs, training devices or methods, services, pricing structure, price discounts, sales or offers;
+        </section>
+        <section prefix="3">
+    	     misrepresent, directly or indirectly, including in its advertising, promotional material, or in any other manner, the number, qualifications, title, status, training or experience of its personnel, agents, employees or other representatives, whether by means of endorsements or otherwise;
+        </section>
+        <section prefix="4">
+    	     use or refer, directly or indirectly, including in its advertising, promotional material, or in any other manner, to fictional organizational divisions or personnel position titles, or make any representation which has the tendency or capacity to mislead or deceive consumers as to the size or importance of the health club, its franchisor, parent, subsidiary or affiliated business, its divisions, or its personnel, or in any other material respect;
+        </section>
+        <section prefix="5">
+    	     fail to clearly and conspicuously post on its health club premises all of its courses and membership prices, discounts, sales or offers;
+        </section>
+        <section prefix="6">
+    	     misrepresent, directly or indirectly, including in its advertising, promotional material, or in any other manner, the nature, extent or availability of any services, guidance, instruction, counseling, assistance, or other attention which the health club will provide to buyers;
+        </section>
+        <section prefix="7">
+    	     misrepresent, directly or indirectly, including in its advertising, promotional material, or in any other manner, or fail to disclose the buyer’s rights to cancel under sections eighty-one to eighty-three, inclusive; or
+        </section>
+        <section prefix="8">
+    	     violate or fail to comply with any other provision of sections seventy-eight to eighty-eight, inclusive.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>23A</section_number>
+    <catch_line>Notice To Municipal Finance Officers</catch_line>
+    <order_by>23A</order_by>
+    <text>
+        The assessors, as soon as the tax rates are fixed for a fiscal year, shall notify the auditor or similar officer in cities and towns, the town accountant, if any, otherwise the town treasurer, of the amount to be raised for state, county, and city or town purposes, and for overlay, specifying the amounts, as determined by percentages provided to them by section fifty-six of chapter forty, if applicable, to be levied on each class of real and personal property, and to accrue from estimated receipts.
+    </text>
+</law>

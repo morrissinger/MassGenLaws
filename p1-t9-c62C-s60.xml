@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Effect Of Certificates Of Sale And Deeds</catch_line>
+    <order_by>60</order_by>
+    <text>
+        <section prefix="a">
+    	     In all cases of sale pursuant to section fifty-six of property, other than real property, the certificate of such sale—
+        </section>
+        <section prefix="1">
+    	     Shall be prima facie evidence of the right of the commissioner to make such sale and conclusive evidence of the regularity of his proceedings in making the sale; and
+        </section>
+        <section prefix="2">
+    	     Shall transfer to the purchaser all right, title and interest of the party delinquent in and to the property sold; and
+        </section>
+        <section prefix="3">
+    	     If such property consists of stocks, shall be notice, when received, to any corporation, company or association of such transfer, and shall be authority to such corporation, company or association to record the transfer on its books and records, in the same manner as if the stocks were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not; and
+        </section>
+        <section prefix="4">
+    	     If the subject of sale is securities or other evidences of debt, shall be a good and valid receipt to the person holding the same, as against any person holding or claiming to hold possession of such securities or other evidences of debt; and
+        </section>
+        <section prefix="5">
+    	     If such property consists of a motor vehicle, shall be notice, when received, to the registrar of motor vehicles of the commonwealth, or to any public official charged with the registration of title to motor vehicles in any other state, of such transfer and shall be authority to the registrar or to such official to record the transfer on his books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not.
+        </section>
+        <section prefix="b">
+    	     In the case of the sale of real property pursuant to section fifty-six the deed of sale given pursuant to section fifty-nine shall be prima facie evidence of the facts therein stated; and if the proceedings of the commissioner as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title and interest the party delinquent had in and to the real property thus sold at the time the lien of the commonwealth attached thereto.
+        </section>
+        <section prefix="c">
+    	     A certificate of sale of personal property given or a deed to real property executed pursuant to section fifty-nine shall discharge such property from all liens, encumbrances and title over which the lien of the commonwealth with respect to which the levy was made had priority.
+        </section>
+    </text>
+</law>

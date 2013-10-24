@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>University Farm</catch_line>
+    <order_by>22</order_by>
+    <text>
+        The trustees shall maintain and manage an experimental farm, to be known as the university farm, and shall use therefor the land heretofore acquired therefor. Their rules and by-laws shall make just and reasonable provision for manual labor on said farm by students of the university.
+    </text>
+</law>

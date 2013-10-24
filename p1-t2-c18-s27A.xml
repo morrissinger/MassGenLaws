@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>27A</section_number>
+    <catch_line>Direct Deposit Of Assistance Checks At Banking Institutions; Option Of Recipient</catch_line>
+    <order_by>27A</order_by>
+    <text>
+        A recipient of financial aid from the department shall be given the option of instructing said department to forward all checks of such person to a checking account, established in his name, at any banking institution within the commonwealth which he shall designate.
+    </text>
+</law>

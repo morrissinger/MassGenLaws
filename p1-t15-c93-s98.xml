@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>98</section_number>
+    <catch_line>Unfair And Deceptive Acts Or Practices</catch_line>
+    <order_by>98</order_by>
+    <text>
+        <section prefix="a">
+    	     Retaliate against a person whose name is contained in a plaintiff personal injury listing by refusing to provide, or refusing to continue to provide, or otherwise interfering with the provision of health care services to the named person or to any member of the named person’s family, or by any other manner of discrimination against such person in the provision of health services.
+        </section>
+        <section prefix="b">
+    	     Conspire with any subscriber or provider of health care services to retaliate against a person whose name is contained in a plaintiff personal injury listing by refusing to provide, or refusing to continue to provide, or otherwise interfering with the provision of health care services to the named person or to any member of the named person’s family or by any other manner of discrimination against such person in the provision of health services.
+        </section>
+        <section prefix="c">
+    	     Retaliate against a person whose name is contained in a plaintiff personal injury listing by refusing to enroll, insure, or allow to participate in any plan for the provision of health care services the named person or any member of the named person’s family or by any other manner of discrimination against such person in the provision of health services.
+        </section>
+        <section prefix="d">
+    	     Violate or fail to comply with any other provision of section ninety-six or ninety seven.
+        </section>
+    </text>
+</law>

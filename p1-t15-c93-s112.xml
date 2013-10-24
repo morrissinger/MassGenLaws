@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>112</section_number>
+    <catch_line>Customer Refunds</catch_line>
+    <order_by>112</order_by>
+    <text>
+        <section prefix="a">
+    	     If the department determines that a new IXC or new LEC does not have the required LOA or TPV, the department shall calculate and require the new IXC or new LEC to refund the following: (i) to the customer, the difference between what the customer would have paid in IXC or LEC charges at the original IXC or original LEC and actual charges paid to the new IXC or new LEC, if the new IXC’s or new LEC’s charges are greater than what would have been charged to the customer by the original IXC or original LEC; (ii) to the customer, any reasonable expense the customer incurred, in switching to the new IXC or LEC, or switching back to the original IXC or original LEC; and (iii) the original IXC or LEC, any lost revenue, which shall consist of the amount of the money the original IXC or LEC would have received for the service used by the customer during the time the customer received IXC or LEC services from the new IXC or new LEC if the customer’s IXC or LEC had not been switched. This amount shall gross, irrespective of expenses, what the original IXC or original LEC would likely have incurred providing the IXC or LEC services to the customer. If the new IXC’s or new LEC’s charges to the customer are lower than what would have been charged to the customer by the original IXC or original LEC, the new IXC or new LEC shall pay the original IXC or original LEC the amount equal to the charges received from the customer. Once the new IXC or new LEC refunds the lost revenues to the original IXC or original LEC, the original IXC or original LEC shall refund, credit or adjust any incentives that were lost to the customer by the unauthorized change in the customer’s IXC or LEC, including, but not limited to, frequent flyer miles and charitable contributions.
+        </section>
+        <section prefix="b">
+    	     An IXC or LEC determined by the department to have switched any customer’s IXC or LEC without proper authorization more than once in a 12 month period, shall be subject to a civil penalty not to exceed $1,000 for the first offense and not less than $2,000 nor more than $3,000 for any subsequent offense. In determining the amount of the civil penalty, the department shall consider the nature, circumstances and gravity of the violation, the degree of the respondent’s culpability, and the respondent’s history of prior offenses.
+        </section>
+        <section prefix="c">
+    	     An IXC or LEC determined by the department to have switched any customer’s IXC or LEC without the proper authorization more than 20 times in a 12 month period may, after a full hearing and determination by the department that such IXC or LEC intentionally, maliciously or fraudulently switched the service of more than 20 customers in a 12 month period, be prohibited from selling telecommunications services in the commonwealth for a period of up to one year. In determining the length of suspension, the department shall consider the nature, gravity of the violation, the degree of the respondent’s culpability, and the respondent’s history of prior offenses.
+        </section>
+    </text>
+</law>

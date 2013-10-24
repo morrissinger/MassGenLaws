@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>34N</section_number>
+    <catch_line>Assigned Claims Plan</catch_line>
+    <order_by>34N</order_by>
+    <text>
+        <section prefix="1">
+    	     a person entitled to payments or benefits under the provisions of chapter one hundred and fifty-two, or
+        </section>
+        <section prefix="2">
+    	     a person who is subject to exclusion from personal injury protection benefits by insurers under section thirty-four A of this chapter.
+        </section>
+    </text>
+</law>

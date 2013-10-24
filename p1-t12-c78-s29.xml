@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="78" order_by="78" level="3">Libraries</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Librarians; Qualifications</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="1">
+    	     Graduation from a library school accredited by the American Library Association or the passing of an examination which, with due consideration of education, professional training, practical experience and demonstrated ability, shall satisfy the board that the candidate has the qualifications required for the satisfactory practice of library work.
+        </section>
+        <section prefix="2">
+    	     The holding of an unexpired certificate issued by the proper authority in any state other than this commonwealth in which the requirements for certification are satisfactory to the board.
+        </section>
+    </text>
+</law>

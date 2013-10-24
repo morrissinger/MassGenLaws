@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Officers; Appointment</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="2">
+    	     When a vacancy occurs in the office of a major general of the line, commanding a division, and there are no brigadier generals of the line qualified as provided in paragraph (1), the commander-in-chief will appoint one of the brigadier generals of the line to serve as acting division commander until the appointment of a major general becomes possible. If a brigadier general, appointed to serve as acting division commander under this subsection, is not appointed as a major general, he will revert to his previous command, which will not be filled by promotion during the time he serves as acting division commander.
+        </section>
+        <section prefix="3">
+    	     When a vacancy occurs in the office of a major general of the line, commanding a division, and there is only one brigadier general of the line, the commander-in-chief will appoint such brigadier general either as the division commander or as acting division commander. If appointed to be division commander, such brigadier general shall, when he has served for a period of at least two years as a brigadier general of the line, be appointed by the commander-in-chief to the grade of major general. If, however, a second brigadier general of the line becomes qualified and is appointed by the commander-in-chief as the division commander, the brigadier general who has been serving in an acting capacity shall revert to his former command, to which no promotion will be made during the period that he serves as acting division commander.
+        </section>
+        <section prefix="4">
+    	     When a vacancy occurs in the office of a major general of the line, commanding a division, and there are no brigadier generals of the line, the commander-in-chief shall appoint the senior officer then serving in the division to be the acting division commander until the appointment and qualification of a brigadier general of the line, who shall then be appointed by the commander-in-chief under the provisions of paragraph (3).
+        </section>
+        <section prefix="5">
+    	     When a vacancy occurs in the office of a major general of the line, commanding a division, and the commander-in-chief fails to appoint a division commander or acting division commander, the senior line officer then serving in the division shall issue an order assuming command, in the following form:
+        </section>
+        <section prefix="6">
+    	     Any officer assuming command under the provisions of paragraph (5) shall remain in command of the division until the commander-in-chief shall make an appointment of a division commander under the provisions of this section.
+        </section>
+        <section prefix="b">
+    	     Brigadier generals of the line shall be appointed by the commander-in-chief upon recommendation of their superior commander, if any, from the colonels who have had active service for at least two years as such.
+        </section>
+        <section prefix="c">
+    	     Regimental and separate organization commanders shall be appointed by the commander-in-chief upon the recommendation of superior commanders, if any.
+        </section>
+        <section prefix="d">
+    	     All other officers shall be appointed by the commander-in-chief upon the recommendation of appropriate commanders, approved by superior commanders.
+        </section>
+    </text>
+</law>

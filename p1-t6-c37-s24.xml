@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="37" order_by="37" level="3">Sheriffs</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Transportation Of Prisoners Or Persons In Custody; Sheriffs’ Duties</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     prisoners or other persons in their custody to and from the several divisions or departments of the trial court,
+        </section>
+        <section prefix="b">
+    	     prisoners or other persons placed in their custody by any of the several divisions or departments of the trial court under the provisions of chapter two hundred and seventy-nine,
+        </section>
+        <section prefix="c">
+    	     prisoners or other persons placed in their custody by any of the several divisions or departments of the trial court to be remanded to any noncorrectional facility for the purpose of receiving medical, social, psychological and other related services,
+        </section>
+        <section prefix="d">
+    	     persons under the age of seventeen years placed in their custody by any of the several divisions or departments of the trial court under any of the provisions of chapter one hundred and nineteen, and
+        </section>
+        <section prefix="e">
+    	     prisoners or other persons required to be returned from out of the commonwealth for trial or confinement under the provisions of sections eleven to twenty R, inclusive, of chapter two hundred and seventy-six.
+        </section>
+    </text>
+</law>

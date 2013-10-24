@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19C" order_by="19C" level="3">Disabled Persons Protection Commission</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Investigation, Evaluation And Disclosure Of Abuse Reports; Case Findings And Recommendations; Reports Of Deaths</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     Investigate and evaluate the information reported in said reports. Said investigation and evaluation shall be made within twenty-four hours if the commission, counsel or department of mental health or department of public health determines that there is reasonable cause to believe the disabled person’s health or safety is in immediate danger from further abuse and within ten calendar days for all other such reports. The investigation shall include a visit to the disabled person’s residence and day program, if any, an interview with the disabled person allegedly abused, a determination of the nature, extent and cause or causes of the injuries, the identity of the person or persons responsible therefor and all other pertinent facts. Such determinations and evaluations shall be in writing and shall be immediately forwarded to the commission, to the general counsel and to the department of mental health and the department of public health.
+        </section>
+        <section prefix="2">
+    	     Evaluate the environment of the facility named in the report, if any, and make a written determination of the risk of physical or emotional injury to any other residents or clients in the same facility.
+        </section>
+        <section prefix="3">
+    	     Forward to the commission, the general counsel, the department of mental health and the department of public health within a reasonable time after a case is initially reported pursuant to section four, a summary of the findings and recommendations on each case.
+        </section>
+        <section prefix="4">
+    	     If there is reasonable cause to believe that a disabled person has died as a result of abuse, immediately report said death to the commission, the general counsel, the attorney general, the district attorney for the county in which such death occurred, and to the medical examiner as required by section six of chapter thirty-eight.
+        </section>
+        <section prefix="5">
+    	     Not less than ten days prior to the issuance of a report containing a finding that there is reason to believe that misconduct has occurred, the commission shall provide written notice thereof to the person or persons alleged to have committed such misconduct and afford such person or persons the opportunity to respond in writing prior to the issuance of said report; provided, that, as determined by the commission, such notice of misconduct will not place the alleged victim at risk of further abuse.
+        </section>
+    </text>
+</law>

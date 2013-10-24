@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>38G</section_number>
+    <catch_line>Reporting Wholly Owned Disc Income</catch_line>
+    <order_by>38G</order_by>
+    <text>
+        [Text of section effective for tax years beginning on or after January 1, 2009. See 2008, 173, Sec. 101.] 
+A business corporation subject to tax under this chapter shall for the purposes of determining its excise under the provisions of this chapter include in the report of its income all the income of any wholly-owned DISC, whether such DISC is organized under the laws of the commonwealth or the laws of any other state, for the taxable year of such wholly-owned DISC which ends immediately after the taxable year of such corporation and shall include in its assets and liabilities all of the assets and liabilities of any such wholly-owned DISC as of the end of the taxable year of such wholly-owned DISC which ends immediately after the taxable year of such corporation. 
+Every business corporation subject to tax under this chapter which has such a wholly-owned DISC shall include in its return: (1) a copy of the federal income tax return filed by such DISC for the taxable year which ends immediately after the taxable year of such corporation and (2) a statement that the income, assets and liabilities reported by such corporation for the taxable year and upon which its excise under this chapter has been determined includes the income, assets and liabilities of such DISC for the taxable year of the DISC which ends immediately after the taxable year of such corporation.
+    </text>
+</law>

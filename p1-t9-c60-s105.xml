@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>105</section_number>
+    <catch_line>Forms</catch_line>
+    <order_by>105</order_by>
+    <text>
+        Forms to be used in proceedings for the collection of taxes under this chapter and chapter fifty-nine and of all assessments which the collector is authorized or required by law to collect shall be as prescribed or approved by the commissioner.
+    </text>
+</law>

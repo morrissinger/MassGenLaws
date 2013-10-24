@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68A" order_by="68A" level="3">Limitations Upon The Conduct Of Certain Trusts And Corporations Having Charitable Interests</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>References To Internal Revenue Code</catch_line>
+    <order_by>8</order_by>
+    <text>
+        All references in this chapter to sections of the Internal Revenue Code of 1954 shall include future amendments to such sections and corresponding provisions of future Internal Revenue laws.
+    </text>
+</law>

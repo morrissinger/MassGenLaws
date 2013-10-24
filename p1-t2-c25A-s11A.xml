@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25A" order_by="25A" level="3">Division Of Energy Resources</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Commercial And Apartment Conservation Service Program; Enforcement;  Penalties</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner of energy resources is hereby authorized to prepare a state plan and to promulgate such regulations as may be necessary to implement the Massachusetts commercial and apartment conservation service program, including requiring all utilities, as defined in section one of chapter four hundred and sixty-five of the acts of nineteen hundred and eighty, to offer the program requirements to qualified customers, as determined by the commissioner, in such manner and at such times as the commissioner may require, and to establish and regulate the fees to be charged by utilities for such services. The commissioner is hereby authorized to adopt such additional state program requirements beyond the minimum federal program requirements, establish in accordance with Title VII of the National Energy Conservation Policy Act, Public Law 95-619, which are found to be in the public interest.
+        </section>
+        <section prefix="b">
+    	     The commissioner of energy resources shall have the power to enforce the provisions of said program pursuant to the same remedies and procedures established in section eight of said chapter four hundred and sixty-five, including, without limiting the foregoing, the authority to assess civil penalties up to twenty-five thousand dollars against any person, utility, energy auditor, supplier, installer, or lender participating under the state plan who violates any provision of the plan, or this section, or any rule or order adopted or issued hereunder.
+        </section>
+    </text>
+</law>

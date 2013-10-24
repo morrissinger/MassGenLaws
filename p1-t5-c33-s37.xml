@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Enlisted Personnel; Certificates Of Discharge</catch_line>
+    <order_by>37</order_by>
+    <text>
+        Discharged enlisted personnel shall be furnished with a certificate of discharge which shall clearly state their grade and the reason for their discharge.
+    </text>
+</law>

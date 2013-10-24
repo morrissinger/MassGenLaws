@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>75</section_number>
+    <catch_line>False Statements By Taxpayers Subject To Secs. 11 And 30; Liability;  Penalty</catch_line>
+    <order_by>75</order_by>
+    <text>
+        If any return required by sections eleven or thirty contains a false statement which is known or, by the exercise of reasonable care might have been known to the officer making it to be false, such officer and the corporation shall be liable for the amount of tax thereby lost to the commonwealth, and in addition shall be punished by a fine of not less than five hundred nor more than five thousand dollars.
+    </text>
+</law>

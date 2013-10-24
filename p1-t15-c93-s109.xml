@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>109</section_number>
+    <catch_line>Authorization Of Change In Customer’S Primary Interexchange Carrier Or Local Exchange Carrier</catch_line>
+    <order_by>109</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of section 110, a change in a customer’s primary IXC or LEC shall be considered to have been authorized only if the IXC or LEC that initiated that change provides confirmation that the customer did authorize such change either through a signed LOA or oral confirmation of authorization obtained by a company registered with the department to provide TPV services in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     (1) A letter of agency shall be a separate document whose sole purpose is to authorize an IXC or LEC to initiate a primary IXC or LEC change.
+        </section>
+        <section prefix="2">
+    	     A letter of agency shall not be combined with inducements of any kind on the same document.
+        </section>
+        <section prefix="3">
+    	     At a minimum, a letter of agency shall be printed in 12 point type and shall contain clear and unambiguous language that confirms:-
+        </section>
+        <section prefix="i">
+    	     the customer’s billing name and address, and each telephone number for which a customer requests to change its primary IXC or LEC;
+        </section>
+        <section prefix="ii">
+    	     the customer’s decision to change its primary IXC or LEC to the new IXC or LEC;
+        </section>
+        <section prefix="iii">
+    	     the customer understands that only one IXC may be designated as the customer’s primary long distance provider for any one telephone number;
+        </section>
+        <section prefix="iv">
+    	     the customer understands that only one LEC may be designated as the customer’s primary local telephone exchange service provider; and
+        </section>
+        <section prefix="v">
+    	     the customer understands that a charge to the customer may result from changing the customer’s primary IXC or LEC.
+        </section>
+        <section prefix="4">
+    	     Letters of agency shall not suggest or require that a customer take any action to retain current IXC or LEC.
+        </section>
+        <section prefix="c">
+    	     (1) Third party verification shall be accomplished by having a person talk directly to the customer to obtain oral confirmation that the customer did authorize a change in a primary IXC or LEC service for a particular telephone line identified.
+        </section>
+        <section prefix="2">
+    	     A person during the third party verification call shall inform the customer called that the sole purpose of the call is to verify that the customer authorized a change in the primary IXC or LEC service for the particular line identified and that to qualify for verification the customer must be recorded. If the customer agrees to the recording of the call, the balance of the call shall be recorded, and the following shall be confirmed:
+        </section>
+        <section prefix="i">
+    	     the identity of the person spoken to as well as appropriate verification data;
+        </section>
+        <section prefix="ii">
+    	     the authority of the person spoken to in order to authorize a change in the primary IXC or LEC for a particular line identified;
+        </section>
+        <section prefix="iii">
+    	     that the authorization has been given to change the primary IXC or LEC for a particular telephone line identified;
+        </section>
+        <section prefix="iv">
+    	     the identity of the IXC or LEC which the customer has authorized to be the new primary IXC or LEC service provider.
+        </section>
+        <section prefix="3">
+    	     Recordings made by persons providing TPV services shall be retained for 12 months and copies shall be made available at no charge upon request to the department, the attorney general, or the customer. No information obtained from the customer as part of any third party verification shall be used for any marketing purpose.
+        </section>
+        <section prefix="4">
+    	     The department shall promulgate rules and regulations setting forth such further requirements for the conduct of third party verification calls and recordings to protect against incorrect, inaccurate or falsified verification.
+        </section>
+        <section prefix="5">
+    	     The department may waive the provisions of this section requiring the recording of third party verification by an entity that can demonstrate to the satisfaction of said department that it has an adequate verification system according to standards that ensure a level of protection for consumers equivalent to that of recording.
+        </section>
+    </text>
+</law>

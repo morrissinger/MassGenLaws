@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Release Of Levy; Return Of Wrongfully Levied Property</catch_line>
+    <order_by>64</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be lawful for the commissioner, under regulations prescribed by him, to release the levy upon all or part of the property or rights to property levied upon where he determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.
+        </section>
+        <section prefix="b">
+    	     If the commissioner determines that property has been wrongfully levied upon, it shall be lawful for the commissioner to return
+        </section>
+        <section prefix="1">
+    	     The specific property levied upon,
+        </section>
+        <section prefix="2">
+    	     An amount of money equal to the amount of money levied upon, or
+        </section>
+        <section prefix="3">
+    	     An amount of money equal to the amount of money received by the commonwealth from a sale of such property.
+        </section>
+    </text>
+</law>

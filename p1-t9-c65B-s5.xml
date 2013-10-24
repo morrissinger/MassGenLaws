@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65B" order_by="65B" level="3">Settlement Of Disputes Respecting The Domicile Of Decedents For Death Tax Purposes</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Penalties And Interest For Non Payment Of Tax</catch_line>
+    <order_by>5</order_by>
+    <text>
+        In any case where it is determined by the board of arbitration referred to in section four that the decedent died domiciled in this commonwealth, penalties and interest for nonpayment of the tax, between the date of the election and the final determination of the board, shall not exceed, in the aggregate, four per centum of the amount of the taxes per annum.
+    </text>
+</law>

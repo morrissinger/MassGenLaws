@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="49" order_by="49" level="3">Fences, Fence Viewers, Pounds And Field Drivers</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Penalty For Rescuing Distrained Animals</catch_line>
+    <order_by>40</order_by>
+    <text>
+        Whoever rescues beasts lawfully distrained or impounded shall be liable in tort to any person injured for all damages sustained thereby and the fees and charges incurred before the rescue; and he shall also be punished by a fine of not less than five nor more than twenty dollars.
+    </text>
+</law>

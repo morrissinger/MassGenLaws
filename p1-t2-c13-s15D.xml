@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>15D</section_number>
+    <catch_line>Board Of Registration In Nursing; Compensation And Expense Limit</catch_line>
+    <order_by>15D</order_by>
+    <text>
+        The compensation and traveling expenses of the members of the board, and the incidental expenses necessarily incurred by the board and by any member thereof paid by the commonwealth, in any year shall not exceed the receipts from registration and licensing paid to the commonwealth by the board.
+    </text>
+</law>

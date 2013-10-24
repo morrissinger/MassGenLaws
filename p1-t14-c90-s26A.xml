@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>26A</section_number>
+    <catch_line>Licenses And Learner’S Permits; Reporting Changes Of Name And Address</catch_line>
+    <order_by>26A</order_by>
+    <text>
+        <section prefix="a">
+    	     A person in whose name a motor vehicle or trailer has been registered under the provisions of this chapter and a person to whom a learner’s permit or a license to operate motor vehicles has been granted by the registrar shall report a change of name, residential address or mailing address in writing to said registrar within 30 days after the date on which any such change was made. Said registrar may revoke or suspend the license or certificate of registration or learner’s permit of a person violating the provisions of this subsection.
+        </section>
+        <section prefix="b">
+    	     Said registrar may use reasonable sources of information regarding addresses including, but not limited to, municipal excise records, insurance company records and United States Post Office change of address records to update address information contained in registry records and such updated records shall constitute the official records of said registrar for purpose of giving any notice as provided in this chapter or for any other purpose. If the registrar obtains information from the department of revenue, he shall have access only to individuals’ names and addresses.
+        </section>
+        <section prefix="c">
+    	     Said registrar shall not be required to mail a notice pursuant to this chapter to more than one address; provided, however, that such address was obtained pursuant to subsection (a) or (b).
+        </section>
+    </text>
+</law>

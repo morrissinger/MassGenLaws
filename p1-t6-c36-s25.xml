@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Indexes; Number; Form</catch_line>
+    <order_by>25</order_by>
+    <text>
+        He shall keep two indexes, each divided into six columns, with headings in one as follows: 
+In Suffolk county neither index need contain the last column.
+    </text>
+</law>

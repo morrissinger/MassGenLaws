@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43D" order_by="43D" level="3">Expedited Permitting</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Informal Procedure For Advisory Review; Fee</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     In accordance with this chapter, the governing body may establish an informal procedure to allow permit applicants to obtain advisory review by a technical review team of any issue of law, policy, procedure, or classification that the applicant claims is in dispute between the applicant and the issuing authority which has affected or will affect the ability of the applicant to obtain timely review of the permit application. The procedures shall provide for filing a request for review by the applicant, representation by the issuing authority on the technical review team, and a period not to exceed 30 days for issuance of a decision. Use of this procedure shall toll the review time periods. An advisory determination or ruling made pursuant to a procedure established in this section shall not constitute a decision or final action and shall not be subject to any right of administrative or judicial review.
+        </section>
+        <section prefix="b">
+    	     The governing body may establish an additional and separate fee, in addition to any fees that may be assessed by an issuing authority in order to carry out its duties under this chapter, and may deposit the fees in a special account to be maintained by the treasurer. The special account, including any accrued interest shall be expended at the direction of the governing body, without further appropriation; but, the funds shall be expended only in carrying out its responsibilities under this chapter.
+        </section>
+    </text>
+</law>

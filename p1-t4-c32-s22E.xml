@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>22E</section_number>
+    <catch_line>Review, Evaluation And Financial Impact Of Statutory Adjustments To The Commonwealth Pension Liability</catch_line>
+    <order_by>22E</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purposes of this section, “statutory adjustment to the commonwealth pension liability” shall mean an adjustment that changes the benefits or contributions of classes of members including, but not limited to, early retirement incentive programs, cost-of-living adjustments, the membership of those classes or any amendments to chapter 32 that may change the actuarial liability of the commonwealth pension system.
+        </section>
+        <section prefix="b">
+    	     Upon request of a joint standing committee of the general court having jurisdiction or upon request of the committee on ways and means of either branch, the actuary of the public employee retirement administration commission shall conduct and prepare a review, evaluation and financial impact of the statutory adjustment to the commonwealth pension liability, in consultation with other relevant state agencies, and shall report to the committee within 90 days of the request.
+        </section>
+    </text>
+</law>

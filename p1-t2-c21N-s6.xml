@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21N" order_by="21N" level="3">Climate Protection And Green Economy Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Promulgation Of Regulations That Reduce Energy Use, Increase Efficiency And Encourage Renewable Sources Of Energy</catch_line>
+    <order_by>6</order_by>
+    <text>
+        In implementing its plan for statewide greenhouse gas emissions limits, the commonwealth and its agencies shall promulgate regulations that reduce energy use, increase efficiency and encourage renewable sources of energy in the sectors of energy generation, buildings and transportation.
+    </text>
+</law>

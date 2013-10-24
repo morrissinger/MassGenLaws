@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Conformity With Federal Acts</catch_line>
+    <order_by>43</order_by>
+    <text>
+        Notwithstanding any other provisions of this chapter, no practitioner shall dispense, distribute, administer, or possess any controlled substance except in conformity with the provisions of the Federal “Comprehensive Drug Abuse Prevention and Control Act of 1970” or any amendment thereof and the Federal Food, Drug and Cosmetic Act.
+    </text>
+</law>

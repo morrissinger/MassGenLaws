@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="50" order_by="50" level="3">General Provisions Relative To Primaries, Caucuses And Elections</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Posting Of Lists, Notices, And Copies Of Laws</catch_line>
+    <order_by>5</order_by>
+    <text>
+        All lists, notices and copies of laws relating to primaries or elections, required to be posted, shall be posted at the same places with the voting lists, or as near as may be thereto.
+    </text>
+</law>

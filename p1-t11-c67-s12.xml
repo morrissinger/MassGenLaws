@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Procedure When Officers Fail To Call Meeting</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If there are no assessors or committee, or if such officers unreasonably refuse to call a meeting, a justice of the peace may, upon the application of five or more membors, call a meeting in the manner provided in section twenty-two.
+    </text>
+</law>

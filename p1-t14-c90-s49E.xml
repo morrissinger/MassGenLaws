@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49E</section_number>
+    <catch_line>Policy Or Bond Of Insurer Or Surety Company</catch_line>
+    <order_by>49E</order_by>
+    <text>
+        <section prefix="a">
+    	     A policy or bond provided under section forty-nine D shall be issued by an insurer or surety company authorized to do business in the commonwealth, or issued by an insurer or surety company not authorized to do business in the commonwealth, but found by the commission to afford adequate protection, and which has filed or shall file with the commission a power of attorney authorizing the commission to accept service on its behalf of notice or process in any action upon the policy or bond arising out of such accident; and shall
+        </section>
+        <section prefix="1">
+    	     If the accident results in bodily injury to or death of a person not a passenger, provide coverage of not less than five thousand dollars because of bodily injury to or death of one person in any accident, and ten thousand dollars because of bodily injury to or death of two or more persons in any one accident;
+        </section>
+        <section prefix="2">
+    	     If the accident involves an aircraft being operated for hire and the accident results in bodily injury to or death of a passenger, provide coverage of not less than ten thousand dollars because of bodily injury to or death of one person in any one accident and not less than ten thousand dollars multiplied by the number of passenger-seats in the aircraft because of bodily injury to or death of two or more persons in any one accident;
+        </section>
+        <section prefix="3">
+    	     If the accident involves an aircraft not being operated for hire and the accident results in bodily injury to or death of a passenger, provide coverage of not less than five thousand dollars because of bodily injury to or death of one person in any one accident, and not less than five thousand dollars multiplied by the number of passenger-seats in the aircraft because of bodily injury to or death of two or more persons in any one accident; and
+        </section>
+        <section prefix="4">
+    	     If the accident results in damage to or destruction of property, provide coverage of not less than five thousand dollars because of damage to or destruction of property in any one accident, with the exception of the following property which is exempted from the security required under section forty-nine D:—property owned, rented, occupied or used by, or in the care, custody or control of the owner or operator or carried in or on the aircraft.
+        </section>
+        <section prefix="b">
+    	     The policy or bond need not cover any liability on account of bodily injury to or death of any employee of the owner or operator while the employee is engaged in the duties of his employment; or any obligation for which the owner or operator or his insurer may be held liable under a workers’ compensation law.
+        </section>
+    </text>
+</law>

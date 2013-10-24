@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55B" order_by="55B" level="3">The State Ballot Law Commission</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Members Holding Or Nominated For Public Office</catch_line>
+    <order_by>2</order_by>
+    <text>
+        No member of said commission shall hold any public office except that of justice of the peace, notary public, or be a candidate for public office, or member or employee of any political committee. If any member of the commission shall be nominated as a candidate for public office and shall not in writing decline said nomination within three days, he shall be deemed to have vacated his office as a member of said commission.
+    </text>
+</law>

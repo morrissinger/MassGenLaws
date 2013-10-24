@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40" order_by="40" level="3">Powers And Duties Of Cities And Towns</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>District Defined</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        Except as otherwise expressly provided, the word “district” as used in this chapter shall mean a fire, water, sewer, water pollution abatement, refuse disposal, light, or improvement district, or any other district, howsoever named, formed for the purpose of carrying out any of the aforementioned functions, whether established under general law or special act.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40O" order_by="40O" level="3">Business Improvement Districts</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>District Fee Structure</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     different levels for varying classifications of real property;
+        </section>
+        <section prefix="2">
+    	     benefit zones;
+        </section>
+        <section prefix="3">
+    	     assessed valuation;
+        </section>
+        <section prefix="4">
+    	     square footage;
+        </section>
+        <section prefix="5">
+    	     street frontage; or
+        </section>
+        <section prefix="6">
+    	     any other formula which meets the objectives of the BID.
+        </section>
+    </text>
+</law>

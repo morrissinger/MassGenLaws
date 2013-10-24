@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>31A</section_number>
+    <catch_line>Notice To Commissioner Of Revenue; Recording</catch_line>
+    <order_by>31A</order_by>
+    <text>
+        Within sixty days after the recording of any deed in which the grantee is described as a trustee, or of any declaration of trust, the register in whose office such deed or declaration is recorded shall send by mail to the commissioner of revenue a notification of the recording thereof, stating the name of the grantor and of the grantee or the trustee, and the date of recording.
+    </text>
+</law>

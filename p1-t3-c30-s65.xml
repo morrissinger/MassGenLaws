@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>65</section_number>
+    <catch_line>Legal Services For Commonwealth Provided Under Contract</catch_line>
+    <order_by>65</order_by>
+    <text>
+        <section prefix="a">
+    	     A lawyer who is not a regular state employee or person who is compensated through the automated payroll system of the commonwealth shall not provide legal services for the commonwealth, or for any department, agency, board or commission thereof, unless and until:-
+        </section>
+        <section prefix="1">
+    	     the governor’s chief legal counsel certifies in writing that no state employee can provide the legal services that the lawyer is to provide;
+        </section>
+        <section prefix="2">
+    	     a written request for the legal services that the lawyer is to provide is made publicly available for competitive bidding, in a manner provided by regulations of the state purchasing agent, and approved by the comptroller; provided, however, that this clause shall not apply if a department, agency, board or commission of the commonwealth is in a situation or condition that requires the immediate provision of legal services, and such a situation or condition is described and certified in writing by the governor’s chief legal counsel in advance of the purchase of legal services by said department, agency, board or commission; and
+        </section>
+        <section prefix="3">
+    	     the office of the attorney general has been consulted during the procurement process, in a manner provided by said regulations of the state purchasing agent, and has determined, following a review of the legal services contract, that any attorney hired by a department, agency, board or commission of the commonwealth is a member in good standing of the Massachusetts Bar or an out of state bar and has no apparent conflict of interests. If said attorney will be providing litigation services, the attorney general will ensure that said attorney will appear in court on behalf of the commonwealth only after his appointment as a special assistant attorney general.
+        </section>
+        <section prefix="b">
+    	     The secretary of administration and finance, with the comptroller’s assistance, shall make a written semiannual report of expenditures for legal services for the commonwealth, or for any department, agency, board or commission thereof, provided other than by regular state employees. The report shall show the name of each lawyer, law firm if any, amount expended, the billing rate or fee arrangement and a brief statement of the legal services provided. The report shall be made to the house and senate committees on ways and means and the joint committee on state administration, not later than September 1 each year for the period from January 1 to June 30 of that year, and not later than March 1 each year for the period from July 1 to December 31 of the preceding year.
+        </section>
+        <section prefix="c">
+    	     Instead of making the certificate under clause (1) of subsection (a), the governor’s chief legal counsel may, upon written request by the head of any department, agency, board or commission, with the written approval of the head thereof and with the voluntary written consent of the attorney who is a state employee, provide specific legal services for the requesting department, agency, board or commission for a period not exceeding 3 months but subject to renewal with the voluntary written consent of the attorney. Such an assignment shall be subject to any applicable collective bargaining agreement. The certification required of the comptroller by the fourth paragraph of section 31 of chapter 29 shall not be required in instances of such an assignment by the governor’s chief legal counsel.
+        </section>
+        <section prefix="d">
+    	     This section shall apply only to legal services provided under contract with the governor or with an officer, department, agency, board or commission serving under the governor or within one of the executive offices headed by a secretary appointed by the governor.
+        </section>
+    </text>
+</law>

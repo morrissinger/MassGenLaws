@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Redemption Of Property</catch_line>
+    <order_by>58</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person whose property has been levied upon shall have the right to pay the amount due, together with the expenses of the proceeding, if any, to the commissioner at any time prior to the sale thereof, and upon such payment the commissioner shall restore such property to him, and all further proceedings in connection with the levy of such property shall cease from the time of such payment.
+        </section>
+        <section prefix="2">
+    	     Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the commissioner for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of twenty per cent per annum.
+        </section>
+        <section prefix="c">
+    	     When any lands sold are redeemed as provided in this section, the commissioner shall cause entry of the fact to be made upon record mentioned in section sixty-one and such entry shall be evidence of such redemption.
+        </section>
+    </text>
+</law>

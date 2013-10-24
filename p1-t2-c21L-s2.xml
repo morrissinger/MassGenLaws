@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21L" order_by="21L" level="3">Environmental Endangerment Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Environmental Violations; Punishment</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who knowingly or recklessly commits an environmental violation and thereby causes serious bodily injury to another human being:—
+        </section>
+        <section prefix="1">
+    	     shall be punished by a fine of not more than $100,000 or by imprisonment in the state prison for not more than 20 years or in a jail or house of correction for not more than 21/2 years or both such fine and imprisonment, in the case of an individual; and (2) in the case of an organization, shall be punished by a fine of not more than $500,000 for a first offense and by a fine of not more than $2,000,000 for any second or subsequent offense.
+        </section>
+        <section prefix="b">
+    	     A person who knowingly or recklessly commits an environmental violation and thereby causes a substantial risk of damage to natural resources or to the property of another person, in an amount exceeding $25,000: (1) shall be punished by a fine of not more than $100,000, or by imprisonment in the state prison for not more than 5 years or in a jail or house of correction for not more than 21/2 years or both such fine and imprisonment, in the case of an individual; and (2) in the case of an organization, shall be punished by a fine of not more than $250,000 for a first offense and by a fine of not more than $500,000 for a second or subsequent offense.
+        </section>
+        <section prefix="c">
+    	     A person who negligently commits an environmental violation and thereby causes serious bodily injury to another human being or a substantial risk of damage to natural resources or to the property of another person in an amount exceeding $25,000, shall be punished by a fine of not less than $2,500 nor more than $50,000 per day of violation, or by imprisonment for not more than 1 year, or by both such fine and imprisonment. For a second or subsequent conviction under this paragraph, punishment shall be by a fine of not more than $100,000 per day of violation, or by imprisonment for not more than 2 years, or by both such fine and imprisonment.
+        </section>
+        <section prefix="d">
+    	     If a person derives pecuniary gain from an environmental violation that causes serious bodily injury to another human being or causes a substantial risk of damage to natural resources or to the property of another person, or if an environmental violation results in damage to natural resources or pecuniary loss to another person, such person who committed the violation may be fined not more than the greater of twice the gross gain or twice the gross loss or damage, unless imposition of a fine under this subsection would unduly complicate or prolong the sentencing process.
+        </section>
+    </text>
+</law>

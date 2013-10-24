@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="88" order_by="88" level="3">Ferries, Canals And Public Landings</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Fares And Tolls</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The commissioners shall establish at each ferry the fares or tolls for passengers, horses, vehicles and other things there transported, having regard to the length and situation of the ferry and to the number of persons using the same. This and the preceding section shall not apply to ferries established by law prior to April thirtieth, eighteen hundred and thirty-six.
+    </text>
+</law>

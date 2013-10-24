@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     comes within the definition of a veteran appearing in the forty-third clause of section seven of chapter four; or,
+        </section>
+        <section prefix="2">
+    	     comes within such definition except that instead of having performed “wartime service” as defined therein, he has been awarded the Congressional Medal of Honor or one of the following campaign badges: Second Nicaraguan Campaign, Yangtze Service, Navy Occupation Service, Army of Occupation or Medal for Humane Action; or,
+        </section>
+        <section prefix="3">
+    	     is a person eligible to receive the Congressional Medal of Honor or one of the campaign badges enumerated in clause (2) of this paragraph and who presents proof of such eligibility which is satisfactory to the administrator.
+        </section>
+    </text>
+</law>

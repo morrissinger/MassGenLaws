@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Information Or Records Confidential</catch_line>
+    <order_by>6</order_by>
+    <text>
+        Notwithstanding the provisions of any law to the contrary, any information, record, or particular part thereof, obtained by the department pursuant to the provisions of this chapter, shall, upon request, be kept confidential and not be considered to be a public record when it is deemed by the commissioner that such information, record or report relates to secret processes, methods of manufacture or production, or that such information, record or report, if made public, would divulge a trade secret. Nothing in this section shall be construed to limit or to deny the power of the department to use such information, record or report as part of aggregated statistics and computations in its statewide environmental impact report including, but not limited to, the capacity shortfall of hazardous waste facilities.
+    </text>
+</law>

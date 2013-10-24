@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Compensation Of Election Officers</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Election officers shall receive such compensation as the city council or the selectmen respectively may determine; but no deputy officer shall receive compensation except for attendance at the opening of the polls or for services in place of an absent officer.
+    </text>
+</law>

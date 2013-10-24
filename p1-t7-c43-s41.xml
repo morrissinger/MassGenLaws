@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43" order_by="43" level="3">City Charters</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Contents Of Ballot For Proposed Measure</catch_line>
+    <order_by>41</order_by>
+    <text>
+        The ballots used when voting upon a proposed measure under section thirty-nine or forty, or a measure or part thereof protested against under the following section, shall contain only a fair, concise summary of the measure, as determined by the city solicitor, which shall follow the question, “Do you approve of a measure summarized below?”
+    </text>
+</law>

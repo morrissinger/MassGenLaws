@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Promotion Of Uniformed Members; Factors For Consideration; List Of Eligible Members</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="1">
+    	     a competitive promotional examination open to all members who have completed not less than one year of service in the next lower rank, or title, or, in the alternative, to have spent at least some time in the next lower rank and to have completed at least ten years of service as a uniformed member prior to the final date for filing applications for such examination;
+        </section>
+        <section prefix="3">
+    	     longevity, based upon a granting of five percent for each year of service plus one-twelfth of such five percent for each additional full month of service, up to twenty years of service, computed as of the final date for the filing of applications for such promotions;
+        </section>
+        <section prefix="4">
+    	     for promotion to a position of a commissioned officer, an oral interview conducted by uniformed members of the state police, or by officers of the state police department holding a grade higher than that for which the examination is being given.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>110</section_number>
+    <catch_line>Rejection Of Records</catch_line>
+    <order_by>110</order_by>
+    <text>
+        No record of votes cast or copy thereof shall be rejected if the number of votes given for each candidate for an office can be ascertained therefrom.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Written Orders; Conditions; Contents</catch_line>
+    <order_by>43</order_by>
+    <text>
+        Whenever practicable all orders issued under section forty-one or section forty-two shall be in writing and signed by the civil officers or persons issuing the same. Such orders shall set forth the purpose to be accomplished by the military officer to whom addressed, but shall not prescribe the military measures to be used or the orders to be issued by such officer, who shall use such measures and issue such orders as he deems necessary to accomplish the purpose indicated.
+    </text>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Oaths; Form</catch_line>
+    <order_by>24</order_by>
+    <text>
+        Every commissioned officer, before entering upon the performance of his official duties or exercising any command, shall take and subscribe the following oaths and declarations: 
+I, ____________, do solemnly swear that I will bear true faith and allegiance to the commonwealth of Massachusetts, and will support the constitution thereof. So help me, God. 
+I, ____________, do solemnly swear that I will obey the lawful orders of all my superior officers. So help me, God. 
+I, ____________, do solemnly swear that I will faithfully and impartially discharge and perform all the duties incumbent on me as ____________ according to the best of my ability and understanding, agreeably to the rules and regulations of the constitution and the laws of the commonwealth. So help me, God. 
+I, ____________, do solemnly swear that I will support the constitution of the United States. So help me, God. 
+All officers shall take and subscribe the said oaths before any competent authority or an officer qualified under section eighty-one to administer oaths, except retired officers and aides-de-camp of the commander-in-chief who may take said oaths before any competent authority; and the following certificate shall be printed on every commission and shall be signed by the person before whom the officer is qualified: 
+This may certify that ____________, commissioned as within on this ______ day of ____________, A.D., ___ personally appeared and took and subscribed the oaths required by the constitution and laws of this commonwealth and by a law of the United States, to qualify him to discharge the duties of his office. 
+Before me,
+    </text>
+</law>

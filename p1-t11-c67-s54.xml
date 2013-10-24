@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Conveyances From Religious Societies</catch_line>
+    <order_by>54</order_by>
+    <text>
+        Any religious society connected with a church so incorporated may, at any meeting called for the purpose, by a three fourths vote, authorize one or more persons in its name and behalf to convey any real or personal property belonging to it to such church, and such property shall thereafter be held by the church subject to the same uses and trusts as when held by said religious society.
+    </text>
+</law>

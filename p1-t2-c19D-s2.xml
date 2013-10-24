@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Sponsor Duties</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="i">
+    	     obtain and maintain certification as provided in sections three and four;
+        </section>
+        <section prefix="ii">
+    	     be subject to oversight as provided in sections five and seven;
+        </section>
+        <section prefix="iii">
+    	     afford residents the rights set forth in section nine;
+        </section>
+        <section prefix="iv">
+    	     provide self-administered medication management as set forth in section ten;
+        </section>
+        <section prefix="v">
+    	     provide services to residents in accordance with service plans developed through a process by which staff of the residence discuss the service plan and the needs of the resident with the resident and his representative or designee in such a way that the consequences of a decision, including any inherent risk, are understood by all parties and reviewed periodically in conjunction with the service plan, taking into account changes in the resident’s status and the ability of the residence to respond accordingly, and as set forth in section twelve;
+        </section>
+        <section prefix="vi">
+    	     coordinate and provide personal services and other services required under service plans as set forth in section twelve;
+        </section>
+        <section prefix="vii">
+    	     maintain a written progress report on each person who receives such services which describes the type, amount, duration, scope, and outcome of services that are rendered and the general status of the resident’s health;
+        </section>
+        <section prefix="viii">
+    	     enter into a residency agreement with each resident as set forth in section fourteen; and
+        </section>
+        <section prefix="ix">
+    	     meet the minimum management and staffing qualifications as set forth in section fifteen.
+        </section>
+    </text>
+</law>

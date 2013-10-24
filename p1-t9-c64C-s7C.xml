@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64C" order_by="64C" level="3">Cigarette Excise</unit>
+    </structure>
+    <section_number>7C</section_number>
+    <catch_line>Additional Payment Of Excise; Credit To Health Protection Fund</catch_line>
+    <order_by>7C</order_by>
+    <text>
+        <section prefix="a">
+    	     In addition to the excise imposed by section six, every licensee who is required to file a return under section sixteen of chapter sixty-two C shall, at the time of filing such return, pay to the commissioner an excise equal to twelve and one-half mills for each cigarette so sold during the calendar month covered by the return; provided, however, that cigarettes with respect to which the excise under this section has once been imposed and has not been refunded, if paid, shall not be subject upon a subsequent sale to the excise imposed by this section. In addition to the excise imposed by section six, each unclassified acquirer shall, at the time of filing a return required by said section sixteen of chapter sixty-two C, pay to the commissioner an excise equal to twelve and one-half mills for each cigarette so imported or acquired and held for sale or consumption, and cigarettes with respect to which such excise has been imposed and has not been refunded, if paid, shall not be subject, when subsequently sold, to any further excise under this section. Notwithstanding the provisions of this section, the excise imposed by this section shall equal twenty-five percent of the price paid by such licensee or unclassified acquirer to purchase smokeless tobacco so sold, imported or acquired.
+        </section>
+        <section prefix="b">
+    	     Except as the provisions of this section expressly provide to the contrary, all of the provisions of this chapter and of chapter sixty-two C relative to the assessment, collection, payment, abatement, verification and administration of taxes, including penalties, shall, so far as pertinent, be applicable to the excise imposed by this section.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of section twenty-eight, all revenues received pursuant to this section, together with any penalties, forfeitures, interest, costs of suits and fines collected in connection therewith, less all amounts refunded or abated in connection therewith, all as determined by the commissioner of revenue according to his best information and belief, shall be credited to the Health Protection Fund established pursuant to section two GG of chapter twenty-nine.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Admission Of Persons Listed To Take Seats As Representatives</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The persons named on the lists delivered to the sergeant-at-arms shall be admitted to take seats as members in the representatives’ chamber on said first Wednesday of January or thereafter during the terms for which they are elected.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="81" order_by="81" level="3">State Highways</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Apportionment Of Fund; Equalizing Grant; Definitions: Notifications Of Amounts Apportioned And To Be Incurred</catch_line>
+    <order_by>31</order_by>
+    <text>
+        <section prefix="a">
+    	     The amount apportioned to each city and town in any calendar year shall be the amount of the “equalizing municipal highway grant” for such city or town multiplied by the number of miles of streets and roads in such city or town. The “equalizing municipal highway grant” for such city or town shall be the total of a basic mileage allowance of four hundred dollars plus an additional road-use allowance of seven dollars per motor vehicle per road mile less an equalizing deduction of ten cents per thousand dollars of equalized valuation per mile.
+        </section>
+        <section prefix="1">
+    	     “Streets and roads in such city or town”, the total mileage, to the nearest one hundredth of a mile, of public ways, other than state highway, in such city or town, as determined by the most recent mileage survey conducted by the commissioner of highways; and said commissioner is directed to conduct such survey annually.
+        </section>
+        <section prefix="2">
+    	     “Motor vehicles per road-mile”, the total number of motor vehicles registered and garaged in such city or town, exclusive of re-issues, as determined annually by the registrar of motor vehicles, divided by the total mileage, to the nearest one hundredth of a mile, of public ways, other than state highway, in such city or town, as determined by the most recent mileage survey conducted by the commissioner of highways.
+        </section>
+        <section prefix="3">
+    	     “Equalized valuation per mile”, the equalized valuation of the aggregate property in such city or town subject to local taxation, as most recently reported by the commissioner of revenue to the General Court under the provisions of section ten C of chapter fifty-eight, divided by the total mileage, to the nearest one hundredth of a mile, or public ways, other than state highway, in such city or town.
+        </section>
+    </text>
+</law>

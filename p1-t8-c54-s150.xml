@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>150</section_number>
+    <catch_line>State Officers</catch_line>
+    <order_by>150</order_by>
+    <text>
+        At the biennial state election there shall be chosen by the voters of the commonwealth, as prescribed by the constitution, a governor, lieutenant governor, state secretary, state treasurer, state auditor and attorney general; by the voters in each councillor district, one councillor; by the voters in each senatorial district, one senator; and by the voters in each representative district, such number of representatives as the district is entitled to elect.
+    </text>
+</law>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="38" order_by="38" level="3">Medical Examiners And Inquests</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Duty To Report Deaths; Failure To Report</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     death where criminal violence appears to have taken place, regardless of the time interval between the incident and death, and regardless of whether such violence appears to have been the immediate cause of death, or a contributory factor thereto;
+        </section>
+        <section prefix="2">
+    	     death by accident or unintentional injury, regardless of time interval between the incident and death, and regardless of whether such injury appears to have been the immediate cause of death, or a contributory factor thereto;
+        </section>
+        <section prefix="3">
+    	     suicide, regardless of the time interval between the incident and death;
+        </section>
+        <section prefix="4">
+    	     death under suspicious or unusual circumstances;
+        </section>
+        <section prefix="5">
+    	     death following an unlawful abortion;
+        </section>
+        <section prefix="6">
+    	     death related to occupational illness or injury;
+        </section>
+        <section prefix="7">
+    	     death in custody, in any jail or correctional facility, or in any mental health or mental retardation institution;
+        </section>
+        <section prefix="8">
+    	     death where suspicion of abuse of a child, family or household member, elder person or disabled person exists;
+        </section>
+        <section prefix="9">
+    	     death due to poison or acute or chronic use of drugs or alcohol;
+        </section>
+        <section prefix="10">
+    	     skeletal remains;
+        </section>
+        <section prefix="11">
+    	     death associated with diagnostic or therapeutic procedures;
+        </section>
+        <section prefix="12">
+    	     sudden death when the decedent was in apparent good health;
+        </section>
+        <section prefix="13">
+    	     death within twenty-four hours of admission to a hospital or nursing home;
+        </section>
+        <section prefix="14">
+    	     death in any public or private conveyance;
+        </section>
+        <section prefix="15">
+    	     fetal death, as defined by section two hundred and two of chapter one hundred and eleven, where the period of gestation has been twenty weeks or more, or where fetal weight is three hundred and fifty grams or more;
+        </section>
+        <section prefix="16">
+    	     death of children under the age of 18 years from any cause;
+        </section>
+        <section prefix="17">
+    	     any person found dead;
+        </section>
+        <section prefix="18">
+    	     death in any emergency treatment facility, medical walk-in center, child care center, or under foster care; or
+        </section>
+        <section prefix="19">
+    	     deaths occurring under such other circumstances as the chief medical examiner shall prescribe in regulations promulgated pursuant to the provisions of chapter thirty A.
+        </section>
+    </text>
+</law>

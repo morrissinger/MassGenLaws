@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21N" order_by="21N" level="3">Climate Protection And Green Economy Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Regulations For Reporting And Verifying Statewide Greenhouse Gas Emissions; Review; Inventory</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall monitor and regulate emissions of greenhouse gases with the goal of reducing those emissions. The department shall adopt regulations to require the reporting and verification of statewide greenhouse gas emissions and to monitor and enforce compliance with this chapter. The regulations shall: (1) establish a regional greenhouse gas registry and reporting system for greenhouse gas emission sources; provided, however, that in establishing the greenhouse gas registry and reporting system, the department may collaborate with other states or a regional consortium; (2) annually require the owner or operator of any facility that is required to report air emissions data to the department pursuant to Title V of the federal Clean Air Act and that has stationary emissions sources that emit greenhouse gases to report annually to the regional registry direct stack emissions of greenhouse gases from such sources; (3) require the owner or operator of a facility that has stationary emissions sources that emit greenhouse gases in excess of 5,000 tons of greenhouse gases per year in carbon dioxide equivalents to report annually to the regional registry direct emissions of greenhouse gases from such sources; provided, however, that the department shall develop a simplified estimation form to assist facilities in determining who shall report emissions and shall consider, on an annual basis, requiring the expansion of reporting to the regional greenhouse gas registry; (4) provide for the voluntary reporting of emissions of greenhouse gases to the regional greenhouse gas registry by entities and facilities that are not required to submit information pursuant to clauses (2) and (3); provided, however, that the greenhouse gas emissions reported shall be of a type and format that the regional greenhouse gas registry can accommodate; (5) require reporting of greenhouse gas emissions from generation sources producing all electricity consumed, including transmission and distribution line losses from electricity generated within the commonwealth or imported from outside the commonwealth; provided, however, that this requirement shall apply to all retail sellers of electricity, including electric utilities, municipal electric departments and municipal light boards as defined in section 1 of chapter 164A; (6) ensure rigorous and consistent accounting of emissions and provide reporting tools and formats to ensure collection of necessary data; and (7) ensure that greenhouse gas emissions sources maintain comprehensive records of all reported greenhouse gas emissions.
+        </section>
+        <section prefix="b">
+    	     The department shall: (1) consult with the secretary on periodic review and updates of emission reporting requirements, as necessary; and (2) review existing and proposed state, federal and international greenhouse gas emissions reporting programs and make reasonable efforts to promote consistency among the programs established pursuant to this chapter and other programs and to streamline reporting requirements on greenhouse gas emissions sources.
+        </section>
+        <section prefix="c">
+    	     The department shall triennially publish a state greenhouse gas emissions inventory that includes comprehensive estimates of the quantity of greenhouse gas emissions in the commonwealth for the last 3 years in which data is available.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18C" order_by="18C" level="3">Office Of The Child Advocate</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Information And Records; Confidentiality; Subpoena And Discovery;  Public Disclosure; Investigation Of Critical Incidents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding chapter 66A, section 70 of chapter 111, section 11 of chapter 111B, section 18 of chapter 111E, sections 51E and 51F of chapter 119, chapter 112, chapter 123, or sections 20B, 20J, or 20K of chapter 233 to the contrary, the disclosure of information to the office of the child advocate pursuant to this chapter shall not be prohibited. Any information considered to be confidential under the aforementioned sections shall be submitted for the child advocate’s review upon the determination of the child advocate that the review of said information is necessary. The child advocate shall ensure that no information submitted for his review is disseminated to parties outside the office. Under no circumstances shall the child advocate or any employee of the office violate the confidentiality provisions set forth in the aforementioned statutes, except as authorized under subsection (e).
+        </section>
+        <section prefix="b">
+    	     Any and all information and records acquired by the child advocate in the exercise of the office’s purpose and duties under this chapter shall be confidential and exempt from disclosure under chapter 66 and clause Twenty-sixth of section 7 of chapter 4.
+        </section>
+        <section prefix="c">
+    	     Information, documents and records of the child advocate and his office shall not be subject to subpoena, discovery or introduction into evidence in any civil or criminal proceeding; provided, however, that information, documents and records otherwise available from any other source shall not be immune from subpoena, discovery or introduction into evidence through these sources solely because they were presented during the child advocate’s investigation or maintained by the office of the child advocate.
+        </section>
+        <section prefix="d">
+    	     Statistical compilations of data which do not contain any information that would permit the identification of any person may be disclosed to the public.
+        </section>
+        <section prefix="e">
+    	     The restrictions of this section shall not preclude the child advocate from sharing with the governor, the attorney general, a district attorney, a secretary, an agency commissioner or other agency personnel, or the chairs of the joint committee on children, families and persons with disabilities, the report of, or the results of, a critical incident investigation involving that agency. Any executive or legislative branch employees who receive or read such a document shall be bound by the confidentiality requirements of this section.
+        </section>
+    </text>
+</law>

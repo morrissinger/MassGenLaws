@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55C" order_by="55C" level="3">Limited Public Financing Of Campaignsfor Statewide Elective Office</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Filing Statement</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        <section prefix="a">
+    	     On or before the last day for filing that candidate’s nomination papers with the state secretary pursuant to chapter 53, every candidate for statewide elective office shall file with the director a statement, in a form prescribed by the director, that the candidate does or does not agree:
+        </section>
+        <section prefix="1">
+    	     in the case of primary candidates, to abide by the following limits on expenditures for the following elective offices in the campaign for the state primary:
+        </section>
+        <section prefix="2">
+    	     in the case of all candidates for statewide elective office, to abide by the following limits on expenditures for the following elective offices in the campaign for the state election:
+        </section>
+        <section prefix="b">
+    	     On or before the last day for filing withdrawals of nominations for the state primary, every primary candidate for statewide office who has not agreed to abide by the expenditure limit under subsection (a), and who is opposed in that primary by 1 or more candidates who have agreed to this limit, shall file with the director a statement, in a form prescribed by the director, of the maximum amount of expenditures to be made in his campaign for that primary. The name of a candidate who fails to file a statement required by this subsection within the time so required shall not appear on the state primary ballot, and the director shall inform the state secretary of any such failure. The state primary campaign expenditure limit agreed to under subsection (a) by any candidate shall be increased to the highest amount stated under this subsection by any opposing candidate who has not agreed to this limit.
+        </section>
+        <section prefix="c">
+    	     On or before the last day for filing withdrawals of nominations made at the state primary, every candidate for statewide office in the state election who has not agreed to abide by the expenditure limit under subsection (a), and who is opposed in that election by 1 or more candidates who have agreed to this limit, shall file with the director a statement, in a form prescribed by the director, of the maximum amount of expenditures to be made in his campaign for that primary. The name of a candidate who fails to file a statement required by this subsection within the time so required shall not appear on the state election ballot, and the director shall inform the state secretary of any such failure. The state election campaign expenditure limit agreed to under subsection (a) by any candidate shall be increased to the highest amount stated under this subsection by any opposing candidate who has not agreed to this limit.
+        </section>
+        <section prefix="d">
+    	     Any candidate appointed to fill a vacancy in a nomination for statewide elective office shall file the statement required by subsection (a) not later than the last day for filing the certificate of nomination to fill such vacancy. The time for opposing candidates to file the statements required by subsection (b) or (c), as the case may be, shall be extended accordingly.
+        </section>
+        <section prefix="e">
+    	     Any candidate who files a statement with the director under this section and who makes expenditures in excess of the limit established by this section, or in excess of the amount stated by said candidate pursuant to subsection (b) or (c), shall be punished by a fine of not more than the total of 2 times the amount of the expenditures in excess of said limit or said amount, as the case may be, in addition to the penalties provided by section 12.
+        </section>
+    </text>
+</law>

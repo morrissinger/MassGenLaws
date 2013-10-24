@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>District Attorneys; Duties; Control Of Attorney General</catch_line>
+    <order_by>27</order_by>
+    <text>
+        District attorneys within their respective districts shall appear for the commonwealth in the superior court in all cases, criminal or civil, in which the commonwealth is a party or interested, and in the hearing, in the supreme judicial court, of all questions of law arising in the cases of which they respectively have charge, shall aid the attorney general in the duties required of him, and perform such of his duties as are not required of him personally; but the attorney general, when present, shall have the control of such cases. They may interchange official duties.
+    </text>
+</law>

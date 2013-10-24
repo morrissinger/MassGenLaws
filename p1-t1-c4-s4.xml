@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="4" order_by="4" level="3">Statutes</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Mode Of Acceptance Of Statute By Municipality Or District</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Wherever a statute is to take effect upon its acceptance by a municipality or district, or is to be effective in municipalities or districts accepting its provisions, this acceptance shall be, except as otherwise provided in that statute, in a municipality, by vote of the legislative body, subject to the charter of the municipality, or, in a district, by vote of the district at a district meeting.
+    </text>
+</law>

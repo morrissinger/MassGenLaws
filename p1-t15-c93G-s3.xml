@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Repurchase Of Dealer’S Inventory</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever a dealer enters into a dealer agreement under which the dealer agrees to maintain an inventory, and the agreement is terminated by either party as provided in this chapter, the supplier, upon written request of the dealer filed within thirty days of the effective date of the termination, shall repurchase the dealer’s inventory as provided in this chapter. There shall be no requirement for the supplier to repurchase inventory pursuant to this section if:
+        </section>
+        <section prefix="1">
+    	     the dealer has made an intentional and material misrepresentation as to the dealer’s financial status;
+        </section>
+        <section prefix="2">
+    	     the dealer has defaulted under a chattel mortgage or other security agreement between the dealer and supplier; or
+        </section>
+        <section prefix="3">
+    	     the dealer has filed a voluntary petition in bankruptcy.
+        </section>
+        <section prefix="b">
+    	     Whenever a dealer enters into a dealer agreement in which the dealer agrees to maintain an inventory and the dealer or the majority stockholder of the dealer, if the dealer is a corporation, dies or becomes incompetent, the supplier shall, at the option of the heir, personal representative, or guardian of the dealer, or the person who succeeds to the stock of the majority stockholder, repurchase the inventory as if the agreement has been terminated. The heir, personal representative, guardian or succeeding stockholder has six months from the date of the death of the dealer or majority stockholder to exercise the option under this chapter.
+        </section>
+    </text>
+</law>

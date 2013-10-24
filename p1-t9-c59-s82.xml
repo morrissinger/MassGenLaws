@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>82</section_number>
+    <catch_line>Validity Of Excessive Assessments</catch_line>
+    <order_by>82</order_by>
+    <text>
+        If, by reason of an erroneous or illegal assessment or apportionment of taxes, a person is assessed more than his due proportion, the tax and assessment shall be valid except as to the illegal excess.
+    </text>
+</law>

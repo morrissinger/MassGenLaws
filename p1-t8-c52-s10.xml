@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="52" order_by="52" level="3">Political Committees</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>10</order_by>
+    <text>
+        A state, city or town committee may make rules and regulations consistent with law, for its proceedings, and a state committee may make rules and regulations, consistent with law, for calling conventions.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="37" order_by="37" level="3">Sheriffs</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Oath And Bond</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A sheriff, before performing any official act, shall be sworn and prior to being sworn, and thereafter, at intervals of not more than one year, so long as he continues to hold such office, shall give to the state treasurer a bond in such amount and with such sureties as the superior court shall order and approve, conditioned to perform faithfully his own duties and to be responsible for the official acts of his deputies. A default, malfeasance or misfeasance in office of a deputy sheriff or jailer after the death, removal or resignation of the sheriff by whom he was appointed, shall be a breach of the bond of such sheriff.
+    </text>
+</law>

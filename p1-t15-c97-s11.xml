@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Conversion Of Meters To United States Survey Feet</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Nothing contained in this chapter shall prohibit the conversion of the coordinates on the metric system to the United States Survey Foot nor shall the use of distances in feet and decimals of a foot be prohibited from any map, report of survey, deed, or other document. For conversion of meters to United States survey feet, the meters shall be multiplied by 39.37 and divided by 12 which results in a constant multiplier having a value of 3.28083333333 to 12 significant figures.
+    </text>
+</law>

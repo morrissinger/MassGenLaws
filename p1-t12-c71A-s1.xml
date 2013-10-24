@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71A" order_by="71A" level="3">English Language Education In Public Schools</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Findings And Declarations</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     The English language is the common public language of the United States of America and of the Commonwealth of Massachusetts. It is spoken by the vast majority of Massachusetts residents, and is also the leading world language for science, technology, and international business, thereby being the language of economic opportunity; and
+        </section>
+        <section prefix="b">
+    	     Immigrant parents are eager to have their children become fluent and literate in English, thereby allowing them to fully participate in the American Dream of economic and social advancement; and
+        </section>
+        <section prefix="c">
+    	     The government and the public schools of Massachusetts have a moral obligation and a constitutional duty to provide all of Massachusetts’s children, regardless of their ethnicity or national origins, with the skills necessary to become productive members of our society. Of these skills, literacy in the English language is among the most important.
+        </section>
+        <section prefix="d">
+    	     The public schools of Massachusetts have done an inadequate job of educating many immigrant children, requiring that they be placed in native language programs whose failure over past decades is demonstrated by the low English literacy levels of those children.
+        </section>
+        <section prefix="e">
+    	     Immigrant children can easily acquire full fluency and literacy in a new language, such as English, if they are taught that language in the classroom as soon as they enter school.
+        </section>
+        <section prefix="f">
+    	     Therefore it is resolved that: all children in Massachusetts public schools shall be taught English as rapidly and effectively as possible.
+        </section>
+    </text>
+</law>

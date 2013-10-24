@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Permit Applications; Contents</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="1">
+    	     The need for the proposed withdrawal;
+        </section>
+        <section prefix="2">
+    	     The reasons for the withdrawal and the use of the water to be withdrawn;
+        </section>
+        <section prefix="3">
+    	     A description of the water source from which the withdrawal is proposed;
+        </section>
+        <section prefix="4">
+    	     The location of the withdrawal;
+        </section>
+        <section prefix="5">
+    	     The volume, frequency and rate of water the applicant proposes to withdraw;
+        </section>
+        <section prefix="6">
+    	     The length of time for which the permit is sought;
+        </section>
+        <section prefix="7">
+    	     The effect of the proposed withdrawal on public drinking water supplies, water quality, wastewater treatment, waste assimilation, groundwater recharge areas, navigation, hydropower resources, water-based recreation, wetland habitats, fish and wildlife, agriculture, and flood plains;
+        </section>
+        <section prefix="8">
+    	     The alternatives, if any, to the proposed withdrawal including a study of cost factors, feasibility and environmental effects of such alternatives; and
+        </section>
+        <section prefix="9">
+    	     Conservation measures instituted, or to be instituted, by the applicant.
+        </section>
+    </text>
+</law>

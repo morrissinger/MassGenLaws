@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64D" order_by="64D" level="3">Excise On Deeds, Instruments And Writings</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Penalty For False Affixation Of Stamps</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Any person knowingly making a false affixation of stamps on deeds or other instruments provided for by this chapter for the purpose of defrauding the commonwealth shall be punished by a fine of not less than five hundred dollars nor more than one thousand dollars, or by imprisonment for not more than one year, or both.
+    </text>
+</law>

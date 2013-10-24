@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Incomplete Records; New Copies Of Returns</catch_line>
+    <order_by>123</order_by>
+    <text>
+        If it shall appear to the governor and council, to the board of examiners, to the election commissioners or to the county commissioners, that any copy of a record of votes examined by them is incomplete or erroneous, they may order a new copy of the records to be made and transmitted to them. Such new copy shall be transmitted by the city or town clerk within seven days thereafter, and if found to be correct and in conformity to the requirements of law, shall have the same force as a first copy.
+    </text>
+</law>

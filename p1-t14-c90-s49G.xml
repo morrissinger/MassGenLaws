@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49G</section_number>
+    <catch_line>Certificate Of Self Insurance</catch_line>
+    <order_by>49G</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person may at any time apply to the commission for a certificate of self-insurance, whether or not there has occurred an accident as a result of which he might be affected by some other provision of sections forty-nine B to forty-nine R, inclusive.
+        </section>
+        <section prefix="b">
+    	     The commission may issue a certificate of self-insurance when satisfied that the applicant is possessed and will continue to be possessed of ability to pay judgments against him within the limits provided in sections forty-nine B to forty-nine R, inclusive.
+        </section>
+        <section prefix="c">
+    	     Upon not less than ten days’ notice of a self-insurer the commission may for reasonable cause cancel a certificate of self-insurance, and shall cancel such certificate upon failure to pay any judgment within thirty days.
+        </section>
+    </text>
+</law>

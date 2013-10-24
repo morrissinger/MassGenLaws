@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Supplementary Registration</catch_line>
+    <order_by>50</order_by>
+    <text>
+        Any legal resident of the commonwealth who was included in the definition of “Specially qualified voter” in section one of chapter fifty throughout the seven days immediately preceding the final time for registration under section twenty-six, or who becomes a citizen of the United States after the final time for registration under said section twenty-six, may appear before a registrar or assistant registrar of voters of the city or town of his legal residence, during regular business hours of any day following the final day for registration before a primary or election, as fixed by said section twenty-six, and, in accordance with this chapter, register as a voter; provided, however, that he so appears prior to four o’clock post meridian on the day preceding a primary, preliminary election or election.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22" order_by="22" level="3">Department Of Public Safety</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Operation Of Carriage Horses; Rules And Regulations</catch_line>
+    <order_by>20</order_by>
+    <text>
+        The department of public safety is hereby authorized and directed to promulgate rules and regulations governing the operation of carriage horses.
+    </text>
+</law>

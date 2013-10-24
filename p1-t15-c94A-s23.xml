@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Agreements, Licenses, Rules, Regulations Or Orders In Conflict With Federal Law</catch_line>
+    <order_by>23</order_by>
+    <text>
+        When any agreement, license, rule, regulation or order made or issued pursuant to any relevant federal law shall be in effect in any market or geographical area within the commonwealth, any provision of this chapter, inconsistent or in conflict with such agreement, license, rule, regulation or order, shall not apply to such market or area; but, subject to the foregoing, this chapter shall be in effect throughout the commonwealth, including every such market and area.
+    </text>
+</law>

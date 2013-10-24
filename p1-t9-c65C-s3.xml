@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Exemption And Deductions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     An exemption equal to the Massachusetts net estate shall be allowed if the Massachusetts net estate is three hundred thousand dollars or less for decedents dying after December thirty-first, nineteen hundred and ninety-two and on or before December thirty-first, nineteen hundred and ninety-three; four hundred thousand dollars or less for decedents dying after December thirty-first, nineteen hundred and ninety-three and on or before December thirty-first, nineteen hundred and ninety-four; five hundred thousand dollars or less for decedents dying after December thirty-first, nineteen hundred and ninety-four and on or before December thirty-first, nineteen hundred and ninety-five; and six hundred thousand dollars or less for decedents dying after December thirty-first, nineteen hundred and ninety-five and on or before December thirty-first, nineteen hundred and ninety-six; provided, that the exemption shall not exceed an amount equal to the smallest federal taxable estate that absorbs the allowable federal credit under section two thousand and ten of the Internal Revenue Code as amended and in effect as of the date of death of the decedent. Except for purposes of the final clause of subsection (a) of section two of chapter sixty-five C, if the Massachusetts net estate exceeds the amount of the exemption, no exemption shall apply.
+        </section>
+        <section prefix="b">
+    	     In addition to the exemption provided in subsection (a), the deductions allowable in computing the Massachusetts taxable estate shall consist of the deduction or portions thereof, other than the exemption found in section two thousand and fifty-two of the Code, which are allowable in determining the federal taxable estate and which are attributable to property included in the Massachusetts gross estate; provided, however, that the deduction for property which has passed or passes to a surviving spouse shall not be limited by subsection (c) of section two thousand and fifty-six of the Code. No deduction for interest shall be allowed hereunder unless the same has been paid or has, solely through the passage of time, accrued within three years from the due date of the return, without regard to any extension granted.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of subsection (b) or any general or special law to the contrary, if a deduction from any federal estate tax would not be allowed because of a failure to meet the requirements set forth pursuant to section two thousand and fifty-five of the Code in effect on January first, nineteen hundred and eighty-five, and if the relevant governing instrument is the subject of a qualified reformation as hereinafter defined as a result of which a deduction under said section two thousand and fifty-five would be allowable from any federal estate tax, then a similar deduction shall be allowed from any tax imposed pursuant to this chapter to the extent that it can be attributed to property included in the Massachusetts gross estate. For purposes of this subsection, the term “qualified reformation” shall mean a change of a governing instrument which is a qualified reformation as defined in section two thousand and fifty-five (e) of the Internal Revenue Code in effect on January first, nineteen hundred and eighty-five.
+        </section>
+        <section prefix="d">
+    	     If the right to claim any deduction otherwise allowable is waived for federal estate tax purposes, such right shall be considered waived for Massachusetts estate tax purposes.
+        </section>
+    </text>
+</law>

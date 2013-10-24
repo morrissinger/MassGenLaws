@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Inspection Of Establishments Of Registrants Or Applicants</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The board of registration in pharmacy in the case of a pharmacy and the commissioner in any case may inspect in accordance with his or its rules and regulations the establishment of a registrant or applicant for registration pursuant to the provisions of this chapter.
+    </text>
+</law>

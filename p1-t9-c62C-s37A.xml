@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>37A</section_number>
+    <catch_line>Settlement Of Tax Liability</catch_line>
+    <order_by>37A</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner finds that there is serious doubt as to the collectibility of the tax due.
+        </section>
+        <section prefix="b">
+    	     The commissioner finds that the taxpayer has not acted with intent to defraud;
+        </section>
+        <section prefix="c">
+    	     The settlement is approved by the commissioner and at least two deputy commissioners of the department of revenue; and
+        </section>
+        <section prefix="d">
+    	     There is a written agreement, signed by all parties, setting forth the commissioner’s reasons for the settlement and all relevant information, including, but not limited to, the names of all parties, the amount and type of tax, interest, penalties and charges settled, and the amount actually paid in accordance with the terms of the settlement. Any amount assessed that is not collected pursuant to the provisions of this section shall be abated by the commissioner.
+        </section>
+    </text>
+</law>

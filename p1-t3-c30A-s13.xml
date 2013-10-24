@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Licenses; Revocation, Etc.; Hearings; Exceptions; Student Loan Defaulters</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="1">
+    	     Where a provision of the General Laws expressly provides that an agency is not required to grant a hearing in regard to revocation, suspension or refusal to renew a license, as the case may be; or
+        </section>
+        <section prefix="2">
+    	     Where the agency is required by any law to revoke, suspend or refuse to renew a license, as the case may be, without exercising any discretion in the matter, on the basis of a court conviction or judgment; or
+        </section>
+        <section prefix="3">
+    	     Where the revocation, suspension or refusal to renew is based solely upon failure of the licensee to file timely reports, schedules, or applications, or to pay lawfully prescribed fees, or to maintain insurance coverage as required by any law or by regulation; or
+        </section>
+        <section prefix="4">
+    	     Where there is a refusal to renew the license of a foreign insurance company by the commissioner of insurance, under authority of section one hundred and fifty-one of chapter one hundred and seventy-five or where there is a revocation of the license of a foreign insurance company by said commissioner under authority of section five of chapter one hundred and seventy-five, if such refusal or revocation is upon the grounds that such company is insolvent or is in an unsound financial condition, or that its condition or management is such as to render its further transaction of business hazardous to the public or its policyholders, or that the amount of its funds, net cash or contingent assets is deficient or that its capital stock or deposit or guaranty capital or guaranty fund is impaired, as set forth in section twenty-three A of said chapter one hundred and seventy-five, or that such capital stock, deposit or guaranty capital or guaranty fund has been reduced below the amount required by section one hundred and fifty-one of said chapter one hundred and seventy-five.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="96" order_by="96" level="3">Measurement Of Lumber</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>International Log Rule; Standard Rule For Determining Foot Content</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        The international log rule, based upon one fourth inch saw kerf, as expressed in the formula (D2×0.22)-0.71D)×0.904762 for four foot sections (D represents top diameter of log in inches; taper allowance, one half inch per four feet lineal), shall be the standard log rule for determining the board foot content of saw logs in this commonwealth, and all contracts entered into for the purchase and sale of saw logs shall be deemed to be made on the basis of such standard rule, unless some other method of measurement is specifically agreed upon.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>24P</section_number>
+    <catch_line>Minors; Further Violations; Education And Treatment Programs</catch_line>
+    <order_by>24P</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon evidence that a person under the age of 21, after having been arrested for or charged with a violation under section 24, 24G or 24L, had a blood alcohol percentage of two one-hundredths or greater or upon evidence that such person refused to submit to a chemical test or analysis of his breath or blood under section 24, notwithstanding the finding upon any such charge, such person shall have his license or permit to operate a motor vehicle suspended by the registrar for a period of 180 days; provided, however, that any such person who is less than 18 years of age at the time of such violation shall have his license suspended by the registrar for one year. Such suspension by the registrar shall be imposed in addition to any penalty, license suspension or revocation imposed upon such person by the court as required by said section 24, 24G or 24L.
+        </section>
+        <section prefix="b">
+    	     The license or permit to operate of a person convicted of any violation under section 24, 24G, 24I or 24L who was under the age of 18 at the time of such violation and whose license or permit to operate was not suspended under subsection (a) for such violation shall have such license or permit suspended for a period of 180 days for a first offense and for a period of one year for a second or subsequent offense.
+        </section>
+    </text>
+</law>

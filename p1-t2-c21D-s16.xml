@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Licenses And Permits; Time For Granting Or Denial</catch_line>
+    <order_by>16</order_by>
+    <text>
+        No license or permit granted by a city or town shall be required for a hazardous waste facility which was not required on or before the effective date of this chapter by said city or town. All permits and licenses required for a hazardous waste facility in a city or town shall be granted or denied within sixty days after application for said permits and licenses by the developer, or twenty-one days after the establishment of a siting agreement pursuant to sections twelve and thirteen, whichever is the later.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Binding Arbitration</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Nothing contained in this chapter shall bar the right of a dealer agreement to provide for binding arbitration of disputes. Any arbitration shall be consistent with the provisions of this chapter and other applicable law. The place of any arbitration shall be in the city or county in which the dealer maintains the dealer’s principal place of business in the commonwealth.
+    </text>
+</law>

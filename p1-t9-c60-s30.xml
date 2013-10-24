@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Certificate Of Commitment</catch_line>
+    <order_by>30</order_by>
+    <text>
+        A collector who commits a person to jail pursuant to a warrant to distrain or commit shall give to the keeper thereof a certificate signed by him stating that he has committed the person for nonpayment of his tax and for want of goods and chattels whereof to make distress and setting forth the amount said person shall pay for said tax, interest, charges and fees.
+    </text>
+</law>

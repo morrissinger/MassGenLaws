@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Preservation Of Order By Police</catch_line>
+    <order_by>72</order_by>
+    <text>
+        The board or officer in charge of the police force of each city and town shall detail a sufficient number of police officers or constables for each building that contains the polling place for one or more precincts at every election therein to preserve order and to protect the election officers and supervisors from any interference with their duties and to aid in enforcing the laws relating to elections.
+    </text>
+</law>

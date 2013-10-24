@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7B" order_by="7B" level="3">Asset Management Board</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Asset”, all property that is in the lawful possession of or otherwise held by a state agency, and shall include without limitation both real and personal property and property interests regardless of whether they are held in tangible or intangible form. Without limiting the generality of the foregoing, the word “asset” shall include land, buildings, structures, leases, easements, licenses, electronic and communication equipment, and time sharing capacities, air, water, and mineral rights, utilities, vehicles, and professional and technical services and expertise.
+        </section>
+        <section prefix="b">
+    	     “Asset management board” or “board”, the asset management board established pursuant to section two.
+        </section>
+        <section prefix="c">
+    	     “Asset management project” or “project”, any project for the management of assets that is proposed for the consideration of the board by a state agency and approved by the asset management board pursuant to the provisions of this chapter; provided, however, that this term shall not include any project involving the sale or permanent disposition of any asset.
+        </section>
+        <section prefix="d">
+    	     “State agency” or “agency”, any executive office, department, agency, board, or commission of the commonwealth.
+        </section>
+    </text>
+</law>

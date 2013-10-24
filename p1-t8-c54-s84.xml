@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Removal Of Ballots Before Close Of Polls</catch_line>
+    <order_by>84</order_by>
+    <text>
+        No person shall remove any ballot from the space enclosed by the guard rail before the polls are closed. No voter whose name has been checked on the voting list in charge of the ballot clerk, other than an election officer or supervisor, shall again enter such enclosed space during the election.
+    </text>
+</law>

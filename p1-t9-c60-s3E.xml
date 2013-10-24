@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>3E</section_number>
+    <catch_line>Application Of Partial Payments</catch_line>
+    <order_by>3E</order_by>
+    <text>
+        Partial payments of bills for taxes, excises or municipal charges and fees, including partial payments under sections 22 and 62, shall be applied first to any interest due, then to collection charges, that have been added to the bills, unless the amount of the interest and charges taken together may be waived and the collector or other officer responsible for collecting the bills determines that the partial payment should be first applied to the underlying obligation.
+    </text>
+</law>

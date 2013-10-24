@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Books Or Records Relating To Property Subject To Levy</catch_line>
+    <order_by>55</order_by>
+    <text>
+        If a levy has been made or is about to be made on any property, or right to property, any person having custody or control of any books or records, containing evidence or statements relating to the property, or right to property subject to levy, shall, upon demand of the commissioner, exhibit such books or records to the commissioner.
+    </text>
+</law>

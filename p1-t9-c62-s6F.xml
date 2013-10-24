@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>6F</section_number>
+    <catch_line>Gross Income; Determination Of Capital Gains; Basis Of Property</catch_line>
+    <order_by>6F</order_by>
+    <text>
+        <section prefix="a">
+    	     In determining Massachusetts gross income, if the federal gross income includes any item of gain or has been reduced by any item of loss, with respect to property, then the federal gross income shall be increased by the excess of the federal adjusted basis of such property over the Massachusetts adjusted basis thereof, and shall be decreased by the excess of the Massachusetts adjusted basis of such property over the federal adjusted basis thereof.
+        </section>
+        <section prefix="A">
+    	     In the case of property as to which, if it had been sold on December thirty-first, nineteen hundred and seventy in the course of business, a gain realized on such sale would have been taxable under this chapter to its then owner:
+        </section>
+        <section prefix="i">
+    	     The Massachusetts initial basis shall, for purposes of computing gain, be its adjusted basis as computed under this chapter as in effect on December thirty-first, nineteen hundred and seventy, and
+        </section>
+        <section prefix="ii">
+    	     The Massachusetts initial basis shall, for the purpose of computing loss, be the lower of the basis computed under clause (i) of this subparagraph or the federal adjusted basis for the determination of loss as of such date.
+        </section>
+        <section prefix="B">
+    	     In the case of any other property the Massachusetts initial basis shall be its federal adjusted basis on such date, determined without regard to any federal adjustment made under section one thousand and fifteen (d) of the Code.
+        </section>
+        <section prefix="2">
+    	     The Massachusetts initial basis of property acquired after December thirty-first, nineteen hundred and seventy shall be determined as follows:—
+        </section>
+        <section prefix="A">
+    	     If the taxpayer’s federal basis of the property at acquisition is determined without regard to the basis of such property in the hands of the transferor or of other property in the hands of the transferee, hereinafter called the “basis of prior property”, the Massachusetts initial basis shall be the federal basis, determined without regard to any federal adjustment made under section one thousand and fifteen (d) of the Code.
+        </section>
+        <section prefix="B">
+    	     If such federal basis is determined in whole or in part by application of the basis of prior property, and
+        </section>
+        <section prefix="i">
+    	     if no item of gain is includible in federal gross income and federal gross income has not been reduced by any item of loss, with respect to the transaction, the Massachusetts initial basis shall be the initial federal basis, increased by the excess of the Massachusetts adjusted basis over the federal adjusted basis of prior property, or decreased by the excess of the federal adjusted basis over the Massachusetts adjusted basis of prior property, or
+        </section>
+        <section prefix="ii">
+    	     otherwise, the Massachusetts initial basis shall be the initial federal basis of the acquired property.
+        </section>
+        <section prefix="C">
+    	     Notwithstanding subparagraphs (A) and (B), in the case of property acquired from a decedent within the meaning of section one thousand and fourteen (b) of the Code, the initial basis of such property shall be determined under section one thousand and fourteen of the Code, without reference to section one thousand and fourteen (d) of the Code; except that in the case of an election under section five of chapter sixty-five C, the initial basis shall be its value determined under the provisions of such section on the applicable valuation date.
+        </section>
+        <section prefix="2">
+    	     There shall be disregarded any federal adjustment resulting from provisions of the Code that were not applicable in determining Massachusetts gross income at the time such federal adjustments were made, and
+        </section>
+        <section prefix="3">
+    	     Adjustments shall be made for any item which was applicable in determining Massachusetts gross income but which was not so applicable in determining federal gross income and for which a federal adjustment would be allowed under the provisions of the Code if the item had been applicable in determining federal gross income.
+        </section>
+        <section prefix="4">
+    	     There shall be disregarded, and the federal basis shall be modified to the extent necessary to disregard, any federal adjustment under section one thousand and fifteen (d) of the Code.
+        </section>
+        <section prefix="d">
+    	     The rules prescribed in this section shall apply to non-residents; except that if any non-resident has owned any items of property during a period when the income or gains from such items were not subject to taxation under this chapter, and if the income or gains from such items subsequently became or become subject to taxation under this chapter, then the special limitations of subparagraphs (2) to (4), inclusive, of paragraph (c) of this section shall not apply as to such period.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Advertising By Manufacturer, Distributor Or Dealer; New Motor Vehicle Prices; Charges Included</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     No manufacturer, distributor or dealer shall use any false or misleading advertisement in connection with its business as a manufacturer, distributor or dealer.
+        </section>
+        <section prefix="b">
+    	     Any motor vehicle dealer advertising the price of a new motor vehicle shall include all charges of any type, except taxes, and shall include, without limitation, any charges for freight, handling or preparation necessary or usual before delivery to the consumer.
+        </section>
+    </text>
+</law>

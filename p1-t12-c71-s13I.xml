@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>13I</section_number>
+    <catch_line>Executive Committee For Educational Television; Powers And Duties</catch_line>
+    <order_by>13I</order_by>
+    <text>
+        <section prefix="a">
+    	     Acquire, construct, hold, lease and dispose of real and personal property;
+        </section>
+        <section prefix="b">
+    	     Prepare programs, enter into agreements providing for the furnishing of programs, and the disposition thereof within and without the commonwealth, equipment, assistance and personnel; purchase broadcast time; and enter into other contracts;
+        </section>
+        <section prefix="c">
+    	     Obtain assistance from, and co-operate with others, including, without restriction, institutions of learning and groups interested in television broadcasting;
+        </section>
+        <section prefix="d">
+    	     Hold and administer real and personal property, and money given, whether outright or in trust; and
+        </section>
+        <section prefix="e">
+    	     Do all acts and things necessary or convenient to carry out the purposes for which the committee is created.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Delegation Of Powers By Trustees</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        The trustees may, except as to duties imposed or powers granted under sections two, three, four and five, delegate their authority or any portion thereof to the president or other officers of the university whenever in their judgment such delegation may be necessary or desirable.
+    </text>
+</law>

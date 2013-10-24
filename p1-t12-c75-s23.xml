@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Purposes</catch_line>
+    <order_by>23</order_by>
+    <text>
+        The trustees shall maintain the experiment stations heretofore authorized by law for practical demonstrations in market gardening and of experimental work in planting and growing cranberries and tobacco, and shall use therefor the land, buildings and equipment heretofore acquired therefor.
+    </text>
+</law>

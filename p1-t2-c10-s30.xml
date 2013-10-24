@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Forgery, Alteration, Etc. Of Lottery Tickets; Penalties</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Whoever, with intent to defraud, falsely makes, alters, forges, utters, passes or counterfeits a state lottery ticket or share shall be punished by imprisonment in the state prison for not more than three years or in a jail for not more than two years, or by a fine of not less than one hundred nor more than five hundred dollars.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>23B</section_number>
+    <catch_line>Preference For Products Grown In Or Produced From Products Grown In Commonwealth</catch_line>
+    <order_by>23B</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary, and to the extent permitted by federal law, a state agency, authority or trustees or officers of a state college or university designated by such trustees when purchasing products of agriculture as defined in section 1A of chapter 128, including but not limited to, fruits, vegetables, eggs, dairy products, meats, crops, horticultural products or products processed into value added products as part of a Massachusetts farm operation, shall prefer products grown in the commonwealth or products produced using products grown in the commonwealth as well as fish, seafood, and other aquatic products.
+        </section>
+        <section prefix="b">
+    	     To effectuate the preference for those products of agriculture grown or produced using locally-grown products, the state purchasing agent responsible for procuring the products on behalf of a state agency, authority or trustees or officers of a state college or university designated by such trustees shall, in advertising for bids, contracts or otherwise procuring products of agriculture, make reasonable efforts to facilitate the purchase of such products of agriculture grown or produced using products grown in the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The state purchasing agent responsible for procuring the products on behalf of a state agency or authority shall purchase the products of agriculture grown or produced using products grown in the commonwealth, unless the price of the goods exceeds, by more than 10 per cent, the price of products of agriculture grown or produced using products grown outside of the commonwealth.
+        </section>
+    </text>
+</law>

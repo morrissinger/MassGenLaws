@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>151</section_number>
+    <catch_line>Presidential Electors</catch_line>
+    <order_by>151</order_by>
+    <text>
+        At the biennial state election in each year in which presidential electors are required to be elected, a number of electors, equal to the whole number of senators and representatives in congress to which the commonwealth is entitled, shall be chosen by the voters of the commonwealth in the manner and with the effect provided by section seventy-eight.
+    </text>
+</law>

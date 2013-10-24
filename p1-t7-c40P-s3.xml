@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40P" order_by="40P" level="3">The Massachusetts Rent Control Prohibition Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Definition Of Rent Control</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     any regulation that in any way requires below-market rents for residential properties; and
+        </section>
+        <section prefix="b">
+    	     any regulation that is part of a regulatory scheme of rent control as defined in clause (a), including the regulation of occupancy, services, evictions, condominium conversion and the removal of properties from such rent control scheme; except that
+        </section>
+        <section prefix="c">
+    	     this definition does not include the regulation of, or agreements affecting, publicly owned housing, publicly subsidized housing, federally assisted housing, or mobile homes.
+        </section>
+    </text>
+</law>

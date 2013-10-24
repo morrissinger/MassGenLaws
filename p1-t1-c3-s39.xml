@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Definitions Applicable To Secs. 39 To 50</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     a request for a meeting, a request for the status of an action or any similar administrative request, if the request does not include an attempt to influence a covered executive official;
+        </section>
+        <section prefix="b">
+    	     an act made in the course of participation in an advisory committee or task force;
+        </section>
+        <section prefix="c">
+    	     providing information in writing in response to a written request for specific information by an officer or employee of the executive branch or an authority, including, but not limited to, statewide constitutional officers and employees thereof;
+        </section>
+        <section prefix="d">
+    	     an act required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation or other action of the executive branch or an authority, including, but not limited to, statewide constitutional offices;
+        </section>
+        <section prefix="e">
+    	     a communication made to an officer or employee of the executive branch or an authority, including, but not limited to, statewide constitutional officers and employees thereof, with regard to: (1) a judicial proceeding or a criminal or civil law enforcement inquiry, investigation or proceeding; or (2) a filing or proceeding that the executive branch or an authority, including, but not limited to, statewide constitutional offices, is specifically required by statute or regulation to maintain or conduct on a confidential basis; if such executive branch or authority, including, but not limited to, statewide constitutional offices, is charged with responsibility for such proceeding, inquiry, investigation or filing;
+        </section>
+        <section prefix="f">
+    	     an act made in compliance with written agency procedures regarding an adjudicatory proceeding, as defined in section one of chapter thirty A, conducted by the agency, or similar adjudicatory or evidentiary proceedings conducted by any department, board, commission or official not governed by chapter thirty A;
+        </section>
+        <section prefix="g">
+    	     a petition for action by the executive branch or an authority, including, but not limited to, statewide constitutional offices made in writing and required to be a matter of public record pursuant to established procedures of such executive branch or authority, including, but not limited to, statewide constitutional offices;
+        </section>
+        <section prefix="h">
+    	     an act made on behalf of an individual with regard to that individual’s benefits, employment or other personal matters;
+        </section>
+        <section prefix="i">
+    	     a response to a request for proposals or similar invitation by an officer or employee of the executive branch or an authority, including, but not limited to, statewide constitutional officers and employees thereof, for information relevant to a contract;
+        </section>
+        <section prefix="j">
+    	     participation in a bid conference;
+        </section>
+        <section prefix="k">
+    	     an appeal or request for review of a procurement decision.
+        </section>
+    </text>
+</law>

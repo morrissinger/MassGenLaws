@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>90</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>90</order_by>
+    <text>
+        <section prefix="1">
+    	     a lease or agreement which constitutes a credit sale as defined in section one of chapter one hundred and forty D;
+        </section>
+        <section prefix="2">
+    	     any lease for agricultural, business, or commercial purposes;
+        </section>
+        <section prefix="3">
+    	     any lease made to the commonwealth or any political subdivisions thereof, including, but not limited to, any agencies, boards, departments or other such instrumentalities of the commonwealth or any political subdivisions thereof;
+        </section>
+        <section prefix="4">
+    	     any lease made to an organization;
+        </section>
+        <section prefix="5">
+    	     a lease or agreement which constitutes a retail installment transaction as defined in section one of chapter two hundred and fifty-five D;
+        </section>
+        <section prefix="6">
+    	     any lease or rental of motor vehicles, as defined in section one of chapter ninety or tools or garden equipment; and
+        </section>
+        <section prefix="7">
+    	     any lease or rental of an item of personal property that is leased or rented for fewer than seven consecutive days, including all renewals and extensions of the lease or rental agreement.
+        </section>
+    </text>
+</law>

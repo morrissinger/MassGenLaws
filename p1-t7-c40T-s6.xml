@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40T" order_by="40T" level="3">Publicly Assisted Affordable Housing</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Exemptions; Requests</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Sections 3 and 4 shall not apply to the following: (i) a government taking by eminent domain or a negotiated purchase in lieu of eminent domain; (ii) a forced sale pursuant to a foreclosure; (iii) a deed-in-lieu-of foreclosure; (iv) a proposed sale to a purchaser pursuant to terms and conditions that preserve affordability, as determined by the department; (v) a proposed sale of publicly-assisted housing that the department has determined, as of the effective date of this act, was neither receiving government assistance nor was subject to regulation by any of the programs listed in the definition of publicly-assisted housing other than project-based section 8 and the buyer has agreed, in a regulatory agreement, to renew in whole, all project-based section 8 assistance contracts, or any successor program thereto; provided, however, that at the time of such renewal, such assistance is available to the owner on economic terms and conditions that are comparable to the existing project-based rental assistance contract; (vi) a proposed sale of publicly-assisted housing to an affiliate of the owner that is not a termination as determined by the department; (vii) a proposed sale of publicly-assisted housing which has more than 15 years from the date of the sale until the date of the publicly-assisted housing’s first scheduled termination; or (viii) a bona fide proposed sale pursuant to a purchase contract on the effective date of this chapter.
+        </section>
+        <section prefix="b">
+    	     An owner seeking an exemption under clause (iv), (v) or (vi) of subsection (a) shall include the name and address of any tenant organization in the request and shall provide a copy of its request to the chief executive officer of the affected municipality, CEDAC, the local legal services organization as designated by the department and the tenant organization, if any, at the time it files its exemption request with the department. The department shall provide a copy of its written determination under said clause (iv), (v) or (vi) of said subsection (a) to the owner, CEDAC, the local legal services organization and the tenant organization.
+        </section>
+    </text>
+</law>

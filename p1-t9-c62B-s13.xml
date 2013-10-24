@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Amount Of Estimated Tax</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Every taxpayer who in any taxable year can reasonably expect to receive income taxable under chapter sixty-two from sources other than wages upon which a tax is required to be withheld under section two and for whom the amount of estimated tax is more than $400 shall make payments of estimated tax pursuant to section fourteen. For the purposes of this section, the amount of estimated tax shall be the amount which the taxpayer estimates as the tax due under chapter sixty-two with respect to the taxable year reduced by the total amount of the credits allowed under section 6 of chapter 62 to which the taxpayer estimates he will be entitled and further reduced by the amount which the taxpayer estimates as the credits to which he will be entitled under section nine for taxes withheld during the taxable year.
+    </text>
+</law>

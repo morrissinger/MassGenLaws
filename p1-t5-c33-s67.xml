@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Decorations And Awards; Qualifications</catch_line>
+    <order_by>67</order_by>
+    <text>
+        <section prefix="a">
+    	     To each member who completes nine years of honorable service in the armed forces of the commonwealth, there shall be awarded a medal, and for each additional five years of like service a clasp to be affixed to the ribbon pendant thereof. Members of the armed forces of the commonwealth, active, retired or honorably discharged, who have served in the armed forces of the United States in time of war and have been honorably discharged therefrom, shall receive a clasp indicative of such service, to be affixed to the ribbon pendant of the medal herein provided.
+        </section>
+        <section prefix="b">
+    	     The adjutant general and two field grade officers of the armed forces of the commonwealth, detailed by the commander-in-chief, shall act as a medal of valor commission, and may receive recommendations, through military channels, for the award of the medal of valor to a member of the armed forces of the commonwealth, who, by reason of conspicuous gallantry at the risk of his life, above and beyond the call of duty, while on military service, is recommended for the award of said medal of valor.
+        </section>
+        <section prefix="c">
+    	     The adjutant general and two field grade officers of the armed forces of the commonwealth, detailed by the commander-in-chief, shall constitute a commission to receive recommendations, through military channels, for the award of the Massachusetts military medal to a member of the armed forces of the commonwealth who, while on military service, performed a singularly meritorious act of heroism which distinguished him above his comrades.
+        </section>
+        <section prefix="d">
+    	     The adjutant general and two field grade officers of the armed forces of the commonwealth, detailed by the commander-in-chief, shall act as a Massachusetts medal of merit commission, and may receive recommendations, through military channels, for the award of the medal of merit to a member of the armed forces of the commonwealth, the United States or any other state or territory of the United States who has distinguished himself by exceptionally meritorious conduct in performing outstanding services while a member of the armed forces of the commonwealth, the United States or any other state or territory of the United States.
+        </section>
+        <section prefix="e">
+    	     Commissions constituted under subsections (b), (c) and (d) of this section shall, after careful investigation, report their findings and recommendations to the commander-in-chief, who, if the award appears justified, shall confer upon the member the medal recommended.
+        </section>
+    </text>
+</law>

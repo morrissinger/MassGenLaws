@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Seizure Of Property; Notice; Sale</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="a">
+    	     As soon as practicable after seizure of property, notice in writing shall be given by the commissioner to the owner of the property, or, in the case of personal property, the possessor thereof, or shall be left at his usual place of abode or business, if he has such within the commonwealth. If the owner cannot be readily located, or has no dwelling or place of business within the commonwealth, the notice may be mailed to his last known address. Such notice shall specify the sum demanded and shall contain, in the case of personal property, an account of the property seized and, in the case of real property, a description with reasonable certainty of the property seized.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or, if there be no newspaper published or generally circulated in such county, shall post such notice at the city or town hall nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold and the time, place, manner and conditions of the sale thereof. Whenever levy is made without regard to the ten-day period provided in section fifty-three, public notice of sale of the property seized shall not be made within such ten-day period unless section fifty-seven is applicable.
+        </section>
+        <section prefix="c">
+    	     If any property liable to levy is not divisible, so as to enable the commissioner by sale of a part thereof to raise the whole amount of the tax and expenses, the whole of such property shall be sold.
+        </section>
+        <section prefix="d">
+    	     The time of sale shall be not less than ten days nor more than forty days from the time of giving public notice under subsection (b). The sale may be adjourned from time to time but such adjournments shall not be for a period to exceed in all one month.
+        </section>
+        <section prefix="2">
+    	     The commissioner may by regulations prescribe the manner and other conditions of the sale of property seized by levy.
+        </section>
+        <section prefix="3">
+    	     If payment in full is required at the time of acceptance of a bid and is not then and there paid, the commissioner shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of eight per cent per annum from the date of the sale; or, in the discretion of the commissioner, the sale may be declared by the commissioner to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property, or rights to property, free and clear of any claim or right to the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="61" order_by="61" level="3">Classification And Taxation Of Forest Lands And Forest Products</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Disqualification Of Land From Classification; Roll Back Taxes;  Calculation; Interest</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     the full and fair value of the land under the valuation standard applicable to other land in the city or town;
+        </section>
+        <section prefix="b">
+    	     the amount of the land assessment for the particular tax year;
+        </section>
+        <section prefix="c">
+    	     the amount of the additional assessment on the land for the particular tax year by deducting the amount of the actual assessment on the land for that year from the amount of the land assessment determined under subsection (a); and
+        </section>
+        <section prefix="d">
+    	     the amount of the roll-back tax for that tax year by multiplying the amount of the additional assessment determined under subsection (c) by the general property tax rate of the city or town applicable for that tax year.
+        </section>
+    </text>
+</law>

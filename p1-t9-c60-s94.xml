@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>94</section_number>
+    <catch_line>Accounts And Receipts Of Collectors; Exhibiting On Request Of Municipal Officers</catch_line>
+    <order_by>94</order_by>
+    <text>
+        The aldermen or selectmen may require the collector once in two months to exhibit to them a true account of all money received on the taxes committed to him, and to produce the treasurer’s receipts for all money paid into the treasury by him.
+    </text>
+</law>

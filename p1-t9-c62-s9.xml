@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Estates Of Deceased Persons</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Estates of deceased persons, if assessed within the time limited by section twenty-six of chapter sixty-two C, shall be subject to the taxes imposed by this chapter upon all income received by such persons during their lifetime, except that estates of deceased persons who were nonresidents at the time of their death shall be subject only to the taxes imposed by section five A. 
+The income received by the estates of deceased residents shall be subject to all the taxes imposed by this chapter to the extent that the persons to whom such income is payable, or for whose benefit it is accumulated are residents of the commonwealth; provided, however, if the income received by such estates would be subject to taxation under section five A if received by a nonresident, such income shall be taxable regardless of whether or not the persons to whom such income is payable or for whose benefit it is accumulated are residents or nonresidents of the commonwealth. The income received by the estates of deceased non-residents shall be taxed at the same rate and in the same manner as provided in section five A, and subject to the same exemptions and deductions. Such income shall include as and when received by the executor or administrator all income taxable under this chapter which would have been taxable to the decedent if he had survived to receive it, and the taxes upon such income as shall have become a part of the corpus of his estate under the rules of probate accounting, may be charged against principal in any accounting made by the executor or administrator. All taxes under this section shall be assessed to the executor or administrator and before the appointment of an executor or administrator said taxes may be assessed in general terms to the estate of the deceased and the executor or administrator subsequently appointed shall be liable for the taxes so assessed as though they were assessed to him. No person shall be taxed under this chapter for income received from any executor or administrator which income has itself been taxed under this section.
+    </text>
+</law>

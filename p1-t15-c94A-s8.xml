@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Appeal; Jurisdiction Of Superior Court</catch_line>
+    <order_by>8</order_by>
+    <text>
+        An applicant or licensee aggrieved by any decision of the commissioner may appeal therefrom by filing a petition in the superior court within twenty days after notice of such decision has been given under section nineteen. Upon such appeal, said court may revise or reverse such decision if such action, in its opinion, is warranted by the evidence.
+    </text>
+</law>

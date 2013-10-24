@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="98" order_by="98" level="3">Weights And Measures</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Relation Of Avoirdupois Pound To Troy Pound</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The avoirdupois pound shall bear to the troy pound the relation of seven thousand to five thousand seven hundred and sixty. The hundredweight shall contain one hundred avoirdupois pounds, and the ton twenty hundredweight.
+    </text>
+</law>

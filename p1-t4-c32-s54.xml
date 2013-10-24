@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Acceptance Of Two Preceding Sections</catch_line>
+    <order_by>54</order_by>
+    <text>
+        The two preceding sections shall be in effect in any city which by vote of the city council or in any town which at a town meeting accepts them or has accepted corresponding provisions of earlier laws.
+    </text>
+</law>

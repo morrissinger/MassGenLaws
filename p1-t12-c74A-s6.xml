@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74A" order_by="74A" level="3">Independent Agricultural And Technical Schools</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Director Of School; Treasurer Of School; Powers And Duties</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     keep full and accurate accounts of a school’s revenues, expenses, assets and liabilities, in accordance with generally accepted accounting principles as established by the governmental accounting standards board;
+        </section>
+        <section prefix="b">
+    	     establish the fiscal year of a school to conform to the fiscal year of the commonwealth;
+        </section>
+        <section prefix="c">
+    	     prudently invest all monies held in the name of a school;
+        </section>
+        <section prefix="d">
+    	     encumber funds and make expenditures in accordance with policies established by the board of trustees;
+        </section>
+        <section prefix="e">
+    	     permit the inspection of a school’s books and accounts by the commissioner of education, the state auditor, the director of accounts, the inspector general or their respective designees;
+        </section>
+        <section prefix="f">
+    	     prepare and submit to the commissioner of education within 120 days following the close of each fiscal year such financial reports as the commissioner of education shall require, together with the opinion of an independent auditor attesting to such reports; and
+        </section>
+        <section prefix="g">
+    	     receive and take charge of all monies due to a school and give a bond for the faithful performance of his duties in accordance with the provisions of section 35 of chapter 41.
+        </section>
+    </text>
+</law>

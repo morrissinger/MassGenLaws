@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Preferential Deposits Of Cash Reserves To Lending And Banking Institutions That Lend To Small Businesses</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        The state treasurer shall whenever possible, establish a preference in the deposit of the commonwealth’s cash reserves to those lending and banking institutions that exceed the statewide average for lending to small businesses, as defined in section 57 of chapter 23A; provided, however, that this shall not prohibit the treasurer from depositing and investing said reserves in such a manner as to secure the highest rate of return available consistent with the safety of said reserves.
+    </text>
+</law>

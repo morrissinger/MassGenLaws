@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43B" order_by="43B" level="3">Home Rule Procedures</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Enforcement Of This Chapter; Declaratory Relief; Judicial Review</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     The superior court shall, upon petition of ten or more registered voters or of the attorney general, have jurisdiction in equity to enforce the provisions of this chapter.
+        </section>
+        <section prefix="2">
+    	     The provisions of chapter two hundred and thirty-one A applicable to municipal by-laws or ordinances shall apply to charters, charter revisions, charter amendments, by-laws and ordinances of a city or town adopted under this chapter. In addition, a petition for declaratory relief under chapter two hundred and thirty-one A may be brought on behalf of the public by the attorney general or, by leave of the court, by ten or more registered voters of the city or town. In the case of a petition brought by ten registered voters, the attorney general shall be served with notice of the preliminary petition for leave, and may intervene as a party at any stage of the proceedings; and the petitioners shall be liable for, but may in the court’s discretion also be awarded, costs, which may include reasonable counsel fees.
+        </section>
+        <section prefix="3">
+    	     Judicial review to determine the validity of the procedures whereby any charter is adopted, revised or amended may be had by petition of ten or more registered voters of the city or town brought within thirty days after the election at which such charter, revision, or amendment is approved. If no such petition is filed within such period, compliance with all the procedures required by this act and the validity of the manner in which such charter, revision or amendment was approved shall be conclusively presumed. No charter adoption, revision or amendment shall be deemed invalid on account of any procedural error or omission unless it is shown that the error or omission materially and substantially affected such adoption, revision or amendment.
+        </section>
+    </text>
+</law>

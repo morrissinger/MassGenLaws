@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Duplicate Certificate Of Title</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     If a certificate of title is lost, stolen, mutilated or destroyed or becomes illegible, the first lienholder or, if none, the owner or legal representative of the owner named in the certificate, or any other transferee who has sufficient proof of ownership as determined by the registrar, shall promptly make application for and may obtain a duplicate upon furnishing information satisfactory to the registrar. The duplicate certificate of title shall contain the legend: “This is a duplicate certificate and may be subject to the rights of a person under the original certificate”. It shall be mailed to the first lienholder named in it or, if none, to the owner.
+        </section>
+        <section prefix="b">
+    	     The registrar shall not issue a new certificate of title to a transferee upon application made on a duplicate until fifteen days after receipt of the application.
+        </section>
+        <section prefix="c">
+    	     A person recovering an original certificate of title for which a duplicate has been issued shall promptly surrender the original to the registrar.
+        </section>
+    </text>
+</law>

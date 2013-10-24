@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>110</section_number>
+    <catch_line>Complaint That Customer’S Ixc Or Lec Has Been Switched Without Customer Authorization</catch_line>
+    <order_by>110</order_by>
+    <text>
+        <section prefix="a">
+    	     Either a customer, IXC, or LEC may initiate a complaint that a customer’s IXC or LEC has been switched without the customer’s authorization.
+        </section>
+        <section prefix="b">
+    	     The customer, IXC or LEC shall make the complaint within 90 days after the statement date of the notice indicating that the customer’s IXC or LEC has been switched.
+        </section>
+        <section prefix="c">
+    	     The customer, IXC or LEC shall make the complaint with the department.
+        </section>
+        <section prefix="d">
+    	     The department shall request from the customer: a copy of the customer’s telephone bill, the name of the original IXC or the original LEC, the name of the new IXC or new LEC, and any other information the department deems relevant, within ten business days of receiving the complaint.
+        </section>
+        <section prefix="e">
+    	     The customer shall return the requested information to the department within 15 business days of the department’s notifying the customer.
+        </section>
+        <section prefix="f">
+    	     Within ten business days of receiving the requested information from the customer, the department shall send to: (i) the customer, a letter acknowledging receipt of the information; (ii) the original IXC or original LEC, a letter informing the original IXC or original LEC of the pending complaint and requesting other information relevant to the IXC or LEC switch; (iii) the new IXC or LEC, a letter informing it of the pending complaint, requesting the customer’s LOA or TPV, and requesting other information the department deems relevant; and (iv) the LEC, a letter requesting the customer’s telephone bills for the time period since the alleged unauthorized IXC or LEC switch.
+        </section>
+        <section prefix="g">
+    	     The original IXC or original LEC, and the new IXC or new LEC, shall return the requested information to the department within 15 business days of the department’s request.
+        </section>
+        <section prefix="h">
+    	     Within ten business days after receiving a copy of the customer’s LOA or TPV from the new IXC or new LEC, the department shall send a copy of the LOA or TPV to the customer and notice to the customer that the customer shall provide written notice to the department within 15 business days after receipt whether they intend to challenge the material provided by the new IXC or LEC.
+        </section>
+        <section prefix="i">
+    	     Within 20 business days after receiving the customer’s written response challenging the LOA or TPV, the department shall hold a hearing to determine, based on its review of the LOA or TPV recording and evidence presented by the customer, whether the customer did authorize the change to the new IXC or LEC. Within ten business days after the hearing the department shall render its decision.
+        </section>
+        <section prefix="j">
+    	     Within 20 business days after not receiving a written response from the customer concerning the LOA or TPV, the department shall determine, based on its review of the LOA or TPV recording and any other information relevant to the IXC or LEC switch, whether the customer did authorize the change to the new IXC or LEC. Within ten business days after the hearing the department shall render its decision.
+        </section>
+        <section prefix="k">
+    	     In addition to the procedures prescribed in this section, the department may promulgate rules and regulations to establish an alternative informal procedure for the resolution of such complaints at the election of the customer.
+        </section>
+    </text>
+</law>

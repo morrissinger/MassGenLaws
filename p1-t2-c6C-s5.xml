@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Organization And Function As A Single State Agency For Administrative Purposes; Reporting Requirements; Manager; Annual Information Technology Plan</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall be organized and shall function as a single state agency for administrative purposes including, but not limited to, for the purposes of the accounting and financial system of the commonwealth. The secretary shall, notwithstanding any general or special law to the contrary, identify and consolidate administrative activities and functions common to the separate offices, and divisions within the department and may designate such functions “core administrative functions’ in order to improve administrative efficiency and preserve fiscal resources; provided, however, that common functions that shall be designated core administrative functions shall include, but shall not be limited to, human resources, financial management, information technology, legal, procurement and asset management. All employees performing functions so designated shall be employed directly by the secretary.
+        </section>
+        <section prefix="b">
+    	     On December 15 and at 6-month intervals thereafter, the secretary shall report to the joint committee on transportation, the house and senate committees on bonding, capital expenditures and state assets and the house and senate committees on ways and means on the department’s progress in implementing the requirements of this section, the operating and capital expenditures made by the department in implementing the requirements of this section and on the administrative savings that have been achieved through the implementation of the requirements of this section.
+        </section>
+        <section prefix="c">
+    	     The secretary shall appoint a manager to serve as director of system integration, whose primary responsibility shall be to develop a plan and oversee the implementation of the merger and integration of the organizations and assets comprising the department.
+        </section>
+    </text>
+</law>

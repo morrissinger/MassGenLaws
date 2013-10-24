@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Plan Of Operation Of Insolvency Fund</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="1">
+    	     The insolvency fund shall submit to the commissioner a plan of operation and any amendments thereto necessary or suitable to assure the fair, reasonable and equitable administration of the insolvency fund. The plan of operation and any amendments thereto shall become effective upon approval by the commissioner.
+        </section>
+        <section prefix="2">
+    	     If the insolvency fund fails to submit a plan of operation acceptable to the commissioner within one hundred and eighty days after the organization of the board of directors, or if at any time thereafter the insolvency fund fails to submit acceptable amendments to the plan, the commissioner shall, after notice and hearing, adopt and promulgate such reasonable rules necessary to effectuate the provisions of sections fifteen to thirty, inclusive. Such rules shall continue in force until modified by the commissioner or superseded by a plan submitted by the insolvency fund and approved by the commissioner.
+        </section>
+        <section prefix="a">
+    	     All generators shall comply with the plan of operation.
+        </section>
+        <section prefix="b">
+    	     The plan of operation shall, in addition to requirements enumerated elsewhere:
+        </section>
+        <section prefix="1">
+    	     establish procedures for handling the assets of the insolvency fund,
+        </section>
+        <section prefix="2">
+    	     establish the amount, if any, and method of reimbursing members of the board of directors under section seventeen,
+        </section>
+        <section prefix="3">
+    	     establish regular places and times for meetings of the board of directors,
+        </section>
+        <section prefix="4">
+    	     establish procedures for records to be kept of all financial transactions of the insolvency fund, its agents, and the board of directors,
+        </section>
+        <section prefix="5">
+    	     establish any additional procedures for assessments under section twenty-one,
+        </section>
+        <section prefix="6">
+    	     contain additional provisions necessary or proper for the execution of the powers and duties of the insolvency fund.
+        </section>
+    </text>
+</law>

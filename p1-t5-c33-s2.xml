@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Membership</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The militia of the commonwealth shall consist of all able-bodied male citizens and all other able-bodied males who have declared their intention to become citizens of the United States, between the ages of seventeen and forty-five, and who are residents of the commonwealth, and of such other persons, male and female, as may, upon their own application, be enlisted or commissioned therein pursuant to any provision of this chapter, subject, however, to such exemptions as are now, or may be hereafter, created by law.
+    </text>
+</law>

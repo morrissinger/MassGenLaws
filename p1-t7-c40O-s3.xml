@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40O" order_by="40O" level="3">Business Improvement Districts</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Initiation Of Organization; Contents Of Petition</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     the signatures of the owners of at least fifty-one percent of the assessed valuation of all real property within the proposed BID and sixty percent of the real property owners within the proposed BID;
+        </section>
+        <section prefix="2">
+    	     a description of and a site map delineating the boundaries of the proposed BID;
+        </section>
+        <section prefix="3">
+    	     the proposed improvement plan which shall set forth the supplemental services and programs, revitalization strategy, update mechanism, and budget and fee structures;
+        </section>
+        <section prefix="4">
+    	     the identity and location of the management entity designated to implement and oversee the ongoing improvement plan; and
+        </section>
+        <section prefix="5">
+    	     the criteria for waiving the fee for any property owner within the BID who can provide evidence that the imposition of such fee would create a significant financial hardship.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Rates Of Tax For Residents, Non Residents And Corporate Trusts</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="2">
+    	     Part A taxable income consisting of interest and dividends shall be taxed at the rate of 5.95 per cent provided, however that any interest and dividend income subject to this paragraph shall be taxed at the same rate as provided for in subsection (b) of this section.
+        </section>
+        <section prefix="b">
+    	     Part B taxable income shall be taxed at the rate of 5.3 per cent for tax years beginning on or after January 1, 2002.
+        </section>
+        <section prefix="c">
+    	     Part C taxable income shall be taxed at the same rate as provided for in paragraph (b), excepting Part C taxable income derived from the sale of investments which: (1) are in a corporation which is domiciled in the commonwealth with a date of incorporation on or after January 1, 2011 which has less than $50 million in assets at the time of investment and complies with subsections (e)(1), (e)(2), (e)(5), and (e)(6) of
+        </section>
+    </text>
+</law>

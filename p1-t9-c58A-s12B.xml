@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58A" order_by="58A" level="3">Appellate Tax Board</unit>
+    </structure>
+    <section_number>12B</section_number>
+    <catch_line>Evidence Of Fair Cash Valuation Or Classification Of Property;  Admissibility</catch_line>
+    <order_by>12B</order_by>
+    <text>
+        At any hearing relative to the assessed fair cash valuation or classification of property, evidence as to the fair cash valuation or classification of property at which assessors have assessed other property of a comparable nature or class shall be admissible.
+    </text>
+</law>

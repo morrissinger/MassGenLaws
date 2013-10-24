@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21A" order_by="21A" level="3">Executive Office Of Energy And Environmental Affairs</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Powers And Duties Of Secretary</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="1">
+    	     the power and duty to resolve administrative and jurisdictional conflicts between any such agencies or officers;
+        </section>
+        <section prefix="2">
+    	     the power and duty to implement, upon request of any such agency or officer, programs jointly agreed to by the secretary and such agency or officer;
+        </section>
+        <section prefix="3">
+    	     the power and duty to coordinate and improve program activities involving two or more such agencies or officers;
+        </section>
+    </text>
+</law>

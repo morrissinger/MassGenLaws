@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="25" order_by="25" level="3">Department Of Public Utilities</unit>
+    </structure>
+    <section_number>4C</section_number>
+    <catch_line>Action For Appointment Of Receiver To Oversee Operation Of Investor Owned Electric Distribution, Transmission Or Natural Gas Distribution Company During Existence Of Emergency</catch_line>
+    <order_by>4C</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, “emergency” shall mean a situation or condition which presents a threat to the public safety and welfare of the company’s customers. An organized labor activity conducted for union recognition or as a tactic in contract negotiations shall not, of itself, constitute an emergency.
+        </section>
+        <section prefix="b">
+    	     The court may appoint as a receiver any person appearing on a list established for the purpose by the chairman and the secretary of energy and environmental affairs after the chairman and secretary consult with representatives of investor-owned electric distribution, transmission and natural gas distribution companies.
+        </section>
+        <section prefix="c">
+    	     The purpose of a receivership created under this section shall be to safeguard the health, safety and welfare of the company’s customers. A receiver appointed hereunder shall not take any actions or assume any responsibilities inconsistent with this purpose.
+        </section>
+        <section prefix="d">
+    	     No person shall impede the operation of a receivership created under this section. There shall be an automatic stay for a 120-day period subsequent to the appointment of a receiver, of any action that would interfere with the functioning of the company, including but not limited to, cancellation of insurance policies executed by the company or repossession of equipment used in the facility.
+        </section>
+        <section prefix="e">
+    	     Unless the court determines otherwise, a receivership created under this section shall not exceed 1 year.
+        </section>
+        <section prefix="f">
+    	     A receiver appointed pursuant to this section shall have access to all company utility assets and records and may manage the company’s assets in a manner which will restore or maintain an acceptable level of service. The receiver may hire, direct or manage any employee, discharge any non-union employee, order an internal management audit, expend existing company utility revenues for labor and materials and make additional expenditures essential to providing an acceptable level of service; provided, that such expenditures are funded in accordance with generally accepted utility practices. Any costs incurred by the department or receiver under this section shall be the responsibility of the company. The company may petition the court to determine the reasonableness of any expenditure by the receiver.
+        </section>
+        <section prefix="g">
+    	     The court shall set a reasonable compensation for the receiver that is consistent with the regulations of the department. Such compensation shall be paid from the revenues of the company.
+        </section>
+        <section prefix="h">
+    	     No person shall bring an action against a receiver appointed under this section without first securing leave of court. The receiver shall be deemed the beneficiary of any insurance policies held by the company relating to the liability of directors or officers of the company.
+        </section>
+        <section prefix="i">
+    	     The department may promulgate rules and regulations, as necessary, for the implementation of this section.
+        </section>
+        <section prefix="j">
+    	     Notwithstanding the foregoing, this section shall not apply to an electric or gas distribution company serving less than 100,000 customers within the commonwealth that has an affiliate in the state which serves more than 100,000 customers within the commonwealth and the affiliates perform emergency restoration jointly.
+        </section>
+    </text>
+</law>

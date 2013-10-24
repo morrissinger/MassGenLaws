@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="4" order_by="4" level="3">Statutes</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Effective Date Of Statutes</catch_line>
+    <order_by>1</order_by>
+    <text>
+        A statute enacted by the general court which may be made the subject of a referendum petition and which is declared therein to be an emergency law, unless otherwise expressly provided therein, shall take effect as soon as it has the force of a law conformably to the constitution. A statute so enacted which may not be made the subject of such a petition and for which a different time of taking effect is not therein expressly provided shall take effect as soon as it has the force of a law as aforesaid if it is declared therein to be an emergency law, otherwise on the thirtieth day next after the earliest day on which it has the force of a law as aforesaid; provided, that a statute so enacted which may not be made the subject of such a petition and which is to take effect upon its acceptance by a municipal or other corporation or by any board or officer thereof, unless otherwise expressly provided therein, shall, for the purpose of such acceptance only, take effect as soon as it has the force of a law as aforesaid.
+    </text>
+</law>

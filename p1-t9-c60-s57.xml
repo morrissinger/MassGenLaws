@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Affidavit Of Collector, Etc.; Evidence</catch_line>
+    <order_by>57</order_by>
+    <text>
+        The affidavit of the collector, deputy collector or disinterested person reciting the proceedings required by law in the sale of land for taxes, with copies of the advertisement and notices annexed thereto, recorded within three months after such sale in the registry of deeds, shall be competent evidence of demand, notice and service.
+    </text>
+</law>

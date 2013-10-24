@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>16I</section_number>
+    <catch_line>Severability Of Sections Relating To Regional School Districts</catch_line>
+    <order_by>16I</order_by>
+    <text>
+        If any provision of said sections, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of said sections and the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+    </text>
+</law>

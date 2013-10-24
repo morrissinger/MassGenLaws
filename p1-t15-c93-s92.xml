@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>92</section_number>
+    <catch_line>Advertisement For Consumer Lease; Statement Regarding Payment</catch_line>
+    <order_by>92</order_by>
+    <text>
+        <section prefix="a">
+    	     If an advertisement for a consumer lease states the amount of any payment or states that any or no initial payment is required, the advertisement shall also clearly and conspicuously state the following items, as applicable:
+        </section>
+        <section prefix="1">
+    	     that the transaction advertised is a lease;
+        </section>
+        <section prefix="2">
+    	     the total of initial payments required at or before execution of the lease or delivery of the property, whichever is later;
+        </section>
+        <section prefix="3">
+    	     that a security deposit is required, if applicable;
+        </section>
+        <section prefix="4">
+    	     the number, amounts, and timing of scheduled payments;
+        </section>
+        <section prefix="5">
+    	     for a lease in which the liability of the lessee at the end of the lease term is based on the anticipated residual value of the property, that an extra charge may be imposed at the end of the lease term.
+        </section>
+        <section prefix="b">
+    	     If an advertisement for a consumer lease refers to or states the amount of any payment and that the lessee has the right to acquire ownership of any particular item, the advertisement shall further clearly and conspicuously state the following items, as applicable:
+        </section>
+        <section prefix="1">
+    	     the total of payments necessary to acquire ownership if ownership is acquired through the accumulation of periodic payments, or the price at which the leased property may be purchased at the end of the lease, and if an ongoing option to purchase shall exist, the method of determining the purchase price at any point in time if acquired through the exercise of the option to purchase;
+        </section>
+        <section prefix="2">
+    	     that the consumer acquires no ownership rights if the total amount necessary to acquire ownership is not paid or the option to purchase is not exercised by payment of the purchase price.
+        </section>
+        <section prefix="c">
+    	     Any owner or the agents or employees of any owner of any medium in which an advertisement appears or through which it is disseminated shall not be liable under this section.
+        </section>
+    </text>
+</law>

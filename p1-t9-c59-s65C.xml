@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>65C</section_number>
+    <catch_line>Late Appeals</catch_line>
+    <order_by>65C</order_by>
+    <text>
+        If a person has, by reason of the failure of the board of assessors to act upon an application for abatement, a right of appeal to the appellate tax board under section sixty-five but the board of assessors failed to send written notice of such inaction to the applicant within ten days as provided in section sixty-three and by mistake or accident such person fails to enter such appeal in said board within the time prescribed by section sixty-five, said board, upon petition filed within two months after the appeal should have been entered, and after notice and hearing, and upon terms, may allow such person to enter his appeal.
+    </text>
+</law>

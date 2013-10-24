@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Legal, Medical, Dental Or Veterinary Officers; Qualifications</catch_line>
+    <order_by>21</order_by>
+    <text>
+        No person shall be eligible to appointment, or be appointed, as a legal, medical, dental or veterinary commissioned officer unless he is duly registered in accordance with the laws of the commonwealth, and complies with its laws relative to the practice of his profession.
+    </text>
+</law>

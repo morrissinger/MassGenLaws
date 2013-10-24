@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Reports And Bulletins</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The trustees shall annually as of the end of the fiscal year cause the president to make and publish a report for the university that shall be available to the public, copies of which shall be filed with the governor, state secretary and the general court. Special reports and bulletins may be issued from time to time as determined by the trustees.
+    </text>
+</law>

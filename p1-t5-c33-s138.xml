@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>138</section_number>
+    <catch_line>Massachusetts Military Reservation Fire Department</catch_line>
+    <order_by>138</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section the following words shall, unless the context clearly requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     There shall be within the military division a Massachusetts military reservation fire department. The department shall provide air crash crew and fire protection services on the Massachusetts military reservation. The department shall be under the supervision and control of the chief of the Massachusetts military reservation fire department.
+        </section>
+    </text>
+</law>

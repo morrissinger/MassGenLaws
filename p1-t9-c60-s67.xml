@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Default</catch_line>
+    <order_by>67</order_by>
+    <text>
+        After the return day fixed, to be at least twenty days after the time of the actual issuance of notice, the court shall, if satisfied that the notice has been properly given, on motion of the petitioner enter an order defaulting all persons failing to appear and answer, and decreeing that the petition as to them be taken as confessed.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Certification Of Assisted Living Residences; Exemptions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     convalescent homes, nursing homes, rest homes, charitable homes for the aged or intermediate care facilities for persons with an intellectual disability licensed pursuant to section seventy-one of chapter one hundred and eleven;
+        </section>
+        <section prefix="2">
+    	     hospices licensed pursuant to the provisions of section fifty-seven D of chapter one hundred and eleven;
+        </section>
+        <section prefix="3">
+    	     facilities providing continuing care to residents as defined by section seventy-six of chapter ninety-three;
+        </section>
+        <section prefix="4">
+    	     congregate housing authorized by section thirty-nine of chapter one hundred and twenty-one B;
+        </section>
+        <section prefix="5">
+    	     group homes operating under contract with the department of mental health or the department of developmental services; or
+        </section>
+        <section prefix="6">
+    	     housing operated for only those duly ordained priests, or for the members of the religious orders of the Roman Catholic church in their own locations, buildings, residences or headquarters to provide care, shelter, treatment and medical assistance for any of the said duly ordained priests or members of the said religious orders.
+        </section>
+    </text>
+</law>

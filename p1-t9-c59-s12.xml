@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Mortgaged Real Estate</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If any person has an interest in real estate, not exempt from taxation under section five, as holder of a duly recorded mortgage given to secure the payment of a fixed and certain sum of money, the amount of his interest as mortgagee shall be assessed as real estate in the town where the land lies; and the mortgagor shall be assessed only for the value of such real estate after deducting the assessed value of the interest therein of such mortgagee. If such estate is situated in two or more towns, the amount of the mortgagee’s interest to be assessed in each town shall be proportioned to the assessed value of the mortgaged real estate in the respective towns, deducting therefrom the taxable amount of prior mortgages, if any, thereon.
+    </text>
+</law>

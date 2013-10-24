@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65B" order_by="65B" level="3">Settlement Of Disputes Respecting The Domicile Of Decedents For Death Tax Purposes</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Determination Of Domicile On Failure To Agree</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Where only this commonwealth and one other state are involved, the commissioner and the taxing official of such other state shall each appoint a member of a board of arbitration, and the members so appointed shall select the third member of the board. If this commonwealth and more than one other state are involved, the taxing officials thereof shall agree upon the authorities charged with the duty of administering death tax laws in three states not involved, each of which authorities shall appoint a member of the board. The members of the board shall elect one of their number as chairman.
+        </section>
+        <section prefix="b">
+    	     Such board shall hold hearings at such places as are deemed necessary, upon reasonable notice to the executors, ancillary administrators, all other interested persons, and the taxing officials of the states involved, all of whom shall be entitled to be heard.
+        </section>
+        <section prefix="c">
+    	     Such board shall have power to administer oaths, take testimony, subpoena and require the attendance of witnesses and the production of books, papers and documents and issue commissions to take testimony. Subpoenas may be issued by any member of the board. Failure to obey a subpoena may be punished by a judge or justice of any court of record in the same manner as if the subpoena had been issued by such judge or justice or by the court in which such judge or justice functions.
+        </section>
+        <section prefix="d">
+    	     Such board shall apply, whenever practicable, the rules of evidence which prevail in federal courts under the federal rules of civil procedure at the time of the hearing.
+        </section>
+        <section prefix="e">
+    	     Such board shall, by majority vote, determine the domicile of the decedent at the time of his death. Such determination shall be final and conclusive, and shall bind this commonwealth and all of its judicial and administrative officials on all questions concerning the domicile of the decedent for death tax purposes.
+        </section>
+        <section prefix="f">
+    	     The reasonable compensation and expenses of the members of the board and employees thereof shall be agreed upon among such members, the taxing officials of the states involved, and the executors. In the event an agreement cannot be reached, such compensation and expenses shall be determined by such taxing officials, and, if they cannot agree, by the appropriate probate court of the state determined to be the domicile. Such amount shall be borne by the estate and shall be deemed an administration expense.
+        </section>
+        <section prefix="g">
+    	     The determination of such board and the record of its proceeding shall be filed with the authority having jurisdiction to assess the death tax in the state determined to be the domicile of the decedent and with the authorities which would have had jurisdiction to assess the death tax in each of the other states involved if the decedent had been found to be domiciled therein.
+        </section>
+    </text>
+</law>

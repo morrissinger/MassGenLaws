@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Selling Real Estate For Payment Of Tax</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The probate court may authorize executors, administrators and trustees to sell the real estate of a decedent for the payment of said tax in the same manner as it may authorize them to sell real estate for the payment of debts.
+    </text>
+</law>

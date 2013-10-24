@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>32C</section_number>
+    <catch_line>Class D Controlled Substances; Unlawful Manufacture, Distribution, Dispensing, Cultivation Or Possession With Intent To Manufacture, Etc.</catch_line>
+    <order_by>32C</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who knowingly or intentionally manufactures, distributes, dispenses or cultivates, or possesses with intent to manufacture, distribute, dispense or cultivate a controlled substance in Class D of section thirty-one shall be imprisoned in a jail or house of correction for not more than two years or by a fine of not less than five hundred nor more than five thousand dollars, or both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Any person convicted of violating this section after one or more prior convictions of manufacturing, distributing, dispensing, cultivating or possessing with intent to manufacture, distribute, dispense or cultivate a controlled substance as defined by section thirty-one under this or any prior law of this jurisdiction or of any offense of any other jurisdiction, federal, state, or territorial, which is the same as or necessarily includes the elements of said offense shall be punished by a term of imprisonment in a jail or house of correction for not less than one nor more than two and one-half years, or by a fine of not less than one thousand nor more than ten thousand dollars, or both such fine and imprisonment.
+        </section>
+    </text>
+</law>

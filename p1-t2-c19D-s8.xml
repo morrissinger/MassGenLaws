@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Operating Without Certification; Penalty</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person operating an assisted living residence without certification under this chapter shall be subject to liability for a civil penalty of not more than five hundred dollars for each day of such violation assessable by the superior court. Any such violation also shall constitute grounds for refusing to grant or renew, modifying or revoking the certification of the assisted living residence or of any part thereof. Notwithstanding the existence or use of any other remedy, the department may, in the manner provided by law, maintain an action in the name of the commonwealth for an injunction or other process against any person to restrain or prevent the operation of an assisted living residence without certification under this chapter.
+        </section>
+        <section prefix="b">
+    	     No person shall knowingly refer an individual for residency to an uncertified assisted living residence. Any person who violates this subsection shall be subject to a civil penalty of not more than five hundred dollars for each such violation assessable by the superior court.
+        </section>
+    </text>
+</law>

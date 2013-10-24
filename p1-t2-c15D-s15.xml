@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Penalties For Violations Of Sec. 6</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who violates section 6 shall be punished for each violation by a fine of up to $5,000 or by imprisonment in the house of correction for not more than 21/2 years, or by both.
+        </section>
+        <section prefix="b">
+    	     Upon petition of the department, the superior court shall have jurisdiction to enjoin any violation of said section 6 or to take other action that equity and justice may require.
+        </section>
+    </text>
+</law>

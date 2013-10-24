@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>307B</section_number>
+    <catch_line>Manufacture Of Tobacco Products; Annual Reports Including Added Constituents And Nicotine Yield Ratings; Disclosure; Exclusions</catch_line>
+    <order_by>307B</order_by>
+    <text>
+        <section prefix="a">
+    	     The identity of any added constituent other than tobacco, water or reconstituted tobacco sheet made wholly from tobacco, to be listed in descending order according to weight, measure, or numerical count; and
+        </section>
+        <section prefix="b">
+    	     The nicotine yield ratings, which shall accurately predict nicotine intake for average consumers, based on standards to be established by the department of public health.
+        </section>
+    </text>
+</law>

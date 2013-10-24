@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Executor’S Liability For Tax</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The tax imposed by this chapter shall be paid by the executor. The term “executor”, wherever used in this chapter, means the executor or administrator of the decedent, or, if there is no executor or administrator appointed, qualified and acting within the commonwealth, then any person in actual or constructive possession of any property of the decedent. The probate court may authorize an executor to sell so much of the property of the estate as will enable him to pay such tax in the same manner as it may authorize him to sell such property for the payment of debts.
+        </section>
+        <section prefix="b">
+    	     No final account of an executor of any estate shall be allowed by the probate court unless and until the executor shall have filed in the probate court a certificate of the commissioner showing either that the amount of the tax has been paid, that payment thereof has been secured as provided in section ten, or that no tax is due. For dates of death on or after January 1, 1997, said certificate of the commissioner shall not be required.
+        </section>
+    </text>
+</law>

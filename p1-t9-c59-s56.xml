@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Lost Or Destroyed Warrants</catch_line>
+    <order_by>56</order_by>
+    <text>
+        If a warrant issued for the collection of taxes is lost or destroyed, the assessors may issue a new warrant therefor, which shall have the same force and effect as the original warrant.
+    </text>
+</law>

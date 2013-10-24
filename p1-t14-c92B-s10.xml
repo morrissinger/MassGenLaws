@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="92B" order_by="92B" level="3">Commonwealth Zoological Corporation</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Existing Agreements; Incorporation By Reference</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The provisions of this chapter shall be construed to incorporate by reference any existing agreements between the commission and any other entity, public or private, except as otherwise provided in this chapter. The provisions of this chapter shall, to the extent permitted by law, be deemed to supersede any terms or conditions of any existing agreements which are in conflict with the provisions of this chapter.
+    </text>
+</law>

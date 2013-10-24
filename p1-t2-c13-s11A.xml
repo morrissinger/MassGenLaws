@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="13" order_by="13" level="3">Division And Boards Of Registration</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Board Of Allied Health Professionals; Membership; Appointment;  Term; Removal; Election Of Officers; Expenses; Powers And Duties</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall administer, coordinate, and enforce the provisions of this section, evaluate the qualifications, and approve the examinations for licensure under this section, and may issue subpoenas, examine witnesses, and administer oaths, and may investigate allegations of practices violating the provisions of this section.
+        </section>
+        <section prefix="b">
+    	     The board shall adopt rules and regulations relating to professional conduct to carry out the policy of this section including, but not limited to, regulations relating to professional licensure and to the establishment of ethical standards of practice for persons holding a license to practice athletic training, occupational therapy, or physical therapy in the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The board shall conduct such hearings and keep such records and minutes as are necessary to carry out its duties. The board shall provide reasonable public notice of the times and places of all hearings authorized under this section, in such manner and at such times as it may determine.
+        </section>
+    </text>
+</law>

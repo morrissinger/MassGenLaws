@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>69B</section_number>
+    <catch_line>Endowment Incentive Holding Fund</catch_line>
+    <order_by>69B</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be set up on the books of the commonwealth a separate fund to be known as the Endowment Incentive Holding Fund to be used, without appropriation, for purposes outlined in section 15E of chapter 15A. The board of higher education shall administer the fund and shall be its trustee. No monies deposited into this holding fund that are unexpended at the end of the fiscal year shall revert to the General Fund. No expenditure from said fund shall cause said fund to be in a deficiency at the close of a fiscal year.
+        </section>
+    </text>
+</law>

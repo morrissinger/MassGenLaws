@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Loss By Manufacturer, Distributor Or Motor Vehicle Dealer; Settlement Conference; Suit For Damages And Equitable Relief; Offer Of Settlement; Attorneys’ Fees And Costs; Exclusive Rights And Remedies</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Any manufacturer, distributor or motor vehicle dealer who suffers any loss of money or property, real or personal, as a result of the use or employment by a manufacturer, distributor or motor vehicle dealer of an unfair method of competition or an unfair or deceptive act or practice as defined by this chapter, any act prohibited or declared unlawful by this chapter, or any rule or regulation adopted under this chapter, may bring an action in the superior court, or if applicable in the federal district court for the district of Massachusetts, for damages and equitable relief, including injunctive relief, as described in the following sentence: The party filing suit may obtain equitable relief if it can be demonstrated: (1) that the unfair method of competition, deceptive act or practice, or violation if not enjoined would have a substantial likelihood of causing loss of money or property or of causing damage to the public, and (2) that all other customary standards governing the issuance of injunctive relief in accordance with Massachusetts or Federal Rules of Civil Procedure, as applicable, are met.
+        </section>
+        <section prefix="b">
+    	     Before filing suit under any section of this chapter except section 8, all parties to the dispute shall meet and confer for purposes of discussing settlement. Failure to do so may be deemed evidence during any court proceeding of bad faith on the part of the party making no reasonable effort, or ignoring others’ efforts, to confer. If the party prevailing in the suit made no reasonable effort, or ignored others’ efforts, to so confer, the party shall be prohibited from collecting an award of attorneys’ fees as described in subsection (c).
+        </section>
+        <section prefix="c">
+    	     If the prevailing party in any action or protest brought under this chapter successfully demonstrates to the court that the actions, claims or defenses of the other party were asserted in bad faith, then the court shall, in addition to other relief provided for by this chapter and notwithstanding the amount in controversy and whether the prevailing party has sustained any actual damage, award to the prevailing party its reasonable costs of suit, including reasonable attorneys’ fees.
+        </section>
+        <section prefix="d">
+    	     Any person against whom any claim is asserted under this section may tender within 30 days after service of the complaint in the action a written offer of settlement containing specific settlement terms. If the offer of settlement is not accepted within 15 days by the other person, and the court finds that the relief offered was reasonable in relation to the injury actually suffered, not including attorneys’ fees and costs, the court award shall not exceed the offer. This subsection shall limit any award of attorneys’ fees or costs awarded pursuant to subsection (c).
+        </section>
+        <section prefix="e">
+    	     The rights and remedies provided for in this chapter shall be the exclusive rights and remedies available under state law arising out of a violation of this chapter. Notwithstanding any term or provision of a franchise agreement to the contrary: (1) the laws of the commonwealth shall govern the interpretation of the franchise agreement of a motor vehicle dealer located in the commonwealth and the performance of the parties thereunder, and (2) the courts of the commonwealth and the federal courts with jurisdiction over cases filed in the district of Massachusetts shall have exclusive jurisdiction with respect to any action brought under this chapter or any action brought by a manufacturer, distributor or motor vehicle dealer concerning the franchise of a motor vehicle dealer located in the commonwealth.
+        </section>
+    </text>
+</law>

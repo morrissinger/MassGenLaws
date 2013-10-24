@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>91B</section_number>
+    <catch_line>Delivery Of Ballots</catch_line>
+    <order_by>91B</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as required by subsections (b) and (c), the ballot and accompanying papers shall be mailed postage prepaid or, if the voter so requests, delivered when called for at the office of the clerk. No ballot shall be mailed to a designated health care facility within the city or town where the voter is registered.
+        </section>
+        <section prefix="b">
+    	     To a voter who is a patient or resident at a designated health care facility, the ballot and accompanying papers shall be delivered, in person, by a registrar, assistant registrar or absent registration officer, at the designated address. For the purposes of this section, a “designated health care facility” shall mean a health care facility as defined in section twenty-five B of chapter one hundred and eleven, within the city or town, which has been designated for the purpose of supervised absentee voting, in writing, and filed with the city or town clerk, not later than twenty-eight days before a primary or election, by any two registrars or election commissioners.
+        </section>
+        <section prefix="c">
+    	     To a voter who states, under penalty of perjury, that he has been admitted to a health care facility, as defined in section twenty-five B of chapter one hundred and eleven after noon of the fifth day before the relevant election, the ballot and accompanying papers shall, unless the clerk determines that there is insufficient time, be delivered in the same manner as provided in subsection (b); provided, however, that if permitted in the sole discretion of the city or town clerk, a person designated in writing by the voter and who is not a candidate for an office at the election, may instead perform the functions of an election official. If the health care facility is outside the city or town and no such family member is available for such purpose, the ballot need not be delivered in person, but may be mailed.
+        </section>
+    </text>
+</law>

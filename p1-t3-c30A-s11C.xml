@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>11C</section_number>
+    <catch_line>Hearings In Municipalities</catch_line>
+    <order_by>11C</order_by>
+    <text>
+        Any agency which is required by law to conduct hearings, shall, if the subject matter of such hearing solely concerns a single municipality, hold such hearing or a substantial portion thereof in such municipality upon receipt of a written request from the mayor of a city, the board of selectmen of a town, or the council of a municipality having a manager-council form of government received by the agency not less than fourteen days before the scheduled date of the hearing. If the subject matter of such hearing solely concerns a particular geographic area of the commonwealth, the agency shall hold such hearing or a substantial portion thereof within such geographic area upon receipt of written requests from a majority of the mayors, boards of selectmen and councils of the cities and towns which constitute such geographic area received by the agency not less than fourteen days before the scheduled date of the hearing. The municipality in which the hearing is held shall provide a hearing room and other necessary facilities for such hearing. If no suitable place for holding such hearing is available in the municipality, the municipality may arrange for the holding of the hearing in another city or town that is reasonably convenient. This section shall not apply to hearings held as part of an adjudicatory proceeding, but this sentence shall not be construed to restrict an agency from holding an adjudicatory hearing in any appropriate location.
+    </text>
+</law>

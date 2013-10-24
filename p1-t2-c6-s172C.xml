@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>172C</section_number>
+    <catch_line>Dissemination Of Criminal Offender Record Information To Agencies Employing Or Referring Individuals To Provide Services To Elderly Or Disabled Persons</catch_line>
+    <order_by>172C</order_by>
+    <text>
+        <section prefix="1">
+    	     any agency which provides homemaker, home health aide, companion or other community based services to elderly persons or disabled persons in home or community based settings, including, but not limited to home health agencies certified under Title XVIII of the Social Security Act;
+        </section>
+        <section prefix="2">
+    	     a home care corporation established pursuant to the provisions of chapter nineteen A;
+        </section>
+        <section prefix="3">
+    	     a municipality; or
+        </section>
+        <section prefix="4">
+    	     any agency or organization that employs or refers personal care attendants; or
+        </section>
+        <section prefix="5">
+    	     any other entity receiving federal, state or local funds.
+        </section>
+    </text>
+</law>

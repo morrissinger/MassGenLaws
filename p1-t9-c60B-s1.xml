@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60B" order_by="60B" level="3">Excise On Boats, Ships And Vessels In Lieu Of Local Property Tax</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, the following words shall, unless the context clearly requires otherwise, have the following meanings: 
+“Vessel”, every watercraft, including documented boats and ships, used or capable of being used as a means of transportation on water, and includes all equipment, including mode of power, and furnishings that are normally required aboard the vessel during accomplishment of the functions for which the vessel is being utilized. 
+“Habitually moored or docked”, the place where the owner has usual mooring or dockage for the summer season. 
+“Principally situated”, for a registered ship or vessel where it is registered, and for a non registered ship or vessel, whether documented or not, the city or town in Massachusetts where it is principally located during the calendar year.
+    </text>
+</law>

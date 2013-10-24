@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>16G</section_number>
+    <catch_line>Liability Of Towns For Expenses Of District</catch_line>
+    <order_by>16G</order_by>
+    <text>
+        No town in a regional school district shall be liable for any obligation imposed on any other town in said district by authority of sections fourteen to sixteen I, inclusive, or of any agreement thereunder, any other provision of law to the contrary notwithstanding.
+    </text>
+</law>

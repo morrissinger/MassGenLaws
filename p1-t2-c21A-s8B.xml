@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21A" order_by="21A" level="3">Executive Office Of Energy And Environmental Affairs</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Chairman; Duties Of Commission</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        <section prefix="a">
+    	     development of a water resources management policy framework within which the water resource policies, plans and management programs of the several agencies and departments under the secretary shall function;
+        </section>
+        <section prefix="b">
+    	     coordination of water resources planning and management functions among the several agencies and departments under the secretary;
+        </section>
+        <section prefix="c">
+    	     review and comment on all policies brought before the commission;
+        </section>
+        <section prefix="d">
+    	     annual review and comment on all programs relating to water resource management of the several agencies and departments under the secretary;
+        </section>
+        <section prefix="e">
+    	     establishment of criteria and priorities for all water resource-related cooperative programs with the federal government, with any other state, or with any executive office, department, or division of the commonwealth;
+        </section>
+        <section prefix="f">
+    	     development and periodic updating of comprehensive water resource management plans for river basins, giving consideration to regional and statewide needs and to integration of waste-water management into water resource planning;
+        </section>
+        <section prefix="g">
+    	     development of water allocation criteria which takes into account demographic, hydrologic, and environmental characteristics;
+        </section>
+        <section prefix="h">
+    	     development of a management information system and data processing capability for the central collection, storage and retrieval of water resource management information. Further, the commission may be responsible for dissemination of said information to the several agencies and departments under the secretary, to other state agencies and to the public on request. A fee may be charged for retrieval of information from said system.
+        </section>
+        <section prefix="i">
+    	     development of an education program which encouraged broad public participation at both municipal and regional levels, with emphasis on encouragement of long term water resource and wastewater planning and management by municipalities and by regional planning agencies.
+        </section>
+    </text>
+</law>

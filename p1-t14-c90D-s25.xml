@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Disclosure Of Information By Lienholder</catch_line>
+    <order_by>25</order_by>
+    <text>
+        A lienholder named in a certificate of title shall, upon written request of the owner or of another lienholder named on the certificate, disclose any pertinent information as to his security agreement and the indebtedness secured by it.
+    </text>
+</law>

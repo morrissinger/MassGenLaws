@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>38B</section_number>
+    <catch_line>Financial Institutions And Business Corporations Engaged Exclusively In Buying, Selling, Dealing In Or Holding Securities; Excise Rate</catch_line>
+    <order_by>38B</order_by>
+    <text>
+        <section prefix="a">
+    	     Every financial institution or business corporation which is engaged exclusively in buying, selling, dealing in, or holding securities on its own behalf and not as a broker, except securities of a DISC, and is not a bank holding company under the Internal Revenue Code, as amended and in effect for the taxable year, and, which either applies to the commissioner to be classified as a security corporation before the end of the taxable year and is so classified, or has been so classified by the commissioner for a prior taxable year and such classification has not been revoked before the end of the taxable year, shall pay, on account of each taxable year, an excise equal to one and thirty-two one hundredths percent of the gross income, as defined in section thirty, received by such corporation during the taxable year or four hundred and fifty-six dollars, whichever is greater.
+        </section>
+        <section prefix="b">
+    	     Every financial institution business corporation which is engaged exclusively in buying, selling, dealing in, or holding securities on its own behalf and not as a broker, except securities of a DISC, and is a bank holding company under the Internal Revenue Code, as amended and in effect for the taxable year, and which either applies to the commissioner to be classified as a security corporation before the end of the taxable year and is so classified, or has been so classified by the commissioner for a prior taxable year and such classification has not been revoked before the end of the taxable year, shall pay, on account of such taxable year, an excise equal to thirty-three one hundredths percent of the gross income, as defined in section thirty, received by such corporation during the taxable year or four hundred and fifty-six dollars, whichever is greater.
+        </section>
+        <section prefix="c">
+    	     Any corporation taxable under this section shall not be subject to the excise imposed by section 2, 2B, 32D or 39.
+        </section>
+        <section prefix="d">
+    	     Ownership interest in a real estate investment trust which is a related member, as defined in section 31I, shall not be considered a security for the purposes of this section. A real estate investment trust shall have the same meaning as that contained in section 856 of the Code.
+        </section>
+    </text>
+</law>

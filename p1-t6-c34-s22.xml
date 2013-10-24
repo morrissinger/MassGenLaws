@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34" order_by="34" level="3">Counties And County Commissioners</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Breach Or Neglect Of Duty; Penalty</catch_line>
+    <order_by>22</order_by>
+    <text>
+        For wilful breach or neglect of a duty imposed by law, a county commissioner or clerk of the county commissioners shall forfeit not less than fifty nor more than one thousand dollars, recoverable to the use of the county, at the suit of the attorney general.
+    </text>
+</law>

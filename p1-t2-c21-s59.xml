@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Watershed Preservation Restrictions Program</catch_line>
+    <order_by>59</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary of environmental affairs shall establish a program to assist the commonwealth in the acquisition of watershed preservation restrictions, as defined in section 31 of chapter 184, for land classified as watershed land as defined in regulations to be promulgated by the department of conservation and recreation.
+        </section>
+        <section prefix="b">
+    	     The commissioner of the department of conservation and recreation, the “commissioner”, may from funds appropriated to carry out the provisions of this section, or received from other sources, pay the owner of watershed lands which he determines to be beneficial to the maintenance of the water supply of the commonwealth an amount determined to be equitable but not to exceed the difference between the fair market value of such land and the fair market value of such land restricted for watershed purposes pursuant to this section. Title to such watershed preservation restrictions shall be held in the name of the commonwealth; provided, however, that a city or town in which such land is located, which provides assistance satisfactory to the commissioner, including but not limited to providing of funds or portions thereof toward the purchase of such restriction, the providing of legal services and the enforcement of the preservation restriction, shall hold title to such restrictions jointly with the commonwealth.
+        </section>
+        <section prefix="c">
+    	     Watershed preservation restriction projects shall be administered by conservation commissions in cities and towns in which such commissions have been established, or in a city, by the city council or its delegated agency subject to the provisions of the city charter, or in a town, by the board of selectmen or its delegated agency. The commissioner, subject to the approval of the secretary of environmental affairs, shall establish procedures for the management of such programs.
+        </section>
+    </text>
+</law>

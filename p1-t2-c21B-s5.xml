@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21B" order_by="21B" level="3">Mining Regulation And Reclamation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Mining Licenses; Certificate Of Insurance Coverage; Surety Bonds;  License Violations; Fees And Receipts; Hearings</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     a detailed description of the type of mining and engineering process to be used;
+        </section>
+        <section prefix="b">
+    	     the names and addresses of the license applicant and all owners and officers of the corporations and companies to be involved with the mining operation;
+        </section>
+        <section prefix="c">
+    	     the names and addresses of all legal owners of record of the land and abutting lands;
+        </section>
+        <section prefix="d">
+    	     the names and addresses of all owners of the coal to be mined;
+        </section>
+        <section prefix="e">
+    	     the total size of the area to be mined and area to be worked at any one time;
+        </section>
+        <section prefix="f">
+    	     the results of test borings and explorations that have been made;
+        </section>
+        <section prefix="g">
+    	     a timetable giving a detailed time period that will govern the operation of the mine and the estimated closing out of mined areas;
+        </section>
+        <section prefix="h">
+    	     a detailed set of maps drawn to a scale of not more than one hundred feet to one inch, delineating the following information: the names and locations of all streams, creeks, above and below ground water systems including all aquifers; a statement describing the quality of the water present in the area to be mined; the location of all buildings, oil and gas wells, all pipelines and communication lines, or any pertinent resource or structure within five hundred feet of the farthest boundary of any extension of the mine or mining operation; the proposed depths and extensions of all tunnels and shafts as well as any excavations and mine workings or any waste disposal or mine refuse areas; the thickness and distribution of the coal deposit, the soil and mineral stratification of the area and any other geological characteristics that would be affected by any coal mining operation; the location of all exploratory drill holes and the remainder of the coal deposit not to be extracted by the mining operation and any other information which the commissioner deems necessary.
+        </section>
+        <section prefix="i">
+    	     an environmental impact report containing detailed statements describing the nature and extent of the proposed work and related activities and its environmental impact, all measures being utilized to minimize environmental damage, any adverse short term and long term environmental consequences which cannot be avoided should the work be performed, alternatives to the proposed action and their environmental consequences. This impact statement shall deal specifically with all of the potential hazards of the proposed mine including coal dust, mine gases, or toxic vapors escaping from the mine, and the potential for mine fires and water contamination that may result from operation of the mine;
+        </section>
+        <section prefix="j">
+    	     a comprehensive reclamation plan including maps and potential land use patterns and a detailed proposal showing the manner and timetable for backfilling, sealing of tunnels and any other reclamation procedures required by the commissioner;
+        </section>
+        <section prefix="k">
+    	     an advertisement for publication in the newspaper with the largest circulation in the county of the proposed mining site at least once each week for four successive weeks prior to public hearings as hereinafter required in this section. The advertisement shall state the applicant’s intention to mine, the mining procedures to be used, the proposed boundaries of the mining operation, a statement that a detailed map of the proposed operation is available from the company upon request and that the application and environmental impact can be inspected at the office of the commissioner;
+        </section>
+        <section prefix="l">
+    	     a license fee to be determined annually by the commissioner of administration under the provision of section three B of chapter seven, a certain portion of which, determined by said commissioner, shall accompany the application.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>20E</section_number>
+    <catch_line>Liability Of Lessors Of Motor Vehicles For Parking Violations</catch_line>
+    <order_by>20E</order_by>
+    <text>
+        <section prefix="a">
+    	     The parking clerk shall give to the registered owner notice in writing of each violation in which a motor vehicle owned by such owner is involved, including the registration number of the vehicle, the state of issuance of such registration of the vehicle involved and the date, time and place of the violation.
+        </section>
+        <section prefix="b">
+    	     Within 45 days, the registered owner shall furnish to such parking clerk in writing the name and address of the lessee or rentee of such motor vehicle at the time of such violation; and if the lessee or rentee is also the operator, the lessee’s or rentee’s driver’s license number, state of issuance of such driver’s license and the lessee’s or rentee’s date of birth.
+        </section>
+        <section prefix="c">
+    	     The parking clerk shall thereupon issue a notice of violation to such lessee or rentee in the form prescribed by section twenty A or twenty A1/2.
+        </section>
+        <section prefix="d">
+    	     If such lessee or rentee does not appear in person or by writing as otherwise provided in section twenty A, twenty A1/2, or any other general or special law concerning parking violations, or make payment within twenty-one days from the date on which such notice is issued, the parking clerk shall notify the registrar as provided by the provisions of section twenty A, twenty A1/2, or any other general or special law concerning parking violations, and the clerk of the division of the district court department or Boston municipal court department of the trial court having jurisdiction. Upon notification by the parking clerk, the registrar shall suspend and shall not renew the license to operate a motor vehicle of such lessee or rentee or suspend the right to operate of a lessee or rentee not licensed in this commonwealth; and the clerk of the district court of the trial court having jurisdiction shall forthwith issue a criminal complaint against the lessee or rentee and thereafter proceed against such lessee or rentee following the procedures established for criminal cases. The registrar shall remove any suspension and nonrenewal of license or right to operate made under the provisions of this section upon the payment in full to the parking clerk of the fine and penalty for such violation by the lessee or rentee.
+        </section>
+        <section prefix="e">
+    	     The provisions of section twenty A, section twenty A1/2, or any other general or special law concerning parking violations, shall be applicable to lessees and rentees of motor vehicles as provided herein.
+        </section>
+        <section prefix="f">
+    	     Any registered owner and parking clerk may, by agreement upon such terms and conditions as they may deem appropriate, provide for the transmission of the information referred to in subsections (a) and (b), on magnetic tape or in other computer readable format, in order to expedite completion of the foregoing provisions.
+        </section>
+        <section prefix="g">
+    	     The written notice referred to in subsection (a) shall be sent to the registered owner no later than two years after the date that such violation occurred; provided, however, that if such notice is sent within such two year period the parking clerk may proceed against the lessee or rentee, as provided herein, at any time after the sending of such notice.
+        </section>
+        <section prefix="h">
+    	     Upon a showing of cause, any fine may be reduced, dismissed, or otherwise disposed of by the parking clerk or any other designated governmental authority handling such parking violations, fines or penalties.
+        </section>
+        <section prefix="i">
+    	     Notwithstanding any general law or special law to the contrary, a surcharge of $.60 per lease or rental transaction shall be collected and paid pursuant to this section to the city or town within whose borders the rental or lease transaction was initiated as specified in the rental or lease agreement. A rental shall consist of a bailment of thirty-one consecutive days or less and a lease or leasing shall consist of a bailment of more than thirty-one consecutive days. Amounts received by a city or town under this section shall not be considered in the determination of the amount of any distribution of state assistance to such city or town.
+        </section>
+    </text>
+</law>

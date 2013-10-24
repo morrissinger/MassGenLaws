@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22A" order_by="22A" level="3">Central Register For Missing Children</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Report Of Missing Child To Central Register</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Notwithstanding the provisions of any special or general law to the contrary, the department of children and families, the department of youth services, the department of public health, and the department of mental health shall report a missing child under its custody to the central register and shall provide said central register with available identifying data relating to said missing child.
+    </text>
+</law>

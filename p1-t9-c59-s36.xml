@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Failure To Furnish Lists; Estimating Value</catch_line>
+    <order_by>36</order_by>
+    <text>
+        Assessors shall ascertain as nearly as possible the particulars of the personal estate, and of the real estate in possession or occupation, as owner or otherwise, of any person not bringing in such list, and shall estimate its just value, according to their best information and belief.
+    </text>
+</law>

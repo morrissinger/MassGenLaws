@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Use Of Private Automobiles; Conditions</catch_line>
+    <order_by>89</order_by>
+    <text>
+        <section prefix="1">
+    	     An enemy at war with the United States shall commence or threaten operations to endanger the peace or safety of the commonwealth; or
+        </section>
+        <section prefix="2">
+    	     Of tumult, riot, mob, natural disaster, or public catastrophe within the purview of section forty-one or forty-two; or
+        </section>
+        <section prefix="3">
+    	     Any unit of the armed forces of the commonwealth shall be directed or authorized by order of the commander-in-chief to participate or engage in any military training, exercise or duty in which the use of motor vehicles in excess of the number issued to such unit may be required.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71B" order_by="71B" level="3">Children With Special Needs</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Administrator Of Special Education; Duties; Joint Appointment</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        <section prefix="a">
+    	     A school committee with four thousand or more children enrolled in its school system shall appoint a person to be its administrator of special education. Such administrator shall devote full time to the duties involved in supervising the provision of all special education in the school system.
+        </section>
+        <section prefix="b">
+    	     A school committee with less than four thousand children enrolled in its school system shall appoint a person to be its administrator of special education. Such administrator shall have the duties involved in supervising the provision of all special education in the school system and other duties if the special education duties are not such as to require the devotion of full time.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of paragraphs (a) and (b), the school committee of any city, town, or school district may, to meet its obligations under this section, with the approval of the department, enter into an agreement with any other school committee to jointly appoint an administrator of special education. The department shall promulgate regulations to implement the provisions of this paragraph.
+        </section>
+    </text>
+</law>

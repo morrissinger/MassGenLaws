@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22A" order_by="22A" level="3">Central Register For Missing Children</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Marking Of School Records; Notification Requirements</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Upon receipt of a report of a missing child to a law enforcement authority, such authority shall notify the last known elementary or secondary school, either public or private, in which such child had been enrolled as to such child’s disappearance. If said law enforcement authority has reason to believe that a missing child or person has been enrolled in a specific school in the commonwealth, said authority shall notify such school as to such disappearance. Upon notification by a law enforcement authority of a child’s disappearance, each elementary and secondary school, either public or private, in which such child is currently or was previously enrolled shall mark the record of such child in such a manner that whenever a copy of or information regarding the record is requested, said school shall be alerted to the fact that the record is that of a missing child. The school shall immediately report to the appropriate law enforcement authority any request concerning such marked records or knowledge as to the whereabouts of such missing child. 
+Upon learning that a missing child has been located, such law enforcement authority shall notify any school previously informed of such child’s disappearance that such child has been located, and the school shall remove such mark from the record of such child.
+    </text>
+</law>

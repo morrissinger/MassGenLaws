@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66" order_by="66" level="3">Public Records</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Custody Of Old And Other Records</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Every town clerk shall have the custody of all records of proprietors of towns, townships, plantations or common lands, if the towns, townships, plantations or common lands to which such records relate, or the larger part thereof, are within his town and the proprietors have ceased to be a body politic. The state secretary, clerks of the county commissioners and city or town clerks shall respectively have the custody of all other public records of the commonwealth or of their respective counties, cities or towns, if no other disposition of such records is made by law or ordinance, and shall certify copies thereof.
+    </text>
+</law>

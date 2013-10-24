@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Dealers; Assignment And Warranty Of Title; Record Of Transactions</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     If a dealer buys a vehicle and holds it for resale and procures the certificate of title from the owner or the lienholder after delivery to him of the vehicle, he need not send the certificate to the registrar but, upon transferring the vehicle to another person other than by the creation of a security interest, shall promptly execute the assignment and warranty of title by a dealer, showing the names and addresses of the transferee and of any lienholder holding a security interest created or reserved at the time of the resale and the date of his security agreement, in the spaces provided therefor on the certificate or as the registrar prescribes, and mail or deliver the certificate to the registrar or transferee with the transferee’s application for a new certificate.
+        </section>
+        <section prefix="b">
+    	     Every dealer shall maintain for five years a record in such form as the registrar shall prescribe of every vehicle bought, sold or exchanged by him, or received by him for sale or exchange, which shall be open to inspection by the registrar, his agents or by any police officer during reasonable business hours.
+        </section>
+    </text>
+</law>

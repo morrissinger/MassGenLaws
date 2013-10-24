@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Last Day For Registration</catch_line>
+    <order_by>28</order_by>
+    <text>
+        They shall hold a continuous session from nine o’clock ante meridian until eight o’clock in the evening on the last day for registration prescribed under section twenty-six; provided, however, that in towns having less than fifteen hundred voters, such session shall be sufficient if it includes the time from two to four o’clock in the afternoon and from seven to eight o’clock in the evening.
+    </text>
+</law>

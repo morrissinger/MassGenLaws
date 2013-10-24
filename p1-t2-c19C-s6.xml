@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19C" order_by="19C" level="3">Disabled Persons Protection Commission</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Protective Services</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     furnish protective services to a disabled person either with his consent or with the consent of his current guardian;
+        </section>
+        <section prefix="2">
+    	     petition the court for appointment of a conservator or guardian or for issuance of an emergency order for protective services as provided in section seven; or
+        </section>
+        <section prefix="3">
+    	     furnish protective services to a disabled person on an emergency basis as provided in section seven.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>20E</section_number>
+    <catch_line>Cancellation Of Certificate Upon Junking Or Scrapping Of Vehicle</catch_line>
+    <order_by>20E</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who takes possession of a motor vehicle for the purpose of junking or scrapping shall within ten days after receipt of delivery, cause the certificate of title, salvage title or any other document required by the registrar as proof of ownership, to be surrendered to the registrar for cancellation. Said person shall maintain an adequate record of said cancellation which shall contain the name and address of the owner, a complete description of the vehicle including the vehicle identification number.
+        </section>
+        <section prefix="b">
+    	     The registrar shall maintain an adequate record of said cancellation, which shall contain the name and address of the owner, a complete description of the vehicle including the vehicle identification number. The vehicle identification number shall remain attached to said vehicle upon destruction.
+        </section>
+        <section prefix="c">
+    	     A motor vehicle for which the certificate of title, salvage title or any other document required by the registrar as proof of ownership, which has been surrendered for cancellation under this section shall not be titled under this chapter or registered to operate under chapter ninety.
+        </section>
+    </text>
+</law>

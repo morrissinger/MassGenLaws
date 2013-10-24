@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Taxation Of Money Designated For Payment Of Tax</catch_line>
+    <order_by>19</order_by>
+    <text>
+        When provision is made by any will or other instrument for payment of the legacy or succession tax upon any gift thereby made out of any property other than that so given, no tax shall be chargeable upon the sum to be applied in payment of such tax.
+    </text>
+</law>

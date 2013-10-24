@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Land Of Insufficient Value To Meet Charges; Abatement</catch_line>
+    <order_by>72</order_by>
+    <text>
+        Whenever the commissioner deems any lands to have been assessed at a valuation insufficient to meet the charges and expenses of collecting the tax thereon, he may in writing authorize the assessors to abate the tax of their own motion as a tax which ought not to have been assessed. The authorization shall form a part of the assessors’ records of abatements.
+    </text>
+</law>

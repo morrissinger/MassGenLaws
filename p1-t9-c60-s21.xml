@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Error In Name Of Person; Collection From Intended Persons</catch_line>
+    <order_by>21</order_by>
+    <text>
+        If, in the assessors’ lists or in their warrant and list committed to the collector, there is an error in the name of a person taxed, the tax assessed to him may be collected of the person intended to be assessed, if he is taxable and can be identified by the assessors.
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>165</section_number>
+    <catch_line>Duties</catch_line>
+    <order_by>165</order_by>
+    <text>
+        <section prefix="1">
+    	     the establishment and certification of firefighting standards for recruit firefighters and a uniform training curriculum for all other levels of fire service personnel;
+        </section>
+        <section prefix="2">
+    	     the establishment of requirements for instructors employed in the Massachusetts firefighting academy;
+        </section>
+        <section prefix="3">
+    	     the establishment and promulgation of such rules and regulations for the operation of the Massachusetts firefighting academy;
+        </section>
+        <section prefix="4">
+    	     the location of the Massachusetts firefighting academy and area training centers;
+        </section>
+        <section prefix="5">
+    	     the establishment of standards for conducting training by the Massachusetts firefighting academy; and
+        </section>
+        <section prefix="6">
+    	     an annual review and approval of standards and the courses and curriculum offered by the Massachusetts firefighting academy.
+        </section>
+    </text>
+</law>

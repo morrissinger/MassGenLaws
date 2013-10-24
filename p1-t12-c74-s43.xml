@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Acceptance Of Gifts</catch_line>
+    <order_by>43</order_by>
+    <text>
+        The board of trustees of said college and of said institute shall be a corporation for the purpose of taking by gift, bequest or devise any real or personal property.
+    </text>
+</law>

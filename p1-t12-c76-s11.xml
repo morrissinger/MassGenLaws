@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Tuition Of Children In Institutions</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Any city, town or regional school district which provides instruction to any child who is a resident of an institution and who was not theretofore a resident of such city, town or regional school district may recover from the commonwealth the school expense incurred by reason of the school attendance of such child to be determined jointly by the school committee of such city, town or regional school district and the department of education or, in case of their disagreement, by the probate court. The amount recoverable by a city, town or regional school district under this section shall be limited to the annual per pupil cost of education as determined under section seven; provided, however, that any amount expended in excess of said annual per pupil expenditure in said city, town or regional school district shall be recoverable under the provisions of sections two and three of chapter seventy.
+    </text>
+</law>

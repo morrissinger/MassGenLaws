@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Petitions For Adoption Or Revision Of Charters</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     The charter may be revised in the same manner as provided for in its original adoption by section three.
+        </section>
+        <section prefix="b">
+    	     A petition for the adoption or revision of a charter shall conform with the requirements of subsection (c) and shall have a sentence in substantially the following form at the top of each page.
+        </section>
+        <section prefix="c">
+    	     The state secretary shall prescribe the form of all petitions under this chapter. No petition shall contain or be accompanied by any indication of party or political designation.
+        </section>
+        <section prefix="d">
+    	     Duplicate certificates shall be prepared setting forth any charter revisions approved, and shall be signed by the state secretary. One such certificate shall be deposited in the office of the state secretary and another shall be recorded in the records of the county and deposited among its archives. All courts may take judicial notice of the charter and charter revisions of the county.
+        </section>
+        <section prefix="e">
+    	     A new charter or charter revision approved by a majority of the voters of the county voting thereon shall take effect on the day specified in such charter or revision. If two or more charter adoption or revision proposals are submitted to the voters in the alternative and are approved, only the alternative proposal receiving the highest number of affirmative votes shall take effect. If two or more charter adoption or revision proposals containing conflicting provisions are submitted to the voters, but not as alternatives, and are approved, all such proposals shall take effect, but the proposal receiving the highest number of affirmative votes shall be construed to prevent all conflicting provisions contained in other proposals from taking effect.
+        </section>
+    </text>
+</law>

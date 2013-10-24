@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>37G</section_number>
+    <catch_line>Corporal Punishment Of Pupils Prohibited; Use Of Physical Restraint; Regulations</catch_line>
+    <order_by>37G</order_by>
+    <text>
+        <section prefix="a">
+    	     The power of the school committee or of any teacher or any other employee or agent of the school committee to maintain discipline upon school property shall not include the right to inflict corporal punishment upon any pupil.
+        </section>
+        <section prefix="b">
+    	     The provisions of this section shall not preclude any member of the school committee or any teacher or any employee or agent of the school committee from using such reasonable force as is necessary to protect pupils, other persons, and themselves from an assault by a pupil. When such an assault has occurred, the principal shall file a detailed report of such with the school committee.
+        </section>
+        <section prefix="c">
+    	     The board of education shall promulgate regulations regarding the use of physical restraint for students. Such regulations shall not preclude any teacher or employee or agent of the school from using reasonable force to protect pupils, other persons and themselves from an assault by a pupil as set forth above in section (b). Such regulations shall require training of all personnel authorized to administer any forms of restraint. Such regulations shall provide for procedures for notification to the department and to the parents.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Final Day For Registration</catch_line>
+    <order_by>31</order_by>
+    <text>
+        If the final day for registration of voters falls on Sunday or on a holiday, the preceding day shall be the final day for such registration.
+    </text>
+</law>

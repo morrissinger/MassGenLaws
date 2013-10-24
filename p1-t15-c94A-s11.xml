@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Orders Fixing Minimum Prices To Producers And Consumers; Application Of Orders; Rules And Regulations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner, after making an examination and investigation authorized by this chapter and after hearing held after due notice, shall by his order fix the minimum prices paid by milk dealers to other milk dealers, and to producers and consumers for milk received, purchased, stored, manufactured, processed, sold, distributed or otherwise handled within the commonwealth and the terms and conditions under and times at which such prices are to be paid.
+        </section>
+        <section prefix="b">
+    	     Orders relative to such minimum prices shall apply to the locality in which the milk in question is produced or to the market in which such milk is sold, or to both, and may vary in different localities or markets according to the varying and differing conditions therein. Any such order may classify such milk by such forms, classes, grades or uses as the commissioner may deem advisable and may specify the minimum prices therefor, and may require that producers of milk purchased or received under such provisions shall be paid for all such milk on the basis of the class, grade or use in which it is ultimately sold by milk dealers.
+        </section>
+        <section prefix="c">
+    	     Each such order may provide rules and regulations for the sharing of the value of milk sold, used or disposed of in each class, grade or use, between milk dealers who are also producers, and the producers from whom milk is received or purchased by such dealers, in proportion, to their respective deliveries of milk.
+        </section>
+    </text>
+</law>

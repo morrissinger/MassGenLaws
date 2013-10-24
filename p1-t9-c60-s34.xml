@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Warrants; Release After Service; Rearrest</catch_line>
+    <order_by>34</order_by>
+    <text>
+        If a tax assessed upon a person remains unpaid for fourteen days after demand therefor, a warrant to collect shall issue, and, thereafter, a warrant to distrain or commit may issue pursuant to section twenty-nine; but a collector or his designee to whom the court issues the warrant to distrain or commit may request that the court suspend the commitment of the taxpayer for a period of time not exceeding fourteen days and after such time if that person has not paid his tax, with all fees and charges due thereon, including the fee for service of said warrant and travel as provided by section fifteen, said officer shall then arrest said person on the aforesaid warrant, and commit him to the jail of the county where he makes the arrest or of the county wherein the city or town in which the tax is payable lies. The warrant shall run throughout the commonwealth, and any officer to whom it is directed as aforesaid may serve it and apprehend the person in any county.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="79" order_by="79" level="3">Eminent Domain</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Petition By Guardian, Conservator Or Trustee</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If damages may be recovered under this chapter for the taking of or injury to property of a person under guardianship or conservatorship or property held in trust, the guardian, conservator or trustee may petition for and recover, and may release all such damages in like manner as if the land or other property were held in his own right.
+    </text>
+</law>

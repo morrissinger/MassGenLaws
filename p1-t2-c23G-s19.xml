@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Grants; Financing Transactions; Approval Of Applications</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     identification of the applicant;
+        </section>
+        <section prefix="b">
+    	     a description of the project including a financing plan;
+        </section>
+        <section prefix="c">
+    	     a description of how the Agency’s interest will be secured; and
+        </section>
+        <section prefix="d">
+    	     a description of the public benefits to be derived from the project.
+        </section>
+    </text>
+</law>

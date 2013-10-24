@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="56" order_by="56" level="3">Violations Of Election Laws</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Editorial Support; Payment For Or Receipt Of Payment</catch_line>
+    <order_by>38</order_by>
+    <text>
+        No person shall pay the owner, editor, publisher, or agent of a newspaper or other periodical to induce him editorially to advocate or oppose any candidate for public office or political principle, or any question submitted to the voters; and no such owner, editor, publisher, or agent shall accept such payment. This section shall not apply to the outright purchase of such newspaper or periodical.
+    </text>
+</law>

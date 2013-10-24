@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Penalties</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="A">
+    	     Any person who violates any provision of this chapter, or any regulation or approval issued or adopted hereunder, shall be subject to a civil penalty not to exceed twenty-five thousand dollars per day of such violation, which may be assessed in an action brought on behalf of the commonwealth in any court of competent jurisdiction. This section shall not apply to section nineteen of this chapter.
+        </section>
+        <section prefix="B">
+    	     Any individual or toxics user who wilfully (i) violates any requirement of sections ten or eleven, or any regulation or approval issued or adopted thereunder, or (ii) violates any requirement of section twenty, shall be punished by a fine of not less than two thousand five hundred dollars or more than twenty-five thousand dollars for each violation, or by imprisonment for not more than one year, or by both.
+        </section>
+        <section prefix="C">
+    	     If the commissioner determines that:
+        </section>
+        <section prefix="1">
+    	     (i) an explanation submitted by a trade secret claimant pursuant to section twenty of this chapter presents insufficient assertions to support a finding that the information concealed is a trade secret; or (ii) after receiving supplemental supporting detailed information that the information concealed is not a trade secret; and
+        </section>
+        <section prefix="2">
+    	     that the trade secret claim is frivolous; then the trade secret claimant shall be subject to a civil penalty not to exceed twenty-five thousand dollars per claim. The commissioner may assess the penalty administratively pursuant to section sixteen of chapter twenty-one A of the General Laws or may request the attorney general to bring an action in any court of competent jurisdiction in the commonwealth to assess and collect the penalty.
+        </section>
+    </text>
+</law>

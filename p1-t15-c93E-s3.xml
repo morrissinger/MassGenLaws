@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Disclosures To Prospective Dealers</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The gallonage volume history, if any, of the location under negotiation for and during the three year period immediately past or for the entire period which the location has been supplied by the supplier, which ever is shorter.
+        </section>
+        <section prefix="b">
+    	     The name and last known address of the previous dealer or dealers for the last three years, or for and during the entire period which the location has been supplied by the petroleum supplier, whichever is shorter, and the reason or reasons for the termination of each dealer agreement.
+        </section>
+        <section prefix="c">
+    	     Any legally binding commitments for the sale, demolition or other disposition of the location.
+        </section>
+        <section prefix="d">
+    	     The training programs, if any, and the specific goods and services the supplier will provide for and to the gasoline dealer.
+        </section>
+        <section prefix="e">
+    	     Full disclosure of any and all obligations which will be required of the dealer, including but not limited to, any obligation to exclusively deal in any of the products of the supplier, its subsidiaries or any other company or any advertising and promotional items that the dealer must accept.
+        </section>
+        <section prefix="f">
+    	     Full disclosure of all restrictions on the sale, transfer, renewal and termination of the agreement.
+        </section>
+    </text>
+</law>

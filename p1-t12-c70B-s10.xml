@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70B" order_by="70B" level="3">School Building Assistance Program</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Facilities Grants For Approved Projects; Formula</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The percentage the commonwealth shall pay towards an approved school facilities project shall be determined by the following formula: Base Percentage (A) + Community Income Factor (B1) + Community Property Wealth Factor (B2) + Community Poverty Factor (B3) + Incentive Percentage (C).
+        </section>
+        <section prefix="A">
+    	     Base Percentage = 31 percentage points.
+        </section>
+        <section prefix="B">
+    	     Ability to pay percentage points (income/wealth factor) is determined as follows:
+        </section>
+        <section prefix="1">
+    	     Community Income Factor = per capita income, as determined by the department of revenue, for a municipality as a per cent of the statewide average per capita income.
+        </section>
+        <section prefix="2">
+    	     Community Property Wealth Factor = Equalized property valuation per capita as determined by the department of revenue, for the municipality as a per cent of the statewide average equalized property valuation per capita.
+        </section>
+        <section prefix="3">
+    	     Community Poverty Factor = Proportion of low income students, as determined by federal eligibility for free or reduced price lunch, for the district as a per cent of the statewide average proportion of low income students.
+        </section>
+        <section prefix="C">
+    	     Incentive percentage points may be awarded by the authority. Incentive percentage points granted, if any, shall be in the sole discretion of the authority. The authority may issue regulations delineating the type and amounts of any such incentive percentage points; provided, however, that no individual category of incentive points shall exceed 6 additional points; and provided further, that no district shall receive more than 18 incentive percentage points. Such incentive points may be awarded for a district’s use of efficient construction delivery methods; regionalization with other districts; superior maintenance practices of a district; energy efficient and sustainable design and construction; major renovation rather than building new construction; the use of model schools as adopted by the authority; and other incentives as determined by the board of the authority in order to encourage the most cost-effective and quality construction.
+        </section>
+        <section prefix="b">
+    	     In the case of regional school districts, B1 and B2 shall be determined by calculating the relationship to the statewide average for each municipality of the regional district as stated in this section. For purposes of this computation, each member city’s and town’s share of the total cost shall be determined by multiplying the total approved cost by the percentage of district or county capital costs that would be apportioned to such city or town in accordance with the applicable regional school district agreement or law for capital costs incurred in the fiscal year in which the grant is approved. The amount of the total capital costs apportioned to a member city or town in any fiscal year on account of an approved school project of a regional school or county, determined in accordance with the applicable regional school district agreement or law, shall be reduced by an amount equal to the amount of the grant payable on account of such project in such fiscal year multiplied by a fraction the numerator of which is the city’s or town’s reimbursement percentage, determined as aforesaid, multiplied by the percentage of capital costs apportioned to the city or town for such fiscal year in accordance with the applicable regional school district agreement or law, and the denominator of which is the sum of the percentages so derived as the numerators for all of the member cities and towns.
+        </section>
+        <section prefix="c">
+    	     For approved school projects in districts which have a racial desegregation plan approved by the board of education not later than June 30, 2000, the reimbursement percentage shall be the sum of: (a) the percentage calculated pursuant to subsections (a) and (b); and (b) for projects designated as approved school projects on or before June 30, 2006, 10 percentage points, or, for projects designated as approved school projects on or before June 30, 2012, 5 percentage points. Only new project applications which present clear and convincing evidence that the proposed school building project will promote the objectives of achieving racial balance expressed in sections 37C and 37D of chapter 71 for the students attending the new, renovated, or repaired school will be eligible for the added percentage points. The total reimbursement percentage shall in no circumstances exceed the maximum grant percentage under the first paragraph of this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="16" order_by="16" level="3">Department Of Highways</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Comprehensive Statewide Master Plan</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="1">
+    	     the sources, types and quantities of solid waste generated within each city or town;
+        </section>
+        <section prefix="2">
+    	     the current means for collection, transfer, processing, recycling or other disposal of such waste;
+        </section>
+        <section prefix="3">
+    	     the adequacy of solid waste facilities with reference to disposal of solid waste in a manner which the department determines is or is likely to protect the public health, safety and environment;
+        </section>
+        <section prefix="4">
+    	     the means of collection, transfer, processing, recycling or other disposal of such waste which have been reported to the department by each city or town or by any other public or private entity for the five year period beginning with the year for which the statewide plan is prepared;
+        </section>
+        <section prefix="5">
+    	     whether and to what extent the waste identified or reported as described above is currently being disposed of at sites permitted by the department or by a local board of health pursuant to section one hundred and fifty A of chapter one hundred and eleven or with respect to future years, is being proposed for disposal at such sites; and
+        </section>
+        <section prefix="6">
+    	     to the extent disposal is identified as not taking place in any current or future year at such sites, the options available to local public bodies for disposal at such sites or alternative means for which the department finds there is a reasonable likelihood that disposal will take place in an environmentally safe manner and recommendations of the department as to such options or alternative means. Each city or town may prepare a local solid waste management plan to be presented to the department to assist the department in the creation of the statewide plan. Such local plan shall, to the maximum practicable extent, identify:
+        </section>
+        <section prefix="1">
+    	     the sources, types and quantities of solid waste generated within each city or town;
+        </section>
+        <section prefix="2">
+    	     the current means for collection, transfer, processing, recycling or other disposal of such waste, and the length of, and termination date of any existing contract entered into by said city or town for the contracting of the collection, transfer, processing, recycling or disposal of such waste;
+        </section>
+        <section prefix="3">
+    	     whether and to what extent the waste identified or reported as described above is currently being disposed of at sites permitted by the department or by a local board of health pursuant to section one hundred and fifty A of chapter one hundred and eleven, or, with respect to future years, is being proposed for disposal at such sites;
+        </section>
+        <section prefix="4">
+    	     to the extent disposal is identified or reported as not taking place in any current or future year at such sites, the options available to such city or town for future disposal at such sites or for alternative means for which the community finds there is a reasonable likelihood that disposal will take place in an environmentally safe manner and recommendations of said city or town as to such options or alternative means; and
+        </section>
+        <section prefix="5">
+    	     a listing of proposed options for addressing the collection, transfer, processing, recycling or disposal of waste for the next five years. Said plan shall include an estimate of the expected financial resources needed to implement said plan.
+        </section>
+    </text>
+</law>

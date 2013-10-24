@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23" order_by="23" level="3">Executive Office Of Labor And Workforce Development</unit>
+    </structure>
+    <section_number>11U</section_number>
+    <catch_line>Violations Of Apprentice Agreement; Investigation; Rules; Hearings;  Notice; Appeals</catch_line>
+    <order_by>11U</order_by>
+    <text>
+        <section prefix="a">
+    	     The division, upon the complaint of an interested person or upon its own initiative, may investigate and determine whether there has been a violation of the terms of an apprentice agreement, and may hold hearings, inquiries and other proceedings necessary to the investigations and determination, provided that the apprentice filing a complaint has exhausted the procedures established pursuant to section 11K. All hearings, investigations and determinations of apprentice agreements shall be made under authority of reasonable rules and procedure prescribed by the director.
+        </section>
+        <section prefix="b">
+    	     The division shall not be required to hold hearings in matters confined solely to identifiable apprentice agreements, which the division may deregister at any time during the period of apprenticeship if it determines appropriate.
+        </section>
+        <section prefix="c">
+    	     The determination of the deputy director shall be filed with the director and notice of the determination shall, at the same time, be mailed, postage prepaid, to each person known by the division to be an interested person, at the last address as shown by the records of the division. If no appeal is filed with the deputy director within 10 days after the date of the filing and notice, the determination shall become the decision of the director.
+        </section>
+        <section prefix="d">
+    	     The deputy director may reinstate the registration of an apprentice agreement in its discretion upon presentation of adequate evidence that the condition that gave rise to the deregistration has been remedied.
+        </section>
+    </text>
+</law>

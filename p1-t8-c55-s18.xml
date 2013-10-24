@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Reports Of Contributions And Expenditures; Persons Required To File;  Contents; Reporting Periods; Time Limits; Penalties</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     by each candidate for nomination or election to the state senate or house of representatives, and by the non-elected political committee organized on behalf of such candidate, on or before: (1) the eighth day preceding a primary, the eighth day preceding a biennial state election, and, as a final report, the twentieth day of January in the following year complete as to the thirty-first day of December of the prior year; (2) the eighth day preceding a special primary, including a convention or a caucus, the eighth day preceding a special election, the thirtieth day following a special election, and, as a final report, the twentieth day of January in the following year complete as to the thirty-first day of December of the prior year.
+        </section>
+        <section prefix="b">
+    	     by each candidate for nomination or election to city or town office, and by the non-elected political committee organized on behalf of such candidate, except a candidate required to designate a depository by section nineteen or a candidate seeking election as a member of a representative town meeting or of a town or city ward committee, and any non-elected political committee organized on behalf of such candidate, on or before: (1) the eighth day preceding a city or town preliminary or primary, including a caucus, the eighth day preceding a city or town election, and if a city election, as a final report, the twentieth day of January in the following year complete as to the thirty-first day of December of the prior year, and if a town election, as a final report, the thirtieth day following said election; (2) the eighth day preceding a special primary, including a caucus, the eighth day preceding a special election, and, as a final report, the thirtieth day following a special election.
+        </section>
+        <section prefix="c">
+    	     by each candidate and each non-elected political committee required to designate a depository by section nineteen on or before: (1) the third business day following the designation of such depository, and (2) as a final report, the twentieth day of January of the year following the election, complete as to the thirty-first day of December of the prior year.
+        </section>
+        <section prefix="d">
+    	     by the treasurer of each state committee referred to in section one of chapter fifty-two and required to designate a depository by section nineteen, on or before: (1) the third business day following the designation of such depository, and (2) as a final report, the twentieth day of January of the year following the election complete as to the thirty-first day of December of the prior year.
+        </section>
+        <section prefix="e">
+    	     by all other non-elected and elected political committees which are not required to file reports as aforesaid, on or before: (1) the same days and in accordance with the same schedule as set forth in clause (a), if the political committee is aiding or promoting the success or defeat of one or more candidates in a state primary, special or general election; (2) the same days and in accordance with the same schedule as set forth in clause (b), if the political committee is aiding or promoting the success or defeat of one or more candidates, or is favoring or opposing a question submitted to the voters, in a city or town preliminary, primary general or special election or for use on ballots in a city or town at a state election.
+        </section>
+        <section prefix="f">
+    	     by each political committee organized under the provisions of section five to favor or oppose a question submitted to the voters, if the question appears on the ballot at the state election on: (1) the day of the organization; and (2) the sixtieth day prior to the election complete as of the preceding fifth day; on or before (3) the fifth and twentieth day of each month complete as of the preceding first and fifteenth day of the month, until the election, and, thereafter; (4) the twentieth day of November following such election complete as of the fifteenth day of the month; and (5) the twentieth day of January of each year complete as of the thirty-first day of December of the prior year until all declared liabilities of such committee have been discharged.
+        </section>
+        <section prefix="h">
+    	     by all candidates and all political committees, except those candidates seeking election as members of a representative town meeting, or of a city ward or town committee, and non-elected political committees organized on behalf of such candidates, on or before the twentieth day of January in each year in which they are not otherwise required to file a report on or before the twentieth day of January; provided, however, that candidates for the state senate or house of representatives, the nonelected political committees organized on behalf of such candidates, and political action committees, that file with the director, shall also file mid-year reports on or before the twentieth day of July in each year in each odd-numbered year.
+        </section>
+        <section prefix="1">
+    	     the amount of money on hand at the beginning of the reporting period;
+        </section>
+        <section prefix="2">
+    	     the full name and residential address, listed alphabetically, of each person who has made a contribution, except for those contributions identified in clauses (4), (5) and (6) and which shall be reported therein, in an amount or value in excess of fifty dollars in the reporting period, and such information for each contribution of less than or equal to the sum of fifty dollars, if the aggregate of all contributions received from such contributor within said reporting period is in excess of fifty dollars, as the case may be, and the amount or value and date of the contribution and the total of all contributions listed;
+        </section>
+        <section prefix="3">
+    	     the total amount or value of contributions made in the reporting period, and not otherwise reported under clause (2);
+        </section>
+        <section prefix="4">
+    	     the name and address, listed alphabetically, of each candidate or political committee from which was received any money or anything of value in a reporting period, together with the amount or value thereof and the date received;
+        </section>
+        <section prefix="5">
+    	     the name and address of the principal officers of any trust, foundation and association from which was received a contribution, as provided in section ten;
+        </section>
+        <section prefix="6">
+    	     the amount or value and date of each loan to or from any person, in the reporting period, together with the name and residential address of the lender and endorser, if any, listed alphabetically;
+        </section>
+        <section prefix="7">
+    	     the total sum of all contributions received, in the reporting period, which is the sum of clauses (2), (3), (4), (5) and (6);
+        </section>
+        <section prefix="8">
+    	     the full name and address, listed alphabetically, of each person to whom an expenditure is made, in the reporting period, except for those identified in clause (l0) and which shall be reported therein, in an amount or value in excess of fifty dollars, the amount and value, date and purpose of each such expenditure and the total of all such expenditures listed, and in the case of a political committee supporting more than one candidate, the name and address, the elective office held, if any, and office sought by each candidate on whose behalf such expenditure was made;
+        </section>
+        <section prefix="9">
+    	     the total amount or value of expenditures made in the reporting period, and not otherwise reported under clause (8);
+        </section>
+        <section prefix="10">
+    	     in the case of a candidate or political committee, the name and address, listed alphabetically, of each candidate or political committee to which was transferred any money or anything of value, in the reporting period, together with the amount or value thereof and the date of such transfer;
+        </section>
+        <section prefix="11">
+    	     the total sum of expenditures made, in the reporting period, which is the sum of clauses (8), (9) and (10);
+        </section>
+        <section prefix="12">
+    	     the amount and date of each then existing liability remaining unfulfilled and in force when the report is made, the name and address of the person to whom the liability exists, and a clear statement of the purpose for which it was incurred;
+        </section>
+        <section prefix="13">
+    	     a listing of all banks or other financial institutions used;
+        </section>
+        <section prefix="14">
+    	     in the event of a dissolution of a political committee, a statement of such dissolution detailing the intended or actual disposition of any residual funds; and
+        </section>
+        <section prefix="15">
+    	     in the event of a dissolution of a political action committee, a statement that the political action committee has not received contributions pursuant to section nine A or, if it has received such contributions, a statement that the political action committee has given sixty days written notice of its intended dissolution to any contributor and said contributor’s bank or other financial institution currently making contributions pursuant to said section nine A.
+        </section>
+        <section prefix="i">
+    	     the General Fund;
+        </section>
+        <section prefix="ii">
+    	     an entity which is subject to chapter sixty-seven or section eight of chapter twelve; provided, however, that the candidate, treasurer or any official of the political committee shall not be related by consanguinity or affinity to any trustee, officer, principal or beneficiary of said entity either at the time of the gift or within ten years from the date of such gift; provided, further, that no entity may employ as a trustee, officer, principal or beneficiary any person related by consanguinity or affinity to the candidate, treasurer or any official of the political committee either at the time of the gift or within ten years from the date of such gift;
+        </section>
+        <section prefix="iii">
+    	     a scholarship fund; provided, however, that the candidate, treasurer or any official of the political committee shall not participate in the selection of the beneficiary of any scholarship awarded from such fund; and, provided further, the beneficiary of any scholarship awarded from such fund shall not be related by consanguinity or affinity to the candidate, treasurer or any official of the political committee; or
+        </section>
+        <section prefix="iv">
+    	     the general fund of any city or town in the commonwealth.
+        </section>
+    </text>
+</law>

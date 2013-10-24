@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23B" order_by="23B" level="3">Department Of Housing And Community Development</unit>
+    </structure>
+    <section_number>24B</section_number>
+    <catch_line>Low Income Sewer And Water Assistance Program</catch_line>
+    <order_by>24B</order_by>
+    <text>
+        <section prefix="a">
+    	     the department shall use the same grantee agencies, similar applications and similar verification procedures as are used in the Low Income Home Energy Assistance Program, to the maximum extent possible. The department may also utilize a reasonable percentage of any funds appropriated, not exceeding 10 per cent of such funds, for administrative costs of the program.
+        </section>
+        <section prefix="b">
+    	     the benefit level provided to any individual household eligible under this program shall not be greater than 25 per cent of the total annual water and sewer bill for the household; provided, however, that the department shall establish benefit rates and maximum benefits such that total benefits paid do not exceed the amount appropriated for this benefit.
+        </section>
+        <section prefix="c">
+    	     households which receive benefits under this program shall not unreasonably refuse to cooperate with any demand-side water conservation programs which are provided at no expense to the household by any local agency or authority.
+        </section>
+    </text>
+</law>

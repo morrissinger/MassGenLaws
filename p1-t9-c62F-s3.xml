@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62F" order_by="62F" level="3">Limitation On The Growth Of State Tax Revenues</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Limitation On Growth Of Allowable State Tax Revenues</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Except as otherwise specifically provided herein, the governor and the general court in exercising their respective constitutional and statutory duties shall endeavor in each fiscal year to establish and approve a budget for the Commonwealth and set rates of taxation for the citizens of the Commonwealth such that net state tax revenues for said fiscal year shall not exceed allowable state tax revenues for said fiscal year.
+    </text>
+</law>

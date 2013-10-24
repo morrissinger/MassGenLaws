@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64H" order_by="64H" level="3">Tax On Retail Sales Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Computation Of Tax</catch_line>
+    <order_by>4</order_by>
+    <text>
+        For the purpose of adding and collecting the tax imposed by this chapter to be paid to the commonwealth or to be reimbursed to the seller by the purchaser, the tax computation shall be carried to the third decimal place and it shall be rounded to a whole cent, rounding up to the next cent whenever the third decimal place is greater than 4. A seller may elect to compute the tax due on a transaction on an item or an invoice basis.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Property Subject To Taxation; Exceptions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        All property, real and personal, situated within the commonwealth, and all personal property of the inhabitants of the commonwealth wherever situated, unless expressly exempt, shall be subject to taxation; provided, however, that the personal property of a person having neither his domicile nor a place of business in this commonwealth, which, upon its being brought or shipped into this commonwealth, is forthwith stored in the original packages in a licensed public storage warehouse, shall, while so stored, be deemed to be in transit and not subject to taxation under this chapter; but no portion of any warehouse which portion is owned or leased by a consignor or consignee of the personal property stored shall be deemed a licensed public storage warehouse.
+    </text>
+</law>

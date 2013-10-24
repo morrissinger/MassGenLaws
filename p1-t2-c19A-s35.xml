@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Construction Of Chapter; Interagency Cooperation</catch_line>
+    <order_by>35</order_by>
+    <text>
+        Nothing in this chapter shall be construed to be a limitation of the powers and responsibilities assigned by law to other departments or agencies. The secretary of elder affairs shall establish an interagency agreement among the department of elder affairs, department of public health, and office of the attorney general to ensure a cooperative effort in meeting the needs of the residents of long term care facilities.
+    </text>
+</law>

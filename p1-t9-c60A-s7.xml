@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60A" order_by="60A" level="3">Excise Tax On Registered Motor Vehicles In Lieu Of Local Tax</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Uncollectible Tax; Abatement</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If a collector is satisfied that an excise that has been committed to him or to any of his predecessors in office for collection, is uncollectible by reason of the death, absence, poverty, insolvency, bankruptcy, or other inability of the person assessed to pay, he shall notify the assessors thereof in writing on oath, stating why such excise cannot be collected. The assessors shall act upon such notification within thirty days, and, after due inquiry, may abate such excise or any part thereof, and shall certify such abatement in writing to the collector, and said certificate shall discharge the collector from further obligation to collect the excise so abated.
+    </text>
+</law>

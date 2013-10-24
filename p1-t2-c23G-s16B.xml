@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>16B</section_number>
+    <catch_line>Borrowing Of Money</catch_line>
+    <order_by>16B</order_by>
+    <text>
+        Notwithstanding the provisions of any general or special law to the contrary, North Shore Community College, with the approval of the board of higher education, may borrow an amount not to exceed $12,000,000 through the Massachusetts Health and Educational Facilities Authority or any other authorized funding source.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Application Of Chapter To Municipalities; School Districts; Elections</catch_line>
+    <order_by>53</order_by>
+    <text>
+        <section prefix="a">
+    	     All non-academic positions in the service of a regional school district or of a regional vocational school district shall be subject to the civil service law and rules if the school committee of such district votes to accept the applicability of said law and rules to said positions.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding the provisions of section forty-eight or other law, a city or town may accept, in accordance with the provisions of sections fifty-four and fifty-five, the applicability of the civil service law and rules to any office of such city or town if the incumbent of such office shall have served therein continuously for not less than ten years in the case of a city, or for not less than five years in the case of a town, immediately prior to the filing of a petition pursuant to section fifty-four if such petition bears the approval in writing of such incumbent at the time of said filing. The provisions of this section shall not apply to an office filled by popular vote or the office of city solicitor, assistant city solicitor, secretary to the mayor, clerk to the board of selectmen, town counsel, assistant town counsel, legislative counsel, registrar of voters or election commissioner or other officer performing similar duties, or public school teacher.
+        </section>
+    </text>
+</law>

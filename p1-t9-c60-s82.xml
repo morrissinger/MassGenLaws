@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>82</section_number>
+    <catch_line>Notice To Holder Of Invalid Tax Title; Release Of Interest</catch_line>
+    <order_by>82</order_by>
+    <text>
+        If a collector has reasonable cause to believe that the title to land sold for non-payment of taxes or of assessments, a lien for which is enforceable by a sale of land, is invalid by reason of an error, omission or informality in the assessment or sale, he may, within two years after the date of the deed of such land, give notice to the record holder of the tax title, requiring him, within thirty days thereafter, to release any interest which he may have in such land under said deed, and to receive from the town the amount paid therefor with interest at ten per cent or to file with the collector a written statement that he refuses to release such interest. Such statement, if recorded in the registry of deeds, shall release the town from any liability upon the warranty in said deed.
+    </text>
+</law>

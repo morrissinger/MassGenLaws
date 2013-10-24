@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="73" order_by="73" level="3">State Colleges And Community Colleges</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Budget</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The trustees shall prepare and submit a detailed budget in such form and manner as the governor and general court may direct.
+    </text>
+</law>

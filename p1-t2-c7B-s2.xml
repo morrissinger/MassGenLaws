@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7B" order_by="7B" level="3">Asset Management Board</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Asset Management Board; Establishment; Membership</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established an asset management board. The board shall be within but not subject to the control of the executive office of administration and finance. The board shall consist of the secretary of administration and finance or his designee, ex officio, who shall serve as chair; the inspector general or his designee, ex officio; and three additional public members appointed by the governor. Of the public members initially so appointed, one shall be appointed for a term of one year, one shall be appointed for a term of two years and one shall be appointed for a term of three years. Public members shall be appointed for terms of three years, without reappointment. At least one public member shall possess substantial expertise in the field of real estate management and development, and at least one public member shall possess substantial experience in the field of finance.
+        </section>
+        <section prefix="b">
+    	     Public members of the board shall serve without compensation. Public members of the board shall be reimbursed for all necessary expenses incurred in the discharge of their official duties. The board’s activities shall be supported by staff of the secretary of administration and finance.
+        </section>
+        <section prefix="c">
+    	     No member of the asset management board shall participate in the approval of a project if the member or any member of his immediate family has a direct or indirect present or future financial interest in the approval of the project or in any way will benefit financially therefrom.
+        </section>
+    </text>
+</law>

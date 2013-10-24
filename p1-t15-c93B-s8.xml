@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Indemnification Of Dealer; Negligence Of Manufacturer; Indemnification Of Manufacturer, Distributor; Negligence Of Dealer; Court Action</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any terms or provisions of a franchise agreement to the contrary, a manufacturer or distributor shall indemnify its motor vehicle dealers and hold them harmless from and against all damages, liabilities, losses, and reasonable expenses of suit, including reasonable attorneys’ fees, arising out of or incurred in the defense of any claim brought by any person seeking compensation or other relief predicated upon the negligent design or manufacture of a new motor vehicle, or any part or component thereof, manufactured or distributed by the manufacturer or distributor where the basis for liability is finally determined by a court to be solely the result of such negligence by manufacturer or distributor and not in any way the result of any fault or neglect on the part of the motor vehicle dealer. The manufacturer or distributor, after having been notified promptly in writing by the motor vehicle dealer that the claim has been asserted and is pending, shall assume the defense thereof and resolve the same at its own expense.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any terms or provisions of a franchise agreement to the contrary, a motor vehicle dealer shall indemnify the manufacturer of any new motor vehicle purchased or otherwise acquired by the motor vehicle dealer, and any distributor through which it purchased or acquired the same, and hold them harmless from and against all damages, liabilities, losses and reasonable expenses of suit, including reasonable attorneys’ fees, arising out of or incurred in the defense of any claim brought by any person seeking compensation or other relief predicated upon the negligent act or omission of the motor vehicle dealer where the basis for liability is finally determined by a court to be solely the result of the negligence of the motor vehicle dealer and not in any way the result of any fault or neglect on the part of the manufacturer or distributor. The motor vehicle dealer, after having been notified promptly in writing by manufacturer or distributor that a claim has been asserted and is pending, shall assume the defense thereof and resolve the same at its own expense.
+        </section>
+        <section prefix="c">
+    	     Any person entitled to indemnification under this section may bring an action in superior court, or if applicable in the federal district court for the district of Massachusetts, by way of original complaint, counterclaim or third-party action. If the court finds for the person, recovery shall be in the amount of actual damages, plus reasonable attorneys’ fees and costs; but the person against whom any claim is asserted under this section may tender within 30 days after service of the complaint in the action a written offer of settlement containing specific settlement terms. If the offer of settlement is not accepted within 15 days, and if the court finds that the relief offered was reasonable in relation to the actual damages, not including attorneys’ fees and costs, the court award shall not exceed the amount offered.
+        </section>
+    </text>
+</law>

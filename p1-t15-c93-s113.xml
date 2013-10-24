@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>113</section_number>
+    <catch_line>Annual Report; Records Of Companies That Have Engaged In Unauthorized Switching Of Customer’S Ixc Or Lec</catch_line>
+    <order_by>113</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall track instances in which an IXC, LEC, or TPV company switched a customer’s IXC or LEC without the customer’s valid LOA or TPV.
+        </section>
+        <section prefix="b">
+    	     The department shall prepare an annual report of the impact of the provision of sections 108 to 113, inclusive, and submit it to the joint committee on government relations and the attorney general, within 30 days of its completion.
+        </section>
+        <section prefix="c">
+    	     The department shall keep monthly records of each unauthorized IXC or LEC change by company and produce an annual report of each violation by company and submit it to the joint committee on government regulations and the attorney general.
+        </section>
+        <section prefix="d">
+    	     The department shall keep a record of any TPV companies and any other agent affiliated with an IXC or an LEC that has engaged in the unauthorized switching of a customer’s IXC or LEC.
+        </section>
+        <section prefix="e">
+    	     The department shall promulgate rules and regulations for the implementation of this section.
+        </section>
+    </text>
+</law>

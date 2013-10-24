@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="98" order_by="98" level="3">Weights And Measures</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Use Of Unsealed Weighing Or Measuring Devices</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Whoever sells or, if by the custom of trade such weighing or measuring devices are provided by the buyer, buys, by any weighing or measuring device which has not been sealed according to law shall forfeit not more than twenty dollars to the use of the person suing therefor.
+    </text>
+</law>

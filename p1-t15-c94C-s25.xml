@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Restrictions</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="1">
+    	     who is subject to the requirements of sections six and seven and twelve to seventeen, inclusive, shall dispense a controlled substance in violation of said section seventeen;
+        </section>
+        <section prefix="2">
+    	     shall distribute or dispense a controlled substance not authorized by his registration to another registrant or other authorized person or manufacturer a controlled substance not authorized by his registration;
+        </section>
+        <section prefix="3">
+    	     who is a registrant shall distribute a controlled substance in violation of section sixteen;
+        </section>
+        <section prefix="4">
+    	     shall remove, alter, or obliterate a symbol or label required by federal law and the laws of the commonwealth;
+        </section>
+        <section prefix="5">
+    	     shall refuse or fail to make, keep, or furnish any record, report, notification, declaration, order or order form, statement, invoice, or information required under this chapter;
+        </section>
+        <section prefix="6">
+    	     shall refuse any entry into any premises or inspection authorized by this chapter;
+        </section>
+        <section prefix="7">
+    	     shall remove, break, injure, or deface a seal placed upon controlled substances pursuant to this chapter, or remove or dispose of substances so placed under seal;
+        </section>
+        <section prefix="8">
+    	     shall use, to his own advantage, or reveal, other than to duly authorized officers or employees of the United States or of the commonwealth or to the courts when relevant in any judicial proceeding under this chapter, any information acquired in the course of an inspection authorized by this chapter concerning any method or process which is a trade secret.
+        </section>
+    </text>
+</law>

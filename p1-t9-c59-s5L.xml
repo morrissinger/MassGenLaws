@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>5L</section_number>
+    <catch_line>Deferral Of Taxes Due By Member Of The Massachusetts National Guard Or Reservist On Active Duty Outside Commonwealth</catch_line>
+    <order_by>5L</order_by>
+    <text>
+        Upon acceptance of this section by a municipality and notwithstanding any other provision of this chapter to the contrary, any taxes due under this chapter by a member of the Massachusetts National Guard or reservist or a dependent of a member of the Massachusetts National Guard or reservist shall be deferred while that member is on active service outside the commonwealth and for the next 180 days after that service. No interest or penalties shall be assessed for any period before the expiration of those 180 days.
+    </text>
+</law>

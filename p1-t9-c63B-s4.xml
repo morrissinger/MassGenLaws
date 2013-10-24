@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Time For Payment Of First Installment</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The first required installment of estimated tax shall be paid on or before the fifteenth day of the third month of the taxable year, except that if the requirements of section two are first met: (a) after the last day of the second month and before the first day of the sixth month of the taxable year, the first required installment shall be paid on or before the fifteenth day of the sixth month of the taxable year; (b) after the last day of the fifth month and before the first day of the ninth month of the taxable year, the first required installment shall be paid on or before the fifteenth day of the ninth month of the taxable year; or (c) after the last day of the eighth month and before the first day of the twelfth month of the taxable year, the first required installment shall be paid on or before the fifteenth day of the twelfth month of the taxable year.
+    </text>
+</law>

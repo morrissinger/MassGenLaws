@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64G" order_by="64G" level="3">Room Occupancy Excise</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Excise Tax Exemption For U.S. Military Employees Traveling On Military Orders</catch_line>
+    <order_by>12</order_by>
+    <text>
+        No excise shall be imposed, pursuant to this chapter, upon the transfer of occupancy of any room or rooms in a hotel, lodging house or motel if the occupant is an employee of the United States military traveling on official United States military orders which encompass the date of said occupancy. Each operator shall maintain such records as the commissioner shall require to substantiate exemptions claimed under this section.
+    </text>
+</law>

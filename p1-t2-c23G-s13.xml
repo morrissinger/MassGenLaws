@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23G" order_by="23G" level="3">The Massachusetts Development Finance Agency</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Grant And Approval Of Loans</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="1">
+    	     a general description of the company, including but not limited to, a business plan, corporate history, last audited financial statement and an inventory of equipment owned or to be purchased;
+        </section>
+        <section prefix="2">
+    	     a general description of the number, type and class of employees employed or to be employed in the operation and the total of salary expenditures;
+        </section>
+        <section prefix="3">
+    	     a description of all real estate held or used in conjunction with the applicant’s business, including leased facilities and a list of encumbrances thereon;
+        </section>
+        <section prefix="4">
+    	     evidence that the loan will enhance seafood production, and the efficient operation of the facility, and also increase or retain employment;
+        </section>
+        <section prefix="5">
+    	     such other financial information as the Agency shall deem necessary including personal financial information of the applicant and principals of the applicant.
+        </section>
+    </text>
+</law>

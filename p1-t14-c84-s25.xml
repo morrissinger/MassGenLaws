@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="84" order_by="84" level="3">Repair Of Ways And Bridges</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Repairs Made On Way Within Six Years Of Injury</catch_line>
+    <order_by>25</order_by>
+    <text>
+        If, upon the trial of an indictment or action brought to recover damages for an injury received by reason of a defect or want of repair or want of sufficient railing in any way, it appears that the defendant has, within six years before such injury, made repairs on such way, it or he shall not deny the location thereof.
+    </text>
+</law>

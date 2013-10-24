@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Veterans In Municipal Service</catch_line>
+    <order_by>52</order_by>
+    <text>
+        A veteran of the Indian wars who has been in the service of any city or town for ten years, if incapacitated for active duty, may be retired from active service by the city council or the selectmen at one half the rate of the average compensation paid to him during the two years immediately preceding his retirement.
+    </text>
+</law>

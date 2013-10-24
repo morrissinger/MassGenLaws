@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Liens Upon Property For Nonpayment Of Taxes</catch_line>
+    <order_by>50</order_by>
+    <text>
+        <section prefix="a">
+    	     If any person liable to pay any tax neglects or refuses to pay the same after demand, the amount, including any interest, additional amount, addition to tax, assessable penalty or forfeiture, together with any costs that may accrue in addition thereto, shall be a lien in favor of the commonwealth upon all property and rights to property, whether real or personal, belonging to such person. The lien shall also extend to property or rights to property of a trust with respect to tax amounts due from a grantor or other person treated as the owner of a portion of such trust by reason of sections 671-678 of the Code, and to property or rights to property of a disregarded entity with regard to tax amounts due from the owner of the entity, but with respect to real property and fixtures, the lien shall not be valid against a mortgagee, pledge, purchaser or judgment creditor unless the notice to be recorded pursuant to paragraph (1) of subsection (b) includes therein the names of the persons in whom the record title to the real property or fixtures stands at the time of recording the notice. The lien shall arise at the time the assessment is made or deemed to be made and shall continue until: (1) the liability for the amount assessed or deemed to be assessed is satisfied; (2) a judgment against the taxpayer arising out of such liability is satisfied; or (3) any such liability or judgment becomes unenforceable by reason of the lapse of time within the meaning of section 6322 of the Code. The lien created in favor of the commonwealth for any unpaid tax shall remain in full force and effect for: (i) a period of 10 years after the date of assessment, deemed assessment or self-assessment of the tax; or (ii) for such longer period of time as permitted by section 6322 of the Code, in effect and as amended from time to time, and as construed or interpreted either by the regulations or other authorities promulgated under said section 6322 of the Code by the Internal Revenue Service or by any federal court or United States Tax Court decision. If, by operation of said section 6322 of the Code, a tax lien in favor of the commonwealth would extend beyond its initial or any subsequent 10-year period, the commissioner shall be authorized to refile his notice of lien. If any such refiled lien is filed within the “required refiling period”, as that term is defined in section 6323(g)(3) of the Code, the lien in favor of the commonwealth shall relate back to the date of the first such lien filing. Otherwise, any such refiled lien shall be effective from the date of its filing. The commissioner of revenue shall promulgate such rulings and regulations as may be necessary for the implementation of this subsection.
+        </section>
+        <section prefix="b">
+    	     The lien imposed by this section shall not be valid as against any mortgagee, pledgee, purchaser or judgment creditor until notice thereof has been filed by the commissioner:
+        </section>
+        <section prefix="1">
+    	     With respect to real property or fixtures, in the registry of deeds of the county where such property is situated, and
+        </section>
+        <section prefix="2">
+    	     With respect to personal property other than fixtures, in the filing office in which the filing of a financing statement would perfect, under Article 9 of chapter 106, an attached nonpossessory security interest in tangible personal property belonging to the person liable to pay the tax as if the person were located in the commonwealth under section 9-307 of said chapter 106. The filing of a notice of any such lien or of a waiver or release of any such lien shall be received and registered or recorded without payment of any fee.
+        </section>
+        <section prefix="c">
+    	     Even though notice of a lien provided in this section has been filed in the manner prescribed in subsection (b), the lien shall not be valid with respect to a security, as hereinafter defined, as against any mortgagee, pledgee or purchaser of such security, for an adequate and full consideration in money or money’s worth, if at the time of such mortgage, pledge or purchase such mortgagee, pledgee, or purchaser is without notice or knowledge of the existence of such lien. As used in this subsection, the term “security” means any bond, debenture, note or certificate or other evidence of indebtedness issued by any corporation, including one issued by a governmental or political subdivision thereof, with interest coupons or in registered form, share of stock, voting trust certificate, or any certificate of interest or participation in, certificate of deposit or receipt for, temporary or interim certificate for, warrant or right to subscribe to or purchase, any of the foregoing; negotiable instrument; or money.
+        </section>
+        <section prefix="d">
+    	     If notice of a lien has been filed under subsection (b), the commissioner may provide by regulation the extent to which, and the conditions under which, information as to the amount of the outstanding obligation secured by such lien may be disclosed.
+        </section>
+        <section prefix="e">
+    	     In any case where there has been a refusal or neglect to pay any tax, or to discharge any liability in respect thereof, whether or not levy has been made, the commissioner, in addition to other modes of relief, may direct a civil action to be filed in a district or superior court of the commonwealth to enforce the lien of the commonwealth under this section with respect to such tax or liability or to subject any property of whatever nature, of the delinquent, or in which he has any right, title or interest, to the payment of such tax or liability.
+        </section>
+        <section prefix="f">
+    	     The commissioner may issue a waiver or release of any lien imposed by this section. Such waiver or release shall be conclusive evidence that the lien upon the property covered by the waiver or release is extinguished.
+        </section>
+    </text>
+</law>

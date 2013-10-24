@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Summer Schools</catch_line>
+    <order_by>28</order_by>
+    <text>
+        The school committee may establish and maintain schools to be kept open for the whole or any part of the summer vacation; but attendance thereon shall not be compulsory or be considered as a part of the school attendance required by law.
+    </text>
+</law>

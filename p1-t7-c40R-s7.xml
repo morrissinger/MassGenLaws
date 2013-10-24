@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40R" order_by="40R" level="3">Smart Growth Zoning And Housing Production</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Certificate Of Compliance</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     On or before October 1 of each year after the year of approval of a district by the department, the department shall send a smart growth zoning district certificate of compliance to each city or town with an approved district. In order to receive such a certificate, the city or town shall verify within the time specified by the department:
+        </section>
+        <section prefix="b">
+    	     If the department is unable to certify compliance, the department shall hold a public hearing subject to chapter 30A. If the department concludes that the city or town is in material noncompliance with the requirements set forth in this section, the department may revoke certification. A revocation of certification shall be recorded with the registry of deeds or land court registry district for the county or district within which the city or town is located, indexed in the grantor index under the name of the city or town. Any revocation of certification or other sanctions imposed by the department shall not affect the validity of the smart growth zoning ordinance or by-law, or the application of such ordinance or by-law to land, development or proposed development within the smart growth zoning district.
+        </section>
+    </text>
+</law>

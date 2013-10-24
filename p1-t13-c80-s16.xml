@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Reassessment</catch_line>
+    <order_by>16</order_by>
+    <text>
+        If an assessment is invalid and has not been paid in full or has been paid under such circumstances that it can be recovered back, it may be reassessed by the board in the amount for which the original assessment ought to have been made, at any time before the expiration of two years from the date of the assessment, if the land has in the meantime been alienated; otherwise at any time before the alienation thereof. Such assessment shall be a lien upon any sum paid on account of the original assessment, and to the extent that it is not thereby satisfied shall be a lien upon the land. It shall be collected in the same manner as an original assessment, and shall in all other respects be subject to this chapter.
+    </text>
+</law>

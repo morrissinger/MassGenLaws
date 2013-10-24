@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21O" order_by="21O" level="3">Operation And Removal Of Underground Storage Tanks</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Notification Of Operation Of Underground Storage Tanks;  Regulations For Requirements And Standards Of Tanks</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with protection of human health and the environment;
+        </section>
+        <section prefix="2">
+    	     requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing system;
+        </section>
+        <section prefix="3">
+    	     requirements for reporting of any releases and corrective action taken in response to a release from an underground tank;
+        </section>
+        <section prefix="4">
+    	     requirements for taking corrective action in response to a release from an underground storage tank; provided, that such requirements shall be consistent with and not duplicative of the Massachusetts Contingency Plan pursuant to chapter twenty-one E;
+        </section>
+        <section prefix="5">
+    	     requirements for the closure of tanks to prevent future releases of regulated substance into the environment;
+        </section>
+        <section prefix="6">
+    	     requirements for maintaining evidence of financial responsibility for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental release arising from operating an underground storage tank;
+        </section>
+        <section prefix="7">
+    	     standards of performance for new underground storage tanks; and
+        </section>
+        <section prefix="8">
+    	     requirements (a) for notifying the department and the head of the fire department designated according to section 9002-(b) (1) of the existence of any operational or nonoperational underground storage tank: and (b) for providing the information required on the form issued pursuant to section 9002 (b) (2).
+        </section>
+    </text>
+</law>

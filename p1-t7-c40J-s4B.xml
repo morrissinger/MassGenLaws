@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40J" order_by="40J" level="3">Massachusetts Technology Park Corporation</unit>
+    </structure>
+    <section_number>4B</section_number>
+    <catch_line>Essential Governmental Functions</catch_line>
+    <order_by>4B</order_by>
+    <text>
+        <section prefix="a">
+    	     In furtherance of the public purpose and mission of the corporation, and notwithstanding any general or special law or agreement to the contrary, each of the following uses of the physical and technical resources of the center shall be deemed to be the exercise of an essential governmental function within the meaning of 26 U.S.C. 115(1):
+        </section>
+        <section prefix="1">
+    	     the provision of computer aided design services to interested industrial firms and universities, including but without limitation the distribution and support of design tools, the provision of computational support services, and the design of integrated circuits;
+        </section>
+        <section prefix="2">
+    	     the provision of integrated circuit fabrication services to interested industrial firms and universities and the federal government, including but without limitation the provision of foundry services and discrete unit process services to one or a limited number of parties; and
+        </section>
+        <section prefix="3">
+    	     the formation of one or more technology partnerships with interested industrial firms and universities, the federal government and venture capital firms for the purpose of fully exploiting the substantial resources of the center in a manner calculated to advance its educational and economic development purposes. Said technology partnerships may include but without limitation contractual relationships with one or more of said parties which involve the lease or licensing of all or part of the facilities, intellectual property and related resources of said center, the furnishing of design and/or fabrication services, cooperative technology development and technology-sharing arrangements, incubator facilities, and the provision of state-of-the-art instructional, research and integrated circuit prototyping services.
+        </section>
+        <section prefix="b">
+    	     The activities set forth in subsection (a) shall be deemed and construed to be supplemental and additional to, and not in derogation of, such other essential governmental functions as are authorized under this chapter or as may be delegated to the corporation from time to time. It is intended that each of the activities of the corporation as set forth therein will serve to support an expanding economy for the commonwealth and the creation and retention of new and more rewarding employment opportunities for the citizens hereof in one or more of the following ways: assisting firms to understand and exploit the full economic potential of application specific integrated circuit technology; inducing firms to maintain, expand or locate their business activities within the commonwealth due to the presence of such activities; encouraging the transfer of state-of-the-art design and process technologies between and among industries, universities and the center; assisting the center in the maintenance and operation of its complex integrated circuit fabrication facility and the full exploitation of its substantial fabrication capacity; creating a technology infrastructure for economic development; and exploiting economies of scale in the provision of educational services.
+        </section>
+        <section prefix="c">
+    	     All income of the corporation from whatever source derived shall be held and applied thereby solely to accomplish the essential governmental functions of the corporation, including but without limitation to the essential governmental functions set forth in this section. No income of the corporation shall accrue to any private individual or organization. Upon dissolution of the corporation, all of its assets shall be returned to the commonwealth in the manner set forth in section five of this chapter.
+        </section>
+    </text>
+</law>

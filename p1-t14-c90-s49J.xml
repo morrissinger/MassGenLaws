@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>49J</section_number>
+    <catch_line>Delivery And Release Of Security</catch_line>
+    <order_by>49J</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon certificate of the commission in the payment of a judgment rendered against the person or persons on whose behalf the deposit was made, for damages arising out of the accident in a civil action, begun not later than one year after the date of the accident or within one year after the date of deposit of any security under subsection (c) of section forty-nine F or in the payment of a settlement, agreed to by the depositor and all the claimants, of a claim or claims arising out of the accident.
+        </section>
+        <section prefix="b">
+    	     Upon certificate of the commission issued after ten days’ notice to all claimants upon evidence satisfactory to the commission that all claims arising from such accident have been satisfied by either (1) a release from liability, or (2) a judgment of non-liability, or (3) a written agreement in accordance with paragraph (8) of subsection (c) of section forty-nine D or whenever, after the expiration of one year from the time of the accident or from the date of deposit of any security under subsection (c) of section forty-nine F, the commission is given satisfactory evidence that there is no such action pending and that no judgment rendered in any such action is unpaid.
+        </section>
+        <section prefix="c">
+    	     Upon the certificate of the commission that other security complying with subsection (a) of section forty-nine I and satisfactory in form, character and amount, has been deposited with it in lieu of the original security deposited.
+        </section>
+    </text>
+</law>

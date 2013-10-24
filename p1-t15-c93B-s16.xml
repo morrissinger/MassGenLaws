@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Franchise Agreement; Void Provisions; Arbitration, Mediation, Or Alternative Dispute Resolution Clause; Voluntariness</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     Any provision of a franchise agreement or practice thereunder in violation of this chapter shall be against public policy and shall be void and unenforceable.
+        </section>
+        <section prefix="b">
+    	     A clause or provision in a franchise agreement requiring the parties to submit to arbitration, mediation or any other alternative dispute resolution mechanism before filing suit shall be enforceable only if the parties have voluntarily entered into an agreement to submit to arbitration, mediation or any other alternative dispute resolution mechanism, and the matter is conducted at a reasonable location within the commonwealth; provided, however, that the provisions of this subsection shall not prohibit the enforceability of a clause or provision in a franchise agreement which requires the parties to submit to non-binding mediation; and provided, further, that said non-binding mediation is conducted at a reasonable location within the commonwealth.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Agreements To Which Chapter Applies</catch_line>
+    <order_by>2</order_by>
+    <text>
+        This chapter shall apply to agreements pertaining to the sale of gasoline and related products when (a) more than twenty percent of the dealer’s gross sales are covered by such agreement and (b) such gross sales covered by such agreement are more than twenty-five thousand dollars yearly.
+    </text>
+</law>

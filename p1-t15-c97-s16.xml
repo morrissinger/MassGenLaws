@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Coordinate System Nad, 1927; Definition</catch_line>
+    <order_by>16</order_by>
+    <text>
+        The Coordinate System, North American Datum of 1927, Mainland Zone, consists of a Lambert conformal projection of the Clarke spheroid of eighteen hundred and sixty-six, having the standard parallels at north latitude 41° (degrees) 43" (minutes) and 42° (degrees) 41" (minutes), along which parallels the scale shall be exact. The origin of coordinates for this zone is at the intersection of the meridian 71° (degrees) 30" (minutes) west longitude and the parallel 41° (degrees) 00" (minutes) north latitude. This origin is given the coordinates: 
+X=600,000 feet; Y=0 feet 
+The NAD 1927 Coordinate System, North American Datum of 1927, Island Zone, consists of a Lambert conformal projection of the Clarke spheroid of eighteen hundred and sixty-six, having the standard parallels at north latitudes 41° (degrees) 17" (minutes) and 41° (degrees) 29" (minutes), along which parallels the scale shall be exact. The origin of coordinates for this zone is at the intersection of the meridian 70° (degrees) 30" (minutes) west longitude and the parallel 41° (degrees) 00" (minutes) north latitude. This origin is given the coordinates: 
+X=200,000 feet; Y=0 feet 
+The position of said system shall be as marked on the ground by triangulation of traverse stations established in conformity with the standards adopted by the former United States Coast and Geodetic Survey for first-order and second-order work, whose geodetic positions had been rigidly adjusted on the North American Datum of nineteen hundred and twenty-seven, and whose plane coordinates have been computed on the system herein defined. Any such station may be used for establishing a survey connection with said NAD 1927 coordinate system.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Money Received For Commonwealth; Daily Remittance; Exceptions</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Except as otherwise expressly provided, all fees or other money received on account of the commonwealth shall be paid daily into the treasury thereof, but if in the opinion of the commissioner of administration and the state treasurer the interests of the commonwealth require, payments may be made weekly in accordance with such rules and regulations as the state treasurer may prescribe.
+    </text>
+</law>

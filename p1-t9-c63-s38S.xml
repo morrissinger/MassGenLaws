@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>38S</section_number>
+    <catch_line>Automatic Sprinkler System; Depreciation Deduction</catch_line>
+    <order_by>38S</order_by>
+    <text>
+        <section prefix="a">
+    	     In determining the net income subject to tax under this chapter, a business corporation required to comply with section 26G1/2 of chapter 148 and that has so complied, may, for the purposes of the depreciation deduction allowed under section 168 of the Federal Internal Revenue Code, classify an automatic sprinkler system having a situs in the commonwealth, and used exclusively in the trade or business of such corporation, as 5-year property as defined under 168(e)(3) of the Federal Internal Revenue Code. The term “automatic sprinkler system” means the system installed pursuant to section 26G1/2 of said chapter 148 and in accordance with the state building code.
+        </section>
+        <section prefix="b">
+    	     Such depreciation deduction for the automatic sprinkler system shall be allowed only upon the condition that the net income for the taxable year and all succeeding taxable years be computed without any depreciation deduction upon the property other than the deduction allowed by this section.
+        </section>
+    </text>
+</law>

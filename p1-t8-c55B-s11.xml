@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55B" order_by="55B" level="3">The State Ballot Law Commission</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Vacating Nominations; Nonexisting Persons; False Names</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If objection is filed under section five or section seven by a person duly nominated for any state, city or town office alleging that an apparent nomination for the same office is a fictitious or nonexisting person or that the name under which a person has been apparently nominated for such office is not his true name, the commission or the proper board named in section six shall summon the apparent nominee to appear before it and submit to examination. If no person appears in response to such summons or if a person representing himself to be the nominee appears and after a hearing the commission or board is satisfied that the allegations contained in such objection are true, the commission or board shall sustain the objection and vacate the nomination.
+    </text>
+</law>

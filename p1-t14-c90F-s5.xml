@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Operation Of Commercial Vehicles; Learner’S Permits; Suspended Driving Privileges; Waivers</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="A">
+    	     Except when driving under a learner’s permit to operate a commercial vehicle and accompanied by the holder of a license to operate a commercial motor vehicle valid for the vehicle being driven, no person may drive a commercial motor vehicle unless the person holds and is in immediate possession of a license to operate a commercial motor vehicle valid for the vehicle they are driving.
+        </section>
+        <section prefix="B">
+    	     No person may operate a commercial motor vehicle while their driving privilege is suspended, revoked, cancelled, subject to a disqualification, or in violation of an out of service order.
+        </section>
+        <section prefix="C">
+    	     The registrar may promulgate regulations granting waivers consistent with federal law.
+        </section>
+    </text>
+</law>

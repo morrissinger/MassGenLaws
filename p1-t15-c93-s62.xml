@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Denial Of Credit Or Employment, Etc. Because Of Adverse Credit Information; Disclosures To Consumer</catch_line>
+    <order_by>62</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever credit or insurance for personal, family or household purposes, or employment involving a consumer is denied or terminated or the charge for such credit or insurance is increased either wholly or partly or whenever a consumer’s line of credit is reduced, except when the consumer is delinquent with regard to such line of credit, because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall, within ten business days of its decision to deny or terminate such credit, insurance or employment, or to increase the charge for such credit or insurance, or to reduce a consumer’s line of credit, except when the consumer is delinquent with regard to such line of credit, notify such consumer in writing against whom such adverse action has been taken. Said notice shall be in a clear and conspicuous format, no smaller than ten point type, and shall contain the name, address, and toll-free telephone number of any consumer reporting agency which provided any consumer report which was reviewed or otherwise taken into account in the making of such adverse action and shall inform the consumer of his rights in substantially the following manner:
+        </section>
+        <section prefix="b">
+    	     Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer’s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer’s written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+        </section>
+        <section prefix="c">
+    	     No person shall be held liable for any violation of this section if he proves by a preponderance of the evidence that at the time of the alleged violation he maintained reasonable procedures to assure compliance with the provisions of subsections (a) and (b).
+        </section>
+    </text>
+</law>

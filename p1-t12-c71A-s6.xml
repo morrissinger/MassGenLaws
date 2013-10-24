@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71A" order_by="71A" level="3">English Language Education In Public Schools</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Legal Standing And Parental Enforcement</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     As set forth in The parent or legal guardian of any school child shall have legal standing to sue for enforcement of the provisions of this chapter, and if successful shall be awarded reasonable attorney’s fees, costs and compensatory damages.
+        </section>
+        <section prefix="b">
+    	     Any school district employee, school committee member or other elected official or administrator who willfully and repeatedly refuses to implement the terms of this chapter may be held personally liable for reasonable attorney’s fees, costs and compensatory damages by the child’s parents or legal guardian, and shall not be subsequently indemnified for such monetary judgment by any public or private third party. Any individual found so liable shall be barred from election or reelection to any school committee and from employment in any public school district for a period of five years following the entry of final judgment.
+        </section>
+        <section prefix="c">
+    	     Parents and legal guardians who apply for and are granted exception waivers under
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>91</section_number>
+    <catch_line>Foreign Corporation; Non Resident; Failure To Pay Taxes; Restraint On Business</catch_line>
+    <order_by>91</order_by>
+    <text>
+        When any foreign corporation or non-resident person, doing business in the commonwealth, shall for sixty days neglect, refuse or omit to pay a tax lawfully assessed and payable, any court having jurisdiction in equity may on petition of the collector of taxes of the town where the tax is assessed restrain said corporation or person from doing business in the commonwealth until said tax, with all incidental costs and charges, shall have been paid. Service of process upon any such petition may be made by an officer duly qualified to serve process, by leaving a duly attested copy thereof at the place where the business is carried on.
+    </text>
+</law>

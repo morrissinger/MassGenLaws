@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>31N</section_number>
+    <catch_line>Determination Of Gross Income; Adjustment To Federal Gross Income</catch_line>
+    <order_by>31N</order_by>
+    <text>
+        [Text of section effective for tax years beginning on or after January 1, 2009. See 2010, 454, Sec. 67.] 
+In determining gross income under this chapter, if the federal gross income includes any item of gain or has been reduced by any item of loss, with respect to property, then the federal gross income shall be increased by the excess of the federal adjusted basis of the property over the Massachusetts adjusted basis of the property, and shall be decreased by the excess of the Massachusetts adjusted basis of the property over the federal adjusted basis of the property, so that the gain or loss realized for Massachusetts purposes takes into account all applicable differences in the Massachusetts and federal tax rules over the life of an asset that should, in principle, give rise to differences in basis. The Massachusetts adjusted basis of property shall be the federal adjusted basis, except that: (i) any federal adjustment resulting from provisions of the Code that were not applicable in determining Massachusetts gross income at the time the federal adjustments were made shall be disregarded; and (ii) adjustments shall be made for any item that was applicable in determining Massachusetts gross income but that was not so applicable in determining federal gross income and for which a federal adjustment would be allowed under the Code if the item had been applicable in determining federal gross income. Without limitation of the foregoing, the federal basis of shares in a business corporation that was formerly treated as a corporate trust or of shares in a successor of that entity shall be reduced in computing Massachusetts adjusted basis to take into account any tax-free earnings and profits accumulated by the former corporate trust.
+    </text>
+</law>

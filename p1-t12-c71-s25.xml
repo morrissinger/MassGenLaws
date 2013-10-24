@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Unemployed Minors; Attendance Requirements</catch_line>
+    <order_by>25</order_by>
+    <text>
+        Any minor under sixteen who has been regularly employed in a town other than that of his residence, and who is temporarily unemployed, may be required, under conditions approved by the department, to attend a continuation school or course in the town of his residence.
+    </text>
+</law>

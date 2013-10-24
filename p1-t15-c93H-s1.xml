@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93H" order_by="93H" level="3">Security Breaches</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this chapter, the following words shall, unless the context clearly requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="i">
+    	     written notice;
+        </section>
+        <section prefix="ii">
+    	     electronic notice, if notice provided is consistent with the provisions regarding electronic records and signatures set forth in § 7001 (c) of Title 15 of the United States Code; and chapter 110G; or
+        </section>
+        <section prefix="iii">
+    	     substitute notice, if the person or agency required to provide notice demonstrates that the cost of providing written notice will exceed $250,000, or that the affected class of Massachusetts residents to be notified exceeds 500,000 residents, or that the person or agency does not have sufficient contact information to provide notice.
+        </section>
+        <section prefix="a">
+    	     Social Security number;
+        </section>
+        <section prefix="b">
+    	     driver’s license number or state-issued identification card number; or
+        </section>
+        <section prefix="c">
+    	     financial account number, or credit or debit card number, with or without any required security code, access code, personal identification number or password, that would permit access to a resident’s financial account; provided, however, that “Personal information” shall not include information that is lawfully obtained from publicly available information, or from federal, state or local government records lawfully made available to the general public.
+        </section>
+        <section prefix="i">
+    	     electronic mail notice, if the person or agency has electronic mail addresses for the members of the affected class of Massachusetts residents;
+        </section>
+        <section prefix="ii">
+    	     clear and conspicuous posting of the notice on the home page of the person or agency if the person or agency maintains a website; and
+        </section>
+        <section prefix="iii">
+    	     publication in or broadcast through media or medium that provides notice throughout the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The department of consumer affairs and business regulation may adopt regulations, from time to time, to revise the definition of “encrypted”, as used in this chapter, to reflect applicable technological advancements.
+        </section>
+    </text>
+</law>

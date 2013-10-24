@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15C" order_by="15C" level="3">Massachusetts College Student Loan Authority</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Powers And Duties Of Authority For Implementation And Administration Of Savings Programs</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        <section prefix="a">
+    	     To create and supervise a marketing and distribution system for bonds or other units of participation in savings programs, either or both of which shall be referred to for purposes of this section as “units”, and to establish proper books of record and account to record the identity of the purchasers and the named beneficiaries, the amounts payable as principal and interest, the receipts and expenses of the Authority with respect to the program and other matters necessary to the administration of the program.
+        </section>
+        <section prefix="b">
+    	     To establish minimum and maximum unit amounts with respect to the savings programs, procedures for the crediting of interest accrued with respect to the units, procedures with respect to payment of the balance due on the final maturity date of a unit or otherwise, procedures with respect to the determinations of eligible beneficiaries, and procedures to accommodate the acquisition of units through payroll savings plans and other similar programs.
+        </section>
+        <section prefix="c">
+    	     To employ financial, marketing, legal and other consultants and advisors for the purpose of consulting with the Authority on the implementation and ongoing administration of the savings programs and to enter into contracts and agreements necessary in connection therewith.
+        </section>
+        <section prefix="d">
+    	     To provide for the terms and conditions of participation in savings programs by participating institutions and to prescribe the form of, from time to time, and to execute such contracts and agreements with the participating institutions as shall be appropriate to reflect such terms and conditions.
+        </section>
+        <section prefix="e">
+    	     To enter into one or more contracts and agreements for marketing, distribution and administration services in connection with savings programs.
+        </section>
+        <section prefix="f">
+    	     To obtain by purchase, lease or license such equipment and facilities, including computer software and hardware, and to employ staff necessary or convenient to carry out the savings programs.
+        </section>
+        <section prefix="g">
+    	     To establish a schedule of fees and charges, including premiums in connection with the sale of units of savings, sufficient to provide for the estimated costs of the program incurred by the Authority.
+        </section>
+        <section prefix="h">
+    	     To take such further actions and establish such further procedures as shall be appropriate to carry out the purposes of the savings programs.
+        </section>
+    </text>
+</law>

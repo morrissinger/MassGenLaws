@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>129</section_number>
+    <catch_line>Copies Of Returns Of Votes; Transmittal To State Secretary</catch_line>
+    <order_by>129</order_by>
+    <text>
+        City and town clerks shall, within fifteen days after an election for representative in the general court, transmit to the state secretary an attested copy of the record of votes cast for all candidates for said office in each voting precinct and in each town not divided into voting precincts.
+    </text>
+</law>

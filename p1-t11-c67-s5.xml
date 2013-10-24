@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="67" order_by="67" level="3">Parishes And Religious Societies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Membership; Rights And Restrictions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        A person belonging to such society shall continue a member thereof until he files with the clerk a written declaration of the dissolution of his membership; but after filing such notice he shall not be liable for any grant or contract thereafter made on entered into by such society. No person shall be made a member of a religious society without his written consent.
+    </text>
+</law>

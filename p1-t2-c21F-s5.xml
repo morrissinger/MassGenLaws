@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21F" order_by="21F" level="3">Coastal Facilities Improvement</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Qualifications For Assistance</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     the improvement will be public for the duration of any debt obligation incurred by the commonwealth relative to such assistance pursuant to regulations to be adopted pursuant to this chapter and shall be used principally for fishing, shellfishing, marine commerce or industry, or for marine recreation or public access purposes;
+        </section>
+        <section prefix="b">
+    	     the project site has been determined by the executive office of environmental affairs, to be in substandard conditions or is located within an approved Commercial Area Revitalization District or within a designated port area or an area designated as a special assistance development area by the Massachusetts coastal zone management program within the executive office of environmental affairs;
+        </section>
+        <section prefix="c">
+    	     that the city or town may seek to obtain reasonable fees from users of the improvement or related facilities, that this income will be committed to the operation, maintenance, management and, if required, the retirement of any debt incurred under the provisions of this chapter.
+        </section>
+    </text>
+</law>

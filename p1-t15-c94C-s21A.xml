@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>21A</section_number>
+    <catch_line>Prescriptions; Prospective Drug Review And Counseling By Pharmacist</catch_line>
+    <order_by>21A</order_by>
+    <text>
+        <section prefix="1">
+    	     the name and description of the medication;
+        </section>
+        <section prefix="2">
+    	     the dosage form, dosage, route of administration and duration of drug therapy;
+        </section>
+        <section prefix="3">
+    	     special instructions and precautions for preparation, administration and use by the patient;
+        </section>
+        <section prefix="4">
+    	     common adverse or severe side effects or interactions and therapeutic contraindications that may be encountered, including their avoidance and the action required if they occur;
+        </section>
+        <section prefix="5">
+    	     techniques for self-monitoring drug therapy;
+        </section>
+        <section prefix="6">
+    	     proper storage;
+        </section>
+        <section prefix="7">
+    	     prescription refill information; and
+        </section>
+        <section prefix="8">
+    	     action to be taken in the event of a missed dose.
+        </section>
+        <section prefix="1">
+    	     the name, address, telephone number, date of birth or age, and gender;
+        </section>
+        <section prefix="2">
+    	     individual history where significant, including known allergies and drug reactions, and a comprehensive list of medications and relevant devices; and
+        </section>
+        <section prefix="3">
+    	     any additional comments relevant to the patient’s drug use, including any failure to accept the pharmacist’s offer to counsel.
+        </section>
+    </text>
+</law>

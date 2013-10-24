@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23B" order_by="23B" level="3">Department Of Housing And Community Development</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Eligible Business Facility; Requirements</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="1">
+    	     It is a facility which serves an area larger than the eligible section of substantial poverty in which it is located or contiguous to and which does not primarily serve said eligible section. A facility shall be deemed to meet this requirement if it is used primarily in manufacturing or wholesaling, or if it is located in a commercial center revitalization district and is used primarily in manufacturing, wholesaling, or commercial use. A facility other than a facility located in a commercial center revitalization district shall not be deemed to meet this requirement if (a) it is primarily used in making retail sales of goods or services to customers who personally visit such facility to obtain such goods or services, including, but not limited to, banking and insurance services, or (b) it is used primarily as a hotel, apartment house or other place of business which furnishes dwelling space or accommodations to either residents or transients.
+        </section>
+        <section prefix="2">
+    	     It is a facility which creates or retains in the eligible section of substantial poverty in which it is located at least twenty per cent of its employees, but not less than five jobs.
+        </section>
+        <section prefix="3">
+    	     It is a facility in which the corporation operating the same provides an approved training or assistance program which prepares residents of the eligible section of substantial poverty in which such facility is located or contiguous to for jobs created or retained in such section, as required by paragraph (2) and which assures such residents opportunities for job upgrading and for entry into supervisory positions; provided, however, that if a corporation operating a facility shall have provided such a program or programs for as long as the bureau determines to be feasible, the termination of such program or programs, if the bureau consents thereto, shall not terminate the eligibility of such facility.
+        </section>
+        <section prefix="4">
+    	     The facility, except where a corporation is displaced by a public land taking or purchased, shall not be a replacement of an existing place of business or an expansion thereof. The facility shall represent an expansion of employment opportunities in the eligible city or town in which the facility is located and may be either a new place of business or a substantial addition to existing physical facilities.
+        </section>
+        <section prefix="5">
+    	     It is a facility for which on-site construction commenced, or binding contracts for the construction thereof were entered into, or the land or a leasehold interest therein was acquired, prior to January first, nineteen hundred and eighty-three; provided, however, that the on-site construction of such facility has been completed and such facility has become operational prior to June thirtieth, nineteen hundred and eighty-five.
+        </section>
+    </text>
+</law>

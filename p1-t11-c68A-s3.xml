@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="11" order_by="11" level="2">Certain Religious And Charitable Matters</unit>
+        <unit label="chapter" identifier="68A" order_by="68A" level="3">Limitations Upon The Conduct Of Certain Trusts And Corporations Having Charitable Interests</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Sections One And Two</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The provisions of sections one and two shall not apply to any trust to the extent that a court of competent jurisdiction shall determine that such application would be contrary to the terms of the instrument governing such trust and that the same may not properly be changed to conform to such sections.
+    </text>
+</law>

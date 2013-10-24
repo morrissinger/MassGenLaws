@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90D" order_by="90D" level="3">Motor Vehicle Certificates Of Title</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Contents Of Certificate; Distinctive Certificates; Forms; Evidence;  Nature</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Each certificate of title issued by the registrar shall contain: (1) The date issued; (2) The name and address of the owner; (3) The names and addresses of any lienholders, in the order of priority as shown on the application; (4) The title number assigned to the vehicle; (5) A description of the vehicle including, so far as the following data exists: its make, model, identifying number, type of body, number of cylinders, whether new or used, and, if a new vehicle, the date of the first sale of the vehicle for use; and (6) Any other data the registrar prescribes.
+        </section>
+        <section prefix="b">
+    	     Unless a bond is filed as provided in paragraph (b) of section twelve, a distinctive certificate of title shall be issued for a vehicle last previously registered in another state or country the laws of which do not require that lienholders be named on a certificate of title to perfect their security interests. The certificate shall contain the legend “This vehicle may be subject to an undisclosed lien” and may contain any other information the registrar shall prescribe. If no notice of a security interest in the vehicle is received by the registrar within four months from the issuance of the distinctive certificate of title, he shall, upon application and surrender of the distinctive certificate, issue a certificate of title in ordinary form.
+        </section>
+        <section prefix="c">
+    	     The certificate of title shall contain forms for assignment and warranty of title by the owner, and for assignment and warranty of title by a dealer, and may contain forms for applications for a certificate of title by a transferee, the naming of a lienholder and the assignment or release of the security interest of a lienholder.
+        </section>
+        <section prefix="d">
+    	     A certificate of title issued by the registrar is prima facie evidence of the facts appearing on it.
+        </section>
+        <section prefix="e">
+    	     A certificate of title for a vehicle, as distinguished from the vehicle itself, is not subject to attachment, execution, or other judicial process.
+        </section>
+    </text>
+</law>

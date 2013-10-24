@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>87</section_number>
+    <catch_line>Preparation Of Absent Voting Ballots, Envelopes, Instructions</catch_line>
+    <order_by>87</order_by>
+    <text>
+        <section prefix="a">
+    	     Official absent voting ballots, similar in all respects to the official ballot to be used at such election, except that they shall be printed on paper differing in color from that used for official or specimen ballots.
+        </section>
+        <section prefix="c">
+    	     Envelopes of sufficient size to contain the ballots specified in subsection (a) bearing on their reverse the voter’s affidavit of compliance with the requirements of section ninety-two.
+        </section>
+        <section prefix="d">
+    	     Envelopes of size sufficient to contain the envelope identified in subsection (c), addressed to the clerks of the several cities and towns within the commonwealth, upon which shall be printed blank spaces for the name, address and voting place of the sender, which shall be filled in by the city or town clerk prior to the mailing of such envelopes.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="1" order_by="1" level="3">Jurisdiction Of The Commonwealth And Of The United States</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Citizens Of Commonwealth Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        All persons who are citizens of the United States and who are domiciled in this commonwealth are citizens thereof.
+    </text>
+</law>

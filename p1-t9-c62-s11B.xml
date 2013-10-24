@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>11B</section_number>
+    <catch_line>Pooled Income Funds And Charitable Remainder Annuity Trusts Or Unitrusts; Returns, Declarations Of Estimated Tax And Payments; Liability</catch_line>
+    <order_by>11B</order_by>
+    <text>
+        Every trustee who is required to deduct and withhold taxes under section eleven A shall make returns, including declarations of estimated tax, and payments with respect to such taxes in like manner as if the taxes were imposed with respect to income received by the trustee. All provisions of chapter sixty-two C with respect to the assessment, collection and abatement of taxes, interest and penalties which are applicable to trustees subject to tax under section ten shall be applicable to trustees who are required to deduct and withhold taxes under section eleven A; provided, however, that if a trustee who is required to deduct and withhold taxes under section eleven A fails to make payment thereof to the commonwealth, and thereafter the tax against which such withheld tax may be credited is paid, the tax so required to be deducted and withheld to the extent of such payment shall not be collected from the trustee, but this proviso shall in no case relieve the trustee from liability for any penalties or addition to tax otherwise applicable in respect of such failure to make payment.
+    </text>
+</law>

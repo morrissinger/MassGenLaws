@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Classification Of Assisted Living Residences</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     Assisted living residences shall not be subject to the provisions of sections twenty-five B to twenty-five H, inclusive, section fifty-one and sections seventy E to seventy-three B, inclusive, of chapter one hundred and eleven or the seventh full paragraph of section nine of chapter forty A of the General Laws.
+        </section>
+        <section prefix="b">
+    	     No person or residential facility offering, providing or arranging for the provision of assistance with or supervision of instrumental activities of daily living only shall be required to obtain certification under this chapter or a license pursuant to section seventy-one of chapter one hundred and eleven of the General Laws.
+        </section>
+        <section prefix="c">
+    	     For the purposes of this chapter, and any other general or special law classifying real estate property for the purpose of taxation, and notwithstanding the provisions of section twenty-seven C of chapter twenty-nine of the General Laws, a municipality shall classify the portion of any building operated as an assisted living residence in the same category as property held or used for human habitation.
+        </section>
+        <section prefix="d">
+    	     Regardless of the designation of an assisted living residence as a residential, institutional or other use under any zoning ordinance, assisted living residences certified under this chapter shall be regarded as residential uses for the purposes of the state building code and shall be so regarded by the building inspectors of each city and town in the commonwealth.
+        </section>
+    </text>
+</law>

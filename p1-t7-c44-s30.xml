@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="44" order_by="44" level="3">Municipal Finance</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Determination Of Amount Of Appropriation For Departments</catch_line>
+    <order_by>30</order_by>
+    <text>
+        A city, except Boston, wherein the appropriation for any department is determined by law at a certain rate or percentage of the taxable valuation or the valuation of the taxable property therein, or however otherwise the same may be described, shall, in addition to the amount so determined, appropriate and use for such department such proportion of the proceeds of the tax upon incomes, returned by the commonwealth to the city under section eighteen of chapter fifty-eight, as the appropriation so determined by law bears to the total local tax levy of that city for the current fiscal year; but in each fiscal year such departments shall be credited with their proportion of the income tax received during the preceding fiscal year.
+    </text>
+</law>

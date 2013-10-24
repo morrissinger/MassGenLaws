@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66A" order_by="66A" level="3">Fair Information Practices</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Holders Maintaining Personal Data System; Duties</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     identify one individual immediately responsible for the personal data system who shall insure that the requirements of this chapter for preventing access to or dissemination of personal data are followed;
+        </section>
+        <section prefix="b">
+    	     inform each of its employees having any responsibility or function in the design, development, operation, or maintenance of the personal data system, or the use of any personal data contained therein, of each safeguard required by this chapter, of each rule and regulation promulgated pursuant to section three which pertains to the operation of the personal data system, and of the civil remedies described in section three B of chapter two hundred and fourteen available to individuals whose rights under chapter sixty-six A are allegedly violated;
+        </section>
+        <section prefix="c">
+    	     not allow any other agency or individual not employed by the holder to have access to personal data unless such access is authorized by statute or regulations which are consistent with the purposes of this chapter or is approved by the data subject whose personal data are sought if the data subject is entitled to access under clause (i). Medical or psychiatric data may be made available to a physician treating a data subject upon the request of said physician, if a medical or psychiatric emergency arises which precludes the data subject’s giving approval for the release of such data, but the data subject shall be given notice of such access upon termination of the emergency. A holder shall provide lists of names and addresses of applicants for professional licenses and lists of professional licensees to associations or educational organizations recognized by the appropriate professional licensing or examination board. A holder shall comply with a data subject’s request to disseminate his data to a third person if practicable and upon payment, if necessary, of a reasonable fee; provided, however, that nothing in this section shall be construed to prohibit disclosure to or access by the bureau of special investigations to the records or files of the department of transitional assistance for the purposes of fraud detection and control;
+        </section>
+        <section prefix="d">
+    	     take reasonable precautions to protect personal data from dangers of fire, identity theft, theft, flood, natural disaster, or other physical threat;
+        </section>
+        <section prefix="e">
+    	     comply with the notice requirements set forth in section sixty-three of chapter thirty;
+        </section>
+        <section prefix="f">
+    	     in the case of data held in automated personal data systems, and to the extent feasible with data held in manual personal data systems, maintain a complete and accurate record of every access to and every use of any personal data by persons or organizations outside of or other than the holder of the data, including the identity of all such persons and organizations which have gained access to the personal data and their intended use of such data and the holder need not record any such access of its employees acting within their official duties;
+        </section>
+        <section prefix="g">
+    	     to the extent that such material is maintained pursuant to this section, make available to a data subject upon his request in a form comprehensible to him, a list of the uses made of his personal data, including the identity of all persons and organizations which have gained access to the data;
+        </section>
+        <section prefix="h">
+    	     maintain personal data with such accuracy, completeness, timeliness, pertinence and relevance as is necessary to assure fair determination of a data subject’s qualifications, character, rights, opportunities, or benefits when such determinations are based upon such data;
+        </section>
+        <section prefix="i">
+    	     inform in writing an individual, upon his request, whether he is a data subject, and if so, make such data fully available to him or his authorized representative, upon his request, in a form comprehensible to him, unless doing so is prohibited by this clause or any other statute. A holder may withhold from a data subject for the period hereinafter set forth, information which is currently the subject of an investigation and the disclosure of which would probably so prejudice the possibility of effective law enforcement that such disclosure would not be in the public interest, but this sentence is not intended in any way to derogate from any right or power of access the data subject might have under administrative or judicial discovery procedures. Such information may be withheld for the time it takes for the holder to complete its investigation and commence an administrative or judicial proceeding on its basis, or one year from the commencement of the investigation or whichever occurs first. In making any disclosure of information to a data subject pursuant to this chapter the holder may remove personal identifiers relating to a third person, except where such third person is an officer or employee of government acting as such and the data subject is not. No holder shall rely on any exception contained in clause Twenty-sixth of section seven of chapter four to withhold from any data subject personal data otherwise accessible to him under this chapter;
+        </section>
+        <section prefix="j">
+    	     establish procedures that (1) allow each data subject or his duly authorized representative to contest the accuracy, completeness, pertinence, timeliness, relevance or dissemination of his personal data or the denial of access to such data maintained in the personal data system and (2) permit personal data to be corrected or amended when the data subject or his duly authorized representative so requests and there is no disagreement concerning the change to be made or, when there is disagreement with the data subject as to whether a change should be made, assure that the data subject’s claim is noted and included as part of the data subject’s personal data and included in any subsequent disclosure or dissemination of the disputed data;
+        </section>
+        <section prefix="k">
+    	     maintain procedures to ensure that no personal data are made available in response to a demand for data made by means of compulsory legal process, unless the data subject has been notified of such demand in reasonable time that he may seek to have the process quashed;
+        </section>
+        <section prefix="l">
+    	     not collect or maintain more personal data than are reasonably necessary for the performance of the holder’s statutory functions.
+        </section>
+    </text>
+</law>

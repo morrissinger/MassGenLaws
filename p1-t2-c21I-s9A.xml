@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>9A</section_number>
+    <catch_line>Threshold Amounts For Toxic Or Hazardous Substances</catch_line>
+    <order_by>9A</order_by>
+    <text>
+        <section prefix="A">
+    	     For toxics users that manufacture or process a toxic or hazardous substance, as the terms “manufacture” or “process” are defined herein, the threshold amount for a toxic or hazardous substance shall be 25,000 pounds each year at any 1 facility, except the threshold will be 1,000 pounds each year at any 1 facility for a higher hazard substance; and
+        </section>
+        <section prefix="B">
+    	     For toxics users that otherwise use a toxic or hazardous substance, the threshold amount for a toxic or hazardous substance shall be 10,000 pounds each year at any 1 facility, except the threshold will be 1,000 pounds each year at any 1 facility for a higher hazard substance.
+        </section>
+        <section prefix="C">
+    	     If the administrator of the United States Environmental Protection Agency sets a threshold quantity for facility reporting on a toxic or hazardous substance under section 313 of EPCRA which is lower than a corresponding threshold amount specified in subparagraphs (A) or (B), the corresponding threshold for that substance under this chapter shall be the same as the federal threshold.
+        </section>
+        <section prefix="D">
+    	     Upon recommendation of the institute and the board, the council shall have the authority to lower the facility-reporting threshold on a higher hazard substance below that which is specified in subparagraphs (A) and (B).
+        </section>
+    </text>
+</law>

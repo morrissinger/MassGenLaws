@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70" order_by="70" level="3">School Funds And State Aid For Public Schools</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Allocation Of Funds</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     The funds appropriated for state school aid shall be allocated among municipalities as set forth in this chapter. If said amount appropriated is less than the total base aid amount, each municipality’s allotment of base aid shall be reduced by a constant amount per student that shall be determined by dividing the difference between the total base amount and said appropriation amount by the total foundation enrollment in the state.
+        </section>
+        <section prefix="b">
+    	     If the amount appropriated is more than the base amount, funds shall first be allocated to ensure that state school aid for each municipality equals the base aid amount.
+        </section>
+        <section prefix="c">
+    	     Any additional funds shall be allocated to cover minimum aid. If the amount appropriated for state school aid is insufficient to permit full funding of the base aid and minimum aid, funds in excess of the amount needed to fund base aid shall be allocated on a proportional basis reflecting the ratio of a particular municipality’s minimum aid to the sum of minimum aid amounts of all municipalities for that fiscal year.
+        </section>
+        <section prefix="d">
+    	     All remaining funds shall be allocated to cover foundation aid, equity aid, and overburden aid.
+        </section>
+        <section prefix="e">
+    	     The allocation to each municipality that received foundation aid of more than the minimum aid amount above the base amount shall be reduced by an amount that is the lesser of (1) the minimum aid amount and (2) the positive difference, if any, between its foundation aid and minimum aid. The funds available from this reduction shall be allocated to all municipalities such that each one receives the same proportion of this aid as was received in paragraph (d). These increments shall be considered part of foundation aid, equity aid, and overburden aid.
+        </section>
+    </text>
+</law>

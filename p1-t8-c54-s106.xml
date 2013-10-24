@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>106</section_number>
+    <catch_line>Defective Ballots</catch_line>
+    <order_by>106</order_by>
+    <text>
+        If the use of a state ballot box is required, no ballot shall be counted unless it has been deposited in and cancelled by such ballot box, or has been otherwise deposited in accordance with section sixty-six. Only official ballots shall be counted in any election for which they are provided. If a voter marks more names than there are persons to be elected to an office, or if his choice cannot be determined, his ballot shall not be counted for such office. Ballots cast but not counted shall be marked “defective” on the outside thereof, and shall be preserved like other ballots.
+    </text>
+</law>

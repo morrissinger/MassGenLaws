@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Increase In Assessments</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        No county, district, public authority, the commonwealth, or other governmental entity authorized by law to assess costs, charges or fees upon cities and towns, except regional school districts, regional water districts and regional sewerage districts, may increase the total of such costs, charges or fees by more than the sum of: (1) two and one-half per cent of the total of such costs, charges or fees over the preceding fiscal year; and (2) any increases in costs, charges or fees for services customarily provided locally or for services subscribed to at local option.
+    </text>
+</law>

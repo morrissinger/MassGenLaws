@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Oath Of Office; Bond</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Each register of deeds shall be sworn before the county commissioners, or in Suffolk county before the city council of Boston, and prior to being sworn, and thereafter, at intervals of not more than one year, so long as he continues to hold such office, shall give bond to the county, in such sum as the commissioners or said council, respectively, shall approve, conditioned to perform faithfully his own official duties, with a surety company authorized to transact business in the commonwealth, as surety.
+    </text>
+</law>

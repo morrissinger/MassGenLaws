@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="7" order_by="7" level="3">Executive Office For Administration And Finance</unit>
+    </structure>
+    <section_number>22D</section_number>
+    <catch_line>Purchase Of Medical Supplies By State Agencies</catch_line>
+    <order_by>22D</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding the provisions of section twenty-two C, a state agency may purchase medical supplies intended to preserve or prolong life or to cure, prevent, or ameliorate diseases, including hospital, nutritional, diagnostic, pharmaceutical and nonprescription products specifically manufactured to satisfy identified health care needs, for which there is no medical substitute. The determination of whether no medical substitute exists shall be made by the state agency requiring the supply, pursuant to general standards of good medical and professional practice. The state agency shall give notice to the state purchasing agent in writing, certifying compliance with this exemption, said notice and certification being sufficient to allow the purchase of medical supplies under this exemption.
+        </section>
+        <section prefix="b">
+    	     to the extent that a person doing business in Northern Ireland is providing only medical supplies, as described in subsection (a), to persons in Northern Ireland, then the supply of goods or equipment to the commonwealth by said person shall also be exempt from the preference requirements of these regulations. This exemption from the preference requirements shall not apply in any case in which the nature of any person’s business dealings in Northern Ireland include both medical and nonmedical supplies.
+        </section>
+    </text>
+</law>

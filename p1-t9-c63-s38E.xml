@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>38E</section_number>
+    <catch_line>Eligible Business Facility; Excise Credit</catch_line>
+    <order_by>38E</order_by>
+    <text>
+        <section prefix="a">
+    	     A business corporation operating an eligible business facility, as defined in section eleven of chapter twenty-three B, may take a credit against the excise imposed upon it under this chapter in an amount as hereinafter provided.
+        </section>
+        <section prefix="b">
+    	     If the real estate comprising such eligible business facility is owned or leased by the corporation, the amount of the credit shall be an amount equal to the equalized tax rate differential during the taxable year multiplied by the assessed valuation of such real estate during the taxable year and divided by one thousand dollars.
+        </section>
+        <section prefix="c">
+    	     If the eligible business facility is located only upon a portion of the real estate owned or leased by the corporation, the amount of the credit shall be an amount equal to the equalized tax rate differential multiplied by the assessed valuation during the taxable year of such portion of the real estate and divided by one thousand dollars. The assessed valuation of such portion of the real estate upon which said facility is located shall be determined by a reasonable apportionment of the assessed valuation of the entire real estate.
+        </section>
+        <section prefix="d">
+    	     As used in this section the phrase “equalized tax rate differential” shall mean the amount by which the equalized tax rate of a city or town exceeds the average equalized tax rate of the commonwealth in any calendar year. The equalized tax rate of a city or town for any calendar year shall be the rate of taxation per one thousand dollars of valuation that would be levied upon its property subject to local taxation for said year if such property were assessed at its equalized valuation as last determined by the commissioner of revenue under section ten C of chapter fifty-eight. The average equalized tax rate of the commonwealth for any calendar year shall be the average rate of taxation per one thousand dollars of valuation that would be levied in the commonwealth upon all property subject to local taxation for said year if such property were assessed at its equalized valuation as last determined by the commissioner of revenue under said section ten C of said chapter fifty-eight.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Acceptance Of Funds From The United States And Other Sources</catch_line>
+    <order_by>68</order_by>
+    <text>
+        <section prefix="2">
+    	     The department may enter into agreements or other arrangements with the United States or any of its agencies as may be necessary for carrying out the purposes of sections 62 to 73, inclusive.
+        </section>
+        <section prefix="b">
+    	     The department may accept from any source any grant, donation, gift or other form of conveyance of land, money, other real or personal property or other item of value made to the commonwealth or the department for carrying out the purpose of sections 62 to 73, inclusive.
+        </section>
+        <section prefix="c">
+    	     Any transportation facility may be financed in whole or in part by contribution of any funds or property made by any private entity or affected jurisdiction that is party to a public-private agreement under sections 62 to 73, inclusive.
+        </section>
+        <section prefix="d">
+    	     The department may combine Federal, state, local and private funds to finance a transportation facility under sections 57 to 70, inclusive.
+        </section>
+    </text>
+</law>

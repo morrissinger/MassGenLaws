@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Assessment Of Cost Of Public Improvements</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Whenever a limited and determinable area receives benefit or advantage, other than the general advantage to the community, from a public improvement made by or in accordance with the formal vote or order of a board of officers of the commonwealth or of a county, city, town or district, and such order states that betterments are to be assessed for the improvement, such board shall within six months after the completion of the improvement determine the value of such benefit or advantage to the land within such area and assess upon each parcel thereof a proportionate share of the cost of such improvement, and shall include in such cost all damages awarded therefor under chapter seventy-nine; but no such assessment shall exceed the amount of such adjudged benefit or advantage. The board shall in the order of assessment designate as the owner of each parcel the person who was liable to assessment therefor on the preceding January first under the provisions of chapter fifty-nine.
+    </text>
+</law>

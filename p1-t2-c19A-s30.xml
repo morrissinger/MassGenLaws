@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Access To Facility By Ombudsman Or Designee; Purpose; Access To Residents’ Records</catch_line>
+    <order_by>30</order_by>
+    <text>
+        <section prefix="a">
+    	     investigating and resolving through administrative action complaints made by residents or on their behalf;
+        </section>
+        <section prefix="b">
+    	     interviewing residents, with their consent, in private;
+        </section>
+        <section prefix="c">
+    	     offering the services of the ombudsman or designee to any resident, in private;
+        </section>
+        <section prefix="d">
+    	     interviewing employees or agents of the long term care facility;
+        </section>
+        <section prefix="e">
+    	     consulting regularly with the facility administration; and
+        </section>
+        <section prefix="f">
+    	     providing services authorized by law or by regulation.
+        </section>
+    </text>
+</law>

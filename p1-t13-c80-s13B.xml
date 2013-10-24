@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="13" order_by="13" level="2">Eminent Domain And Betterments</unit>
+        <unit label="chapter" identifier="80" order_by="80" level="3">Betterments</unit>
+    </structure>
+    <section_number>13B</section_number>
+    <catch_line>Deferral And Recovery Agreements; Application; Recordation; Lien</catch_line>
+    <order_by>13B</order_by>
+    <text>
+        <section prefix="1">
+    	     that no sale or transfer of such real property may be consummated unless the betterment assessment which would otherwise have been collected on such real property has been paid, with interest as applied in accordance with the provisions of section thirteen;
+        </section>
+        <section prefix="2">
+    	     that upon the demise of the owner of such real property, the heirs-at-law, assignees or devisees shall have first priority to said real property by paying in full the total betterment assessment which would otherwise have been due, plus interest; provided, however, if such heir-at-law, assignee or devisee is a surviving spouse who enters into a betterment assessment deferral and recovery agreement under this section, payment of the betterment assessment and interest due shall not be required during the life of such surviving spouse;
+        </section>
+        <section prefix="3">
+    	     that if the betterment assessments due, plus interest, are not paid by the heir-at-law, assignee or devisee or if payment is not postponed during the life of a surviving spouse, such betterment assessments and interest shall be recovered from the estate of the owner; and
+        </section>
+        <section prefix="4">
+    	     that any joint owner or mortgagee holding a mortgage on such property has given written prior approval for such agreement, which written approval shall be made a part of such agreement.
+        </section>
+    </text>
+</law>

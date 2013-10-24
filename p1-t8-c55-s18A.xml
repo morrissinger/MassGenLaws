@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>18A</section_number>
+    <catch_line>Reports Of Independent Expenditures</catch_line>
+    <order_by>18A</order_by>
+    <text>
+        <section prefix="a">
+    	     Every individual, group or association not defined as a political committee who makes independent expenditures in an aggregate amount exceeding $250 during any calendar year for the express purpose of promoting the election or defeat of a candidate shall file with the director, except as provided in subsection (c), within 7 business days after the goods or services for which the independent expenditure was made are utilized to advocate for the election or defeat of a clearly identified candidate, on a form prescribed by the director, a report stating: (1) the name and address of the individual, group or association making any such independent expenditures; (2) the name of the candidate whose election or defeat the expenditure promoted; (3) the name and address of any person to whom the expenditures were made; (4) the total amount or value; and (5) the purpose and the date of each independent expenditure.
+        </section>
+        <section prefix="b">
+    	     In addition to any reports required by subsection (a), any individual, group, association or political committee that makes an independent expenditure in an aggregate amount exceeding $250 after the tenth day, but more than 24 hours, before the date of any election, shall file a preliminary report within 24 hours of making the independent expenditure, disclosing: (1) the name and address of the individual, group, association or political committee making the expenditure; (2) the name of the candidate whose election or defeat the expenditure promoted; (3) the name and address of any person to whom the independent expenditures were made; and (4) the purpose and the date of each expenditure.
+        </section>
+        <section prefix="c">
+    	     The individual, group, association or political committee shall file an additional preliminary report within 24 hours after each time it makes additional independent expenditures equal, in the aggregate, to $250 with respect to the same election as that to which the initial report relates, and shall also file any report required by subsection (a).
+        </section>
+        <section prefix="d">
+    	     The reports required by this section shall be filed with the director as provided in section 18C if expenditures are made to promote the election or defeat of any candidate who files with the director. Reports required by this section shall be filed with the city or town clerk if the expenditures are made to promote the election or defeat of any candidate seeking public office at a city or town election who does not file with the director.
+        </section>
+        <section prefix="e">
+    	     A violation of any provision of this section shall be punished by a fine of not more than $5,000 or by imprisonment in a house of correction for not more than 1 year.
+        </section>
+    </text>
+</law>

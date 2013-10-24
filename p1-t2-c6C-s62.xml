@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Definitions Applicable To Secs. 62 To 73</catch_line>
+    <order_by>62</order_by>
+    <text>
+        <section prefix="1">
+    	     required features, functions, characteristics, qualities and properties required by the department;
+        </section>
+        <section prefix="2">
+    	     the anticipated schedule, including start, duration and completion; and
+        </section>
+        <section prefix="3">
+    	     estimated budgets as applicable to the specific procurement for design, construction, operation and maintenance; provided, however, that design requirements may include drawings and other documents illustrating the scale and relationship of the features, functions and characteristics of the project.
+        </section>
+    </text>
+</law>

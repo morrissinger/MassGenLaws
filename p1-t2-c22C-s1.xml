@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22C" order_by="22C" level="3">The Department Of State Police</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     comes within the definition of a veteran pursuant to the provisions of the forty-third clause of section seven of chapter four;
+        </section>
+        <section prefix="2">
+    	     comes within such definition except that instead of having performed “wartime service” as defined therein, he has been awarded the Congressional Medal of Honor or one of the following campaign badges: Second Nicaraguan Campaign, Yangtze Service, Navy Occupation Service, Army of Occupation or Medal for Humane Action; or
+        </section>
+        <section prefix="3">
+    	     is a person eligible to receive the Congressional Medal of Honor or one of the campaign badges enumerated in clause (2) and who presents proof of such eligibility which is satisfactory to the personnel administrator; provided that a veteran shall not include active duty for training in the army national guard or air national guard or active duty for training as a reservist in the armed forces of the United States.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15" order_by="15" level="3">Department Of Elementary And Secondary Education</unit>
+    </structure>
+    <section_number>1R</section_number>
+    <catch_line>School Library And Nonprint Media Services; Funding</catch_line>
+    <order_by>1R</order_by>
+    <text>
+        <section prefix="1">
+    	     the acquisition or rental of library and nonprint media materials, resources, and appropriate equipment.
+        </section>
+        <section prefix="2">
+    	     supplementary library and nonprint media subprofessional personnel.
+        </section>
+        <section prefix="3">
+    	     consultative services.
+        </section>
+    </text>
+</law>

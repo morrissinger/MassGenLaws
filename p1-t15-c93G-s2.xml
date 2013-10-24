@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Termination Of Dealer Agreement; Cause; Lease</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any agreement to the contrary, prior to the termination of a dealer agreement, a supplier shall notify the dealer of the termination not less than one hundred and twenty days prior to the effective date of the termination. No supplier may terminate, cancel or fail to renew a dealer agreement without cause. For purposes of this paragraph cause means failure by an equipment dealer to comply with requirements imposed upon the equipment dealer by the dealer agreement; provided however, that the requirements are not substantially different from those requirements imposed upon other similarly situated dealers in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The supplier may immediately terminate an agreement at any time upon the occurrence of any of the following events:
+        </section>
+        <section prefix="1">
+    	     the filing of a petition for bankruptcy or for receivership either by or against the dealer;
+        </section>
+        <section prefix="2">
+    	     the making by the dealer of an intentional and material misrepresentation as to the dealer’s financial status;
+        </section>
+        <section prefix="3">
+    	     any default by the dealer under a chattel mortgage or other security agreement between the dealer and the supplier;
+        </section>
+        <section prefix="4">
+    	     the commencement of voluntary or involuntary dissolution or liquidation of the dealer if the dealer is a partnership or corporation;
+        </section>
+        <section prefix="5">
+    	     a change in location of the dealer’s principal place of business as provided in the agreement without the prior written approval of the supplier;
+        </section>
+        <section prefix="6">
+    	     withdrawal of an individual proprietor, partner, major shareholder, or the involuntary termination of the manager of the dealership, or a substantial reduction in the interest of a partner or major shareholder without the prior written consent of the supplier.
+        </section>
+        <section prefix="c">
+    	     Unless there is an agreement to the contrary, a dealer who intends to terminate a dealer agreement with the supplier shall notify the supplier of such intent not less than one hundred and twenty days prior to the effective date of the termination.
+        </section>
+        <section prefix="d">
+    	     Notification required by either party under this section shall be in writing and shall be made by certified mail or by delivery in hand and shall contain:
+        </section>
+        <section prefix="1">
+    	     a statement of intention to terminate the dealer agreement;
+        </section>
+        <section prefix="2">
+    	     a statement of the reasons for the termination; and
+        </section>
+        <section prefix="3">
+    	     the date on which the termination shall be effective.
+        </section>
+    </text>
+</law>

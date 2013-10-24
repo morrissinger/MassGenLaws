@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Tax Rate</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="1">
+    	     The authority or qualification to carry on or do business in this state or the actual doing of business within the commonwealth. The term “doing business” as used herein shall mean and include each and every act, power, right, privilege, or immunity exercised or enjoyed in the commonwealth, as an incident to or by virtue of the powers and privileges acquired by the nature of those organizations, as well as, the buying, selling or procuring of services or property.
+        </section>
+        <section prefix="2">
+    	     The exercising or continuance of a business corporation’s charter or other means of legal authority within the commonwealth.
+        </section>
+        <section prefix="3">
+    	     The owning or using any part or all of its capital, plant or other property in the commonwealth.
+        </section>
+        <section prefix="a">
+    	     An amount equal to the sum of:—
+        </section>
+        <section prefix="1">
+    	     $2.60 per 1,000 upon the value of: (i) its tangible property as determined to be taxable under paragraph 7 of section 30 if a tangible property corporation; or (ii) its net worth as determined to be taxable under paragraph 8 of section 30 if an intangible property corporation; and
+        </section>
+        <section prefix="b">
+    	     $456.
+        </section>
+    </text>
+</law>

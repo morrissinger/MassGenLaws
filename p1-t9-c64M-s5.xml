@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64M" order_by="64M" level="3">Taxation Of Direct Broadcast Satellite Service</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Liability For Failure To Pay Taxes Under This Chapter</catch_line>
+    <order_by>5</order_by>
+    <text>
+        [Text of section applicable as provided by 2009, 27, Sec. 150.] 
+A direct broadcast satellite service provider who fails to pay the commissioner any sums required to be paid by this chapter shall be personally and individually liable therefor to the commonwealth. The term “direct broadcast satellite service provider”, as used in this section, includes an officer or employee of a corporation or other business entity or a member or employee of a partnership who, as such officer, employee or member, is under a duty to pay over the taxes imposed by this chapter.
+    </text>
+</law>

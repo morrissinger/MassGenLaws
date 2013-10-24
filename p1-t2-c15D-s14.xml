@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15D" order_by="15D" level="3">Department Of Early Education And Care</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Background Information On Prospective Adoptive Families; Registration Of Placement Agency With Adoptive Resource Exchange</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     A person whose consent is required by section 2 of chapter 210 may, before surrender, request from a placement agency background information pertaining to the prospective adoptive family in which the placement agency expects to place the child if surrendered. The board shall adopt rules and regulations regarding the nature of the background information. No agency shall be required to reveal the identity or geographical location of the prospective adoptive family to such person. The placement agency shall provide the background information in writing unless the person whose consent is required signs a written waiver of the request.
+        </section>
+        <section prefix="b">
+    	     Each placement agency shall register with an adoption resource exchange in the commonwealth whose goal is adoption of a child, whether the child is free for adoption or at legal risk, for whom the placement agency has been unable to identify a specific adoptive family or initiate the adoption process with a prospective adoptive family within 60 days of the determination of the goal of adoption. For the purposes of this section, an “adoption resource exchange” shall mean a nonprofit agency, the primary purpose of which is to link children awaiting placement with permanent families by providing information and referral services and by the recruitment of potential adoptive families.
+        </section>
+    </text>
+</law>

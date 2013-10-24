@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Center For Materials Reuse</catch_line>
+    <order_by>41</order_by>
+    <text>
+        <section prefix="a">
+    	     The Chelsea center for materials reuse, administered by the center for environmentally appropriate materials at the University of Massachusetts Lowell, hereinafter referred to as the center for materials reuse, shall be established to promote the development of materials reuse technology, management, and policy.
+        </section>
+        <section prefix="b">
+    	     The purposes and responsibilities of the center for material reuse shall be to:
+        </section>
+        <section prefix="1">
+    	     serve as a focal point for the promotion of materials recycling and reuse;
+        </section>
+        <section prefix="2">
+    	     provide a common ground to bring together leaders and stakeholders who will benefit from and promote recycling and reuse;
+        </section>
+        <section prefix="3">
+    	     promote coordination among existing state, local and private materials recycling and reuse services and assist in the development of new services and enterprises that will emerge from enhanced materials recycling and reuse;
+        </section>
+        <section prefix="4">
+    	     provide training in recycling and reuse of materials; and
+        </section>
+        <section prefix="5">
+    	     assist in the development and deployment of innovative materials recycling and reuse technologies.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21H" order_by="21H" level="3">Solid Waste Facilities</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Composting Programs</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall be authorized to implement regional yard waste and leaf composting projects and shall utilize state-owned land where feasible. The department shall also be authorized to accept applications from municipalities for grants and to award grants to assist in the development of local and regional composting projects. The department shall promulgate rules and regulations for the operation of a state and local yard waste and leaf composting program.
+        </section>
+        <section prefix="b">
+    	     The department of food and agriculture shall establish an agricultural composting program. Said department of food and agriculture is hereby authorized to establish state and local composting projects, to establish a demonstration agricultural composting program, and to accept applications for grants from municipalities for the purposes of creating agricultural composting projects. Said department of food and agriculture shall promulgate rules and regulations for the operation of state, local, and demonstration agricultural composting programs.
+        </section>
+    </text>
+</law>

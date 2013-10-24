@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21G" order_by="21G" level="3">Massachusetts Water Management Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Water Emergency Declaration</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="1">
+    	     an approved water resources management plan;
+        </section>
+        <section prefix="2">
+    	     a leak detection program;
+        </section>
+        <section prefix="3">
+    	     a program for auditing water use;
+        </section>
+        <section prefix="4">
+    	     a program for overall system rehabilitation;
+        </section>
+        <section prefix="5">
+    	     conservation programs for public and private buildings;
+        </section>
+        <section prefix="6">
+    	     bans or restrictions on certain water uses;
+        </section>
+        <section prefix="7">
+    	     a moratorium on the issuance of building permits;
+        </section>
+        <section prefix="8">
+    	     a plan for establishing priority for distribution of water among competing uses; and
+        </section>
+        <section prefix="9">
+    	     drought management or contingency plans.
+        </section>
+    </text>
+</law>

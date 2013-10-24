@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>202</section_number>
+    <catch_line>Child Abuse Prevention Board; Members; Term; Executive Director;  Removal</catch_line>
+    <order_by>202</order_by>
+    <text>
+        <section prefix="a">
+    	     the following 10 ex-officio members: the secretary of health and human services, the secretary of housing and economic development, the commissioner of early education and care, the commissioner of children and families, the commissioner of mental health, the commissioner of youth services, the commissioner of elementary and secondary education, the commissioner of public health, the commissioner of transitional assistance, and the child advocate, or their designees;
+        </section>
+        <section prefix="b">
+    	     the following 12 persons from the private sector appointed by the governor from recommendations by the board: 1 parent, 1 pediatrician, 1 child psychiatrist, 1 early childhood education specialist, 1 mental health specialist in child abuse, 1 district attorney, 1 teacher, 1 judge, 1 member of the Massachusetts bar, 1 criminal justice professional, 1 social worker from a private child welfare agency, and 1 representative of a private charitable foundation; and
+        </section>
+        <section prefix="c">
+    	     between 3 and 28 additional members appointed by the governor from recommendations by the board. These individuals shall be appointed based upon their knowledge of and interest in child abuse prevention. The governor shall seek to provide diverse geographical representation, with particular attention given to appointing members who reflect the ethnic and racial diversity of the commonwealth’s children, youth and families, and shall assure that each of the commonwealth’s 6 human service regions, established by the executive office of health and human services, is represented by 1 of the appointments.
+        </section>
+    </text>
+</law>

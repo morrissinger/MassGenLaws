@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following words as used in this chapter shall, unless the context otherwise requires, have the following meanings:— 
+“Commissioner”, the commissioner of revenue. 
+“Internal Revenue Code”, the Internal Revenue Code of the United States as amended and in effect for the applicable year; 
+“Employer”, employer as defined in section thirty-four hundred and one (d) of the Internal Revenue Code; 
+“Employee”, employee as defined in section thirty-four hundred and one (c) of the Internal Revenue Code, except full time students engaged in seasonal, temporary or part-time employment whose estimated annual income would not exceed two thousand dollars. 
+“Wages”, for withholding purposes only, wages as defined in section thirty-four hundred and one (a) of the Internal Revenue Code, periodic payments and nonperiodic distributions as defined in section thirty-four hundred and five of said Code and subject to federal withholding, and contributions paid by the employer on behalf of the employee pursuant to subdivision ten of section twenty-two of chapter thirty-two or pursuant to paragraph (i) of section sixty-five D of chapter thirty-two and not otherwise included as wages above.
+    </text>
+</law>

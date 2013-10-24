@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="91" order_by="91" level="3">Waterways</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Applications To Congress For Appropriations For Harbors</catch_line>
+    <order_by>36</order_by>
+    <text>
+        The department may apply to congress for appropriations for the protection and improvement of any harbor in the commonwealth.
+    </text>
+</law>

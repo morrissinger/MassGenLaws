@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64A" order_by="64A" level="3">Taxation Of Sales Of Gasoline</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Licenses</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Any person who qualifies under paragraph (c), or paragraph (i), or paragraph (j) of section one may apply to the commissioner, in accordance with section sixty-seven of chapter sixty-two C, for a license as a distributor, as an unclassified importer, or as an unclassified exporter, as the case may be. No distributor or unclassified importer shall make any sale of fuel in the commonwealth, except a sale which is exempt under the constitution and laws of the United States, without such a license.
+    </text>
+</law>

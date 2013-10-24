@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Application Of Chapter To Increase Of Capacity</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Notwithstanding the first paragraph of section eighteen, chapter twenty-one D shall apply to the increase of capacity to store, treat, or dispose of any particular type of hazardous waste, unless an existing siting agreement established pursuant to the requirements of chapter twenty-one D provides for the conditions under which such increase of capacity shall be permitted.
+    </text>
+</law>

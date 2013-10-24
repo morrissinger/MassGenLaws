@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Community Service Area Boards</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     to act in the interest of the citizens of the area served;
+        </section>
+        <section prefix="2">
+    	     to advise the area director, the commissioner and the state advisory board on the needs and resources of the area served, on steps that should be taken to increase the effectiveness of the transitional assistance program in the area, the quality of care and service given to the people of the area, and the working relationships between the public and voluntary agencies working in the area;
+        </section>
+        <section prefix="3">
+    	     to advise the commissioner of transitional assistance in the selection of the area director;
+        </section>
+        <section prefix="4">
+    	     to review and make recommendations to the area director regarding the annual plan and budget for the transitional assistance program provided by the community service area with a view to its comprehensiveness and steps that may be taken to ensure the provisions, as practicable, of the comprehensive program set forth in section two; to advise on priorities in the development of program for the area;
+        </section>
+        <section prefix="5">
+    	     to make an annual report to the state advisory board, to the commissioner and the area director; and
+        </section>
+        <section prefix="6">
+    	     to receive and administer in separate trusts any funds granted, given or bequeathed to its use in the interest of the area program or for a special purpose as indicated in the gift, grant, or order or decree of a court.
+        </section>
+    </text>
+</law>

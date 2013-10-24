@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="36" order_by="36" level="3">Registers Of Deeds</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Facsimile Signatures</catch_line>
+    <order_by>19</order_by>
+    <text>
+        A facsimile of the signature of any register, imprinted by him, by an assistant register or by such office assistant as the register in writing may designate, upon any original instrument in attestation of the fact that the same has been recorded in his registry or upon any copy of the records or plans which the register is authorized by law to certify or attest as a true copy, shall have the same validity as his written signature.
+    </text>
+</law>

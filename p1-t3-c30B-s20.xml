@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Preference For Products Of Agriculture Grown Or Produced Using Products Grown In Commonwealth; Governmental Bodies</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary and to the extent permitted by federal law, a governmental body may, by a majority vote, establish a preference for products of agriculture as defined in section 1A of chapter 128 including, but not limited to, fruits, vegetables, eggs, dairy products, meats, crops, horticultural products and products processed into value added products as part of a Massachusetts farm operation as well as fish, seafood, and other aquatic products.
+        </section>
+        <section prefix="b">
+    	     Wherever a governmental body by a majority vote establishes a preference for the procurement of such products of agriculture grown or produced using products grown in the commonwealth, the procurement officer responsible for procuring agricultural products on behalf of the governmental body shall effectuate such preference in: (i) advertising for bids, contracts or otherwise and making reasonable efforts to facilitate the purchase of such products of agriculture grown or produced using products grown in the commonwealth; and (ii) purchasing products of agriculture grown or produced using products grown in the commonwealth, unless the price of such goods exceeds, by more than 10 per cent, the price of agricultural products grown or produced outside of the commonwealth.
+        </section>
+    </text>
+</law>

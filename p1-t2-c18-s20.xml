@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="18" order_by="18" level="3">Department Of Transitional Assistance</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Purchase Of Home Or Income Producing Property</catch_line>
+    <order_by>20</order_by>
+    <text>
+        The department may, after approval by the commissioner, authorize the purchase of a home by a recipient where suitable public or private rental accommodations cannot be found. 
+The department shall have a lien on the property so purchased to the extent of assistance granted toward the purchase of such home. In no event shall such authorization be given for the purchase of income producing property.
+    </text>
+</law>

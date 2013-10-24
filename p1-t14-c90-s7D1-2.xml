@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>7D1/2</section_number>
+    <catch_line>Transportation Of Vocational School Students; Motor Vehicle Requirements; Seat Belts</catch_line>
+    <order_by>7D1/2</order_by>
+    <text>
+        <section prefix="1">
+    	     To provide adequate space for the secured and affixed storage of all tools, equipment and materials to be transported;
+        </section>
+        <section prefix="2">
+    	     To be operated by a person eighteen years of age or over who has had at least three years of licensed driving experience and who is duly licensed by his state of residence for operation of the class of vehicle being operated and has said license in his possession.
+        </section>
+        <section prefix="3">
+    	     To be equipped with one pair of adequate chock blocks and three flares in compliance with United States motor vehicle D.O.T. Safety Standards No. 125 which shall be placed upon the roadway in compliance with section fourteen B of chapter eighty-five when such vehicle becomes disabled upon the traveled portion of any street or highway; and
+        </section>
+        <section prefix="4">
+    	     To be equipped with a seat belt for each permanent seating accommodation designed and installed in compliance with United States motor vehicle D.O.T. safety standards, which seat belt shall be fastened about each passenger at all times during vehicle operation.
+        </section>
+    </text>
+</law>

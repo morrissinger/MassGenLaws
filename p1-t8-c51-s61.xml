@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>61</section_number>
+    <catch_line>Certification Of Registered Voters</catch_line>
+    <order_by>61</order_by>
+    <text>
+        They shall forthwith, after the final day for registration before a biennial state or regular city or town election, certify to the state secretary the number of registered voters in the city or town, and in each ward and precinct therein. 
+In cities where the city clerk is not a member of the board of registrars, the registrars shall likewise, after the last day for registration for a city election, certify to the city clerk the number of registered voters in the city, and in each ward and voting precinct therein.
+    </text>
+</law>

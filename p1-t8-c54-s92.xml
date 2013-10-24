@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>92</section_number>
+    <catch_line>Method Of Voting</catch_line>
+    <order_by>92</order_by>
+    <text>
+        <section prefix="a">
+    	     A voter who receives the ballot by mail, as provided in subsection (a) of section ninety-one B, may return it by mail to the city or town clerk in the envelope provided pursuant to subsection (d) of section eighty-seven, or such voter or a family member may deliver it in person to the office of the city or town clerk. A voter to whom a ballot was delivered in person at the office of the clerk as provided in said subsection (a) of said section ninety-one B shall return it without removing the ballot from such office.
+        </section>
+        <section prefix="b">
+    	     A voter to whom an election official delivered the ballot in person at a designated health care facility, as provided in subsection (b) of section ninety-one B, shall return it to such election official, who shall return it in his custody to the office of the city or town clerk.
+        </section>
+        <section prefix="c">
+    	     A voter to whom a ballot was delivered in person as provided in subsection (c) of section ninety-one B shall return it to the person who delivered it, and such person shall immediately return it in his custody to the office of the city or town clerk.
+        </section>
+    </text>
+</law>

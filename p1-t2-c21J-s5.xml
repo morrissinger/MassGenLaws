@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21J" order_by="21J" level="3">Underground Storage Tank Petroleum Product Cleanup Fund</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Reimbursement Of Costs</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     For each tank eligible for reimbursement pursuant to this chapter, reimbursement for all costs, expenses, claims, and other obligations eligible for reimbursement pursuant to this chapter shall not exceed, in the aggregate, $1,500,000 for reimbursement under section (4)(a)(1) and $1,500,000 for expenses under
+        </section>
+        <section prefix="b">
+    	     For each tank eligible for reimbursement pursuant to this chapter, reimbursement for all costs, expenses, claims, and other obligations otherwise eligible for reimbursement pursuant to this chapter shall be subject to a deductible that shall be calculated as follows:
+        </section>
+        <section prefix="1">
+    	     If the tank owner or operator owns one or more underground storage tank and underground storage tank systems at three or more sites, the deductible shall be the first ten thousand dollars of all costs, expenses, claims, and other obligations otherwise eligible for reimbursement pursuant to this chapter.
+        </section>
+        <section prefix="2">
+    	     If the tank owner or operator owns one or more tanks at two sites, the deductible shall be the first seven thousand five hundred dollars of all costs, expenses, claims, and other obligations otherwise eligible for reimbursement pursuant to this chapter.
+        </section>
+        <section prefix="3">
+    	     If the tank owner or operator owns one or more tanks at only one site, the deductible shall be the first five thousand dollars of all costs, expenses, claims, and other obligations otherwise eligible for reimbursement pursuant to this chapter.
+        </section>
+    </text>
+</law>

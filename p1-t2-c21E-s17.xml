@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Indemnification Agreements To Hold Harmless Response Action Contractor</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The commonwealth may enter into an indemnification agreement to indemnify and hold harmless any response action contractor who meets the requirements of this section against any liability for negligence, including legal fees and costs, if any, in an amount not to exceed a figure established by the indemnification agreement pursuant to the terms of this section. In no event shall the amount of indemnification to be provided under an indemnification agreement exceed two million dollars for a single occurrence involving the release or threatened release of oil or hazardous material. No indemnification shall be provided pursuant to an indemnification agreement under this section if the response action contractor acted in a grossly negligent, willful or malicious manner or if the act or omission which gives rise to a claim was not within the scope of the response action contract.
+        </section>
+        <section prefix="b">
+    	     The indemnification provided by subsection (a) shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Nothing in this section shall affect the liability under this chapter or under any state or federal law of any potentially responsible party.
+        </section>
+        <section prefix="c">
+    	     Indemnification under this section shall apply only to response action contractor liability arising out of a release or threatened release of oil or hazardous material resulting from response actions conducted by the response action contractor pursuant to its response action contract.
+        </section>
+        <section prefix="d">
+    	     Indemnification may be provided under this section only if the response action contractor and the commonwealth or an agency thereof enter into an indemnification agreement. An indemnification agreement may be entered into by the commonwealth or any of its agencies only if the following requirements are met:
+        </section>
+        <section prefix="1">
+    	     The liability covered by the indemnification agreement exceeds or is not covered by insurance available to the response action contractor at a fair and reasonable price when entering into the response action contract, and adequate insurance to cover such liability is not generally available at the time the response action contract is entered into.
+        </section>
+        <section prefix="2">
+    	     The response action contractor has made diligent efforts to obtain insurance coverage for such liability from sources other than the commonwealth including diligent efforts to self-insure.
+        </section>
+        <section prefix="3">
+    	     In the case of a response action contract covering more than one site, the response action contractor agrees to make such diligent efforts to obtain insurance coverage each time the contractor begins work under the contract at a new site.
+        </section>
+        <section prefix="e">
+    	     Any indemnification agreement entered into under subsection (d) shall include specific terms and conditions under which the commonwealth will indemnify the contractor, such as the establishment of premiums, deductibles and limitations on available indemnification, and the provision of notice to the commonwealth in the event that a claim is asserted against the response action contractor.
+        </section>
+        <section prefix="f">
+    	     The commissioner of insurance shall provide information necessary to make the determination specified in clause (1) of subsection (d) through the publishing of an annual report on the availability of insurance for response action contractors generally, and by providing guidance to agencies of the commonwealth on an ongoing basis. The first of such reports shall be published within thirty days of the effective date of this section.
+        </section>
+        <section prefix="g">
+    	     Amounts expended pursuant to this section for indemnification of any person who is a response action contractor with respect to any release or threatened release, shall be considered a cost of response incurred by the commonwealth with respect to such release, and the commonwealth may seek recovery of such costs from other parties liable under section five.
+        </section>
+    </text>
+</law>

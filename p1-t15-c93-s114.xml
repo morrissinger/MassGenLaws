@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>114</section_number>
+    <catch_line>Real Estate Transactions; Disclosure; Psychologically Impacted Property</catch_line>
+    <order_by>114</order_by>
+    <text>
+        <section prefix="a">
+    	     that an occupant of real property is now or has been suspected to be infected with the Human Immunodeficiency Virus or with Acquired Immune Deficiency Syndrome or any other disease which reasonable medical evidence suggests to be highly unlikely to be transmitted through the occupying of a dwelling;
+        </section>
+        <section prefix="b">
+    	     that the real property was the site of a felony, suicide or homicide; and
+        </section>
+        <section prefix="c">
+    	     that the real property has been the site of an alleged parapsychological or supernatural phenomenon.
+        </section>
+    </text>
+</law>

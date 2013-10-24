@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>68C</section_number>
+    <catch_line>Written Statement Provided To Buyer; Contents</catch_line>
+    <order_by>68C</order_by>
+    <text>
+        <section prefix="1">
+    	     a complete and accurate statement of the buyer’s right to review any file on the buyer maintained by a consumer reporting agency, as provided under 15 USC 1681 et seq. (Fair Crediting Reporting Act);
+        </section>
+        <section prefix="2">
+    	     a statement that the buyer may review his consumer reporting agency file at no charge if a request therefor is made to such agency within thirty days after receipt by the buyer of notice that credit has been denied;
+        </section>
+        <section prefix="3">
+    	     if such request is not made within the allotted time, the approximate charge to the buyer for such review;
+        </section>
+        <section prefix="4">
+    	     a complete and accurate statement of the buyer’s right to dispute the completeness or accuracy of any item contained in any file on the buyer maintained by a consumer reporting agency;
+        </section>
+        <section prefix="5">
+    	     a complete and detailed description of the services to be performed by the credit services organization and the total cost to the buyer for such services;
+        </section>
+        <section prefix="6">
+    	     a statement asserting the buyer’s right to proceed against the surety bond or trust account required under section sixty-eight B; and
+        </section>
+        <section prefix="7">
+    	     the name and business address of any such surety company and of the depository of the trust account, together with the name of the trustee and the number of the account.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>32A</section_number>
+    <catch_line>Outstanding Obligations On Installment Transactions; Method For Determining Interest</catch_line>
+    <order_by>32A</order_by>
+    <text>
+        <section prefix="a">
+    	     If an obligation from an installment transaction to which subsections (a) to (c), inclusive, of section 453A of the Code applies is outstanding as of the close of a taxable year, the tax imposed by chapter 62 or 63 for that taxable year shall be increased by the amount of interest equal to the product of the applicable percentage of the deferred tax liability determined under section 453A(c) of the Code, adjusted to reflect differences in, or otherwise to take into account, the tax laws of the commonwealth, including use of the applicable tax rate under said chapter 62 or 63, multiplied by the underpayment rate in effect under subsection (a) of section 32.
+        </section>
+        <section prefix="b">
+    	     In the case of an installment obligation to which section 453(l)(2)(B) of the Code applies, the tax imposed by chapter 62 or 63 for a tax year in which payment on that obligation is received shall be increased by an amount of interest determined as follows: the amount of tax for that taxable year attributable to the payments on installment obligations to which this subsection applies shall be multiplied by the underpayment rate determined under subsection (a) of section 32 in effect at the time of sale, which rate shall be applied for the period beginning on the date of sale and ending on the date that payment is received.
+        </section>
+        <section prefix="c">
+    	     The commissioner may issue rules or regulations analogous to those under sections 453 and 453A of the Code, adjusted to reflect differences in, or otherwise to take into account, the tax laws of the commonwealth.
+        </section>
+    </text>
+</law>

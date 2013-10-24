@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="91" order_by="91" level="3">Waterways</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Liability Of Insurer</catch_line>
+    <order_by>44</order_by>
+    <text>
+        An insurer of a vessel who has paid the loss thereon shall not, by reason of such insurance, be held liable to remove such vessel, or to pay the cost and expenses of such removal, unless he has exercised some act of ownership or control over such vessel or some part or appurtenance thereof or received the proceeds of the sale thereof.
+    </text>
+</law>

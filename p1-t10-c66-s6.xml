@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="10" order_by="10" level="2">Public Records</unit>
+        <unit label="chapter" identifier="66" order_by="66" level="3">Public Records</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Records Of Public Proceedings; Preparation; Custody</catch_line>
+    <order_by>6</order_by>
+    <text>
+        Every department, board, commission or office of the commonwealth or of a county, city or town, for which no clerk is otherwise provided by law, shall designate some person as clerk, who shall enter all its votes, orders and proceedings in books and shall have the custody of such books, and the department, board, commission or office shall designate an employee or employees to have the custody of its other public records. Every sole officer in charge of a department or office of the commonwealth or of a county, city or town having public records in such department or office shall have the custody thereof.
+    </text>
+</law>

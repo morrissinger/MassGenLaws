@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>22F</section_number>
+    <catch_line>Revised Retirement System Funding Schedule</catch_line>
+    <order_by>22F</order_by>
+    <text>
+        <section prefix="a">
+    	     A system, other than the state employees’ retirement system and the teachers’ retirement system, which conducts an actuarial valuation of the retirement system as of January 1, 2009, or later, may establish a revised retirement system funding schedule, subject to the approval of the actuary, which reduces the unfunded actuarial liability of the system to zero not later than June 30, 2040, as long as: (1) the payment in a year under the revised schedule or a subsequent schedule is not less than the payment in a prior fiscal year under the then current schedule until the system is fully funded; and (2) the increase in the amortization component of the appropriations required by the schedule from year to year does not exceed 4 per cent and is so designed that the funding schedule and any updates to it reduce the unfunded actuarial liability of the system to zero on or before June 30, 2040.
+        </section>
+        <section prefix="b">
+    	     If an updated actuarial valuation allows for the development of a revised schedule with reduced payments, the revised schedule shall be adjusted to reduce the unfunded liability of the system to zero by an earlier date to the extent required to ensure that the appropriation required for a particular year under the new schedule shall not be less than the amount identified for that year under the prior schedule established under this section.
+        </section>
+        <section prefix="c">
+    	     If a schedule established under this section would result in an appropriation in the first fiscal year of the schedule that is greater than 8 per cent more than the appropriation in the previous fiscal year, the requirement of clause (2) of subsection (a) may be adjusted with the approval of the public employee retirement administration commission.
+        </section>
+        <section prefix="d">
+    	     Systems may establish a schedule under this section that provides for an increase in the maximum base amount on which the cost-of-living adjustment is calculated pursuant to section 103, in multiples of $1,000. Acceptance of this subsection shall be in accordance with paragraph (j) of section 103.
+        </section>
+    </text>
+</law>

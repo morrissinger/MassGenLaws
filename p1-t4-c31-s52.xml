@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="31" order_by="31" level="3">Civil Service</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Towns; Civil Service Offices And Positions</catch_line>
+    <order_by>52</order_by>
+    <text>
+        <section prefix="1">
+    	     Inspectors of plumbing.
+        </section>
+        <section prefix="2">
+    	     Sealers and deputy sealers of weights and measures and inspectors and deputy inspectors of weights and measures, whether they are heads of departments or not, in towns of over ten thousand inhabitants.
+        </section>
+        <section prefix="3">
+    	     Offices and positions allocable to the official service in any town of more than five thousand inhabitants which votes pursuant to the provisions of sections fifty-four and fifty-five to accept the applicability of the civil service law and rules to such service.
+        </section>
+        <section prefix="4">
+    	     Positions allocable to the labor service in any town of more than five thousand inhabitants which votes pursuant to the provisions of sections fifty-four and fifty-five to accept the applicability of the civil service law and rules to such service.
+        </section>
+        <section prefix="5">
+    	     Any municipal office to which the civil service law and rules are made applicable pursuant to section fifty-three.
+        </section>
+        <section prefix="6">
+    	     Any office or position to which the civil service law and rules were applicable immediately preceding the effective date of this chapter.
+        </section>
+        <section prefix="a">
+    	     The chief of police, or the officer performing similar duties, whatever the title of his office, in any town.
+        </section>
+        <section prefix="b">
+    	     The chief of the fire department, or the officer performing similar duties, whatever the title of his office in any town.
+        </section>
+        <section prefix="c">
+    	     The police force, the fire force and the call fire force in any town.
+        </section>
+        <section prefix="d">
+    	     Parking meter supervisor in any town.
+        </section>
+        <section prefix="e">
+    	     Janitors of school buildings in a town with more than five thousand inhabitants.
+        </section>
+        <section prefix="f">
+    	     Supervisors of attendance in a town with more than five thousand inhabitants.
+        </section>
+        <section prefix="g">
+    	     Clerical positions in the school department of a town with more than five thousand inhabitants.
+        </section>
+        <section prefix="h">
+    	     Sealers and deputy sealers of weights and measures or inspectors and deputy inspectors of weights and measures, whether they are heads of departments or not, in a town with more than five thousand but not more than ten thousand inhabitants.
+        </section>
+    </text>
+</law>

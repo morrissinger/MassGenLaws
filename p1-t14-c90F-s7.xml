@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90F" order_by="90F" level="3">Uniform Operation Of Commercial Motor Vehicles Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Commercial Driver License Applications</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     the full name and current mailing and residential addresses of the applicant;
+        </section>
+        <section prefix="2">
+    	     a physical description of the applicant, including sex, height, weight and eye and hair color;
+        </section>
+        <section prefix="3">
+    	     date of birth of the applicant;
+        </section>
+        <section prefix="4">
+    	     the applicant’s Social Security number;
+        </section>
+        <section prefix="5">
+    	     the signature of the applicant;
+        </section>
+        <section prefix="6">
+    	     a photograph of the applicant;
+        </section>
+        <section prefix="7">
+    	     certifications, including those required by 49 CFR 383.71 (a);
+        </section>
+        <section prefix="8">
+    	     consent of the applicant to release driving record information; and
+        </section>
+        <section prefix="9">
+    	     any other information required by the registrar.
+        </section>
+    </text>
+</law>

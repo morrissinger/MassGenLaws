@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Jurisdiction And Procedure Of Probate Court.</catch_line>
+    <order_by>30</order_by>
+    <text>
+        The probate court having jurisdiction of the settlement of the estate of the decedent shall, subject to appeal as in other cases, hear and determine all questions relative to the tax imposed by this chapter, or by the corresponding provisions of earlier laws, and the commissioner shall represent the commonwealth in any such proceedings. If the court finds that any tax remains due, it shall order the executor, administrator or trustee to pay the same, with interest and costs, and execution shall be awarded against the goods and estate of the deceased in the hands of the executor, administrator or trustee, or, if it appears that there are no such goods or estate in his hands, against the goods and estate of the executor, administrator or trustee, as if for his own debt; but the administrators, executors, trustees and grantees mentioned in this chapter shall be personally liable only for such taxes as shall be payable while they continue in the said offices or have title as such grantees respectively.
+    </text>
+</law>

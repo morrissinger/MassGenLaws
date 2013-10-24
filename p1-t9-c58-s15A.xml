@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58" order_by="58" level="3">General Provisions Relative To Taxation</unit>
+    </structure>
+    <section_number>15A</section_number>
+    <catch_line>Exemptions For Certain State Lands</catch_line>
+    <order_by>15A</order_by>
+    <text>
+        Notwithstanding any contrary provision of sections thirteen to seventeen, inclusive, land owned by the commonwealth for any of the purposes named in section thirteen which at the time of its acquisition by the commonwealth was exempt from local taxation, except land under the care and control of the division of fisheries and wildlife and used as a game preserve or wildlife sanctuary and which was at the time of its acquisition by the commonwealth under the care and control of the federal government, shall not be included in any determination of valuation under sections thirteen, fourteen or fifteen or in any statement under section sixteen or in any reimbursement under section seventeen.
+    </text>
+</law>

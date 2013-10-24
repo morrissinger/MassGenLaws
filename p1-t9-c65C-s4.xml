@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Nonresident Decedents; Tax On Certain Property Located In Commonwealth</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A tax is hereby imposed on the transfer of a nonresident decedent’s real and tangible personal property having an actual situs in Massachusetts, if such property would have been included in the Massachusetts gross estate had the decedent been a resident.
+        </section>
+        <section prefix="b">
+    	     The tax imposed under subsection (a) shall be an amount which bears the same ratio to the tax that would be due if the decedent had been a resident as (i) the value of all real and tangible personal property, diminished by any mortgage or lien thereon, having an actual situs in Massachusetts, the transfer of which is subject to tax under said subsection (a) bears to (ii) the value of the decedent’s Massachusetts gross estate, diminished by any mortgage or lien or property included therein, determined as if he had been a resident.
+        </section>
+    </text>
+</law>

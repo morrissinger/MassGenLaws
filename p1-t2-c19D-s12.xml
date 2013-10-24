@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19D" order_by="19D" level="3">Assisted Living</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Individualized Plans For Residents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Each assisted living residence shall develop and maintain together with each resident, an individualized plan for each resident describing in lay terms the needs of the resident for personal services and the providers, or intended providers thereof, and the frequency and duration of such services, and containing such other information as the department may reasonably require by regulation. Such plan shall be confidential, shall be in writing signed by the resident and available for inspection by the resident, the department and its authorized designees under subsection (a) of section five. For residents receiving assistance under chapter one hundred and eighteen E, such service plans shall be developed in consultation with the pre-screening assessor as set forth in section thirteen of this chapter.
+        </section>
+        <section prefix="b">
+    	     Each assisted living residence shall designate one or more persons to help coordinate the preparation and periodic review and revision of service plans for each resident as service coordinator. The service coordinator may be an employee of the sponsor. The service coordinator shall be qualified by experience and training to develop, maintain and implement or arrange for the implementation of individualized service plans.
+        </section>
+        <section prefix="c">
+    	     Each assisted living residence shall maintain written policies and procedures for the initial evaluation and periodic reassessment of the functional and health status and service requirements of each consenting resident, until such time that the department establishes regulations for uniform requirements relative to said evaluation and periodic reassessments.
+        </section>
+    </text>
+</law>

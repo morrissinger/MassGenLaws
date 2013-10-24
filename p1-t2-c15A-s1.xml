@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Policy And Goals</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     to provide its citizens with the opportunity to participate in academic and educational programs for their personal betterment and growth, as well as that of the entire citizenry;
+        </section>
+        <section prefix="b">
+    	     to contribute to the existing base of research and knowledge in areas of general and special interest, for the benefit of our communities, our commonwealth and beyond; and
+        </section>
+        <section prefix="c">
+    	     to understand the importance of higher education to the future of the economic growth and development of the commonwealth, and, by so doing, prepare its citizens to constitute a capable and innovative workforce to meet the economic needs of the commonwealth at all levels.
+        </section>
+    </text>
+</law>

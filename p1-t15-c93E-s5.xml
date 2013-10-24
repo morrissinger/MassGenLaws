@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93E" order_by="93E" level="3">Regulation Of Dealers’ Agreements For The Sale Of Gasoline</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Unfair Methods Of Competition; Unfair Or Deceptive Acts Or Practices; Prohibition</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Unfair methods of competition and unfair or deceptive acts or practices, as defined in section 5A, are hereby declared to be unlawful.
+        </section>
+        <section prefix="b">
+    	     In construing paragraph (a) the courts may be guided by the interpretations of the Federal Trade Commission Act or the Federal Energy Administration Act as from time to time amended.
+        </section>
+    </text>
+</law>

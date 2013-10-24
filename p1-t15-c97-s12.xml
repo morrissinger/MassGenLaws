@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="97" order_by="97" level="3">Surveying Of Land</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Massachusetts Coordinate System Nad, 1983; Definition</catch_line>
+    <order_by>12</order_by>
+    <text>
+        For the purpose of more precisely defining said system: 
+1. The Massachusetts Coordinate System, NAD, 1983, Mainland Zone, Federal Zone Code M2001, is a Lambert conformal conic projection of the North American Datum of 1983, having standard parallels at north latitudes 41° (degrees) 43" (minutes), and 42° (degrees) 41" (minutes), along which parallels the scale shall be exact. The origin of coordinates is at the intersection of meridian 71° (degrees) 30" (minutes), west of Greenwich and the parallel 41° (degrees) 00" (minutes), north latitude. This origin shall have the coordinates: North (Y) = 750,000 meters and East (X) = 200,000 meters. 
+2. The Massachusetts Coordinate System, NAD 1983, Island Zone, Federal Zone Code I 2002 is a Lambert conformal conic projection of the North American Datum of 1983, having standard parallels at north latitudes 41° (degrees) 17" (minutes) and 41° (degrees) 29" (minutes), along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian, 70° (degrees) 30" (minutes), west of Greenwich and the parallel 41° (degrees) 00" (minutes), north latitude. This origin shall have the coordinates North (Y) = 0 meters and East (X) = 500,000 meters.
+    </text>
+</law>

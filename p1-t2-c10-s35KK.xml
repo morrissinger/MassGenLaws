@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>35KK</section_number>
+    <catch_line>Harbormaster Training Trust Fund</catch_line>
+    <order_by>35KK</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be established a Harbormaster Training Trust Fund, into which shall be deposited monies received by the commonwealth from all sources pertaining to harbormaster training from training fees paid by municipalities, training fees paid by individuals, sums received by the commonwealth from the federal government as grants and appropriations, state grants and appropriations and private contributions and gifts. The fund shall only be used as follows:
+        </section>
+        <section prefix="1">
+    	     for payment of general administrative expenses of the harbormaster training council established in section 116F of chapter 6, but such expenses shall not exceed 25 per cent of the total expenditures in a fiscal year which are spent on administrative expenditures; provided, however, that expenditures may be made for the compensation of a staff person as those services are deemed necessary by the council; and
+        </section>
+        <section prefix="2">
+    	     for the procurement and funding of harbormaster training by the council or its designees.
+        </section>
+        <section prefix="b">
+    	     The state treasurer shall receive and deposit all revenues transmitted to him under subsection (a) in a manner that will ensure the highest rate of interest available consistent with the safety of the Harbormaster Training Trust Fund and all interest accrued shall be deposited into the fund. Any unexpended balance in the fund at the end of a fiscal year shall not revert and shall be available for expenditures in the subsequent fiscal year. No expenditure from the fund shall cause the fund to be in a deficiency at the close of a fiscal year.
+        </section>
+    </text>
+</law>

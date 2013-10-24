@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>90</section_number>
+    <catch_line>Evasion Of Taxation; Penalties</catch_line>
+    <order_by>90</order_by>
+    <text>
+        Whoever willfully conceals, removes, transfers, or misrepresents any property to evade proper valuation, assessment or classification, or takes such other action with the intent so as to avoid taxation, shall be punished by a fine of not less than one thousand nor more than five thousand dollars; and he may be indicted either in the county where any of the acts or things made criminal by this section are done or in the county where he is liable to taxation.
+    </text>
+</law>

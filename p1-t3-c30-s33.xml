@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Annual Reports; Recommendations For Legislation</catch_line>
+    <order_by>33</order_by>
+    <text>
+        Any state officer or department or head thereof making an annual report may include therein, in even-numbered years, recommendations for legislative action which recommendations shall contain a detailed explanation of reasons therefor, other than requests for appropriations or any matters required to be covered by budget estimates submitted to the budget director under section three or four of chapter twenty-nine. Such recommendations shall be filed with the clerk of the house of representatives on or before the first Wednesday in November preceding the first annual session of the general court.
+    </text>
+</law>

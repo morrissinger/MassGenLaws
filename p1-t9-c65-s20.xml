@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Refunds</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If a person who has paid to the estate of a deceased person, or to the commonwealth, any tax or part of a tax imposed on such estate by this chapter, afterward refunds to the estate any of the property upon which such tax was paid, or, in the case of a tax or part of a tax paid to the estate of the deceased, or paid to the commonwealth on account of such estate, if it is judicially determined that the whole or any part of such tax ought not to have been paid, such tax, or the due proportion thereof, shall be repaid to him by the executor, administrator or trustee.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93G" order_by="93G" level="3">Equipment Dealers</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Request For Transfer; Consent By Supplier</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     No supplier shall unreasonably withhold or delay consent to any transfer of the dealer’s business or transfer of the stock or other interest in the dealership, whenever the dealer to be substituted meets the material and reasonable business and financial requirements of the supplier. Should a supplier determine that a proposed transferee does not meet such requirements, it shall give the dealer written notice stating the specific reasons for withholding consent. No prospective transferee may be disqualified to be a dealer because it is a publicly held corporation. A supplier shall have ninety days to consider a dealer’s request to make a transfer under this paragraph.
+        </section>
+        <section prefix="b">
+    	     No supplier shall unreasonably withhold consent to the transfer of the dealer’s business to a member or members of the family of the dealer or the principal owner of the dealership, if the family member meets the reasonable business ability, business experience, and character standards of the supplier, and if the transferee can demonstrate that the dealership will be adequately capitalized. Should a supplier determine that the designated family member does not meet those requirements, the supplier shall provide the dealer with written notice of the supplier’s objection and specific reasons for withholding its consent. As used in this subsection, “family”, means and includes spouse, parent, siblings, children, stepchildren and lineal descendants, including those by adoption of the dealer or principal owner of the dealership.
+        </section>
+        <section prefix="c">
+    	     In any dispute as to whether a supplier has denied consent in violation of this section, the supplier shall have the burden of proving a substantial and reasonable justification for the denial of consent.
+        </section>
+    </text>
+</law>

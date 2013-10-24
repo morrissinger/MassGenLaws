@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="54" order_by="54" level="3">Elections</unit>
+    </structure>
+    <section_number>159</section_number>
+    <catch_line>Sheriffs</catch_line>
+    <order_by>159</order_by>
+    <text>
+        At the biennial state election in nineteen hundred and twenty-six, and in every sixth year thereafter, a sheriff shall be chosen by the voters in each county.
+    </text>
+</law>

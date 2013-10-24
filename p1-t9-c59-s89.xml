@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Compromise Assessments; Penalties</catch_line>
+    <order_by>89</order_by>
+    <text>
+        Whoever in any way directly or indirectly proposes or agrees to an assessment on any specific or limited amount less than that for which he may lawfully be taxed, with the purpose of making, or as an inducement to make, any particular place his residence or place of business, and an assessor guilty of making or assenting to any such proposal, shall be punished by a fine of one thousand dollars.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="9" order_by="9" level="3">Department Of The State Secretary</unit>
+    </structure>
+    <section_number>26D</section_number>
+    <catch_line>Property Listings; Regulations</catch_line>
+    <order_by>26D</order_by>
+    <text>
+        <section prefix="1">
+    	     nominating properties for listing in and removal from the state register of historic places; and
+        </section>
+        <section prefix="2">
+    	     establishing criteria for properties to be listed in the state register of historic places. The commission shall use the criteria for listing in the National Register of Historic Places as a guide in establishing criteria for listing in the state register.
+        </section>
+    </text>
+</law>

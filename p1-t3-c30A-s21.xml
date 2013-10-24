@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Meeting Of Public Body In Executive Session</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     A public body may meet in executive session only for the following purposes:
+        </section>
+        <section prefix="1">
+    	     To discuss the reputation, character, physical condition or mental health, rather than professional competence, of an individual, or to discuss the discipline or dismissal of, or complaints or charges brought against, a public officer, employee, staff member or individual. The individual to be discussed in such executive session shall be notified in writing by the public body at least 48 hours prior to the proposed executive session; provided, however, that notification may be waived upon written agreement of the parties. A public body shall hold an open session if the individual involved requests that the session be open. If an executive session is held, such individual shall have the following rights:
+        </section>
+        <section prefix="i">
+    	     any decision to participate in mediation shall be made in an open session and the parties, issues involved and purpose of the mediation shall be disclosed; and
+        </section>
+        <section prefix="ii">
+    	     no action shall be taken by any public body with respect to those issues which are the subject of the mediation without deliberation and approval for such action at an open session; or
+        </section>
+        <section prefix="b">
+    	     A public body may meet in closed session for 1 or more of the purposes enumerated in subsection (a) provided that:
+        </section>
+    </text>
+</law>

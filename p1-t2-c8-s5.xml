@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="8" order_by="8" level="3">State Superintendent Of Buildings, And State House</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Cleaners; Salary; Work Week</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Cleaners employed by the commonwealth shall each receive such salary as may be fixed under and in accordance with sections forty-five to fifty, inclusive, of chapter thirty, payable weekly. Their work shall not, without proportionate payment for overtime, exceed thirty-three hours weekly and they shall be entitled to the same rights and privileges in respect to sick leave, holidays and vacations as other state employees.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>91</section_number>
+    <catch_line>Fraudulent Lists; Penalties</catch_line>
+    <order_by>91</order_by>
+    <text>
+        Whoever, with intent to defeat or evade any provision of law as to the assessment or payment of taxes, delivers or discloses to an assessor or assistant assessor a false or fraudulent list, return or schedule of property, as and for a true list of his estate not exempt from taxation, shall be punished by a fine of not more than one thousand dollars or by imprisonment for not more than one year.
+    </text>
+</law>

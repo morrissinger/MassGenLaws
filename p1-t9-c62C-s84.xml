@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Substantial Understatement Of Tax On Joint Return; Relief From Liability For Spouse; Conditions</catch_line>
+    <order_by>84</order_by>
+    <text>
+        <section prefix="i">
+    	     a joint return has been made under this chapter for a taxable year,
+        </section>
+        <section prefix="ii">
+    	     on such return there is substantial understatement of tax attributable to grossly erroneous items of one spouse,
+        </section>
+        <section prefix="iii">
+    	     the other spouse establishes that in signing the return he or she did not know, and had no reason to know, that there was such substantial understatement, and
+        </section>
+        <section prefix="iv">
+    	     taking into account all facts and circumstances, it is inequitable to hold the other spouse liable for the deficiency in tax for such taxable year attributable to such substantial understatement, then the other spouse shall be relieved of liability for the tax, including interest, penalties and other amounts, for such taxable year to the extent such liability is attributable to such substantial understatement.
+        </section>
+    </text>
+</law>

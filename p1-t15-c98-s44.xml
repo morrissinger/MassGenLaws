@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="98" order_by="98" level="3">Weights And Measures</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Testing Of Devices For Determining Measurement Of Leather; Rules And Regulations</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Devices used for determining the measurement of leather bought, sold or offered for sale shall be tested as to the correctness of measures indicated by them by a sealer of the town where they are used, and the deputy director may make such rules and regulations as he deems necessary to insure the greatest possible accuracy in the use of said devices.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>False Statements To Stock Exchanges; Penalty</catch_line>
+    <order_by>18</order_by>
+    <text>
+        An officer of a mining corporation who makes a false statement, knowing the same to be false, in an application to any stock exchange to list the shares of such corporation shall be punished by a fine of not more than five hundred dollars or by imprisonment for not more than two years.
+    </text>
+</law>

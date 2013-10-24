@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63A" order_by="63A" level="3">Taxation Of Certain Corporations, Associations And Organizations Engaged In The Sale Of Alcoholic Beverages</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Rate</catch_line>
+    <order_by>2</order_by>
+    <text>
+        [Text of section effective for tax years beginning on or after January 1, 2009. See 2008, 173, Sec. 101.] 
+Against every taxpayer there shall be levied, assessed and collected an excise at the rate of 0.57 per cent of such taxpayer’s gross receipts.
+    </text>
+</law>

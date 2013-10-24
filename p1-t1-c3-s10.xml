@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Jurisdiction And Emblems Of The Commonwealth, The General Court, Statutes And Public Documents</unit>
+        <unit label="chapter" identifier="3" order_by="3" level="3">The General Court</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Compensation Of Members Chosen To Fill Vacancies Or Who Resign</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Each member of the general court chosen to fill a vacancy, or who resigns his seat during a regular annual session, shall be entitled to a per diem compensation for the time of his membership at the rate provided in section nine, and the allowances for travel and other expenses for the time of his membership as provided in section nine B.
+    </text>
+</law>

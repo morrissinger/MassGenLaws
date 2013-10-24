@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>81B</section_number>
+    <catch_line>Purchase Of Land Or Taking Of Land For Nonpayment Of Taxes Under Sec. 43 Or Sec. 53; Redemption Amount Exceeds Assessed Value; Foreclosure Of Rights Of Redemptions</catch_line>
+    <order_by>81B</order_by>
+    <text>
+        Whenever a city or town shall have purchased or taken land for nonpayment of taxes under section 43 or 53, and the treasurer of the city or town certifies that the redemption amount as determined pursuant to section 62 exceeds the assessed value of the parcel, the treasurer shall make an affidavit of such certification which shall be recorded in the registry of deeds for the district wherein the land lies. Upon the recording of the affidavit, the treasurer shall bring a petition in the land court pursuant to section 65 for the foreclosure of all rights of redemptions of the land.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Massachusetts Agricultural Experiment Station</catch_line>
+    <order_by>16</order_by>
+    <text>
+        The trustees shall maintain at the university an agricultural experiment station, to be known as the Massachusetts agricultural experiment station, and shall use therefor the land, buildings and equipment heretofore acquired therefor and owned by the commonwealth. Such station shall be a part of the university.
+    </text>
+</law>

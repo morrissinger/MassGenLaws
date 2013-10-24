@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Underpayment Of Estimated Tax; Installments</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, in the case of any underpayment of estimated tax, there shall be added to the tax due under chapter sixty-two for the taxable year an amount determined at the rate but without daily compounding and on a per annum basis established under section thirty-two of chapter 62C upon the amount of the underpayment for the period of underpayment.
+        </section>
+        <section prefix="b">
+    	     For purposes of subsection (a), the amount of the underpayment shall be the excess of the required installment, over the amount, if any, of the installment paid on or before the due date for the installment; and the period of the underpayment shall run from the due date for the installment to the fifteenth day of the fourth month following the close of the taxable year, or, with respect to any portion of the underpayment, the date on which such portion is paid, whichever is the earlier. A payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
+        </section>
+        <section prefix="c">
+    	     For purposes of this section, there shall be four required installments for each taxable year. The first installment shall be paid on April fifteenth of the taxable year, the second on June fifteenth of the taxable year, the third on September fifteenth of the taxable year, and the fourth on January fifteenth of the succeeding taxable year. The amount of any required installment shall be twenty-five per cent of the required annual payment. The term “required annual payment” means the lesser of
+        </section>
+        <section prefix="i">
+    	     eighty per cent, or sixty-six and two-thirds per cent in the case of a farmer or fisherman as defined in subsection (h), of the tax shown on the return for the taxable year or, if no return is filed, eighty or sixty-six and two-thirds per cent, as the case may be, of the tax for such year, or
+        </section>
+        <section prefix="ii">
+    	     one hundred per cent of the tax shown on the return of the taxpayer for the preceding taxable year, provided the taxpayer filed a return for the preceding taxable year and such preceding year was a taxable year of twelve months.
+        </section>
+        <section prefix="d">
+    	     No addition to tax shall be imposed under subsection (a) for any taxable year if—
+        </section>
+        <section prefix="i">
+    	     the tax shown on the return for the taxable year less the amount of the credits allowed by section 9 of this chapter and section 6 of chapter 62 is less than $400 or, if no return is filed, the amount of tax less the amount of the credits allowed by section 9 of this chapter and section 6 of chapter 62 is less than $400.
+        </section>
+        <section prefix="ii">
+    	     the preceding taxable year was a taxable year of twelve months, the taxpayer did not have any liability for tax for the preceding taxable year, and the taxpayer was an inhabitant of the commonwealth throughout the preceding taxable year.
+        </section>
+        <section prefix="e">
+    	     No addition to tax shall be imposed under subsection (a) with respect to any underpayment—
+        </section>
+        <section prefix="i">
+    	     to the extent the commissioner determines that by reason of casualty, disaster, or other unusual circumstances the imposition of such addition to tax would be against equity and good conscience; or
+        </section>
+        <section prefix="ii">
+    	     if the commissioner determines that the taxpayer retired after having attained age sixty-two or became disabled in the taxable year for which estimated payments were required to be made or in the taxable year preceding such taxable year, and such underpayment was due to reasonable cause and not to willful neglect.
+        </section>
+        <section prefix="f">
+    	     For the purpose of applying this section the estimated tax shall be computed without any reduction for the amount which the individual estimates as his credit under section nine, and the amount of the credit allowed under said section nine for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each installment date, as indicated in subsection (c), unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
+        </section>
+        <section prefix="g">
+    	     For the purposes of this section, the term “tax” means the tax imposed by chapter sixty-two and by any act in addition thereto, reduced by the credits against tax allowed by section six of said chapter sixty-two.
+        </section>
+        <section prefix="h">
+    	     If, on or before March first of the following taxable year, a taxpayer who is a farmer or fishermen files a return for the taxable year and pays in full the amount computed on the return as payable then no addition to tax shall be imposed under subsection (a) with respect to any underpayment of estimated tax required to be made under this section. For the purposes of this subsection, an individual is a farmer or fisherman for any taxable year if his gross income from farming or fishing for the taxable year, or as shown on his return for the preceding taxable year, is at least two-thirds of his total gross income for the taxable year.
+        </section>
+    </text>
+</law>

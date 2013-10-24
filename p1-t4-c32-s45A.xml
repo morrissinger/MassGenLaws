@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>45A</section_number>
+    <catch_line>Amount Of Pension</catch_line>
+    <order_by>45A</order_by>
+    <text>
+        In any city or town to which section forty-four applies and which accepts this section in the manner set forth in section forty-five, the pension payable to a person retired under said section forty-four shall be one half of the highest salary or other compensation received by him while he was holding the grade held by him at his retirement.
+    </text>
+</law>

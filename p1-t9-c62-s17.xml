@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Partners Subject To Tax; Distributive Shares; Partners’ Separate Returns; Determination Of Income; Common Trust Funds</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     An inhabitant of the commonwealth who is a member of a partnership, whether or not such partnership has a usual place of business in the commonwealth, shall be subject to the taxes imposed by this chapter on his distributive share of the income received or earned by the partnership from sources taxable under this chapter. He shall include separately in his return his distributive share of the partnership’s income or loss from sources taxable under this chapter and of any item of deduction or credit.
+        </section>
+        <section prefix="b">
+    	     A nonresident of the commonwealth who is a member of a partnership that is engaged in the conduct of a trade or business in the commonwealth or that owns or leases real property in the commonwealth, except a nonresident limited partner of a limited partnership engaged exclusively in buying, selling, dealing in or holding securities on its own behalf and not as a broker, shall be subject to the taxes imposed by this chapter on his distributive share of the income received or earned by the partnership from sources taxable under this chapter. He shall include separately in his return his distributive share of such income or loss and of any item of deduction or credit.
+        </section>
+        <section prefix="c">
+    	     The character of any item of income, loss, deduction or credit included in a partner’s distributive share shall be determined as if such item were realized directly by the partner from the source from which realized by the partnership or incurred in the same manner as incurred by the partnership. The amount of each such item to be taken into account by the partnership in determining the total of its income, loss, deductions or credits to be reported in the returns of its partners shall be computed in the same manner as in the case of an individual except that the following shall not be allowed to the partnership:—
+        </section>
+        <section prefix="1">
+    	     The offset of Part A losses against interest and dividends provided in paragraph 2 of subsection (c) of section 2; the deduction allowed under paragraph (3) of subsection (c) of section 2; and the credits allowed under subsection (c) of section 4; (2) the exemptions provided in section five and clauses one, two, three, and four of paragraph (b) of subsection B of section three; (3) the credit for taxes provided in subsection (a) of section six to the extent that such taxes are assessed to the partners in their individual capacities, but such credit shall be allowed to the partners in their individual returns, and (4) the credits provided in subsection (b) of section six.
+        </section>
+        <section prefix="d">
+    	     A partner’s distributive share of an item of income, loss, deduction or credit shall be determined by the partnership agreement, but the distributive share shall be determined in accordance with the partner’s interest in the partnership, determined by taking into account all facts and circumstances, if: (i) the allocation to a partner under the agreement of income, gain, loss, deduction or credit, or any item thereof, has no substantial economic effect; or (ii) the partnership agreement does not provide as to the partner’s distributive share of income, gain, loss, deduction or credit, or item thereof. The partner shall include the distributive share of income, loss, deduction or credit in the partner’s return for the taxable year during which or with which the taxable year of the partnership ends. Except as the context otherwise requires and subject to rules or regulations that the commissioner may adopt, the determination of a partner’s distributive share shall take into account rules and principles developed under the Code and any regulations promulgated thereunder, and adjusted as required or appropriate to properly reflect income and other tax items for Massachusetts tax purposes.
+        </section>
+        <section prefix="e">
+    	     A common trust fund which qualifies as such under section five hundred and eighty-four of the Code shall be treated as a partnership for the purposes of taxation under this chapter. Such partnership shall compute all items of income, loss, deduction or credit without reference to any item of income, loss, deduction or credit of any participating account except that the provisions of section ten shall be applicable to such partnership. No loss of such partnership may be allocated to any participating account but such loss may be used by the partnership as provided in clause (3) of subsection (a) of section four. No participating account deriving income from other sources than such partnership may use any item of income, loss, deduction or credit from such other sources to reduce any income derived from such partnership except as provided in sections twelve and twelve A.
+        </section>
+    </text>
+</law>

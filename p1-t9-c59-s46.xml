@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Entries In Books</catch_line>
+    <order_by>46</order_by>
+    <text>
+        The assessors shall enter in the books so furnished the valuation, classification and assessment of the estates of the persons assessed, as directed in the headings of the various columns and shall state the value of each building described, including therein water wheels but excluding land and water power and machinery used in the building. Such valuation book shall contain at the end thereof a summary listing the total valuation for each classification of property as prescribed by the commissioner.
+    </text>
+</law>

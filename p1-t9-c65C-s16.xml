@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65C" order_by="65C" level="3">Massachusetts Estate Tax</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Executor; Fiduciaries; Assumption Of Powers And Duties</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon notice to the commissioner that any person is acting as executor, such person shall assume the powers, rights, duties and privileges of an executor in respect of the tax imposed by this chapter until notice is given that such person is no longer acting as executor.
+        </section>
+        <section prefix="b">
+    	     Upon notice to the commissioner that any person is acting in a fiduciary capacity for a person subject to the liability specified in section fifteen, the fiduciary shall assume on behalf of such person the powers, rights, duties, and privileges of such person under such section, except that the liability shall be collected from the estate of such person, until notice is given that the fiduciary capacity has terminated.
+        </section>
+    </text>
+</law>

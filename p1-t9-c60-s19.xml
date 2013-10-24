@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Special Warrant For Distress Or Imprisonment Without Demand, And For Acceptance Of Early Payments</catch_line>
+    <order_by>19</order_by>
+    <text>
+        If the assessors are of the opinion that the credit of a person taxed is doubtful or that he is about to leave the commonwealth, they may, by a special warrant, direct the collector forthwith, without demand or notice, to compel payment by distress or imprisonment, whether the tax is payable immediately or at a future day, by instalments or otherwise. 
+If a person desires to make an early payment or payments of taxes, prior to the commitment by the assessors of the tax list and warrant required by section fifty-three of chapter fifty-nine, the assessors may, by a special warrant, authorize the collector to accept such payment.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21J" order_by="21J" level="3">Underground Storage Tank Petroleum Product Cleanup Fund</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Eligibility For Reimbursement From Fund</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     An owner or operator must have completed, as the case may be, all underground storage tank or underground storage tank system registration requirements as set forth in section 9002 of the Resource Conservation and Recovery Act of nineteen hundred and seventy-six as well as with all federal or state regulatory requirements relating to the registration of underground storage tanks or underground storage tank system;
+        </section>
+        <section prefix="b">
+    	     be in full compliance with all regulatory requirements imposed upon an owner or operator, as the case may be, of an underground storage tank or underground storage tank system, which requirements relate to the maintenance and operation of the underground storage tanks or underground storage tank system and with all regulatory requirements related to the construction and installation of such underground storage tank or underground storage tank system, provided such requirements applied to such owner or operator at the time such underground storage tank or underground storage tank system was constructed or installed;
+        </section>
+        <section prefix="c">
+    	     have incurred a cost, expense, or obligation, whether for cleanup or related matters or for claims of third parties resulting from a release of a petroleum product from an underground storage tank or underground storage tank system; and
+        </section>
+        <section prefix="d">
+    	     in the case of claims for bodily injury, property damage, or damage to natural resources, the owner or operator submitting the claim shall have obtained a final judgement from a court of competent jurisdiction, all rights of appeal being exhausted, waived, or expired, that the bodily injury, property damage, or damage to natural resources was a result of a release of a petroleum product from the underground storage tank or underground storage tank system.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Purchase Price Unpaid; Validity Of Sale</catch_line>
+    <order_by>49</order_by>
+    <text>
+        If the purchaser fails to pay the collector within twenty days after the sale the amount bid by him, the sale shall be void, and the town shall be deemed to be the purchaser of the land, under the preceding section.
+    </text>
+</law>

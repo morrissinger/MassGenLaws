@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43D" order_by="43D" level="3">Expedited Permitting</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Acceptance Of Chapter</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Notwithstanding any general or special law, charter provision, by-law or ordinance to the contrary this chapter shall apply upon its acceptance by a city or town.
+    </text>
+</law>

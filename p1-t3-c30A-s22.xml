@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Minutes Of Meetings</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     A public body shall create and maintain accurate minutes of all meetings, including executive sessions, setting forth the date, time and place, the members present or absent, a summary of the discussions on each subject, a list of documents and other exhibits used at the meeting, the decisions made and the actions taken at each meeting, including the record of all votes.
+        </section>
+        <section prefix="b">
+    	     No vote taken at an open session shall be by secret ballot. Any vote taken at an executive session shall be recorded by roll call and entered into the minutes.
+        </section>
+        <section prefix="c">
+    	     Minutes of all open sessions shall be created and approved in a timely manner. The minutes of an open session, if they exist and whether approved or in draft form, shall be made available upon request by any person within 10 days.
+        </section>
+        <section prefix="d">
+    	     Documents and other exhibits, such as photographs, recordings or maps, used by the body at an open or executive session shall, along with the minutes, be part of the official record of the session.
+        </section>
+        <section prefix="e">
+    	     The minutes of any open session, the notes, recordings or other materials used in the preparation of such minutes and all documents and exhibits used at the session, shall be public records in their entirety and not exempt from disclosure pursuant to any of the exemptions under clause Twenty-sixth of section 7 of chapter 4. Notwithstanding this paragraph, the following materials shall be exempt from disclosure to the public as personnel information: (1) materials used in a performance evaluation of an individual bearing on his professional competence, provided they were not created by the members of the body for the purposes of the evaluation; and (2) materials used in deliberations about employment or appointment of individuals, including applications and supporting materials; provided, however, that any resume submitted by an applicant shall not be exempt.
+        </section>
+        <section prefix="f">
+    	     The minutes of any executive session, the notes, recordings or other materials used in the preparation of such minutes and all documents and exhibits used at the session, may be withheld from disclosure to the public in their entirety under subclause (a) of clause Twenty-sixth of section 7 of chapter 4, as long as publication may defeat the lawful purposes of the executive session, but no longer; provided, however, that the executive session was held in compliance with section 21.
+        </section>
+        <section prefix="2">
+    	     Upon request by any person to inspect or copy the minutes of an executive session or any portion thereof, the body shall respond to the request within 10 days following receipt and shall release any such minutes not covered by an exemption under subsection (f); provided, however, that if the body has not performed a review pursuant to paragraph (1), the public body shall perform the review and release the non-exempt minutes, or any portion thereof, not later than the body’s next meeting or 30 days, whichever first occurs. A public body shall not assess a fee for the time spent in its review.
+        </section>
+    </text>
+</law>

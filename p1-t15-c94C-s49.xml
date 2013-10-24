@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Enforcement Of Sec. 24 A</catch_line>
+    <order_by>49</order_by>
+    <text>
+        The department of public health shall enforce section 24A in accordance with rules and regulations promulgated by the department.
+    </text>
+</law>

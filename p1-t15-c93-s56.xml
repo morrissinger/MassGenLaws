@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Disclosures To Consumer; Written Explanation; Notice Of Rights; Content Of Notice</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="a">
+    	     Every consumer reporting agency shall, upon request and proper identification of any consumer, clearly and accurately disclose to the consumer:
+        </section>
+        <section prefix="1">
+    	     the nature, contents and substance of all information, except medical information, in its file on the consumer at the time of the request, and which is obtainable based upon the identifying information supplied by the consumer when making such request, and if such consumer has made a written request, deliver a written copy or photocopy of all such information except any code identifications which are used solely for purposes of transferring such information to and from consumer reporting agencies; provided, however, that the names of the users corresponding to the code identifications shall be disclosed to the consumer; provided, further, that the agency shall provide a clear, simple and plain meaning explanation of the information provided under this paragraph and such explanation shall be in a readable format and type, which shall in no case be smaller than ten point type;
+        </section>
+        <section prefix="2">
+    	     the sources of all credit information obtained through routine credit reporting or through any other credit reporting techniques in the file at the time of the request, except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed; provided, however, that in the event an action is brought pursuant to section sixty-five, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought; and
+        </section>
+        <section prefix="3">
+    	     the recipients of any consumer report on the consumer which it has furnished for employment purposes within the two year period preceding the request, and for any other purpose within the six-month period preceding the request.
+        </section>
+        <section prefix="b">
+    	     Every consumer reporting agency, upon contact by a consumer by phone, mail, or in person regarding information which may be contained in the agency files regarding that consumer, shall with each written disclosure, or in response to a request by the consumer to be advised as to his rights, promptly advise the consumer of the consumer’s rights under this section. The written notice shall be in a clear and conspicuous format and be no smaller than ten point type. The notice shall inform the consumer of the consumer’s rights under this chapter, provided in a clear and conspicuous manner, in substantially the following manner:
+        </section>
+        <section prefix="1">
+    	     the personal identification number or password provided by the consumer reporting agency;
+        </section>
+        <section prefix="2">
+    	     proper identification to verify your identity; and
+        </section>
+        <section prefix="3">
+    	     the third party or parties who are to receive the consumer report or the specified period of time for which the report shall be available to authorized users of the consumer report.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94" order_by="94" level="3">Inspection And Sale Of Food, Drugs And Various Articles</unit>
+    </structure>
+    <section_number>65P</section_number>
+    <catch_line>False Labeling</catch_line>
+    <order_by>65P</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall sell or exchange, or offer or expose for sale or exchange, or deliver or attempt to deliver, frozen desserts in any container which is falsely labeled as to the name of the manufacturer or place of manufacture, or in any other respect.
+        </section>
+        <section prefix="b">
+    	     No person shall misrepresent in any manner the name of the manufacturer or the place of manufacture of frozen desserts.
+        </section>
+        <section prefix="c">
+    	     No person shall use or cause to permit to be used, for the purpose of preserving or holding frozen desserts, any cabinet, can, container or other equipment owned in whole or in part by any other person, without the written consent of such owner.
+        </section>
+        <section prefix="d">
+    	     No person shall place any frozen desserts of one manufacturer in the cabinet, can, container or other equipment belonging in whole or in part to another manufacturer.
+        </section>
+        <section prefix="e">
+    	     No person, other than the owner or a person thereto authorized by him, shall remove, erase, obliterate, cover or conceal the owner’s name or any distinguishing mark or device which may appear or be placed on any such cabinet, can, container or other equipment.
+        </section>
+        <section prefix="f">
+    	     Except where otherwise provided in sections sixty-five G to sixty-five U, inclusive, the provisions of sections one hundred and eighty-six to one hundred and ninety-five, inclusive, shall apply to frozen desserts and to frozen dessert mix, and to any materials intended for use, or used, in the manufacture thereof.
+        </section>
+    </text>
+</law>

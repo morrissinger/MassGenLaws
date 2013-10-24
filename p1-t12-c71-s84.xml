@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Discipline Of Students On Matters Unrelated To School Sponsored Activities Prohibited</catch_line>
+    <order_by>84</order_by>
+    <text>
+        No student shall be suspended, expelled, or otherwise disciplined on account of marriage, pregnancy, parenthood or for conduct which is not connected with any school-sponsored activities; provided, however, that in the case of a pregnant student, the school committee may require that the student be under the supervision of a physician.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="46" order_by="46" level="3">Return And Registry Of Births, Marriages And Deaths</unit>
+    </structure>
+    <section_number>19B</section_number>
+    <catch_line>Certified Copies Of Birth Records; Restricted Information Regarding Mother</catch_line>
+    <order_by>19B</order_by>
+    <text>
+        A certified copy of a birth record furnished under section two A shall not, unless the applicant so requests or unless the certificate is to be used in conjunction with a judicial proceeding, include the name of or any other information regarding the mother.
+    </text>
+</law>

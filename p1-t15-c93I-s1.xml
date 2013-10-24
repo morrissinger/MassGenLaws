@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93I" order_by="93I" level="3">Dispositions And Destruction Of Records</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     Social Security number;
+        </section>
+        <section prefix="b">
+    	     driver’s license number or Massachusetts identification card number;
+        </section>
+        <section prefix="c">
+    	     financial account number, or credit or debit card number, with or without any required security code, access code, personal identification number or password that would permit access to a resident’s financial account; or
+        </section>
+        <section prefix="d">
+    	     a biometric indicator.
+        </section>
+    </text>
+</law>

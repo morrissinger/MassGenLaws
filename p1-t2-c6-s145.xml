@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>145</section_number>
+    <catch_line>Study Of Problems Relating To Blindness; Investigations; Contact With Physicians And Other Qualified Facilities</catch_line>
+    <order_by>145</order_by>
+    <text>
+        <section prefix="a">
+    	     The commission shall continuously study the problems relating to blindness and make investigations, demonstrations and reports thereon, and shall establish and maintain contact with physicians and other qualified persons or facilities available to render competent services to the blind.
+        </section>
+        <section prefix="b">
+    	     The commission may establish and operate rehabilitation facilities and workshops for the blind, and make grants to public and contracts with private nonprofit organizations for such purposes and employ such other means as the commissioner may deem appropriate for the amelioration of the condition of blindness.
+        </section>
+        <section prefix="c">
+    	     The commission may supervise the operation of small business enterprises established to provide employment for blind persons.
+        </section>
+        <section prefix="d">
+    	     The commission shall make an annual report.
+        </section>
+    </text>
+</law>

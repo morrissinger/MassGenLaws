@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>111</section_number>
+    <catch_line>Custodians Of Military Property; Powers And Duties</catch_line>
+    <order_by>111</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer shall be responsible for military property of the United States and of the commonwealth received by him, and shall not sell, loan or transfer it or any part of it, without the authority of the commander-in-chief; and shall be liable to the commonwealth for all such property defaced, injured, destroyed or lost by his neglect or default, or for its value, to be recovered in an action of tort brought by the state judge advocate in the name of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     Commissioned officers shall exercise the strictest care and vigilance for the preservation of the individual and unit clothing and equipment and other property furnished their commands; and, in case of any loss thereof or damage thereto by their neglect or default, they shall be liable to such punishment as a court-martial may direct.
+        </section>
+        <section prefix="c">
+    	     When any officer or enlisted person neglects or refuses to return any military property of the United States or of the commonwealth or of any unit, or to account satisfactorily for it to the officer responsible for its custody, or to the officer ordered to receive it, such custodian or officer may make a written complaint directly to the colonel of state police, describing the missing property, and thereupon the state police shall make diligent search for the property, and shall take possession of all such property and turn the same over to the officer responsible for its custody.
+        </section>
+    </text>
+</law>

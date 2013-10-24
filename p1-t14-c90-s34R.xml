@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>34R</section_number>
+    <catch_line>Estimate Of Cost Of Exterior Repairs; Notice</catch_line>
+    <order_by>34R</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever repairs are necessary to the visible exterior sheet metal or plastic parts of a damaged motor vehicle, any insurer or repairer preparing a written estimate of the cost of such repairs shall clearly identify in such estimate each major replacement crash part to be used which is not manufactured or supplied by the original manufacturer of the motor vehicle. For the purposes of this section, “crash parts” shall mean motor vehicle parts of sheet metal or plastic that constitute the visible exterior of the vehicle, including inner and outer panels, which are to be repaired or replaced as the result of a collision.
+        </section>
+        <section prefix="b">
+    	     Attached to any such estimate which identifies non-original manufacturer parts shall be the following notice, printed in no less than ten-point type:
+        </section>
+        <section prefix="c">
+    	     The insurer or repairer, as the case may be, shall give a copy of such estimate and such notice to the person for whom the estimate is prepared.
+        </section>
+        <section prefix="d">
+    	     The repairer shall, on the customer’s repair order or repair certification form, identify by name the manufacturer or supplier of any non-original manufacturer crash parts used in making the actual repairs.
+        </section>
+        <section prefix="e">
+    	     Failure to comply with the provisions of this section shall constitute an unfair or deceptive act or practice pursuant to the provisions of chapter ninety-three A.
+        </section>
+    </text>
+</law>

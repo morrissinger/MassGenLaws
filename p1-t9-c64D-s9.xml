@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64D" order_by="64D" level="3">Excise On Deeds, Instruments And Writings</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Penalty For Fraudulent Use Of Stamp</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Whoever fraudulently makes use of an adhesive stamp to denote the payment of the excise imposed by this chapter, without effectually cancelling it in accordance with section two, shall be punished by a fine of not less than two hundred nor more than five hundred dollars.
+    </text>
+</law>

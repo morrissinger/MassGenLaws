@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Reports On Results Of Experiments; Distribution</catch_line>
+    <order_by>19</order_by>
+    <text>
+        The trustees shall publish bulletins containing the results of experiments and investigations by the station, except under the following section, and shall distribute such bulletins to residents and newspapers of the commonwealth applying therefor.
+    </text>
+</law>

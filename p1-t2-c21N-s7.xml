@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21N" order_by="21N" level="3">Climate Protection And Green Economy Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Market Place Compliance Mechanisms; Regulations; Out State Cooperation; Enforcement</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary, in consultation with the executive office of administration and finance, may consider the use of market-based compliance mechanisms to address climate change concerns; provided, however, that prior to the use of any market-based compliance mechanism, to the extent feasible and in furtherance of achieving the statewide greenhouse gas emissions limit, the secretary shall: (1) consider the potential for direct, indirect and cumulative emission impacts from these mechanisms, including localized impacts in communities that are already adversely impacted by air pollution; (2) design any market-based compliance mechanism to prevent any increase in the emissions of toxic air contaminants or criteria air pollutants, with particular attention paid to emissions of nitrous oxide, sulfur dioxide and mercury; and (3) maximize additional environmental and economic benefits for the commonwealth, as appropriate.
+        </section>
+        <section prefix="b">
+    	     The secretary may adopt regulations governing how market-based compliance mechanisms may be used by regulated entities subject to greenhouse gas emissions limits and mandatory emissions reporting requirements to achieve compliance with their greenhouse gas emissions limits.
+        </section>
+        <section prefix="c">
+    	     The executive office and the department may work with the participating regional greenhouse gas initiative states and other interested states and Canadian Provinces to develop a plan to expand market-based compliance mechanisms such as the regional greenhouse gas initiative to other sources and sectors necessary or desirable to facilitate the achievement of the greenhouse gas emissions limits.
+        </section>
+        <section prefix="d">
+    	     The executive office shall monitor compliance with and enforce any rule, regulation, order, emissions limitation, emissions reduction measure or market-based compliance mechanism adopted by the executive office or department pursuant to this chapter. The department may impose a civil administrative penalty pursuant to section 16 of chapter 21A for a violation of any rule, regulation, order, emissions limitation, emissions reduction measure or other measure adopted by the executive office pursuant to this chapter.
+        </section>
+    </text>
+</law>

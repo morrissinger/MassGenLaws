@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58" order_by="58" level="3">General Provisions Relative To Taxation</unit>
+    </structure>
+    <section_number>17C</section_number>
+    <catch_line>Forest Products Trust Fund</catch_line>
+    <order_by>17C</order_by>
+    <text>
+        <section prefix="a">
+    	     Fifty percent of all revenue received by the removal of forest products on land acquired by the commonwealth on or after June 1, 1987 shall be deposited in the Forest Products Trust Fund. Such funds shall be dispersed to those municipalities within whose boundaries the removal of forest products occurs in an amount equal to fifty percent of the revenue received by the commonwealth.
+        </section>
+        <section prefix="b">
+    	     Eight percent of all revenue received by the removal of forest products on land acquired by the commonwealth before June 1, 1987 shall be deposited in the Forest Products Trust Fund. Such funds shall be dispersed to those municipalities within whose boundaries the removal of forest products occurs in an amount equal to eight percent of the revenue received by the commonwealth.
+        </section>
+    </text>
+</law>

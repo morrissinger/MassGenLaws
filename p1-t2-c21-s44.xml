@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Discharge Violations; Orders To Comply</catch_line>
+    <order_by>44</order_by>
+    <text>
+        <section prefix="1">
+    	     Whenever it appears to the director that there are discharges of pollutants without a required permit, or that such discharges are in violation of a permit issued under this chapter, or in contravention of any regulation, standard or plan adopted by the division, the director may order the discharger to apply forthwith for a permit, or for a new permit, or to take other appropriate action under rules and regulations adopted by the director subject to the provisions of chapter thirty A, and to cease and desist from making or allowing further discharges beyond a specified date until compliance with the order is fully achieved. Issuance of an order under this paragraph shall not be deemed an election to forego any action for criminal or civil penalties under section forty-two.
+        </section>
+        <section prefix="2">
+    	     In the event that any condition of a permit for discharges issued under paragraph (9) of section forty-three to publicly owned treatment works is violated, the director may order the violator to prohibit all additional connections to such works from any source not already so connected, until the violation ceases and corrective action specified in the order has been taken. No permits for such connections may be issued while the order remains in effect.
+        </section>
+        <section prefix="3">
+    	     If the director finds, on the basis of information available to him, that an industrial user of publicly owned treatment works is not complying with a system of user charges to which he is subject under the conditions of his permit or under commonwealth or federal law, the director may order him to comply forthwith.
+        </section>
+    </text>
+</law>

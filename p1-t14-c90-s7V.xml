@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90" order_by="90" level="3">Motor Vehicles And Aircraft</unit>
+    </structure>
+    <section_number>7V</section_number>
+    <catch_line>Certificates Of Inspection; Rules And Regulations</catch_line>
+    <order_by>7V</order_by>
+    <text>
+        <section prefix="a">
+    	     motor vehicles meeting the inspection requirements established by the registrar under section seven A shall be issued a certificate of inspection which shall be proof that said motor vehicle has passed the required inspection;
+        </section>
+        <section prefix="b">
+    	     the requirement that motor vehicles failing to comply with the motor vehicle emission standards established by the commissioner of environmental protection under the provisions of section one hundred and forty-two J of chapter one hundred and eleven or failing to comply with the safety standards as required by the registrar under section seven A shall be issued a certificate of rejection indicating that the motor vehicle has failed the initial emissions inspection or safety inspection as required by said section seven A; and
+        </section>
+        <section prefix="c">
+    	     a procedure for permitting the reinspection of any motor vehicle that has been issued a certificate of rejection and has had all necessary repairs performed on said vehicle; provided, however, that said reinspection be performed by the original inspection station without payment of any additional fee.
+        </section>
+    </text>
+</law>

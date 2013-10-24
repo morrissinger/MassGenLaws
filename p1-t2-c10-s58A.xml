@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>58A</section_number>
+    <catch_line>State Designated Cultural Districts</catch_line>
+    <order_by>58A</order_by>
+    <text>
+        <section prefix="a">
+    	     The council shall establish criteria and guidelines for state-designated cultural districts. A cultural district shall be a geographical area of a city or town with a concentration of cultural facilities located within it. Cultural districts shall attract artists and cultural enterprises to a community, encourage business and job development, establish tourist destinations, preserve and reuse historic buildings, enhance property values and foster local cultural development. The council shall assist a city or town if the city or town wishes to develop or foster a cultural district. The council shall develop an application process, with specific guidelines and criteria, for a city or town that wishes to develop or foster a cultural district. Executive branch agencies, constitutional offices and quasi-governmental agencies shall identify programs and services that support and enhance the development of cultural districts and ensure that those programs and services are accessible to such districts. The council shall consult with the Massachusetts historical commission in developing and establishing criteria and guidelines regarding preservation and reuse of historic buildings.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, executive branch agencies, constitutional offices and quasi-governmental agencies including, but not limited to, the council and historic preservation programs, shall review and revise regulations and other economic development tools, including the evaluative criteria of such historic preservation programs, in order to support and encourage the development and success of state-designated cultural districts.
+        </section>
+    </text>
+</law>

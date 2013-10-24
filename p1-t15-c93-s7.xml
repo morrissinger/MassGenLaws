@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Exemptions</catch_line>
+    <order_by>7</order_by>
+    <text>
+        No provision of this Act shall apply to (a) Any activities which are exempt from any of the federal antitrust laws or the Federal Trade Commission Act other than by reason of the absence of a sufficient involvement of or impact upon interstate commerce; (b) Any activities which are subject to regulation or supervision by state or federal agencies; or (c) Any activities authorized or approved under federal, state or local law.
+    </text>
+</law>

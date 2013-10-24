@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Counties And County Officers</unit>
+        <unit label="chapter" identifier="34A" order_by="34A" level="3">County Charter Procedures</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Application Of Optional Plans And General Laws; Abolition Or Consolidation Of Agencies; Intent Of Chapter</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="i">
+    	     is not inconsistent with this chapter; and (ii) is by its terms applicable to or available to all counties, or, (iii) is applicable to all counties or to any category or class of counties and deals with one or more of the following subjects: the administration of the judicial system, education, elections, health, county public authorities, taxation, finance and welfare.
+        </section>
+    </text>
+</law>

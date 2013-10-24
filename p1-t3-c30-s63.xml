@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30" order_by="30" level="3">General Provisions Relative To State Departments, Commissions, Officers And Employees</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Notice To State Secretary; Specifications; Report</catch_line>
+    <order_by>63</order_by>
+    <text>
+        <section prefix="a">
+    	     the name of the system;
+        </section>
+        <section prefix="b">
+    	     the nature and purpose of the system;
+        </section>
+        <section prefix="c">
+    	     the number of persons on whom data are or are expected to be maintained;
+        </section>
+        <section prefix="d">
+    	     the categories of data maintained, or to be maintained, indicating which categories are or will be stored in an automated personal data system;
+        </section>
+        <section prefix="e">
+    	     the agency’s policies and practices regarding data storage, retention of data, and disposal thereof;
+        </section>
+        <section prefix="f">
+    	     the categories of data sources;
+        </section>
+        <section prefix="g">
+    	     a description of types of uses made or to be made of data, including a description of all classes of users of such data;
+        </section>
+        <section prefix="h">
+    	     a description of the actions taken to comply with chapter sixty-six A; and
+        </section>
+        <section prefix="i">
+    	     the name, title, and business address of the individual immediately responsible for the system.
+        </section>
+    </text>
+</law>

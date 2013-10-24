@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="75" order_by="75" level="3">University Of Massachusetts</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>University Property; Management And Administration</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The trustees shall, on behalf of the commonwealth, manage and administer the university and all property, real and personal, belonging to the commonwealth and occupied or used by the university, and shall keep in repair houses, buildings and equipment so used or occupied.
+    </text>
+</law>

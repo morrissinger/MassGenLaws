@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Geriatric Evaluation Process</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to appropriation, the department shall establish a geriatric evaluation process for the purpose of conducting a comprehensive physical, mental, or social evaluation of an elderly person for whom a petition has been filed in a court for appointment of a conservator or guardian, under the provisions of clause (3) of section seventeen, or for an emergency order for protective services.
+        </section>
+        <section prefix="b">
+    	     The evaluation of an elderly person conducted by the geriatric evaluation process shall include at least the following:
+        </section>
+        <section prefix="1">
+    	     the name and address of the place where the person is residing and of the person or agency, if any, who is providing services at present;
+        </section>
+        <section prefix="2">
+    	     a description of the treatment and services, if any, presently being provided to the person;
+        </section>
+        <section prefix="3">
+    	     an evaluation of the person’s present physical, mental, and social conditions; and
+        </section>
+        <section prefix="4">
+    	     a recommendation concerning the least restrictive course of services, care or treatment consistent with the person’s needs.
+        </section>
+        <section prefix="c">
+    	     Subject to appropriation, the cost of this evaluation shall be borne by the department.
+        </section>
+        <section prefix="d">
+    	     Such elderly person shall have the right, at his own expense to secure an independent medical and psychological or psychiatric examination relevant to the issue involved in any hearing under this section and to present a report of his independent evaluation or the evaluator’s personal testimony as evidence at the hearing.
+        </section>
+    </text>
+</law>

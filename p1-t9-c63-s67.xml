@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Assessment; Rate; Return; Deductions</catch_line>
+    <order_by>67</order_by>
+    <text>
+        The commissioner shall annually assess as of the last day of the taxable year, as defined in paragraph 6 of section thirty, an excise tax upon the interest of every corporation organized under the laws of this commonwealth and having a place of business therein, in any ship or vessel which has, during the period of its business in the year preceding such day, been engaged in interstate or foreign carrying trade or engaged exclusively in fishing and documented and carrying “papers” under the laws of the United States, which tax shall be one-third of one percent upon the value of such interest as determined by him. If the commissioner is satisfied of the truth of the return filed pursuant to section twelve of chapter sixty-two C he shall deduct said value from the value of its corporate franchise, if it is taxable under section fifty-eight. If a corporation filing said return is subject to taxation under section fifty-two A, it shall include in said return the amount of income received on its interest in any such ship or vessel during the taxable year and the commissioner in assessing the tax under section fifty-two A shall first deduct such income from the net income computed pursuant to said section.
+    </text>
+</law>

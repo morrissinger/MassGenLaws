@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Prerequisites For Abatement</catch_line>
+    <order_by>38</order_by>
+    <text>
+        No tax assessed on any person liable to taxation shall be abated unless the person assessed shall have filed, at or before the time of bringing his application for abatement, a return as required by this chapter for the period to which his application relates; and if he filed a fraudulent return, or having filed an incorrect or insufficient return, has failed, after notice, to file a proper return, the commissioner shall not abate the tax below double the amount for which the person assessed was properly taxable under this chapter.
+    </text>
+</law>

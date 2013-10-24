@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23B" order_by="23B" level="3">Department Of Housing And Community Development</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Divisions; Associate Directors; Public Instrumentalities</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     There shall be within the department such divisions as the director may establish for its efficient operation. Each such division shall be under the charge of an associate director who shall be appointed by the director and who shall be subject to the direction, control and supervision of the director. Each associate director shall be a person of skill and experience in the field of his appointment and shall be appointed and may be removed by the director. The position of associate director shall not be subject to the provisions of section 9A of chapter 30 or chapter 31. Each associate director shall devote his full time during business hours to the duties of his office.
+        </section>
+        <section prefix="b">
+    	     There shall also be within the department the Massachusetts Housing Finance Agency, the Massachusetts Home Mortgage Finance Agency, the Massachusetts Housing Partnership, the Community Economic Development Assistance Corporation, the Massachusetts Community Development Finance Corporation, the manufactured homes commission, the commission of Indian affairs, and the American and Canadian French Cultural Exchange Commission. The department shall provide general policy guidance for these public instrumentalities, but shall not exercise any supervision or control with respect to such instrumentalities, except to the extent otherwise provided by law.
+        </section>
+    </text>
+</law>

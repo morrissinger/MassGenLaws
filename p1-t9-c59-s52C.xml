@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>52C</section_number>
+    <catch_line>Public Access To Terminals Or Other Data Processing Equipment</catch_line>
+    <order_by>52C</order_by>
+    <text>
+        The provisions of section ten of chapter sixty-six shall not be deemed to authorize public access to terminals or other data processing equipment for the purpose of copying, reading, collecting, printing, analyzing or manipulating any data or other information collected under any provision of this chapter and stored in data processing or computing equipment or to authorize the release of the original or copies of tapes, cards, disc files or other methods of electronic storage of such data or information, unless authorized by the commissioner of revenue. 
+Nothing contained in this section shall restrict the right of a person assessed or his designated representative to inspect at the assessor’s office information and records relating to the valuation and assessment of his property or to receive copies of this information.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>35JJ</section_number>
+    <catch_line>Enhanced 911 Fund</catch_line>
+    <order_by>35JJ</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established and set up on the books of the commonwealth a separate fund to be known as the Enhanced 911 Fund. There shall be credited to such fund all revenues received by the commonwealth from: surcharges imposed under section 18H of chapter 6A; appropriations; gifts, grants, contributions and bequests of funds from any department, agency or subdivision of federal, state or municipal government, and any individual foundation, corporation, association or public authority; revenue derived from the investment of amounts credited to the fund; and any federal funds made available for emergency telecommunication services. The fund shall be used solely for the purposes described in sections 18A to 18J, inclusive, of said chapter 6A.
+        </section>
+        <section prefix="b">
+    	     Amounts credited to the fund shall be available for expenditure by the state 911 department, without further appropriation. The state 911 department shall report annually to the general court its planned expenditures for the next fiscal year; the uses to which the fund was used in the last fiscal year and the balance remaining in the fund; and the aggregate surcharges collected in the last fiscal year based upon monthly reports of communication services providers as required under subsection (f) of section 18H of chapter 6A. The report shall also include a request, if necessary, for appropriation for deposit into the fund.
+        </section>
+    </text>
+</law>

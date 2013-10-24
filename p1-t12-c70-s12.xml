@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70" order_by="70" level="3">School Funds And State Aid For Public Schools</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Determination Of Amounts Appropriated</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to appropriation, beginning in fiscal year nineteen hundred and ninety-four and for all subsequent fiscal years, the amounts appropriated for state school aid in any given year shall be equal to the sum of the adjusted prior year amount and the education improvement amount.
+        </section>
+        <section prefix="b">
+    	     The adjusted prior year amount for state school aid shall be the amount of state aid appropriated in the previous fiscal year, multiplied by an annual adjustment factor equal to the ratio of (i) the implicit price deflator for state government services as published by the United States department of commerce for the first quarter of the prior fiscal year to (ii) the same deflator one year earlier; provided, however, that the annual adjustment factor utilized in fiscal year nineteen hundred and ninety-four shall be equal to one. In no case shall the annual adjustment factor exceed one hundred and four percent.
+        </section>
+        <section prefix="c">
+    	     The education improvement amount shall be an amount of additional state school aid as hereinafter described for the fiscal years nineteen hundred and ninety-four to two thousand, inclusive: in fiscal year nineteen hundred and ninety-four, an additional one hundred and forty million dollars; in fiscal year nineteen hundred and ninety-five, an additional one hundred and fifty million dollars; in fiscal year nineteen hundred and ninety-six, an additional one hundred and fifty million dollars; in fiscal year nineteen hundred and ninety-seven, an additional one hundred and fifty million dollars; in fiscal year nineteen hundred and ninety-eight, an additional one hundred and fifty million dollars; in fiscal year nineteen hundred and ninety-nine, an additional one hundred and eighty million dollars; and in fiscal year two thousand, an additional one hundred and eighty million dollars. The dollar amounts in this subsection shall be adjusted for inflation by multiplying the amounts for fiscal year nineteen hundred and ninety-five and subsequent years by the ratio of the implicit price deflator for state and local government purchases for the first quarter of the prior fiscal year to the value of the same deflator in the first quarter of fiscal year nineteen hundred and ninety-three. In no case shall this adjustment factor be greater than what would be derived by a four percent annual adjustment compounded on a yearly basis.
+        </section>
+    </text>
+</law>

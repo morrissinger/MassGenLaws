@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, the following words shall have the following meanings, unless the context clearly requires otherwise:— 
+“CODIS” or “combined DNA index system”, the Federal Bureau of Investigation’s national DNA identification index system which facilitates the storage and exchange of DNA records submitted by state and local criminal justice and law enforcement agencies. 
+“Colonel”, the colonel of state police. 
+“DNA”, deoxyribonucleic acid. 
+“DNA analysis”, DNA typing tests that generate numerical identification information and are obtained from a DNA sample. 
+“DNA record”, DNA information that is derived from a DNA sample and DNA analysis and is stored in the state DNA database or in CODIS, including all records pertaining to DNA analysis. 
+“DNA sample”, biological evidence of any nature that is utilized to conduct DNA analysis. 
+“Department”, the department of state police. 
+“Director”, the director of the crime laboratory within the department of state police. 
+“FBI”, the Federal Bureau of Investigation within the United States department of justice. 
+“State DNA database”, the DNA identification records system maintained and administered by the director.
+    </text>
+</law>

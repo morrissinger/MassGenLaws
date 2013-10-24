@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="58A" order_by="58A" level="3">Appellate Tax Board</unit>
+    </structure>
+    <section_number>7B</section_number>
+    <catch_line>Small Claims Procedure</catch_line>
+    <order_by>7B</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall establish by rule a further alternative procedure, hereinafter referred to as the small claims procedure, for the determination of petitions for abatement of any tax or excise to which the provisions of chapter 62C apply, as they are or may be specified in section 2 of said chapter 62C. The appellant may elect the small-claims procedure in any case in which the amount of tax placed in dispute by the petition, does not exceed (1) $5,000 for any taxable year, in the case of a tax imposed by taxable year; (2) $5,000 for any calendar year, in the case of a tax imposed by calendar year; (3) $5,000 for any calendar year, in the case of a tax imposed by chapters 64A to 64J, inclusive, and section 21 of chapter 138; (4) $5,000 in the case of a tax imposed by chapter 65C; or (5) $5,000 for any taxable event or transaction in the case of any other tax. For purposes of this section, the amount of any tax or excise placed in dispute does not include any interest, penalty, or addition to tax imposed by chapter 62C or any statute referred to in section 2 of said chapter. If, however, only the assessment or the amount of interest and/or penalties is in dispute, said interest and penalties shall not exceed $5,000.
+        </section>
+        <section prefix="b">
+    	     Proceedings under the small-claims procedure shall be conducted as informally as possible in accordance with such rules of evidence, practice, and procedure as the board may prescribe. To the extent that the board may consider practicable, the small-claims procedure shall eliminate formal rules of pleading, practice, and evidence, and except for the entry fee herein provided, may eliminate any or all fees and costs, or may provide that costs shall be in the discretion of the board. The chairman shall provide for the speedy hearing of all appeals to be heard under the small-claims procedure.
+        </section>
+        <section prefix="c">
+    	     An appellant desiring to be heard under the small-claims procedure shall pay to the clerk a minimum entry fee as determined annually by the commissioner of administration under the provision of section 3B of chapter 7 and shall file an election of the small-claims procedure and a written statement of the facts of the case and of the amount claimed in abatement, together with such additional information as the clerk may require. The statement may be made on forms to be supplied by the board. The clerk shall then serve a copy of the statement upon the commissioner of revenue. The appellant shall also file a written waiver of the right to appeal to any court. Within 30 days of the service of the statement or at such other time as the board may order, the commissioner of revenue shall file with the board an answer similar to that required under the formal procedure provided by section 7.
+        </section>
+        <section prefix="d">
+    	     Any case in which the appellant has filed an appeal under the small-claims procedure, as provided in subsection (c) above, shall be designated and docketed as a small-claims case. With the concurrence of the board, the proceedings therein shall be conducted as a small-claims case in accordance with this section.
+        </section>
+        <section prefix="e">
+    	     At any time before the commencement of the hearing, the board on its own motion or on the motion of a party to the appeal may order that the small-claims designation be removed and that the proceedings be transferred to the formal procedure under section 7. In addition, at any time before a decision is entered, the board shall discontinue further proceedings under this section if it finds (1) that there are reasonable grounds for believing that the amount of tax placed in dispute exceeds the applicable jurisdictional amount as described in subsection (a), and (2) that the amount of the excess is large enough to justify granting the request. The commissioner, by motion, may also request a matter be removed from the small claims procedure if: (1) there is a recurring issue of law; and (2) the aggregate tax at issue, taking into account similarly situated taxpayers, is over $200,000. Upon any such removal or discontinuance, proceedings in the case shall be transferred to the formal docket and conducted under the formal procedure provided by section 7, in which case the statement required by subsection (c) shall be considered to be a petition, its service to be service of a petition, and the waiver of the right of appeal to be void. If the small-claims designation is not removed and proceedings under this section are not discontinued, the small-claims procedure shall be deemed to have been accepted and all right of appeal waived by both parties.
+        </section>
+        <section prefix="f">
+    	     The board shall make a decision in each case heard by it under the small-claims procedure, giving a brief written summary of the reasons therefor. No decision shall grant an abatement of tax exceeding the amount of tax placed in dispute within the limits prescribed in subsection (a). Where the amount of tax which the commissioner has refused to abate exceeds the limits imposed by subsection (a), the appellant may nevertheless elect the small-claims procedure; provided, however, that such election shall, unless the small-claims procedure is discontinued pursuant to subsection (e), foreclose all rights to an abatement of any amount of tax in excess of such limits and all interest, penalties, or additions to tax imposed by chapter 62C related to such excess.
+        </section>
+        <section prefix="g">
+    	     A decision entered in any case in which the proceedings are conducted under this section shall not be reviewed in any court and shall not be treated as precedent for any other case.
+        </section>
+    </text>
+</law>

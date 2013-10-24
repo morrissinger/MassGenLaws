@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94A" order_by="94A" level="3">Milk Control</unit>
+    </structure>
+    <section_number>22A</section_number>
+    <catch_line>Construction And Enforcement Of Chapter; Acts Or Omissions Of Officers Or Agents Acting For Principal</catch_line>
+    <order_by>22A</order_by>
+    <text>
+        When construing and enforcing the provisions of this chapter, the act, omission or failure of any officer, agent or other person acting for or employed by any individual, corporation, company, society or association within the scope of his employment or office, shall in each case be also deemed to be the act, omission or failure of such individual, corporation, company, society or association, as well as that of the officer, agent or other person acting for or employed by him or it.
+    </text>
+</law>

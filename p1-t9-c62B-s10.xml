@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62B" order_by="62B" level="3">Withholding Of Taxes On Wages And Declarationof Estimated Income Tax</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Employer’S Liability</catch_line>
+    <order_by>10</order_by>
+    <text>
+        An employer shall be liable for the payment of the tax required to be withheld under section two, and shall not be liable, except as provided in section five, to any person for the amount of any such payment.
+    </text>
+</law>

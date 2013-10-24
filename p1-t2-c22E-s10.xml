@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="22E" order_by="22E" level="3">State Dna Database</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Furnishing Of Records By Director</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The director shall furnish records in his possession, including DNA records and analysis, to police departments in cities and towns, to the department, to the department of correction, to a sheriff’s department, to the parole board or to prosecuting officers within the commonwealth upon request in writing or electronically.
+        </section>
+        <section prefix="b">
+    	     The director shall make DNA records available upon written or electronic request to: (1) local, state and federal criminal justice and law enforcement and prosecuting agencies, including forensic laboratories serving such agencies, for identification purposes in order to further official criminal investigations or prosecutions; provided, however, that any DNA sample obtained directly from a person not otherwise required to provide a DNA sample under this chapter and delivered to the director for comparison with DNA records in the state DNA database shall have been obtained pursuant to a warrant; (2) the FBI for storage and maintenance in CODIS; and (3) any person who has been identified and charged with a criminal offense as a result of a search of DNA records stored in the state DNA database; provided, however, that such access shall be limited to DNA information pertaining to such individual.
+        </section>
+        <section prefix="c">
+    	     The director shall make DNA records available upon written or electronic request to meet such purposes or comply with such statutory obligations as may be required under federal law as a condition to obtaining federal grants or funding.
+        </section>
+        <section prefix="d">
+    	     The director may, in his discretion, make DNA records available to authorized persons or organizations, upon written or electronic request, for the limited purpose of (1) advancing DNA analysis methods and supporting statistical interpretation of DNA analysis, including development of population databases; provided, however, that personal identifying information shall be removed from DNA records disclosed for such purposes; (2) assisting in the identification of human remains from mass disasters; (3) assisting the identification and recovery of missing persons; and (4) advancing other humanitarian purposes.
+        </section>
+    </text>
+</law>

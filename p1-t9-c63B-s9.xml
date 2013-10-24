@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63B" order_by="63B" level="3">Declaration Of Estimated Tax By Corporations</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Liability Of Officers, Directors Or Employees For Failure To Pay Installments Of Estimated Taxes</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any officer, director or employee of any corporation which is required under this chapter to pay an estimated tax, who shall be wilfully responsible for the failure of said corporation to pay any installment of estimated tax due thereunder shall be liable for the amount of tax thereby lost to the commonwealth, and to a penalty of not less than five hundred nor more than five thousand dollars.
+    </text>
+</law>

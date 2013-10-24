@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21C" order_by="21C" level="3">Massachusetts Hazardous Waste Management Act</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Subrogation And Contribution Rights Of Insolvency Fund</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="1">
+    	     Any person receiving payment of a covered claim or potential covered claim under this chapter shall be deemed to have assigned the rights to, and any causes of action relating to the covered claim or potential covered claim to the insolvency fund to the extent of the benefits received under this chapter. The insolvency fund may require an assignment to it of such rights and cause of action by any payee as a condition precedent to the receipt of any right or benefits conferred upon such person. The insolvency fund shall be subrogated to the rights and cause of action of any such payee against the assets of the insolvent licensee.
+        </section>
+        <section prefix="2">
+    	     The subrogation and contribution rights of the insolvency fund under this subsection shall have the same priority against the assets of the impaired or insolvent licensee as that possessed by the person entitled to receive said benefits.
+        </section>
+        <section prefix="3">
+    	     In addition to paragraphs (1) and (2), the insolvency fund shall have all common law and statutory rights of subrogation, contribution and any other equitable or legal remedy which would have been available to the impaired or insolvent licensee or claimant with respect to such claim.
+        </section>
+    </text>
+</law>

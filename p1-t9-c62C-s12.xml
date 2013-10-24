@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Banks, Insurance Companies, Utility And Certain Other Corporations;  Additional Returns; Contents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Every financial institution, as defined in section 1 of chapter 63, shall, on or before the fifteenth day of the third month following the close of each taxable year, make a return to the commissioner giving such information as the commissioner considers necessary for the determination of the tax imposed by section 2 of chapter 63.
+        </section>
+        <section prefix="d">
+    	     Every life insurance company shall annually, on or before March fifteenth, make a return to the commissioner giving such information as the commissioner may deem necessary for the determination of the tax due under sections twenty and twenty-one of chapter sixty-three for the preceding calendar year.
+        </section>
+        <section prefix="e">
+    	     Every insurance company liable to taxation under section twenty-two, twenty-two A, twenty-two B or section twenty-three of chapter sixty-three shall annually, on or before March fifteenth, make a return to the commissioner giving such information as the commissioner may deem necessary for the determination of the excise thereby imposed.
+        </section>
+        <section prefix="f">
+    	     Every marine, or fire and marine, insurance company liable to taxation under section twenty-nine A of chapter sixty-three shall annually, on or before the fifteenth day of May, make a return to the commissioner, setting forth the underwriting profit or loss, ascertained as provided in said section twenty-nine A, for the taxable year or years required by the pertinent paragraph of subsection (6) thereof, giving such other information as the commissioner may deem necessary for the determination of the excise imposed by that section.
+        </section>
+        <section prefix="g">
+    	     Every utility corporation shall, on or before the fifteenth day of the third month following the close of each taxable year, make a return to the commissioner giving such information as the commissioner may deem necessary for the determination of the tax imposed by section fifty-two A of chapter sixty-three.
+        </section>
+        <section prefix="h">
+    	     Every corporation organized under general or special laws of the commonwealth for purposes of business or profit, having a capital stock divided into shares, except banks otherwise taxable under chapter sixty-three, except insurance companies with capital stock and mutual insurance companies with a guaranty capital or permanent fund whose premiums are otherwise taxable under chapter sixty-three, and except corporations taxable under sections thirty to forty-two B, inclusive and fifty-two A of chapter sixty-three, in addition to all returns required by this chapter, and in addition to any returns otherwise required under chapter sixty-three, shall annually, on or before the fifteenth day of March, make a return to the commissioner stating the name and place of business of the corporation, and setting forth as of January first of the year in which the return is made:
+        </section>
+        <section prefix="i">
+    	     Every corporation subject to taxation under section sixty-seven of chapter sixty-three and owning an interest in any ship or vessel shall on or before the fifteenth day of the third month following the close of each taxable year, make a return to the commissioner, setting forth in detail the name of the ship or vessel, the interest of the corporation therein, and the value of such interest.
+        </section>
+        <section prefix="j">
+    	     Every corporation subject to taxation under section ten of chapter one hundred twenty-one A shall on or before March fifteenth of each year make a return for the preceding calendar year giving such information as the commissioner requires for the determination of the tax imposed by said section.
+        </section>
+    </text>
+</law>

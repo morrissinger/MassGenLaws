@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30B" order_by="30B" level="3">Uniform Procurement Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Writing Requirement; Invalidation Of Contracts; Forfeiture; Civil Actions</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     All contracts in the amount of five thousand dollars or more shall be in writing, and the governmental body shall make no payment for a supply or service rendered prior to the execution of such contract.
+        </section>
+        <section prefix="b">
+    	     Subject to the provisions of section three A of chapter forty, a contract made in violation of this chapter shall not be valid, and the governmental body shall make no payment under such contract. Minor informalities shall not require invalidation of a contract.
+        </section>
+        <section prefix="c">
+    	     A person who causes or conspires with another to cause a contract to be solicited or awarded in violation of a provision of this chapter shall forfeit and pay to the appropriate governmental body a sum of not more than two thousand dollars for each violation. In addition, the person shall pay double the amount of damages sustained by the governmental body by reason of the violation, together with the costs of any action. If more than one person participates in the violation, the damages and costs may be apportioned among them.
+        </section>
+        <section prefix="d">
+    	     The inspector general shall have authority to institute a civil action to enforce paragraph (c) if authorized by the attorney general.
+        </section>
+    </text>
+</law>

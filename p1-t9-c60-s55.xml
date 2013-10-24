@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Fees For Taking</catch_line>
+    <order_by>55</order_by>
+    <text>
+        If land has been so taken there shall be allowed to the collector and added to the tax the charges and fees fixed by section fifteen, and also the cost of recording the instrument of taking, provided he has caused such instrument to be duly recorded within sixty days after the taking and to be delivered to the town treasurer.
+    </text>
+</law>

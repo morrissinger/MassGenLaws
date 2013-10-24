@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40H" order_by="40H" level="3">Community Economic Development Assistance Corporation</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Powers</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     to make, amend and repeal bylaws, rules and regulations for the management of its affairs;
+        </section>
+        <section prefix="b">
+    	     to adopt an official seal;
+        </section>
+        <section prefix="c">
+    	     to sue and be sued, in its own name;
+        </section>
+        <section prefix="d">
+    	     to make contracts and execute all instruments necessary or convenient for the exercise of its power and functions;
+        </section>
+        <section prefix="e">
+    	     to acquire, own, hold and dispose of personal property of any nature or any interest therein;
+        </section>
+        <section prefix="f">
+    	     to enter into agreements or other transactions with any federal, state or municipal agency;
+        </section>
+        <section prefix="g">
+    	     to provide technical and financial assistance, either to particular eligible organizations or in the form of assistance, such as the publishing of materials or holding of conferences or the like, intended to contribute to the public purposes of this chapter generally;
+        </section>
+        <section prefix="h">
+    	     to appear in its own behalf before boards, commissions, departments or other agencies of municipal, state or federal government;
+        </section>
+        <section prefix="i">
+    	     to procure insurance against any losses in connection with its property in such amounts and from such insurers, as may be necessary or desirable;
+        </section>
+        <section prefix="j">
+    	     to apply for and accept grants, loans, advances and contributions from any source of money, property, labor or other things of value, to be held, used and applied for the purposes of this chapter;
+        </section>
+        <section prefix="k">
+    	     to provide and pay for such advisory services and technical and financial assistance as may be necessary or desirable to carry out the purposes of this chapter;
+        </section>
+        <section prefix="l">
+    	     to exercise any other powers of a corporation organized under chapter 156B; and
+        </section>
+        <section prefix="m">
+    	     to do all things necessary or convenient to carry out its purposes and exercise the powers expressly granted in this chapter.
+        </section>
+    </text>
+</law>

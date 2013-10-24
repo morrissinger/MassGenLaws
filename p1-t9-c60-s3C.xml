@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>3C</section_number>
+    <catch_line>City Or Town Scholarship Fund; Donation; Deposits; Distribution</catch_line>
+    <order_by>3C</order_by>
+    <text>
+        <section prefix="a">
+    	     The recipients of financial aid must be residents of the city or town at the time the financial aid is first awarded and have been accepted to pursue education beyond the secondary school level at an institution deemed accredited by the committee.
+        </section>
+        <section prefix="b">
+    	     The committee shall take into consideration each recipients financial need, character, scholastic record and involvement in community work as well as extracurricular school activities.
+        </section>
+    </text>
+</law>

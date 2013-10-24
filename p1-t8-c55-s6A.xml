@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55" order_by="55" level="3">Disclosure And Regulation Of Campaign Expenditures And Contributions</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Contributions From Political Action Committees; Limitations</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        <section prefix="a">
+    	     a candidate for governor, including contributions jointly to such candidate for governor and a candidate for lieutenant governor in a state election—one hundred and fifty thousand dollars;
+        </section>
+        <section prefix="b">
+    	     a candidate for lieutenant governor—thirty-one thousand, two hundred and fifty dollars;
+        </section>
+        <section prefix="c">
+    	     a candidate for attorney general—sixty-two thousand, five hundred dollars;
+        </section>
+        <section prefix="d">
+    	     a candidate for state secretary, state treasurer, and state auditor—thirty-seven thousand, five hundred dollars;
+        </section>
+        <section prefix="e">
+    	     a candidate for state senator, county commissioner, governor’s councillor, district attorney, clerk of courts, register of probate, registrar of deeds or any other county officer—eighteen thousand, seven hundred and fifty dollars;
+        </section>
+        <section prefix="f">
+    	     a candidate for state representative—seven thousand, five hundred dollars.
+        </section>
+    </text>
+</law>

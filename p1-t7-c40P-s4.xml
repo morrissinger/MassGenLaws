@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40P" order_by="40P" level="3">The Massachusetts Rent Control Prohibition Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>General Prohibition; Exception</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     after six months from the date of the initial adoption of rent control regulation by a particular city or town, compliance on the part of property owners as to the rent control regulation or any subsequently adopted rent control regulation shall be entirely voluntary and uncoerced, and the property of a person or entity declining to have his or its property subjected to such regulation shall be wholly unaffected by any aspect of the rent control regulation or any subsequently adopted rent control regulation;
+        </section>
+        <section prefix="b">
+    	     such regulation may not include the regulation of occupancy, services, evictions, condominium conversion or the removal of properties from such regulation, nor may such regulation apply to any rental unit that is owned by a person or entity owning less than ten rental units or that has a fair market rent exceeding $400; and
+        </section>
+        <section prefix="c">
+    	     a municipality adopting such regulation shall compensate owners of rent controlled units for each unit in the amount of the difference between the unit’s fair market rent and the unit’s below market, rent controlled rent, with such compensation coming from the municipality’s general funds, so that the cost of any rent control shall be borne by all taxpayers of a municipality and not by the owners of regulated units only.
+        </section>
+    </text>
+</law>

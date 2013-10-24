@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Records Kept</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The registrars, except in any city or town as to which it is otherwise provided by special law, shall enter the name and residence of each person listed and certified under section eight in a book provided therefor.
+    </text>
+</law>

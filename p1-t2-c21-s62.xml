@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Watershed Preservation Restrictions; Tax Assessment</catch_line>
+    <order_by>62</order_by>
+    <text>
+        Land under watershed preservation restriction, while remaining under such restriction, shall be assessed for general tax purposes, to reflect the diminution of land value which may be caused by such watershed preservation restriction.
+    </text>
+</law>

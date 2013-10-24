@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>39A</section_number>
+    <catch_line>Tax On Foreign Subsidiary Corporation</catch_line>
+    <order_by>39A</order_by>
+    <text>
+        The net income of a foreign corporation which is a subsidiary or parent corporation of another corporation or closely affiliated therewith by stock ownership shall be determined by eliminating all payments to the parent corporation or subsidiary or affiliated corporations in excess of fair value, and by including fair compensation to such foreign corporation for all commodities sold to or services performed for the parent corporation or subsidiary or affiliated corporations. For the purposes of determining such net income, the commissioner may, in the absence of satisfactory evidence to the contrary, presume that an apportionment by reasonable rules of the consolidated net income of corporations participating in the filing of a consolidated return of net income to the federal government fairly reflects the net income taxable under this chapter, or may otherwise equitably determine such net income by reasonable rules of apportionment of the combined income of the subsidiary, its parent and affiliates or any thereof. 
+If, in the opinion of the commissioner, the capital of a foreign corporation, which is a subsidiary or parent corporation of another corporation or closely affiliated therewith by stock ownership, is inadequate for its business needs apart from credit extended or indebtedness guaranteed by the parent or subsidiary or an affiliated corporation, the commissioner shall, in determining net worth under paragraph 9 of section thirty, determine the value of its net worth properly taxable thereunder and consider such value the taxable net worth, disregarding its indebtedness owed or guaranteed by the parent or subsidiary or an affiliated corporation. 
+Such a corporation shall incorporate in its tax return required under section eleven of chapter sixty-two C such information as the commissioner may reasonably require for determination of the excise pursuant to the provisions of this section, and failure to so incorporate such information shall subject the corporation and its officers to the penalties provided by section seventy-four of chapter sixty-two C. This section shall be broadly construed to include the situation in which the corporations referenced transact with one another through persons or entities that are not corporations within the meaning of this chapter.
+    </text>
+</law>

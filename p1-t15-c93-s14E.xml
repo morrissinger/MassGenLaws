@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>14E</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>14E</order_by>
+    <text>
+        <section prefix="a">
+    	     The term “cost to the retailer” shall mean the invoice cost of the merchandise to the retailer within thirty days prior to the date of sale, or the replacement cost of the merchandise to the retailer within thirty days prior to the date of sale, in the quantity last purchased, whichever is lower; less all trade discounts except customary discounts for cash; to which shall be added (1) freight charges not otherwise included in the cost of the merchandise, (2) cartage to the retail outlet if performed or paid for by the retailer, which cartage cost shall be deemed to be three fourths of one per cent of the cost of the merchandise to the retailer, unless said retailer claims and proves a lower cartage cost, and (3) a mark-up to cover in part the cost of doing business, which mark-up, in the absence of proof of a lesser cost, shall be six per cent of the total cost at the retail outlet;
+        </section>
+        <section prefix="b">
+    	     The term “cost to the wholesaler” shall mean the invoice cost of the merchandise to the wholesaler within thirty days prior to the date of sale, or the replacement cost of the merchandise to the wholesaler within thirty days prior to the date of sale, in the quantity last purchased, whichever is lower; less all trade discounts except customary discounts for cash; to which shall be added (1) freight charges not otherwise included in the cost of the merchandise, and (2) cartage to the retail outlet if performed or paid for by the wholesaler, which cartage cost shall be deemed to be three fourths of one per cent of the cost of the merchandise to the wholesaler, unless said wholesaler claims and proves a lower cartage cost, and (3) a mark-up to cover in part the cost of doing business, which mark-up, in the absence of proof of a lesser cost, shall be two per cent of the total cost at the wholesale establishment;
+        </section>
+        <section prefix="c">
+    	     Where two or more items are advertised, offered for sale or sold at a combined price, the price of each such item shall be determined in the manner set forth in paragraphs (a) and (b);
+        </section>
+        <section prefix="d">
+    	     The terms “cost to the retailer” and “cost to the wholesaler” as defined in said paragraphs (a) and (b) shall mean bona fide costs; and sales to consumers, retailers and wholesalers at prices which cannot be justified by existing market conditions within this commonwealth shall not be used as a basis for computing replacement costs with respect to sales by retailers and wholesalers;
+        </section>
+        <section prefix="e">
+    	     The terms “sell at retail”, “sales at retail” and “retail sale” shall mean and include any transfer of title to tangible personal property for a valuable consideration made, in the ordinary course of trade or in the usual prosecution of the seller’s business, to the purchaser for consumption or use other than resale or further processing or manufacturing. The terms “sell at wholesale”, “sales at wholesale” and “wholesale sale” shall mean and include any such transfer of title to tangible personal property for the purpose of resale or further processing or manufacturing. In this and in the preceding paragraph the above terms shall include any such transfer of property where title is retained by the seller as security for the payment of the purchase price;
+        </section>
+        <section prefix="f">
+    	     The term “retailer” shall mean and include every person, co-partnership, corporation or association engaged in the business of making sales at retail within this commonwealth; provided, that, in the case of a retailer engaged in the business of making sales both at retail and at wholesale, such term shall be applied only to the retail portion of such business; and
+        </section>
+        <section prefix="g">
+    	     The term “wholesaler” shall mean and include every person, co-partnership, corporation or association engaged in the business of making sales at wholesale within this commonwealth; provided, that, in the case of a wholesaler engaged in the business of making sales both at wholesale and at retail, such term shall be applied only to the wholesale portion of such business.
+        </section>
+        <section prefix="h">
+    	     Whenever any person, co-partnership, corporation or association subject to this chapter, in the course of doing business, performs the functions of both wholesaler and retailer without actually being engaged in the business of making sales at wholesale, the term “wholesaler” shall mean and include that function of the business of preparation for sale at the retail outlet, and the term “retailer” shall be applied only to the retail portion of such business.
+        </section>
+    </text>
+</law>

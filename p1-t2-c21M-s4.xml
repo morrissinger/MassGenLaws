@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21M" order_by="21M" level="3">Vessel Traffic Service</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Tank Vessel; Requirements</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A tank vessel operating within the waters of the commonwealth shall be subject to this section.
+        </section>
+        <section prefix="b">
+    	     Crew requirements for tank barges shall consist of 2 personnel, 1 of whom shall be a certified tanker-man under 46 CFR subpart 12.20 who shall be on the tank barge at all times when the tank barge is underway, anchored or moored in the waters of Buzzards bay, unless the tank barge is not equipped to accommodate personnel on board or is carrying less than 6,000 barrels of oil.
+        </section>
+        <section prefix="c">
+    	     A tank barge which is underway, anchored or moored in the waters of Buzzards bay and which does not fulfill the minimum manning safety standards as stated in this section, shall be in violation of this chapter unless such tank barge has a double hull.
+        </section>
+    </text>
+</law>

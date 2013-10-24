@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>46A</section_number>
+    <catch_line>Transmittal Of Duplicate Certificate Of Registration To Place Of Voter’S Last Registration</catch_line>
+    <order_by>46A</order_by>
+    <text>
+        Except as provided in section forty-seven, the registrars, upon receipt of an affidavit of registration, shall transmit a duplicate copy thereof to the registrars in the city or town where the person last registered to vote, if within the commonwealth, or to the state secretary of the state where the person last registered to vote, if the person had indicated that his previous residence was in that state.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21F" order_by="21F" level="3">Coastal Facilities Improvement</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Purposes</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     to ensure that adequate and well-maintained public facilities exist to support the commonwealth’s fishing, marine, tourist, and recreational industry in the coastal zone;
+        </section>
+        <section prefix="b">
+    	     to provide flexible and affordable financial programs for the commonwealth’s coastal cities and towns so that they can plan for, construct, reconstruct, maintain and improve public coastal facilities;
+        </section>
+        <section prefix="c">
+    	     to improve planning for coastal facilities consistent with the policies of the executive office of environmental affairs;
+        </section>
+        <section prefix="d">
+    	     to encourage greater cost sharing between the public and users of public facilities financed with public funds.
+        </section>
+    </text>
+</law>

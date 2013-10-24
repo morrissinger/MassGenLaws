@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6" order_by="6" level="3">The Governor, Lieutenant Governor And Council, Certain Officers Under The Governor And Council, And State Library</unit>
+    </structure>
+    <section_number>187</section_number>
+    <catch_line>Duties And Functions</catch_line>
+    <order_by>187</order_by>
+    <text>
+        <section prefix="a">
+    	     to identify, analyze, evaluate and monitor public policies, programs, services and regulations that affect or may affect persons with disabilities;
+        </section>
+        <section prefix="b">
+    	     to utilize a system of collection of information for the purpose of identifying inadequate or inaccessible programs and services, inadequate coordination of programs and services, unnecessary programs and services, and duplication of programs and services;
+        </section>
+        <section prefix="c">
+    	     to make recommendations and to provide comprehensive coordination and support to appropriate state agencies concerning public policies, programs, services and regulations as they affect or may affect persons with disabilities;
+        </section>
+        <section prefix="d">
+    	     to develop and promote information and referral services regarding programs, services, rights and opportunities for persons with disabilities;
+        </section>
+        <section prefix="e">
+    	     to identify and recommend to state and local agencies, departments and organizations appropriate sources of state and federal funds which are available for expanding or improving services and programs for persons with disabilities;
+        </section>
+        <section prefix="f">
+    	     to prepare and submit to the governor an annual report which shall be a public document; and which shall include the description, and evaluation of the activities of the office implementing the aforesaid duties and functions; the description, evaluation and analysis of public policies, programs, services and regulations that affect or may affect persons with disabilities; and recommendations for the development, coordination and improved responsiveness of such policies, programs, services and regulations.
+        </section>
+    </text>
+</law>

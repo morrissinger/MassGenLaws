@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64F" order_by="64F" level="3">Taxation Of Fuel And Special Fuels Acquired Outside And Used Within The Commonwealth</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Payments; Tax Rate</catch_line>
+    <order_by>6</order_by>
+    <text>
+        At the time of filing a return required by section sixteen of chapter sixty-two C, every licensee shall pay to the commissioner the excise due at the tax per gallon determined by the commissioner under chapter sixty-four A on each gallon of fuel and special fuels used by him in the commonwealth during the calendar quarter or such other period covered by the return.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="53" order_by="53" level="3">Nominations, Questions To Be Submitted To The Voters, Primaries And Caucuses</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Applicability Of Sections Relating To Elections And Corrupt Practices</catch_line>
+    <order_by>24</order_by>
+    <text>
+        Primaries shall be subject to all laws relating to elections and corrupt practices therein, so far as applicable and except as otherwise provided in this chapter and in chapters fifty-four, fifty-five and fifty-six.
+    </text>
+</law>

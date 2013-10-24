@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="10" order_by="10" level="3">Department Of The State Treasurer</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>State Election Campaign Fund</catch_line>
+    <order_by>42</order_by>
+    <text>
+        There shall be established on the books of the commonwealth a separate fund to be known as the State Election Campaign Fund, consisting of all revenues received under section 6C of chapter 62, and all other monies credited or transferred to the fund from any other fund or source pursuant to law. 
+The state treasurer shall deposit the fund in accordance with sections 34 and 34A of chapter 29 in such manner as will secure the highest interest rate available consistent with safety of the fund and with the requirement that all amounts on deposit be available for immediate withdrawal at any time after June 30 in any year in which elections are held for statewide elective office. 
+The state election campaign fund shall be expended only for the payment to eligible candidates, as determined under chapter 55C of amounts due on account of public financing on campaigns for statewide elective office and any unexpended balances shall be redeposited, as herein provided, pending the next year in which elections are held for statewide elective office.
+    </text>
+</law>

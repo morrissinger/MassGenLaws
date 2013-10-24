@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23A" order_by="23A" level="3">Department Of Economic Development</unit>
+    </structure>
+    <section_number>3L</section_number>
+    <catch_line>Mobd Assistance To Businesses Interested In Establishing Relationships With Regional Economic Development Organizations</catch_line>
+    <order_by>3L</order_by>
+    <text>
+        <section prefix="a">
+    	     The Massachusetts office of business development shall provide initial assistance to a business which contacts the office requesting service. The Massachusetts office of business development shall provide the business with information about the various regional economic development organizations with which it has contracted and continue to serve as primary contact for that business until the business has established a relationship with a particular region. The Massachusetts office of business development shall notify all regional economic development organizations, on a nondiscriminatory basis, of business prospects that have expressed interest to the Massachusetts office of business development in moving to the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The Massachusetts office of business development shall coordinate activity among regional economic development organizations and between regional economic development organizations and the commonwealth’s economic development agencies and the commonwealth’s initiatives: (i) to ensure that initiatives led by the commonwealth or quasi-public economic development agencies receive information and advice from the regional economic development organizations; and (ii) to ensure that initiatives led by the regional economic development organizations receive information and advice from agencies within the executive branch and from quasi-public economic development agencies.
+        </section>
+        <section prefix="c">
+    	     The Massachusetts office of business development shall support the secretary of housing and economic development in the creation of the statewide economic development plan under section 16G of chapter 6A.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21" order_by="21" level="3">Department Of Environmental Management</unit>
+    </structure>
+    <section_number>50C</section_number>
+    <catch_line>Vessel; Certificate Of Financial Assurance</catch_line>
+    <order_by>50C</order_by>
+    <text>
+        <section prefix="a">
+    	     Any vessel, whether or not self-propelled, in or entering upon the waters of the commonwealth for the purpose of transporting, discharging or receiving a cargo of oil, hazardous material, or hazardous waste, shall be subject to the financial assurance requirements and penalty authority as provided in subsections (b) to (d), inclusive.
+        </section>
+        <section prefix="b">
+    	     A certificate of financial assurance obtained individually or jointly by the vessel, its owner or agent, its charterer, or by the owner or operator of the terminal at which the vessel discharges or receives its cargo, shall be provided to the department in the amount of at least $1,000,000,000. Vessels with a capacity of less than 6,000 barrels shall present a certificate of financial assurance to the department of environmental protection in the amount of $5,000,000. A copy of the financial assurance shall be posted on the vessel.
+        </section>
+        <section prefix="c">
+    	     For the purposes of this chapter, a certificate of financial assurance shall be demonstrated by evidence of insurance, surety bond, letter of credit, qualifications as a self-insurer or any combination thereof or other evidence of financial assurance approved by the commissioner.
+        </section>
+        <section prefix="d">
+    	     The department may allow financial assurance in a lower amount based upon criteria that includes, but is not limited to, the type and amount of the above cargo transported by the vessel; the size and construction of the vessel, including whether the vessel is double hulled; the safety record of the vessel or the vessel owner, the loss or accident history of the vessel or vessel owner involving maritime spills and the safety equipment used by the vessel. The financial assurance shall be in a form approved by the department.
+        </section>
+    </text>
+</law>

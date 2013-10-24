@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="94C" order_by="94C" level="3">Controlled Substances Act</unit>
+    </structure>
+    <section_number>32I</section_number>
+    <catch_line>Drug Paraphernalia; Sale, Possession Or Manufacture With Intent To Sell; Penalty; Sale Of Tobacco Rolling Papers</catch_line>
+    <order_by>32I</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall sell, possess or purchase with intent to sell, or manufacture with intent to sell drug paraphernalia, knowing, or under circumstances where one reasonably should know, that it will be used to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, ingest, inhale, or otherwise introduce into the human body a controlled substance in violation of this chapter. Whoever violates any provision of this paragraph shall be punished by imprisonment in jail or house of correction for not less than one nor more than two years, or by a fine of not less than five hundred nor more than five thousand dollars, or both.
+        </section>
+        <section prefix="b">
+    	     Any person who violates the foregoing provision by selling drug paraphernalia to a person under eighteen years of age shall be imprisoned in the state prison for not less than three nor more than five years, or by a fine of not less than one thousand nor more than five thousand dollars, or both.
+        </section>
+        <section prefix="c">
+    	     On any premises where tobacco rolling papers are sold, the person in control of such premises shall cause to be displayed in a prominent place therein a printed warning that such papers shall not be used in conjunction with the possession of a controlled substance the possession of which is punishable by a fine or imprisonment. Whoever violates the provisions of this subsection shall be punished by a fine of not less than fifty nor more than two hundred dollars.
+        </section>
+        <section prefix="d">
+    	     This section shall not apply to the sale of hypodermic syringes or hypodermic needles to persons over the age of 18 pursuant to section 27.
+        </section>
+    </text>
+</law>

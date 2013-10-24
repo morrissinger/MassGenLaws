@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="60" order_by="60" level="3">Collection Of Local Taxes</unit>
+    </structure>
+    <section_number>61A</section_number>
+    <catch_line>Lands Subject To Tax Titles Held By Municipalities; Taking For Nonpayment Of Taxes</catch_line>
+    <order_by>61A</order_by>
+    <text>
+        Anything contained in section sixty-one to the contrary notwithstanding, if a tax is a lien on land only part of which is subject to a tax title or tax titles held by the town or part of which is subject to a tax title held by the town and the remainder of which is subject to another tax title or tax titles held by the town, the tax shall not be certified as provided in section sixty-one; but the collector shall take the land for the nonpayment of the tax as if no part of such land were subject to a tax title held by the town, except that the notice prior to the taking and the instrument of taking shall, after describing the land, state:—“A portion or all of this land is subject to a tax title or tax titles held by the Town [or City] of   ”. The tax title account set up for the tax title resulting from such a taking and the tax title account set up for the prior tax title or tax titles shall be cross-referenced by the treasurer; and no tax title the account for which is so cross-referenced shall be assigned by the town.
+    </text>
+</law>

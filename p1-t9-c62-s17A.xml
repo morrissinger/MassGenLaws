@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62" order_by="62" level="3">Taxation Of Incomes</unit>
+    </structure>
+    <section_number>17A</section_number>
+    <catch_line>Taxation Of Shareholders Of S Corporations</catch_line>
+    <order_by>17A</order_by>
+    <text>
+        <section prefix="b">
+    	     A nonresident of the commonwealth who is a shareholder of an S corporation, as so defined, which is subject to tax under chapter sixty-three shall be subject to the tax imposed by section five A on his distributive share of the income realized by the S corporation as would be subject to taxation under section five A if realized by a nonresident. Where the S corporation does business both within and without the commonwealth, the income derived from business carried on within the commonwealth shall be determined under the provisions of section thirty-eight and forty-two of chapter sixty-three. The shareholder shall include separately in his return his distributive share of such income or loss and of any item of deduction or credit relating thereto.
+        </section>
+        <section prefix="c">
+    	     The character of any item of income, loss, deduction or credit included in a shareholder’s distributive share shall be determined as if such item were realized or incurred directly by the shareholder from the source from which realized by the corporation or incurred in the same manner as incurred by the corporation. Such determinations shall be made under the provisions of chapter sixty-two and of the Code applicable to the shareholders of the S corporation.
+        </section>
+        <section prefix="d">
+    	     Notwithstanding any other provision of this chapter, where a corporation has elected to be an S corporation for federal income tax purposes prior to the effective date of this section, and the basis of such corporation’s stock or indebtedness has been adjusted for federal income tax purposes under the provisions of Subchapter S of the Code for S corporation taxable years commencing before nineteen hundred and eighty-six, then such adjustments, limited to the extent they are applicable in determining the basis for the corporation’s shareholders as of the last day of the last S corporation taxable year commencing before nineteen hundred and eighty-six, will be modifications to the gain or loss recognized under this chapter on the sale or exchange of such stock or indebtedness. Net positive basis adjustments will reduce the shareholder’s federal basis in such corporation’s stock. Net negative basis adjustments will increase the shareholders federal basis in such corporation’s stock. If stock or indebtedness is transferred and the basis to the transferee is determined by reference to the basis of the transferor, then the modifications made by this section will continue to apply to the transferee.
+        </section>
+        <section prefix="e">
+    	     The provisions of this section shall not apply to shareholders of an S corporation which is subject to taxation as a corporate trust under this chapter.
+        </section>
+    </text>
+</law>

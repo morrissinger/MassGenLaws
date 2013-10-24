@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>80</section_number>
+    <catch_line>In Person Interviews With Taxpayers; Explanations</catch_line>
+    <order_by>80</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer or employee of the department of revenue shall before or at an initial interview provide to the taxpayer:
+        </section>
+        <section prefix="i">
+    	     in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer’s rights under such process; or
+        </section>
+        <section prefix="ii">
+    	     in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer’s rights under such process.
+        </section>
+        <section prefix="b">
+    	     If the taxpayer clearly states to an officer or employee of the department of revenue at any time during any interview, other than an interview initiated by an administrative summons issued under section seventy, that the taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer, such officer or employee shall suspend such interview regardless of whether the taxpayer may have answered one or more questions.
+        </section>
+        <section prefix="c">
+    	     Any attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer and who has a written power of attorney executed by the taxpayer may be authorized by such taxpayer to represent the taxpayer in any in-person interview with any taxpayer relating to the determination or collection of any tax. An officer or employee of the department of revenue may not require a taxpayer to accompany the representative in the absence of an administrative summons issued to the taxpayer under section seventy. Such an officer or employee, with the consent of the immediate supervisor of such officer or employee, may notify the taxpayer directly that such officer or employee believes such representative is responsible for unreasonable delay or hindrance of an examination or investigation of the taxpayer.
+        </section>
+        <section prefix="d">
+    	     This section shall not apply to criminal investigations or investigations relating to the integrity of an officer or employee of the department of revenue.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>61</section_number>
+    <catch_line>Unit Training Periods; Meetings Of Instruction For Noncommissioned Officers; Frequency; Arrests For Absence Without Leave</catch_line>
+    <order_by>61</order_by>
+    <text>
+        <section prefix="a">
+    	     In addition to the duty required by section thirty-eight, forty, forty-one, forty-two or sixty, every unit of the armed forces of the commonwealth shall assemble for training at least forty-eight times in each year, and oftener if so directed by the unit or organization commander. Organization drills and parades may be held in place of unit drills, and transportation to and from the place of such drills and parades shall be furnished for the units composing the organization, if authorized by the commander-in-chief.
+        </section>
+        <section prefix="b">
+    	     Organization and unit commanders may call meetings of instruction for the noncommissioned officers of their commands as they deem necessary.
+        </section>
+        <section prefix="c">
+    	     Any police officer authorized to make arrests within the commonwealth may apprehend without a warrant any member of the armed forces of the commonwealth absent without leave from any assembly for training under paragraph (a), meeting for instruction under paragraph (b) or training under service conditions under section sixty and keep him in custody, but for not more than twenty-four hours, until taken into custody by the armed forces of the commonwealth; provided, however, that such apprehension and such keeping in custody shall have been requested in writing by the commanding officer of any unit of said armed forces.
+        </section>
+    </text>
+</law>

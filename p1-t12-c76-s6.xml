@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Payment Of Tuition For Non Resident Children</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If a child resides temporarily in a town other than the legal residence of his parent or guardian for the special purpose of their attending school, the child may attend school with the authorization of the school committee of said town, and the said town may recover tuition from the parent or guardian, unless under section twelve of chapter seventy-six, such tuition is payable by a town. Tuition payable by the parent or guardian shall, for the period of attendance, be computed at the regular rate established by the school committee for non-resident pupils, but in no case exceeding the average expense per pupil in such school for said period. The school committee of the town in which a child is temporarily residing for the special purpose of their attending school may waive all or part of the tuition charge for such child.
+    </text>
+</law>

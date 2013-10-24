@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93" order_by="93" level="3">Regulation Of Trade And Certain Enterprises</unit>
+    </structure>
+    <section_number>103</section_number>
+    <catch_line>Equal Rights; Age And Handicap; Violations; Remedies</catch_line>
+    <order_by>103</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person within the commonwealth, regardless of handicap or age as defined in chapter one hundred and fifty-one B, shall, with reasonable accommodation, have the same rights as other persons to make and enforce contracts, inherit, purchase, lease, sell, hold and convey real and personal property, sue, be parties, give evidence, and to the full and equal benefit of all laws and proceedings for the security of persons and property, including, but not limited to, the rights secured under Article CXIV of the Amendments to the Constitution.
+        </section>
+        <section prefix="b">
+    	     Any person whose rights under the provisions of subsection (a) have been violated may commence a civil action for injunctive and other appropriate equitable relief, including, but not limited to, the award of compensatory and exemplary damages. Said civil action shall be instituted either in the superior court for the county in which the conduct complained of occurred, or in the superior court for the county in which the person whose conduct complained of resides or has his principal place of business.
+        </section>
+        <section prefix="c">
+    	     A violation of subsection (a) shall be established if, based upon the totality of circumstances, it is shown that any individual is denied any of the rights protected by subsection (a).
+        </section>
+        <section prefix="d">
+    	     An aggrieved person who prevails in an action authorized by subsection (b), in addition to other damages, shall be entitled to an award of the costs of the litigation and reasonable attorneys’ fees in an amount to be determined by the court.
+        </section>
+    </text>
+</law>

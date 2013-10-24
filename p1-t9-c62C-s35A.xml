@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Penalty For Underpayment Of Tax Required To Be Shown On Return</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        <section prefix="a">
+    	     If this section applies to any portion of an underpayment of tax required to be shown on a return, there shall be added to the tax an amount equal to 20 per cent of the portion of the underpayment to which this section applies. For purposes of this section, the term “underpayment” means the amount by which any tax exceeds the amount shown as the tax by the taxpayer on the return.
+        </section>
+        <section prefix="b">
+    	     This section shall apply to the portion of any underpayment which is attributable to 1 or more of the following: (1) negligence or disregard of the tax laws of the commonwealth or of public written statements issued by the commissioner; (2) any substantial understatement of liability for a tax referred to in section 2.
+        </section>
+        <section prefix="c">
+    	     For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the laws or public written statements, the term “disregard” includes any careless, reckless, or intentional disregard, and there is a substantial understatement of liability for a tax for any tax period if the amount of the understatement for the period exceeds the greater of 10 per cent of the tax required to be shown on the return for the period or $1,000.
+        </section>
+        <section prefix="d">
+    	     For purposes of subsection (c), the term “understatement” means the excess of the amount of the tax required to be shown on the return for the period over the amount of the tax which is shown on the return. The amount of the understatement shall be reduced by that portion of the understatement which is attributable to (i) the tax treatment of any item by the taxpayer if there is or was substantial authority for the treatment; or (ii) any item if the relevant facts affecting the tax treatment of the item are adequately disclosed in the return or in a statement attached to the return, and there is a reasonable basis for the tax treatment of the item by the taxpayer, but this subparagraph (ii) shall not apply in the case of listed abusive transactions or strategies within the meaning of paragraph (b) of section 35B.
+        </section>
+        <section prefix="e">
+    	     The penalty set forth in this section shall apply only in cases where a return of tax is filed.
+        </section>
+    </text>
+</law>

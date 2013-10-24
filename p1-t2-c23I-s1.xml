@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="23I" order_by="23I" level="3">The Massachusetts Life Sciences Center</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Findings And Declarations Relating To Life Sciences</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     research in the life sciences and regenerative medicine presents a significant opportunity of yielding fundamental biological knowledge from which may emanate therapies to relieve, on a large scale, human suffering from disease and injury;
+        </section>
+        <section prefix="2">
+    	     the extraordinary biomedical scientists working within institutions of higher education, research institutes, hospitals, biotechnology companies and pharmaceutical companies can contribute significantly to the welfare of mankind by performing outstanding research in these fields;
+        </section>
+        <section prefix="3">
+    	     promoting the health of residents of the commonwealth is a fundamental purpose of state government;
+        </section>
+        <section prefix="4">
+    	     promoting life sciences research to foster the development of the next generation of health-related innovations, to enhance the competitive position of the commonwealth in this vital sector of the economy, and to improve the quality and delivery of health care for the people of the commonwealth is a clear public purpose and governmental function;
+        </section>
+        <section prefix="5">
+    	     public support for and promotion of the life sciences will benefit the commonwealth and its residents through improved health status and health outcomes, economic development, and contributions to scientific knowledge, and such research will lead to breakthroughs and improvements that might not otherwise be discovered due to the lack of existing market incentives, especially in the area of regenerative medicine, such as stem cell research;
+        </section>
+        <section prefix="6">
+    	     public support for, and promotion of, life sciences research has the potential to provide cures or new treatments for many debilitating diseases that cause tremendous human suffering and cost the commonwealth millions of dollars each year;
+        </section>
+        <section prefix="7">
+    	     it is imperative for the purposes of the commonwealth’s competitiveness to invest in life sciences research, biotechnology, nanotechnology and bio-defense, to leverage revenues and to encourage cooperation and innovation among public and private institutions involved in life sciences research and related applications;
+        </section>
+        <section prefix="8">
+    	     the purpose of this chapter is to establish a life sciences center, to grant that center the power to contract with other entities to receive other funds, and to disburse those funds consistent with the purpose of this chapter;
+        </section>
+        <section prefix="9">
+    	     the life sciences center is intended to: (i) promote the best available research in life sciences disciplines through diverse institutions and to build upon existing strengths in the area of biosciences in order to spread the economic benefits across the commonwealth; and, (ii) foster improved health care outcomes in the commonwealth and the world; and
+        </section>
+        <section prefix="10">
+    	     the investments of the life sciences center are intended to support future statewide, comprehensive strategies to lead the nation in life sciences-related research, innovations and employment.
+        </section>
+    </text>
+</law>

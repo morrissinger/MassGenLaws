@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="70B" order_by="70B" level="3">School Building Assistance Program</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Order Of Priorities For Approval Of School Projects And Reimbursements; Deferral Of Approval Or Disapproval Of Project Applications</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="1">
+    	     priority shall be given to school projects needed in the judgment of said board to replace or renovate a building which is structurally unsound or otherwise in a condition seriously jeopardizing the health and safety of school children, where no alternative exists;
+        </section>
+        <section prefix="2">
+    	     priority shall be given to school projects to eliminate existing severe overcrowding;
+        </section>
+        <section prefix="3">
+    	     priority shall be given to school projects needed in the judgment of said authority to prevent loss of accreditation;
+        </section>
+        <section prefix="4">
+    	     priority shall be given to school projects needed in the judgment of said authority to prevent severe overcrowding expected to result from increased enrollments which must be substantiated;
+        </section>
+        <section prefix="5">
+    	     priority shall be given to projects needed in the judgment of said authority for the replacement, renovation or modernization of the heating system in any schoolhouse to increase energy conservation and decrease energy related costs in said schoolhouse;
+        </section>
+        <section prefix="6">
+    	     priority shall be given to any school project needed in the judgment of said authority for short term enrollment growth;
+        </section>
+        <section prefix="7">
+    	     priority shall be given to school projects needed in the judgment of said authority to replace or add to obsolete buildings in order to provide for a full range of programs consistent with state and approved local requirements; and
+        </section>
+        <section prefix="8">
+    	     priority shall be given to projects needed in the judgment of said authority to transition from court-ordered and authority approved racial balance school districts to walk-to, so-called, or other school districts.
+        </section>
+    </text>
+</law>

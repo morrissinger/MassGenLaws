@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Corporate Returns</catch_line>
+    <order_by>11</order_by>
+    <text>
+        [Text of section effective for tax years beginning on or after January 1, 2009. See 2008, 173, Sec. 101.] 
+Except as otherwise provided in this chapter, every business corporation, as defined in section 30 of chapter 63, shall, on or before the fifteenth day of the third month following the close of each taxable year, file a return providing such information as the commissioner deems necessary for the determination of the taxes imposed upon it by chapter 63.
+    </text>
+</law>

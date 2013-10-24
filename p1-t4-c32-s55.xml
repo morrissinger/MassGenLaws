@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Civil Service, Retirements And Pensions</unit>
+        <unit label="chapter" identifier="32" order_by="32" level="3">Retirement Systems And Pensions</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Acceptance Subject To Mayor’S Veto</catch_line>
+    <order_by>55</order_by>
+    <text>
+        The action of any city council in regard either to the acceptance of sections fifty-two and fifty-three or to the retiring of any veteran under authority thereof shall be subject to veto by the mayor and to passage over his veto in the manner provided by the charter of the city.
+    </text>
+</law>

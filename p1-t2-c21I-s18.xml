@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21I" order_by="21I" level="3">Massachusetts Toxics Use Reduction Act</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Citizen Involvement</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="A">
+    	     The department shall make available for resident review reports which are required under section ten and plan summaries which are required under section eleven; provided, however, that such availability shall be subject to the provisions of section twenty.
+        </section>
+        <section prefix="B">
+    	     Any ten residents living within ten miles of a facility required to prepare a toxics use reduction plan may petition the department for the department to examine the plan, the plan summary and any required back up data and determine their adequacy. The department shall determine whether the plan, plan summary and any required backup data meet the standards established pursuant to this chapter. The department shall report its determination to the petitioners and the toxics user in writing within a reasonable time.
+        </section>
+        <section prefix="2">
+    	     No action may be commenced under this subsection against any toxics user alleged to be in violation of the requirements of this chapter prior to sixty days after the date on which the plaintiff gives notice of the alleged violation to the department and the alleged violator. No action may be commenced under this subsection against an owner or operator of a facility alleged to be in violation of such requirements if the department has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this chapter with respect to the violation of such requirement. No action may be commenced under this subsection against an appropriate official of the commonwealth prior to sixty days after the date on which the plaintiff gives notice to said official and the commissioner that the plaintiff will commence the action. Notice under this subsection shall be given in a manner as the department shall prescribe by regulation.
+        </section>
+        <section prefix="3">
+    	     The court, in issuing any final order in any action brought pursuant to this subsection, may award costs of litigation, including reasonable attorney and expert witness fees, to the prevailing or substantially prevailing party other than the commonwealth who advances the purposes of this chapter. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Massachusetts Rules of Civil Procedure.
+        </section>
+    </text>
+</law>

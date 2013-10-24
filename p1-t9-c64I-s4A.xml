@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64I" order_by="64I" level="3">Tax On The Storage, Use Or Other Consumption Of Certain Tangible Personal Property</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Payment And Accounting Methods For Use Tax Liability; Estimated Liability Table</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     An individual taxpayer subject to the excise under this chapter who has not paid over the excise due for a purchase of tangible personal property as provided for under chapter 64H shall pay and account for that liability to the commissioner annually either by entering the amount of his liability upon the appropriate line item of the taxpayer’s personal income tax return or by filing a separate use tax return in the form prescribed by the commissioner. If the taxpayer elects to report the use tax liability on his personal income tax return, irrespective of the filing status chosen, the taxpayer shall enter either: (i) the estimated liability as provided in subsection (b) based upon the taxpayer’s Massachusetts adjusted gross income as determined under section 2 of chapter 62; or (ii) the exact amount of the liability based upon actual taxable purchases for the calendar year. Taxpayers opting to pay an estimated use tax liability for any period in accordance with the subsection (b) shall not be subject to any additional assessment of use tax for the period even if the taxpayer’s estimated liability is lower than the actual liability. A taxpayer having no use tax liability for a tax period may enter a zero on the appropriate line of his personal income tax return.
+        </section>
+        <section prefix="b">
+    	     A taxpayer electing to satisfy a use tax liability by estimating it shall calculate the liability in accordance with the following table and provisions. The estimated liability shall only be applicable to purchases of any individual items each having a total sales price of less than $1,000. For each taxable item purchased at a sales price of $1,000 or greater, the actual use tax liability for each purchase shall be added to the amount of the estimated liability derived from the below table.
+        </section>
+    </text>
+</law>

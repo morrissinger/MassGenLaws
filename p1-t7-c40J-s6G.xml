@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40J" order_by="40J" level="3">Massachusetts Technology Park Corporation</unit>
+    </structure>
+    <section_number>6G</section_number>
+    <catch_line>Reporting And Notice Of Unauthorized Access To Or Disclosure Of Patient Health Information</catch_line>
+    <order_by>6G</order_by>
+    <text>
+        [ Text of section effective until November 4, 2012. Repealed by 2012, 224, Sec. 40.]  In the event of an unauthorized access to or disclosure of individually identifiable patient health information by or through the statewide health information network or by or through any technology grantees or implementing organizations funded in whole or in part from the E-Health Institute Fund established pursuant to section 6E, the operator of such network or grantee or contractor shall: (i) report the conditions of such unauthorized access or disclosure as required by the Massachusetts e-Health Institute; and (ii) provide notice, as defined in section 1 of chapter 93H, as soon as practicable, but not later than 10 business days after such unauthorized access or disclosure, to any person whose patient health information may have been compromised as a result of such unauthorized access or disclosure, and shall report the conditions of such unauthorized access or disclosure.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="59" order_by="59" level="3">Assessment Of Local Taxes</unit>
+    </structure>
+    <section_number>81</section_number>
+    <catch_line>Appeal From Apportionment</catch_line>
+    <order_by>81</order_by>
+    <text>
+        A person aggrieved by any action of the assessors in making such apportionment may within seven days thereafter appeal in like manner as in case of an overassessment, and the decision upon such appeal shall be final.
+    </text>
+</law>

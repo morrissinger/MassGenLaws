@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>37I</section_number>
+    <catch_line>Magnet School Facilities; Grants; Application; Approval;  Agreements; Eligible Costs; Regulations</catch_line>
+    <order_by>37I</order_by>
+    <text>
+        <section prefix="i">
+    	     the average cost per pupil of educating each child who attends such facility or the public school of which such facility is a part, less the average cost per pupil of educating each such child at the public school which he otherwise would have attended; provided, however, that such costs shall be determined according to a method approved by the board, and that, to the extent possible, such method shall determine the average cost per pupil of educating each such child in the grade in which he is enrolled;
+        </section>
+        <section prefix="ii">
+    	     the cost of transportation of each child attending such magnet school facility;
+        </section>
+        <section prefix="iii">
+    	     the cost of planning and construction, reconstruction, enlargement, rehabilitation, or other improvement for the magnet school facility provided, however, that no such grant shall be for more than seventy-five percent of any such cost and
+        </section>
+        <section prefix="iv">
+    	     such other costs incidental to the provision of the magnet school facility as the board may approve.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Laws Relating To State Officers</unit>
+        <unit label="chapter" identifier="30A" order_by="30A" level="3">State Administrative Procedure</unit>
+    </structure>
+    <section_number>1B</section_number>
+    <catch_line>Department Of Youth Services; Application Of Chapter</catch_line>
+    <order_by>1B</order_by>
+    <text>
+        The department of youth services shall be subject to sections one to eight, inclusive, and shall not otherwise be subject to this chapter, notwithstanding the exclusion of said department from the definition of the word “agency” in section one.
+    </text>
+</law>

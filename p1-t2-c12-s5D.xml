@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>5D</section_number>
+    <catch_line>Prosecution By Attorney General; Relator’S Right To Continue As Party To Action</catch_line>
+    <order_by>5D</order_by>
+    <text>
+        <section prefix="1">
+    	     If the attorney general proceeds with the action, he shall have primary responsibility for prosecuting the action, and shall not be bound by any act of the relator. The relator shall have the right to continue as a party to the action, subject to the limitations in sections 5B to 5O, inclusive.
+        </section>
+        <section prefix="2">
+    	     The attorney general may dismiss the action notwithstanding the objections of the relator if the relator has been notified by the attorney general of the filing of the motion and the court has provided the relator with an opportunity for a hearing on the motion. Upon a showing of good cause, such hearing may be held in camera.
+        </section>
+        <section prefix="3">
+    	     The attorney general may settle the action with the defendant notwithstanding the objections of the relator if the court determines, after a hearing, that the proposed settlement is fair, adequate and reasonable under all the circumstances. Upon a showing of good cause, such hearing may be held in camera.
+        </section>
+        <section prefix="4">
+    	     Upon a showing by the attorney general that unrestricted participation during the course of the litigation by the relator initiating the action would interfere with or unduly delay the attorney general’s prosecution of the case, or would be repetitious, irrelevant or for purposes of harassment, the court may, in its discretion, impose limitations on the relator’s participation, including but not limited to: (i) limiting the number of witnesses the relator may call; (ii) limiting the length of the testimony of such witnesses; (iii) limiting the relator’s cross examination of witnesses; or (iv) otherwise limiting the participation by the relator in the litigation.
+        </section>
+        <section prefix="5">
+    	     Upon a showing by the defendant that unrestricted participation during the course of the litigation by the relator would be for purposes of harassment or would cause the defendant undue burden or unnecessary expense, the court may limit the participation by the relator in the litigation.
+        </section>
+        <section prefix="6">
+    	     If the attorney general elects not to proceed with the action, the relator who initiated the action shall have the right to conduct the action. If the attorney general so requests, it shall be served with copies of all pleadings filed in the action and shall be supplied with copies of all deposition transcripts at the attorney general’s expense. When a relator proceeds with the action, the court, without limiting the status and rights of the relator initiating the action, may nevertheless permit the attorney general to intervene at a later date upon a showing of good cause.
+        </section>
+        <section prefix="7">
+    	     Whether or not the attorney general proceeds with the action, upon a showing by the attorney general that certain acts of discovery by the relator initiating the action would interfere with the attorney general’s investigation or prosecution of a criminal or civil matter arising out of the same or similar facts, the court may stay such discovery for a period of not more than 60 days. Such showing by the attorney general shall be conducted in camera. The court may extend the 60 day period upon a further showing in camera that the attorney general has pursued the criminal or civil investigation or proceedings with reasonable diligence and may stay any proposed discovery in the civil action that will interfere with the ongoing criminal or civil investigations or proceedings.
+        </section>
+    </text>
+</law>

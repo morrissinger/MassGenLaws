@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="6C" order_by="6C" level="3">Massachusetts Department Of Transportation</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Termination Of Department</catch_line>
+    <order_by>23</order_by>
+    <text>
+        The department and its corporate existence shall continue until terminated by law; provided, however, that no such law shall take effect so long as the department shall have bonds outstanding without adequate provision for the complete payment or satisfaction thereof. Upon termination of the department, the title to all funds and other properties owned by it which remain after the payment or satisfaction of all bonds of the department shall vest in the commonwealth. The obligations, debts and liabilities of the department shall be assumed by and imposed upon the commonwealth.
+    </text>
+</law>

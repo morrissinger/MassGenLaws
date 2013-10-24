@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="43" order_by="43" level="3">City Charters</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Ordinances, Etc.; Passage At One Session</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Any ordinance, order or resolution may be passed through all its stages of legislation at one session, provided that no member of the council objects thereto; but if any member of the council objects, the measure shall be postponed for that meeting.
+    </text>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21D" order_by="21D" level="3">Massachusetts Hazardous Waste Facility Siting Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Siting Agreements; Contents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     facility construction and maintenance procedures;
+        </section>
+        <section prefix="2">
+    	     operating procedures and practices, the design of the facility and its associated activities;
+        </section>
+        <section prefix="3">
+    	     monitoring procedures, practices and standards necessary to assure and continue to demonstrate that the facility will be operated safely;
+        </section>
+        <section prefix="4">
+    	     the services to be provided the developer by the host community;
+        </section>
+        <section prefix="5">
+    	     the compensation, services, and special benefits that will be provided to the host community by the developer, and the timing and conditions of their provision;
+        </section>
+        <section prefix="6">
+    	     the services and benefits to be provided to the host community by agencies of state government, and the timing and condition of their provision;
+        </section>
+        <section prefix="7">
+    	     any provisions for tax prepayments or accelerated payments, or for payments in lieu of taxes;
+        </section>
+        <section prefix="8">
+    	     provisions for renegotiation of any of the term, conditions of provisions of the siting agreement, or of the entire agreement;
+        </section>
+        <section prefix="9">
+    	     provisions for resolving any disagreements in the construction and interpretation of the siting agreement that may arise between the parties; and
+        </section>
+        <section prefix="10">
+    	     appendices of the compensation to be paid abutting communities established pursuant to the provisions of section fourteen.
+        </section>
+        <section prefix="1">
+    	     provisions for direct monetary payments from the developer to the host community in addition to payments for taxes and special services and compensation for demonstrable adverse impacts;
+        </section>
+        <section prefix="2">
+    	     provisions to assure the health, safety, comfort, convenience, and social and economic security of the host community and its citizens;
+        </section>
+        <section prefix="3">
+    	     provisions to assure the continuing economic viability of the project; and
+        </section>
+        <section prefix="4">
+    	     provisions to assure the protection of the environment and natural resources.
+        </section>
+    </text>
+</law>

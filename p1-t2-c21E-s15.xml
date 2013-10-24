@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21E" order_by="21E" level="3">Massachusetts Oil And Hazardous Material Release Prevention And Response Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Citizen Enforcement</catch_line>
+    <order_by>15</order_by>
+    <text>
+        In any suit by Massachusetts residents to enforce the requirements of this chapter, or to abate a hazard related to oil or hazardous materials in the environment, the court may award costs, including reasonable attorney and expert witness fees, to any party other than the commonwealth who advances the purposes of this chapter.
+    </text>
+</law>

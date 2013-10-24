@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="65" order_by="65" level="3">Taxation Of Legacies And Successions</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Payment Of Tax Out Of Capital, Not Income</catch_line>
+    <order_by>12</order_by>
+    <text>
+        All taxes under this chapter shall be paid out of and chargeable to capital and not income, unless otherwise provided in a will or codicil, or deed or other instrument creating the grant or gift; but this provision shall not affect any right of the commonwealth to collect such tax, or any lien therefor.
+    </text>
+</law>

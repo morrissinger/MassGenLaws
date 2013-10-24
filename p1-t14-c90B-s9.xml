@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="90B" order_by="90B" level="3">Motorboats, Other Vessels And Recreational Vehicles</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Accidents; Duty Of Operator; Reports</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The operator of any motorboat involved in a collision, accident or other casualty shall, so far as he is able without serious danger to his own or other vessels or to any persons, render to other persons affected by the boating accident such assistance as may be practicable and as may be necessary in order to save them from any danger caused by the boating accident. Such operator shall also give his name, address and identification of his vessel to any person injured and to the owner of any property damaged in the boating accident. In cases where death, personal injury or property damage over five hundred dollars occurs, the operator or any person authorized to enforce the provisions of chapter ninety B, shall immediately notify the division of law enforcement. The director or his designee shall investigate the accident.
+        </section>
+        <section prefix="b">
+    	     The operator of any motorboat involved in a boating accident, shall file with the division a full description of such boating accident, including such information as the director may by regulation require. Such report shall conform to the requirements of a boating accident report under the laws of the United States. Whenever death results from a boating accident, a written report shall be submitted within forty-eight hours. For every other boating accident a written report shall be submitted within five days.
+        </section>
+        <section prefix="c">
+    	     Except as provided in subsection (d), individual boating accident reports shall not be public records, and shall not be admissible in evidence in a court of law other than in a proceeding petitioning for a review of a decision of the director.
+        </section>
+        <section prefix="d">
+    	     Boating accident reports may be made available for additional statistical studies subject to the regulations of the director; provided, that information from individual reports shall not be disclosed.
+        </section>
+    </text>
+</law>

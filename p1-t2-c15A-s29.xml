@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="15A" order_by="15A" level="3">Public Education</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Definitions; Use Of Student Fee Funds For Legislative Agents’ Costs</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this chapter and in chapters seventy-three, seventy-five, seventy-five A, and seventy-five B, the following words shall have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     Nonmandatory student fees to nonpartisan student organizations which employ legislative agents as defined in section thirty-nine of chapter three, or to nonpartisan student organizations attempting to influence legislation as defined in section forty-four of said chapter three, shall be paid on student tuition bills by a waivable fee whenever students have authorized said fee by a majority vote of those students voting in an official student referendum. The continuation of said waivable fee on the student tuition bill may be subject to reauthorization by an official student referendum every two years. Necessary administrative costs arising in connection with the collection of said fee may be billed by the board of trustees to the student organization at the time of the transfer of funds collected to said student organizations.
+        </section>
+        <section prefix="c">
+    	     The boards of trustees shall not allow any funds for legislative agents as defined in section thirty-nine of said chapter three or organizations attempting to influence legislation as defined in section forty-four of said chapter three to be assessed on student tuition bills; provided, however, that waivable fees for nonpartisan student organizations which employ said legislative agents or attempt to influence legislation shall be collected by the boards of trustees whenever students have authorized a waivable fee by a majority vote of those students voting in an official student referendum. Said waivable fees shall be collected as provided in paragraph (b).
+        </section>
+        <section prefix="d">
+    	     No funds collected as a mandatory student activities fee shall be paid to legislative agents as defined in section thirty-nine of said chapter three or organizations attempting to influence legislation as defined in section forty-four of said chapter three.
+        </section>
+        <section prefix="e">
+    	     As used in this section, the term “legislative agent” or “organization attempting to influence legislation” shall not include any student government association or associations, individually or collectively, or any organization comprised of representatives of such associations, which are selected by students through referendum to be an official representative of the student body.
+        </section>
+    </text>
+</law>

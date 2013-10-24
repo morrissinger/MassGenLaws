@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="93B" order_by="93B" level="3">Regulation Of Business Practices Between Motor Vehicle Manufacturers, Distributors And Dealers</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Unreasonable Dealer Or Franchise Restrictions; Voluntary Restrictions; Right Of First Refusal; Dealer Financial Data</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be unlawful for a manufacturer or distributor, directly or indirectly, to coerce a motor vehicle dealer to agree to any restrictions relative to transfer, sale, ability to renew, termination, discipline, noncompetition covenants, site control, whether by sublease, collateral pledge of lease, or otherwise, right of first refusal to purchase, option to purchase, compliance with subjective standards and assertion of legal or equitable rights. A refusal by a dealer to grant the restrictions to a manufacturer or distributor shall not be a basis for the manufacturer or distributor to deny an appointment to a new dealer, renewal to an existing dealer or relocation of a dealer’s facilities to an existing dealer; but if the dealer has previously and voluntarily granted any of these rights, the manufacturer or distributor may require the terms in a renewal of a franchise agreement.
+        </section>
+        <section prefix="b">
+    	     Nothing contained in subsection (a) shall prevent a motor vehicle dealer and a manufacturer or distributor from freely and voluntarily entering into an agreement containing the restrictions. If a manufacturer or distributor exercises a right of first refusal over a franchise or facilities as described in this subsection, the manufacturer or distributor shall notify the dealer in writing within 45 days of the receipt of the dealer’s completed proposal for the transfer, assignment or sale, of its intention to exercise its right of first refusal. Within 30 days of the date of issuance of the notice of intent, the manufacturer or distributor shall exercise the right of first refusal or it shall be considered waived. The manufacturer or distributor shall reimburse all reasonable costs and expenses incurred by the proposed owner or transferee before the new motor vehicle dealer’s receipt of the manufacturer or distributor’s notice of intent to exercise its right of first refusal. The exercise of the right of first refusal shall result in the dealer and dealer’s owners receiving consideration, terms, and conditions that are either the same as or greater than that which they have contracted to receive in connection with the proposed change or transfer. The manufacturer or distributor shall not exercise any right of first refusal over a sale by the motor vehicle dealer to a co-owner of the dealership, to a member of the management of the dealership who was previously approved by the manufacturer or distributor as a management employee, or to an immediate family member of the dealer or co-owner; but nothing contained in this subsection shall relieve a manufacturer or distributor from complying with paragraph (8) of subsection (c) of section 4 if a right of first refusal is not exercised in accordance with this subsection, nor relieve a motor vehicle dealer from complying with paragraph 3 of subsection (d) of said section 4.
+        </section>
+        <section prefix="c">
+    	     It shall be a violation of subsection (a) of section 3 for a manufacturer or distributor to falsely express an intention to exercise a right of first refusal or other right to acquire a motor vehicle dealership from a dealer as a means to influence the consideration or other terms offered by a person in connection with the acquisition of the motor vehicle dealership or to influence a person to refrain from entering into, or to withdraw from, negotiations for the acquisition of the motor vehicle dealership.
+        </section>
+        <section prefix="d">
+    	     A motor vehicle dealer’s financial data shall, except for compliance with applicable law or in use in judicial or administrative proceedings, remain the property of the motor vehicle dealer and shall not be made publicly available by the manufacturer or distributor in a manner that identifies the dealer that provided the financial data without the written consent of said dealer.
+        </section>
+    </text>
+</law>

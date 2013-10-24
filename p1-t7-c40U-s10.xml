@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="40U" order_by="40U" level="3">Municipal Fines</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Retention And Delivery Of Violation Notice Copies</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Within 3 business days after completion of each shift, the officer or inspector shall give to his superior those copies of each notice of a violation issued during such shift. The superior shall retain and preserve 1 copy and shall, not later than the beginning of the next business day after receipt of the notice, deliver another copy to the municipal hearing officer before whom the offender has been notified to appear, unless the ticket was produced by an automated ticketing device, in which case no duplicate copies need be retained. The municipal hearing officer shall maintain a docket of all such notices to appear.
+    </text>
+</law>

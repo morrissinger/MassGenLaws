@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="14" order_by="14" level="2">Public Ways And Works</unit>
+        <unit label="chapter" identifier="85" order_by="85" level="3">Regulations And By Laws Relative To Ways And Bridges</unit>
+    </structure>
+    <section_number>30A</section_number>
+    <catch_line>Permit For Certain Vehicles Exceeding Weight Limitations To Operate On Through Routes; Application; Notice Of Approval Or Disapproval;  Violations; Revocation Or Suspension Of Permit</catch_line>
+    <order_by>30A</order_by>
+    <text>
+        <section prefix="1">
+    	     The make, model and year of the motor vehicle, trailer, semi-trailer or semi-trailer unit to which the permit is to apply, including the said gross vehicle weight rating and the weight for which it is registered.
+        </section>
+        <section prefix="2">
+    	     The name, business address and residential address, if any, of the owner or lessee of the motor vehicle, trailer, semi-trailer or semi-trailer unit.
+        </section>
+        <section prefix="3">
+    	     The name and address of the insurer of the motor vehicle, trailer, semi-trailer or semi-trailer unit.
+        </section>
+        <section prefix="4">
+    	     The maximum weight sought for such motor vehicle, trailer, semi-trailer or semi-trailer unit.
+        </section>
+        <section prefix="5">
+    	     The period of time for which such permit is sought, which shall not exceed one year from the date on which it is issued by the commissioner of highways.
+        </section>
+    </text>
+</law>

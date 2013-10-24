@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="71" order_by="71" level="3">Public Schools</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Student Use Of Tobacco Products</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        It shall be unlawful for any student, enrolled in either primary or secondary public schools in the commonwealth, to use tobacco products of any type on school grounds during normal school hours. 
+Each school committee shall establish a policy dealing with students who violate this law. This policy may include, but not be limited to, mandatory education classes on the hazards of tobacco use.
+    </text>
+</law>

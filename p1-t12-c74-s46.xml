@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Tuition</catch_line>
+    <order_by>46</order_by>
+    <text>
+        The yearly tuition at said college and at said institute for day students who are non-residents of the commonwealth shall not be less than one hundred and fifty dollars.
+    </text>
+</law>

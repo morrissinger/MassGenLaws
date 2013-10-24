@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="76" order_by="76" level="3">School Attendance</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Island Children; Transportation</catch_line>
+    <order_by>14</order_by>
+    <text>
+        The department of education may provide transportation to and from school, or board in place thereof, for such children of school age as live upon islands within the commonwealth that are without schools, in cases where the local authorities are not required by law to provide such transportation.
+    </text>
+</law>

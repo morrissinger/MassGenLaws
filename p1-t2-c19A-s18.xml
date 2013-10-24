@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="19A" order_by="19A" level="3">Department Of Elder Affairs</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Assessment And Evaluation Of Reports; Investigations; Arrangement For Protective Services</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     The department or its designated agency shall assess and evaluate the information reported pursuant to the provisions of section fifteen.
+        </section>
+        <section prefix="b">
+    	     The department or the designated agency shall provide or arrange for protective services in accordance with the service plan developed pursuant to the provisions of subsection (a). Protective services shall include, but not be limited to, the following: the capacity to respond to an emergency; protective services case work; the capacity to provide or arrange for a homemaker, home-health aide, transportation, legal assistance, counseling, nutrition services, guardianship and conservatorship, protective order through the court, emergency shelter, foster care, and adult day care services.
+        </section>
+    </text>
+</law>

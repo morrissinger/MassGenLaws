@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="63" order_by="63" level="3">Taxation Of Corporations</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Payment; Time; Basis For Liability</catch_line>
+    <order_by>28</order_by>
+    <text>
+        Every insurance company liable to taxation under sections twenty to twenty-three, inclusive, and twenty-nine A shall pay to the commissioner at the time fixed for filing its return under the applicable section of chapter sixty-two C the amount of the excise thereby imposed. 
+Liability for the taxes imposed by sections twenty to twenty-three, inclusive, and twenty-nine A, or by sections two and three of chapter five hundred and thirty-one of the acts of nineteen hundred and forty-three shall be incurred by reason of the transaction of business at any time within the calendar year preceding that in which the return is required to be filed.
+    </text>
+</law>

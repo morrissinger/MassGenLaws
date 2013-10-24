@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="12" order_by="12" level="2">Education</unit>
+        <unit label="chapter" identifier="74" order_by="74" level="3">Vocational Education</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Reports</catch_line>
+    <order_by>44</order_by>
+    <text>
+        The commissioner shall make an annual report as to said college, and said institute, containing a concise statement as to its buildings, equipment, and resources, its courses and methods of instruction, the number of teachers and students during the preceding school year and the number of graduates.
+    </text>
+</law>

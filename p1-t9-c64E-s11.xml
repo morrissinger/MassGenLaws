@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="64E" order_by="64E" level="3">Taxation Of Special Fuels Used In The Propulsion Of Motor Vehicles</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Penalty For Violations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Any person who violates any provision of this chapter, for which a penalty is not otherwise provided, shall be punished by a fine of not more than one thousand dollars or by imprisonment for one year, or both.
+    </text>
+</law>

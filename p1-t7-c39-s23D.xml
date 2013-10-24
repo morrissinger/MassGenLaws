@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="7" order_by="7" level="2">Cities, Towns And Districts</unit>
+        <unit label="chapter" identifier="39" order_by="39" level="3">Municipal Government</unit>
+    </structure>
+    <section_number>23D</section_number>
+    <catch_line>Adjudicatory Hearings; Attendance By Municipal Board, Committee And Commission Members; Voting Disqualification</catch_line>
+    <order_by>23D</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary, upon municipal acceptance of this section for 1 or more types of adjudicatory hearings, a member of any municipal board, committee or commission when holding an adjudicatory hearing shall not be disqualified from voting in the matter solely due to that member’s absence from no more than a single session of the hearing at which testimony or other evidence is received. Before any such vote, the member shall certify in writing that he has examined all evidence received at the missed session, which evidence shall include an audio or video recording of the missed session or a transcript thereof. The written certification shall be part of the record of the hearing. Nothing in this section shall change, replace, negate or otherwise supersede applicable quorum requirements.
+        </section>
+        <section prefix="b">
+    	     By ordinance or by-law, a city or town may adopt minimum additional requirements for attendance at scheduled board, committee, and commission hearings under this section.
+        </section>
+    </text>
+</law>

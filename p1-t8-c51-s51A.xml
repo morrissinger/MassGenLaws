@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="51" order_by="51" level="3">Voters</unit>
+    </structure>
+    <section_number>51A</section_number>
+    <catch_line>Confidential Registration Certificate</catch_line>
+    <order_by>51A</order_by>
+    <text>
+        To every person whose affidavit of voter registration is not a public record, and whose name and address do not appear on the annual register pursuant to sections thirty-seven and forty-four, the registrars shall issue a certificate entitled “Confidential Registration”, similar to that provided for in section fifty-nine. Upon presentation of such certificate to the presiding officer at the proper polling place or, in the case of an absent voter, if such certificate is attached to the voting lists, such person shall have the same right to vote as any other registered voter. Except in the case of an absent voter, after such person has voted, the presiding officer shall attach the certificate to the voting list and it shall be returned to the registrars. Any such certificate shall not be a public record and no person shall make any statement or give any information in regard thereto, except as required by law.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Militia</unit>
+        <unit label="chapter" identifier="33" order_by="33" level="3">Militia</unit>
+    </structure>
+    <section_number>112</section_number>
+    <catch_line>Accounting For Military Property Upon Change Of Command Or Disbandment</catch_line>
+    <order_by>112</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer of the military forces of the commonwealth, upon vacating an office, shall turn over to his immediate successor, or other officer designated by the commander-in-chief, all records, reports and military property in his possession belonging or in any way pertaining to such office.
+        </section>
+        <section prefix="b">
+    	     Upon the disbandment of any unit which has received military property for military use, the officers responsible for such property shall return it to the officer ordered to receive it.
+        </section>
+        <section prefix="c">
+    	     Until such officer responsible for military property or his legal representative receives from the adjutant general notice that the property accounts of such officer have been found correct, the liability of such officer or of his estate for military property shall continue. Upon the death or desertion of an officer responsible for military property his immediate commanding officer shall at once cause such property to be collected, and a correct inventory made by physical count and examination. Such inventory shall be forwarded to the adjutant general, and compensation for any shortage may be recovered as provided in subsection (a) of section one hundred and eleven.
+        </section>
+    </text>
+</law>

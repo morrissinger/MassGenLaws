@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="12" order_by="12" level="3">Department Of The Attorney General, And The District Attorneys</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Fees For Services In Performance Of Duty; Appearance In Civil Action</catch_line>
+    <order_by>30</order_by>
+    <text>
+        No prosecuting officer shall receive any fee or reward from or in behalf of a prosecutor for services in any prosecution or business to which it is his official duty to attend, nor shall he be concerned as counsel or attorney for either party in a civil action depending upon the same facts involved in such prosecution or business.
+    </text>
+</law>

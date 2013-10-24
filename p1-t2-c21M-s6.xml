@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Executive And Administrative Officers Of The Commonwealth</unit>
+        <unit label="chapter" identifier="21M" order_by="21M" level="3">Vessel Traffic Service</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Tugboat Escorts; Regulations</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Effective January 1, 2005, no tank vessel carrying 6,000 or more barrels of oil shall enter or transit any area of special interest within the waters of the commonwealth unless the tank vessel is accompanied by a tugboat escort.
+        </section>
+        <section prefix="b">
+    	     This section shall not apply to a self-propelled tank vessel.
+        </section>
+        <section prefix="c">
+    	     The commissioner may issue regulations to implement this section which shall include, but not be limited to, determining, in consultation with the relevant Massachusetts pilot commissioner, the specific needs for such required tugboat escorts in areas of special interest, and establishing minimum standards for equipment and training of personnel on tugboat escorts. The commissioner, after a competitive bidding process and in consultation with the relevant Massachusetts pilot commissioner, may evaluate such bids and may enter into a contract with a tugboat escort operator which meets or exceeds such standards. The contract shall provide for service at a regulated rate for a minimum period of 5 years.
+        </section>
+    </text>
+</law>

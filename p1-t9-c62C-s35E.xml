@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="9" order_by="9" level="2">Taxation</unit>
+        <unit label="chapter" identifier="62C" order_by="62C" level="3">Administrative Provisions Relative To State Taxation</unit>
+    </structure>
+    <section_number>35E</section_number>
+    <catch_line>False Or Deliberately Misleading Statements Respecting Allowability Of Deduction Or Credit, Excludability Of Income Or Securing Other Tax Benefits; Penalty</catch_line>
+    <order_by>35E</order_by>
+    <text>
+        <section prefix="a">
+    	     If a person (i) organizes or assists in the organization of a plan or arrangement or the sale of a plan or arrangement, and (ii) makes or furnishes, or causes another person to make or furnish, a statement with respect to the allowability of a deduction or credit, the excludability of income, or the securing of any other tax benefit, including but not limited to the avoidance of a filing requirement with respect to a tax return that would otherwise be required to be filed under this chapter, which the person knows or has reason to know is false, fraudulent or deliberately misleading as to any material matter, that person shall pay, with respect to each taxpayer to whom the statement is made, a penalty equal to $5,000, or, if the person establishes that it is lesser, 100 per cent of the gross income derived or to be derived from the activity described in this subsection. The penalty imposed under this subsection may be assessed against the person within 6 years after the statement was made. A claim for abatement of the penalty shall be filed within 2 years from the time the assessment was made.
+        </section>
+        <section prefix="b">
+    	     Except as otherwise provided in this section, the penalties imposed under this section shall be administered in accordance with the rules set forth in this chapter for the administration of taxes generally.
+        </section>
+    </text>
+</law>

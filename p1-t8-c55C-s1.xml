@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="8" order_by="8" level="2">Elections</unit>
+        <unit label="chapter" identifier="55C" order_by="55C" level="3">Limited Public Financing Of Campaignsfor Statewide Elective Office</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Unless a contrary intention clearly appears, the words and phrases used in this chapter shall have the following meanings: 
+“Director”, the director of campaign and political finance as established by chapter 55. 
+“Candidate”, any candidate as defined by chapter 55. 
+“Statewide elective office”, the office of governor, lieutenant-governor, attorney general, secretary, treasurer and receiver general and auditor. 
+“Contribution”, any contribution as defined by chapter 55. 
+“Qualifying contribution”, any contribution made by an individual and deposited in a candidate’s depository account as required by section nineteen of chapter 55 during the calendar year in which elections are held for statewide elective office or the next preceding calendar year except as follows: (a) no contribution shall be considered a qualifying contribution unless the name and address of the individual making the contribution can be determined from statements required to be filed with the director; (b) no contribution shall be considered a qualifying contribution to the extent that it exceeds $250 or would exceed $250 when added to any such contribution previously made by the same individual during the calendar year in which elections are held for statewide elective office or the next preceding calendar year. 
+The same contribution may be a qualifying contribution for both the primary election and the state election in a year in which elections are held for statewide elective office but no contribution shall remain a qualified contribution after the end of any such year.
+    </text>
+</law>
