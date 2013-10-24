@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177N</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>177N</order_by>
+    <text>
+        <section prefix="1">
+    	     an employee of the reinsurer;
+        </section>
+        <section prefix="2">
+    	     a United States manager of the United States branch of an alien reinsurer;
+        </section>
+        <section prefix="3">
+    	     an underwriting manager which, pursuant to contract, manages all the reinsurance operations of the reinsurer, is under common control with the reinsurer, subject to sections two hundred and six to two hundred and six D, inclusive, and whose compensation is not based on the volume of premiums written; or
+        </section>
+        <section prefix="4">
+    	     the manager of a group, association, pool or organization of insurers which engage in joint underwriting or joint reinsurance and who are subject to examination by the insurance division or other regulatory agency of the state in which the manager’s principal business office is located.
+        </section>
+        <section prefix="1">
+    	     is organized or, in the case of a United States office of a foreign banking organization, licensed under the laws of the United States or any state thereof;
+        </section>
+        <section prefix="2">
+    	     is regulated, supervised and examined by United States federal or state authorities having regulatory authority over banks and trust companies; and
+        </section>
+        <section prefix="3">
+    	     has been determined by either the commissioner, or the Securities Valuation Office of the National Association of Insurance Commissioners, to meet such standards of financial condition and standing as are considered necessary and appropriate to regulate the quality of financial institutions whose letters of credit will be acceptable to the commissioner.
+        </section>
+    </text>
+</law>

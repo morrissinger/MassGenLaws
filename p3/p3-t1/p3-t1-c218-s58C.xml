@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="218" order_by="218" level="3">District Courts</unit>
+    </structure>
+    <section_number>58C</section_number>
+    <catch_line>Special Justices Of Juvenile Court</catch_line>
+    <order_by>58C</order_by>
+    <text>
+        <section prefix="a">
+    	     Any special justice of a juvenile court who assumes office after January first, nineteen hundred and seventy-six shall devote full time during ordinary business hours to the duties of his office and shall not engage directly or indirectly in the practice of law.
+        </section>
+        <section prefix="b">
+    	     Said special justice shall be paid the salary provided in section seventy-seven A for justices of the district courts who are required to devote full time to their duties, other than the chief justice thereof, said salary to be paid from the same source and in the same manner as the salary paid to a justice of a juvenile court, and travel and expense allowance to the same extent as is provided for justices of district courts.
+        </section>
+        <section prefix="c">
+    	     Said special justice shall sit in such other divisions or departments within the trial court as the law provides for a justice of a juvenile court; and he shall have such other powers, duties, rights and privileges as has a special justice under clauses (4) and (5) of paragraph (b) of section six A.
+        </section>
+        <section prefix="d">
+    	     Said special justice shall have the same rights of vacation and sick leave and the same pension rights and responsibilities as are provided a special justice of a district court under paragraph (d) of section six A.
+        </section>
+    </text>
+</law>

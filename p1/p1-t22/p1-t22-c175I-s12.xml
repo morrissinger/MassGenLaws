@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Adverse Underwriting Decision; Basis</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     on the fact of a previous adverse underwriting decision or on the fact that an individual previously obtained insurance coverage through a residual market mechanism; provided, however, that an insurance institution or insurance representative may base an adverse underwriting decision on further information obtained from an insurance institution or insurance representative responsible for a previous adverse underwriting decision;
+        </section>
+        <section prefix="2">
+    	     on personal information received from an insurance-support organization whose primary source of information is insurance institutions; provided, however, that an insurance institution or insurance representative may base an adverse underwriting decision on further personal information obtained as the result of information received from such insurance-support organization; or
+        </section>
+        <section prefix="3">
+    	     on the basis of sexual orientation; provided, however, that neither the national origin, marital status, lifestyle or living arrangements, occupation, gender, medical history, beneficiary designation, nor zip code or other territorial classification of the applicant may be used to establish, or aid in establishing, the applicant’s sexual orientation.
+        </section>
+    </text>
+</law>

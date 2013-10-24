@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.22</section_number>
+    <catch_line>Appraisal Notice And Form</catch_line>
+    <order_by>13.22</order_by>
+    <text>
+        <section prefix="a">
+    	     If proposed corporate action requiring appraisal rights under subsection (a) of section 13.02 becomes effective, the corporation shall deliver a written appraisal notice and form required by clause (1) of subsection (b) to all shareholders who satisfied the requirements of section 13.21 or, if the action was taken by written consent, did not consent. In the case of a merger under section 11.05, the parent shall deliver a written appraisal notice and form to all record shareholders who may be entitled to assert appraisal rights.
+        </section>
+        <section prefix="b">
+    	     The appraisal notice shall be sent no earlier than the date the corporate action became effective and no later than 10 days after such date and must:
+        </section>
+        <section prefix="1">
+    	     supply a form that specifies the date of the first announcement to shareholders of the principal terms of the proposed corporate action and requires the shareholder asserting appraisal rights to certify (A) whether or not beneficial ownership of those shares for which appraisal rights are asserted was acquired before that date and (B) that the shareholder did not vote for the transaction;
+        </section>
+        <section prefix="2">
+    	     state:
+        </section>
+        <section prefix="i">
+    	     where the form shall be sent and where certificates for certificated shares shall be deposited and the date by which those certificates shall be deposited, which date may not be earlier than the date for receiving the required form under subclause (ii);
+        </section>
+        <section prefix="ii">
+    	     a date by which the corporation shall receive the form which date may not be fewer than 40 nor more than 60 days after the date the subsection (a) appraisal notice and form are sent, and state that the shareholder shall have waived the right to demand appraisal with respect to the shares unless the form is received by the corporation by such specified date;
+        </section>
+        <section prefix="iii">
+    	     the corporation’s estimate of the fair value of the shares;
+        </section>
+        <section prefix="iv">
+    	     that, if requested in writing, the corporation will provide, to the shareholder so requesting, within 10 days after the date specified in clause (ii) the number of shareholders who return the forms by the specified date and the total number of shares owned by them; and
+        </section>
+        <section prefix="v">
+    	     the date by which the notice to withdraw under section 13.23 shall be received, which date shall be within 20 days after the date specified in subclause (ii) of this subsection; and
+        </section>
+        <section prefix="3">
+    	     be accompanied by a copy of this chapter.
+        </section>
+    </text>
+</law>

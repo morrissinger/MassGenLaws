@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Revolving Credit Agreement; Form And Contents</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="1">
+    	     Do not sign this agreement if any of the spaces intended for the agreed terms are left blank.
+        </section>
+        <section prefix="2">
+    	     You are entitled to a copy of this agreement at the time you sign it.
+        </section>
+        <section prefix="3">
+    	     You may at any time pay off the full unpaid balance under this agreement.
+        </section>
+        <section prefix="4">
+    	     You may under certain circumstances redeem the property, if repossessed because of your default, and you may, under certain conditions, require a resale of the property if repossessed.
+        </section>
+        <section prefix="5">
+    	     The seller has no right to unlawfully enter your premises or commit any breach of the peace to repossess goods purchased under this agreement.
+        </section>
+        <section prefix="6">
+    	     You may cancel a purchase under this agreement if it has been signed by a party thereto at a place other than the address of the seller which may be his main office or branch thereof; provided you notify the seller in writing at his main office or branch, by ordinary mail posted, by telegram sent or by delivery, not later than midnight of the third business day following a purchase under this agreement.
+        </section>
+        <section prefix="2">
+    	     Finance charges may be computed under revolving credit agreements within a range of not in excess of ten dollars on the basis of the median amount within the selected range, provided that such finance charge is applied to all unpaid balances within such range.
+        </section>
+        <section prefix="3">
+    	     (a) In the event that a finance charge is imposed, it shall be computed upon (i) the previous balance after all payments on account, returns and other credits made or given during the billing cycle shall have been first deducted; provided, however, that returns and other credits may be deducted only to the extent that the purchase to which the credit or return relates has been reflected in the previous balance; or (ii) the average daily balance determined by adding the daily balances on the account for each day in the billing cycle, and dividing this total by the number of days in the billing cycle. Any such delinquency charge shall not be included in the computation of said finance charge.
+        </section>
+    </text>
+</law>

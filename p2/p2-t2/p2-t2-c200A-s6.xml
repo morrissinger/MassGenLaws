@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Money Paid Into Court; Presumption Of Abandonment</catch_line>
+    <order_by>6</order_by>
+    <text>
+        Monies paid into any court within the commonwealth for distribution, and the increments thereof, shall be presumed abandoned if not claimed within three years after the date of payment into court, or as soon after the three year period as all claims filed in connection with it have been disallowed or settled by the court.
+    </text>
+</law>

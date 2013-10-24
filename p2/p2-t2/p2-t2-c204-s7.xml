@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="204" order_by="204" level="3">General Provisions Relative To Sales, Mortgages, Releases, Compromises, Etc., By Executors, Etc.</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Petitions For Sales By Foreign Fiduciaries; Venue</catch_line>
+    <order_by>7</order_by>
+    <text>
+        All proceedings in probate courts relative to sales by a foreign executor, administrator, guardian, conservator or trustee shall be in the county where an authenticated copy of his appointment is first filed.
+    </text>
+</law>

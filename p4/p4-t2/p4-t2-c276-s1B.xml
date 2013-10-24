@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="276" order_by="276" level="3">Search Warrants, Rewards, Fugitives From Justice, Arrest, Examination, Commitment And Bail. Probation Officers And Board Of Probation</unit>
+    </structure>
+    <section_number>1B</section_number>
+    <catch_line>Search Warrants For Records Possessed By Foreign Corporations Providing Electronic Communication Or Remote Computing Services</catch_line>
+    <order_by>1B</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings:—
+        </section>
+        <section prefix="1">
+    	     danger to the life or physical safety of an individual;
+        </section>
+        <section prefix="2">
+    	     a flight from prosecution;
+        </section>
+        <section prefix="3">
+    	     the destruction of or tampering with evidence;
+        </section>
+        <section prefix="4">
+    	     the intimidation of a potential witness or witnesses; or
+        </section>
+        <section prefix="5">
+    	     serious jeopardy to an investigation or undue delay of a trial.
+        </section>
+        <section prefix="b">
+    	     A court or justice authorized to issue warrants in criminal cases may, upon complaint on oath that the complainant believes that any of the records hereinafter named are actually or constructively possessed by a foreign corporation that provides electronic communication services or remote computing services, if satisfied that probable cause has been established for such belief, issue a warrant identifying those records to be searched for and commanding the person seeking such warrant to properly serve the warrant upon the foreign corporation:—
+        </section>
+        <section prefix="1">
+    	     those records which would reveal the identity of a customer using those services;
+        </section>
+        <section prefix="2">
+    	     data stored by or on behalf of a customer;
+        </section>
+        <section prefix="3">
+    	     records of a customer’s usage of those services;
+        </section>
+        <section prefix="4">
+    	     records of the source of communications sent to or the recipient or destination of communications sent from a customer; or
+        </section>
+        <section prefix="5">
+    	     the content of those communications stored by an electronic communication or remote commuting service.
+        </section>
+        <section prefix="c">
+    	     The following provisions shall apply to any search warrant issued pursuant to this section and to any subpoena issued in the course of a criminal investigation or proceeding directed to a foreign corporation that provides electronic communication services or remote computing services:
+        </section>
+        <section prefix="1">
+    	     when properly served with a search warrant issued by any court of the commonwealth or justice pursuant to this section or a subpoena, a foreign corporation subject to this section shall provide all records sought pursuant to that warrant or subpoena within 14 days of receipt, including those records maintained or located outside the commonwealth;
+        </section>
+        <section prefix="2">
+    	     if the applicant makes a showing and the court or justice finds that failure to produce records within less than 14 days would cause an adverse result, a warrant may require production of records within less than 14 days;
+        </section>
+        <section prefix="3">
+    	     a court or justice may reasonably extend the time required for production of the records upon finding that the foreign corporation has shown good cause for that extension and that an extension of time would not cause an adverse result;
+        </section>
+        <section prefix="4">
+    	     a foreign corporation seeking to quash a warrant or subpoena served on it pursuant to this section shall seek relief from the court that issued the warrant or the court which has jurisdiction over the subpoena within the time required for production of records pursuant to this section. The court shall hear and decide such motion not later than 14 days after the motion is filed;
+        </section>
+        <section prefix="5">
+    	     in the case of an administrative subpoena issued by the attorney general, the superior court of Suffolk county shall have jurisdiction and in the case of an administrative subpoena issued by a district attorney, the superior court in any county in which the district attorney maintains an office shall have jurisdiction; and
+        </section>
+        <section prefix="6">
+    	     the foreign corporation shall verify the authenticity of records that it produces by providing an affidavit from the person in custody of those records certifying that they are true and complete.
+        </section>
+        <section prefix="d">
+    	     A Massachusetts corporation that provides electronic communication services or remote computing services, when served with a warrant or subpoena issued by another state to produce records that would reveal the identity of the customers using those services, data stored by, or on behalf of the customer, the customer’s usage of those services, the recipient or destination of communications sent to or from those customers, or the content of those communications, shall produce those records as if that warrant or subpoena had been issued under the law of the commonwealth.
+        </section>
+        <section prefix="e">
+    	     No cause of action shall lie against any foreign or Massachusetts corporation subject to this section, its officers, employees, agents or other persons for providing records, information, facilities or assistance in accordance with the terms of a warrant or subpoena issued pursuant to this section.
+        </section>
+    </text>
+</law>

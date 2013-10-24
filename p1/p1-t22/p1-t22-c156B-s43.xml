@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Consent In Lieu Of Stockholders’ Meeting; Effect</catch_line>
+    <order_by>43</order_by>
+    <text>
+        Any action required or permitted to be taken at any meeting of the stockholders may be taken without a meeting if all stockholders entitled to vote on the matter consent to the action in writing and the written consents are filed with the records of the meetings of stockholders. Such consents shall be treated for all purposes as a vote at a meeting.
+    </text>
+</law>

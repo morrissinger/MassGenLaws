@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Documents Issued In Proceedings Outside Commonwealth; Service Within Commonwealth</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     A court of this commonwealth may order service upon any person who is domiciled or can be found within this commonwealth of any document issued in connection with a proceeding in a tribunal outside this commonwealth. The order may be made upon application of any interested person or in response to a letter rogatory issued by a tribunal outside this commonwealth and shall direct the manner of service.
+        </section>
+        <section prefix="b">
+    	     Service in connection with a proceeding in a tribunal outside this commonwealth may be made within this commonwealth without an order of court.
+        </section>
+        <section prefix="c">
+    	     Service under this section shall not, of itself, require the recognition or enforcement of an order, judgment or decree rendered outside this commonwealth.
+        </section>
+    </text>
+</law>

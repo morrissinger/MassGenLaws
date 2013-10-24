@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Certificate Of Divorce; Unlawful Issuance</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Whoever, except in compliance with an order of a court of competent jurisdiction, gives, signs or issues any writing purporting to grant a divorce to persons who are husband and wife according to the laws of the commonwealth, or purporting to be a certificate that a divorce has been granted to such persons, shall be punished by a fine of not more than one thousand dollars, or by imprisonment for not more than three years, or both.
+    </text>
+</law>

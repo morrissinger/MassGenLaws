@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>37A</section_number>
+    <catch_line>Relief Fund Contributions; Charitable, Scientific Or Educational  Contributions   </catch_line>
+    <order_by>37A</order_by>
+    <text>
+        <section prefix="a">
+    	     Every domestic company may, by vote of its directors, contribute such sum or sums of money as said directors may determine to be reasonable to any fund being raised by a relief committee or agency approved by the commissioner of public welfare, as evidenced by a writing filed in his office, and formed for the purpose of raising money to be used for the betterment of social and economic conditions in any community in which such company is doing business.
+        </section>
+        <section prefix="b">
+    	     Every domestic company may, by its articles of organization or by-laws or by a general or special vote of its stockholders or members, authorize its directors to make contributions, in such amounts as said directors may determine to be reasonable, to corporations, trusts, funds or foundations organized and operated exclusively for charitable, scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual; provided, that in the case of a company having capital stock, contributions in any fiscal year shall not in the aggregate exceed one half of one per cent of its capital and surplus as of the end of the preceding fiscal year, unless contributions in excess of one half of one per cent of such capital and surplus shall be authorized by the stockholders of the company at a regular or special meeting, and, in the case of a company not having capital stock, contributions in any fiscal year shall not in the aggregate exceed one half of one per cent of the surplus of such company as of the end of the preceding fiscal year, unless contributions in excess of one half of one per cent of such surplus shall be authorized by the members of the company at a regular or special meeting.
+        </section>
+        <section prefix="c">
+    	     Nothing in this section shall be construed as directly or indirectly restricting or otherwise affecting, except as herein provided, the rights and powers of any company with reference to payments of the nature above specified.
+        </section>
+    </text>
+</law>

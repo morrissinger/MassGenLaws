@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="228" order_by="228" level="3">Survival Of Actions And Death And Disabilities Of Parties</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Death Of Party In Suit Against Officer</catch_line>
+    <order_by>2</order_by>
+    <text>
+        An action of replevin or tort by or against an officer for personal property attached by him and claimed or taken by another person shall not be abated by the death of any party, but may be prosecuted by or against his executor or administrator.
+    </text>
+</law>

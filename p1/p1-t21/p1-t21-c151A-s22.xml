@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Payment In General</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Benefits shall be payable from the Unemployment Compensation Fund to any individual eligible for benefits under this chapter. Such benefits shall be paid, through the employment offices operated by the commonwealth or such other agencies of the division of unemployment assistance as the Federal Social Security Board or its successor may approve, at such times and in such manner as the commissioner shall prescribe.
+    </text>
+</law>

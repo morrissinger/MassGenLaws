@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="168" order_by="168" level="3">Savings Banks</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Meetings Of Corporators, Board Of Trustees, And Board Of Investment; Location</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Meetings of the corporators, board of trustees and board of investment of such corporation shall be held in the town wherein the main office of the corporation is located, or at any other place within the counties in which the bank has a branch office.
+    </text>
+</law>

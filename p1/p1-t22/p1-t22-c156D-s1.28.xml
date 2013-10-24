@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.28</section_number>
+    <catch_line>Certificates Regarding Corporations</catch_line>
+    <order_by>1.28</order_by>
+    <text>
+        <section prefix="a">
+    	     Anyone may apply to the secretary of state to furnish a certificate of legal existence for a domestic corporation. A certificate of legal existence shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the date the corporation was organized under the laws of the commonwealth; and
+        </section>
+        <section prefix="3">
+    	     that the corporation has legal existence so far as it appears in the records of the state secretary.
+        </section>
+        <section prefix="b">
+    	     Anyone may apply to the secretary of state to furnish a certificate of good standing. A certificate of good standing shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the date the corporation was organized under the laws of the commonwealth;
+        </section>
+        <section prefix="3">
+    	     that the corporation has filed all annual reports required by section 16.22 to be filed by it and paid all fees due with respect to such reports;
+        </section>
+        <section prefix="4">
+    	     that no proceedings are pending under section 14.21 for the dissolution of the corporation;
+        </section>
+        <section prefix="5">
+    	     that no articles of dissolution have been filed by the corporation; and
+        </section>
+        <section prefix="6">
+    	     that the corporation appears from the records of the state secretary to be in good standing.
+        </section>
+        <section prefix="c">
+    	     The secretary of state shall issue, upon request, such other certificates regarding facts of record in his office concerning corporations upon payment of the fees as may be specified in regulations promulgated by the commissioner of administration including, without limitation, certificates of merger, certificates of dissolution and certificates regarding the authority of a foreign corporation to do business in the commonwealth.
+        </section>
+        <section prefix="d">
+    	     The certificates may be relied upon as conclusive evidence of the facts stated therein.
+        </section>
+    </text>
+</law>

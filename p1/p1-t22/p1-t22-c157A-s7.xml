@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="157A" order_by="157A" level="3">Employee Cooperative Corporations</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Voting Shares; By Laws; Amendment Of Articles Of Organization</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     No capital stock other than membership shares shall be given voting power in an employee cooperative, except as otherwise provided in this chapter or in the articles of organization.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding the provisions of section seventeen of said chapter one hundred and fifty-six B, the power to amend, or repeal by-laws of an employee cooperative shall be in the members only, except to the extent that directors are authorized to amend or repeal the by-laws in accordance with said section seventeen.
+        </section>
+        <section prefix="c">
+    	     Sections seventy, seventy-one and seventy-four of said chapter one hundred and fifty-six B shall be construed to limit voting on any amendment of the articles of organization of an employee cooperative to the members, except that amendments adversely affecting the rights of stockholders as defined in section seventy-seven of said chapter one hundred and fifty-six B may not be adopted without the vote of such stockholders as provided in section seventy-one of said chapter one hundred and fifty-six B.
+        </section>
+    </text>
+</law>

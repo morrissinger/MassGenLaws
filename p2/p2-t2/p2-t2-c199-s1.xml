@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="199" order_by="199" level="3">Settlement Of Estates Of Deceased Non Residents</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Administration Of Estates</catch_line>
+    <order_by>1</order_by>
+    <text>
+        If administration is taken in this commonwealth on the estate of a person who was an inhabitant of any other state or country, his estate found here shall, after payment of his debts, be disposed of according to his last will, if any; otherwise his real property shall descend according to the laws of this commonwealth, and his personal property shall be distributed and disposed of according to the laws of the state or country of which he was an inhabitant.
+    </text>
+</law>

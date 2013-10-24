@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Validity Of Levy As Against Subsequent Attaching Creditors And Purchasers</catch_line>
+    <order_by>24</order_by>
+    <text>
+        If the execution and return are not recorded in the registry of deeds within three months as aforesaid, the levy shall be void as against a creditor who has attached the same land or taken it on execution without notice of such levy, and also as against a purchaser in good faith for value and without such notice; but if such execution and return are recorded after the expiration of the three months, the levy shall be valid and effectual as against a conveyance, attachment or levy made after such recording.
+    </text>
+</law>

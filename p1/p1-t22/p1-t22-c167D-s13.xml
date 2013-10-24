@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167D" order_by="167D" level="3">Deposits And Accounts</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Return Of Depositor’S Vouchers</catch_line>
+    <order_by>13</order_by>
+    <text>
+        A depositor’s vouchers may be returned by mailing the same to him, at his last known address, postage prepaid, and such depositor may, when required to notify the bank, give notice in like manner.
+    </text>
+</law>

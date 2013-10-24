@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Examinations Or Audits By Department; Divulging Information; Penalty</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Any employee or agent of the department who divulges any fact or information coming to his knowledge during the course of any examination or audit under this chapter, except in so far as he may be directed by the department, or by a court or judge, or be authorized by law, shall be punished by a fine of not more than one thousand dollars.
+    </text>
+</law>

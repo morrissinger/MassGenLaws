@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176H" order_by="176H" level="3">Legal Services Plans</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Enforcement Of Chapter</catch_line>
+    <order_by>19</order_by>
+    <text>
+        The provisions of this chapter may be enforced by a complaint brought in the superior court by the commissioner or the advisory committee on prepaid legal services.
+    </text>
+</law>

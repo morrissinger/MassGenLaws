@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>80</section_number>
+    <catch_line>Effect Of Consolidation Or Merger; Rights Of Creditors</catch_line>
+    <order_by>80</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon the effective date of the consolidation or merger under articles of consolidation or merger filed pursuant to sections seventy-eight or seventy-nine, for all purposes of the laws of Massachusetts:
+        </section>
+        <section prefix="1">
+    	     The separate existence of all the constituent corporations parties to the agreement of consolidation or merger, except any corporation into which any other constituent corporation or corporations have been merged, shall cease;
+        </section>
+        <section prefix="2">
+    	     the constituent corporations shall become a new corporation or be merged into one of such corporations in accordance with the provisions of said agreement of consolidation or merger;
+        </section>
+        <section prefix="3">
+    	     The articles of merger shall be deemed to be an amendment of the articles of organization of any constituent corporation organized under the laws of Massachusetts and surviving the merger and may thereafter be further amended in the manner provided in this chapter;
+        </section>
+        <section prefix="4">
+    	     the articles of consolidation shall be deemed to be the articles of organization of any corporation resulting from the consolidation and organized under the laws of Massachusetts and may thereafter be amended in the manner provided in this chapter;
+        </section>
+        <section prefix="5">
+    	     all of the estate, property, rights, privileges, powers and franchises of the constituent corporations and all of their property, real, personal and mixed, and all the debts due on whatever account to any of them, as well as all stock subscriptions and other choses in action belonging to any of them, shall be transferred to and vested in the resulting or surviving corporation, without further act or deed; provided, however, that upon consolidation or merger of a cemetery corporation or association established pursuant to chapter one hundred and fourteen and a nonprofit corporation established pursuant to chapter one hundred and eighty, the surviving corporation shall not be liable for any claim, cost, loss, expense or damage in connection with or related to said constituent cemetery corporation or association which occurs prior to the consolidation or merger, except to the extent of the assets or income attributable to such assets of said constituent cemetery corporation or association, and all claims, demands, property and other interest shall be the property of the resulting or surviving corporation, and the title to all real estate vested in any of the constituent corporations shall not revert or be in any way impaired by reason of the merger or consolidation, but shall be vested in the resulting or surviving corporation.
+        </section>
+        <section prefix="b">
+    	     The rights of creditors of any constituent corporation shall not in any manner be impaired, nor shall any liability or obligation, including taxes due or to become due, or any claim or demand in any cause existing against such corporation, or any stockholder, director, or officer thereof, be released or impaired by any such consolidation or merger, but such resulting or surviving corporation shall be deemed to have assumed, and shall be liable for, all liabilities and obligations of each of the constituent corporations in the same manner and to the same extent as if such resulting or surviving corporation had itself incurred such liabilities or obligations. The stockholders, directors, and officers of the constituent corporations shall continue to be subject to all the liabilities, claims and demands existing against them as such at or before the consolidation or merger. No action or proceeding then pending before any court or tribunal of the commonwealth in which any constituent corporation is a party, or in which any such stockholder, director, or officer is a party, shall abate or be discontinued by reason of such consolidation or merger, but any such action or proceeding may be prosecuted to final judgment as though no consolidation or merger had taken place, or such resulting or surviving corporation may be substituted as a party in place of any constituent corporation by the court in which such action or proceeding is pending.
+        </section>
+    </text>
+</law>

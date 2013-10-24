@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Constitution And By Laws Of Society; Amendments</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="a">
+    	     A society may, subject to this chapter, make a constitution and by-laws for its government, admission of members, management of its affairs, and the fixing and readjusting of the rates and contributions of its members from time to time, and may amend its constitution and by-laws. A society shall have such other powers as are necessary or incidental to carry into effect its objects and purposes.
+        </section>
+        <section prefix="b">
+    	     The constitution and by-laws may prescribe the officers and elected members of standing committees, who may be ex officio directors or other officers corresponding thereto, and may, with the approval of the commissioner, provide for a system of absentee voting, other than proxy voting, under which absent members entitled to vote may vote in the election of officers and directors or similar governing body and on the adoption of amendments to the constitution and by-laws. The commissioner shall not approve any provision for such a system of absentee voting unless:
+        </section>
+        <section prefix="1">
+    	     the society submitting such provision for approval satisfies the commissioner that absentee voting is necessary in order to have an adequate representation of the membership of the society at its election;
+        </section>
+        <section prefix="2">
+    	     not less than 30 days advance notice, with copies of the proposed amendments to the constitution and by-laws which are to be balloted upon, is forwarded to each member of the society; and
+        </section>
+        <section prefix="3">
+    	     the commissioner is satisfied that the proposed absentee voting system requires the ballots to be carefully guarded against any disclosure of their contents until the same have been counted at the central meeting place.
+        </section>
+    </text>
+</law>

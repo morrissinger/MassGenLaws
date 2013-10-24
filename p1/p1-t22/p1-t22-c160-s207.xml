@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>207</section_number>
+    <catch_line>Prompt Forwarding</catch_line>
+    <order_by>207</order_by>
+    <text>
+        Every railroad corporation shall promptly forward merchandise consigned to or directed to be sent over another railroad connecting with its railroad, according to the directions contained thereon or accompanying the same, and shall not receive and forward over its railroad merchandise consigned to or directed to be sent by a different route.
+    </text>
+</law>

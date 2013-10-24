@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Hearings; Notice To Interested Members Of General Court</catch_line>
+    <order_by>25</order_by>
+    <text>
+        The department shall give seasonable notice by mail to any member of the general court of any hearing before the department concerning common carriers upon a matter affecting the interests of the district represented by him.
+    </text>
+</law>

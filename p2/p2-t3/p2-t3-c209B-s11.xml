@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Custody Proceedings In Foreign Courts; Evidentiary Hearings Within State; Transfer Of Information; Orders To Appear In Foreign Court;  Expenses</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon request of the court of another state the courts of the commonwealth which are competent to hear custody matters may order a person in the commonwealth to appear at a hearing to adduce evidence or to produce or give evidence under other procedures available in the commonwealth or may order investigations to be made for use in a custody proceeding in another state. A certified copy of the transcript of the record of the hearing or the evidence otherwise adduced and of any investigation shall be forwarded by the clerk or register of the court to the requesting court.
+        </section>
+        <section prefix="b">
+    	     Upon request of the court of another state a competent court of the commonwealth may order a person in the commonwealth to appear alone or with the child in a custody proceeding in another state. The court may condition compliance with the request upon assurance by the other state that travel and other necessary expenses will be advanced or reimbursed.
+        </section>
+    </text>
+</law>

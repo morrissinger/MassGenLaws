@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149A" order_by="149A" level="3">Public Construction Alternative Delivery Methods</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Owner’S Project Manager; Designer</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Before procuring the services of a designer pursuant to subsection (b) and prior to submitting an application to use the construction management at risk delivery method pursuant to section 4, the public agency shall procure or otherwise employ the services of an owner’s project manager pursuant to section 44A1/2 of chapter 149. The owner’s project manager may assist the public agency in the procurement of the designer.
+        </section>
+        <section prefix="b">
+    	     Before submitting an application to use the construction management at risk delivery method pursuant to section 4, the public agency shall procure the services of a designer for the building project. In procuring the services of a designer, the public agency shall do so in a manner consistent with sections 38A1/2 to 39O, inclusive, of chapter 7. The designer procured by the public agency shall be independent of the owner’s project manager and the construction management at risk firm.
+        </section>
+    </text>
+</law>

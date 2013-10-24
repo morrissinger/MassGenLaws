@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="165" order_by="165" level="3">Water And Aqueduct Companies</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Malicious Injury To Aqueduct; Penalty</catch_line>
+    <order_by>24</order_by>
+    <text>
+        Whoever maliciously injures an aqueduct or any of its appurtenances shall forfeit not more than one hundred dollars to the use of the town where the offence is committed, and shall be liable to the corporation for treble the amount of damages sustained thereby.
+    </text>
+</law>

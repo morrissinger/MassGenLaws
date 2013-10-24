@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Contents Of Agreement Of Association; Duties Of Associates</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a street railway company.
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed, which shall be one not in use by any other such company in the commonwealth, or, in the judgment of the department, so similar thereto as to be likely to be mistaken for it, and which shall contain the words, “street railway company,” at the end thereof.
+        </section>
+        <section prefix="c">
+    	     The termini of the railway.
+        </section>
+        <section prefix="d">
+    	     The length of the railway, as nearly as may be.
+        </section>
+        <section prefix="e">
+    	     The name of each county, city and town where the railway is to be located.
+        </section>
+        <section prefix="f">
+    	     The gauge of the railway, which shall be four feet eight and one half inches.
+        </section>
+        <section prefix="g">
+    	     The total amount of the capital stock of the company, which shall be not less than ten thousand dollars for each mile, unless the railway is to be wholly outside of a city, in which case said stock shall be not less than five thousand dollars for each mile.
+        </section>
+        <section prefix="h">
+    	     The par value of the shares, which may be one hundred dollars, fifty dollars or twenty-five dollars as the department shall authorize.
+        </section>
+        <section prefix="i">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are qualified in their stead.
+        </section>
+    </text>
+</law>

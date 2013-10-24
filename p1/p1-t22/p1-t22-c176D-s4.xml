@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176D" order_by="176D" level="3">Unfair Methods Of Competition And Unfair And Deceptive Acts And Practices In The Business Of Insurance</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Prohibited Requirements And Conditions In Lending Of Money Or Extension Of Credit And Renewals Thereof</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="b">
+    	     unreasonably disapprove an insurance policy provided by a borrower for the protection of property securing a credit or lien. Such disapproval shall be deemed unreasonable if it is not based solely on reasonable standards uniformly applied, relating to the extent of coverage required and the financial soundness and the services of an insurer. Such standards shall not discriminate against any particular type of insurer, nor shall such standards call for the disapproval of an insurance policy because such policy contains coverage in addition to that required;
+        </section>
+        <section prefix="c">
+    	     require, directly or indirectly, that any borrower, mortgagor, purchaser, insurer, broker, or agent pay a separate charge to substitute the insurance policy of one insurer for that of another. Interest on premium loans or premium advancements in accordance with a security instrument shall not be considered such a separate charge; or
+        </section>
+        <section prefix="d">
+    	     use or disclose information resulting from a requirement that a borrower, mortgagor or purchaser furnish insurance of any kind or real property being conveyed or used as collateral security to a loan, when such information is to the advantage of the mortgagee, vendor, or lender, or is to the detriment of the borrower, mortgagor, purchaser, insurer, or the agent or broker complying with such a requirement.
+        </section>
+    </text>
+</law>

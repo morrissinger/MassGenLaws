@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Special Stockholders’ Meeting</catch_line>
+    <order_by>34</order_by>
+    <text>
+        <section prefix="a">
+    	     Special meetings of the stockholders of a corporation not described in subsection (b) may be called by the president or by the directors, and shall be called by the clerk, or in the case of the death, absence, incapacity or refusal of the clerk, by another officer, upon written application of one or more stockholders who hold at least ten percent in interest of the capital stock entitled to vote thereat. In the event that none of the officers is able and willing to call a special meeting, the supreme judicial or superior court, upon application of one or more stockholders who hold at least ten percent in interest of the capital stock entitled to vote thereat, shall have jurisdiction to authorize one or more of such stockholders to call a meeting by giving such notice as is required by law.
+        </section>
+        <section prefix="b">
+    	     Special meetings of the stockholders of a corporation with a class of voting stock registered under the Securities Exchange Act of 1934, as amended, may be called by the president or by the directors and, unless otherwise provided in the articles of organization or by-laws, shall be called by the clerk, or in case of the death, absence, incapacity or refusal of the clerk, by any other officer, upon written application of one or more stockholders who hold at least forty percent in interest of the capital stock entitled to vote thereat. In case none of the officers is able and willing to call a special meeting, the supreme judicial or superior court, upon application of one or more stockholders who hold at least forty percent in interest, or such other percentage as shall be specified in the corporation’s articles of organization or by-laws, of the capital stock entitled to vote thereat, shall have jurisdiction in equity to authorize one or more of such stockholders to call a meeting by giving such notice as is required by law.
+        </section>
+    </text>
+</law>

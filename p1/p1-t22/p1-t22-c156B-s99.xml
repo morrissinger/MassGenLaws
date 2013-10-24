@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>99</section_number>
+    <catch_line>Petition For Dissolution In Supreme Judicial Court; Cases</catch_line>
+    <order_by>99</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation which desires to close its affairs may authorize the filing of such a petition by a vote of a majority of each class of its stock outstanding and entitled to vote thereon;
+        </section>
+        <section prefix="b">
+    	     Such a petition may be filed by the holder or holders of not less than forty per cent of all the shares of its stock outstanding and entitled to vote thereon, treating all classes of stock entitled to vote as a single class for the purpose of determining whether the petition is brought by the holders of not less than forty per cent of the outstanding shares as aforesaid, if:
+        </section>
+        <section prefix="1">
+    	     the directors are deadlocked in the management of corporate affairs, and the shareholders are unable to break the deadlock; or
+        </section>
+        <section prefix="2">
+    	     the shareholders are deadlocked in voting powers and have failed to elect successors to directors whose terms have expired or would have expired upon the election of their successors.
+        </section>
+    </text>
+</law>

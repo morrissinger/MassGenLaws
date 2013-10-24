@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Renunciation, Resignation, Death, Or Removal Of Custodian;  Designation Of Successor Custodian</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     A person nominated under section three or designated under section nine as custodian may decline to serve in a writing delivered to the person who made the nomination or to the transferor or the transferor’s legal representative. If the event giving rise to a transfer has not occurred and no substitute custodian able, willing, and eligible to serve was nominated under said section three, the person who made the nomination may nominate a substitute custodian under said section three, otherwise the transferor or the transferor’s legal representative shall designate a substitute custodian at the time of the transfer, in either case from among the persons eligible to serve as custodian for the kind of property under subsection (a) of section nine. The custodian so designated has the rights of a successor custodian.
+        </section>
+        <section prefix="b">
+    	     A custodian at any time may designate a trust company or an adult other than a transferor under section four as successor custodian by will or by executing and dating an instrument of the designation before a subscribing witness other than the successor. If the instrument of designation does not contain or is not accompanied by the resignation of the custodian, the designation of the successor is revocable and does not take effect until the custodian resigns, dies, becomes incapacitated, or is removed.
+        </section>
+        <section prefix="c">
+    	     A custodian may resign at any time by delivering written notice to the minor if the minor has attained the age of fourteen years and to the successor custodian and by transfer of possession or control of the custodial property to the successor custodian.
+        </section>
+        <section prefix="d">
+    	     If a custodian is ineligible, dies, or becomes incapacitated without having effectively designated a successor and the minor has attained the age of fourteen years, the minor may designate as successor custodian, in the manner prescribed in paragraph (b), an adult member of the minor’s family, a guardian of the minor, or a trust company. If the minor has not attained the age of fourteen years or fails to act within sixty days after the ineligibility, death, or incapacity, the guardian of the minor becomes successor custodian. If the minor has no guardian or the guardian declines to act, the transferor, the legal representative of the transferor or of the custodian, an adult member of the minor’s family, or any other interested person may petition the court to designate a successor custodian who may serve without bond.
+        </section>
+        <section prefix="e">
+    	     A custodian who declines to serve under paragraph (a) or resigns under paragraph (c), or the legal representative of a deceased or incapacitated custodian, as soon as practicable, shall put the custodial property and records in the possession or control of the successor custodian. The successor custodian by action may enforce the obligation to transfer possession or control of the custodial property and records and becomes responsible for each item as received.
+        </section>
+        <section prefix="f">
+    	     A transferor, the legal representative of a transferor, an adult member of the minor’s family, a guardian of the minor, or the minor if the minor has attained the age of fourteen years may petition the court to remove the custodian for cause and to designate a successor custodian other than a transferor under section four or to require the custodian to give appropriate bond.
+        </section>
+    </text>
+</law>

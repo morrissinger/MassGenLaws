@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>124</section_number>
+    <catch_line>Communication Between Engineer’S Room And Machinery Room</catch_line>
+    <order_by>124</order_by>
+    <text>
+        In every manufacturing establishment where the machinery is operated by steam, communication shall be provided between each room where such machinery is placed and the room where the engineer is stationed by means of speaking tubes, electric bells or appliances to control the motive power, or such other means as shall be satisfactory to an inspector, if in his opinion such communication is necessary.
+    </text>
+</law>

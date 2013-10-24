@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Expenses; Assessments; Late Charges; Interest; Reserve Funds</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="a">
+    	     Until time-share expense assessments are made against the time-share owners, the developer shall pay all time-share expenses. After any time-share expense assessment has been made against the time-share owners, time-share expense assessments shall be made at least annually, based on a budget adopted at least annually by the managing entity. At the time the time-share owners are notified of the amount of the assessment for the current year, the time-share owners shall be provided with a copy of the budget prepared in accordance with the provisions of clause (6) of subsection (a) of section thirty-eight and an accounting of income and expenses for the preceding year.
+        </section>
+        <section prefix="b">
+    	     Except for assessments under subsections (c), (d) and (e), all time-share expenses shall be assessed against all the time-shares in accordance with the allocation set forth in the time-share instrument pursuant to section thirteen. Any past due assessment or installment thereof shall bear interest at the rate established by the managing entity or time-share instrument not exceeding eighteen per cent per annum.
+        </section>
+        <section prefix="c">
+    	     To the extent required by the time-share instrument any time-share expense directly related to a time-share unit and incurred in providing a service or facilities which are available to fewer than all of the time-share owners may be assessed exclusively against the time-share owners benefited.
+        </section>
+        <section prefix="d">
+    	     Assessments to pay a judgment against the association shall be made only against the time-shares in the time-share property at the time the judgment was entered, in proportion to their time-share expense liabilities.
+        </section>
+        <section prefix="e">
+    	     If any time-share expense is caused by the misconduct of any time-share owner, the association may assess said expense exclusively against his time-share.
+        </section>
+        <section prefix="f">
+    	     If time-share expense liabilities are reallocated, time-share expense assessments and any installment thereof not yet due shall be recalculated in accordance with the reallocated time-share expense liabilities.
+        </section>
+        <section prefix="g">
+    	     Any amount identified in the budget as an amount to be reserved for the repair or replacement of the time-share unit or the furnishings, equipment and appliances located therein, shall be segregated by the managing entity, held in trust and used only for the specified purpose for which the reserve was collected unless the time-share owners, at a meeting of time-share owners, or pursuant to either section thirty-three or thirty-four determine to spend said funds for other purposes. Any ballot for any proposal to spend reserve funds for purposes other than that for which they were collected shall be accompanied by an explanation in plain language of the reasons therefor and consequences if any of so doing.
+        </section>
+    </text>
+</law>

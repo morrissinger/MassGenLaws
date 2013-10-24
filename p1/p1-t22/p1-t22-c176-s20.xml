@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Paid Up Nonforfeiture Benefits, Cash Surrender Values, And Other Options</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     The reserve under the certificate determined on the basis specified in the certificate; and
+        </section>
+        <section prefix="b">
+    	     The sum of any indebtedness to the society on the certificate, including interest due and accrued, and a surrender charge equal to two and one-half per cent of the face amount of the certificate, which, in the case of insurance on the lives of children, shall be the ultimate face amount of the certificate, if death benefits provided therein are graded.
+        </section>
+    </text>
+</law>

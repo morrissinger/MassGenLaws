@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>96</section_number>
+    <catch_line>Relief From Final Judgment; Vacation; Effect Of Attachment</catch_line>
+    <order_by>96</order_by>
+    <text>
+        On motion made pursuant to the Massachusetts Rules of Civil Procedure or the District-Municipal Courts Rules of Civil Procedure, and upon such terms as are just, a court may relieve a party or his legal representative from a final judgment. If no attachment was made in the action, such relief may be granted and execution stayed without security; but if there was such attachment, the amount of the bond shall be fixed at the actual value of the property attached, as agreed by the parties or determined by the court. Liability upon an attachment made or bond given in the original action shall not continue after the judgment has been vacated, except that if the prevailing party has been relieved from judgment under this section within thirty days of the entry thereof, such liability shall, if a subsequent judgment is rendered, continue during such time thereafter as it would have continued upon the original judgment had it not been vacated.
+    </text>
+</law>

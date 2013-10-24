@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>4AA</section_number>
+    <catch_line>Coverage For Prosthetic Devices And Repairs</catch_line>
+    <order_by>4AA</order_by>
+    <text>
+        <section prefix="a">
+    	     Any subscription certificate under an individual or group medical service agreement, except certificates which provide supplemental coverage to Medicare or other governmental programs that shall be delivered, issued or renewed within the commonwealth shall provide, as benefits to all individual subscribers or members within the commonwealth and to all group members having a principal place of employment within the commonwealth, coverage for prosthetic devices and repairs. If prosthetic devices are covered as a durable medical equipment benefit, coverage shall be provided under the same terms and conditions that apply to other durable medical equipment covered under the policy, except as otherwise provided in this section. If prosthetic devices are covered as a stand-alone prosthetic benefit, coverage shall be consistent with the terms and conditions as described in this section.
+        </section>
+        <section prefix="b">
+    	     In this section, “prosthetic device” shall mean an artificial limb device to replace, in whole or in part, an arm or leg.
+        </section>
+        <section prefix="c">
+    	     No such certificate shall impose any annual or lifetime dollar maximum on coverage for prosthetic devices other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services covered under the certificate.
+        </section>
+        <section prefix="d">
+    	     No such certificate shall apply amounts paid for prosthetic devices to any annual or lifetime dollar maximum applicable to other durable medical equipment covered under the certificate other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services covered under the certificate.
+        </section>
+        <section prefix="e">
+    	     Any such certificate may include a reasonable coinsurance requirement for prosthetic devices and repairs, not to exceed 20 per cent of the allowable cost of the prosthetic device or repair, unless all covered benefits applying coinsurance under the plan do so at a higher amount. If the certificate provides coverage for services from nonparticipating providers, the contract may include a reasonable coinsurance requirement for prosthetic devices and repairs, not to exceed 40 per cent of the allowable cost of the prosthetic device or repair when obtained from a nonparticipating provider, unless all covered benefits applying coinsurance under the plan do so at a higher amount.
+        </section>
+        <section prefix="f">
+    	     Any such certificate may require prior authorization as a condition of coverage for prosthetic devices.
+        </section>
+        <section prefix="g">
+    	     Any such contract shall only be required to provide coverage for the most appropriate medically necessary model that adequately meets the medical needs of the policyholder.
+        </section>
+    </text>
+</law>

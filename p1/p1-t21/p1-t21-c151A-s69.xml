@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>69</section_number>
+    <catch_line>Recovery Or Deduction Of Erroneous Payments; Cancellation;  Liability Of Disbursing Officer</catch_line>
+    <order_by>69</order_by>
+    <text>
+        <section prefix="a">
+    	     The department may recover by a civil action any amounts paid to an individual through error, or, in the discretion of the commissioner, the amount erroneously paid may be deducted from any future payments of benefits accruing to an individual under the provisions of this chapter provided that there has been a final decision as defined in section 69D. Any civil action brought pursuant to this subsection shall be commenced within six years from the date of the erroneous payment.
+        </section>
+        <section prefix="b">
+    	     The commissioner may cancel the balance of a restitution owed by an individual under this section if the commissioner finds that such individual is deceased and has left no estate or that, after five years following notice to him that such restitution was required, he has not claimed benefits and he cannot be located.
+        </section>
+        <section prefix="c">
+    	     The commissioner may waive recovery of an overpayment made to any individual, who, in the judgment of the commissioner, is without fault and where, in the judgment of the commissioner such recovery would defeat the purpose of benefits otherwise authorized or would be against equity and good conscience.
+        </section>
+        <section prefix="d">
+    	     No disbursing officer shall be held liable for any amount paid by him to any person where the recovery of such amount is waived under this section.
+        </section>
+    </text>
+</law>

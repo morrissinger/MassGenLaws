@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Statement Provided To Individuals Provided With Creditable Coverage; Report</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Pursuant to section 8B of chapter 62C, any corporation subject to this chapter shall provide written statements to residents of the commonwealth for whom creditable coverage is provided and shall provide a separate report verifying those statements to the commissioner of revenue.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>15C</section_number>
+    <catch_line>Assault By Means Of Hypodermic Syringe Or Needle; Assault And Battery By Means Of Hypodermic Syringe Or Needle</catch_line>
+    <order_by>15C</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever commits an assault upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection, shall be punished by imprisonment in the state prison for not more than 10 years or in the house of correction for not more than 21/2 years, or by a fine of not more than $1,000, or by both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Whoever commits an assault and battery upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection, shall be punished by imprisonment in the state prison for not more than 15 years or in the house of correction for not more than 21/2 years, or by a fine of not more than $5,000, or by both such fine and imprisonment.
+        </section>
+    </text>
+</law>

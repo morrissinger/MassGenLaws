@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>166</section_number>
+    <catch_line>Passenger Cars; Illuminating Oil Or Fluid</catch_line>
+    <order_by>166</order_by>
+    <text>
+        A passenger car on a railroad shall not be lighted by naphtha, nor by an illuminating oil or fluid made in part of naphtha or which will ignite at a temperature of less than three hundred degrees Fahrenheit. A corporation which violates this section shall forfeit not more than five hundred dollars.
+    </text>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150E" order_by="150E" level="3">Labor Relations:  Public Employees</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Prohibited Practices</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be a prohibited practice for a public employer or its designated representative to:
+        </section>
+        <section prefix="1">
+    	     Interfere, restrain, or coerce any employee in the exercise of any right guaranteed under this chapter;
+        </section>
+        <section prefix="2">
+    	     Dominate, interfere, or assist in the formation, existence, or administration of any employee organization;
+        </section>
+        <section prefix="3">
+    	     Discriminate in regard to hiring, tenure, or any term or condition of employment to encourage or discourage membership in any employee organization;
+        </section>
+        <section prefix="4">
+    	     Discharge or otherwise discriminate against an employee because he has signed or filed an affidavit, petition, or complaint or given any information or testimony under this chapter, or because he has informed, joined, or chosen to be represented by an employee organization;
+        </section>
+        <section prefix="5">
+    	     Refuse to bargain collectively in good faith with the exclusive representative as required in section six;
+        </section>
+        <section prefix="6">
+    	     Refuse to participate in good faith in the mediation, fact-finding, and arbitration procedures set forth in sections eight and nine;
+        </section>
+        <section prefix="b">
+    	     It shall be a prohibited practice for an employee organization or its designated agent to:
+        </section>
+        <section prefix="1">
+    	     Interfere, restrain, or coerce any employer or employee in the exercise of any right guaranteed under this chapter;
+        </section>
+        <section prefix="2">
+    	     Refuse to bargain collectively in good faith with the public employer, if it is an exclusive representative, as required in section six;
+        </section>
+        <section prefix="3">
+    	     Refuse to participate in good faith in the mediation, fact finding and arbitration procedures set forth in sections eight and nine.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Land Bounded On Public Or Private Way; Content Of Complaint</catch_line>
+    <order_by>29</order_by>
+    <text>
+        If the complaint describes the land as bounded on a public or private way, it shall state whether or not the plaintiff claims any and what land within the limits of the way, and whether the plaintiff desires to have the line of the way determined.
+    </text>
+</law>

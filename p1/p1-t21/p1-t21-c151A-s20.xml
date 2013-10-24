@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Compromise With Employers; Statement Of Commissioner Filed</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner, with the approval of the state advisory council, may enter into agreements of compromise with an employer in respect to any contributions, penalties and interest due thereunder wherein it is determined by the commissioner that there exists an inability on the part of the employer to make full payment of contribution with interest or penalty thereon, and that said employer has acted in good faith in all his relations with the department, and failure to compromise may result in termination of the employer’s business and in loss of employment.
+        </section>
+        <section prefix="b">
+    	     When any compromise or agreement is made under provisions of this section, there shall be placed on file in the office of the department an opinion of the commissioner stating the reasons therefor with a statement of the amount of contribution due, the amount of interest and additional penalty imposed by the commissioner in consequence of the neglect or delinquency of the employer involved and the amount actually paid in accordance with the terms of the compromise. A copy of said opinion and statement shall be filed with the state advisory council.
+        </section>
+        <section prefix="c">
+    	     The provisions of subsections (a) and (b) of this section shall not apply to an employer where there is an unemployment excise tax due on the same services under provisions of the Internal Revenue Code, unless said agreement of compromise shall be contingent upon an agreement or compromise substantially similar in terms having been concluded under provisions of the Internal Revenue Code as to federal unemployment taxes, and evidence satisfactory thereof to the commissioner having been placed on file in the office of the department.
+        </section>
+        <section prefix="d">
+    	     Such agreement or compromise shall be final and conclusive except upon a showing of fraud, malfeasance or misrepresentation of a material fact.
+        </section>
+    </text>
+</law>

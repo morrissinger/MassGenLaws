@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>117</section_number>
+    <catch_line>Ventilation</catch_line>
+    <order_by>117</order_by>
+    <text>
+        Every establishment in which one or more persons is employed shall be so ventilated that all gases, vapors, dust, fumes, or any impurity injurious to health, whether generated in the course of the work carried on therein or otherwise, shall, so far as practicable, be rendered harmless.
+    </text>
+</law>

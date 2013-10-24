@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="168" order_by="168" level="3">Savings Banks</unit>
+    </structure>
+    <section_number>23A</section_number>
+    <catch_line>Violations; Penalty</catch_line>
+    <order_by>23A</order_by>
+    <text>
+        Whoever violates any provisions of sections nineteen, twenty and twenty-three shall be punished by a fine of not more than five thousand dollars or by imprisonment for not more than one year, or both such fine and imprisonment.
+    </text>
+</law>

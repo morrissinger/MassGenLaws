@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Disclosure Authorization Form; Contents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     is written in plain language;
+        </section>
+        <section prefix="2">
+    	     is dated;
+        </section>
+        <section prefix="3">
+    	     specifies the types of persons authorized to disclose information about the individual;
+        </section>
+        <section prefix="4">
+    	     specifies the nature of the information authorized to be disclosed;
+        </section>
+        <section prefix="5">
+    	     names the insurance institution or insurance representative and identifies by generic reference the representative of the insurance institution to whom the individual is authorizing information to be disclosed;
+        </section>
+        <section prefix="6">
+    	     specifies the purposes for which the information is collected;
+        </section>
+        <section prefix="7">
+    	     specifies the length of time such authorization shall remain valid, which shall be no longer than:
+        </section>
+        <section prefix="A">
+    	     in the case of authorizations signed for the purpose of collecting information in connection with an application for an insurance policy, a policy reinstatement or a request for change in policy benefits, thirty months from the date the authorization is signed; or
+        </section>
+        <section prefix="B">
+    	     in the case of authorizations signed for the purpose of collecting information in connection with a claim for benefits under an insurance policy:
+        </section>
+        <section prefix="i">
+    	     the term of coverage of the policy if the claim is for a health insurance benefit; or
+        </section>
+        <section prefix="ii">
+    	     the duration of the claim if the claim is not for a health insurance benefit; and
+        </section>
+        <section prefix="8">
+    	     advises the individual or a person authorized to act on behalf of such individual that such individual or the individual’s authorized representative is entitled to receive a copy of the authorization form.
+        </section>
+    </text>
+</law>

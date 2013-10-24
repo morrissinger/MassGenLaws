@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175E" order_by="175E" level="3">Regulation Of Rates For Motor Vehicle Insurance</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Bad Faith Filing; Hearings</catch_line>
+    <order_by>9</order_by>
+    <text>
+        No insurer or rating organization shall file in bad faith rates which it knows or should know are grossly inadequate for the insurance coverage provided, and which are filed and used for the purpose of unfairly competing for motor vehicle insurance risks. 
+At any hearing conducted under this section, the burden shall be on the filer to justify that such filing is not in violation of this section. If, after such hearing, the commissioner finds that the filer has failed to so justify such filing, he may order that all policies written under such bad-faith filing be rewritten at rates meeting the requirements of this chapter from the date of inception of such policies, or that all such policies be cancelled on a pro rata basis.
+    </text>
+</law>

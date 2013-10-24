@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>224</section_number>
+    <catch_line>Large Commercial Policy Holders; Definitions; Commercial Risks; Records Examination</catch_line>
+    <order_by>224</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purposes of this section, the following words shall have the following meanings:
+        </section>
+        <section prefix="1">
+    	     net worth of $10,000,000;
+        </section>
+        <section prefix="2">
+    	     net revenue or sales of $5,000,000;
+        </section>
+        <section prefix="3">
+    	     more than 25 employees per individual company or more than 50 employees per holding company aggregate;
+        </section>
+        <section prefix="4">
+    	     nonprofit or public entity with an annual budget or assets of $25,000,000 or more;
+        </section>
+        <section prefix="5">
+    	     municipality with a population of 20,000 or more; or
+        </section>
+        <section prefix="6">
+    	     retains a risk manager who shall be a full-time employee or a person retained by a large commercial policyholder, either of which shall be licensed and shall be 1 of the following:— (i) a certified insurance counselor; (ii) a chartered property and casualty underwriter; (iii) an associate in risk management; (iv) a certified risk manager; or (v) a licensed insurance advisor in property and casualty insurance.
+        </section>
+        <section prefix="b">
+    	     As they relate to the regulation of policy form and content and the filing, approval and fixing and establishing of rates, section 6 of chapter 174A, chapter 175, including, but not limited to, sections 22A, 157, 193F, 193G, and 193H, chapter 175A, chapter 175B, chapter 175C, chapter 175D and chapter 176H shall not apply to a contract of insurance issued to a large commercial policyholder. Notwithstanding other requirements of this section, an insurer issuing a contract of insurance to a large commercial policyholder shall maintain underwriting files, premium, loss and expense statistics, financial and other records with regard to the contract of insurance which shall be subject to examination by the commissioner pursuant to section 4.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Dispositions Or Offerings For Which Public Offering Statement Or Other Materials Not Required</catch_line>
+    <order_by>36</order_by>
+    <text>
+        <section prefix="a">
+    	     Sections thirty-six to fifty-five, inclusive, shall apply to all time-shares subject to this chapter except as provided in subsection (b).
+        </section>
+        <section prefix="b">
+    	     Neither a public offering statement nor the materials required by section forty-two need be prepared or delivered in the case of:
+        </section>
+        <section prefix="1">
+    	     a gratuitous disposition of a time-share;
+        </section>
+        <section prefix="2">
+    	     a disposition pursuant to court order;
+        </section>
+        <section prefix="3">
+    	     a disposition by a government or governmental agency;
+        </section>
+        <section prefix="4">
+    	     a disposition by foreclosure or deed in lieu of foreclosure;
+        </section>
+        <section prefix="5">
+    	     a disposition that may be cancelled at any time and for any reason by the purchaser without penalty;
+        </section>
+        <section prefix="6">
+    	     a disposition of a time-share in a unit situated wholly outside the commonwealth pursuant to a contract executed wholly outside the commonwealth, if there has been no offering within the commonwealth;
+        </section>
+        <section prefix="7">
+    	     an offering by a developer of time-shares in no more than one time-share unit at any one time; or
+        </section>
+        <section prefix="8">
+    	     A disposition of a time-share property or all time-shares therein to one purchaser.
+        </section>
+    </text>
+</law>

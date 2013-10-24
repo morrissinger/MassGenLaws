@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Amount Of Stock In Gas Companies Held By Corporation</catch_line>
+    <order_by>31</order_by>
+    <text>
+        A manufacturing or other corporation having its place of business in a city or town where a gas company proposes to manufacture gas for light may hold not more than ten per cent of the capital stock of such gas company; provided, that the foregoing provisions shall not prevent a domestic corporation having its principal place of business in the commonwealth from holding more than ten per cent of the capital stock of a gas company.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Powers</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     To have perpetual succession in its corporate name, unless a period for its duration is limited by any general or special law.
+        </section>
+        <section prefix="b">
+    	     Except as provided in section two, to have a capital stock to such an amount as may be fixed, as provided in this chapter, in its agreement of association or articles of organization or of amendment.
+        </section>
+        <section prefix="c">
+    	     To hold, purchase, convey, mortgage or lease within or without this commonwealth such real or personal property as the purposes of the corporation may require.
+        </section>
+        <section prefix="d">
+    	     To make contracts, incur liabilities and borrow money on its credit and for its use.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Fiduciary Duties; General Principles</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     In allocating receipts and disbursements to or between principal and income, and with respect to any matter within the scope of this chapter, a fiduciary:
+        </section>
+        <section prefix="1">
+    	     shall administer a trust or estate in accordance with the terms of the trust or the will, even if there is a different provision in this chapter;
+        </section>
+        <section prefix="2">
+    	     may administer a trust or estate by the exercise of a discretionary power of administration given to the fiduciary by the terms of the trust or the will, even if the exercise of the power produces a result different from a result required or permitted by this chapter;
+        </section>
+        <section prefix="3">
+    	     shall administer a trust or estate in accordance with this chapter if the terms of the trust or the will do not contain a different provision or do not give the fiduciary a discretionary power of administration; and
+        </section>
+        <section prefix="4">
+    	     shall add a receipt or charge a disbursement to principal if the terms of the trust and this chapter do not provide a rule for allocating the receipt or disbursement to or between principal and income.
+        </section>
+        <section prefix="b">
+    	     In exercising the power to adjust under subsection (a) of section 4 or a discretionary power of administration regarding a matter within the scope of this chapter, whether granted by the terms of a trust, a will, or this chapter, a fiduciary shall administer a trust or estate impartially, based on what is fair and reasonable to all of the beneficiaries, except to the extent that the terms of the trust or the will clearly manifest an intention that the fiduciary shall or may favor 1 or more of the beneficiaries. A determination in accordance with this chapter is presumed to be fair and reasonable to all of the beneficiaries.
+        </section>
+    </text>
+</law>

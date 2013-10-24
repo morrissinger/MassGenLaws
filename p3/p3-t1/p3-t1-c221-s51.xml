@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Failure To Pay Client’S Money; Penalty</catch_line>
+    <order_by>51</order_by>
+    <text>
+        An attorney at law who unreasonably neglects to pay over money collected by him for and in behalf of a client, when demanded by the client, shall forfeit to such client five times the lawful interest of the money from the time of the demand.
+    </text>
+</law>

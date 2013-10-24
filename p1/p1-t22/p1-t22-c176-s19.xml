@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Deferred Payments Or Instalments</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Deferred payments or instalments of claims shall be considered as fixed liabilities on the happening of the contingency upon which such payments or instalments are thereafter to be paid. Such liability shall be the present value of such future payments or instalments upon the rate of interest and mortality assumed by the society for establishing contributions and for valuation; and every society shall at once, upon the filing of due proofs of the happening of the contingency, set apart a fund to meet such deferred payments, regardless of proposed future collections to meet any such payments, and hold such fund, with its interest accretions, in trust for the beneficiary entitled thereto. 
+No society shall provide for such deferred payments or instalments unless it possesses the full reserve specified in the following section, or, if paying accident benefits only, has assets sufficient to pay all its liabilities.
+    </text>
+</law>

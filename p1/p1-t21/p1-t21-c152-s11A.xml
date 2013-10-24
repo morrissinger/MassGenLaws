@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Impartial Medical Examiners</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="1">
+    	     With the assistance of the medical consultant to the commissioner and the administrative judges, the senior judge shall periodically review and update a roster of impartial medical examiners who are certified specialists in various medical fields and who are willing to make prompt reports and be deposed as hereinafter provided. The department shall establish criteria for being named to and remaining on said roster.
+        </section>
+        <section prefix="2">
+    	     When any claim or complaint involving a dispute over medical issues is the subject of an appeal of a conference order pursuant to section ten A, the parties shall agree upon an impartial medical examiner from the roster to examine the employee and submit such choice to the administrative judge assigned to the case within ten calendar days of filing the appeal, or said administrative judge shall appoint such examiner from the roster. The insurer or any claimant represented by counsel who files such appeal shall also submit a fee equal to the average weekly wage in the commonwealth at the time of the appeal to defray the cost of the medical examination under this section within ten days of filing said appeal; provided, however, that where more than one party appeals, the fee shall be divided equally among all appealing parties; provided, further, that such amount paid by a claimant shall be refunded by the insurer to any claimant who prevails at the hearing.
+        </section>
+        <section prefix="3">
+    	     The fee for the provision of a medical report by any impartial medical examiner engaged under this section shall be a reasonable amount approved by the commissioner, and shall be paid by the department to the physician promptly upon receipt of the report. The fee for the provision of a deposition by any impartial medical examiner engaged under this section shall be a reasonable amount approved by the commissioner, and shall be paid by the deposing party directly to the physician promptly upon receipt of the report; provided, however, that if the decision of the administrative judge is in favor of the employee, the cost of such deposition shall be added to the amount awarded to the employee and be paid by the insurer under the provisions of this chapter. In reviewing and updating said roster, the senior judge shall utilize the criteria developed by the health care services board pursuant to section thirteen.
+        </section>
+    </text>
+</law>

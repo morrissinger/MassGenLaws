@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151C" order_by="151C" level="3">Fair Educational Practices</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Petition Alleging Unfair Practice; Procedure; Limitations;  Preferential Selection By Religious Institutions; Powers Of Commission</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person seeking admission as a student to any educational institution, or enrolled as a student in a vocational training institution, who claims to be aggrieved by an alleged unfair educational practice, hereinafter referred to as the petitioner, may himself, or by his parent or guardian, make, sign and file with the commission a verified petition which shall set forth the particulars thereof and contain such other information as may be required by the commission. The commission shall thereupon make an investigation in connection therewith; and after such investigation, if the commission shall determine that probable cause exists for crediting the allegations of the petition, it shall attempt by informal methods of persuasion, conciliation or mediation to induce the elimination of such unfair educational practice.
+        </section>
+        <section prefix="b">
+    	     Where the commission has reason to believe that an applicant or applicants for admission to any educational institution, or enrolled student or students in a vocational training institution have been discriminated against, except that preferential selection by religious or denominational institutions of students on the grounds of religious or denominational affiliations shall not be considered an act of discrimination, the commission may on its own motion make an investigation.
+        </section>
+        <section prefix="c">
+    	     The commission shall not disclose what takes place during such informal efforts at persuasion, conciliation or mediation, and there shall not be offered in evidence in any proceeding the facts adduced in such informal efforts.
+        </section>
+        <section prefix="d">
+    	     A petition pursuant to this section must be filed with the commission within six months after the alleged unfair educational practice was committed.
+        </section>
+        <section prefix="e">
+    	     If such informal methods fail to induce the elimination of the alleged unfair educational practice, the commission may issue and cause to be served upon such institution, hereinafter called the respondent, a complaint setting forth the alleged unfair educational practice charged and a notice of hearing before the commission, at a place therein fixed, to be held not less than twenty days after the service of said complaint. The commission through the chairman may appoint a single commissioner to hold public hearings. Any complaint issued pursuant to this section must be issued within one year after the alleged unfair educational practice was committed.
+        </section>
+        <section prefix="f">
+    	     The respondent shall have the right to answer the original and any amended complaint, and to appear at such hearing by counsel, present evidence and examine and cross-examine witnesses.
+        </section>
+        <section prefix="g">
+    	     The commission shall have the power to subpoena witnesses, compel their attendance, administer oaths, take testimony under oath and require the production of evidence relating to the matter in question before it. The testimony taken at the hearing, which shall be public, shall be under oath and shall be reduced to writing and filed with the commission.
+        </section>
+        <section prefix="h">
+    	     After the hearing is completed, the commission shall file an intermediate report which shall contain its findings of fact and conclusions upon the issues in the proceeding. A copy of such report shall be served on the parties to the proceeding. Any such party, within twenty days thereafter, may file with the commission exceptions to the findings of fact and conclusions, with a brief in support thereof, or may file a brief in support of such findings of fact and conclusions.
+        </section>
+        <section prefix="i">
+    	     If, upon all the evidence, the commission shall determine that the respondent has engaged in an unfair educational practice, the commission shall state its findings of fact and conclusions, and shall issue and cause to be served upon such respondent a copy of such findings and conclusions and an order requiring the respondent to cease and desist from such unfair educational practice, or such other order as it may deem just and proper.
+        </section>
+        <section prefix="j">
+    	     If, upon all the evidence, the commission shall find that a respondent has not engaged in any unfair educational practice, the commission shall state its findings of fact and conclusions and shall issue and cause to be served on the petitioner and respondent a copy of such findings and conclusions and an order dismissing the complaint as to such respondent.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180A</section_number>
+    <catch_line>Definitions Applicable To Secs. 180 A To 180 L1/2</catch_line>
+    <order_by>180A</order_by>
+    <text>
+        <section prefix="1">
+    	     “Commodity contract”:
+        </section>
+        <section prefix="i">
+    	     a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a board of trade or contract market under the Commodity Exchange Act, 7 U.S.C. § 1, et seq. or a board of trade outside the United States;
+        </section>
+        <section prefix="ii">
+    	     an agreement that is subject to regulation under section 19 of the Commodity Exchange Act, 7 U.S.C. § 1, et seq. and that is commonly known to the commodities trade as a margin account, margin contract, leverage account or leverage contract;
+        </section>
+        <section prefix="iii">
+    	     an agreement or transaction that is subject to regulation under Section 4c(b) of the Commodity Exchange Act and that is commonly known to the commodities trade as a commodity option;
+        </section>
+        <section prefix="iv">
+    	     any combination of the agreements or transactions referred to in this paragraph; or
+        </section>
+        <section prefix="v">
+    	     any option to enter into an agreement or transaction referred to in this paragraph.
+        </section>
+        <section prefix="2">
+    	     “Forward contract”, “repurchase agreement”, “securities contract” and “swap agreement” shall have the meanings set forth in the Federal Deposit Insurance Act, 12 U.S.C. § 1821(e)(8)(D), as amended.
+        </section>
+    </text>
+</law>

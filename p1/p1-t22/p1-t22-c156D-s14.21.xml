@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.21</section_number>
+    <catch_line>Procedure For And Effect Of Administrative Dissolution</catch_line>
+    <order_by>14.21</order_by>
+    <text>
+        <section prefix="a">
+    	     If the secretary of state determines that one or more grounds exist under section 14.20 for dissolving a corporation, he shall notify the corporation’s registered agent of his determination. The notice shall be in writing and mailed postage prepaid to the corporation’s registered office, or if the registered agent consents, sent by electronic mail to an electronic mail address furnished by the agent for the purpose.
+        </section>
+        <section prefix="b">
+    	     If the corporation does not correct each ground for dissolution or demonstrate to the reasonable satisfaction of the secretary of state that each ground determined by the secretary of state does not exist within 90 days after notice is given, the secretary of state shall administratively dissolve the corporation.
+        </section>
+        <section prefix="c">
+    	     A corporation administratively dissolved continues its corporate existence but may not carry on any business except that necessary to wind up and liquidate its business and affairs under section 14.05 and notify claimants under sections 14.06, 14.07 and 14.08.
+        </section>
+        <section prefix="d">
+    	     The administrative dissolution of a corporation does not terminate the authority of its registered agent.
+        </section>
+    </text>
+</law>

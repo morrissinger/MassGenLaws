@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>101E</section_number>
+    <catch_line>Legal Defenses Of Company; Non Waiver By Joining In Reference  Proceedings   </catch_line>
+    <order_by>101E</order_by>
+    <text>
+        A company which in compliance with section one hundred or one hundred and one D joins in reference proceedings shall not thereby be held to have waived any legal defense to the claim in respect to which the reference proceedings are held and such proceedings shall fix only the amount of the loss sustained by the insured or the sound value of the property, as the case may be, unless both parties shall agree in writing that the reference shall be held and shall proceed under the provisions of chapter two hundred and fifty-one.
+    </text>
+</law>

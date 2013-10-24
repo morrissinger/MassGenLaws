@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Refusal To Arbitrate; Application To Superior Court</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A party aggrieved by the failure or refusal of another to proceed to arbitration under an agreement described in section one may apply to the superior court for an order directing the parties to proceed to arbitration. If the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of the issue so raised and shall, if it finds for the applicant, order arbitration; otherwise, the application shall be denied.
+        </section>
+        <section prefix="b">
+    	     Upon application, the superior court may stay an arbitration proceeding commenced or threatened if it finds that there is no agreement to arbitrate. Such an issue, when in substantial and bona fide dispute, shall be forthwith and summarily determined, and if the court finds for the applicant it shall order a stay of arbitration; otherwise the court shall order the parties to proceed to arbitration.
+        </section>
+        <section prefix="c">
+    	     If an issue referable to arbitration under the alleged agreement is involved in an action or proceeding pending in a court having jurisdiction to hear applications under paragraph (a), the application shall be made therein, otherwise and subject to section seventeen, the application may be made in any court of competent jurisdiction.
+        </section>
+        <section prefix="d">
+    	     Any action or proceeding involving an issue subject to arbitration shall be stayed if an order for arbitration or an application therefor has been made under this section or, if the issue is severable, the stay may be with respect to such issue only. When the application is made in such action or proceeding, the order for arbitration shall include such stay.
+        </section>
+        <section prefix="e">
+    	     An order for arbitration shall not be refused on the ground that the claim in issue lacks merit or bona fides or because any fault or grounds for the claim sought to be arbitrated have not been shown.
+        </section>
+    </text>
+</law>

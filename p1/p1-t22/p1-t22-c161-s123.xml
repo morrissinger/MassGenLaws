@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Sale Of Railway Property And Franchise To State Or Municipality</catch_line>
+    <order_by>123</order_by>
+    <text>
+        Any company accepting said sections shall be bound thereby to sell its entire property and franchises as a going concern to the commonwealth or to any city or town at any time for an amount in cash equal to the stock investment, and the amount of cash paid in for preferred stock, and the purchaser shall in addition assume all outstanding bonds, contracts, leases and other liabilities of the company. Said sections shall not affect the right of the commonwealth or of any city or town to acquire at any time, by eminent domain under chapter seventy-nine, the property and franchises of any company accepting said sections.
+    </text>
+</law>

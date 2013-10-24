@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255B" order_by="255B" level="3">Retail Instalment Sales Of Motor Vehicles</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Default; Enforcement; Notice; Accelerated Payment; Curing Of Default</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        <section prefix="a">
+    	     An agreement of the parties in a retail installment contract defining default is enforceable only to the extent that the default is material and consists of the buyer’s failure to make one or more installments as required by the agreement; or the occurrence of an event which substantially impairs the value of the collateral.
+        </section>
+        <section prefix="b">
+    	     After a default by a buyer under a consumer credit transaction, the secured creditor may not bring an action against the buyer or proceed against the collateral until he gives the buyer the notice described in this section. The notice so required shall be deemed to be delivered when delivered to the debtor or when mailed to the debtor at the debtor’s address last known to the creditor. If a buyer cures a default after receiving notice and again defaults, the creditor shall give another notice before bringing an action or proceeding against the collateral with respect to the subsequent default, but no notice is required in connection with a subsequent default if, within the period commencing on the date of the consumer credit transaction subject to this section and the date of the subsequent default, the debtor has cured a default after notice three or more times.
+        </section>
+        <section prefix="c">
+    	     The notice shall be in writing and shall be given to the buyer ten days or more after the default. The notice shall conspicuously state the rights of the buyer upon default in substantially the following form:—
+        </section>
+        <section prefix="d">
+    	     During the twenty-one day period after delivery of the notice required by this section the creditor may not because of that default accelerate the unpaid balance of the obligation, bring action against the buyer, or proceed against the collateral.
+        </section>
+        <section prefix="e">
+    	     Unless the secured creditor has first notified the buyer that he has elected to accelerate the unpaid balance of the obligation because of default, brought action against the buyer, or proceeded against the collateral, the buyer may cure a default consisting of a failure to pay money by tendering the amount of all unpaid sums due at the time of tender, without acceleration, plus any unpaid delinquency or deferral charges. Such a cure shall restore the buyer to his rights under the agreement as though the defaults had not occurred subject to the provisions of subsection (b).
+        </section>
+    </text>
+</law>

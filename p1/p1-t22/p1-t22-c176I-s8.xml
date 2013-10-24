@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176I" order_by="176I" level="3">Preferred Provider Arrangements</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Powers Of Commissioner; Standardized Claim Form</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     promulgate appropriate rules and regulations necessary to the administration and enforcement of this chapter;
+        </section>
+        <section prefix="b">
+    	     issue an order requiring any person or organization to cease and desist from violating any provision of this chapter or any rules, regulations, or order hereunder;
+        </section>
+        <section prefix="c">
+    	     require any person or organization found to have violated any provision of this chapter or any rule, regulation or order hereunder to forfeit an amount not to exceed ten thousand dollars for any single violation; and
+        </section>
+        <section prefix="d">
+    	     institute a rehabilitation or liquidation proceeding in accordance with the provisions of section one hundred and eighty A through one hundred and eighty L of chapter one hundred and seventy-five.
+        </section>
+    </text>
+</law>

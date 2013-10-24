@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>62C</section_number>
+    <catch_line>Magistrates; Powers And Duties</catch_line>
+    <order_by>62C</order_by>
+    <text>
+        <section prefix="a">
+    	     grant such continuances as are agreed upon by all parties to any proceeding and as may be allowed by rule of court;
+        </section>
+        <section prefix="b">
+    	     hear and rule on any uncontested non-evidentiary motion as may be allowed by rule of court;
+        </section>
+        <section prefix="c">
+    	     call such pre-trial conferences as are deemed expedient for the purpose of ascertaining the trial readiness of parties to an action and of establishing a date for trial;
+        </section>
+        <section prefix="d">
+    	     mediate actions under section twenty-two of chapter two hundred and eighteen;
+        </section>
+        <section prefix="e">
+    	     receive citations and hold hearings pursuant to subsection A of section three of chapter ninety C.
+        </section>
+        <section prefix="f">
+    	     receive petitions and review orders pursuant to section one hundred and fifty-seven of chapter one hundred and forty;
+        </section>
+        <section prefix="g">
+    	     hold preliminary hearings to determine whether there is probable cause to believe that a probationer has violated the terms of his probation.
+        </section>
+        <section prefix="h">
+    	     set bail on arraignments during the normal court day, when a justice is unavailable.
+        </section>
+    </text>
+</law>

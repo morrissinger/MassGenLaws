@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>130</section_number>
+    <catch_line>Dissolution Of Attachment Upon Appointment Of Receiver</catch_line>
+    <order_by>130</order_by>
+    <text>
+        An attachment of property shall be dissolved by the appointment by any court of competent jurisdiction in the commonwealth of a receiver to take possession of such property if the complaint seeking the appointment of such receiver is filed in said court within four months after such attachment was made, unless the court at any time, in its discretion, continues such attachment. In such case the court may authorize the receiver to prosecute or defend the action upon which the attachment was made.
+    </text>
+</law>

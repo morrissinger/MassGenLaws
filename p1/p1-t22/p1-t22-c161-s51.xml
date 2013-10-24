@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Coal And Other Supplies</catch_line>
+    <order_by>51</order_by>
+    <text>
+        A company may convey in cars over its tracks coal and other supplies for its own use.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Trial List Of Criminal Cases, Adding Cases To List</catch_line>
+    <order_by>1</order_by>
+    <text>
+        At each session of the superior court for criminal business, the district attorney, before trials begin, shall make and deposit with the clerk, for the inspection of parties, a list of all cases to be tried at that session, and the cases shall be tried in the order of such trial list, unless otherwise ordered by the court for cause shown. Cases may be added to such list by direction of the court, on its own motion or upon motion of the district attorney or of the defendant.
+    </text>
+</law>

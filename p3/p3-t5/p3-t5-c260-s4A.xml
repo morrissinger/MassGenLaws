@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Back Wages, Actions To Recover</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        Actions to recover back wages based upon any judicial interpretation of a state or federal statute differing from or overruling a previous interpretation of the same shall be commenced only within one year next after the date of such new judicial interpretation.
+    </text>
+</law>

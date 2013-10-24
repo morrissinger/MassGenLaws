@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Name Of Limited Liability Company</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     shall contain the words “limited liability company”, “limited company”, or the abbreviation “L.L.C.”, “L.C.”, “LLC” or “LC”;
+        </section>
+        <section prefix="2">
+    	     may contain the name of a member or manager; and
+        </section>
+        <section prefix="3">
+    	     may not be the same as, or deceptively similar to the name of any corporation, limited partnership or limited liability company reserved or organized under the laws of the commonwealth or licensed or registered as a foreign corporation, foreign limited partnership or foreign limited liability company in the commonwealth, except with the written consent of said corporation, limited partnership or limited liability company previously filed with the state secretary.
+        </section>
+    </text>
+</law>

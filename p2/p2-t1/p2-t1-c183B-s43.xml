@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Deposits Placed In Escrow; Holding Instrument Of Payment</catch_line>
+    <order_by>43</order_by>
+    <text>
+        <section prefix="a">
+    	     Any deposit made in connection with the purchase or reservation in the commonwealth of a time-share from a person required to deliver a public offering statement pursuant to subsection (c) of section thirty-seven shall be placed in escrow, either in the commonwealth or in the state where the time-share project is located, in an account designated solely for said purpose by a licensed title insurance company, an attorney, a licensed real estate broker or an institution whose accounts are insured by a governmental agency or instrumentality until (i) delivered to said person required to deliver a public offering statement at the expiration of the time for cancellation or any later time specified in any contract of sale, (ii) delivered to said person because of the purchaser’s default under a contract to purchase the time-share, or (iii) refunded to the purchaser. The interest, if any, earned on the deposit while it is held in escrow shall be credited to the account of the purchaser.
+        </section>
+        <section prefix="b">
+    	     A seller may hold until the receipt of a notice of cancellation, or the fifteenth day following the cancellation period provided for in section forty-one, an instrument of payment, including but not limited to a credit account authorization, made by a purchaser which is payable to the escrow agent. After expiration of said fifteen days, if no notice of cancellation is received, said instrument shall be deposited as provided in subsection (a).
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="210" order_by="210" level="3">Adoption Of Children And Change Of Names</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Decree Of Adoption; Entry; Conditions Precedent</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        <section prefix="A">
+    	     The child sought to be adopted has been placed with the petitioners for adoption by the department of children and families or by an agency authorized by said department for such purpose, or
+        </section>
+        <section prefix="B">
+    	     The petitioner is a blood relative of the child sought to be adopted, or
+        </section>
+        <section prefix="C">
+    	     The petitioner is a step-parent of the child sought to be adopted, or
+        </section>
+        <section prefix="D">
+    	     The petitioner was nominated in the will of a deceased natural parent of the child as a guardian or an adoptive parent, or
+        </section>
+        <section prefix="E">
+    	     The petition for adoption has been approved in writing by the department of children and families or by an agency authorized by said department. Any petitioner aggrieved by the refusal of the department or of an agency to approve such petition after being requested to do so, may appeal such refusal to the probate court in which the petition for adoption is pending, which court shall make final determination as to the allowance or dismissal of the petition.
+        </section>
+    </text>
+</law>

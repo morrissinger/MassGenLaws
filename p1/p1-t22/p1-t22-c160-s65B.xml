@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>65B</section_number>
+    <catch_line>Real Estate, Warehouse, Industrial Facility, And Industrial Development Companies Stock</catch_line>
+    <order_by>65B</order_by>
+    <text>
+        A railroad corporation may hold stock in real estate, warehouse, industrial facility, and industrial development companies but in no event shall such holdings exceed, in the aggregate, ten per cent of the outstanding capital stock of such railroad corporation.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="155" order_by="155" level="3">General Provisions Relative To Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Public Service Corporations; Misleading Use Of Names Or Titles</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No person owning, holding or controlling shares of stock of any public service corporation shall hereafter use any name or title or other words that, in the opinion of the department of public utilities or the department of telecommunications and cable, might lead the public to believe that such person is a public service corporation or that its business is that of a public service corporation.
+    </text>
+</law>

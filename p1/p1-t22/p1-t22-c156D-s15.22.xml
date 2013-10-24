@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.22</section_number>
+    <catch_line>Withdrawal Upon Conversion To A Nonfiling Entity</catch_line>
+    <order_by>15.22</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation authorized to transact business in the commonwealth that converts into a form of domestic or foreign nonfiling entity shall apply for withdrawal by delivering an application to the secretary of state for filing. The application shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the foreign business corporation and the name of the state or country under whose law it was incorporated before the conversion;
+        </section>
+        <section prefix="2">
+    	     that it surrenders its authority to transact business in the commonwealth as a foreign business corporation;
+        </section>
+        <section prefix="3">
+    	     the type of other entity into which it has been converted and the jurisdiction whose laws govern its internal affairs;
+        </section>
+        <section prefix="4">
+    	     if it has been converted into a foreign other entity:
+        </section>
+        <section prefix="i">
+    	     that it revokes the authority of its registered agent to accept service on its behalf and appoints the secretary of state as its agent for service of process in any proceeding based on a cause of action arising during the time it was authorized to transact business in the commonwealth;
+        </section>
+        <section prefix="ii">
+    	     a mailing address to which the secretary of state may mail a copy of any process served on him under subclause (i); and
+        </section>
+        <section prefix="iii">
+    	     a commitment to notify the secretary of state in the future of any change in its mailing address.
+        </section>
+        <section prefix="b">
+    	     After the withdrawal under this section of a corporation that has converted into a foreign other entity is effective, service of process on the secretary of state is service on the foreign other entity. Upon receipt of process, the secretary of state shall mail a copy of the process to the foreign other entity at the mailing address set forth under clause (4) of subsection (a).
+        </section>
+        <section prefix="c">
+    	     After the withdrawal under this section of a corporation that has converted into a domestic other entity is effective, service of process shall be made on the other entity in accordance with the regular procedures for service of process on the form of other entity into which the corporation was converted.
+        </section>
+    </text>
+</law>

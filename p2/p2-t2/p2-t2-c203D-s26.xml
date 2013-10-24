@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Disbursements From Principal</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="a">
+    	     A trustee shall make the following disbursements from principal:
+        </section>
+        <section prefix="1">
+    	     such of the disbursements described in clause (1) of section 25 as are not charged to income;
+        </section>
+        <section prefix="2">
+    	     all of the trustee’s compensation calculated on principal as a fee for acceptance, distribution, or termination, and disbursements made to prepare property for sale;
+        </section>
+        <section prefix="3">
+    	     payments on the principal of a trust debt;
+        </section>
+        <section prefix="4">
+    	     expenses of a proceeding that concerns primarily principal, including a proceeding to construe the trust or to protect the trust or its property;
+        </section>
+        <section prefix="5">
+    	     premiums paid on a policy of insurance not described in clause (3) of section 25 of which the trust is the owner and beneficiary;
+        </section>
+        <section prefix="6">
+    	     estate, inheritance, and other transfer taxes, including penalties, apportioned to the trust; and
+        </section>
+        <section prefix="7">
+    	     disbursements related to environmental matters, including reclamation, assessing environmental conditions, remedying and removing environmental contamination, monitoring remedial activities and the release of substances, preventing future releases of substances, collecting amounts from persons liable or potentially liable for the costs of those activities, penalties imposed under environmental laws or regulations and other payments made to comply with those laws or regulations, statutory or common law claims by third parties, and defending claims based on environmental matters.
+        </section>
+        <section prefix="b">
+    	     If a principal asset is encumbered with an obligation that requires income from that asset to be paid directly to the creditor, the trustee shall transfer from principal to income an amount equal to the income paid to the creditor in reduction of the principal balance of the obligation.
+        </section>
+    </text>
+</law>

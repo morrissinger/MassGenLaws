@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Violations; Arrest Without Warrant</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever knowingly and willfully:
+        </section>
+        <section prefix="1">
+    	     gives false or inaccurate information or fails to provide information which he is required to disclose by this chapter or any regulation issued thereunder; or
+        </section>
+        <section prefix="2">
+    	     otherwise fails to comply with any provision of this chapter; shall be fined not more than five thousand dollars or imprisoned for not more than one year, or both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Whoever, with intent to defraud:
+        </section>
+        <section prefix="1">
+    	     makes or causes to be made, either directly or indirectly, any false statement as to a material fact in writing, knowing it to be false and with intent that it be relied on, respecting his identity or that of any other person, or his financial condition or that of any other person, for the purpose of procuring the issuance of an access device;
+        </section>
+        <section prefix="2">
+    	     takes such access device from the person, possession, custody or control of another without the access device holder’s consent by any conduct which would constitute larceny, or who, with knowledge that it has been so taken, receives the access device with intent to use it or to sell it, or to transfer it to a person other than the issuer or access device holder;
+        </section>
+        <section prefix="3">
+    	     receives an access device that he knows to have been lost, mislaid, or delivered under a mistake as to the identity or address of the access device holder, and who retains possession with intent to use it or to sell it or to transfer it to a person other than the issuer or the access device holder;
+        </section>
+        <section prefix="4">
+    	     being a person other than the issuer or his authorized agent, sells an access device, or buys such access device from a person other than the issuer or his authorized agent, or
+        </section>
+        <section prefix="5">
+    	     being a person other than the access device holder or a person authorized by him, signs an access device, if such signature is a prerequisite to use;
+        </section>
+        <section prefix="6">
+    	     uses, for the purpose of obtaining money, goods, services or anything else of value, an access device obtained or retained in violation of clauses (2) to (5), inclusive, or an access device which he knows is forged, expired, or revoked, where the value of money, goods or services obtained in violation of this section is not in excess of one hundred dollars;
+        </section>
+        <section prefix="7">
+    	     obtains money, goods, services or anything else of value by representing without the consent of the access device holder that he is said holder or by representing that he is the holder of an access device and such access device has not in fact been issued, where the value of money, goods or services obtained is not in excess of one hundred dollars;
+        </section>
+        <section prefix="8">
+    	     being a person authorized by an issuer to furnish money, goods, services or anything else of value upon presentation of an access device by the access device holder, or any agent or employee of such person, furnishes money, goods, services or anything else of value upon presentation of an access device which he knows was obtained or retained in violation of clauses (2) to (5), inclusive, or an access device which he knows is forged, expired or revoked where the value of the goods or services obtained is not in excess of one hundred dollars.
+        </section>
+        <section prefix="9">
+    	     being a person who is authorized by an issuer to furnish money, goods, services or anything else of value upon presentation of an access device by the access device holder, or any agent or employee of such person, fails to furnish money, goods, services or anything else of value which he represents in writing to the issuer that he has furnished, and the difference between the value of all money, goods, services and anything else of value actually furnished and the value represented to the issuer to have been furnished does not exceed one hundred dollars;
+        </section>
+        <section prefix="10">
+    	     receives money, goods, services or anything else of value obtained in violation of clauses (6) to (9), inclusive, or
+        </section>
+        <section prefix="11">
+    	     having knowledge of the computer aspects of an electronic funds transfer system and access to the machinery involved in its operation, obtains money, goods, services or anything else of value not in excess of one hundred dollars by unauthorized use of such system; shall be punished by a fine of not more than one thousand dollars or by imprisonment in a jail or house of correction for not more than one year, or both such fine and imprisonment.
+        </section>
+        <section prefix="c">
+    	     Whoever, with intent to defraud:—
+        </section>
+        <section prefix="1">
+    	     obtains control over an access device as security for debt;
+        </section>
+        <section prefix="2">
+    	     receives an access device which he knows was taken or retained under circumstances which constitute theft or a violation of clause (1) or (4) of subsection (b) or clause (1) of this subsection, or
+        </section>
+        <section prefix="3">
+    	     falsely makes or falsely embosses a purported access device or utters such an access device;
+        </section>
+        <section prefix="4">
+    	     obtains money, goods, services or anything else of value by use of an access device obtained or retained in violation of clauses (2) and (5), inclusive, of subsection (b), or by use of an access device which he knows is forged, expired or revoked, where the value of the money, goods or services obtained in violation of this section is in excess of one hundred dollars;
+        </section>
+        <section prefix="5">
+    	     obtains money, goods, services or anything else of value by representing without the consent of the access device holder that he is said holder or by representing that he is the holder of an access device and such access device has not in fact been issued, where the value of money, goods or services obtained in violation of this section is in excess of one hundred dollars;
+        </section>
+        <section prefix="6">
+    	     being a person authorized by an issuer to furnish money, goods, services or anything else of value upon presentation of an access device which he knows was obtained in violation of clauses (2) to (5) of subsection (b), or an access device which he knows is forged, expired or revoked, when the value of the money, goods or services obtained is in excess of one hundred dollars;
+        </section>
+        <section prefix="7">
+    	     being a person authorized by an issuer to furnish money, goods, services or anything else of value upon presentation of an access device by the access device holder, or an agent or employee of such person, fails to furnish money, goods, services or anything else of value which he represents in writing to the issuer that he has furnished, and the difference between the value of all money, goods, services and anything else of value actually furnished and the value represented to the issuer to have been furnished exceeds one hundred dollars;
+        </section>
+        <section prefix="8">
+    	     receives money, goods, services or anything else of value in excess of one hundred dollars obtained in violation of clause (6) or (7) of subsection (b), or
+        </section>
+        <section prefix="9">
+    	     possesses one or more incomplete access devices, intending to complete them without the consent of the issuer;
+        </section>
+        <section prefix="10">
+    	     possesses, with knowledge of its character, machinery, plates or any other contrivance designed to reproduce instruments purporting to be the access devices of an issuer who has not consented to the preparation of such access devices, or
+        </section>
+        <section prefix="11">
+    	     having knowledge of the computer aspects of an electronic funds transfer system and access to the machinery involved in its operation, obtains money, goods, services or anything else of value in excess of one hundred dollars by an unauthorized use of such system; shall be punished by a fine of not more than ten thousand dollars or by imprisonment for not more than ten years, or both such fine and imprisonment.
+        </section>
+    </text>
+</law>

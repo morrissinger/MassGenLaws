@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Custody Judgment Of Foreign State; Filing Within State; Enforcement Of Judgment Within State; Expenses</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     A certified copy of a custody judgment of another state may be filed in the office of the clerk or register of any court of competent jurisdiction in the commonwealth. The clerk or register shall treat the judgment in the same manner as a custody judgment of a court of the commonwealth. A custody judgment so filed has the same effect and shall be enforced in like manner as a custody judgment rendered by a court of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     A person violating a custody judgment of another state the violation of which makes it necessary to enforce the judgment in the commonwealth may be required to pay the reasonable and necessary travel, witness and other expenses, including attorneys’ fees, incurred by the party entitled to custody of the child.
+        </section>
+    </text>
+</law>

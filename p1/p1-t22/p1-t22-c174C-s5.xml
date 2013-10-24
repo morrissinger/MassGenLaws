@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174C" order_by="174C" level="3">Vehicle Protection Product Warranties Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Warrantor Registration With State Secretary</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A warrantor shall register with the state secretary on a form prescribed by the secretary.
+        </section>
+        <section prefix="b">
+    	     Warrantor registration records shall be filed annually and shall be updated within 30 days of any change. The registration records shall contain the following information:
+        </section>
+        <section prefix="1">
+    	     the warrantor’s name, including a fictitious or assumed name under which the warrantor does business in the commonwealth, principal office address, and telephone number;
+        </section>
+        <section prefix="2">
+    	     the name, address, and telephone number of administrators designated by the warrantor to be responsible for the administration of vehicle protection product warranties in the commonwealth;
+        </section>
+        <section prefix="3">
+    	     the name, address, and telephone number of the insurer issuing the warranty reimbursement insurance policy if the warrantor is meeting the financial responsibility requirements of section 4 by using a warranty reimbursement insurance policy;
+        </section>
+        <section prefix="4">
+    	     a copy of the warranty reimbursement insurance policy or policies or other financial information required by sections 4 or 5;
+        </section>
+        <section prefix="5">
+    	     a statement indicating whether the warrantor elects to maintain a minimum net worth or a warranty liability reimbursement insurance policy as required under section 4;
+        </section>
+        <section prefix="6">
+    	     if the warrantor elects to meet the financial responsibility requirements of section 4 through the minimum net worth requirement, the warrantor shall file a sworn statement of a duly authorized officer of the company or its independent auditor that the company meets the minimum net worth requirement of section 4 along with the financial records specified in this subsection. In place of filing financial records, the warrantor may provide a record reference for locating the records at the Securities and Exchange Commission; the records the warrantor shall provide to the state secretary are a copy of the warrantor’s or the warrantor’s parent company’s most recent form 10-K or form 20-F filed with the Securities and Exchange Commission within the last calendar year or, if the warrantor does not file with the Securities and Exchange Commission, a copy of the warrantor or the warrantor’s parent company’s audited financial statements that shows a net worth of the warrantor or its parent company of at least $30,000,000. If the warrantor’s parent company’s form 10-K, form 20-F, or audited financial statements are filed to meet the warrantor’s financial stability requirement, then the parent company shall agree to guarantee the obligations of the warrantor relating to warranties issued by the warrantor in the commonwealth; the private financial information filed under this subsection which is not otherwise a public record shall be confidential as a trade secret of the entity filing the information and not subject to public disclosure.
+        </section>
+        <section prefix="c">
+    	     The state secretary may charge each registrant a reasonable fee to offset the cost of processing the registration and maintaining the records in an amount not to exceed $250 annually.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176I" order_by="176I" level="3">Preferred Provider Arrangements</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Proposed Preferred Provider Arrangements; Requirements Upon Receipt Of Completed Forms For Reimbursement</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Standards for maintaining quality health care, including satisfying any quality assurance regulations promulgated by any state agency;
+        </section>
+        <section prefix="b">
+    	     Standards for controlling health care costs;
+        </section>
+        <section prefix="c">
+    	     Standards for assuring reasonable levels of access of health care services and an adequate number and geographical distribution of preferred providers to render those services;
+        </section>
+        <section prefix="d">
+    	     Standards for assuring appropriate utilization of health care service; and
+        </section>
+        <section prefix="e">
+    	     Other standards deemed appropriate by the commissioner.
+        </section>
+    </text>
+</law>

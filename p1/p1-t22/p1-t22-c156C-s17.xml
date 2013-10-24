@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Filing Of Certificate With State Secretary</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The original signed copy of the certificate of organization and of any certificates of amendment or cancellation or of any judicial decree of amendment or cancellation, and of any certificate of consolidation or merger or conversion and of any restated certificate shall be delivered to the state secretary, together with a duplicate copy which may be a photocopy or a duplicate original. A person who executes a certificate as an attorney-in-fact or fiduciary shall not be required to exhibit evidence of his authority as a prerequisite to filing. Any certificate authorized to be filed with the state secretary under any provision of this chapter shall be originally signed except as otherwise required by this chapter or permitted from time to time by the state secretary. Unless the state secretary finds that any certificate does not conform to law, he shall:
+        </section>
+        <section prefix="1">
+    	     confirm that the certificate of organization, the certificate of amendment, the certificate of cancellation or of any judicial decree of amendment or cancellation, the certificate of consolidation or merger or the restated certificate has been filed in his office by endorsing upon the original certificate and the duplicate certificate the word “filed”, and the date and time of the filing. Said endorsement shall be conclusive of the date and time of its filing in the absence of actual fraud;
+        </section>
+        <section prefix="2">
+    	     file the endorsed certificate; and
+        </section>
+        <section prefix="3">
+    	     return to the person who filed it or his representative the duplicate copy of the original signed instrument, similarly endorsed.
+        </section>
+        <section prefix="b">
+    	     Upon the filing of a certificate of amendment or judicial decree of amendment or restated certificate in the office of the state secretary, or upon the effective date of a certificate of amendment or judicial decree thereto or restated certificate, as provided for therein, the certificate of organization shall be amended or restated as set forth therein. Upon the filing of a certificate of cancellation or a judicial decree thereof, or a certificate of consolidation or merger which acts as a certificate of cancellation, or upon the effective date of a certificate of cancellation or a judicial decree thereof or of a certificate of consolidation or merger which acts as a certificate of cancellation, as provided for therein, said certificate of organization shall be cancelled.
+        </section>
+    </text>
+</law>

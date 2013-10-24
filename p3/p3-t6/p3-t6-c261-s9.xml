@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Costs And Fees</unit>
+        <unit label="chapter" identifier="261" order_by="261" level="3">Costs In Civil Actions</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Judgment On Certain Counts Only; Effect On Costs</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If a verdict is rendered for the plaintiff upon one or more counts upon several and distinct claims, and for the defendant upon any others, each party shall recover costs for the travel and attendance of witnesses, for depositions and for other evidence produced, examined or used on the trial of the counts upon which the verdict is in his favor, but shall not recover for the like charges incurred on the trial of the other counts.
+    </text>
+</law>

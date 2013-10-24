@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175A" order_by="175A" level="3">Regulation Of Rates For Certain Casualty Insurance, Including Fidelity, Surety And Guaranty Bonds, And For All Other Forms Of Motor Vehicle Insurance, And Regulation Of Rating Organizations</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Advisory Organization</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Every group, association or other organization of insurers, whether located within or outside this commonwealth, which assists insurers which make their own filings or rating organizations in rate making, by the collection and furnishing of loss or expense statistics, or by the submission of recommendations, but which does not make filings under this chapter, shall be known as an advisory organization.
+        </section>
+        <section prefix="b">
+    	     Every advisory organization shall file with the commissioner (1) a copy of its constitution, its articles of agreement or association or its certificate of incorporation and of its by-laws, rules and regulations governing its activities, (2) a list of its members, (3) the name and address of a resident of this commonwealth upon whom notices or orders of the commissioner or process issued at his direction may be served, and (4) an agreement that the commissioner may examine such advisory organization in accordance with the provisions of section fourteen.
+        </section>
+        <section prefix="c">
+    	     If, after a hearing, the commissioner finds that the furnishing of such information or assistance involves any act or practice which is unfair or unreasonable or otherwise inconsistent with any provision or provisions of this chapter, he may issue a written order specifying in what respects such act or practice is unfair or unreasonable or otherwise inconsistent with such provision or provisions, and requiring the discontinuance of such act or practice.
+        </section>
+        <section prefix="d">
+    	     No insurer which makes its own filings, and no rating organization, shall support its filings by statistics or adopt rate-making recommendations, furnished to it by an advisory organization which has not complied with this section or with an order of the commissioner involving such statistics or recommendations issued under subsection (c) of this section. If the commissioner finds such insurer or rating organization to be in violation of this subsection he may issue an order requiring the discontinuance of such violation.
+        </section>
+    </text>
+</law>

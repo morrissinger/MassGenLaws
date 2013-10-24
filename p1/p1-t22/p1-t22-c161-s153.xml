@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>153</section_number>
+    <catch_line>Extension Of Lines By Transportation Area; Purchase Of Equipment;  Consent Of Department</catch_line>
+    <order_by>153</order_by>
+    <text>
+        No extension of lines or trackage shall be made or additional equipment purchased by a transportation area without the consent of the department.
+    </text>
+</law>

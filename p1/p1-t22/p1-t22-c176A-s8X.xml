@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176A" order_by="176A" level="3">Non Profit Hospital Service Corporations</unit>
+    </structure>
+    <section_number>8X</section_number>
+    <catch_line>Coverage For Patient Care Services Under Qualified Clinical Trials</catch_line>
+    <order_by>8X</order_by>
+    <text>
+        Any contract between a subscriber and the corporation under an individual or group hospital service plan delivered or issued or renewed within the commonwealth shall provide for coverage of patient care services furnished pursuant to qualified clinical trials as defined in, and subject to the requirements and limitations of, section 110L of chapter 175.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Description Of Ownership</catch_line>
+    <order_by>25</order_by>
+    <text>
+        If an indictment for a crime involving the commission or attempted commission of an injury to property describes the property with sufficient certainty in other respects to identify the act, it need not allege the name of the owner.
+    </text>
+</law>

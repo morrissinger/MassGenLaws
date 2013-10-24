@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Entitlement To Distributions</catch_line>
+    <order_by>31</order_by>
+    <text>
+        Except as provided in sections thirty-two and forty-six, a member is entitled to receive distributions from a limited liability company only to the extent and at the times or upon the happening of the events specified in the operating agreement or, if the operating agreement does not so specify, as determined by the members or managers pursuant to section twenty-one or section twenty-six.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>193A</section_number>
+    <catch_line>Jurisdiction; Violations Of This Chapter</catch_line>
+    <order_by>193A</order_by>
+    <text>
+        The superior court shall have jurisdiction in equity, upon an information filed by the attorney general at the relation of the commissioner, to restrain all violations of this chapter and to enforce compliance with the provisions thereof and payment of all fines, forfeitures or penalties provided thereby. The remedy herein provided shall be in addition to all other remedies otherwise provided by law or by this chapter, and not in substitution therefor.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="205" order_by="205" level="3">Bonds Of Executors, Administrators, Guardians, Conservators, Trustees And Receivers</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Approval By Judge Or Register</catch_line>
+    <order_by>10</order_by>
+    <text>
+        No bond required to be given to a judge of probate or to be filed in a registry of probate shall be sufficient, unless it has been examined and approved by the judge or register, and his approval over his official signature written thereon.
+    </text>
+</law>

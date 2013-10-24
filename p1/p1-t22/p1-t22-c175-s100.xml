@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>100</section_number>
+    <catch_line>Referees; Selection   </catch_line>
+    <order_by>100</order_by>
+    <text>
+        If a claim is presented under any policy of fire insurance issued on property or interests in the commonwealth in the standard form set forth in the preceding section, and if the parties fail to agree as to the amount of loss, the company shall, within ten days after receiving a written demand from the insured for the reference of the amount of loss to three referees as provided in such policy, submit in writing the names and addresses of three persons to the insured, who shall, within ten days after receiving such names, notify the company in writing of his choice of one of the said persons to act as one of said referees.
+The insured shall submit in writing the names and addresses of three persons to the company, which shall, within ten days after receiving such names, notify the insured in writing of its choice of one of said persons to act as one of said referees.
+If, at the expiration of ten days from the choice of the second referee, the two referees chosen as hereinbefore provided, shall not have agreed upon and selected a person to act as the third referee, then either of the said referees or parties may make written application on oath to the commissioner in such form as he may prescribe, for the appointment of the third referee and the commissioner shall, after such summary inquiry or hearing, if any, as he may deem expedient, appoint a person to serve as the third referee and shall notify such person and the parties in writing of such appointment.
+    </text>
+</law>

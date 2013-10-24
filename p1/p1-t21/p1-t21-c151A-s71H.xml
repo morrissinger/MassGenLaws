@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>71H</section_number>
+    <catch_line>Plant Closing Employers; Bills For Reemployment Assistance Benefits</catch_line>
+    <order_by>71H</order_by>
+    <text>
+        <section prefix="a">
+    	     At the end of each calendar month, or at the end of any other period as determined by the commissioner, the commissioner shall bill each certified plant closing employer or covered partial closing employer an amount equal to one hundred percent of the amount of reemployment assistance benefits paid under section seventy-one F, provided that eligibility for such benefits is attributable to service in the employ of such employer.
+        </section>
+        <section prefix="b">
+    	     Payment of any bill rendered under paragraph (a) shall be made not later than thirty days after the commissioner mails such bill to the last known address of the employer, unless not later than thirty days after the commissioner mails the bill, the employer files an application for review by the commissioner. The application shall set forth the grounds for such application. The grounds shall be limited to the identities of the individual and the employer and the amount to be charged. The commissioner shall review the application. Thereafter, notice of the commissioner’s determination shall be mailed to the employer. This determination shall be final and not subject to any appeal.
+        </section>
+        <section prefix="c">
+    	     All payments received pursuant to this section shall be credited to the General Fund.
+        </section>
+        <section prefix="d">
+    	     Past due payments of amounts owed under this section shall be subject to the same interest and penalties that apply to past due contributions pursuant to section fifteen.
+        </section>
+        <section prefix="e">
+    	     Default in payment of amounts owed under this section by an employer shall not in any manner adversely affect the rights of an employee otherwise eligible for reemployment assistance benefits.
+        </section>
+        <section prefix="f">
+    	     Except where inconsistent with sections seventy-one A to seventy-one H, inclusive, the provisions of this chapter, including the provisions of section forty-seven, which apply to the collection of contributions or payments in lieu of contributions, shall apply to the same extent to the collection of amounts owed under this section; provided, however, that said amounts shall not be credited to the employer’s account or the solvency account established pursuant to section fourteen or fourteen A.
+        </section>
+    </text>
+</law>

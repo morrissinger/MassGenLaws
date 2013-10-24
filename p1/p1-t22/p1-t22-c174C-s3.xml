@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174C" order_by="174C" level="3">Vehicle Protection Product Warranties Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Warranty Reimbursement Insurance Policy</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     A vehicle protection product sold or offered for sale in the commonwealth shall have its warranty liability backed by a warranty reimbursement insurance policy issued by an insurer authorized to do business in the commonwealth who has filed its policy form with the division of insurance, or the warrantor shall demonstrate proof of financial responsibility through meeting a minimum net worth requirement as required in section 4.
+        </section>
+        <section prefix="b">
+    	     The warrantor shall perform as obligated under the warranty within 60 days of a warranty holder’s request for payment or services under the terms of the warranty. If the warrantor fails to perform under the terms of the warranty within 60 days of the request and if the warrantor has elected to demonstrate its financial responsibility through maintaining a warranty reimbursement insurance policy under section 4, the warranty holder may seek payment or services directly from the insurer through the warrantor’s warranty reimbursement insurance policy and the insurer shall make payment or provide services directly to or for the benefit of the warranty holder on behalf of the warrantor.
+        </section>
+        <section prefix="c">
+    	     Vehicle protection product warranties that meet the requirements of this chapter shall not be subject to chapter 140D, 174, 175, or 176. Vehicle protection product warranties are express warranties and not insurance.
+        </section>
+    </text>
+</law>

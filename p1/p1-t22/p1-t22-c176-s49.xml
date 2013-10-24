@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Tax Exemption</catch_line>
+    <order_by>49</order_by>
+    <text>
+        Every society organized or licensed under this chapter is hereby declared to be a charitable and benevolent institution, and all of its funds shall be exempt from all and every state, county, district, municipal and school tax other than taxes on real estate and office equipment.
+    </text>
+</law>

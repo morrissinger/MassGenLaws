@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>36B</section_number>
+    <catch_line>Unemployment Compensation Benefits; Eligibility</catch_line>
+    <order_by>36B</order_by>
+    <text>
+        <section prefix="1">
+    	     No benefits shall be payable under section thirty-four or section thirty-four A for any week in which the employee has received or is receiving unemployment compensation benefits.
+        </section>
+        <section prefix="2">
+    	     Any employee claiming or receiving benefits under section thirty-five who may be entitled to unemployment compensation benefits shall upon written request from the insurer apply for such benefits. Failure to do so within sixty days after written request shall constitute grounds for suspension of benefits under said section thirty-five. Any unemployment compensation benefits received shall be credited against partial disability benefits payable for the same time period, or, if for a period of time for which partial disability benefits have already been paid, shall be credited against any future partial disability benefits which are or may become payable.
+        </section>
+    </text>
+</law>

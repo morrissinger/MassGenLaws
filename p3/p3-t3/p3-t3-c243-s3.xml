@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="243" order_by="243" level="3">Actions For Private Nuisances</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Judgment Of Abatement In Second Action</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If the plaintiff recovers judgment in a second action for the continuance or repetition of the same nuisance, he shall be entitled as of right to a judgment for abatement and removal and to a warrant as provided in section one, if judgment in the former action was in his favor and whether it included an order for abatement or removal or not.
+    </text>
+</law>

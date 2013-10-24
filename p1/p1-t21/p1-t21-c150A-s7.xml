@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Powers Of Commission And Courts Relative To Hearings And Investigations; Self Incrimination; Service Of Papers; Witness Fees;  Papers And Information Furnished By Other Departments</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     The commission, or its duly authorized agents or agencies, shall at all reasonable times have access to, for the purpose of examination, and the right to copy any evidence of any person being investigated or proceeded against that relates to any matter under investigation or in question. Any member of the commission shall have power to issue subpoenas requiring the attendance and testimony of witnesses and the production of any evidence that relates to any matter under investigation or in question before the commission, its member, agent or agency conducting the hearing or investigation. Any member of the commission, or any agent or agency designated by the commission for such purposes, may administer oaths and affirmations, examine witnesses, and receive evidence. Such attendance of witnesses and the production of such evidence may be required from any place in the commonwealth, at any designated place of hearing.
+        </section>
+        <section prefix="2">
+    	     In case of contumacy or refusal to obey a subpoena issued to any person, the superior court within the jurisdiction of which the inquiry is carried on or within the jurisdiction of which said person guilty of contumacy or refusal to obey is found or resides or transacts business, upon application by the commission shall have jurisdiction to issue to such person an order requiring such person to appear before the commission, its member, agent or agency, there to produce evidence if so ordered, or there to give testimony, touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by said court as a contempt thereof.
+        </section>
+        <section prefix="3">
+    	     No person shall be excused from attending and testifying or from producing books, records, correspondence, documents or other evidence in obedience to the subpoena of the commission, on the ground that the testimony or evidence required of him may tend to incriminate him or subject him to a penalty or forfeiture; but no individual shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
+        </section>
+        <section prefix="4">
+    	     Complaints, orders and other process and papers of the commission, its member, agent or agency may be served either personally or by registered mail or by telegraph or by leaving a copy thereof at the principal office or place of business of the person required to be served. The verified return by the individual so serving the same setting forth the manner of such service shall be proof of service of the same, and the return post office receipt or telegraph receipt therefor when registered and mailed or telegraphed as aforesaid shall be proof of service of the same. Witnesses summoned before the commission, its member, agent or agency shall be paid the same fees and mileage that are paid witnesses in civil cases before the courts of the commonwealth, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the commonwealth.
+        </section>
+        <section prefix="5">
+    	     All process of any court to which application may be made under this chapter may be served in the judicial district wherein the defendant or other person required to be served resides or may be found.
+        </section>
+        <section prefix="6">
+    	     The several departments and agencies of the commonwealth, when directed by the governor, shall furnish the commission, upon its request, all records, papers and information in their possession relating to any matter before the commission.
+        </section>
+    </text>
+</law>

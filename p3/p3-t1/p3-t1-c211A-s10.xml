@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211A" order_by="211A" level="3">Appeals Court</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Concurrent Appellate Jurisdiction With Supreme Judicial Court;  Limitations</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="A">
+    	     Whenever two justices of the supreme judicial court issue an order direct review by the supreme judicial court in any case on appeal, either at the request of one of the parties or at the court’s own initiative, upon finding that the questions to be decided are: (1) questions of first impression or novel questions of law which should be submitted for final determination to the supreme judicial court; (2) questions of law concerning the Constitution of the commonwealth or questions concerning the Constitution of the United States which have been raised in a court of the commonwealth; (3) questions of such public interest that justice requires a final determination by the supreme judicial court.
+        </section>
+        <section prefix="B">
+    	     Whenever the appeals court as a body or a majority of the justices of the appeals court considering a particular case certifies that direct review by the supreme judicial court is in the public interest.
+        </section>
+    </text>
+</law>

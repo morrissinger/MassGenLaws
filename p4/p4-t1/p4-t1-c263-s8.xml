@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="263" order_by="263" level="3">Rights Of Persons Accused Of Crime</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Acquittal On Defective Pleadings; Subsequent Indictment</catch_line>
+    <order_by>8</order_by>
+    <text>
+        If a person has been acquitted by reason of a variance between the indictment or complaint and the proof, or by reason of a defect of form or substance in the indictment or complaint, he may be again arraigned, tried and convicted for the same crime on a new indictment or complaint, notwithstanding such former acquittal.
+    </text>
+</law>

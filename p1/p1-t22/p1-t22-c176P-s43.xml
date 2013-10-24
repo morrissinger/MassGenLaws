@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Foreign Societies; Refusal To Issue License; Revocation Of License</catch_line>
+    <order_by>43</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever the commissioner is satisfied that any foreign society (1) has exceeded its powers; (2) has failed to comply with any provision of this chapter; (3) is conducting businesses fraudulently; (4) is not carrying out its contracts in good faith; (5) that its condition or management is such as to render its further transaction of business hazardous to the public, to members or creditors; or (6) that it or its officers or agents have refused to submit to an examination under section 44 or to perform any legal obligation relative thereto, the commissioner shall notify the society of his findings, and state in writing the grounds of his dissatisfaction, and, after reasonable written notice to the society, shall require it, on a date named in such notice, to show cause why its license should not be revoked. If on said date the society does not present to the commissioner good and sufficient reasons why its license to transact business in the commonwealth should not be revoked, he may revoke such license.
+        </section>
+        <section prefix="b">
+    	     Whenever the commissioner refuses to issue a license to a foreign society under section 41, or revokes its license under this section, he shall reduce his ruling, order or decision to writing and file it in the division of insurance. He shall also furnish a copy thereof, together with a statement of the reasons for his action, to the officers of the society upon request.
+        </section>
+        <section prefix="c">
+    	     Any such society aggrieved by the refusal of the commissioner to issue a license to it, or by the revocation of its license, may, within 30 days after receiving written notice of such refusal or revocation, file a petition in the supreme judicial court for the county of Suffolk for a review of the commissioner’s action. The court shall summarily hear and determine the case and may make an appropriate order or decree. If the order or decree is adverse to the petitioning society, it may appeal to the full court within ten days. In case of such an appeal, the refusal or revocation of the license shall continue in full force and effect until the final determination of the question by the full court.
+        </section>
+        <section prefix="d">
+    	     The termination of the license of such a society shall not prevent it from continuing in good faith all contracts made by it in the commonwealth during the time when it was legally authorized to transact business therein.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>29F</section_number>
+    <catch_line>Uncollected Overissuance Of Food Stamp Coupons; Disclosure;  Deductions</catch_line>
+    <order_by>29F</order_by>
+    <text>
+        <section prefix="a">
+    	     An individual filing a new initial claim for unemployment benefits shall, at the time of filing such claim, disclose whether or not he owes an uncollected overissuance of food stamp coupons, as defined in section 13 (c) (1) of the Food Stamp Act of 1977. The commissioner shall notify the state food stamp agency enforcing such obligation of an individual who discloses that he owes an uncollected overissuance of food stamp coupons and who is determined to be eligible for unemployment benefits.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall deduct and withhold from any unemployment benefits payable to an individual who owes an uncollected overissuance of food stamps:
+        </section>
+        <section prefix="1">
+    	     the amount specified by the individual to the commissioner to be deducted and withheld under this clause;
+        </section>
+        <section prefix="2">
+    	     the amount, if any, determined pursuant to an agreement submitted to the state food stamp agency under section 13 (c) (3) (A) of the Food Stamp Act of 1977; or
+        </section>
+        <section prefix="3">
+    	     any amount otherwise required to be deducted and withheld from unemployment compensation pursuant to section 13 (c) (3) (B) of said Food Stamp Act.
+        </section>
+        <section prefix="c">
+    	     Any amount deducted and withheld under this section shall be paid by the commissioner to the appropriate state food stamp agency.
+        </section>
+        <section prefix="d">
+    	     Any amount deducted and withheld under subsection (b) shall for all purposes be treated as if it were paid to the individual as unemployment benefits and paid by such individual to the state food stamp agency as repayment of the individual’s uncollected overissuance.
+        </section>
+        <section prefix="e">
+    	     For the purposes of this section, the term “unemployment benefits” shall mean benefits payable under this chapter, including amounts payable by the commissioner pursuant to an agreement under any federal law providing for compensation, assistance or allowances with respect to unemployment.
+        </section>
+        <section prefix="f">
+    	     This section shall apply only if arrangements have been made for reimbursement by the state food stamp agency, so-called, for the administrative costs incurred by the commissioner under this section which are attributable to the repayment of uncollected overissuance to said state food stamp agency.
+        </section>
+    </text>
+</law>

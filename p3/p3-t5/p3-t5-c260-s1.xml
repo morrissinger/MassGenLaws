@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Actions Requiring Commencement Within Twenty Years</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following actions shall be commenced only within twenty years next after the cause of action accrues: 
+First, Actions upon contracts under seal. 
+Second, Actions upon bills, notes or other evidences of indebtedness issued by a bank. 
+Third, Actions upon promissory notes signed in the presence of an attesting witness, if brought by the original payee or by his executor or administrator. 
+Fourth, Actions upon contracts not limited by the following section or by any other law. 
+Fifth, Actions under section thirty-two of chapter one hundred and twenty-three to recover for the support of inmates in state institutions.
+    </text>
+</law>

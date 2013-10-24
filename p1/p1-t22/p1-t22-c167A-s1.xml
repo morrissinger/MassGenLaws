@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167A" order_by="167A" level="3">Bank Holding Companies</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Banking institution”, a trust company, commercial bank, savings bank, savings and loan association or cooperative bank chartered by the commonwealth or by another state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or a country other than the United States, or a national banking association, federal savings and loan association or federal savings bank which has its main office located in the commonwealth or in any other jurisdiction named herein; but the term shall not include a limited purpose trust company, as defined in section 1 of chapter 167, or any other entity which by its charter may engage only in activities substantially equivalent to those authorized for a limited purpose trust company.
+        </section>
+        <section prefix="b">
+    	     “Commissioner”, the commissioner of banks.
+        </section>
+        <section prefix="c">
+    	     “Company”, any banking institution, corporation, partnership, business trust, voting trust, unincorporated association, joint stock association or similar organization organized under the laws of this commonwealth or doing business in this commonwealth, but shall not include (1) any corporation, the majority of the stock of which is owned by the United States or by any state; or (2) any corporation or association organized and operated exclusively for religious, charitable or educational purposes no part of the net earnings of which inures to the benefit of any private stockholder or individual, and no substantial part of the activities of which is carrying on propaganda or otherwise attempting to influence legislation; or (3) any corporation or partnership owning or controlling stock acquired in connection with the underwriting of securities and which is held only for such period of time as will permit the sale thereof on a reasonable basis.
+        </section>
+        <section prefix="d">
+    	     “Bank holding company”, (1) any company (i) which, directly or indirectly, owns, controls or holds with power to vote twenty-five per centum or more of the voting stock of each of two or more banking institutions or (ii) which controls the election of a majority of the directors of each of two or more banking institutions or (iii) for the benefit of which or of the stockholders or members of which twenty-five per centum or more of the voting stock of each of two or more banking institutions is held by one or more trustees; and (2) any company which is itself a banking institution and (i) which, directly or indirectly, owns, controls or holds twenty-five per centum or more of the voting stock of one or more banking institutions or (ii) which controls the election of a majority of the directors of one or more banking institutions or (iii) for the benefit of which or of the stockholders or members of which twenty-five per centum or more of the voting stock of one or more banking institutions is hereafter acquired and held by one or more trustees; provided, however, that clauses (1) and (2) shall not include a company described in 100-86 (12 USC 1841 et seq.). For the purposes of this chapter, any successor to any such company shall be deemed to be a bank holding company from the date as of which such predecessor company became a bank holding company. Notwithstanding the foregoing, no banking institution shall be a bank holding company by virtue of its ownership or control of stock in a fiduciary capacity, except where such stock is held for the benefit of such banking institution or the stockholders or members of such banking institution. So much of section ten of chapter one hundred and sixty-eight that provides that no trustee or other officer of a savings bank may at the same time be a director or other officer of a bank holding company shall not apply to service as a director or other officer of a bank holding company formed by one or more savings banks, and so much of section ten of chapter one hundred and seventy that provides that no director or other officer of a cooperative bank may at the same time be a director or other officer of a bank holding company shall not apply to service as a director or other officer of a bank holding company formed by one or more cooperative banks.
+        </section>
+        <section prefix="e">
+    	     “Affiliate”, (1) any company twenty-five per centum or more of whose voting stock (excluding stock owned by the United States or by any company wholly owned by the United States) is owned or controlled by a bank holding company; or (2) any company the election of a majority of whose directors is controlled in any manner by a bank holding company; or (3) any company twenty-five per centum or more of whose vote or voting stock is held by trustees for the benefit of the stockholders or members of a bank holding company.
+        </section>
+        <section prefix="f">
+    	     The term “successor” shall include any company which acquired, directly or indirectly, from a bank holding company stock of any banking institution when and if the relationship between such company and the bank holding company is such that the transaction effects no substantial change in the control of the banking institution or beneficial ownership of the stock thereof. The commissioner may, by regulation, further define the word “successor” to the extent necessary to prevent evasion of the purposes of this section.
+        </section>
+    </text>
+</law>

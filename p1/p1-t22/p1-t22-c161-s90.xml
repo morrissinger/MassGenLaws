@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>90</section_number>
+    <catch_line>Liability Of Municipality; Recovery From Railway</catch_line>
+    <order_by>90</order_by>
+    <text>
+        If, upon the trial of an action against the commonwealth, a city, town, railroad corporation or bridge corporation, the plaintiff recovers damages for an injury to his person or property caused by reason of a defect in a public way or bridge occupied by the tracks of a company, and such company is liable for such damages under the preceding section, and has had reasonable notice to defend the action, the commonwealth, city, town, railroad corporation or bridge corporation may recover the damages, and all the costs of both plaintiff and defendant in the action from said company.
+    </text>
+</law>

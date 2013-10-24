@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Accounts For Employers; Records For Employees; Disposition Of Papers; Summaries; Reproductions</catch_line>
+    <order_by>44</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall maintain a separate account for each employer, crediting his account with all the contributions which he has paid during each year.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall maintain suitable records for each employee on which may be recorded that part of his quarterly wages subject to contributions and such other pertinent information as the commissioner may prescribe.
+        </section>
+        <section prefix="c">
+    	     The commissioner may destroy or dispose of any records, reports, claims, or other papers which, in his opinion, are no longer of any value to the department, and he may make such summaries or compilations, photographs, duplications or reproductions of any such records, reports, claims or other papers, which he deems advisable to preserve the information contained therein and such summaries, compilations, photographs, duplications or reproductions shall be admissible in evidence in any proceeding in any court of the commonwealth if the original would have been admissible therein.
+        </section>
+    </text>
+</law>

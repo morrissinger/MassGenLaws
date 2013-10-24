@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Control Of Action</catch_line>
+    <order_by>15</order_by>
+    <text>
+        A justice of either court shall not dissolve an injunction issued by the other court, or by a justice thereof, or interpose in any action in which equitable relief is sought pending before the other court, except as provided in sections one hundred and fifteen, one hundred and seventeen, and one hundred and eighteen of chapter two hundred and thirty-one.
+    </text>
+</law>

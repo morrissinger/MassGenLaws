@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Laws Applicable To Foreign Limited Liability Company</catch_line>
+    <order_by>47</order_by>
+    <text>
+        A foreign limited liability company shall not do any business in the commonwealth which is prohibited to a limited liability company organized under this chapter. A member, manager or other agent of a foreign limited liability company shall be subject to the liabilities, and shall have the defenses, with respect to the limited liability company, as officers, directors and other agents of a foreign corporation have under section 15.11 of subdivision A of Part 15 of chapter 156D. Subject to the constitution of the commonwealth, a foreign limited liability company’s organization and internal affairs and the liability of its members and managers shall be governed by the laws of the jurisdiction under which it is organized. A foreign limited liability company may not be denied registration by reason of any difference between such laws and the laws of the commonwealth.
+    </text>
+</law>

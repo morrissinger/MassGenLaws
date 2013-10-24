@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>10.07</section_number>
+    <catch_line>Restated Articles Of Organization</catch_line>
+    <order_by>10.07</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation’s board of directors may restate its articles of organization at any time, with or without shareholder approval, to consolidate all amendments into a single document.
+        </section>
+        <section prefix="b">
+    	     If the restated articles include one or more new amendments that require shareholder approval, the amendments must be adopted and approved as provided in section 10.03.
+        </section>
+        <section prefix="c">
+    	     A corporation that restates its articles of organization shall deliver to the secretary of state for filing articles of restatement setting forth the name of the corporation and the text of the restated articles of organization together with a certificate which states that the restated articles consolidate all amendments into a single document and, if a new amendment is included in the restated articles, which also includes the statements required under section 10.06.
+        </section>
+        <section prefix="d">
+    	     Duly adopted restated articles of organization supersede the original articles of organization and all amendments thereto.
+        </section>
+        <section prefix="e">
+    	     The secretary of state may certify restated articles of organization as the articles of organization currently in effect, without including the certificate information required by subsection (c).
+        </section>
+    </text>
+</law>

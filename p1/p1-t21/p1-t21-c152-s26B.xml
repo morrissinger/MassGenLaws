@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>26B</section_number>
+    <catch_line>Concurrent Service Of Two Or More Employers; Joint And Several Liability Of Insurers</catch_line>
+    <order_by>26B</order_by>
+    <text>
+        When an employee employed in the concurrent service of two or more insured employers receives a personal injury compensable under this chapter while performing a duty which is common to such employers, the liability of their insurers under this chapter shall be joint and several. Each insurer or self-insurer liable under this section shall pay compensation according to the proportion of the wages paid by its insured in relation to the concurrent wage which the employee received from all insured employers.
+    </text>
+</law>

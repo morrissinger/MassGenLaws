@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Amendment Of Certificate Of Organization</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     A certificate of organization may be amended by filing a certificate of amendment thereto in the office of the state secretary. The certificate of amendment shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the limited liability company;
+        </section>
+        <section prefix="2">
+    	     the date of filing of its certificate of organization; and
+        </section>
+        <section prefix="3">
+    	     the amendment to the certificate of organization.
+        </section>
+        <section prefix="b">
+    	     A manager or, it there is no manager, then any member, who becomes aware that any statement in a certificate of organization was false when made, or that any matter described in the certificate of organization has changed, making the certificate of organization false in any material respect, shall promptly amend the certificate of organization to correct such matter.
+        </section>
+        <section prefix="c">
+    	     A certificate of organization shall be amended to reflect (i) the designation of managers of a limited liability company which theretofore did not have managers or (ii) any change in the managers of a limited liability company or other authorized signatories.
+        </section>
+        <section prefix="d">
+    	     A certificate of organization may be amended at any time for any other proper purpose.
+        </section>
+        <section prefix="e">
+    	     Unless otherwise provided in this chapter or unless a later effective date, which shall be a date certain, is provided for in the certificate of amendment, a certificate of amendment shall be effective at the time of its filing with the state secretary.
+        </section>
+    </text>
+</law>

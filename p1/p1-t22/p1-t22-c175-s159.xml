@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>159</section_number>
+    <catch_line>Reciprocity</catch_line>
+    <order_by>159</order_by>
+    <text>
+        If by the laws of any other state any taxes, fines, penalties, licenses, fees, deposits or other obligations or prohibitions, additional to or in excess of those imposed by the laws of this commonwealth upon foreign companies and their agents, are imposed on domestic companies and their agents doing business in such state, like obligations and prohibitions shall be imposed upon all companies of such state and their agents doing business in this commonwealth so long as such laws remain in force.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>162K</section_number>
+    <catch_line>Written Examination</catch_line>
+    <order_by>162K</order_by>
+    <text>
+        <section prefix="a">
+    	     A resident individual applying for an insurance producer license shall pass a written examination unless exempt pursuant to section 162O. The examination shall test the knowledge of the individual concerning the lines of authority for which application is made, the duties and responsibilities of an insurance producer and the insurance laws and regulations of the commonwealth. Examinations required by this section shall be developed and conducted under rules and regulations prescribed by the commissioner.
+        </section>
+        <section prefix="b">
+    	     The commissioner may make arrangements, including contracting with an outside testing service, for administering examinations and collecting the nonrefundable fee determined or approved by the commissioner.
+        </section>
+        <section prefix="c">
+    	     Each individual applying for an examination shall remit a nonrefundable fee as prescribed by the commissioner.
+        </section>
+        <section prefix="d">
+    	     An individual who fails to appear for the examination as scheduled or fails to pass the examination, shall reapply for an examination and remit all required fees and forms before being rescheduled for another examination.
+        </section>
+    </text>
+</law>

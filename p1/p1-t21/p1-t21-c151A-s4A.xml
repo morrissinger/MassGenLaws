@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Service Included In Employment; American Employer; State</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     in the employ of the commonwealth or any of its instrumentalities, or any political subdivision thereof or any of its instrumentalities, or any instrumentality of more than one of the foregoing or any instrumentality of any of the foregoing and one or more other states or political subdivisions; provided that such service is excluded from “employment” as defined in the Federal Unemployment Tax Act solely by reason of section 3306(c)(7) of that act and is not excluded from “employment” under section six of this chapter. Benefits paid to unemployed individuals who had performed service during the base period in employment as defined in this subsection shall be financed in accordance with the provisions of section fourteen A, or section fourteen C. A governmental employer as described in this subsection which does not otherwise elect to become a reimbursable employer under section fourteen A, shall become a rated governmental employer under section fourteen C.
+        </section>
+        <section prefix="b">
+    	     in the employ of a farm employing unit in agricultural labor as defined in section 3306(c)(1) of the Federal Unemployment Tax Act.
+        </section>
+        <section prefix="c">
+    	     in the employ of a domestic employing unit in a private home, local college club or local college fraternity or sorority.
+        </section>
+        <section prefix="d">
+    	     in the employ of a religious, charitable, educational or other organization if the service is excluded from “employment” as defined in the Federal Unemployment Tax Act solely by reason of section 3306(c)(8) of that act and is not excluded from “employment” under section six of this chapter.
+        </section>
+        <section prefix="e">
+    	     who is a citizen of the United States, outside the United States after December thirty-first, nineteen hundred and seventy-one, except in Canada and except in the Virgin Islands, prior to January first of the year following the year in which the United States Secretary of Labor approves the unemployment compensation law of the Virgin Islands under section 3304(a) of the Internal Revenue Code, in the employ of an American employer other than service which is deemed “employment” under the provisions of section three or the parallel provisions of another state’s law if:
+        </section>
+        <section prefix="1">
+    	     The employer’s principal place of business in the United States is located in the commonwealth; or
+        </section>
+        <section prefix="2">
+    	     The employer has no place of business in the United States, but (i) the employer is an individual who is a resident of the commonwealth; or (ii) the employer is a corporation which is organized under the laws of the commonwealth; or (iii) the employer is a partnership or a trust and the number of the partners or trustees who are residents of the commonwealth is greater than the number who are residents of any other state.
+        </section>
+        <section prefix="f">
+    	     On or in connection with American vessels and American aircraft under a contract of service which is entered into within the United States or during the performance of which the vessel or aircraft touches at a port in the United States including service performed on or in connection with such vessel or aircraft outside the United States, and including service performed on or in connection with the operation of an American vessel operating on the navigable waters within or within and without the United States, or on American aircraft operating within or within and without the United States, and such operations are ordinarily and regularly supervised, managed, directed and controlled from an operating office managed by an employing unit in this commonwealth; provided, however, that the term “employment” shall not include service performed on a vessel of ten net tons or less engaged in catching, taking or harvesting of fish. The term “employment” shall include services performed within the commonwealth on or in connection with a vessel or aircraft not an American vessel or American aircraft, unless the individual is employed on and in connection with such vessel or aircraft when outside the United States.
+        </section>
+    </text>
+</law>

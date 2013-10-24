@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Approval Of Consolidation Or Merger; Objection; Termination Or Amendment</catch_line>
+    <order_by>60</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless otherwise provided in a written operating agreement, a consolidation or merger shall be approved by each domestic limited liability company which is to consolidate or merge by the members or, if there is more than one class or group of members, then by each class or group of members, in either case, by members who own more than fifty percent of the unreturned contributions to the domestic limited liability company, determined in accordance with section twenty-nine, owned by all of the members or by the members in each class or group, as appropriate.
+        </section>
+        <section prefix="b">
+    	     The exclusive remedy of a member of a domestic limited liability company, which has voted to consolidate or to merge with another entity under the provisions of sections fifty-nine to sixty-three, inclusive, who objects to such consolidation or merger, shall be the right to resign as a member and to receive any distribution with respect to his limited liability company interest, as provided in sections thirty-one to thirty-seven, inclusive. Such members and the resulting or surviving entity shall have the rights and duties, and shall follow the procedure set forth in said sections.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding prior approval, an agreement of consolidation or merger may be terminated or amended pursuant to a provision for such termination or amendment contained in the agreement of consolidation or merger.
+        </section>
+    </text>
+</law>

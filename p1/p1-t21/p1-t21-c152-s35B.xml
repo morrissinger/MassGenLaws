@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>35B</section_number>
+    <catch_line>Return To Work; Subsequent Injury; Rate Of Compensation</catch_line>
+    <order_by>35B</order_by>
+    <text>
+        An employee who has been receiving compensation under this chapter and who has returned to work for a period of not less than two months shall, if he is subsequently injured and receives compensation, be paid such compensation at the rate in effect at the time of the subsequent injury whether or not such subsequent injury is determined to be a recurrence of the former injury; provided, that if compensation for the old injury was paid in a lump sum, he shall not receive compensation unless the subsequent claim is determined to be a new injury.
+    </text>
+</law>

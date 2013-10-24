@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Added Compensation For Dependents; Payment; Presumed Dependents;  Dependency Determined By Facts</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        <section prefix="a">
+    	     A wife upon a husband with whom she lives at the time of his injury.
+        </section>
+        <section prefix="b">
+    	     A husband upon a wife with whom he is living at the time of her injury.
+        </section>
+        <section prefix="c">
+    	     Children under the age of eighteen years, or over said age but physically or mentally incapacitated from earning, if living with the employee at the time of his injury, or, if the employee is bound or ordered by law, decree or order of court, or by any other lawful requirement, to support such children, although living apart from them, or over said age and a full-time student qualified for exemption as a dependent under section one hundred and fifty-one (e) of the Internal Revenue Code. Children within the meaning of this paragraph, shall also include any children of the injured employee conceived but not born at the time of the employee’s injury, and the compensation herein provided for shall be payable on account of any such children from the date of their birth.
+        </section>
+        <section prefix="d">
+    	     A parent upon an unmarried child under the age of eighteen. In all other cases questions of dependency shall be determined in accordance with the fact as the fact may be at the time of the injury.
+        </section>
+    </text>
+</law>

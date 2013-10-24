@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.30</section_number>
+    <catch_line>Nonprofit Conversion</catch_line>
+    <order_by>9.30</order_by>
+    <text>
+        <section prefix="a">
+    	     A domestic business corporation may become a domestic nonprofit corporation pursuant to a plan of nonprofit conversion.
+        </section>
+        <section prefix="b">
+    	     A domestic business corporation may become a foreign nonprofit corporation if the nonprofit conversion is permitted by the laws of the foreign jurisdiction. Regardless of whether the laws of the foreign jurisdiction require the adoption of a plan of nonprofit conversion, the foreign nonprofit conversion shall be approved by the adoption by the domestic business corporation of a plan of nonprofit conversion in the manner provided in this subdivision. The laws of the foreign jurisdiction govern the effect of the foreign nonprofit conversion.
+        </section>
+        <section prefix="c">
+    	     The plan of nonprofit conversion shall include:
+        </section>
+        <section prefix="1">
+    	     the terms and conditions of the conversion;
+        </section>
+        <section prefix="2">
+    	     the manner and basis of reclassifying the shares of the corporation into memberships, if any, or securities, obligations, rights to acquire memberships or securities, cash, other property, or any combination of the foregoing;
+        </section>
+        <section prefix="3">
+    	     any desired amendments to the articles of organization of the corporation following its conversion; and
+        </section>
+        <section prefix="4">
+    	     if the domestic business corporation is to be converted into a foreign nonprofit corporation, a statement of the jurisdiction in which the corporation will be incorporated after the conversion.
+        </section>
+        <section prefix="d">
+    	     The plan of nonprofit conversion may also include a provision that the plan may be amended before filing articles of nonprofit conversion, except that subsequent to approval of the plan by the shareholders it may not be amended to change:
+        </section>
+        <section prefix="1">
+    	     the amount or kind of memberships or securities, obligations, rights to acquire memberships or securities, cash, or other property to be received by the shareholders under the plan;
+        </section>
+        <section prefix="2">
+    	     the articles of organization as they will be in effect immediately following consummation of the conversion, except for changes permitted by section 10.05; or
+        </section>
+        <section prefix="3">
+    	     any of the other terms or conditions of the plan if the change would adversely affect any of the shareholders in any material respect.
+        </section>
+    </text>
+</law>

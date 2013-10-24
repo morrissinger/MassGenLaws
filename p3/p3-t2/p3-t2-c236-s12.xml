@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Land Held Jointly Or In Common; Levy Upon</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If land is held by a debtor in joint tenancy or as a tenant in common, the share thereof belonging to the debtor may be taken on execution, and shall thereafter be held in common with the co-tenant. If the whole share of the debtor is more than sufficient to satisfy the execution, the levy shall be made upon such undivided portion of such share as will, in the opinion of the appraisers, satisfy the execution, and such undivided portion shall be held in common with the debtor and the other co-tenant.
+    </text>
+</law>

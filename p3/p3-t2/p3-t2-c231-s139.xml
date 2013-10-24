@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>139</section_number>
+    <catch_line>Representation Of Corporate Party By Officer Or Agent</catch_line>
+    <order_by>139</order_by>
+    <text>
+        If a corporation is a party to an action or proceeding referred to in this chapter, all motions, pleadings, or other papers requiring the signature or oath of the party may be signed or sworn to in behalf of the corporation by an officer or agent thereunto specially authorized.
+    </text>
+</law>

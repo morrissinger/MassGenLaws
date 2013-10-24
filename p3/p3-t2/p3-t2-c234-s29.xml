@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Peremptory Challenges</catch_line>
+    <order_by>29</order_by>
+    <text>
+        In a civil case each party shall be entitled to four peremptory challenges. Such challenges shall be made before the commencement of the trial and may be made after it has been determined that a person called to serve as a juror stands indifferent in the case.
+    </text>
+</law>

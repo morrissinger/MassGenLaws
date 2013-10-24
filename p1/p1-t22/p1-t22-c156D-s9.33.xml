@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.33</section_number>
+    <catch_line>Surrender Of Charter Upon Foreign Nonprofit Conversion</catch_line>
+    <order_by>9.33</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever a domestic business corporation has adopted and approved, in the manner required by this subdivision, a plan of nonprofit conversion providing for the corporation to be converted to a foreign nonprofit corporation, articles of charter surrender shall be executed on behalf of the corporation by any officer or other duly authorized representative. The articles of charter surrender shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     a statement that the articles of charter surrender are being filed in connection with the conversion of the corporation to a foreign nonprofit corporation;
+        </section>
+        <section prefix="3">
+    	     a statement that the foreign nonprofit conversion was duly approved by the shareholders and, if voting by any separate voting group was required, by each such separate voting group, in the manner required by this chapter and the articles of organization; and
+        </section>
+        <section prefix="4">
+    	     the corporation’s new jurisdiction of incorporation.
+        </section>
+        <section prefix="b">
+    	     The articles of charter surrender shall be delivered by the corporation to the secretary of state for filing. The articles of charter surrender shall take effect on the effective time provided in section 1.23.
+        </section>
+    </text>
+</law>

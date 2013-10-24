@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>11D</section_number>
+    <catch_line>Earnings Reports By Employees; Recovery Of Overpayments</catch_line>
+    <order_by>11D</order_by>
+    <text>
+        <section prefix="1">
+    	     Any employee entitled to receive weekly compensation under this chapter shall have an affirmative duty to report to the insurer all earnings, including wages or salary earned from self-employment. Insurers shall notify employees of said duty on a form approved by the department. Such form shall indicate that failure to report any earnings may subject the employee to civil or criminal penalties, and shall further indicate that failure to file an earnings report on a form approved by the department within thirty days of an insurer’s request for such filing may result in the insurer’s suspension of the employee’s weekly benefits; provided, however, that no employee shall be required to file an earnings report more often than once every six months.
+        </section>
+        <section prefix="2">
+    	     An insurer in receipt of an earnings report indicating that overpayments have been made shall be entitled to recover such overpayments by unilateral reduction of weekly benefits, by no more than thirty percent per week, of any remaining compensation owed the employee; provided, however, that the reported earnings are of a kind that could have been considered in the computation of the employee’s compensation rate. Where overpayments have been made that cannot be recovered in this manner, recoupment may be ordered pursuant to the filing of a complaint under section ten or by bringing an action against the employee in superior court.
+        </section>
+        <section prefix="3">
+    	     An insurer that has paid compensation pursuant to a conference order, shall, upon receipt of a decision of an administrative judge or a court of the commonwealth which indicates that overpayments have been made be entitled to recover such overpayments by unilateral reduction of weekly benefits, by no more than thirty percent per week, of any remaining compensation owed the employee. Where overpayments have been made that cannot be recovered in this manner, recoupment may be ordered pursuant to the filing of a complaint pursuant to section ten or by bringing an action against the employee in superior court.
+        </section>
+        <section prefix="4">
+    	     Where an order of recoupment against an employee has not been fulfilled, and weekly benefits are owed to an employee under this chapter by an insurer other than that to which recoupment has been ordered, such insurer shall reduce by thirty percent said weekly benefits payable to the employee, and shall pay such thirty percent excess directly to the insurer to whom recoupment has been ordered, until full recovery has been made.
+        </section>
+    </text>
+</law>

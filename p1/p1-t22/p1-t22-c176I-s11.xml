@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176I" order_by="176I" level="3">Preferred Provider Arrangements</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Annual Assessment</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Every organization other than a workers’ compensation insurer, operating a preferred provider arrangement shall annually pay an assessment equal to two and twenty-eight hundredths per cent of the gross premiums received during the preceding calendar year for coverage of covered persons residing in this commonwealth; provided, however, that no assessment shall be imposed on premiums for medicare supplemental coverage. In calculating said gross premiums, there shall be deducted any amounts eligible for deduction pursuant to section twenty-four of chapter sixty-three and any amounts that are subject to the assessment imposed by section one hundred and ten L of chapter one hundred and seventy-five or by section ten A of chapter one hundred and seventy-six G. All said assessments, including interest thereon or penalties, shall be deposited in the general fund.
+        </section>
+        <section prefix="b">
+    	     The assessment imposed by this section shall be collected and administered by the commissioner of revenue. Every organization operating a preferred provider arrangement shall annually, on or before March fifteenth, make a return to said commissioner giving such information as said commissioner may deem necessary for the determination of the assessment for the preceding calendar year. The payment and collection of the assessments imposed by this section shall, to the extent consistent with this section, be governed by the provisions of chapters sixty-two C and sixty-three B. This provision shall take effect for premiums received after December thirty-first, nineteen hundred and eighty-eight.
+        </section>
+    </text>
+</law>

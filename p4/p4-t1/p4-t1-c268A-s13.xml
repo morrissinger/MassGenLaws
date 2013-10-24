@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="268A" order_by="268A" level="3">Conduct Of Public Officials And Employees</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Financial Interest Of County Employee, Relatives Or Associates;  Disclosure</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as permitted by paragraph (b), a county employee who participates as such an employee in a particular matter in which to his knowledge he, his immediate family or partner, a business organization which he is serving as officer, director, trustee, partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest, shall be punished by a fine of not more than $10,000, or by imprisonment in the state prison for not more than 5 years, or in a jail or house of correction for not more than 2 1/2 years, or both.
+        </section>
+        <section prefix="b">
+    	     Any county employee whose duties would otherwise require him to participate in such a particular matter shall advise the official responsible for appointment to his position and the state ethics commission of the nature and circumstances of the particular matter and make full disclosure of such financial interest, and the appointing official shall thereupon either
+        </section>
+        <section prefix="1">
+    	     assign the particular matter to another employee; or
+        </section>
+        <section prefix="2">
+    	     assume responsibility for the particular matter; or
+        </section>
+        <section prefix="3">
+    	     make a written determination that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the county may expect from the employee, in which case it shall not be a violation for the employee to participate in the particular matter. Copies of such written determination shall be forwarded to the county employee and filed with the state ethics commission by the person who made the determination. Such copy shall be retained by the commission for a period of six years.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167C" order_by="167C" level="3">Bank Locations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Merger Or Consolidation With Foreign Or Out Of State Bank</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     The corporate existence of the acquired bank shall be discontinued and consolidated into that of the acquiring bank. All rights, privileges and franchises of the acquired institution and its right, title and interest to property of whatever kind, whether real, personal or mixed, and things in action, and every right, privilege, interest or asset of conceivable value or benefit then existing shall be considered fully and finally, and without any right of reversion, transferred to or vested in the acquiring bank, without further act or deed, and the acquiring bank shall have and hold the same in its own right.
+        </section>
+        <section prefix="2">
+    	     The rights, obligations and relations of the acquired institution to a shareholder or depositor, creditor, trustee, beneficiary of a trust, or other person, as of the effective date of the merger or consolidation, shall remain unimpaired, and the acquiring bank shall succeed to all of those rights, obligations and relations.
+        </section>
+        <section prefix="3">
+    	     A pending action or other judicial proceeding to which an institution involved in the merger or consolidation is a party shall not be considered to have been abated or discontinued by reason of the merger or consolidation, but may be prosecuted to final judgment, order or decree in the same manner as if the merger or consolidation had not occurred; but, the acquiring bank may be substituted as a party to the action or proceeding, and the judgment, order or decree may be rendered in the name of the acquiring bank.
+        </section>
+        <section prefix="4">
+    	     A foreclosure of a mortgage begun by the acquired institution before the approval of the merger or consolidation may be completed by the acquiring bank, and publication previously made by the acquired institution may be continued in the name of the acquired institution.
+        </section>
+    </text>
+</law>

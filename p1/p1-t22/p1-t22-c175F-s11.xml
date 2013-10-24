@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175F" order_by="175F" level="3">Medical Malpractice Self Insurance Trust Funds</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Exclusion Of Health Care Provider From Participation; New Participants; Request For Arbitration By Aggrieved</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="1">
+    	     the applicant health care provider is not situated in a geographical location which is reasonably contiguous to the initial participants;
+        </section>
+        <section prefix="2">
+    	     the applicant health care provider does not meet standards of risk and claims management and financial management promulgated by a fund in its trust instrument;
+        </section>
+        <section prefix="3">
+    	     the applicant is not a nonprofit health care provider, if that fund’s present participants are nonprofit; or
+        </section>
+        <section prefix="4">
+    	     the applicant is not a member of the classification of health care providers to which the fund’s present participants belong. Each type of health care provider set forth in section 1 shall be considered to be a separate classification of health care providers.
+        </section>
+    </text>
+</law>

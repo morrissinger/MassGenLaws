@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="218" order_by="218" level="3">District Courts</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Boston Municipal Courts; Concurrent Jurisdiction Over Waters And Islands</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The municipal courts in Boston shall have concurrent jurisdiction over all waters, islands and places not included in the district of any one of said courts or of the district court of Chelsea, and within the jurisdiction of the superior court for Suffolk county, except as provided in the preceding and following sections.
+    </text>
+</law>

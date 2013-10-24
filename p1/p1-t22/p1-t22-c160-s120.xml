@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>120</section_number>
+    <catch_line>Draw Tender</catch_line>
+    <order_by>120</order_by>
+    <text>
+        Every railroad corporation shall provide for each drawbridge upon the line of its railroad an experienced draw tender, who shall have full control of the passing of vessels through the draw; and the corporation shall make and enforce regulations for each drawbridge conformable to the seven following sections.
+    </text>
+</law>

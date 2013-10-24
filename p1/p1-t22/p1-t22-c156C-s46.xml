@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Distribution Of Assets Of Limited Liability Company Following Dissolution</catch_line>
+    <order_by>46</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon the winding up of a limited liability company, the assets shall be distributed as follows:
+        </section>
+        <section prefix="1">
+    	     to creditors, including members and managers who are creditors, to the extent otherwise permitted by law, in satisfaction of liabilities of the limited liability company, whether by payment or the making of reasonable provision for payment thereof, other than liabilities for which reasonable provision for payment has been made and liabilities for distributions to members under section thirty-one or section thirty-two;
+        </section>
+        <section prefix="2">
+    	     unless otherwise provided in the operating agreement, to members and former members in satisfaction of liabilities for distributions under section thirty-one or section thirty-two; and
+        </section>
+        <section prefix="3">
+    	     unless otherwise provided in the operating agreement, to members first for the return of their contributions and second respecting their limited liability company interests, in the proportions in which the members share in distributions.
+        </section>
+        <section prefix="b">
+    	     A limited liability company which has dissolved shall pay or make reasonable provision to pay all claims and obligations, including all contingent, conditional or unmatured claims and obligations, known to the limited liability company and all claims and obligations which are known to the limited liability company but for which the identity of the claimant is unknown. If there are sufficient assets, such claims and obligations shall be paid in full and any such provision for payment made shall be made in full. If there are insufficient assets, such claims and obligations shall be paid or provided for according to their priority and, among claims and obligations of equal priority, ratably to the extent of assets available therefor. Unless otherwise provided in an operating agreement, any remaining assets shall be distributed as provided in this chapter. Any liquidating trustee winding up a limited liability company’s affairs who has complied with this section shall not be personally liable to the claimants of the dissolved limited liability company by reason of such person’s actions in winding up the limited liability company.
+        </section>
+    </text>
+</law>

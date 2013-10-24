@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Failure To Register; Penalty; Service Of Process</catch_line>
+    <order_by>54</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign limited liability company doing business in the commonwealth which fails to register with the state secretary shall, for each year that such failure shall continue, be fined not more than five hundred dollars. No such failure shall affect the validity of any contract involving the foreign limited liability company, nor is a member or a manager of a foreign limited liability company liable for the obligations of the foreign limited liability company solely by reason of such failure, but no action shall be maintained or recovery had by the foreign limited liability company in any of the courts of the commonwealth as long as such failure continues. The failure of a foreign limited liability company to register with the state secretary shall not prevent the foreign limited liability company from defending any action, suit or proceeding in any of the courts of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     A foreign limited liability company shall be liable to be sued and to have its property attached in the same manner and to the same extent as persons who are residents of other jurisdictions. Every foreign limited liability company doing business in the commonwealth without having registered as prescribed in this chapter, and every foreign limited liability company having registered as prescribed in this chapter but whose resident agent cannot after a diligent search by an officer authorized to serve legal process be found at the business address of such resident agent stated in its most recent certificate filed with the state secretary pursuant to this chapter, and every foreign limited liability company whose resident agent refuses to act as such, shall be deemed to have appointed the state secretary to be its true and lawful attorney upon whom all process in any action or proceeding may be served so long as any liability incurred in the commonwealth while it was doing business shall remain outstanding.
+        </section>
+    </text>
+</law>

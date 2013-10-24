@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Motor Vehicle No Fault And Financial Responsibility Laws</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Nothing in this chapter shall be construed to exempt a risk retention group or purchasing group from the policy form or coverage requirements of any motor vehicle no-fault or motor vehicle financial responsibility law of the commonwealth.
+    </text>
+</law>

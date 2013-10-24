@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159C" order_by="159C" level="3">Telemarketing Solicitation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Exclusion Of Consumer Information From Marketing Or Sales Solicitation Publications, Compilations, And Databases; Exceptions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who obtains the name, residential address or telephone number of a consumer from published telephone directories or from any other source and republishes or compiles such information, electronically or otherwise, and sells or offers to sell such publication or compilation to telephone solicitors for marketing or sales solicitation purposes shall, in accordance with this chapter, exclude from any such publication or compilation and from any database used exclusively for marketing or sales solicitation purposes, the name, address and telephone number of a consumer whose name and telephone number appears in the then current quarterly no sales solicitation calls listing made available by the office under section 2.
+        </section>
+        <section prefix="b">
+    	     This section shall not apply to: (i) a telephone company, subject to the authority of the department of telecommunications and energy, for the sole purpose of compiling, publishing or distributing telephone directories or causing the compilation, publication or distribution of telephone directories or providing directory assistance; and (ii) a person, for the sole purpose of compiling, publishing or distributing telephone directories for such telephone company pursuant to an agreement or other arrangement with such telephone company.
+        </section>
+    </text>
+</law>

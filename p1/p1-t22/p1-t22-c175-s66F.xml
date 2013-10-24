@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>66F</section_number>
+    <catch_line>Acquisition Of Interest In Limited Liability Company By Domestic Life  Company   </catch_line>
+    <order_by>66F</order_by>
+    <text>
+        A domestic life company may invest in or otherwise acquire and hold a limited liability company interest in any limited liability company formed pursuant to the General Laws or pursuant to the laws of any state or of the United States.
+No limited liability company interest shall be acquired under this section if the cost thereof would exceed two percent of the assets of such domestic life company nor if such cost, plus the book value on the date of such acquisition of all limited liability company interests held under this section, would exceed ten percent of such assets.
+    </text>
+</law>

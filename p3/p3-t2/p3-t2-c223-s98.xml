@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>98</section_number>
+    <catch_line>Action On Bond; Protection Of Prior Attachments</catch_line>
+    <order_by>98</order_by>
+    <text>
+        No judgment or execution shall be awarded for the use of a creditor without reserving as much as may be due upon any prior attachment, whether the creditor in such prior action is or is not one of those by whom the action on the bond is brought.
+    </text>
+</law>

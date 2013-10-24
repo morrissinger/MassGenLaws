@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>15B</section_number>
+    <catch_line>Assault With Dangerous Weapon; Victim Sixty Or Older; Punishment;  Subsequent Offenses</catch_line>
+    <order_by>15B</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever, by means of a dangerous weapon, commits an assault upon a person sixty years or older, shall be punished by imprisonment in the state prison for not more than five years or by a fine of not more than one thousand dollars or imprisonment in jail for not more than two and one-half years.
+        </section>
+        <section prefix="b">
+    	     Whoever, by means of a dangerous weapon, commits an assault upon another shall be punished by imprisonment in the state prison for not more than five years or by a fine of not more than one thousand dollars or imprisonment in jail for not more than two and one-half years.
+        </section>
+    </text>
+</law>

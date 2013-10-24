@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176Q" order_by="176Q" level="3">Commonwealth Health Insurance Connector</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Binding Agreement As Condition Of Participation In Connector For Eligible Small Groups</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     that the employer agrees that, for the term of agreement, the employer will not offer to eligible individuals to participate in the connector any separate or competing group health plan offering the same, or substantially the same, benefits provided through the connector;
+        </section>
+        <section prefix="b">
+    	     that the employer reserves the right to determine, subject to applicable law, the criteria for eligibility, enrollment and participation in the connector and the amounts of the employer contributions, if any, to such health plan, provided that, for the term of the agreement with the connector, the employer agrees not to change or amend any such criteria or contribution amounts at anytime other than during a period designated by the connector for participating employer health plans;
+        </section>
+        <section prefix="c">
+    	     that the employers shall participate in a payroll deduction program to facilitate the payment of health benefit plan premium payments by employees to benefit from exclusions from gross income under 26 U.S.C. 104, 105, 106 and 125; and
+        </section>
+        <section prefix="d">
+    	     that the employer agrees to make available, in a timely manner, for confidential review by the executive director, any of the employer’s documents, records or information that the connector reasonably determines is necessary for the executive director to:—
+        </section>
+        <section prefix="1">
+    	     verify that the employer is in compliance with applicable federal and commonwealth laws relating to group health insurance plans, particularly those provisions of such laws relating to non-discrimination in coverage; and
+        </section>
+        <section prefix="2">
+    	     verify the eligibility, under the terms of the health plan, of those individuals enrolled in the employer’s participating health plan.
+        </section>
+    </text>
+</law>

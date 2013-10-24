@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167H" order_by="167H" level="3">Mutual Holding Companies</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter the following words, unless the context otherwise requires, shall have the following meanings:— 
+“Commissioner”, the commissioner of banks. 
+“Mutual banking institution”, a Massachusetts savings or cooperative bank operating in mutual form. 
+“Mutual holding company”, a mutual banking institution reorganized in accordance with this chapter to hold all or part of the shares of capital stock of a subsidiary banking institution. 
+“Securities”, (a) stock of any kind including without limitation preferred or common stock, (b) securities convertible into or exchangeable for stock of any kind, and (c) warrants, options or other rights for the issuance of stock of any kind or of securities convertible into or exchangeable for stock of any kind. 
+“Subsidiary banking institution”, the banking institution resulting from the reorganization of a mutual banking institution in accordance with section three, all or part of the capital stock of which is held by a mutual holding company.
+    </text>
+</law>

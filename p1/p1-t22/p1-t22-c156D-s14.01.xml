@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.01</section_number>
+    <catch_line>Dissolution By Incorporators Or Initial Directors</catch_line>
+    <order_by>14.01</order_by>
+    <text>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the date of its incorporation;
+        </section>
+        <section prefix="3">
+    	     either (i) that none of the corporation’s shares has been issued or (ii) that the corporation has not commenced business;
+        </section>
+        <section prefix="4">
+    	     that no debt of the corporation remains unpaid;
+        </section>
+        <section prefix="5">
+    	     that the net assets of the corporation remaining after winding up have been distributed to the shareholders, if shares were issued; and
+        </section>
+        <section prefix="6">
+    	     that a majority of the incorporators or initial directors authorized the dissolution.
+        </section>
+    </text>
+</law>

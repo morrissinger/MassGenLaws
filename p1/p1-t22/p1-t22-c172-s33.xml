@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Insufficient Reserves</catch_line>
+    <order_by>33</order_by>
+    <text>
+        If the reserve of any trust company is at any time less than the amount which it is required to keep on hand, it shall not make any new loans or investments until the required percentages shall be restored. The commissioner may notify such corporation to make good such reserve, and if it fails so to do for thirty days thereafter, he may appoint a conservator in the manner provided in section forty, or he may proceed to take possession of its property and business and liquidate its affairs in the manner provided in sections twenty-two to thirty-six, inclusive, of chapter one hundred and sixty-seven.
+    </text>
+</law>

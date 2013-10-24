@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Certificates For Shares Held</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="a">
+    	     The shares of a corporation shall be represented by certificates or shall be uncertificated shares. Each such certificate shall be signed by the chairman of the board of directors, the president or a vice president and by the treasurer or an assistant treasurer. Such signatures may be facsimiles if the certificate is signed by a transfer agent, or by a registrar, other than a director, officer or employee of the corporation. In case any officer who has signed or whose facsimile signature has been placed on such certificate shall have ceased to be such officer before such certificate is issued, it may be issued by the corporation with the same effect as if he were such officer at the time of its issue.
+        </section>
+        <section prefix="b">
+    	     Every certificate issued after September thirtieth, nineteen hundred and sixty-five by a corporation for shares of stock at a time when such shares are subject to any restriction on transfer pursuant to the articles of organization, the by-laws or any agreement to which the corporation is a party shall have the restriction noted conspicuously on the certificate and shall also set forth on the face or back of the certificate either
+        </section>
+        <section prefix="1">
+    	     the full text of the restriction, or
+        </section>
+        <section prefix="2">
+    	     a statement of the existence of such restriction and a statement that the corporation will furnish a copy thereof to the holder of such certificate upon written request and without charge.
+        </section>
+        <section prefix="c">
+    	     Every stock certificate issued after September thirtieth, nineteen hundred and sixty-five by a corporation at a time when it is authorized to issue more than one class or series of stock shall set forth upon the face or back of the certificate either
+        </section>
+        <section prefix="1">
+    	     the full text of the preferences, voting powers, qualifications and special and relative rights of the shares of each class and series, if any, authorized to be issued, as set forth in the articles of organization, or
+        </section>
+        <section prefix="2">
+    	     a statement of the existence of such preferences, powers, qualifications and rights, and a statement that the corporation will furnish a copy thereof to the holder of such certificate upon written request and without charge.
+        </section>
+        <section prefix="d">
+    	     Unless otherwise provided by the articles of organization or by-laws, the board of directors of a corporation may provide by resolution that some or all of any or all classes and series of its shares shall be uncertificated shares. Such resolutions shall not apply to shares represented by a certificate until such certificate is surrendered to the corporation. If a corporation entitles any stockholders of a class or series to receive a certificate representing shares of such class or series, all other holders of shares of such class or series shall be so entitled. The initial transaction statement sent with respect to the issuance or transfer of uncertificated shares shall contain the information required to be set forth or stated on certificates pursuant to subsection (b) and (c). Except as otherwise expressly provided by law, the rights and obligations of the holders of uncertificated shares and the rights and obligations of the holders of the certificates representing shares of the same class and series shall be identical.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Competency To Testify; Refusal To Testify; Costs Of Tests;  Admissibility Of Evidence; Failure Of Party To Attend; Testimony By Telephone Or Affidavit</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     Both the plaintiff and the defendant are competent to testify in proceedings hereunder.
+        </section>
+        <section prefix="b">
+    	     Upon refusal of a witness, including a party, to testify under oath and produce evidence, the court may order such witness or party to testify under oath and produce evidence concerning all relevant facts. If a witness or party refuses to answer on the ground that the testimony may be self-incriminating, the court may draw an adverse inference from such refusal.
+        </section>
+        <section prefix="c">
+    	     In an action pursuant to this chapter, the mother and the man alleged to be the father shall be competent to testify and no privilege or disqualification created under chapter two hundred and thirty-three shall prohibit testimony by a spouse or former spouse which is otherwise competent. If the mother is or was married, both she and her husband or her former husband may testify to non-access and parentage of the child.
+        </section>
+        <section prefix="d">
+    	     In an action to establish paternity, testimony relating to sexual access to the mother by an unidentified man at any time or by an identified man at any time other than the probable time of conception of the child is inadmissible in evidence unless offered by the mother.
+        </section>
+        <section prefix="e">
+    	     In an action to establish paternity, the court may view the mother, the child, and the putative father to note any resemblance among the parties notwithstanding the absence of expert testimony.
+        </section>
+        <section prefix="f">
+    	     Copies of bills for genetic marker tests and for prenatal and postnatal health care of the mother and child, furnished to the adverse party at least ten days before trial, shall be admissible in evidence to prove the amount of the charges billed and that the charges were reasonable, necessary and customary. Nothing in this section shall be construed to limit the right of any party to the action or the IV-D agency to summon, at its own expense, a physician, agent of a hospital or other individual for the purpose of examination with respect to such bills or to rebut the contents thereof or for any other purpose to limit the right of a party or the IV-D agency to summon any other person to testify in respect to such bills or for any other purpose.
+        </section>
+        <section prefix="g">
+    	     All other evidence relevant to the issue of paternity of the child, custody of a child or support of a child shall also be admissible.
+        </section>
+        <section prefix="h">
+    	     In an action pursuant to this chapter where the rights to support of a party have been subrogated to the commonwealth pursuant to chapters 18, 119, or 118E, or Title IV, Parts A or E, or Title XIX of the Social Security Act, or any other public assistance program as required by federal or state law, the court shall proceed to establish orders pursuant to this chapter, notwithstanding the failure of the party to attend a hearing, upon a showing that written notice of the hearing was provided to the party by first class mail to the most recent residential address that the party has provided to the department of transitional assistance, the department of children and families or the division of medical assistance. For good cause shown, the court may set aside an entry of default and, if an order or judgment has been entered, may likewise set aside such order or judgment in accordance with rule 60(b) of the rules of domestic relations procedure.
+        </section>
+        <section prefix="i">
+    	     In an action pursuant to this chapter in a case receiving IV-D services, the court shall, upon good cause shown and upon verification of identity satisfactory to the court, permit a party to testify in an action pursuant to this chapter by telephone; and upon a showing that a party is incarcerated, permit the party to submit testimony by affidavit.
+        </section>
+    </text>
+</law>

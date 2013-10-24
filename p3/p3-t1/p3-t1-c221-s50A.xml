@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>50A</section_number>
+    <catch_line>Discharge Of State Or Political Subdivision From Liability For Attorney’S Lien</catch_line>
+    <order_by>50A</order_by>
+    <text>
+        Payment by the commonwealth or by any political subdivision thereof to a client in full or in settlement of any claim, counterclaim, cause of action, judgment, execution, order or decree shall discharge the commonwealth or such political subdivision from all liability on account of any attorney’s liens thereon or on the proceeds derived therefrom unless the state treasurer or the treasurer of such political subdivision, as the case may be, has received written notice from an attorney having a lien under section fifty that he claims such lien.
+    </text>
+</law>

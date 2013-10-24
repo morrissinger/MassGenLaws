@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>136</section_number>
+    <catch_line>Group Life Policies; Exemption From Loan Provision</catch_line>
+    <order_by>136</order_by>
+    <text>
+        Such policies shall be exempt from any loan provision or requirement. Any equity of the insured in a group life insurance policy at the time of default in the payment of a premium, whether that equity exists by reason of the terms of the policy or by law, shall be applied to purchase extended or paid-up insurance for each of the insured at attained age on the basis of the mortality table and rate of interest used in computing the premium for the group.
+    </text>
+</law>

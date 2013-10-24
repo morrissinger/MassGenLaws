@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>42A</section_number>
+    <catch_line>Commissioner Represented By Attorney General Or Designated Attorney</catch_line>
+    <order_by>42A</order_by>
+    <text>
+        In any action to enforce any provision of this chapter, or any criminal proceedings thereunder, the commissioner shall be represented by the attorney general, or by any attorney at law designated by the attorney general for such purpose.
+    </text>
+</law>

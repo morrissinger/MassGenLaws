@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161A" order_by="161A" level="3">Massachusetts Bay Transportation Authority</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Liability; Board Supervision Of Investigation, Settlement And Defense Of All Claims</catch_line>
+    <order_by>38</order_by>
+    <text>
+        The authority shall be liable for the acts and negligence of the directors on the board and of the servants and employees of the authority in the management and operation of the authority and of the properties owned, leased and operated by it, but the directors shall not be personally liable except for malfeasance in office. 
+The board shall have charge of and supervise the investigation, settlement and defense of all such claims and of all other suits or actions relating to the property or arising out of the construction, maintenance or operation of the authority.
+    </text>
+</law>

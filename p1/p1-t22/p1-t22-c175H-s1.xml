@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175H" order_by="175H" level="3">False Health Care Claims</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter the following words shall have the following meanings, unless the context otherwise requires:— 
+“False”, wholly or partially false, fictitious, fraudulent, untrue or deceptive. 
+“Health care benefit”, a payment for health care services or the right under a contract or a certificate or policy of insurance to have a payment made by a health care corporation or health care insurer for a specified health care service. 
+“Health care corporation”, a nonprofit hospital service corporation organized pursuant to chapter one hundred and seventy-six A, a nonprofit medical service corporation organized pursuant to chapter one hundred and seventy-six B, a medical service corporation organized pursuant to chapter one hundred and seventy-six C, a dental service corporation organized pursuant to chapter one hundred and seventy-six E, an optometric service plan organized pursuant to chapter one hundred and seventy-six F, and a health maintenance organization organized pursuant to chapter one hundred and seventy-six G. 
+“Health care insurer”, any insurance company authorized to provide health insurance in this state or any legal entity which is self-insured and providing health care benefits to its employees. 
+“Person”, an individual, corporation, partnership, association, or any other legal entity.
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.53</section_number>
+    <catch_line>Advance For Expenses</catch_line>
+    <order_by>8.53</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may, before final disposition of a proceeding, advance funds to pay for or reimburse the reasonable expenses incurred by a director who is a party to a proceeding because he is a director if he delivers to the corporation:
+        </section>
+        <section prefix="1">
+    	     a written affirmation of his good faith belief that he has met the relevant standard of conduct described in section 8.51 or that the proceeding involves conduct for which liability has been eliminated under a provision of the articles of organization as authorized by clause (4) of subsection (b) of section 2.02; and
+        </section>
+        <section prefix="2">
+    	     his written undertaking to repay any funds advanced if he is not entitled to mandatory indemnification under section 8.52 and it is ultimately determined under section 8.54 or section 8.55 that he has not met the relevant standard of conduct described in section 8.51.
+        </section>
+        <section prefix="b">
+    	     The undertaking required by clause (2) of subsection (a) must be an unlimited general obligation of the director but need not be secured and may be accepted without reference to the financial ability of the director to make repayment.
+        </section>
+        <section prefix="c">
+    	     Authorizations under this section shall be made:
+        </section>
+        <section prefix="1">
+    	     by the board of directors;
+        </section>
+        <section prefix="i">
+    	     if there are 2 or more disinterested directors, by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of two or more disinterested directors appointed by the vote; or
+        </section>
+        <section prefix="ii">
+    	     if there are fewer than 2 disinterested directors, by the vote necessary for action by the board in accordance with subsection (c) of section 8.24, in which authorization directors who do not qualify as disinterested directors may participate; or
+        </section>
+        <section prefix="2">
+    	     by the shareholders, but shares owned by or voted under the control of a director who at the time does not qualify as a disinterested director may not be voted on the authorization; or
+        </section>
+        <section prefix="3">
+    	     as otherwise permitted by law.
+        </section>
+    </text>
+</law>

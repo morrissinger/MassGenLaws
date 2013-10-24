@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>123A</section_number>
+    <catch_line>Insurable Interests Of Corporations</catch_line>
+    <order_by>123A</order_by>
+    <text>
+        <section prefix="1">
+    	     A corporation, foreign or domestic shall be deemed to have an insurable interest, including without limitation, in the life or physical or mental ability of: (i) any of its directors, officers, or employees or the directors, officers, or employees of any of its subsidiaries; (ii) any other person whose death or physical or mental disability might cause financial loss to the corporation; (iii) a shareholder pursuant to any contractual arrangement with said shareholder concerning the reacquisition of shares owned by him at the time of his death or disability or (iv) the principal obligor pursuant to a contract obligating the corporation as part of compensation arrangements or pursuant to a contract obligating the corporation as guarantor or surety. The trustee of a trust established by a corporation for the sole benefit of the corporation shall have the same insurable interest in the life or physical or mental ability of any person as does the corporation. The trustee of a trust established by a corporation providing life, health, disability, retirement, or similar benefits to employees of the corporation or its subsidiaries and acting in a fiduciary capacity with respect to such employees, retired employees or their dependents or beneficiaries shall have an insurable interest in the lives of employees or retired employees for whom such benefits are to be provided.
+        </section>
+        <section prefix="2">
+    	     A charitable institution as defined under section 501 (c)(3), (c)(6), (c)(8), and (c)(9) of the Internal Revenue Code shall be deemed to have an insurable interest, without limitation, in the life of any donor.
+        </section>
+    </text>
+</law>

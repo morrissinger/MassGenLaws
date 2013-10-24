@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>129</section_number>
+    <catch_line>Policies; Description</catch_line>
+    <order_by>129</order_by>
+    <text>
+        No life company and no officer or agent thereof shall issue a policy of life or endowment insurance or an annuity or pure endowment policy to a resident of the commonwealth not bearing in bold letters upon its face a plain description of the policy, so fully defining its character, including dividend periods and other peculiarities, that the holder thereof shall not be likely to mistake the nature or scope of the contract.
+    </text>
+</law>

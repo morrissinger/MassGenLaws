@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Actions And Proceedings; Injunctions; Penalties</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever the commissioner has reason to believe that any person is in violation of any provision of this chapter, and that proceedings would be in the public interest, the commissioner may request the attorney general to bring an action in the name of the commonwealth against such person to restrain the violation by temporary restraining order or preliminary or permanent injunction. The action may be brought in the superior court of the county in which such person resides or has his principal place of business, or the action may be brought in the superior court of Suffolk county with the consent of the parties or if the person has no place of business within the commonwealth. Said court may issue temporary restraining orders or preliminary or permanent injunctions.
+        </section>
+        <section prefix="b">
+    	     Any person who violates the terms of an injunction or other order issued under this section shall forfeit and pay to the commonwealth a civil penalty of not more than ten thousand dollars for each violation. For the purposes of this section, the court issuing such injunction or order shall retain jurisdiction, and the cause shall be continued, and in such case the attorney general acting in the name of the commonwealth may petition for recovery of such civil penalty.
+        </section>
+        <section prefix="c">
+    	     In any case where the commissioner has authority to request that the attorney general institute an action or proceedings under this section, in lieu thereof the commissioner may accept an assurance of discontinuance of any method, act or practice in violation of this chapter from any person alleged to be engaged or to have been engaged in such method, act or practice. Any such assurance of discontinuance shall be in writing and be filed with the superior court of Suffolk county.
+        </section>
+        <section prefix="d">
+    	     The commissioner may issue a cease and desist order upon a finding that a person is utilizing an electronic branch in a manner not specifically authorized by this chapter.
+        </section>
+    </text>
+</law>

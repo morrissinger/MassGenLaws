@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159B" order_by="159B" level="3">Carriers Of Property By Motor Vehicle</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Exempt Vehicles</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Motor vehicles owned by the commonwealth or any of its political subdivisions and motor vehicles engaged in the transportation of non-hazardous waste materials shall be subject to section eighteen, but shall be exempt from all other provisions of this chapter. Motor vehicles while engaged exclusively in the delivery of the United States mail or any other work directly under the United States shall be exempt from all provisions of this chapter except section eighteen, but shall be subject to said section so far as may be permissible under the constitution and laws of the United States.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Liability Of Owners; Actions Involving Owners, Developers, Or Associations; Tolling Of Limitations; Judgments Against Associations</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="a">
+    	     A time-share owner shall be personally liable for his acts and omissions and those of his employees and agents other than the managing entity.
+        </section>
+        <section prefix="b">
+    	     An action shall not be maintained against a time-share owner, nor shall a time-share owner be precluded from maintaining an action, solely because he owns a time-share or is an officer, director, or member of the association.
+        </section>
+        <section prefix="c">
+    	     An action in tort alleging a wrong done by a developer, a managing entity selected by the developer or his appointees, or an agent or employee of either, in connection with any portion of the property which the developer or the managing entity has the responsibility to maintain, shall not be maintained against the association or any other time-share owner other than the developer. Other actions in tort alleging a wrong done by an association or by an agent or employee of the association or an action arising from a contract made by or on behalf of the association shall be maintained only against the association. If the tort or breach of contract occurred during any period of developer control, the developer shall be subject to liability for all unreimbursed losses suffered by the association or time-share owners as a result, including costs and reasonable attorney’s fees. The operation of any statute of limitations affecting the right of action of the association or time-share owners under this section shall be tolled until the period of developer control terminates. A time-share owner shall not be precluded from maintaining an action contemplated by this subsection because he is a time-share owner or a member or officer of the association.
+        </section>
+        <section prefix="d">
+    	     A judgment for money against an association, if recorded in the registry of deeds or land registration office for the district in which the time-share property is located, shall be a lien against all of the time-shares, but no other property of a time-share owner shall be subject to the claims of creditors of the association.
+        </section>
+        <section prefix="e">
+    	     A judgment against the association shall be indexed in the name of the association.
+        </section>
+    </text>
+</law>

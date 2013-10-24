@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175C" order_by="175C" level="3">Urban Area Insurance Placement</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Assessment Of Insurance Companies For Operating Expenses</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to carry out the purpose of this chapter the commissioner is authorized to assess each insurance company an amount in the proportion that the premiums earned in the commonwealth during the preceding calendar year by each such company in those lines of insurance which are eligible for reinsurance by the Secretary of the United States Department of Housing and Urban Development in the commonwealth during the current calendar year bear to the aggregate premiums earned in the commonwealth during such preceding calendar year by all such companies on such lines, sufficient to provide a fund to reimburse said secretary pursuant to the provisions of section 1223(a)(1) of the Federal Urban Property Protection and Reinsurance Act of 1968. Such assessment shall be made by the commissioner only after receipt and verification by him of a claim from said secretary and shall be due and payable to the commissioner on and after the forty-fifth day following the receipt by the commissioner of a claim from said secretary.
+        </section>
+        <section prefix="b">
+    	     Insurers may add to the premium rate applicable to such lines of insurance on policies issued to be effective after the date of such assessment an amount, to be approved by the commissioner, sufficient to recover within not more than three years any amounts assessed under subsection (a) of this section during the preceding calendar year plus costs and expenses reasonably attributable to such assessment and recovery.
+        </section>
+    </text>
+</law>

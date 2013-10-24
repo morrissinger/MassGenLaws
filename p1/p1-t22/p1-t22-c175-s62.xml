@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Liability Of Officers   </catch_line>
+    <order_by>62</order_by>
+    <text>
+        The directors or other officers of such a company making or authorizing an investment or loan in violation of sections sixty-three, sixty-five or sixty-six shall be personally liable to the stockholders for any loss caused thereby.
+If they allow to be insured on a single risk a larger amount than authorized by section twenty-one, they shall be personally liable for any loss in excess of the amount to which they might lawfully insure.
+If they make or assent to further insurance knowing that the accrued losses of the company equal its net assets, they shall be personally liable for any loss under such insurance.
+    </text>
+</law>

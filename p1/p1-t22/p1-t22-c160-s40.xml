@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Collection Of Assessment</catch_line>
+    <order_by>40</order_by>
+    <text>
+        If a subscriber neglects to pay his assessment for thirty days as provided in the preceding section, the directors may elect to proceed at law against said delinquent subscriber to recover all amounts due and payable by him with interest. If a judgment rendered in an action against a subscriber remains unsatisfied for thirty days, all amounts previously paid by him shall be forfeited to the company and the directors may offer such shares for sale as provided in said section.
+    </text>
+</law>

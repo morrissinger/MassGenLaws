@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Judgment Or Temporary Order Of Support; Enforcement</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="1">
+    	     contempt in accordance with sections thirty-four and thirty-four A of chapter two hundred and fifteen;
+        </section>
+        <section prefix="2">
+    	     execution of the judgment;
+        </section>
+        <section prefix="3">
+    	     attachment of or lien against property;
+        </section>
+        <section prefix="4">
+    	     trustee process, in accordance with the provisions of chapter two hundred and forty-six;
+        </section>
+        <section prefix="5">
+    	     equitable actions to reach and apply for the enforcement of judgments; and
+        </section>
+        <section prefix="6">
+    	     any other civil remedy available for the enforcement of judgments or for the enforcement of support or custody orders entered under chapter two hundred and eight, and two hundred and nine, or received, entered or registered pursuant to chapter two hundred and nine D, including any remedy available under chapter 119A.
+        </section>
+    </text>
+</law>

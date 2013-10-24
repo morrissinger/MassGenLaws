@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.05</section_number>
+    <catch_line>Notice Of Meeting</catch_line>
+    <order_by>7.05</order_by>
+    <text>
+        <section prefix="a">
+    	     A written notice of the date, time, and place of each annual and special shareholders’ meeting describing the purposes of the meeting shall be given to shareholders no fewer than 7 nor more than 60 days before the meeting date. Unless this chapter or the articles of organization require otherwise, the corporation is required to give notice only to shareholders entitled to vote at the meeting.
+        </section>
+        <section prefix="b">
+    	     Unless the bylaws require otherwise, if an annual or special meeting of shareholders is adjourned to a different date, time or place, notice need not be given of the new date, time or place if the new date, time or place, if any, is announced at the meeting before adjournment. If a new record date for the adjourned meeting is or shall be fixed under section 7.07, however, notice of the adjourned meeting shall be given under this section to persons who are shareholders as of the new record date.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>3B</section_number>
+    <catch_line>Group Medical Service Agreements; Contribution Percentages</catch_line>
+    <order_by>3B</order_by>
+    <text>
+        A medical service corporation organized under this chapter may only enter into a group medical service agreement with an employer if the group medical service agreement is offered by that employer to all full-time employees who live in the commonwealth; provided, however, the employer shall not make a smaller health insurance premium contribution percentage amount to an employee than the employer makes to any other employee who receives an equal or greater total hourly or annual salary for each specific or general blanket policy of insurance for all employees. Notwithstanding the foregoing, a carrier may enter into a group medical service agreement with an employer that establishes separate contribution percentages for employees covered by collective bargaining agreements.
+    </text>
+</law>

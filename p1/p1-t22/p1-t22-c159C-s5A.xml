@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159C" order_by="159C" level="3">Telemarketing Solicitation</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Disclosures By Telephone Solicitors; Information Provided To Consumers Prior To Payment</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="a">
+    	     A telephone solicitor shall disclose all of the following information within the first minute of a telephonic sales call and before requesting, accepting or arranging for payment by a consumer: (i) that the purpose of the telephone call is to make a sale or solicit funds; (ii) the correct name of the telemarketing company that employs the individual telemarketer who is making the call; (iii) the correct name of the ultimate seller whose goods or services are being offered by means of the telemarketing call; and (iv) a complete and accurate description of the goods or services being offered including, but not limited to, the retail market value of the goods or services.
+        </section>
+        <section prefix="b">
+    	     The telemarketer shall provide all of the following information before requesting, accepting or arranging for payment by a consumer: (i) the cost to the consumer of the goods or services that are the subject of the telemarketing sales call including, but not limited to, any applicable tax, shipping and handling fees; (ii) any restrictions, limitations or conditions attached to purchasing the goods or services; (iii) the complete terms of any applicable refund, return, cancellation, exchange or repurchase policies; (iv) any material aspect of an investment opportunity being offered including, but not limited to, the price of the land or other investment, the location of the investment and the fact that an investor may lose some or all of their original investment.
+        </section>
+    </text>
+</law>

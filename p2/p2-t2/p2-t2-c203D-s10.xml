@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Character Of Receipts</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, a trustee shall allocate to income money received from an entity.
+        </section>
+        <section prefix="b">
+    	     A trustee shall allocate the following receipts from an entity to principal:
+        </section>
+        <section prefix="1">
+    	     property other than money;
+        </section>
+        <section prefix="2">
+    	     money received in one distribution or a series of related distributions in exchange for part or all of a trust’s interest in the entity;
+        </section>
+        <section prefix="3">
+    	     money received in total or partial liquidation of the entity; and
+        </section>
+        <section prefix="4">
+    	     money received from an entity that is a regulated investment company or a real estate investment trust if the money distributed is a capital gain dividend for federal income tax purposes.
+        </section>
+        <section prefix="c">
+    	     A trustee may rely upon a statement made by an entity about the source or character of a distribution if the statement is made at or near the time of distribution by the entity’s board of directors or other person or group of persons authorized to exercise powers to pay money or transfer property comparable to those of a corporation’s board of directors.
+        </section>
+    </text>
+</law>

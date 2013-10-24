@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258B" order_by="258B" level="3">Rights Of Victims And Witnesses Of Crime</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Victim And Witness Assistance Board</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     have printed and shall make available to social service agencies, medical facilities, and law enforcement agencies, cards, posters, brochures or other materials explaining the victim and witness rights and services established under this chapter;
+        </section>
+        <section prefix="b">
+    	     assist hospitals, clinics and other medical facilities, whether public or private, in disseminating information giving notice of the rights established under this chapter. This assistance may include providing informational materials including posters suitable to be displayed in emergency and waiting rooms;
+        </section>
+        <section prefix="c">
+    	     assist law enforcement agencies in familiarizing all of their officers and employees with the crime victims’ rights as provided under this chapter. This assistance may include supplying informational literature on this subject to be utilized as part of the training curriculum for all trainee officers; and
+        </section>
+        <section prefix="d">
+    	     assist all local law enforcement agencies in establishing procedures whereby expedient notification is given to victims and witnesses, as defined under this chapter, of the rights provided under this chapter. In municipalities which do not have a local law enforcement agency, the board shall establish procedures whereby it, in cooperation with the state police, shall give notice to victims of crimes as provided in this section.
+        </section>
+    </text>
+</law>

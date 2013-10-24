@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>By Laws; Mandatory Provisions</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     The method of providing for the necessary work of maintenance, repair and replacement of the common areas and facilities and payments therefor, including the method of approving payment vouchers.
+        </section>
+        <section prefix="b">
+    	     The manner of collecting from the unit owners their share of the common expenses.
+        </section>
+        <section prefix="c">
+    	     The procedure for hiring all personnel, including whether or not a manager or managing agent may be engaged.
+        </section>
+        <section prefix="d">
+    	     The method of adopting and of amending administrative rules and regulations governing the details of the operation and use of the common areas and facilities.
+        </section>
+        <section prefix="e">
+    	     Such restrictions on and requirements respecting the use and maintenance of the units and the use of the common areas and facilities, not set forth in the master deed, as are designed to prevent unreasonable interference with the use of their respective units and of the common areas and facilities by the several unit owners.
+        </section>
+    </text>
+</law>

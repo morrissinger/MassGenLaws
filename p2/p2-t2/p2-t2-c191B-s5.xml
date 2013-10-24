@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Share Of Spouse</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The share of a surviving spouse shall be:
+        </section>
+        <section prefix="1">
+    	     If there is no surviving issue, the entire statutory will estate; or
+        </section>
+        <section prefix="2">
+    	     If there is a surviving issue,
+        </section>
+        <section prefix="i">
+    	     subject to any lien or encumbrance, the testator’s residence and tangible personal property, except personal property held primarily for investment or for a commercial, agricultural, or other business purpose;
+        </section>
+        <section prefix="ii">
+    	     the greater of three hundred thousand dollars, or one-half of the balance of the statutory will estate; and
+        </section>
+        <section prefix="iii">
+    	     subject to the provisions of subsection (b), an interest in the remaining portion of the statutory will estate, including any property that would pass under the provisions of subclauses (i) or (ii) of this subsection but disclaimed by the surviving spouse, in a trust upon the terms set forth in section six.
+        </section>
+        <section prefix="b">
+    	     If the personal representative, other than the surviving spouse, determines that the trust under section six would be uneconomical, the entire statutory will estate shall pass to the surviving spouse.
+        </section>
+    </text>
+</law>

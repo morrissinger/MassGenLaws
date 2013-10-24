@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Bonds; Savings Banks As Trustees</catch_line>
+    <order_by>31</order_by>
+    <text>
+        If a savings bank is charged as trustee, and the court finds that the answer creates a doubt as to the identity of the defendant, it may require the plaintiff to give bond, with surety approved by the court, conditioned to indemnify such bank from any loss by reason of payment by it pursuant to the court’s order.
+    </text>
+</law>

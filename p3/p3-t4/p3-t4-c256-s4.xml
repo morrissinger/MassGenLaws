@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="256" order_by="256" level="3">Recognizances For Debts</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Execution; Conditions Precedent</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Before such execution issues, the original recognizance shall be filed with the clerk, who shall compute the amount, deducting any payments endorsed, and shall issue an execution therefor in common form except that it shall recite the recognizance and state the amount then due. Such execution may be issued by the clerk without a special order of the court.
+    </text>
+</law>

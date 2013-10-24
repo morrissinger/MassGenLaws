@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>65E</section_number>
+    <catch_line>Powers Of Credit Unions</catch_line>
+    <order_by>65E</order_by>
+    <text>
+        <section prefix="1">
+    	     to discount, buy, invest in, hold, assign, transfer, sell and negotiate promissory notes, drafts, bills of exchange, mortgages, bonds, debentures, bonds or notes secured by mortgages, installment obligations and other evidences of debt;
+        </section>
+        <section prefix="2">
+    	     to advance money or credits on real estate, on improvements thereto or on personal security, on terms to be agreed upon; and
+        </section>
+        <section prefix="3">
+    	     to buy, sell or make loans as participation loans with any other federally-insured credit union, bank or insurance company and to service any loans sold by it.
+        </section>
+    </text>
+</law>

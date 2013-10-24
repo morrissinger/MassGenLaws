@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="271" order_by="271" level="3">Crimes Against Public Policy</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>“House”, “Building” And “Place” Including Ship Or Vessel</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        The words “house”, “building” and “place” used severally or together in this chapter shall mean and include a ship or vessel when it is within the territorial limits of the commonwealth.
+    </text>
+</law>

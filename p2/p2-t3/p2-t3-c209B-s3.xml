@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Affidavits; Contents; Amendment; Examination Under Oath;  Disclosure Of Addresses</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Every party in any custody proceeding shall state in an affidavit which shall be filed together with his first pleading the following information:—
+        </section>
+        <section prefix="1">
+    	     the child’s present address of residence;
+        </section>
+        <section prefix="2">
+    	     each address at which the child has resided during the two years immediately prior to the filing of the instant custody proceeding;
+        </section>
+        <section prefix="3">
+    	     the names and, if known, the current residential addresses or, if unknown, the last and usual residential addresses, of all persons who have been parties to any custody proceedings involving the child during the said two-year period, other than any person whose rights have been terminated in any parental rights termination proceeding, and any other persons who, according to the knowledge and belief of the affiant, claim a legal right to the custody or physical possession of the child; and
+        </section>
+        <section prefix="4">
+    	     whether or not the party knows of or has participated in any prior custody proceeding involving the child in the commonwealth or in any other jurisdiction and the nature of his participation, as party, witness, or in any other capacity, in such prior proceeding.
+        </section>
+        <section prefix="b">
+    	     Unless the same have already been filed by another party, every party in any custody proceeding shall attach to the affidavit a certified copy of each pleading and of any determination entered in any custody proceeding he knows of or has participated in involving the child in the commonwealth or in any other jurisdiction.
+        </section>
+        <section prefix="c">
+    	     The court may examine any one or more of the parties under oath concerning the information required to be furnished under this section and concerning other matters pertinent to any jurisdictional or other issues before the court.
+        </section>
+        <section prefix="d">
+    	     Each party shall amend the affidavit at any time after filing to inform the court of any custody proceeding filed in any jurisdiction after the date of filing of the instant custody proceeding of which the affiant becomes aware after filing the affidavit and shall further amend the affidavit to include the names and addresses, in conformity with paragraph (3) of subsection (a), of any person of whom the affiant becomes aware after filing the affidavit who claims a legal right to the custody or physical possession of the child.
+        </section>
+        <section prefix="e">
+    	     Notwithstanding the provisions of this section, a court may waive disclosure of the present or prior address of the child or of a contestant when such waiver is necessary to protect the child or the contestant from physical or emotional abuse. Application for an order waiving disclosure under this paragraph shall be made upon such notice as the court shall prescribe. The court shall waive disclosure whenever the present or prior address of the child or of a contestant is a shelter for battered persons and their dependent children. The reasons for waiver of any disclosure requirement of this section shall be stated by the court in the record of the custody proceeding.
+        </section>
+        <section prefix="f">
+    	     The court may impose sanctions against any party who fails to act in conformity with this section without leave of court granted for good cause shown.
+        </section>
+    </text>
+</law>

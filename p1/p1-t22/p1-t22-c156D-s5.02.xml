@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>5.02</section_number>
+    <catch_line>Change Of Registered Office Or Registered Agent</catch_line>
+    <order_by>5.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may change its registered office or registered agent by delivering to the secretary of state for filing a statement of change that sets forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the street address of its current registered office;
+        </section>
+        <section prefix="3">
+    	     if the current registered office is to be changed, the street address of the new registered office;
+        </section>
+        <section prefix="4">
+    	     the name of its current registered agent;
+        </section>
+        <section prefix="5">
+    	     if the current registered agent is to be changed, the name of the new registered agent and the new agent’s written consent, either on the statement or attached to it, to the appointment; and
+        </section>
+        <section prefix="6">
+    	     that after the change or changes are made, the street addresses of its registered office and the business office of its registered agent will be identical.
+        </section>
+        <section prefix="b">
+    	     If a registered agent changes the street address of his business office, he may change the street address of the registered office of any corporation for which he is the registered agent by notifying the corporation in writing of the change and signing, either manually or in facsimile, and delivering to the state secretary for filing a statement of change that complies with the requirements of subsection (a) and recites that the corporation has been notified of the change. If the street addresses of more than one corporation are being changed at the same time, there may be included in a single statement the names of all corporations the street addresses of the registered office of which are being changed.
+        </section>
+    </text>
+</law>

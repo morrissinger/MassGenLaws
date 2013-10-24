@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>4S</section_number>
+    <catch_line>Coverage For Prosthetic Devices And Repairs</catch_line>
+    <order_by>4S</order_by>
+    <text>
+        <section prefix="a">
+    	     Individual and group health maintenance contracts shall provide coverage for prosthetic devices and repairs. If prosthetic devices are covered as a durable medical equipment benefit, coverage shall be provided under the same terms and conditions that apply to other durable medical equipment covered under the contracts, except as otherwise provided in this section. If prosthetic devices are covered as a stand-alone prosthetic benefit, coverage shall be consistent with the terms and conditions as described in this section.
+        </section>
+        <section prefix="b">
+    	     In this section, “prosthetic device” shall mean an artificial limb device to replace, in whole or in part, an arm or leg.
+        </section>
+        <section prefix="c">
+    	     A health maintenance contract shall not impose any annual or lifetime dollar maximum on coverage for prosthetic devices other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services covered under the contract.
+        </section>
+        <section prefix="d">
+    	     A health maintenance contract shall not apply amounts paid for prosthetic devices to any annual or lifetime dollar maximum applicable to other durable medical equipment covered under the contract other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services covered under the contract.
+        </section>
+        <section prefix="e">
+    	     A health maintenance contract may include a reasonable coinsurance requirement for prosthetic devices and repairs, not to exceed 20 per cent of the allowable cost of the prosthetic device or repair, unless all covered benefits applying coinsurance under the plan do so at a higher amount. If the health maintenance contract provides coverage for services from nonparticipating providers, the contract may include a reasonable coinsurance requirement for prosthetic devices and repairs, not to exceed 40 per cent of the allowable cost of the prosthetic device or repair when obtained from a nonparticipating provider, unless all covered benefits applying coinsurance under the plan do so at a higher amount.
+        </section>
+        <section prefix="f">
+    	     A health maintenance contract may require prior authorization as a condition of coverage for prosthetic devices.
+        </section>
+        <section prefix="g">
+    	     A health maintenance contract shall only be required to provide coverage for the most appropriate medically necessary model that adequately meets the medical needs of the policyholder.
+        </section>
+    </text>
+</law>

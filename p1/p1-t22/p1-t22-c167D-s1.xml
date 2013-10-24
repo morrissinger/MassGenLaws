@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167D" order_by="167D" level="3">Deposits And Accounts</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        In this chapter, unless the context otherwise requires, the following words shall have the following meanings:— 
+“Bank”, a savings bank, co-operative bank or trust company incorporated as such in the commonwealth. 
+“Board”, the board of trustees in a savings bank, the board of directors in a co-operative bank and the board of directors in a trust company. 
+“Commissioner”, the commissioner of banks. 
+“Federally-chartered bank”, a national bank association, a federal savings and loan association, a federal savings bank or a federal credit union authorized to do business in the commonwealth.
+    </text>
+</law>

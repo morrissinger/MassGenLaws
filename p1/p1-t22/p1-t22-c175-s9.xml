@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Computation Of Reserves; Life Companies</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in paragraph (b) and subdivision 2A, the minimum standard of valuation shall be the commissioners reserve valuation methods, as defined in subdivisions 3, 3A and 6, interest at five per cent per annum for group annuity and pure endowment contracts and three and one-half per cent per annum for all other policies, and contracts or in the case of policies and contracts, other than annuity and pure endowment contracts, issued on or after March sixth, nineteen hundred and seventy-four, interest at four per cent per annum for such policies issued prior to December first, nineteen hundred and seventy-nine and interest at four and one-half per cent per annum for policies issued on or after December first, nineteen hundred and seventy-nine, and tables of mortality hereinafter specified.
+        </section>
+        <section prefix="b">
+    	     Except as provided in subdivision 2A, the minimum standard for the valuation of all individual annuity and pure endowment contracts issued on or after January first, nineteen hundred and seventy-nine, and for all annuities and pure endowments purchased on or after such date under group annuity and pure endowment contracts, shall be the Commissioner’s Reserve Valuation Methods, as defined in subdivisions 3 and 3A, and the tables of mortality and interest rates hereinafter specified; provided, however, that for any contract issued on or after January 1, 2009, a mortality table shall only be applied to an individual or group annuity or pure endowment contract on a gender-neutral or gender-blended so-called basis in accordance with regulations promulgated by the commissioner.
+        </section>
+        <section prefix="1">
+    	     all life insurance policies issued in a particular calendar year, on or after the operative date of subdivision 6A of section one hundred and forty-four,
+        </section>
+        <section prefix="2">
+    	     all individual annuity and pure endowment contracts issued in a particular calendar year on or after January first, nineteen hundred and eighty-three,
+        </section>
+        <section prefix="3">
+    	     all annuities and pure endowments purchased in a particular calendar year on or after January first, nineteen hundred and eighty-three under group annuity and pure endowment contracts, and
+        </section>
+        <section prefix="4">
+    	     the net increase, if any, in a particular calendar year after January first, nineteen hundred and eighty-three, in amounts held under guaranteed interest contracts shall be the calendar year statutory valuation interest rates as defined in this subdivision.
+        </section>
+        <section prefix="b">
+    	     The calendar year statutory valuation interest rates, I, shall be determined as follows and the results rounded to the nearer one-quarter of one per cent:
+        </section>
+        <section prefix="1">
+    	     for life insurance,
+        </section>
+        <section prefix="2">
+    	     For single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options,    I =.03 + W (R -.03)
+        </section>
+        <section prefix="3">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on an issue year basis, except as stated in clause (2), the formula for life insurance stated in clause (1) shall apply to annuities and guaranteed interest contracts with guarantee durations in excess of ten years and the formula for single premium immediate annuities stated in clause (2) shall apply to annuities and guaranteed interest contracts with guarantee duration of ten years or less,
+        </section>
+        <section prefix="4">
+    	     For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the formula for single premium immediate annuities stated in clause (2) shall apply.
+        </section>
+        <section prefix="5">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a change in fund basis, the formula for single premium immediate annuities stated in clause (2) shall apply.
+        </section>
+        <section prefix="c">
+    	     The weighting factors referred to in the formulas stated above are given in the following tables:
+        </section>
+        <section prefix="1">
+    	     Weighting Factors for Life Insurance:
+        </section>
+        <section prefix="2">
+    	     Weighting factor for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and guaranteed interest contracts with cash settlement options:
+        </section>
+        <section prefix="3">
+    	     Weighting factors for other annuities and for guaranteed interest contracts, except as stated in clause (2), shall be as specified in tables (i), (ii), and (iii), according the rules and definitions in (iv), (v) and (vi):
+        </section>
+        <section prefix="i">
+    	     For annuities and guaranteed interest contracts valued on an issue year basis: ..........
+        </section>
+        <section prefix="iii">
+    	     For annuities and guaranteed interest con-   tracts valued on an issue year basis other than those with no cash settlement options, which do not guarantee interest on considerations received more than one year after issue or purchase and for annuities and guaranteed interest contracts valued on a change in fund basis which do not guarantee interest rates on considerations received more than twelve months beyond the valuation date, the fac-tors shown in (i) or derived in (ii) increased by:                         .05.05.05
+        </section>
+        <section prefix="iv">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, the guarantee duration is the number of years for which the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of twenty years. For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the guarantee duration is the number of years from the date of issue or date of purchase to the date annuity benefits are scheduled to commence.
+        </section>
+        <section prefix="v">
+    	     Plan type as used in the above tables is defined as follows:
+        </section>
+        <section prefix="vi">
+    	     A company may elect to value guaranteed interest contracts with cash settlement options and annuities with cash settlement options on either an issue year basis or on a change in fund basis. Guaranteed interest contracts with no cash settlement options and other annuities with no cash settlement options must be valued on an issue year basis. As used in this subdivision, an issue year basis of valuation refers to a valuation basis under which the interest rate used to determine the minimum valuation standard for the entire duration of the annuity or guaranteed interest contract is the calendar year valuation interest rate for the year of issue or year of purchase of the annuity or guaranteed interest contract, and the change in fund basis of valuation refers to a valuation basis under which the interest rate used to determine the minimum valuation standard applicable to each change in the fund held under the annuity or guaranteed interest contract is the calendar year valuation interest rate for the year of the change in the fund.
+        </section>
+        <section prefix="d">
+    	     The Reference Interest Rate referred to in paragraph (b) of this subdivision shall be defined as follows:
+        </section>
+        <section prefix="1">
+    	     For all life insurance, the lesser of the average over a period of thirty-six months and the average over a period of twelve months, ending on June thirtieth of the calendar year next preceding the year of issue, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="2">
+    	     For single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, the average over a period of twelve months, ending on June thirtieth of the calendar year of issue or year of purchase, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="3">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a year of issue basis, except as stated in paragraph (2), with guarantee duration in excess of ten years, the lesser of the average over a period of thirty-six months and the average over a period of twelve months, ending on June thirtieth of the calendar year of issue or purchase, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="4">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a year of issue basis, except as stated in paragraph (2), with guarantee duration of ten years or less, the average over a period of twelve months, ending on June thirtieth of the calendar year of issue or purchase, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="5">
+    	     For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the average over a period of twelve months, ending on June thirtieth of the calendar year of issue or purchase, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="6">
+    	     For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a change in fund basis, except as stated in paragraph (2), the average over a period of twelve months, ending on June thirtieth of the calendar year of the change in the fund, of Moody’s Corporate Bond Yield Average—Monthly Average Corporates, as published by Moody’s Investors Service, Inc.
+        </section>
+        <section prefix="e">
+    	     In the event that Moody’s Corporate Bond Yield Average—Monthly Average Corporates is no longer published by Moody’s Investors Service, Inc., or in the event that the National Association of Insurance Commissioners determines that Moody’s Corporate Bond Yield Average—Monthly Average Corporates as published by Moody’s Investors Service, Inc. is no longer appropriate for the determination of the reference interest rate, then an alternative method for determination of the reference interest rate, which is adopted by the National Association of Insurance Commissioners and approved by regulation promulgated by the commissioner, may be substituted.
+        </section>
+        <section prefix="a">
+    	     a net level annual premium equal to the present value, at the date of issue, of such benefits provided for after the first policy year, divided by the present value, at the date of issue, of an annuity of one per annum payable on the first and each subsequent anniversary of such policy on which a premium falls due; provided, that such net level annual premium shall not exceed the net level annual premium on the nineteen year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of such policy, over.
+        </section>
+        <section prefix="b">
+    	     a net one year term premium for such benefits provided for in the first policy year.
+        </section>
+        <section prefix="a">
+    	     be appropriate in relation to the benefits and the pattern of premiums for that plan, and
+        </section>
+        <section prefix="b">
+    	     be computed by a method which is consistent with the principles of this Standard Valuation Law, as determined by regulations promulgated by the commissioner.
+        </section>
+    </text>
+</law>

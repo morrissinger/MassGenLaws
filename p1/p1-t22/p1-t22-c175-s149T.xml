@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>149T</section_number>
+    <catch_line>Receipt Of Premiums For Reimbursement Insurance Policy; Insurer Right To Indemnification Or Subrogation</catch_line>
+    <order_by>149T</order_by>
+    <text>
+        <section prefix="a">
+    	     An insurer issuing reimbursement insurance to providers shall be considered to have received the premiums for such insurance upon the payment of provider fees by consumers for service contracts issued by such insured providers.
+        </section>
+        <section prefix="b">
+    	     Sections 149M to 149W, inclusive, shall not prevent or limit the right of an insurer which issued a reimbursement insurance policy to seek indemnification or subrogation against a provider if the insurer pays or is obligated to pay the service contract holder sums that the provider was obligated to pay under the service contract.
+        </section>
+    </text>
+</law>

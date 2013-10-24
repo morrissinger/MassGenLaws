@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Investigations</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall have power to examine and investigate into the affairs of every insurance institution or insurance representative doing business in the commonwealth to determine whether such insurance institution or insurance representative has been or is engaged in any conduct in violation of this chapter.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall have the power to examine and investigate into the affairs of every insurance-support organization acting on behalf of an insurance institution or insurance representative which either transacts business in the commonwealth or transacts business outside the commonwealth that has an effect on a person residing in the commonwealth in order to determine whether such insurance-support organization has been or is engaged in any conduct in violation of this chapter.
+        </section>
+    </text>
+</law>

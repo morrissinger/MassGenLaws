@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Subsequent Service</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A person attending and serving as a juror in any court in pursuance of a draft shall not be liable to be drawn or to so serve again within three years after the termination of such service, except in Nantucket and Dukes counties, in which he shall be so liable once in every two years.
+    </text>
+</law>

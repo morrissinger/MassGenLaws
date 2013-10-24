@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="266" order_by="266" level="3">Crimes Against Property</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Larceny; False Pretences Relating To Contracts, Banking Transactions Or Credit</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="1">
+    	     Whoever, with intent to defraud, obtains by a false pretence the making, acceptance or endorsement of a bill of exchange or promissory note, the release or substitution of collateral or other security, an extension of time for the payment of an obligation, or the release or alteration of the obligation of a written contract, or (2) whoever, with intent to defraud, by a false statement in writing respecting the financial condition, or means or ability to pay, of himself or of any other person, obtains for himself or for any other person credit from any bank or trust company or any banking institution or any mortgage lender, as defined in section 1 of chapter 255E, or any retail seller of goods or services accustomed to give credit in any form whatsoever shall be guilty of larceny.
+        </section>
+    </text>
+</law>

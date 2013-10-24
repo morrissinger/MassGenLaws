@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.03</section_number>
+    <catch_line>Number And Election Of Directors</catch_line>
+    <order_by>8.03</order_by>
+    <text>
+        <section prefix="a">
+    	     A board of directors shall consist of 1 or more individuals, with the number specified in or fixed in accordance with the articles of organization or bylaws, but, unless otherwise provided in the articles of organization, if the corporation has more than 1 shareholder, the number of directors shall not be less than 3, except that whenever there shall be only 2 shareholders, the number of directors shall not be less than 2.
+        </section>
+        <section prefix="b">
+    	     If a board of directors has power to fix or change the number of directors, the board may increase or decrease the number of directors last approved by the shareholders.
+        </section>
+        <section prefix="c">
+    	     The articles of organization or bylaws may establish a variable range for the size of the board of directors by fixing a minimum and maximum number of directors. If a variable range is established, the number of directors may be fixed or changed from time to time, within the minimum and maximum, by the shareholders or the board of directors. After shares are issued, only the shareholders may change the range for the size of the board or change from a fixed or a variable-range size board to the other.
+        </section>
+        <section prefix="d">
+    	     Directors shall be elected at the first annual shareholders’ meeting and at each annual meeting thereafter unless their terms are staggered under section 8.06.
+        </section>
+    </text>
+</law>

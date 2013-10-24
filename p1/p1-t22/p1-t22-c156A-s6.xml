@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Shareholder Liability; Professional Relationship; Privileged Communications</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided by law or regulation, the personal liability of a shareholder of a professional corporation organized under this chapter shall be no greater in any respect than that of a shareholder of a corporation organized under chapter 156D.
+        </section>
+        <section prefix="b">
+    	     This chapter shall not alter any law applicable to the relationship between a person rendering professional services and a person receiving such services, including liability arising out of such professional services.
+        </section>
+        <section prefix="c">
+    	     Any privilege applicable to communications between a person rendering professional services and the person receiving such services shall extend to communications between a professional corporation or its employees rendering professional services and the person receiving such services.
+        </section>
+    </text>
+</law>

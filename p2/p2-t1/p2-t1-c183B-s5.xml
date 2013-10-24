@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Unconscionable Contracts</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The court, upon finding as a matter of law that a time-share contract or contract clause was unconscionable at the time the contract was made, may refuse to enforce such contract, may enforce the remainder of the contract without the unconscionable clause, or may limit the application of any such unconscionable clause in order to avoid an unconscionable result.
+        </section>
+        <section prefix="b">
+    	     Whenever it is claimed, or appears to said court, that such contract or contract clause is unconscionable, the court shall afford the parties a reasonable opportunity to present evidence as to:
+        </section>
+        <section prefix="1">
+    	     the commercial setting of the negotiations;
+        </section>
+        <section prefix="2">
+    	     whether a party has knowingly taken advantage of the inability of the other party reasonably to protect his interests by reason of physical or mental infirmity, illiteracy, or inability to understand the language of the agreement or similar factors;
+        </section>
+        <section prefix="3">
+    	     the effect and purpose of the contract or clause; and
+        </section>
+        <section prefix="4">
+    	     if a sale, any gross disparity, at the time of contracting, between the amount charged for the time-share and the value of the time-share measured by the price at which similar time-shares were readily obtainable, but a disparity between the contract price and the value of the time-share measured by the price at which a similar time-share was readily obtainable in similar transactions shall not, of itself, render the contract unconscionable.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="188" order_by="188" level="3">Homesteads</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Acquisition And Creation Of Estate Of Homestead; Exemptions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     An estate of homestead to the extent of the declared homestead exemption in a home may be acquired by 1 or more owners who occupy or intend to occupy the home as a principal residence. The estate of homestead shall be created by a written declaration executed and recorded in accordance with section 5. A homestead declaration shall benefit each owner making the declaration and that owner’s family members who occupy or intend to occupy the home as their principal residence. The homestead rights of non-titled family members shall consist of the right to use, occupy and enjoy the home as their principal residence.
+        </section>
+        <section prefix="b">
+    	     An estate of homestead shall be exempt from the laws of conveyance, descent, devise, attachment, seizure, execution on judgment, levy and sale for payment of debts or legacies except as follows:
+        </section>
+        <section prefix="1">
+    	     for a sale for federal, state and local taxes, assessments, claims and liens;
+        </section>
+        <section prefix="2">
+    	     for a lien on the home recorded prior to the creation of the estate of homestead;
+        </section>
+        <section prefix="3">
+    	     for a mortgage on the home as provided in sections 8 and 9;
+        </section>
+        <section prefix="4">
+    	     upon an order by a court that a spouse, former spouse or parent shall pay a certain amount weekly or otherwise for the support of a spouse, former spouse or minor children;
+        </section>
+        <section prefix="5">
+    	     where buildings on land not owned by the owner of the estate of homestead are attached, levied upon or sold for the ground rent of the lot upon which they are situated; and
+        </section>
+        <section prefix="6">
+    	     upon an execution issued from a court of competent jurisdiction to enforce its judgment based upon fraud, mistake, duress, undue influence or lack of capacity.
+        </section>
+    </text>
+</law>

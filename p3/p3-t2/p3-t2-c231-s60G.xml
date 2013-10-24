@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>60G</section_number>
+    <catch_line>Reduction Of Award Of Damages; Collateral Sources Of Benefits</catch_line>
+    <order_by>60G</order_by>
+    <text>
+        <section prefix="a">
+    	     In every action for malpractice, negligence, error, omission, mistake, or the unauthorized rendering of professional services against a provider of health care in which the plaintiff seeks to recover for the costs of medical care, custodial care or rehabilitation services, loss of earnings or other economic loss, if the jury returns a verdict specifying the type and amount of such damages under subsection (a) of section sixty F of this chapter, or the court finds the type and amount of such damages as required under subsection (b) of section sixty F of this chapter, on motion by a defendant or upon its own motion, the court shall hear evidence of any amount of such damages incurred prior to the judgment which the defendant or defendants claim was replaced, compensated or indemnified pursuant to the United States Social Security Act, any state or federal income-disability act, any health, sickness or income-disability insurance, any accident insurance that provides health benefits or income-disability coverage, any contract or agreement of any group, organization, partnership, or corporation to provide, pay for or reimburse the cost of medical, hospital, dental or other health care services, any contract or agreement to continue to pay, in whole or in part, the plaintiff’s wages or income, or any other collateral source of benefits whatsoever, except for gratuitous payments or gifts, or benefits received pursuant to chapter one hundred and fifty-two of the General Laws. If the defendant elects to introduce such evidence, the plaintiff may introduce evidence of any amount the plaintiff himself paid or contributed to secure his right to the benefits concerning which the defendant has introduced evidence.
+        </section>
+        <section prefix="b">
+    	     If the court finds that any such cost or expense was replaced, compensated, or indemnified from any collateral source, it shall reduce the amount of the award by such finding, minus an amount equal to the premiums or other amounts paid by the plaintiff for such benefits for the one-year period immediately preceding the accrual of such action.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of section seventy A of chapter one hundred and eleven, no entity which is the source of the collateral benefits by which the court has reduced the award to the plaintiff hereunder shall recover any amount against the plaintiff, nor shall it be subrogated to the rights of the plaintiff against the defendant, nor shall it have a lien against the plaintiff’s judgment, on account of its payment of the benefits by which the court has reduced the amount of the plaintiff’s judgment; provided that, if the plaintiff has received compensation or indemnification from any collateral source whose right of subrogation is based in any federal law, the court shall not reduce the award by the amounts received prior to judgment from such collateral source and such amounts may be recovered in accordance with such federal law.
+        </section>
+        <section prefix="d">
+    	     During the pendency of any such action, if a plaintiff has a policy of insurance which provides health benefits or income disability coverage, and the plaintiff is unwilling or unable to pay the costs of renewing or continuing that policy of insurance in force, the defendant or defendants may tender to the plaintiff the cost of maintaining the said policy in force. Upon receipt of such tender, the plaintiff shall continue such policy of insurance in force. Nothing in this subsection shall be construed to compel a plaintiff to renew or maintain any policy of insurance in force prior to receipt of the said tender, or to interfere in any way with the plaintiff’s choice of physician or course of medical treatment.
+        </section>
+        <section prefix="e">
+    	     To the extent the department of public welfare has provided public assistance benefits pursuant to chapters one hundred and seventeen, one hundred and eighteen, and one hundred and eighteen E, as a result of an incident of malpractice, negligence, error, omission, mistake, or the unauthorized rendering of professional services, nothing in this section shall be construed to affect said department’s right of subrogation or right to a lien against any judgment or settlement, nor shall a court reduce an award by the amount of public assistance benefits provided by said department pursuant to chapters one hundred and seventeen, one hundred and eighteen, and one hundred and eighteen E.
+        </section>
+    </text>
+</law>

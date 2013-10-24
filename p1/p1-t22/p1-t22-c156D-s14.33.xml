@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.33</section_number>
+    <catch_line>Decree Of Dissolution</catch_line>
+    <order_by>14.33</order_by>
+    <text>
+        <section prefix="a">
+    	     If after a hearing the court determines that 1 or more grounds for judicial dissolution described in section 14.30 exist, it may enter a decree dissolving the corporation and specifying the effective date of the dissolution, and the clerk of the court shall deliver a certified copy of the decree to the secretary of state, who shall file it.
+        </section>
+        <section prefix="b">
+    	     After entering the decree of dissolution, the court shall direct the winding up and liquidation of the corporation’s business and affairs in accordance with section 14.05 and, to the extent not theretofore completed, the notification of claimants in accordance with sections 14.06 and 14.07.
+        </section>
+    </text>
+</law>

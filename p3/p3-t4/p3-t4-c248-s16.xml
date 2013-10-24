@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Notice To Persons Interested In Continuing Imprisonment</catch_line>
+    <order_by>16</order_by>
+    <text>
+        If it appears from the return of the writ or otherwise that the prisoner is detained on a process under which another person has an interest in continuing his imprisonment or restraint, he shall not be discharged until notice has been given to such other person or his attorney, if within the commonwealth. If such person or his attorney is not within the commonwealth the court may order notice to be given to him.
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Purchasing Groups; Exemptions</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="A">
+    	     prohibit the establishment of a purchasing group;
+        </section>
+        <section prefix="B">
+    	     make it unlawful for an insurer to provide or offer to provide insurance to a purchasing group or its members allowing advantages with respect to rates, policy forms, coverages or other matters, based on their loss and expense experience, which are not afforded to other persons;
+        </section>
+        <section prefix="C">
+    	     prohibit a purchasing group or its members from purchasing insurance described in clause (B) on a group basis;
+        </section>
+        <section prefix="D">
+    	     prohibit a purchasing group or its members from purchasing a group basis because the group has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
+        </section>
+        <section prefix="E">
+    	     require that a purchasing group must have a minimum number of members, common ownership or affiliation, or certain legal form;
+        </section>
+        <section prefix="F">
+    	     require that a certain percentage of a purchasing group must obtain insurance on a group basis;
+        </section>
+        <section prefix="G">
+    	     otherwise discriminate against a purchasing group or any of its members; or
+        </section>
+        <section prefix="H">
+    	     require that any insurance policy issued to a purchasing group or any of its members be countersigned by an insurance agent or broker residing in the commonwealth.
+        </section>
+    </text>
+</law>

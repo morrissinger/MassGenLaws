@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.21</section_number>
+    <catch_line>Voting Entitlement Of Shares</catch_line>
+    <order_by>7.21</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsections (b) and (c) or unless the articles of organization provide otherwise, each outstanding share, regardless of class, is entitled to 1 vote on each matter voted on at a shareholders’ meeting. Pursuant to subsection (c) of section 6.04 each fractional share is entitled to a proportional vote. Only shares are entitled to vote.
+        </section>
+        <section prefix="b">
+    	     Absent special circumstances, the shares of a corporation are not entitled to vote if they are owned, directly or indirectly, by another entity of which the corporation owns, directly or indirectly, a majority of the voting interests.
+        </section>
+        <section prefix="c">
+    	     Subsection (b) shall not limit the power of a corporation to vote any shares, including its own shares, held by it, directly or indirectly, in a fiduciary capacity.
+        </section>
+        <section prefix="d">
+    	     Unless the articles of organization provide otherwise, redeemable shares are not entitled to vote after notice of redemption is given to the holders and a sum sufficient to redeem the shares has been deposited with a bank, trust company or other financial institution under an irrevocable obligation to pay the holders the redemption price upon surrender of the shares.
+        </section>
+    </text>
+</law>

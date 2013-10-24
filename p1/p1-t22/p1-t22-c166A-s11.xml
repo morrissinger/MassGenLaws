@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166A" order_by="166A" level="3">Community Antenna Television Systems</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Revocation Of License; Grounds</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     for false or misleading statements in, or material omissions from any application submitted under section four, five, or any annual return under section eight;
+        </section>
+        <section prefix="b">
+    	     for failure to file and maintain a bond as required under subsection (k) of section five or to maintain insurance as required under subsection (c) of said section;
+        </section>
+        <section prefix="c">
+    	     for repeated violations, as determined by the department, of commitments of a licensee set forth in subsection (j) of section five;
+        </section>
+        <section prefix="d">
+    	     for repeated failure, as determined by the department, to maintain signal quality under the standards provided for in section sixteen;
+        </section>
+        <section prefix="e">
+    	     for any transfer or assignment of a license or control thereof without consent in violation of section seven;
+        </section>
+        <section prefix="f">
+    	     for repeated violations of other obligations of the licensee set forth in section five, except subsection (j), or of the terms of its license;
+        </section>
+        <section prefix="g">
+    	     for failure to complete construction in accordance with the provisions of subsection (n) of section five.
+        </section>
+    </text>
+</law>

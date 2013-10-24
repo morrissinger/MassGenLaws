@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Return Of Names To Box</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If a person drawn as provided in the two preceding sections is exempt or unable by reason of illness or absence from home to attend as a juror, or has so served in any court within the time provided in section two, his name shall thereupon be returned to the box and another drawn.
+    </text>
+</law>

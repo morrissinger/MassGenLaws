@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Property; Presumption Of Abandonment</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Property which has been bequeathed to any person, shall be presumed abandoned, if not claimed by that person or his heirs, legatees or distributees within three years after the death of the testator unless the will makes provision in case of a lapse, failure or rejection of the bequest for the disposition of the property.
+        </section>
+        <section prefix="b">
+    	     When a person, owning property, is not known for three successive years to be living and neither he nor his heirs or distributees can be located or proved for three successive years to have been living, he shall be presumed to have died without heirs or distributees, and his property shall be presumed abandoned.
+        </section>
+    </text>
+</law>

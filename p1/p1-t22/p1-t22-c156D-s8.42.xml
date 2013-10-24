@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.42</section_number>
+    <catch_line>Standards Of Conduct For Officers</catch_line>
+    <order_by>8.42</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer shall discharge his duties:
+        </section>
+        <section prefix="1">
+    	     in good faith;
+        </section>
+        <section prefix="2">
+    	     with the care that a person in a like position would reasonably exercise under similar circumstances; and
+        </section>
+        <section prefix="3">
+    	     in a manner the officer reasonably believes to be in the best interests of the corporation.
+        </section>
+        <section prefix="b">
+    	     In discharging his duties an officer, who does not have knowledge that makes reliance unwarranted, is entitled to rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by:
+        </section>
+        <section prefix="1">
+    	     one or more officers or employees of the corporation whom the officer reasonably believes to be reliable and competent with respect to the information, opinions, reports or statements presented; or
+        </section>
+        <section prefix="2">
+    	     legal counsel, public accountants, or other persons retained by the corporation as to matters involving skills or expertise the officer reasonably believes are matters (i) within the particular person’s professional or expert competence or (ii) as to which the particular person merits confidence.
+        </section>
+        <section prefix="c">
+    	     An officer shall not be liable to the corporation or its shareholders for any decision to take or not to take any action taken, or any failure to take any action, as an officer, if the duties of the officer are performed in compliance with this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Custodial Trustee’S Acceptance</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Obligations of a custodial trustee, including the obligation to follow directions of the beneficiary, shall arise under this chapter upon the custodial trustee’s acceptance, express or implied, of the custodial trust property.
+        </section>
+        <section prefix="b">
+    	     The custodial trustee’s acceptance may be evidenced by a writing stating in substance:
+        </section>
+        <section prefix="c">
+    	     Upon accepting custodial trust property, a person designated as custodial trustee under this chapter shall be subject to personal jurisdiction of the court with respect to any matter relating to the custodial trust.
+        </section>
+    </text>
+</law>

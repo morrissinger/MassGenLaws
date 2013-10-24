@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="271" order_by="271" level="3">Crimes Against Public Policy</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Definition Of Words And Phrases Used In Secs. 35 To 38</catch_line>
+    <order_by>35</order_by>
+    <text>
+        <section prefix="a">
+    	     The making of, or offering to make, any contract respecting the purchase or sale, either upon credit or upon margin, of any securities or commodities, wherein both parties thereto intend, or such keeper intends, that such contract shall be, or may be, terminated, closed or settled according to, or upon the basis of, the public market quotations of prices made on any board of trade or exchange upon which said securities or commodities are dealt in, and without a bona fide purchase or sale of the same; or
+        </section>
+        <section prefix="b">
+    	     The making of, or offering to make, any contract respecting the purchase or sale, either upon credit or upon margin, of any securities or commodities, wherein both parties intend, or such keeper intends, that such contract shall be, or may be, deemed terminated, closed or settled, when such public market quotations of prices for the securities or commodities named in such contract shall reach a certain figure without a bona fide purchase or sale of the same; or
+        </section>
+        <section prefix="c">
+    	     The making of, or offering to make, any contract respecting the purchase or sale, either upon credit or upon margin, of any securities or commodities, wherein both parties do not intend, or such keeper does not intend, the actual or bona fide receipt or delivery of such securities or commodities, but do intend, or such keeper does intend, a settlement of such contract based upon the differences in such public market quotations of prices at which said securities or commodities are, or are asserted to be, bought and sold.
+        </section>
+    </text>
+</law>

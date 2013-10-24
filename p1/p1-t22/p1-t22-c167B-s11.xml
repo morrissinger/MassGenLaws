@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Waiver Of Rights</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No writing or other agreement between a consumer and any other person may contain any provision which constitutes a waiver of any right conferred or cause of action created by this chapter. Nothing in this section prohibits, however, any writing or other agreement which grants to a consumer a more extensive right or remedy or greater protection than contained in this chapter or a waiver given in settlement of a dispute or action.
+    </text>
+</law>

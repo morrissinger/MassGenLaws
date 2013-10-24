@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Property Held By Trustee As Security; Tender By Attaching Creditor</catch_line>
+    <order_by>60</order_by>
+    <text>
+        If the court finds that property in the hands of a person summoned as trustee is mortgaged, pledged or in any way liable for the payment of a debt to the person so summoned, it may allow the attaching creditor to pay or tender the amount due to the trustee, who shall thereupon deliver the property, in the manner before provided, to the officer holding the execution.
+    </text>
+</law>

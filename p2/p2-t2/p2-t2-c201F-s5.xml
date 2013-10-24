@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201F" order_by="201F" level="3">Caregiver Authorization Affidavits</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Content Of Affidavit</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     the name, address and telephone number of the parent, legal guardian or legal custodian;
+        </section>
+        <section prefix="2">
+    	     the name, address and telephone number of the caregiver;
+        </section>
+        <section prefix="3">
+    	     the name and date of birth of the minor;
+        </section>
+        <section prefix="4">
+    	     the relationship of the caregiver to the minor;
+        </section>
+        <section prefix="5">
+    	     a statement by the authorizing party that there are no court orders in effect that would prohibit him from exercising or conferring the rights and responsibilities that he seeks to confer upon the caregiver;
+        </section>
+        <section prefix="6">
+    	     a statement of the authority being conferred and of any prohibitions; and
+        </section>
+        <section prefix="7">
+    	     a statement that the affidavit is not for the purposes of circumventing any state or federal law, for the purposes of attendance at a particular school, or to re-confer rights to a caregiver from whom those rights have been removed by a court of law.
+        </section>
+    </text>
+</law>

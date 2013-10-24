@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>20B</section_number>
+    <catch_line>Medical Reports Of Disabled Or Deceased Physicians As Evidence</catch_line>
+    <order_by>20B</order_by>
+    <text>
+        In proceedings before the industrial accident board, the medical report of an incapacitated, disabled or deceased physician who attended or examined the employee, including expressions of medical opinion, shall, at the discretion of the member, be admissible as evidence if the member finds that such medical report was made as the result of such physician’s attendance or examination of the employee.
+    </text>
+</law>

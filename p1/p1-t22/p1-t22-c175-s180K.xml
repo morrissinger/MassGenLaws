@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180K</section_number>
+    <catch_line>Secured Claims</catch_line>
+    <order_by>180K</order_by>
+    <text>
+        The owner of a secured claim against an insurer for which a receiver has been appointed in a liquidation proceeding in this or any reciprocal state may surrender his security and file his claim as a general creditor, or such secured claim may be discharged by resort to the security, in which case the deficiency, if any, shall be treated as a claim against the general assets of the insurer on the same basis as claims of unsecured creditors. If the amount of the deficiency has been adjudicated in ancillary proceedings as provided in this chapter or if it has been adjudicated by a court of competent jurisdiction in proceedings in which the domiciliary receiver has had notice and opportunity to be heard, that amount shall be conclusive; otherwise the amount shall be determined in the delinquency proceedings in the domiciliary state.
+    </text>
+</law>

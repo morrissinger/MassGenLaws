@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Actions By Or In Another State To Reclaim Property; Costs;  Information</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     At the request of another state, the attorney general may bring an action in the name of such other state in any court of competent jurisdiction in the commonwealth, or federal court within the commonwealth, to enforce the unclaimed property laws of such other state against a holder in the commonwealth of property subject to escheat or a claim of abandonment by such other state, if the other state has agreed to pay reasonable costs incurred by the attorney general in bringing the action.
+        </section>
+        <section prefix="b">
+    	     If the treasurer believes that a person in another state holds property subject to a claim of abandonment by the commonwealth under this chapter, the treasurer may request that the attorney general of the other state, or any other person, bring an action in the name of the commonwealth to enforce the provisions of this chapter against such person.
+        </section>
+        <section prefix="c">
+    	     The commonwealth shall pay all reasonable costs incurred in any action brought under the authority of this section. The treasurer may agree to pay to any person bringing such an action a fee not to exceed ten per cent of the value, after deducting reasonable costs, of any property recovered for the commonwealth as a direct or indirect result of the action; provided, however, that any cost or fee paid pursuant to this section shall not be deducted from the amount that is subject to the claim by the owner in accordance with this chapter.
+        </section>
+        <section prefix="d">
+    	     The treasurer may enter into an agreement to provide information needed to enable another state to audit or otherwise determine unclaimed property it may be entitled to escheat or subject to a claim of custody as abandoned property. The treasurer may, by regulation, require the reporting of information needed to enable him to comply with agreements made pursuant to this section and may prescribe the form including verification of the information to be reported and the time for filing of the reports.
+        </section>
+    </text>
+</law>

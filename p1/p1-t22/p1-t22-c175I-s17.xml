@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Findings; Orders To Cease And Desist; Reports</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     If, after a hearing pursuant to section fifteen, the commissioner finds that the insurance institution, insurance representative or insurance-support organization charged has engaged in conduct or practices in violation of this chapter, the commissioner shall put such findings in writing and shall issue and cause to be served upon such insurance institution, insurance representative or insurance-support organization a copy of such findings and an order requiring such insurance institution, insurance representative or insurance-support organization to cease and desist from the conduct or practices constituting a violation of this chapter.
+        </section>
+        <section prefix="b">
+    	     If, after a hearing pursuant to section fifteen, the commissioner determines that the insurance institution, insurance representative or insurance-support organization charged has not engaged in conduct or practices in violation of this chapter, the commissioner shall prepare a written report which sets forth findings of fact and conclusions of law. Such report shall be served upon the insurance institution, insurance representative or insurance-support organization charged and upon the person or persons, if any, whose rights under this chapter were allegedly violated.
+        </section>
+        <section prefix="c">
+    	     Until the expiration of the time allowed under section nineteen for filing a petition for review or until such petition is actually filed, whichever occurs first, the commissioner may modify or set aside any order or report issued under this section. After the expiration of the time allowed under section nineteen for filing a petition for review, if no such petition has been duly filed, the commissioner may, after notice and opportunity for hearing, alter, modify or set aside, in whole or in part, any order or report issued under this section whenever conditions of fact or law warrant such action or if the public interest so requires.
+        </section>
+    </text>
+</law>

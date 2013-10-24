@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Failure To File; Penalty</catch_line>
+    <order_by>50</order_by>
+    <text>
+        If a corporation fails to file its report of condition within the time required by law, the secretary shall give notice by mail, postage prepaid, to such corporation of its default. If it omits to file such report within thirty days after such notice of default has been given, it shall forfeit to the commonwealth not less than five nor more than ten dollars for each day for fifteen days after the expiration of the said thirty days, and not less than ten nor more than two hundred dollars for each day thereafter during which such default continues, or any other sum, not greater than the maximum penalty or forfeiture, which the court may deem just and equitable. If a corporation fails for two successive years to file its annual report of condition, the supreme judicial court, upon application by the secretary, after notice and hearing, may decree a dissolution of the corporation.
+    </text>
+</law>

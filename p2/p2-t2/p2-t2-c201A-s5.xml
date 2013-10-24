@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Transfer Authorized By Will Or Trust</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A personal representative or trustee may make an irrevocable transfer pursuant to section nine to a custodian for the benefit of a minor as authorized in the governing will or trust.
+        </section>
+        <section prefix="b">
+    	     If the testator or settlor has nominated a custodian under section three to receive the custodial property, the transfer shall be made to such custodian.
+        </section>
+        <section prefix="c">
+    	     If the testator or settlor has not nominated a custodian under said section three, or all persons so nominated as custodian die before the transfer or are unable, decline, or are ineligible to serve, the personal representative or the trustee, as the case may be, shall designate the custodian from among those eligible to serve as custodian for property of that kind under subsection (a) of section nine.
+        </section>
+    </text>
+</law>

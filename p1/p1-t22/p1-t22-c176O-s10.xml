@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Contractual Financial Incentive Plans</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     No contract between a carrier, including a dental or vision carrier, and a licensed health, dental or vision care provider group shall contain any incentive plan that includes a specific payment made to a health, dental or vision care professional as an inducement to reduce, delay or limit specific, necessary services covered by the health, dental or vision care contract. Health, dental or vision care professionals shall not profit from provision of covered services that are not necessary and appropriate. Carriers, including a dental or vision carrier, shall not profit from denial or withholding of covered services that are necessary and appropriate. Nothing in this section shall prohibit contracts that contain incentive plans that involve general payments such as capitation payments or shared risk agreements that are made with respect to health, dental or vision providers or which are made with respect to groups of insureds if such contracts, which impose risk on such health, dental or vision providers for the costs of care, services and equipment provided or authorized by another health, dental or vision care provider, comply with subsection (b).
+        </section>
+        <section prefix="b">
+    	     In order that patient care decisions are based on need and not on financial incentives, no carrier, including a dental or vision carrier, shall enter into a new contract, revise the risk arrangements in an existing contract or, after July 1, 2001, revise the fee schedule in an existing contract with a health, dental or vision care provider which imposes financial risk on such provider for the costs of care, services or equipment provided or authorized by another provider unless such contract includes specific provisions with respect to the following: (1) stop loss protection, (2) minimum patient population size for the provider group, and (3) identification of the health, dental or vision care services for which the provider is at risk.
+        </section>
+        <section prefix="c">
+    	     A carrier or utilization review organization shall conduct an annual survey of insureds to assess satisfaction with access to specialist services, ancillary services, hospitalization services, durable medical equipment and other covered services. Said survey shall compare the actual satisfaction of insureds with projected measures of their satisfaction. Carriers that utilize incentive plans shall establish mechanisms for monitoring the satisfaction, quality of care and actual utilization compared with projected utilization of health care services of insureds.
+        </section>
+    </text>
+</law>

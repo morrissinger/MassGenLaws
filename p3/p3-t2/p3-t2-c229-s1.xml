@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="229" order_by="229" level="3">Actions For Death And Injuries Resulting In Death</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Damages For Death From Defective Ways; Persons Entitled</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     If the deceased shall have been survived by a wife or husband and no children or issue surviving, then to the use of such surviving spouse.
+        </section>
+        <section prefix="2">
+    	     If the deceased shall have been survived by a wife or husband and by one child or by the issue of one deceased child, then one half to the use of such surviving spouse and one half to the use of such child or his issue by right of representation.
+        </section>
+        <section prefix="3">
+    	     If the deceased shall have been survived by a wife or husband and by more than one child surviving either in person or by issue, then one third to the use of such surviving spouse and two thirds to the use of such surviving children or their issue by right of representation.
+        </section>
+        <section prefix="4">
+    	     If there is no surviving wife or husband, then to the use of the next of kin.
+        </section>
+    </text>
+</law>

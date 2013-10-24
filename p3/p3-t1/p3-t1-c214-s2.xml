@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Statutory Jurisdiction</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The supreme judicial court shall have original and exclusive jurisdiction of all civil actions in which equitable relief is sought cognizable under any statute and not within the jurisdiction conferred by section one, unless a different provision is made; and the superior court shall have like original and exclusive, or like original and concurrent, jurisdiction only if the statute so provides.
+    </text>
+</law>

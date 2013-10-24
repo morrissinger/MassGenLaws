@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Railway Signals Required By Department</catch_line>
+    <order_by>22</order_by>
+    <text>
+        The department may from time to time require railroad and railway corporations to install and maintain at such places upon the railroad or railway premises as it shall designate such block or other signals or devices as it shall approve for the purpose of safeguarding public travel.
+    </text>
+</law>

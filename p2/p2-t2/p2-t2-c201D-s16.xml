@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201D" order_by="201D" level="3">Health Care Proxies</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Lack Of Proxy; Effect</catch_line>
+    <order_by>16</order_by>
+    <text>
+        In those instances that a health care proxy has not been executed, nothing herein shall preclude a health care provider from relying upon the informed consent of responsible parties on behalf of incompetent or incapacitated patients to the extent permitted by law. 
+Nothing in this chapter shall invalidate a power of attorney delegating the authority to make health care decisions executed prior to the enactment of this chapter. 
+A competent adult’s failure to appoint a health care agent or to provide the agent with specific health care instructions pursuant to this article shall create no presumptions regarding the adult’s wishes about health care.
+    </text>
+</law>

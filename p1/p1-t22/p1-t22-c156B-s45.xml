@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Stockholders’ Liability On Distribution Causing Insolvency</catch_line>
+    <order_by>45</order_by>
+    <text>
+        Stockholders to whom a corporation makes any distribution, whether by way of dividend, repurchase or redemption of stock, or otherwise, except a distribution of stock of the corporation, if the corporation is, or is thereby rendered, insolvent shall be liable to the corporation for the amount of such distribution made, or for the amount of such distribution which exceeds that which could have been made without rendering the corporation insolvent, but in either event, only to the extent of the amount paid or distributed to them respectively. A stockholder who pays on a judgment, or otherwise, more than his proportionate share of such distribution or excess shall have a claim for contribution against the other stockholders, which, unless otherwise provided in the articles of organization, shall be in proportion to the amounts so paid or distributed to them respectively.
+    </text>
+</law>

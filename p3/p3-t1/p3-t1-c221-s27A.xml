@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>27A</section_number>
+    <catch_line>Obsolete Or Useless Papers; Disposition, Destruction Or Storage</catch_line>
+    <order_by>27A</order_by>
+    <text>
+        <section prefix="1">
+    	     Any cause to which the papers relate, if they relate to a cause, shall have been finally disposed of for more than twenty years, and any criminal complaint which shall have been disposed of by being placed on file, as provided in section thirty-eight of chapter two hundred and eighteen, and shall have remained on file for more than twenty years.
+        </section>
+        <section prefix="2">
+    	     No original paper bearing date or known to have been filed earlier than the year eighteen hundred shall be destroyed.
+        </section>
+        <section prefix="3">
+    	     Reasonable notice to the public shall be given before any such disposal is made of any paper.
+        </section>
+    </text>
+</law>

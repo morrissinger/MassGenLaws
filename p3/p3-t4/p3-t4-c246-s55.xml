@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Service Of Execution</catch_line>
+    <order_by>55</order_by>
+    <text>
+        If an executor or administrator as such is adjudged a trustee, the execution shall not be served on his own goods or estate nor on his person, and he shall be liable for the amount in his hands only in like manner and to the same extent as he would have been liable to the defendant if there had been no trustee process.
+    </text>
+</law>

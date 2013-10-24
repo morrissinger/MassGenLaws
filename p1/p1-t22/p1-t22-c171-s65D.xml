@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>65D</section_number>
+    <catch_line>Mortgage Loans Which Provide For Variation In Interest Rate;  Conditions; Variation In Rate Of Amortization</catch_line>
+    <order_by>65D</order_by>
+    <text>
+        <section prefix="a">
+    	     Any credit union may make or acquire mortgage loans evidenced by a note which provides for variation in the rate of interest over the term of the note, but a loan made to finance or refinance the purchase of and secured by a first lien on a dwelling house of 4 or fewer separate households, occupied in whole or in part by the mortgagor, shall be subject to, but not limited to, the following conditions and restrictions imposed by the commissioner:—
+        </section>
+        <section prefix="1">
+    	     the method by which the rate of interest may be adjusted;
+        </section>
+        <section prefix="2">
+    	     the frequency with which the rate of interest may be adjusted, but that successive rate adjustments shall be not less than 6 months apart;
+        </section>
+        <section prefix="3">
+    	     the maximum increase in the rate of interest allowed for any such adjustment;
+        </section>
+        <section prefix="4">
+    	     provisions for decreases in the rate of interest as may be warranted by market conditions;
+        </section>
+        <section prefix="5">
+    	     requirements for advance notification and explanation of adjustments in the rate of interest, but the notification and explanation shall occur not less than 30 days before the adjustment; and
+        </section>
+        <section prefix="6">
+    	     methods of disclosure to the mortgagor of the terms and conditions of the loan as required under the provisions of chapter 140D.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, the commissioner may, by further conditions and restrictions, provide that the rate of amortization may be varied, including utilizing a period of negative amortization, in order to adjust the rate of interest.
+        </section>
+    </text>
+</law>

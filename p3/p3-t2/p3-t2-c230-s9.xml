@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="230" order_by="230" level="3">Actions By And Against Executors And Administrators</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Damages And Costs; Separate Executions</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If the judgment is for damages and costs, an execution for the damages shall be awarded against the goods and estate of the deceased in the hands of the executor or administrator, and another execution for costs against the goods, estate and body of the executor or administrator, as if for his own debt.
+    </text>
+</law>

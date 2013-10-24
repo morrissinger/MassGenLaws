@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Approval Of Organizations Prior To Investments Or Service Contracts;  Application; Information</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     the name and business address of the organization and if such organization is a subsidiary of another corporation the name and business address of the parent corporation;
+        </section>
+        <section prefix="2">
+    	     the location of all data processing centers and central routing units and if such centers or units are owned by another corporation the name and address of such corporation;
+        </section>
+        <section prefix="3">
+    	     a copy of all agreements between the organization and any central routing unit or data processing center;
+        </section>
+        <section prefix="4">
+    	     copies of all proposed agreements with financial institutions relating to the operation, use, and charges relative to an electronic branch;
+        </section>
+        <section prefix="5">
+    	     information satisfactory to the commissioner showing that such organization will be capable of assisting or providing financial institutions with electronic fund transfer services;
+        </section>
+        <section prefix="6">
+    	     the method of operation by which such organization will provide electronic fund transfer services for financial institutions; and
+        </section>
+        <section prefix="7">
+    	     any other information which the commissioner shall require by rules and regulations.
+        </section>
+        <section prefix="1">
+    	     that it and any such central routing unit or data processing center will comply with all applicable provisions of this chapter or regulations issued hereunder;
+        </section>
+        <section prefix="2">
+    	     to be examined by the commissioner; and
+        </section>
+        <section prefix="3">
+    	     to maintain its books in the manner required by the commissioner.
+        </section>
+    </text>
+</law>

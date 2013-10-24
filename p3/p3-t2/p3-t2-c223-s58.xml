@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Death Of Attaching Officer; Continuance Of Attachment</catch_line>
+    <order_by>58</order_by>
+    <text>
+        Property which has been attached by an officer, whether in his custody at his death or taken from him by replevin or otherwise, and also all claims for damages to property so taken from him, shall remain subject to the attachment as if the officer had lived, and shall not be considered as assets in the hands of his executor or administrator.
+    </text>
+</law>

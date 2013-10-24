@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>By Laws; Payments By Members; Provisions; Purpose Of Payments;  Proportion Of Payments Which May Be Used For Expenses</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     Every provision of the by-laws of the society for payment by its members, in whatever form made, shall distinctly state the purposes of the same and the proportion thereof, which may be used for expenses. No part of the money collected for mortuary, disability, hospitalization, or medical service purposes or the net accretions of either or any of such funds shall be used for expenses. A society having admitted assets as shown by its annual statement filed with the commissioner, in excess of 105 per cent of its entire liabilities, including its required reserves, provided such reserves are at least equivalent to the amount required by the American Experience Table of Mortality with interest at 3 per cent per annum, may transfer or allocate such excess mortuary funds to the expense fund of the society, in accordance with its constitution and by-laws. The amount so transferred in any calendar year shall not exceed whichever is the smaller of (a) 75 per cent of the savings in mortality of the society during the preceding calendar year or (b) 10 per cent of the net mortuary assessments received by the society in the preceding calendar year, but no sum shall be transferred as aforesaid which reduces the actuarial solvency of said society below the aforesaid basis. Any sum thus transferred shall not exceed the incurred insurance expenses hereinafter specified during the preceding calendar year, and the sum shall be expended solely for the following insurance expenses of the society:—
+        </section>
+        <section prefix="a">
+    	     actuarial services;
+        </section>
+        <section prefix="b">
+    	     cost of preparing and mailing dividends;
+        </section>
+        <section prefix="c">
+    	     billing department costs;
+        </section>
+        <section prefix="d">
+    	     machine equipment;
+        </section>
+        <section prefix="e">
+    	     maintaining automatic loan records;
+        </section>
+        <section prefix="f">
+    	     certificates;
+        </section>
+        <section prefix="g">
+    	     actuarial records.
+        </section>
+        <section prefix="b">
+    	     The term “net accretions” shall mean all interest, dividends and other income less the reasonable expenses incident to the investment, care and maintenance of the securities and other assets of such funds.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180M</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>180M</order_by>
+    <text>
+        As used in this section and in sections one hundred and eighty N to one hundred and eighty Q, inclusive, the following words shall have the following meanings:— 
+“National emergency”, an emergency caused by an attack on the United States or by a nuclear, atomic or other disaster which makes it impossible or impracticable for a company to conduct its business in strict accord with law, its by-laws or its charter. 
+“Domestic company”, shall also include the United States branch of a foreign insurance company formed under the laws of any government or state, other than the United States or one of the United States, which, being authorized to do business in the commonwealth, has its principal office in the commonwealth, and the term “board of directors” shall also include the resident manager in the United States of such a company.
+    </text>
+</law>

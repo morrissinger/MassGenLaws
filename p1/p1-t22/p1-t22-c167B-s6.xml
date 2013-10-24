@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Consumer Access To Electronic Fund Transfer</catch_line>
+    <order_by>6</order_by>
+    <text>
+        A person shall not issue to a consumer an access device to the consumer’s account for the purpose of initiating an electronic fund transfer other than: (1) in response to a request or application therefor and upon verification of the consumer’s identity, which may be by any reasonable means such as by photograph, fingerprint, personal visit, signature comparison or appropriate non-documentary means; or (2) as a renewal of, or in substitution for, an accepted access device, whether issued by the initial issuer or a successor.
+    </text>
+</law>

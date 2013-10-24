@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.32</section_number>
+    <catch_line>Shareholder Agreements</catch_line>
+    <order_by>7.32</order_by>
+    <text>
+        <section prefix="a">
+    	     An agreement among the shareholders of a corporation that complies with this section is effective among the shareholders and the corporation even though it is inconsistent with 1 or more other sections of this chapter in that it:
+        </section>
+        <section prefix="1">
+    	     eliminates the board of directors or restricts the discretion or powers of the board of directors;
+        </section>
+        <section prefix="2">
+    	     governs the authorization or making of distributions whether or not in proportion to ownership of shares, subject to the limitations in section 6.40;
+        </section>
+        <section prefix="3">
+    	     establishes who shall be directors or officers of the corporation, or their terms of office or manner of selection or removal;
+        </section>
+        <section prefix="4">
+    	     governs, in general or in regard to specific matters, the exercise or division of voting power by or between the shareholders and directors or by or among any of them, including use of weighted voting rights or director proxies;
+        </section>
+        <section prefix="5">
+    	     establishes the terms and conditions of any agreement for the transfer or use of property or the provision of services between the corporation and any shareholder, director, officer or employee of the corporation or among any of them;
+        </section>
+        <section prefix="6">
+    	     transfers to 1 or more shareholders or other persons all or part of the authority to exercise corporate powers or to manage the business and affairs of the corporation, including the resolution of any issue about which there exists a deadlock among directors or shareholders;
+        </section>
+        <section prefix="7">
+    	     requires dissolution of the corporation at the request of 1 or more of the shareholders or upon the occurrence of a specified event or contingency; or
+        </section>
+        <section prefix="8">
+    	     otherwise governs exercise of the corporate powers or management of the business and affairs of the corporation or the relationship among the shareholders, the directors and the corporation, or among any of them, and is not contrary to public policy.
+        </section>
+        <section prefix="b">
+    	     An agreement authorized by this section shall be:
+        </section>
+        <section prefix="1">
+    	     set forth (i) in the articles of organization or bylaws and approved by all persons who are shareholders at the time of the agreement or (ii) in a written agreement that is signed by all persons who are shareholders at the time of the agreement and is made known to the corporation;
+        </section>
+        <section prefix="2">
+    	     subject to amendment only by all persons who are shareholders at the time of the amendment, unless the agreement provides otherwise; and
+        </section>
+        <section prefix="3">
+    	     valid for 10 years, unless the agreement provides otherwise.
+        </section>
+        <section prefix="c">
+    	     The existence of an agreement authorized by this section shall be noted conspicuously on the front or back of each certificate for outstanding shares or on the information statement required by subsection (b) of section 6.26. If at the time of the agreement the corporation has shares outstanding represented by certificates, the corporation shall recall the outstanding certificates and issue substitute certificates that comply with this subsection. The failure to note the existence of the agreement on the certificate or information statement does not affect the validity of the agreement or any action taken pursuant to it. Any purchaser of shares who, at the time of purchase, did not have knowledge of the existence of the agreement is entitled to rescission of the purchase. A purchaser is considered to have knowledge of the existence of the agreement if its existence is noted on the certificate or information statement for the shares in compliance with this subsection and, if the shares are not represented by a certificate, the information statement is delivered to the purchaser at or prior to the time of purchase of the shares. An action to enforce the right of rescission authorized by this subsection shall be commenced within the earlier of 90 days after discovery of the existence of the agreement or 2 years after the time of purchase of the shares.
+        </section>
+        <section prefix="d">
+    	     An agreement authorized by this section automatically terminates when shares of the corporation are listed on a national securities exchange or are regularly traded in a market maintained by 1 or more members of a national or affiliated securities association. If the agreement so terminates or otherwise ceases to be effective, the board of directors may, if the agreement is contained or referred to in the corporation’s articles of organization or bylaws, adopt an amendment to the articles of organization or bylaws, without shareholder action, to delete the agreement and any references to it.
+        </section>
+        <section prefix="e">
+    	     To the extent that an agreement authorized by this section limits the discretion or powers of the board of directors, liability for acts or omissions otherwise imposed by law on directors shall be imposed instead upon the person or persons in whom the discretion or powers are vested.
+        </section>
+        <section prefix="f">
+    	     If an agreement is authorized by this section, shareholders shall not be personally liable for the acts or debts of the corporation on the ground that the agreement or its performance treats the corporation as if it were a partnership or results in a failure to observe corporate formalities that would otherwise apply.
+        </section>
+        <section prefix="g">
+    	     Incorporators or subscribers for shares may act as shareholders with respect to an agreement authorized by this section if no shares have been issued when the agreement is made.
+        </section>
+        <section prefix="h">
+    	     Nothing contained in this section shall be construed to limit the effectiveness of any agreement or arrangement permitted by or not inconsistent with any other provision of this chapter.
+        </section>
+    </text>
+</law>

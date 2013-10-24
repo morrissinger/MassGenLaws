@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>164</section_number>
+    <catch_line>Collectors Of Premiums</catch_line>
+    <order_by>164</order_by>
+    <text>
+        A collector of premiums who does not solicit applications for or the renewal or continuance of insurance contracts, or act or aid in negotiating such contracts or the continuance or renewal thereof, may carry on such business without a license therefor, provided that the collection fee does not exceed five per cent of any amount collected.
+    </text>
+</law>

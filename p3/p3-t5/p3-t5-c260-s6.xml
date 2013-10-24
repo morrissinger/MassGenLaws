@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Mutual And Open Account Current</catch_line>
+    <order_by>6</order_by>
+    <text>
+        In an action of contract brought to recover the balance due upon a mutual and open account current, the cause of action shall be held to have accrued at the time of the last item proved in the account.
+    </text>
+</law>

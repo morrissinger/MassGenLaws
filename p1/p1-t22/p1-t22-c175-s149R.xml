@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>149R</section_number>
+    <catch_line>Maintenance And Retention Of Accounts, Books And Records</catch_line>
+    <order_by>149R</order_by>
+    <text>
+        <section prefix="a">
+    	     The provider shall keep accurate accounts, books and records concerning transactions regulated under sections 149M to 149W, inclusive, which shall include: (i) copies of each type of service contract sold; (ii) the name and address of each service contract holder to the extent that the name and address have been furnished to the service contract provider; and (iii) written or electronic claims files which shall contain the dates and description of claims related to the service contract.
+        </section>
+        <section prefix="b">
+    	     Except as provided in subsection (d), the provider shall retain all records required to be maintained by this section for at least 1 year after the specified period of coverage has expired.
+        </section>
+        <section prefix="c">
+    	     Records required under sections 149M to 149W, inclusive, may be maintained in electronic format. If the records are maintained in a form other than hard copy, the records shall be capable of duplication to legible hard copy at the request of the commissioner.
+        </section>
+        <section prefix="d">
+    	     A provider discontinuing business in the commonwealth shall maintain its records until the commissioner certifies that the provider has furnished satisfactory proof that the provider has discharged all obligations to service contract holders in the commonwealth.
+        </section>
+    </text>
+</law>

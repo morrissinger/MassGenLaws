@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175J" order_by="175J" level="3">Administrative Supervision And Hazardous Financial Conditions Of Insurities</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Rehabilitation Or Liquidation Proceedings</catch_line>
+    <order_by>8</order_by>
+    <text>
+        Nothing contained in this chapter shall preclude the commissioner from initiating judicial proceedings to place an insurer in rehabilitation or liquidation proceedings or other delinquency proceedings, however designated under the General Laws, regardless of whether the commissioner has previously initiated administrative supervision proceedings against the insurer.
+    </text>
+</law>

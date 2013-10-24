@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Protection Of Plant; Municipal Ordinances</catch_line>
+    <order_by>62</order_by>
+    <text>
+        A town operating a plant may pass ordinances or by-laws, imposing penalties not exceeding fifty dollars, to protect the plant, control its use and prevent accidents from gas or electricity supplied by it, and to govern consumers in their use thereof.
+    </text>
+</law>

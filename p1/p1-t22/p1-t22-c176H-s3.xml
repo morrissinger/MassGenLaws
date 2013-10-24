@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176H" order_by="176H" level="3">Legal Services Plans</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Insurer Of Insured Legal Services Plans</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Insurance corporations may be insurers of insured legal services plans, and such companies shall be subject to the insurance laws of the commonwealth except insofar as any provision of the insurance laws may be in conflict with applicable provisions of this chapter. An insurer may also be a sponsor of an insured legal services plan.
+    </text>
+</law>

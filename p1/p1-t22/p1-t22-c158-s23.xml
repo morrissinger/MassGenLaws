@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Special Charter Corporations; Fixing And Limiting Of Capital Stock</catch_line>
+    <order_by>23</order_by>
+    <text>
+        The amount of the capital stock of every corporation established by special charter shall, at the first meeting of the corporation, unless the charter otherwise provides, be fixed and limited by the corporation and divided into shares, of which a record shall be made by the clerk.
+    </text>
+</law>

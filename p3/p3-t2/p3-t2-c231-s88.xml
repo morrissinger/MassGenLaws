@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>88</section_number>
+    <catch_line>Effect Of Unaccepted Offer Of Judgment</catch_line>
+    <order_by>88</order_by>
+    <text>
+        An offer of judgment made under the provisions of the Massachusetts Rules of Civil Procedure or the District-Municipal Courts Rules of Civil Procedure which is not accepted shall not be evidence against the party making it, either in a subsequent proceeding in the action in which it is made or in another action or suit.
+    </text>
+</law>

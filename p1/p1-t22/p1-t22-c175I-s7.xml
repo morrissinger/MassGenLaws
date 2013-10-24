@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Investigative Consumer Report; Personal Interview; Prohibited Information</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     No insurance institution, insurance representative or insurance-support organization may prepare or request an investigative consumer report about an individual in connection with an insurance transaction involving an application for insurance, a policy renewal, a policy reinstatement or a change in insurance benefits unless the insurance institution or insurance representative informs the individual:
+        </section>
+        <section prefix="1">
+    	     that each individual may request to be interviewed in connection with the preparation of the investigative consumer report; and
+        </section>
+        <section prefix="2">
+    	     that upon a request pursuant to section eight, such individual is entitled to receive a copy of the investigative consumer report.
+        </section>
+        <section prefix="b">
+    	     If an investigative consumer report is to be prepared by an insurance institution or insurance representative, such insurance institution or insurance representative shall institute reasonable procedures to conduct a personal interview requested by an individual.
+        </section>
+        <section prefix="c">
+    	     If an investigative consumer report is to be prepared by an insurance-support organization, the insurance institution or insurance representative desiring such report shall inform the insurance-support organization whether a personal interview has been requested by the individual. The insurance-support organization shall institute reasonable procedures to conduct such reviews, if requested.
+        </section>
+        <section prefix="d">
+    	     No investigative consumer report shall contain any information designed to determine the sexual orientation of an applicant, proposed insured, policyholder, beneficiary or any other person, or for such persons, information relating to counseling for Acquired Immune Deficiency Syndrome (AIDS) or AIDS-related Complex (ARC) as defined by the Centers for Disease Control of the United States Public Health Service. For purposes of this subsection, “counseling” shall not mean diagnosis of or treatment for AIDS or ARC.
+        </section>
+    </text>
+</law>

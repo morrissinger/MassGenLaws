@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>85</section_number>
+    <catch_line>Comparative Negligence; Limited Effect Of Contributory Negligence As Defense</catch_line>
+    <order_by>85</order_by>
+    <text>
+        Contributory negligence shall not bar recovery in any action by any person or legal representative to recover damages for negligence resulting in death or in injury to person or property, if such negligence was not greater than the total amount of negligence attributable to the person or persons against whom recovery is sought, but any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person for whose injury, damage or death recovery is made. In determining by what amount the plaintiff’s damages shall be diminished in such a case, the negligence of each plaintiff shall be compared to the total negligence of all persons against whom recovery is sought. The combined total of the plaintiff’s negligence taken together with all of the negligence of all defendants shall equal one hundred per cent. 
+The violation of a criminal statute, ordinance or regulation by a plaintiff which contributed to said injury, death or damage, shall be considered as evidence of negligence of that plaintiff, but the violation of said statute, ordinance or regulation shall not as a matter of law and for that reason alone, serve to bar a plaintiff from recovery. 
+The defense of assumption of risk is hereby abolished in all actions hereunder. 
+The burden of alleging and proving negligence which serves to diminish a plaintiff’s damages or bar recovery under this section shall be upon the person who seeks to establish such negligence, and the plaintiff shall be presumed to have been in the exercise of due care.
+    </text>
+</law>

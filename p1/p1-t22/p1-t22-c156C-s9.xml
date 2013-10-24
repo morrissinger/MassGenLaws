@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Records And Documents</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Each limited liability company shall keep at the office referred to in clause (1) of section five the following:
+        </section>
+        <section prefix="1">
+    	     a current list of the full name and last known address of each member and manager;
+        </section>
+        <section prefix="2">
+    	     a copy of the certificate of organization and all certificates of amendment thereto, together with executed copies of any powers of attorney pursuant to which any certificate has been executed;
+        </section>
+        <section prefix="3">
+    	     copies of the limited liability company’s federal, state, and local income tax returns and reports, if any, for the three most recent years;
+        </section>
+        <section prefix="4">
+    	     copies of any then effective written operating agreements and of any financial statements of the limited liability company for the three most recent years; and
+        </section>
+        <section prefix="5">
+    	     unless contained in a written operating agreement, a writing setting out:
+        </section>
+        <section prefix="i">
+    	     the amount of cash and a description and statement of the agreed value of the other property or services contributed by each member and which each member has agreed to contribute;
+        </section>
+        <section prefix="ii">
+    	     the times at which or events on the happening of which any additional contributions agreed to be made by each member are to be made;
+        </section>
+        <section prefix="iii">
+    	     any right of a member to receive, or of a manager to make, distributions to a member; and
+        </section>
+        <section prefix="iv">
+    	     any events upon the happening of which the limited liability company is to be dissolved and its affairs wound up.
+        </section>
+        <section prefix="b">
+    	     Records kept under this section shall be subject to inspection and copying at the reasonable request and at the expense of any member or manager during ordinary business hours.
+        </section>
+        <section prefix="c">
+    	     The current list of names and addresses of the members shall be made available to the state secretary within five business days of receipt of a written request by said state secretary or by the director of the securities division of the state secretary’s office stating that such information is required in connection with an investigatory or enforcement proceeding.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Persons Entitled To Partition</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Any person, except a tenant by the entirety, owning a present undivided legal estate in land, not subject to redemption, shall be entitled to have partition in the manner hereinafter provided. If such estate is in fee, he shall be entitled to partition in fee; if a life estate or a term for years, he shall be entitled to partition thereof to continue so long as his estate endures. A life tenant or a tenant for years of whose term at least twenty years remain unexpired may, in the discretion of the court, have partition of the fee. The existence of a lease of the whole or a part of the land to be divided shall not prevent partition, but such partition shall not disturb possession of a lessee under a lease covering the interests of all the co-tenants.
+    </text>
+</law>

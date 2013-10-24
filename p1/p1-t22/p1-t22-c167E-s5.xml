@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167E" order_by="167E" level="3">Mortgages And Loans</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Investigation And Appraisal Of Real Estate Securing A Loan</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A bank shall inspect the real estate securing a loan in the event that a payment of interest or principal upon the loan or on account of real estate taxes upon the parcel mortgaged to secure the same shall be in default, inspection for the purpose aforesaid shall be made within 91 days from the date of the default in payment of interest or principal or within 181 days from the date of the default in payment on account of taxes, as the case may be, and thereafter periodic inspection shall continue in accordance with this subsection until the loan shall no longer be in default.
+        </section>
+        <section prefix="b">
+    	     The commissioner may cause an appraisal of real estate to be made at the expense of the bank whenever the commissioner considers an excessive loan has been made or is about to be made upon real estate.
+        </section>
+        <section prefix="c">
+    	     A bank shall not directly or indirectly, make a loan or discount on the security of the shares of its own capital or on the security of the shares of capital of any company, 50 per cent or more of the assets of which consists of capital of the corporation, unless the security shall be necessary to prevent loss upon a debt previously contracted in good faith. An officer or employee of a bank who knowingly violates this section shall be punished by a fine of not more than $5,000 or by imprisonment for not more than 1 year, or both.
+        </section>
+    </text>
+</law>

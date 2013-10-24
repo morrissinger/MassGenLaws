@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>60A</section_number>
+    <catch_line>Review, Suspension And Reduction Of Order Requiring Deposit</catch_line>
+    <order_by>60A</order_by>
+    <text>
+        Any company aggrieved by any order of the said commissioner made under section fifty-seven may, within five days from the date of its receipt, file a petition in the supreme judicial court for the county of Suffolk for a review thereof; but the filing of such a petition shall not suspend the operation of the order. The court shall summarily hear the petition and may make any appropriate order or decree. If the court shall order or decree that the amount of the deposit be reduced, the state treasurer or such trustee, if any, shall return to the company so much of the deposit as exceeds the amount fixed by the order or decree, or, if the company has not complied with the order of the said commissioner, it shall forthwith deposit with the state treasurer the amount so fixed.
+    </text>
+</law>

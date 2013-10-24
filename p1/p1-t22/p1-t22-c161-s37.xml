@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Effect Of Issue; Liability Of Directors</catch_line>
+    <order_by>37</order_by>
+    <text>
+        A certificate of stock or scrip issued in violation of the preceding section shall be void; and each director of the company issuing it shall be liable to a penalty of one thousand dollars, to be recovered by indictment in the county where he resides, or, if he resides in no county in the commonwealth, in the county where he is commorant, or the offence was committed; but if any such director proves that, before such issue, he filed his written dissent thereto with the clerk, and at no time voted therefor, he shall not be so liable.
+    </text>
+</law>

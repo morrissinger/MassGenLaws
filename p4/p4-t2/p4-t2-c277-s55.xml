@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Compensation Of Counsel Of Prisoner</catch_line>
+    <order_by>55</order_by>
+    <text>
+        A justice of the court, sitting at the trial or other proceedings upon an indictment for murder, may allow reasonable compensation for the services of counsel assigned to defend the prisoner if he is otherwise unable to procure counsel, and such compensation shall be paid by the county where the indictment is found.
+    </text>
+</law>

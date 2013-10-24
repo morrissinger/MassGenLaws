@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="276" order_by="276" level="3">Search Warrants, Rewards, Fugitives From Justice, Arrest, Examination, Commitment And Bail. Probation Officers And Board Of Probation</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Form Of Warrant</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        The warrant shall be in substantially the following form: 
+THE COMMONWEALTH OF MASSACHUSETTS. 
+(COUNTY), ss.   (NAME) COURT. 
+To the Sheriffs of our several counties, or their deputies, any State Police Officer, or any Constable or Police Officer of any city or town, within our said Commonwealth. 
+Proof by affidavit having been made this day before (name of person authorized to issue warrant) by (names of person or persons whose affidavits have been taken) that there is probable cause for believing that (certain property has been stolen, embezzled, or obtained by false pretenses; certain property is intended for use or has been used as the means of committing a crime; certain property has been concealed to prevent a crime from being discovered; certain property is unlawfully possessed or kept or concealed for an unlawful purpose). 
+We therefore command you in the daytime (or at any time of the day or night) to make an immediate search of (identify premises) (occupied by A.B.) and (of the person of A.B.) and of any person present who may be found to have such property in his possession or under his control or to whom such property may have been delivered, for the following property: 
+(description of property) 
+and if you find any such property or any part thereof to bring it and the persons in whose possession it is found before (court having jurisdiction) at (name of court and location). 
+Dated at (city or town) this __________ day of __________, (insert year). 
+Clerk.
+    </text>
+</law>

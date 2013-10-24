@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>227</section_number>
+    <catch_line>Wilfully Stopping Train</catch_line>
+    <order_by>227</order_by>
+    <text>
+        Whoever wilfully and maliciously stops a train on a railroad or causes it to be stopped for the purpose of entering, leaving or wantonly delaying the same shall be punished by a fine of not more than one hundred dollars or by imprisonment for not more than one month.
+    </text>
+</law>

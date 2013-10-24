@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Scope Of By Laws</catch_line>
+    <order_by>16</order_by>
+    <text>
+        A corporation may make by-laws which may contain any provisions not inconsistent with law or the articles of organization for the regulation and management of the affairs of the corporation. Whenever any section of this chapter refers to the by-laws, a provision included in the articles of organization shall be treated, for the purposes of such section, as if it had been included in the by-laws.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Cancellation Of Registration Of Foreign Limited Liability Company</catch_line>
+    <order_by>53</order_by>
+    <text>
+        <section prefix="1">
+    	     the name of such foreign limited liability company and, if different, the name under which it is registered and doing business in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the address of the principal office of such foreign limited liability company;
+        </section>
+        <section prefix="3">
+    	     the address of the principal office in the commonwealth of such foreign limited liability company, if any, and the name and business address of its resident agent in the commonwealth;
+        </section>
+        <section prefix="4">
+    	     that such foreign limited liability company is not doing business in the commonwealth; and
+        </section>
+        <section prefix="5">
+    	     that all taxes and fees owed the commonwealth have been paid or provided for.
+        </section>
+    </text>
+</law>

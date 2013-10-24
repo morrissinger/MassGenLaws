@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Equitable Defenses</catch_line>
+    <order_by>31</order_by>
+    <text>
+        In the district courts, the defendant may allege in defense any facts which would entitle him in equity to be absolutely and unconditionally relieved against the plaintiff’s claim or cause of action or against a judgment recovered by the plaintiff in such action.
+    </text>
+</law>

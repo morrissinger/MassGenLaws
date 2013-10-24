@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.10</section_number>
+    <catch_line>Vacancy On Board</catch_line>
+    <order_by>8.10</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization or section 8.06 provide otherwise, if a vacancy occurs on a board of directors, including a vacancy resulting from an increase in the number of directors:
+        </section>
+        <section prefix="1">
+    	     the shareholders may fill the vacancy;
+        </section>
+        <section prefix="2">
+    	     the board of directors may fill the vacancy; or
+        </section>
+        <section prefix="3">
+    	     if the directors remaining in office constitute fewer than a quorum of the board, they may fill the vacancy by the affirmative vote of a majority of all the directors remaining in office.
+        </section>
+        <section prefix="b">
+    	     If the vacant office was held by a director elected by a voting group of shareholders, only the holders of shares of that voting group or, unless the articles of organization or by-laws provide otherwise, the directors elected by that voting group are entitled to vote to fill the vacancy.
+        </section>
+        <section prefix="c">
+    	     A vacancy that will occur at a specific later date, by reason of a resignation effective at a later date under subsection (b) of section 8.07 or otherwise, may be filled before the vacancy occurs but the new director may not take office until the vacancy occurs.
+        </section>
+    </text>
+</law>

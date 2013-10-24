@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="207" order_by="207" level="3">Marriage</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Secs. 1 And 2</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The prohibition of the two preceding sections shall continue notwithstanding the dissolution, by death or divorce, of the marriage by which the affinity was created, unless the divorce was granted because such marriage was originally unlawful or void.
+    </text>
+</law>

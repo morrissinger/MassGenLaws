@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.21</section_number>
+    <catch_line>Action Without Meeting</catch_line>
+    <order_by>8.21</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization or bylaws provide that action required or permitted by this chapter to be taken by the directors may be taken only at a meeting, the action may be taken without a meeting if the action is taken by the unanimous consent of the members of the board of directors. The action must be evidenced by 1 or more consents describing the action taken, in writing, signed by each director, or delivered to the corporation by electronic transmission, to the address specified by the corporation for the purpose or, if no address has been specified, to the principal office of the corporation, addressed to the secretary or other officer or agent having custody of the records of proceedings of directors, and included in the minutes or filed with the corporate records reflecting the action taken.
+        </section>
+        <section prefix="b">
+    	     Action taken under this section is effective when the last director signs or delivers the consent, unless the consent specifies a different effective date.
+        </section>
+        <section prefix="c">
+    	     A consent signed or delivered under this section has the effect of a meeting vote and may be described as such in any document.
+        </section>
+    </text>
+</law>

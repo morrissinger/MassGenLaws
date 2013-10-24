@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Laws Applicable To Railways Located On Private Land</catch_line>
+    <order_by>57</order_by>
+    <text>
+        A company, whose railway is constructed in part outside the limits of public ways, shall, in respect of the equipment, use and operation of its railway and transportation thereon, be subject to the laws relative to street railway companies, as fully as if its railway were located wholly within the limits of public ways.
+    </text>
+</law>

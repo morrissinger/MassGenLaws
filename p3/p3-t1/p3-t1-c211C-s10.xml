@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211C" order_by="211C" level="3">Commission On Judicial Conduct</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Physical Or Mental Disabilities</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     The commission shall have authority to receive information, investigate, conduct hearings, and make recommendations to the court relating to mental or physical disability affecting a judge’s performance.
+        </section>
+        <section prefix="2">
+    	     In carrying out its responsibilities regarding physical or mental disabilities, the commission shall follow the same procedures that it employs with respect to discipline for misconduct.
+        </section>
+        <section prefix="3">
+    	     If the judge in a matter relating to physical or mental disability is not represented by counsel, the commission shall appoint an attorney to represent him at public expense.
+        </section>
+        <section prefix="4">
+    	     If a complaint involves the physical or mental condition of the judge, a denial of the alleged condition shall constitute a waiver of medical privilege and the judge shall be required to produce his medical records.
+        </section>
+        <section prefix="5">
+    	     If medical privilege is waived, the judge shall be deemed to have consented to a physical or mental examination by a qualified medical practitioner designated by the commission. The report of the medical practitioner shall be furnished to the commission and the judge.
+        </section>
+    </text>
+</law>

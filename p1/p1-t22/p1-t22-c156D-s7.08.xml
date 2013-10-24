@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.08</section_number>
+    <catch_line>Meetings By Remote Communications; Remote Participation In Meetings</catch_line>
+    <order_by>7.08</order_by>
+    <text>
+        <section prefix="1">
+    	     participate in a meeting of shareholders; and
+        </section>
+        <section prefix="2">
+    	     be deemed present in person and vote at a meeting of shareholders whether such meeting is to be held at a designated place or solely by means of remote communication, provided that:
+        </section>
+        <section prefix="i">
+    	     the corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of remote communication is a stockholder or proxyholder;
+        </section>
+        <section prefix="ii">
+    	     the corporation shall implement reasonable measures to provide such shareholders and proxyholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the shareholders, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with such proceedings; and
+        </section>
+        <section prefix="iii">
+    	     if any stockholder or proxyholder votes or takes other action at the meeting by means of remote communication, a record of such vote or other action shall be maintained by the corporation.
+        </section>
+    </text>
+</law>

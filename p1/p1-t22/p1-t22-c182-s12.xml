@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="182" order_by="182" level="3">Voluntary Associations And Certain Trusts</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Annual Reports</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Every association or trust shall annually on or before June first file with the state secretary a report signed under the penalties of perjury by its trustees stating (a) the name of the association or trust; (b) the location (with street address) of its principal office in this commonwealth and elsewhere if the trust or association does business outside the commonwealth; (c) the number of its issued and outstanding transferable certificates of participation or shares; and (d) the names and addresses of its trustees.
+    </text>
+</law>

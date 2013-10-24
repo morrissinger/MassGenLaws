@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Exhaustion Of Policy Insolvency Provisions On Covered Claims;  Reduction Of Recovery On Policy From Amount Payable Under This Chapter;  Multiple Funds</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any person having a claim against his insurer under any insolvency provision in his insurance policy which is also a covered claim shall be required to exhaust first his right under such policy. Any amount payable on a covered claim under this chapter shall be reduced by the amount of such recovery under the claimant’s insurance policy. Any person having a claim which may be recovered under more than one insurer’s insolvency fund or its equivalent shall seek recovery first from the fund of the place of residence of the insured except that if it is a first party claim for damage to property with a permanent location, such person shall seek recovery first from the fund of the location of the property, but if it is a claim for compensation or other benefits under a workers’ compensation policy, such person shall seek recovery first from the fund of the jurisdiction of the claimant’s contract of hire. Any recovery under this chapter shall be reduced by the amount of the recovery from any other insurers’ insolvency fund or its equivalent.
+    </text>
+</law>

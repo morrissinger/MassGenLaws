@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Creation; Termination; Augmentation Of Trust Property; Designation Of Successor Trustee</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A person may create a custodial trust of property by a written transfer of the property to another person, evidenced by registration or by other instrument of transfer, executed in any lawful manner, naming as beneficiary, an individual who may be the transferor, in which the transferee is designated, in substance, as custodial trustee under this chapter.
+        </section>
+        <section prefix="b">
+    	     A person may create a custodial trust of property by a written declaration, evidenced by registration of the property or by other instrument of declaration executed in any lawful manner, describing the property and naming as beneficiary an individual other than the declarant, in which the declarant as titleholder is designated, in substance, as custodial trustee under this chapter. A registration or other declaration of trust for the sole benefit of the declarant shall not constitute a custodial trust under this chapter.
+        </section>
+        <section prefix="c">
+    	     Title to custodial trust property shall be in the custodial trustee and the beneficial interest shall be in the beneficiary.
+        </section>
+        <section prefix="d">
+    	     Except as provided in subsection (e), a transferor may not terminate a custodial trust.
+        </section>
+        <section prefix="e">
+    	     The beneficiary, if not incapacitated, or the conservator of an incapacitated beneficiary, may terminate a custodial trust by delivering to the custodial trustee a writing signed by the beneficiary or conservator declaring the termination. If not previously terminated, the custodial trust shall terminate on the death of the beneficiary.
+        </section>
+        <section prefix="f">
+    	     Any person may augment existing custodial trust property by the addition of other property pursuant to this chapter.
+        </section>
+        <section prefix="g">
+    	     The transferor may designate, or authorize the designation of, a successor custodial trustee in the trust instrument.
+        </section>
+        <section prefix="h">
+    	     This chapter shall not displace or restrict other means of creating trusts. A trust whose terms do not conform to this chapter may be enforceable according to its terms under other law.
+        </section>
+    </text>
+</law>

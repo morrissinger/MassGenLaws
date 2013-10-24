@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Benefit Account</catch_line>
+    <order_by>52</order_by>
+    <text>
+        All moneys requisitioned from the commonwealth’s account in the Unemployment Trust Fund in the United States treasury and received by the commissioner from the state treasurer shall be immediately deposited in a benefit account maintained by the commissioner. All moneys in the benefit account shall be used exclusively for the payment of benefits pursuant to this chapter.
+    </text>
+</law>

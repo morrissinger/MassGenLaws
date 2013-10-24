@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Compliance Review Documents; Confidentiality</catch_line>
+    <order_by>51</order_by>
+    <text>
+        <section prefix="a">
+    	     fails to take appropriate corrective action, unless a reasonable good faith determination has been made in writing by said directors that such action is not required; or
+        </section>
+        <section prefix="b">
+    	     voluntarily discloses all or any part of the details or conclusions of said compliance review document to an applicant or to the public, or otherwise uses the same as a defense to charges that the bank has violated any fair lending law; provided, however, that the disclosure to an applicant or to the public that the bank has a self testing program in existence or the release of said compliance review document to the commissioner or the bank’s primary federal regulator shall not be deemed to be a voluntary disclosure for this purpose.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>162O</section_number>
+    <catch_line>Individuals Licensed In Another State; Exemption</catch_line>
+    <order_by>162O</order_by>
+    <text>
+        <section prefix="a">
+    	     An individual who applies for an insurance producer license in the commonwealth who was previously licensed for the same lines of authority in another state shall not be required to complete any prelicensing education or examination. This exemption is only available if the person is currently licensed in that state or if the application is received within 90 days of the cancellation of the applicant’s previous license and if the prior state issues a certification that, at the time of cancellation, the applicant was in good standing in that state or the state’s producer database records, maintained by the NAIC, its affiliates or subsidiaries, indicate that the producer is or was licensed in good standing for the line of authority requested.
+        </section>
+        <section prefix="b">
+    	     A person licensed as an insurance producer in another state who moves to the commonwealth shall make application within 90 days of establishing legal residence to become a resident licensee under section 162L. No prelicensing education or examination shall be required of that person to obtain any line of authority previously held in the prior state except where the commissioner determines otherwise by regulation.
+        </section>
+    </text>
+</law>

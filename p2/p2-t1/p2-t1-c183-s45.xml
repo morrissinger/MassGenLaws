@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Conveyance In Fee By Person Seized As Tenant In Tail</catch_line>
+    <order_by>45</order_by>
+    <text>
+        A person seized of land as tenant in tail may convey such land in fee simple by a deed in common form, as if he were seized thereof in fee simple; and such conveyance shall bar the estate tail and all remainders and reversions expectant thereon.
+    </text>
+</law>

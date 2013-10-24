@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Certificate Of Organization</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to form a limited liability company, one or more authorized persons must execute a certificate of organization. The certificate of organization shall be filed in the office of the state secretary and set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the limited liability company;
+        </section>
+        <section prefix="2">
+    	     the address of the office in the commonwealth required to be maintained by section five;
+        </section>
+        <section prefix="3">
+    	     the name and address of the resident agent for service of process required to be maintained by section 5; provided, however, that the agent’s written consent to the appointment shall be either in the certificate or attached to it;
+        </section>
+        <section prefix="4">
+    	     if the limited liability company is to have a specific date of dissolution, the latest date on which the limited liability company is to dissolve;
+        </section>
+        <section prefix="5">
+    	     if the limited liability company has managers at the time of its formation, the name and address of each manager;
+        </section>
+        <section prefix="6">
+    	     the name of any other person in addition to any manager who is authorized to execute any documents to be filed with the office of the state secretary and at least one such person shall be named if there are no managers;
+        </section>
+        <section prefix="7">
+    	     the general character of the limited liability company’s business;
+        </section>
+        <section prefix="8">
+    	     if desired, the names of one or more persons authorized to execute, acknowledge, deliver and record any recordable instrument purporting to affect an interest in real property, whether to be recorded with a registry of deeds or a district office of the land court; and
+        </section>
+        <section prefix="9">
+    	     any other matters the authorized persons determine to be included therein.
+        </section>
+        <section prefix="b">
+    	     A limited liability company is formed at the time of the filing of the initial certificate of organization in the office of the state secretary or at any later date specified in the certificate of organization if, in either case, there has been substantial compliance with the requirements of this section. A limited liability company formed under this chapter shall be a separate legal entity, the existence of which as a separate legal entity shall continue until cancellation of the limited liability company’s certificate of organization.
+        </section>
+        <section prefix="c">
+    	     All limited liability companies formed under this chapter shall also file an annual report with the state secretary setting forth the information required in subsection (a).
+        </section>
+        <section prefix="d">
+    	     The fee for the filing of the certificate of organization required by subsection (a) shall be five hundred dollars. The fee for the filing of the annual report required by subsection (c) shall be five hundred dollars. Such fees shall be paid to the state secretary at the time the certificate of organization or the annual report is filed.
+        </section>
+    </text>
+</law>

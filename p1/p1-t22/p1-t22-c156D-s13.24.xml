@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.24</section_number>
+    <catch_line>Payment</catch_line>
+    <order_by>13.24</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in section 13.25, within 30 days after the form required by subclause (ii) of clause (2) of subsection (b) of section 13.22 is due, the corporation shall pay in cash to those shareholders who complied with subsection (a) of section 13.23 the amount the corporation estimates to be the fair value of their shares, plus interest.
+        </section>
+        <section prefix="b">
+    	     The payment to each shareholder pursuant to subsection (a) shall be accompanied by:
+        </section>
+        <section prefix="1">
+    	     financial statements of the corporation that issued the shares to be appraised, consisting of a balance sheet as of the end of a fiscal year ending not more than 16 months before the date of payment, an income statement for that year, a statement of changes in shareholders’ equity for that year, and the latest available interim financial statements, if any;
+        </section>
+        <section prefix="2">
+    	     a statement of the corporation’s estimate of the fair value of the shares, which estimate shall equal or exceed the corporation’s estimate given pursuant to subclause (iii) of clause (2) of subsection (b) of section 13.22; and
+        </section>
+        <section prefix="3">
+    	     a statement that shareholders described in subsection (a) have the right to demand further payment under section 13.26 and that if any such shareholder does not do so within the time period specified therein, such shareholder shall be deemed to have accepted the payment in full satisfaction of the corporation’s obligations under this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Unclaimed Balance In Benefit Account</catch_line>
+    <order_by>53</order_by>
+    <text>
+        Any balance of moneys requisitioned from the Unemployment Trust Fund which remains unclaimed or unpaid in the benefit account after the expiration of the period for which such sums were requisitioned shall either be deducted from estimates for, and may be utilized for the payment of, benefits during succeeding periods, or, in the discretion of the commissioner, shall be redeposited by the state treasurer with the secretary of the treasury of the United States of America, to the credit of the account of the commonwealth in the Unemployment Compensation Fund.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>42A</section_number>
+    <catch_line>Amount Liquidated Or Ascertainable By Calculation; Limitation On Attachment</catch_line>
+    <order_by>42A</order_by>
+    <text>
+        In an action or suit for an amount which is liquidated or ascertainable by calculation, no attachment by trustee process or otherwise shall be made for a larger sum than the amount of the claim and such additional amount as is reasonably necessary to include interest thereon and costs likely to be taxed in the action.
+    </text>
+</law>

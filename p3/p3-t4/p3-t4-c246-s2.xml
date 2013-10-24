@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Venue</catch_line>
+    <order_by>2</order_by>
+    <text>
+        If, in an action in the supreme judicial or superior court in which trustee process is used, all the persons named in the summons as trustees dwell or have usual places of business in one county, the action shall be brought in that county; otherwise it may be brought in any county where any one of the trustees dwells or has a usual place of business.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Treasurer; Duties; Assistant Treasurer</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The treasurer shall keep the financial accounts and have charge of all books and papers necessary therefor, and dispose of and secure the safekeeping of all money, securities and property of the corporation, in the manner and subject to the limitations from time to time designated by the board of directors, subject to applicable provisions of law. 
+Such corporation may provide in its by-laws for assistant treasurers. An assistant treasurer may perform all the duties of the treasurer.
+    </text>
+</law>

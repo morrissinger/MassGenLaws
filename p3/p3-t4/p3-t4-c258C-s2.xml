@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258C" order_by="258C" level="3">Compensation Of Victims Of Violent Crimes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Eligibility For Compensation</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     No compensation shall be paid under this chapter unless the division finds that a crime was committed and that such crime directly resulted in personal physical or psychological injury to, or death of, the victim.
+        </section>
+        <section prefix="b">
+    	     No compensation shall be paid under this chapter unless the claimant demonstrates that the crime was reported to the police or other law enforcement authorities or to an agency or entity obligated by law to report complaints of criminal misconduct to law enforcement authorities. Except in the case where the division finds such report to have been delayed for good cause, such report shall have been made within five days after the occurrence of such crime.
+        </section>
+        <section prefix="c">
+    	     A claimant shall be eligible for compensation only if such claimant cooperates with law enforcement authorities in the investigation and prosecution of the crime in which the victim was injured or killed unless the claimant demonstrates that he possesses or possessed a reasonable excuse for failing to cooperate.
+        </section>
+        <section prefix="d">
+    	     A claimant shall not be eligible for compensation if such compensation would unjustly benefit the offender; provided, however, that a claimant shall not, except pursuant to regulations enacted in accordance with section four to prevent unjust enrichment, be denied compensation because of such claimant’s or victim’s familial relationship with the offender or because of the sharing of a residence by the victim or claimant and the offender.
+        </section>
+        <section prefix="e">
+    	     An offender or an accomplice of an offender shall not be eligible to receive compensation with respect to a crime committed by an offender. To the extent that the victim’s acts or conduct provoked or contributed to the injuries, the division shall reduce or deny an award to the claimant or claimants in accordance with regulations enacted pursuant to section four.
+        </section>
+        <section prefix="g">
+    	     The claimant may retain counsel under this chapter. Attorneys fees shall be deducted from, and not in addition to, the total award for compensation. No attorneys fees shall be paid unless the attorney submits an affidavit which sets forth the hours worked and the services rendered for representing the claimant in the claim for compensation. The division may include as part of its award, reasonable attorneys fees to be determined by the division in an amount not to exceed fifteen percent of the total award for compensation.
+        </section>
+    </text>
+</law>

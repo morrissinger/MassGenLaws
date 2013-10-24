@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>67A</section_number>
+    <catch_line>Membership In Associations Benefitting Credit Union Or Providing Services</catch_line>
+    <order_by>67A</order_by>
+    <text>
+        <section prefix="1">
+    	     A credit union may become a member of any association organized to protect and promote the interest of credit unions and may pay for such membership its proportionate share of expenses as is reasonable and necessary.
+        </section>
+        <section prefix="2">
+    	     A credit union may become a member of or contribute to any other association or organization in the commonwealth if, in the opinion of its board of directors, such membership or contribution is reasonable and of substantial benefit to such credit union and its members.
+        </section>
+        <section prefix="3">
+    	     For the purpose of promoting, protecting or conserving the assets of credit unions, a credit union may subscribe for services, including advertising and professional services, rendered or to be rendered collectively through an association referred to in paragraph (1) or through any group of credit union institutions; and in each such case, the credit union, with the approval of its board of directors, may pay for such services its proportionate share of the total cost thereof or such other amount as the said board shall deem reasonable and proper.
+        </section>
+    </text>
+</law>

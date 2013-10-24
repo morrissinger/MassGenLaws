@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Short Title; Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     “Child”, except as modified by this paragraph, a child of a natural parent whose relationship is involved. An adopted individual is the child of the adopting parents and not of the natural parents, but an individual adopted by the spouse of a natural parent is also the child of either natural parent. An individual born out of wedlock is not the child of the father unless the individual is openly and notoriously so treated by the father. The term does not include an individual who is a stepchild, a foster child, a grandchild, or a more remote descendant.
+        </section>
+        <section prefix="2">
+    	     “Issue”, all lineal descendants of an individual of all generations, with the status of a child at each generation being determined by the definition of child.
+        </section>
+        <section prefix="3">
+    	     “Personal representative”, the executor, administrator, successor personal representative, special administrator, or a person who performs substantially the same functions relating to the estate of a decedent under the law governing their status.
+        </section>
+        <section prefix="4">
+    	     “Property”, an interest, present or future, legal or equitable, vested or contingent, in real or personal property.
+        </section>
+        <section prefix="5">
+    	     “Representation”, a division of the estate into as many equal shares as there are surviving issue in the nearest degree of kinship and deceased individuals in the same degree who left issue surviving the decedent, each surviving issue in the nearest degree receiving one share and the share of each deceased individual in the same degree being divided among issue of that individual in the same manner.
+        </section>
+        <section prefix="6">
+    	     “Statutory will estate”, the entire testamentary estate, except as otherwise provided in the will.
+        </section>
+        <section prefix="7">
+    	     “Surviving spouse”, the individual to whom the testator was married at the time of death except a spouse from whom the testator was then separated under a decree of separation, whether or not final, or written separation agreement signed by both parties. An individual separated from the testator whose marriage to the testator continues in effect under the law of the commonwealth solely because a judgment of divorce or annulment of the marriage is not recognized as valid in the commonwealth is not the testator’s surviving spouse under this chapter. An individual whose marriage to the testator at the time of death is not recognized in the commonwealth solely because a judgment of divorce or annulment of a previous marriage of either or both of them is not recognized as valid in the commonwealth is the testator’s surviving spouse under this chapter.
+        </section>
+        <section prefix="8">
+    	     “Testamentary estate”, every interest in property subject to disposition or appointed by a will of the decedent.
+        </section>
+        <section prefix="9">
+    	     “Testator’s residence”, one or more properties normally used at the time of the testator’s death by the testator or the surviving spouse as a residence for any part of the year. If the property used as a residence is a unit in a cooperative or other entity, it includes all rights and interests relating to such unit. If the property is used in part for a commercial, agricultural, or other business purpose, the testator’s residence is an area not exceeding three acres, which includes the structure used in whole or in part as a residence and structures normally used by the testator in connection with the dwelling and excludes structures and areas outside the dwelling used primarily for a commercial, agricultural, or other business purpose.
+        </section>
+        <section prefix="10">
+    	     “Trustee”, an original, additional, or successor trustee, whether or not appointed or confirmed by the court.
+        </section>
+    </text>
+</law>

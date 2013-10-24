@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Levy Valid Against Creditor</catch_line>
+    <order_by>25</order_by>
+    <text>
+        If the execution and return have not been returned or recorded as aforesaid, the levy shall be so far valid against the creditor that he shall not waive the levy and have a new execution, except as provided in section fifty.
+    </text>
+</law>

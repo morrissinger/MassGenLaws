@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="182" order_by="182" level="3">Voluntary Associations And Certain Trusts</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>Investment Company Trust; Trustee</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        This section shall apply to a trust that is an investment company, as defined in the Investment Company Act of 1940, and that is registered thereunder with the United States Securities and Exchange Commission. 
+A trustee of a trust who with respect to the trust is not an interested person, as defined in said Investment Company Act of 1940, shall be deemed to be independent and disinterested when making any determination or taking any action as a trustee.
+    </text>
+</law>

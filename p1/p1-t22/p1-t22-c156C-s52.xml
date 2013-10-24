@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Correction Or Amendment Of Application For Registration Of Foreign Limited Liability Company</catch_line>
+    <order_by>52</order_by>
+    <text>
+        If any statement in the application for registration of a foreign limited liability company was false when made or any arrangements or other facts described have changed, making the application inaccurate in any respect, the foreign limited liability company shall promptly file in the office of the state secretary a certificate, signed and sworn to by an authorized person, correcting or amending such statement.
+    </text>
+</law>

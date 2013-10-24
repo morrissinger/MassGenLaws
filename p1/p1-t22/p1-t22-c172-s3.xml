@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Use Of Words “Trust Company”</catch_line>
+    <order_by>3</order_by>
+    <text>
+        No person, other than a trust company, shall use the words “trust company”, even though said words may be separated by one or more other words, as part of his or its name or in any representation describing his or its business, powers, services or functions. Any person who violates this section shall be punished by a fine of one hundred dollars for each day during which such violation continues.
+    </text>
+</law>

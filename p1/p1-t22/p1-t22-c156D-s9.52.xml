@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.52</section_number>
+    <catch_line>Action On A Plan Of Entity Conversion</catch_line>
+    <order_by>9.52</order_by>
+    <text>
+        <section prefix="1">
+    	     The plan of entity conversion shall be adopted by the board of directors.
+        </section>
+        <section prefix="2">
+    	     After adopting the plan of entity conversion, the board of directors shall submit the plan to the shareholders for their approval.
+        </section>
+        <section prefix="3">
+    	     The board of directors may condition its submission of the plan of entity conversion to the shareholders on any basis.
+        </section>
+        <section prefix="4">
+    	     If the approval of the shareholders is to be given at a meeting, the corporation shall notify each shareholder, whether or not entitled to vote, of the meeting of shareholders at which the plan of entity conversion is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the plan and shall contain or be accompanied by a copy or summary of the plan. The notice shall include or be accompanied by a copy or summary of the organizational documents as they will be in effect immediately after the entity conversion.
+        </section>
+        <section prefix="5">
+    	     Unless (i) a greater percentage vote, or one or more additional separate voting groups, is required by the articles of organization, pursuant to section 7.27(a), by the bylaws, pursuant to section 10.21, or by the board of directors, acting pursuant to paragraph (3), or (ii) the articles provide for a lesser percentage vote, in accordance with subsection (b) of section 7.27, approval of the plan of domestication requires approval by two-thirds of all the shares entitled generally to vote on the matter by the articles of organization, and in addition two-thirds of the shares in any voting group entitled to vote separately on the matter by this chapter, by the articles, by the bylaws, or by action of the board of directors pursuant to subsection (c) of this section.
+        </section>
+        <section prefix="6">
+    	     Separate voting by voting groups is required by each class or series of shares that:
+        </section>
+        <section prefix="i">
+    	     would have a right to vote as a separate voting group on a provision in the plan that, if contained in a proposed amendment to the articles of organization, would require action by separate voting groups under section 10.04; or
+        </section>
+        <section prefix="ii">
+    	     is entitled under the articles of organization to vote as a voting group to approve a plan of merger.
+        </section>
+        <section prefix="7">
+    	     If the articles of organization, bylaws or an agreement to which any of the directors or shareholders are parties, adopted or entered into before the effective date of this chapter, applies to a merger of the corporation and the document does not refer to an entity conversion of the corporation, the provision shall be deemed to apply to an entity conversion of the corporation until such time as the provision is subsequently amended.
+        </section>
+        <section prefix="8">
+    	     If as a result of the conversion one or more shareholders of the corporation would become subject to owner liability for the debts, obligations or liabilities of any other person or entity, approval of the plan of conversion shall require the execution, by each such shareholder who does not assert appraisal rights, of a separate written consent to become subject to such owner liability.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="182" order_by="182" level="3">Voluntary Associations And Certain Trusts</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Application Of Chapter To Rates Or Services</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Nothing contained in this chapter shall be construed as authorizing, requiring or justifying the department in making any recommendations, rulings or orders with respect to the rates charged or the service furnished by any corporation subject to its supervision, to take into consideration in any respect whatsoever any certificates of participation or shares issued under a declaration of trust and representing the beneficial interest in the stock, bonds, notes or other securities of such corporation, or the investment in such certificates or shares.
+    </text>
+</law>

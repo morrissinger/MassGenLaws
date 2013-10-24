@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174C" order_by="174C" level="3">Vehicle Protection Product Warranties Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Vehicle Protection Product Warranty Requirement</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A vehicle protection product warranty is required for all vehicle protection products sold or offered for sale in the commonwealth and shall:
+        </section>
+        <section prefix="1">
+    	     identify the warrantor, the seller of the vehicle protection product, the warranty holder and the terms of the sale and the warranty;
+        </section>
+        <section prefix="2">
+    	     conspicuously state that the obligations of the warrantor to the warranty holder are guaranteed under a warranty reimbursement insurance policy if the warrantor elects to use a warranty reimbursement insurance policy to demonstrate financial responsibility under section 4;
+        </section>
+        <section prefix="3">
+    	     conspicuously state that if the warrantor fails to perform under the terms of the warranty within 60 days of a request for payment or services, the warranty holder may seek payment or services directly from the insurer through the warrantor’s warranty reimbursement insurance policy and the insurer shall make payment or provide services directly to the warranty holder on behalf of the warrantor if the warrantor elects to use a warranty reimbursement insurance policy to demonstrate financial responsibility under section 4;
+        </section>
+        <section prefix="4">
+    	     conspicuously state the name and address of the insurer issuing the warranty reimbursement insurance policy if the warrantor elects to use a warranty reimbursement insurance policy to demonstrate financial responsibility under section 4; and
+        </section>
+        <section prefix="5">
+    	     disclose how the incidental costs are to be calculated for reimbursement, which may be, without limitation, a fixed amount specified in the warranty or sales agreement, or by the use of a formula itemizing specific incidental costs incurred by the warranty holder.
+        </section>
+        <section prefix="6">
+    	     not require as a condition of financing that a retail purchaser of a motor vehicle purchase a vehicle protection product.
+        </section>
+        <section prefix="7">
+    	     contain the following disclosure in bold type of a minimum font size of 10 points:
+        </section>
+    </text>
+</law>

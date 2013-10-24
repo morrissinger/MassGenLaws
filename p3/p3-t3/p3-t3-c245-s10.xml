@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="245" order_by="245" level="3">Informations By The Commonwealth</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Against Whom Action Brought</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If the commonwealth continues seized of the land when such new action is commenced, such action shall be brought against the tenant or occupant thereof, and, in addition to the service on him service shall be made upon the attorney general or district attorney. If the commonwealth has granted away the land, the action shall be brought against the tenant of the freehold. In either case it shall be conducted and disposed of as if no such action by the commonwealth had been brought.
+    </text>
+</law>

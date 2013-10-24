@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="266" order_by="266" level="3">Crimes Against Property</unit>
+    </structure>
+    <section_number>143F</section_number>
+    <catch_line>Unlawful Recording Of Motion Picture In Motion Picture Theater;  Punishment</catch_line>
+    <order_by>143F</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person, in a motion picture theater while a motion picture is being exhibited, who knowingly operates an audiovisual recording function, with the intent to unlawfully record the motion picture and without the consent of the owner or lessee of the motion picture theater, shall be punished for a first offense by imprisonment in the house of correction for not more than 2 years or by a fine of not more than $100,000, or by both such fine and imprisonment and for a second or subsequent conviction, by imprisonment in the state prison for not more than 5 years or by a fine of not more than $250,000, or by both such fine and imprisonment.
+        </section>
+        <section prefix="b">
+    	     Nothing in subsection (a) shall be construed to apply to local, state or federal law enforcement officers employing an audiovisual recording function during the lawful exercise of law enforcement duties.
+        </section>
+    </text>
+</law>

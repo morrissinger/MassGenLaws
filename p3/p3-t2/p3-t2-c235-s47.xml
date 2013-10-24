@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Suspension By Prior Seizure</catch_line>
+    <order_by>47</order_by>
+    <text>
+        If personal property has been seized on execution, and the further service of the execution is suspended by reason of a prior attachment or seizure of the same property, such property shall remain bound by such later seizure until sold, in whole or in part, under the prior attachment or seizure, or until that attachment or seizure is dissolved.
+    </text>
+</law>

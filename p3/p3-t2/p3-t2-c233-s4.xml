@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Liability For Nonattendance</catch_line>
+    <order_by>4</order_by>
+    <text>
+        If a person who has been duly summoned and required to attend as a witness under the preceding sections or section thirty-seven of chapter two hundred and eighteen fails, without a sufficient excuse, to attend, he shall be liable to the aggrieved party in tort for all damages caused by such failure.
+    </text>
+</law>

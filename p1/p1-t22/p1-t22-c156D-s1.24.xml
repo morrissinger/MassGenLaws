@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.24</section_number>
+    <catch_line>Correcting Filed Document</catch_line>
+    <order_by>1.24</order_by>
+    <text>
+        <section prefix="a">
+    	     A domestic or foreign corporation may correct a document filed by the secretary of state if the document (1) contains a typographical error or an incorrect statement or (2) was defectively executed, attested, sealed, verified, or acknowledged.
+        </section>
+        <section prefix="b">
+    	     A document is corrected:
+        </section>
+        <section prefix="1">
+    	     by preparing articles of correction that (i) describe the document, including its filing date, or attach a copy of it to the articles; (ii) specify the typographical error, the incorrect statement and the reason it is incorrect or the manner in which the execution was defective; and (iii) correct the typographical error, incorrect statement or defective execution; and
+        </section>
+        <section prefix="2">
+    	     by delivering the articles of correction to the secretary of state for filing.
+        </section>
+        <section prefix="c">
+    	     Articles of correction are effective on the effective date of the document they correct except as to persons relying on the uncorrected document and adversely affected by the correction. As to those persons, articles of correction are effective when filed.
+        </section>
+        <section prefix="d">
+    	     Articles of correction cannot be used to change the effective date of a filed document; provided, however, that if a document has been filed with a delayed effective date, articles of correction may be filed prior to said date (1) to accelerate the effective date to a date not earlier than the date of the articles of correction, or (2) to abandon a merger or amendment to the articles of organization if authority to do so is granted by the merger agreement or the persons approving the amendment.
+        </section>
+        <section prefix="e">
+    	     If the secretary of state permits electronic filings, defects in the electronic recording or transmission of documents may be corrected under this section to the extent permitted by regulations promulgated by the secretary.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167H" order_by="167H" level="3">Mutual Holding Companies</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Reorganization Of Mutual Banking Institution</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding the provisions of any general or special law to the contrary, a mutual banking institution that is a savings bank may reorganize so as to become a mutual holding company by (1) establishing a subsidiary banking institution as a stock savings bank in accordance with section three, and (2) transferring to such subsidiary banking institution the substantial part of its assets and liabilities, including all of its deposit liabilities. Upon such transfer, all persons who prior thereto held depositary rights with respect to or other rights as creditors of such mutual banking institution shall have such rights solely with respect to the said subsidiary banking institution and the corresponding liability or obligation of the mutual banking institution to such persons shall be assumed by the subsidiary banking institution. All persons who had liquidation rights pursuant to section thirty-three of chapter one hundred and sixty-eight with respect to the mutual banking institution shall continue to have such rights solely with respect to said mutual holding company.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding the provisions of any general or special law to the contrary, a mutual banking institution that is a cooperative bank may reorganize so as to become a mutual holding company by (1) establishing a subsidiary banking institution as a stock cooperative bank in accordance with section three, and (2) transferring to such subsidiary banking institution the substantial part of its assets and liabilities, including all of its deposit liabilities. Upon such transfer, all persons who prior thereto held depositary rights with respect to or other rights as creditors of such mutual banking institution shall have such rights solely with respect to the said subsidiary banking institution and the corresponding liability or obligation of the mutual banking institution to such persons shall be assumed by the subsidiary banking institution. All persons who had liquidation rights pursuant to section twenty-seven of chapter one hundred and seventy with respect to the mutual banking institution shall continue to have such rights solely with respect to said mutual holding company.
+        </section>
+        <section prefix="c">
+    	     Any reorganization of a mutual banking institution pursuant to subsection (a) shall be approved by a majority of the board of trustees and by a majority of the corporators present and voting in each case at the annual meeting or at a special meeting called, in accordance with the by-laws, for such purpose. Any such reorganization pursuant to subsection (b) shall be approved by a majority of the board of directors and by a majority of the shareholders present and voting in each case at the annual meeting or at a special meeting called, in accordance with the by-laws, for such purpose.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.03</section_number>
+    <catch_line>Issued And Outstanding Shares</catch_line>
+    <order_by>6.03</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may issue the number of shares of each class or series authorized by the articles of organization. Shares that are issued are outstanding shares until they are reacquired, redeemed, converted or canceled.
+        </section>
+        <section prefix="b">
+    	     The reacquisition, redemption or conversion of outstanding shares is subject to the limitations of subsection (c) and to section 6.40.
+        </section>
+        <section prefix="c">
+    	     At all times that shares of the corporation are outstanding, 1 or more shares that together have unlimited voting rights and 1 or more shares that together are entitled to receive the net assets of the corporation upon dissolution shall be outstanding.
+        </section>
+    </text>
+</law>

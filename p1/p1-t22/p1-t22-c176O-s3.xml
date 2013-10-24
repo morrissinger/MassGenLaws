@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Complaints Against Carriers; Notice; Hearing</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The bureau shall investigate all complaints made against a carrier or any entity with which it contracts for allegations of noncompliance with the accreditation requirements established by section 2. The bureau shall notify a carrier when, in the opinion of the bureau, the complaints made against such a carrier indicate a pattern of noncompliance with a particular accreditation requirement. The notice shall detail the alleged noncompliance and establish a hearing date for the matter, which shall be held no later than 21 days after the date of the notice. The hearing shall be conducted pursuant to chapter 30A. The hearing shall provide such a carrier with the opportunity to respond to the alleged noncompliance.
+        </section>
+        <section prefix="b">
+    	     The bureau may, after said hearing, suspend or revoke the accreditation of such a carrier, or reprimand, censure or impose a civil administrative penalty not to exceed $10,000 for each classification of violation.
+        </section>
+        <section prefix="c">
+    	     If, after said hearing, the bureau determines that such a pattern of noncompliance has been substantiated, the bureau may issue an order requesting a corrective action plan and timeframe to achieve compliance.
+        </section>
+        <section prefix="d">
+    	     If a national accreditation organization takes any action to revoke the accreditation or otherwise limit or negatively affect the accreditation status of a carrier, or any entity with which it contracts for services regulated under this chapter, such carrier shall promptly notify the bureau. If a national accreditation entity revokes such accreditation, the carrier shall not be eligible for deemed accreditation status, and the bureau shall initiate proceedings pursuant to chapter 30A to revoke or suspend the carrier’s accreditation.
+        </section>
+        <section prefix="e">
+    	     Nothing in this section shall be construed to prohibit the bureau and a carrier from resolving compliance issues through informal means.
+        </section>
+        <section prefix="f">
+    	     Accreditation granted to carriers pursuant to this section shall be renewed every 2 years. The fee for the renewal shall be in an amount determined by the commissioner, but shall not be less than $1,000.
+        </section>
+    </text>
+</law>

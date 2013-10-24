@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>8A</section_number>
+    <catch_line>Amendment Of Articles Of Organization; Change In Business Authorized Or Any Other Change</catch_line>
+    <order_by>8A</order_by>
+    <text>
+        <section prefix="a">
+    	     an alteration of, addition to or change of the business for which it was incorporated, but it shall not engage in any business not authorized by this chapter; provided, however, that a gas company shall not be authorized to engage in the business of an electric company and an electric company shall not be authorized to engage in the business of a gas company unless, in either case, the department, after notice and public hearing, shall certify to the state secretary that the department deems the public convenience will be promoted thereby;
+        </section>
+        <section prefix="b">
+    	     any other amendment to its articles of organization; provided, only, that any provision added to or changes made in the articles of organization by such amendment could have been included in and any provision deleted thereby could have been omitted from original articles of organization filed at the time of such meeting. If any such amendment would adversely affect the rights of any class of stock, the vote of two-thirds of such class, voting separately, shall also be necessary to authorize such amendment. For this purpose any series of a class which is adversely affected in a manner different from other series of the same class shall, together with any other series of the same class adversely affected in the same manner, be treated as a separate class.
+        </section>
+    </text>
+</law>

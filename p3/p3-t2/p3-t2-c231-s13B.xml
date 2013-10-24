@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>13B</section_number>
+    <catch_line>Ad Damnum Or Monetary Amount Claimed</catch_line>
+    <order_by>13B</order_by>
+    <text>
+        No complaint in any civil action shall contain an ad damnum or monetary amount claimed against any defendant, unless such ad damnum or monetary amount claimed indicates damages which are liquidated or ascertainable by calculation and a statement under oath by a person having knowledge thereof is attached to such complaint setting forth the manner in which the amount of said damages was calculated. For the purposes of this section complaint shall include a claim, crossclaim or counterclaim.
+    </text>
+</law>

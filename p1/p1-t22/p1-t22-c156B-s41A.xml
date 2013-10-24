@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>41A</section_number>
+    <catch_line>Agreements For Voting Shares</catch_line>
+    <order_by>41A</order_by>
+    <text>
+        An agreement between two or more stockholders or between one or more stockholders and one or more other persons, if in writing and signed by the parties thereto, whether or not such parties include all of the stockholders of the corporation, may provide that the shares held by such stockholders shall be voted under procedures set forth in said agreement.
+    </text>
+</law>

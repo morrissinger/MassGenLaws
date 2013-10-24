@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Procurement Of Unlawful Divorce</catch_line>
+    <order_by>42</order_by>
+    <text>
+        Whoever knowingly procures or obtains or assists another to procure or obtain any false, counterfeit or fraudulent divorce or judgment of divorce, or any divorce or judgment of divorce from a court of another state for or in favor of a person who at the time of making application therefor was a resident of this commonwealth, such court not having jurisdiction to grant such judgment, shall be punished by a fine of not more than two hundred dollars or by imprisonment for not more than six months.
+    </text>
+</law>

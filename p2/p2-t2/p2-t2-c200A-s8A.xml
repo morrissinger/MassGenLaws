@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>8A</section_number>
+    <catch_line>Delivery Or Payment Of Abandoned Property To State Treasurer</catch_line>
+    <order_by>8A</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who has filed a report as provided in section 7 shall, by November 1 or, in the case of life insurance companies and persons holding unclaimed proceeds from demutualization or related reorganization of a life insurance company, May 1, pay or deliver to the treasurer at the time of filing the report all property presumed abandoned specified in the report.
+        </section>
+        <section prefix="d">
+    	     Payment of any intangible property to the treasurer shall be made at the office of the treasurer in Boston or at such other location as the treasurer by regulation may designate.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>3.03</section_number>
+    <catch_line>Emergency Powers</catch_line>
+    <order_by>3.03</order_by>
+    <text>
+        <section prefix="a">
+    	     In anticipation of or during an emergency defined in subsection (d), unless emergency bylaws or other bylaws that specifically refer to this section provide otherwise, the board of directors of a corporation may:
+        </section>
+        <section prefix="1">
+    	     modify lines of succession to accommodate the incapacity of any director, officer, employee, or agent; and
+        </section>
+        <section prefix="2">
+    	     relocate the principal office, designate alternative principal offices or regional offices, or authorize the officers to do so.
+        </section>
+        <section prefix="b">
+    	     During an emergency defined in subsection (d), unless emergency bylaws or other bylaws that specifically refer to this section provide otherwise:
+        </section>
+        <section prefix="1">
+    	     notice of a meeting of the board of directors need be given only to those directors whom it is practicable to reach and may be given in any practicable manner, including by publication and radio; and
+        </section>
+        <section prefix="2">
+    	     those directors present may reduce the quorum requirement and/or treat one or more officers of the corporation present at such a meeting as directors for the meeting, in order of rank and within the same rank in order of seniority, as necessary to achieve a quorum.
+        </section>
+        <section prefix="c">
+    	     Corporate action taken in good faith during an emergency under this section to further the ordinary business affairs of the corporation:
+        </section>
+        <section prefix="1">
+    	     binds the corporation; and
+        </section>
+        <section prefix="2">
+    	     may not be used to impose liability on a corporate director, officer, employee, or agent.
+        </section>
+        <section prefix="d">
+    	     An emergency exists for purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event.
+        </section>
+    </text>
+</law>

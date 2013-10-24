@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Reports; Annual Statements</catch_line>
+    <order_by>41</order_by>
+    <text>
+        <section prefix="1">
+    	     Every society transacting business in the commonwealth shall annually, on or before the first day of March, unless for cause shown such time has been extended by the commissioner, file with the commissioner a true statement of its financial condition, transactions and affairs for the preceding calendar year and pay a fee to be determined annually by the commissioner of administration under the provision of section three B of chapter seven for filing same. The statement shall be in general form and context as approved by the National Association of Insurance Commissioners for fraternal benefit societies and as supplemented by additional information required by the commissioner.
+        </section>
+        <section prefix="2">
+    	     A synopsis of its annual statement providing an explanation of the facts concerning the condition of the society thereby disclosed shall be printed and mailed to each benefit member of the society not later than June first of each year, or, in lieu thereof, such synopsis may be published in the society’s official publication.
+        </section>
+        <section prefix="3">
+    	     As a part of the annual statement herein required, each society shall, on or before the first day of March, file with the commissioner a valuation of its certificates in force on December thirty-first last preceding, provided the commissioner may, in his discretion for cause shown, extend the time for filing such valuation for not more than two calendar months. Such report of valuation shall show, as reserve liabilities, the difference between the present mid-year value of the promised benefits provided in the certificates of such society in force and the present mid-year value of the future net premiums as the same are in practice actually collected, not including therein any value for the right to make extra assessments, and not including any amount by which the present mid-year value of future net premiums exceeds the present mid-year value of promised benefits on individual certificates. At the option of any society, in lieu of the above, the valuation may show the net tabular value. Such net tabular value as to certificates issued prior to January first, nineteen hundred and fifty-nine, shall be determined in accordance with the provisions of law applicable prior to said January first, and, as to certificates issued on or after said January first, shall not be less than the reserves determined according to the Commissioners’ Reserve Valuation method as hereinafter defined. If the premium charged is less than the tabular net premium according to the basis of valuation used, and additional reserve equal to the present value of the deficiency in such premiums shall be set up and maintained as a liability. The reserve liabilities shall be properly adjusted in the event that the mid-year or tabular values are not appropriate.
+        </section>
+        <section prefix="4">
+    	     Reserves according to the Commissioners’ Reserve Valuation method, for the life insurance and endowment benefits of certificates providing for a uniform amount of insurance and requiring the payment of uniform premiums shall be the excess, if any, of the present value, at the date of valuation, of such future guaranteed benefits provided for by such certificates, over the then present value of any future modified net premiums therefor. The modified net premiums for any such certificate shall be such uniform percentage of the respective contract premiums for such benefits that the present value, at the date of issue of the certificate, of all such modified net premiums shall be equal to the sum of the then present value of such benefits provided for by the certificate and the excess of (a) over (b), as follows:—
+        </section>
+        <section prefix="a">
+    	     A net level premium equal to the present value, at the date of issue, of such benefits provided for after the first certificate year, divided by the present value, at the date of issue, of an annuity of one per cent per annum payable on the first and each subsequent anniversary of such certificate on which a premium falls due; provided, however, that such net level annual premium shall not exceed the net level annual premium on the nineteen year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of such certificate; and
+        </section>
+        <section prefix="b">
+    	     A net one-year term premium for such benefits provided for in the first certificate year.
+        </section>
+        <section prefix="5">
+    	     The present value of deferred payments due under incurred claims or matured certificates shall be deemed a liability of the society, and shall be computed upon mortality and interest standards prescribed in the following subsection:—
+        </section>
+        <section prefix="6">
+    	     Such valuation and underlying data shall be certified by a competent actuary or, at the expense of the society, verified by the actuary of the department of insurance of the state of domicile of the society.
+        </section>
+        <section prefix="a">
+    	     For certificates of life insurance — American Men Ultimate Tables of Mortality, with Bowerman’s or Davis’ Extension thereof or with the consent of the commissioner, the Commissioners 1941 Standard Ordinary Mortality Table, the Commissioners 1941 Standard Industrial Mortality Table or the Commissioners 1958 Standard Ordinary Mortality Table, using actual age of the insured for male risks and an age not more than three years younger than the actual age of the insured for female risks;
+        </section>
+        <section prefix="b">
+    	     For annuity certificates, including life annuities provided or available under optional modes of settlement in such certificates — the 1937 Standard Annuity Table;
+        </section>
+        <section prefix="c">
+    	     For disability benefits issued in connection with life benefit certificates — Hunter’s Disability Table, which, for active lives, shall be combined with a mortality table permitted for calculating the reserves on life insurance certificates, except that the table known as Class III Disability Table (1926) modified to conform to the contractual waiting period, shall be used in computing reserves for disability benefits under a contract which presumes that total disability shall be considered to be permanent after a specified period;
+        </section>
+        <section prefix="d">
+    	     For accidental death benefits issued in connection with life benefit certificates — the Inter-Company Double Indemnity Mortality Table combined with a mortality table permitted for calculating the reserves for life insurance certificates; and
+        </section>
+        <section prefix="e">
+    	     For non-cancellable accident and health benefits — the Class III Disability Table (1926) with conference modifications or, with the consent of the commissioner, tables based upon the society’s own experience.
+        </section>
+        <section prefix="a">
+    	     for certificates of life insurance — the Commissioner’s 1941 Standard Ordinary Mortality Table, the Commissioner’s 1941 Standard Industrial Mortality Table, the Commissioner’s 1958 Standard Ordinary Mortality Table, the Commissioner’s 1980 Standard Ordinary Mortality Table or any more recent table made applicable to life insurers;
+        </section>
+        <section prefix="b">
+    	     for annuity and pure endowment certificates, for total and permanent disability benefits, for accidental death benefits and for noncancellable accident and health benefits — such tables as are authorized for use by life insurers who are authorized to write accident and health insurance in the commonwealth.
+        </section>
+        <section prefix="7">
+    	     A society neglecting to file the annual statement in the form and within the time provided by this section shall forfeit one hundred dollars for each day during which such neglect continues, and, upon notice by the commissioner to that effect, its authority to do business in this state shall cease while such default continues.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Defense By Officer Or Stockholder Of Action Against Corporation</catch_line>
+    <order_by>54</order_by>
+    <text>
+        If, in an action against a corporation, it appears to the court that one of the objects of the action is to obtain a judgment against the corporation in order to enforce an alleged liability of a person who has been or is a stockholder or officer thereof, any such person may be permitted, on petition, to defend such action, and in such case the court may require of him or of a person in his behalf, a bond with sufficient surety or sureties, conditioned to pay to the plaintiff all costs which may accrue and be taxed to him after the filing of said petition.
+    </text>
+</law>

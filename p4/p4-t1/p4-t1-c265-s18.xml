@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Assault With Intent To Rob Or Murder; Weapons; Punishment; Victim Sixty Years Or Older; Minimum Sentence For Repeat Offenders</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever, being armed with a dangerous weapon, assaults a person sixty years or older with intent to rob or murder shall be punished by imprisonment in the state prison for not more than twenty years. Whoever commits any offense described herein while armed with a firearm, shotgun, rifle, machine gun or assault weapon shall be punished by imprisonment in the state prison for not less than ten years.
+        </section>
+        <section prefix="b">
+    	     Whoever, being armed with a dangerous weapon, assaults another with intent to rob or murder shall be punished by imprisonment in the state prison for not more than twenty years. Whoever, being armed with a firearm, shotgun, rifle, machine gun or assault weapon assaults another with intent to rob or murder shall be punished by imprisonment in state prison for not less than five years and not more than 20 years.
+        </section>
+    </text>
+</law>

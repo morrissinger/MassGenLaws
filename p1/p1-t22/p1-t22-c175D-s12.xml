@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Return Of Excess Assets To Insurers In Proportion To Contributions To Fund</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If, at the end of any calendar year, the board of directors finds that the assets of the Fund exceed the liabilities of the Fund as estimated by the board of directors for the coming year, the board may order that the amount by which the assets of the fund exceed the liabilities shall be returned to the insurers in proportion to the contribution of each insurer to the Fund.
+    </text>
+</law>

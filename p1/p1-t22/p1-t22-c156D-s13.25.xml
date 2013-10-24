@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.25</section_number>
+    <catch_line>After Acquired Shares</catch_line>
+    <order_by>13.25</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may elect to withhold payment required by section 13.24 from any shareholder who did not certify that beneficial ownership of all of the shareholder’s shares for which appraisal rights are asserted was acquired before the date set forth in the appraisal notice sent pursuant to clause (1) of subsection (b) of section 13.22.
+        </section>
+        <section prefix="b">
+    	     If the corporation elected to withhold payment under subsection (a), it must, within 30 days after the form required by subclause (ii) of clause (2) of subsection (b) of section 13.22 is due, notify all shareholders who are described in subsection (a):
+        </section>
+        <section prefix="1">
+    	     of the information required by clause (1) of subsection (b) of section 13.24;
+        </section>
+        <section prefix="2">
+    	     of the corporation’s estimate of fair value pursuant to clause (2) of subsection (b) of said section 13.24;
+        </section>
+        <section prefix="3">
+    	     that they may accept the corporation’s estimate of fair value, plus interest, in full satisfaction of their demands or demand appraisal under section 13.26;
+        </section>
+        <section prefix="4">
+    	     that those shareholders who wish to accept the offer shall so notify the corporation of their acceptance of the corporation’s offer within 30 days after receiving the offer; and
+        </section>
+        <section prefix="5">
+    	     that those shareholders who do not satisfy the requirements for demanding appraisal under section 13.26 shall be deemed to have accepted the corporation’s offer.
+        </section>
+        <section prefix="c">
+    	     Within 10 days after receiving the shareholder’s acceptance pursuant to subsection(b), the corporation shall pay in cash the amount it offered under clause (2) of subsection (b) to each shareholder who agreed to accept the corporation’s offer in full satisfaction of the shareholder’s demand.
+        </section>
+        <section prefix="d">
+    	     Within 40 days after sending the notice described in subsection (b), the corporation must pay in cash the amount if offered to pay under clause (2) of subsection (b) to each shareholder deserved in clause (5) of subsection (b).
+        </section>
+    </text>
+</law>

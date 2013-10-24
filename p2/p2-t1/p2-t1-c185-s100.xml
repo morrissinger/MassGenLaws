@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>100</section_number>
+    <catch_line>Custody; Investment; Annual Report</catch_line>
+    <order_by>100</order_by>
+    <text>
+        All money received by the recorder under the preceding section shall be paid to the state treasurer, who shall keep it invested, with the advice and approval of the governor and council, and shall make an annual report of the condition and income thereof.
+    </text>
+</law>

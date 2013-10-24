@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="5" order_by="5" level="1">The General Laws, And Express Repeal Of Certain Acts And Resolves</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title I Placeholder</unit>
+        <unit label="chapter" identifier="281" order_by="281" level="3">The General Laws And Their Effect</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Construction Of General Laws As Continuation Of Former Acts</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The provisions of the General Laws, so far as they are the same as those of existing statutes, shall be construed as a continuation thereof and not as new enactments, and a reference in a statute which has not been repealed to provisions of law which are revised and re-enacted herein shall be construed as applying to such provisions as so incorporated in the General Laws.
+    </text>
+</law>

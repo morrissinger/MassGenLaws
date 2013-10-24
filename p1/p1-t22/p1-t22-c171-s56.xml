@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Advertisements Concerning Interest Or Dividends; Restrictions</catch_line>
+    <order_by>56</order_by>
+    <text>
+        Without the consent of the commissioner, no credit union shall advertise in any manner more than four months prior to the date on which interest or dividends on deposits or shares will be payable or the rate at which it is anticipated or estimated such interest or dividends will be paid.
+    </text>
+</law>

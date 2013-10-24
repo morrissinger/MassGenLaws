@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>35D</section_number>
+    <catch_line>Computation Of Weekly Wage</catch_line>
+    <order_by>35D</order_by>
+    <text>
+        <section prefix="1">
+    	     The actual earnings of the employee during each week.
+        </section>
+        <section prefix="2">
+    	     The earnings that the employee is capable of earning in the job the employee held at the time of injury, provided, however, that such job has been made available to the employee and he is capable of performing it. The employee’s receipt of a written offer of his former job from the employer, together with a written report from the treating physician that the employee is capable of performing such job shall be prima facie evidence of an earnings capability under this clause.
+        </section>
+        <section prefix="3">
+    	     The earnings the employee is capable of earning in a particular suitable job; provided, however, that such job has been made available to the employee and he is capable of performing it. The employee’s receipt of a written report that a specific suitable job is available to him together with a written report from the treating physician that the employee is capable of performing such job shall be prima facie evidence of an earnings capability under this clause.
+        </section>
+        <section prefix="4">
+    	     The earnings that the employee is capable of earning.
+        </section>
+        <section prefix="5">
+    	     Implementation of this section is subject to the procedures contained in section eight. For purposes of this chapter, a suitable job or employment shall be any job that the employee is physically and mentally capable of performing, including light work, considering the nature and severity of the employee’s injury, so long as such job bears a reasonable relationship to the employee’s work experience, education, or training, either before or after the employee’s injury. The fact that an employee has enrolled or is participating in a vocational rehabilitation program paid for by the insurer or the department shall not be used to support the contention that the employee’s compensation rate should be decreased in any proceeding under this chapter.
+        </section>
+    </text>
+</law>

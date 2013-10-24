@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.22</section_number>
+    <catch_line>Reinstatement Following Administrative Dissolution</catch_line>
+    <order_by>14.22</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation administratively dissolved under section 14.21 may apply to the secretary of state for reinstatement at any time. The application shall:
+        </section>
+        <section prefix="1">
+    	     recite the name of the corporation and the effective date of its administrative dissolution;
+        </section>
+        <section prefix="2">
+    	     state that the ground or grounds for dissolution either did not exist or have been eliminated;
+        </section>
+        <section prefix="3">
+    	     state that the corporation’s name satisfies the requirements of section 4.01; and
+        </section>
+        <section prefix="4">
+    	     contain a certificate from the department of revenue reciting that all corporate excise taxes owed by the corporation, and any related penalties, have been paid.
+        </section>
+        <section prefix="b">
+    	     If the secretary of state determines that the application contains the information required by subsection (a) and that the information is correct, he shall reinstate the corporation.
+        </section>
+        <section prefix="c">
+    	     The secretary of state may subject the reinstatement to such terms and conditions, including the payment of reasonable fees, as in his judgment the public interest may require. He may in his discretion make the reinstatement effective for all purposes or for any specified purpose or purposes, in each case with or without limitation of time. When the reinstatement is effective, if by its terms it is effective for all purposes or if the secretary of state specifies that it shall be effective for purposes of this sentence, then the reinstatement relates back to and takes effect as of the effective date of the administrative dissolution and the corporation resumes carrying on its business as if the administrative dissolution had never occurred, with all its original powers and duties and with liability, for all contracts, acts, matters and things made, done or performed in its name and on its behalf prior to reinstatement, as if the administrative dissolution had never occurred, and with all acts and proceedings of its officers, directors and shareholders, acting or purporting to act as such, which would have been legal and valid but for such dissolution, standing ratified and confirmed, in each case except as otherwise specified by the secretary of state.
+        </section>
+        <section prefix="d">
+    	     The certificate of reinstatement, or other equivalent public record, filed by the secretary of state pursuant to this section shall constitute an amendment of the articles of organization of the corporation, effective when filed. Any specification in the certificate of the purpose or purposes of reinstatement, or of a limitation of the time thereof, may, by further certificate filed as aforesaid, be amended by the secretary of state for cause shown to his satisfaction.
+        </section>
+    </text>
+</law>

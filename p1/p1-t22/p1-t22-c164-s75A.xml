@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>75A</section_number>
+    <catch_line>Installation Of Gas Meters; Compliance With Regulations For Preventing Escape Of Gas</catch_line>
+    <order_by>75A</order_by>
+    <text>
+        No gas company or municipality distributing gas shall install or replace a meter measuring gas supplied to any premises except in accordance with regulations prescribed by the department for preventing or retarding the escape of gas in case of fire. Said regulations shall be enforced by the department and may provide that any such gas meter installed on the outside of buildings may be subject to less stringent installation requirements if approved by the department.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>114</section_number>
+    <catch_line>Rights Of Way Across Tracks By Prescription</catch_line>
+    <order_by>114</order_by>
+    <text>
+        No right of way across any railroad track or location which is in use for railroad purposes shall be acquired by prescription. This section shall not apply to rights of way which existed on June fifth, eighteen hundred and ninety-two.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.20</section_number>
+    <catch_line>Withdrawal Of Foreign Corporation</catch_line>
+    <order_by>15.20</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation authorized to transact business in the commonwealth may not withdraw from the commonwealth until it obtains the consent of the secretary of state.
+        </section>
+        <section prefix="b">
+    	     A foreign corporation authorized to transact business in the commonwealth may apply for withdrawal by delivering an application to the secretary of state for filing. The application shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the foreign corporation and the name of the state or country under whose law it is incorporated;
+        </section>
+        <section prefix="2">
+    	     that it is not transacting business in the commonwealth and that it surrenders its authority to transact business in the commonwealth;
+        </section>
+        <section prefix="3">
+    	     that it revokes the authority of its registered agent to accept service on its behalf and appoints the secretary of state as its agent for service of process in any proceeding based on a cause of action arising during the time it was authorized to transact business in the commonwealth;
+        </section>
+        <section prefix="4">
+    	     a mailing address to which the secretary of state may mail a copy of any process served on him under clause (3);
+        </section>
+        <section prefix="5">
+    	     a commitment to notify the secretary of state in the future of any change in its mailing address; and
+        </section>
+        <section prefix="6">
+    	     a certification that all taxes known to the corporation to be due to the commonwealth have been paid or provided for.
+        </section>
+        <section prefix="c">
+    	     After the withdrawal of the corporation is effective, service of process on the secretary of state under this section is service on the foreign corporation. Upon receipt of process, the secretary of state shall mail a copy of the process to the foreign corporation at the mailing address set forth under subsection (b).
+        </section>
+    </text>
+</law>

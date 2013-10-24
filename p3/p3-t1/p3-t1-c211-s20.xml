@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Powers Of Justices At Jury And Law Sittings</catch_line>
+    <order_by>20</order_by>
+    <text>
+        Four or more justices present at a jury sitting shall have the powers of a full court. One justice present at a law sitting shall have the same authority as at a jury sitting.
+    </text>
+</law>

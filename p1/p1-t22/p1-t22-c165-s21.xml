@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="165" order_by="165" level="3">Water And Aqueduct Companies</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Continuing Liability On Contracts After Dissolution</catch_line>
+    <order_by>21</order_by>
+    <text>
+        Contracts made by or with such a corporation shall remain in force after its dissolution, and the shareholders at such dissolution shall continue liable and capable as a corporation in all its suits relative to such contracts until they are performed, if suit is commenced within six years after the dissolution or after the right of action accrued.
+    </text>
+</law>

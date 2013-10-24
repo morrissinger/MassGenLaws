@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>View By Jury</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The court may, upon motion, allow the jury in a civil case to view the premises or place in question or any property, matter or thing relative to the case if the party making the motion advances an amount sufficient to defray the expenses of the jury and the officers who attend them in taking the view, which shall be taxed as costs, if the party who advanced them prevails. The court may order a view by a jury impanelled to try a criminal case.
+    </text>
+</law>

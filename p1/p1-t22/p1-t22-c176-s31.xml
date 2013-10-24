@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Action By Beneficiary</catch_line>
+    <order_by>31</order_by>
+    <text>
+        The beneficiary under a certificate issued by any society may maintain an action thereon in his own name.
+    </text>
+</law>

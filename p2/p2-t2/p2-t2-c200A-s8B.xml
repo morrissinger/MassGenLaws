@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Recovery Of Property By Another State</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        <section prefix="a">
+    	     At any time after property has been paid or delivered to the treasurer under this chapter, another state is entitled to recover the property if:—
+        </section>
+        <section prefix="1">
+    	     for property presumed abandoned under clause (b) of section one A because no address of the apparent owner of the property appeared on the records of the holder when the property was presumed abandoned under this chapter, the last known address of the apparent owner was in fact in such other state, and, under the laws of the state, the property escheated to or was subject to the custodial taking of that state;
+        </section>
+        <section prefix="2">
+    	     the last known address of the apparent owner of the property appearing on the records of the holder is in such other state and, under the laws of that state, the property escheated to or was subject to the custodial taking of that state;
+        </section>
+        <section prefix="3">
+    	     the property is the sum payable on a traveler’s check, registered check, money order, or other similar instrument that was presumed abandoned under section six B, the traveler’s check, registered check, money order, or other similar instrument was in fact purchased in such other state, and under the laws of that state, the property escheated to or was subject to the custodial taking of that state.
+        </section>
+        <section prefix="b">
+    	     The claim of another state to recover abandoned property under this section shall be presented in writing to the treasurer, who shall consider the claim within ninety days after it is presented. He may hold a hearing and receive evidence. He shall allow the claim if he determines that the other state is entitled to the abandoned property.
+        </section>
+        <section prefix="c">
+    	     Subparagraphs (1) and (2) of paragraph (a) shall not apply to property described in subparagraph (3) of said paragraph (a).
+        </section>
+    </text>
+</law>

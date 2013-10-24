@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>131</section_number>
+    <catch_line>Copy Of Application; Attachment To Policy</catch_line>
+    <order_by>131</order_by>
+    <text>
+        Unless a correct copy of the application is endorsed upon or attached to a policy of life or endowment insurance, when issued, the application shall not be considered a part of the policy or received in evidence for any purpose. Every such policy which contains a reference to the application, either as a part of the policy or as having any bearing thereon, shall have endorsed thereon or attached thereto, when issued, a correct copy of the application.
+    </text>
+</law>

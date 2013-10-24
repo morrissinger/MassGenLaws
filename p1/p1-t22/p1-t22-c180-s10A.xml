@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Consolidation And Merger With Foreign Corporations; Agreement;  Governing State Law; Submission Of Articles; Filing Of Articles</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any one or more corporations as defined in section two may consolidate or merge with one or more other corporations organized under the laws of any other state or states of the United States, if the laws of such other state or states permit. The constituent corporations may consolidate to form a new corporation, which may be a corporation of the state under the laws of which any one of the constituent corporations is organized, or they may merge into a single corporation which may be any one of the constituent corporations; provided, however, that if one or more of the constituent corporations constitutes a public charity governed by this chapter, the resulting or surviving corporation shall constitute a public charity governed by this chapter.
+        </section>
+        <section prefix="b">
+    	     (1) Such corporations as desire to consolidate or merge shall enter into an agreement of consolidation or merger which shall specify the state under the laws of which the resulting or surviving corporation is organized. If the resulting or surviving corporation is to be a corporation governed by this chapter, such agreement of consolidation or merger shall comply with the provisions of section ten.
+        </section>
+        <section prefix="2">
+    	     If the resulting or surviving corporation is to be governed by the laws of a state other than the commonwealth, the agreement of consolidation or merger shall comply with the applicable laws of the state, and the resulting or surviving corporation shall agree in the articles of consolidation or merger that it may be sued in this commonwealth for any prior obligations of any constituent domestic corporation, any prior obligation of any constituent foreign corporation qualified under subdivision A of Part 15 of chapter 156D, or any other obligation thereafter incurred by the resulting or surviving corporation, so long as any liability remains outstanding against the corporation in this commonwealth, and it shall irrevocably appoint the state secretary as its agent to accept service of process in any action for the enforcement of the obligation, including taxes, in the manner as provided in subsections (d), (e), (f) and (g) of subdivision A of Part 15 of said chapter 156D.
+        </section>
+        <section prefix="c">
+    	     (1) The agreement of consolidation or merger shall be adopted by each of the constituent corporations in accordance with the laws of the state under which it is organized, and, in the case of a corporation governed by this chapter, in the manner provided in section ten.
+        </section>
+        <section prefix="2">
+    	     Unless such agreement is abandoned pursuant to its provisions, articles of consolidation or merger shall be signed and submitted to the state secretary in the manner prescribed in and subject to section seventy-eight of chapter one hundred and fifty-six B, and in the case of one or more constituent corporations organized under the laws of any other state, section seventy-nine of said chapter one hundred and fifty-six B, and shall become effective as provided in said section seventy-nine of said chapter one hundred and fifty-six B; provided, however, that if the resulting or surviving corporation is to be a corporation governed by this chapter, no articles of consolidation or merger shall be approved and filed by the state secretary (i) if as a result thereof, the location of a constituent corporation subject to section twenty-six would be changed, until after approval of such change by the state secretary, or (ii) if the purposes of the resulting or surviving corporation are such that the articles of organization of a corporation newly organized under this chapter for such purposes must be approved by any department or officer of this commonwealth as a condition of organization under this chapter, until after approval of the articles of consolidation or merger by such department or officer.
+        </section>
+        <section prefix="d">
+    	     The resulting or surviving corporation shall file a copy of the articles of consolidation or merger certified by the state secretary in the registry of deeds in each district within the commonwealth in which real property of any constituent corporation is situated, or in lieu of such certified copy, a certificate issued by the state secretary evidencing the filing and approval of articles of consolidation or merger, except that no filing need be made with respect to real property of a constituent corporation which is the surviving corporation of a merger.
+        </section>
+    </text>
+</law>

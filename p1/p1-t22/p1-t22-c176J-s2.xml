@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176J" order_by="176J" level="3">Small Group Health Insurance</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Except as otherwise provided, this chapter applies to all health benefit plans issued, made effective, delivered or renewed to any eligible small business after April 1, 1992, and all health benefit plans issued, made effective, delivered or renewed to any eligible individual on or after July 1, 2007, whether issued directly by a carrier, through the connector, or through an intermediary. Nothing in this chapter shall be construed to require a carrier that does not issue health benefit plans subject to the chapter to issue health benefit plans subject to this chapter.
+    </text>
+</law>

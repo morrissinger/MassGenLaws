@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="210" order_by="210" level="3">Adoption Of Children And Change Of Names</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Second Adoption; Effect</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If the child has been previously adopted, all the legal consequences of the former decree shall, upon a subsequent adoption, determine, except so far as any interest in property may have vested in the adopted child, and a decree to that effect shall be entered on the records of the court.
+    </text>
+</law>

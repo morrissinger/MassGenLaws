@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Services Supervised And Regulated By Department</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     The transportation or carriage of persons or property, or both, between points within the commonwealth by railroads, street railways, in this chapter called railways, electric railroads, trackless trolleys and ships or vessels in excess of one hundred gross tons using steam or Diesel engine as means of propulsion, including express service and car service carried on, upon or rendered in connection with such railroads, railways, electric railroads, trackless trolleys or ships or vessels in excess of one hundred gross tons using steam or Diesel engine as means of propulsion.
+        </section>
+        <section prefix="b">
+    	     The carriage of passengers for hire upon motor vehicles as provided in chapter one hundred and fifty-nine A, in section seventy A of chapter one hundred and sixty and in section forty-four of chapter one hundred and sixty-one, but only to the extent therein provided.
+        </section>
+        <section prefix="c">
+    	     The operation of all conveniences, appliances, facilities or equipment utilized in connection with, or appertaining to, such transportation or carriage of persons or property or such express service or car service, by whomsoever owned or provided, whether the service be common carriage or merely in facilitation of common carriage.
+        </section>
+        <section prefix="d">
+    	     The transmission of intelligence within the commonwealth by electricity, by means of telephone lines or telegraph lines or any other method or system of communication, including the operation of all conveniences, appliances, instrumentalities, or equipment appertaining thereto, or utilized in connection therewith. The provision of such services by a telecommunications system established and operated pursuant to section 47E of chapter 164 shall be subject to this chapter with respect to customer billing notification and termination, filing of tariffs, interconnection agreements, number pooling and filing of annual reports, to the same extent as privately owned and operated telecommunications systems.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>16.03</section_number>
+    <catch_line>Scope Of Inspection Right</catch_line>
+    <order_by>16.03</order_by>
+    <text>
+        <section prefix="a">
+    	     A shareholder’s agent or attorney has the same inspection and copying rights as the shareholder represented.
+        </section>
+        <section prefix="b">
+    	     The corporation may, if reasonable, satisfy the right of a shareholder to copy records under section 16.02 by furnishing to the shareholder copies by photocopy or other means chosen by the corporation including copies furnished through an electronic transmission.
+        </section>
+        <section prefix="c">
+    	     The corporation may impose a reasonable charge, covering the costs of labor, material, transmission and delivery, for copies of any documents provided to the shareholder. The charge may not exceed the estimated cost of production, reproduction, transmission or delivery of the records.
+        </section>
+        <section prefix="d">
+    	     The corporation may comply at its expense, with a shareholder’s demand to inspect the record of shareholders under clause (3) of subsection (b) of section 16.02 by providing the shareholder with a list of shareholders that was compiled no earlier than the date of the shareholder’s demand.
+        </section>
+        <section prefix="e">
+    	     The corporation may impose reasonable restrictions on the use or distribution of records by the demanding shareholder.
+        </section>
+    </text>
+</law>

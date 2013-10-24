@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.05</section_number>
+    <catch_line>Effect Of Dissolution</catch_line>
+    <order_by>14.05</order_by>
+    <text>
+        <section prefix="a">
+    	     A dissolved corporation continues its corporate existence but may not carry on any business except such as is necessary in connection with winding up and liquidating its business and affairs, including:
+        </section>
+        <section prefix="1">
+    	     collecting its assets;
+        </section>
+        <section prefix="2">
+    	     disposing of its properties that will not be distributed in kind to its shareholders;
+        </section>
+        <section prefix="3">
+    	     making adequate provision, by payment or otherwise, and after giving effect to the provisions of sections 14.06, 14.07 and 14.08, for all of the corporation’s existing and reasonably foreseeable debts, liabilities, and obligations, whether or not liquidated, matured, asserted, or contingent;
+        </section>
+        <section prefix="4">
+    	     distributing its remaining property among its shareholders according to their interests; and
+        </section>
+        <section prefix="5">
+    	     doing every other act necessary to wind up and liquidate its business and affairs.
+        </section>
+        <section prefix="b">
+    	     Dissolution of a corporation shall not:
+        </section>
+        <section prefix="1">
+    	     transfer title to the corporation’s property;
+        </section>
+        <section prefix="2">
+    	     prevent transfer of its shares or securities, although the authorization to dissolve may provide for closing the corporation’s share transfer records;
+        </section>
+        <section prefix="3">
+    	     subject its directors or officers to standards of conduct different from those prescribed in PART 8;
+        </section>
+        <section prefix="4">
+    	     change quorum or voting requirements for its board of directors or shareholders; change provisions for selection, resignation, or removal of its directors or officers or both; or change provisions for amending its bylaws;
+        </section>
+        <section prefix="5">
+    	     prevent commencement of a proceeding by or against the corporation in its corporate name;
+        </section>
+        <section prefix="6">
+    	     abate or suspend a proceeding pending by or against the corporation on the effective date of dissolution; or
+        </section>
+        <section prefix="7">
+    	     terminate the authority of the registered agent of the corporation.
+        </section>
+    </text>
+</law>

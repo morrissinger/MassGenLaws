@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Installment Loans</catch_line>
+    <order_by>64</order_by>
+    <text>
+        Notwithstanding any prior provisions of the law to the contrary, a credit union may make a loan or a series of loans to its members evidenced by a note, loan agreement or other instrument, with or without security, at such rates of interest and subject to such lawful charges as its credit committee may determine. Such loan or loans shall be payable in installments at intervals not exceeding one month. 
+The total obligation of any one member to the credit union, outstanding at any one time on this class of loans, shall not exceed that amount which the credit union is legally permitted to extend to any one member on his own signature exclusive of interest. 
+The aggregate balance of principal of such loans outstanding at any one time shall not exceed twenty percent of the assets of a credit union.
+    </text>
+</law>

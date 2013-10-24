@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Agreement Of Association; Contents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a corporation.
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed.
+        </section>
+        <section prefix="c">
+    	     The location of the principal office of the corporation in the commonwealth, and elsewhere in the case of corporations organized to do business wholly outside the commonwealth.
+        </section>
+        <section prefix="d">
+    	     The purposes for which the corporation is formed and the nature of the business to be transacted.
+        </section>
+        <section prefix="e">
+    	     If only shares with par value are to be issued, the total amount of the capital stock of the corporation, which shall not be less than one thousand dollars, to be authorized, and the number of shares into which the capital stock is to be divided, and the par value of the shares, which shall not be less than one dollar, or, in lieu thereof, if any shares without par value are to be issued, the number of shares without par value to be authorized, which shall not be less than ten, and the number of shares having par value to be authorized, if any, and the par value thereof, which shall not be less than one dollar.
+        </section>
+        <section prefix="f">
+    	     The restrictions, if any, imposed upon the transfer of shares.
+        </section>
+        <section prefix="g">
+    	     If there are to be two or more classes of stock, a description of the different classes and a statement of the terms on which they are to be created and of the method of voting thereon.
+        </section>
+        <section prefix="h">
+    	     Any other lawful provisions for the conduct and regulation of the business of the corporation, for its voluntary dissolution, or for limiting, defining or regulating the powers of the corporation, or of its directors or stockholders, or of any class of stockholders.
+        </section>
+        <section prefix="i">
+    	     The subscriber or subscribers by whom the first meeting of the incorporators shall be called.
+        </section>
+        <section prefix="j">
+    	     The names and residences of the incorporators and the amount of stock subscribed for by each.
+        </section>
+    </text>
+</law>

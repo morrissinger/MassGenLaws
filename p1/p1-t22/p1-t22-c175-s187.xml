@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>187</section_number>
+    <catch_line>Foreign Companies; Contents Of Policies</catch_line>
+    <order_by>187</order_by>
+    <text>
+        Policies of life or endowment insurance, group life insurance or insurance against accidental injury or disease issued by a foreign company in this commonwealth may, with the approval of the commissioner, contain any provision required by the law of the state, territory or district of the United States under which the company is organized, which is not contrary to the laws of this commonwealth; and such policies of a domestic company issued in any other state, territory, district or country may contain any provision required by the laws of the state, territory, district or country in which the same are issued.
+    </text>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Purposes</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     for any civic, educational, charitable, benevolent or religious purpose;
+        </section>
+        <section prefix="b">
+    	     for the prosecution of any antiquarian, historical, literary, scientific, medical, chiropractic, artistic, monumental or musical purpose;
+        </section>
+        <section prefix="c">
+    	     for establishing and maintaining libraries;
+        </section>
+        <section prefix="d">
+    	     for supporting any missionary enterprise having for its object the dissemination of religious or educational instruction in foreign countries;
+        </section>
+        <section prefix="e">
+    	     for promoting temperance or morality in the commonwealth;
+        </section>
+        <section prefix="f">
+    	     for fostering, encouraging or engaging in athletic exercises or yachting;
+        </section>
+        <section prefix="g">
+    	     for encouraging the raising of choice breeds of domestic animals and poultry;
+        </section>
+        <section prefix="h">
+    	     for the association and accommodation of societies of Free Masons, Odd Fellows, Knights of Pythias or other charitable or social bodies of a like character and purpose;
+        </section>
+        <section prefix="i">
+    	     for the establishment and maintenance of places for reading rooms, libraries or social meetings;
+        </section>
+        <section prefix="j">
+    	     for establishing boards of trade, chambers of commerce and bodies of like nature;
+        </section>
+        <section prefix="k">
+    	     for providing nonprofit credit counseling services, as defined in section four A;
+        </section>
+        <section prefix="l">
+    	     for encouraging agriculture or horticulture; for improving and ornamenting the streets and public squares of any city or town by planting and cultivating ornamental trees therein and also otherwise improving the physical aspects of such city or town and furthering the recreation and enjoyment of the inhabitants thereof;
+        </section>
+        <section prefix="m">
+    	     for the purpose of purchasing, holding, preserving and maintaining burial grounds in accordance with the provisions of chapter one hundred and fourteen;
+        </section>
+        <section prefix="n">
+    	     for establishing a not-for-profit association of employers as authorized by section twenty-five E of chapter one hundred and fifty-two, including such not-for-profit associations of employers organized as nonprofit corporations.
+        </section>
+    </text>
+</law>

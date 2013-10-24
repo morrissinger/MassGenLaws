@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="5" order_by="5" level="1">The General Laws, And Express Repeal Of Certain Acts And Resolves</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title I Placeholder</unit>
+        <unit label="chapter" identifier="281" order_by="281" level="3">The General Laws And Their Effect</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Punishment, Penalty Or Forfeiture Incurred; Effect Of Repeal Of Law By General Laws</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The repeal of a law by this act shall not affect any punishment, penalty or forfeiture incurred under such law, except that any provision of the General Laws by which a punishment, penalty or forfeiture is mitigated may be extended and applied to any judgment pronounced after said repeal.
+    </text>
+</law>

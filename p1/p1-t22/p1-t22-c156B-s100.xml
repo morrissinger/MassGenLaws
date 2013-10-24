@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>100</section_number>
+    <catch_line>Voluntary Dissolution; Manner</catch_line>
+    <order_by>100</order_by>
+    <text>
+        <section prefix="a">
+    	     Dissolution may be authorized (1) by the vote of two thirds of each class of its stock outstanding and entitled to vote thereon; or (2) by compliance with provisions of its articles of organization.
+        </section>
+        <section prefix="b">
+    	     Within thirty days of the date of such authorization, notice that dissolution of the corporation has been duly authorized shall be mailed by the corporation to the commissioner of revenue.
+        </section>
+        <section prefix="c">
+    	     After the giving of such notice, articles of dissolution shall be submitted to the state secretary. Such articles shall be signed by the president or vice president and by the clerk or an assistant clerk under the penalties of perjury, and shall set forth:—
+        </section>
+        <section prefix="1">
+    	     the name of the corporation and the street address of the principal office in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     The name and post office address of each of the directors and officers of the corporation;
+        </section>
+        <section prefix="3">
+    	     A statement that dissolution of the corporation was duly authorized in the manner required by this section, and of the date on which such action was taken;
+        </section>
+        <section prefix="4">
+    	     A statement that notice of the proposed dissolution of the corporation was duly given to the commissioner of revenue as required by this section.
+        </section>
+        <section prefix="5">
+    	     Any other provisions deemed necessary by the corporation for its dissolution; and
+        </section>
+        <section prefix="6">
+    	     The effective date of the dissolution.
+        </section>
+        <section prefix="d">
+    	     Such articles of dissolution shall constitute an amendment of the articles of organization, and the dissolution of the corporation shall become effective when said articles are filed with the state secretary in accordance with section six, unless said articles specify a later effective date not more than thirty days after such filing, in which event the dissolution shall become effective upon such later date, and upon such dissolution the existence of the corporation shall cease, subject to the provisions of sections one hundred and two, one hundred and four, and one hundred and eight.
+        </section>
+        <section prefix="e">
+    	     At any time before the filing of articles of dissolution the corporation may authorize the abandonment of the dissolution proceedings by the same corporate action with respect to such abandonment as is required by this section for the authorization of a dissolution.
+        </section>
+    </text>
+</law>

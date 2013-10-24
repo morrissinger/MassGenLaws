@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Jurisdiction; Probate Courts; Land Court</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Probate courts and the land court shall have concurrent jurisdiction of all petitions for partition. Any petition for partition may be filed in the probate court for any county where any part of the land included in the petition lies, or in the land court for any land within the commonwealth. The petition may include any or all of the common land within the commonwealth.
+    </text>
+</law>

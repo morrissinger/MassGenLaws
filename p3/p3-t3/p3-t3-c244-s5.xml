@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="244" order_by="244" level="3">Foreclosure And Redemption Of Mortgages</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Form Of Conditional Judgments Generally</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If the conditional judgment is to be entered, the court shall determine the amount due to the plaintiff on the mortgage, and shall enter judgment that if the defendant within two months after the judgment pays to the plaintiff such amount with interest and the costs, the mortgage shall be void, and the defendant shall hold the land discharged thereof; otherwise, that the plaintiff shall have execution for possession and for costs.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.26</section_number>
+    <catch_line>Procedure If Shareholder Dissatisfied With Payment Or Offer</catch_line>
+    <order_by>13.26</order_by>
+    <text>
+        <section prefix="a">
+    	     A shareholder paid pursuant to section 13.24 who is dissatisfied with the amount of the payment shall notify the corporation in writing of that shareholder’s estimate of the fair value of the shares and demand payment of that estimate plus interest, less any payment under section 13.24. A shareholder offered payment under section 13.25 who is dissatisfied with that offer shall reject the offer and demand payment of the shareholder’s stated estimate of the fair value of the shares plus interest.
+        </section>
+        <section prefix="b">
+    	     A shareholder who fails to notify the corporation in writing of that shareholder’s demand to be paid the shareholder’s stated estimate of the fair value plus interest under subsection (a) within 30 days after receiving the corporation’s payment or offer of payment under section 13.24 or section 13.25, respectively, waives the right to demand payment under this section and shall be entitled only to the payment made or offered pursuant to those respective sections.
+        </section>
+    </text>
+</law>

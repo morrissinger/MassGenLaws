@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Address Of Property Affected</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        All documents to be recorded in the land court or registry of deeds shall, where applicable, set forth in the margin the street address of the property which is affected by such document; provided, however, that failure to include such address shall not affect the validity of the document or the recording thereof.
+    </text>
+</law>

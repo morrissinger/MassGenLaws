@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="205" order_by="205" level="3">Bonds Of Executors, Administrators, Guardians, Conservators, Trustees And Receivers</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Venue</catch_line>
+    <order_by>30</order_by>
+    <text>
+        An action on a bond payable to a judge of probate shall be brought in the superior court held for the county where the bond was taken.
+    </text>
+</law>

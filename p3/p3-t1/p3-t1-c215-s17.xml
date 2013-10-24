@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Insolvent Estates</catch_line>
+    <order_by>17</order_by>
+    <text>
+        In the case of an estate of a deceased person represented insolvent, if the court, instead of appointing commissioners to receive and examine the claims of creditors against the estate, receives and examines such claims itself, the provisions of this chapter, so far as applicable, shall govern the proceedings for proof of the same and appeals from the allowance or disallowance thereof, exclusive of the provisions of sections eleven and sixteen of chapter one hundred and ninety-eight.
+    </text>
+</law>

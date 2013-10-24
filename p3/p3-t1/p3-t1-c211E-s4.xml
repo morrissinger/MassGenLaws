@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211E" order_by="211E" level="3">Massachusetts Sentencing Commission</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Review Of Sentence</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A defendant may file a notice of appeal for review of an otherwise final sentence if:
+        </section>
+        <section prefix="1">
+    	     the sentence was imposed in violation of law; or
+        </section>
+        <section prefix="2">
+    	     the sentence was imposed as a result of an incorrect application of the sentencing guidelines; or
+        </section>
+        <section prefix="3">
+    	     the departure upward from the applicable guideline range was an abuse of discretion; or
+        </section>
+        <section prefix="4">
+    	     the sentence was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
+        </section>
+        <section prefix="b">
+    	     The commonwealth, with the personal approval of the attorney general or a district attorney, may appeal an otherwise final sentence if:
+        </section>
+        <section prefix="1">
+    	     the sentence was imposed in violation of law;
+        </section>
+        <section prefix="2">
+    	     the sentence was imposed as a result of an incorrect application of the sentencing guidelines;
+        </section>
+        <section prefix="3">
+    	     the departure downward from the applicable guideline range was an abuse of discretion; or
+        </section>
+        <section prefix="4">
+    	     the sentence was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
+        </section>
+        <section prefix="c">
+    	     In the case of a plea agreement entered into pursuant to Rule twelve of the Massachusetts rules of criminal procedure:
+        </section>
+        <section prefix="1">
+    	     a defendant may not appeal a sentence unless the sentence imposed is greater than the sentence prescribed by the sentencing guidelines; and
+        </section>
+        <section prefix="2">
+    	     the commonwealth may not appeal a sentence unless the sentence imposed is less than the sentence prescribed by the sentencing guidelines.
+        </section>
+        <section prefix="3">
+    	     a sentence imposed by the court in accordance with the recommendation of either the defendant or the commonwealth may not be appealed by the party which made the recommendation; and a sentence imposed in accordance with a jointly-agreed recommendation may not be appealed by either the defendant or the commonwealth.
+        </section>
+        <section prefix="d">
+    	     Appeals from sentences imposed under the sentencing guidelines shall be conducted in accordance with the Massachusetts rules of appellate procedure.
+        </section>
+        <section prefix="e">
+    	     If imprisonment is imposed, the entry of an appeal under the provisions of this section shall not stay the execution of the sentence unless the judge imposing it, upon a showing of a reasonable likelihood of success, finds that execution of the sentence should be stayed pending final determination of the appeal.
+        </section>
+    </text>
+</law>

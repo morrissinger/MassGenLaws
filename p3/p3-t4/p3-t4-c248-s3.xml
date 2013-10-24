@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Petition For Writ; Contents; Annexed Papers</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The petition for the writ shall be in writing, signed and sworn to by the person for whose release it is intended, or by a person in his behalf, and shall state by whom and where the person is imprisoned or restrained, the name of the prisoner and of the person detaining him, if their names are known, or a description of them, if their names are not known, and the cause or pretence of such imprisonment or restraint, according to the knowledge and belief of the petitioner. 
+If the imprisonment or restraint is by virtue of a warrant or other process, a copy thereof shall be annexed, unless it appears that such copy has been demanded and refused or that, for a sufficient reason, a demand therefor could not be made.
+    </text>
+</law>

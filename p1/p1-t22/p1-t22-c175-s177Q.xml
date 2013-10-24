@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177Q</section_number>
+    <catch_line>Records Of Transactions</catch_line>
+    <order_by>177Q</order_by>
+    <text>
+        <section prefix="A">
+    	     For at least ten years after expiration of each contract of reinsurance negotiated by or through the reinsurance intermediary broker, the reinsurance intermediary broker will keep a complete record for each transaction showing:
+        </section>
+        <section prefix="1">
+    	     the type of contract, limits, underwriting restrictions, classes or risks and territory;
+        </section>
+        <section prefix="2">
+    	     period of coverage, including effective and expiration dates, cancellation provisions and notice required of cancellation;
+        </section>
+        <section prefix="3">
+    	     reporting and settlement requirements of balances;
+        </section>
+        <section prefix="4">
+    	     rate used to compute the reinsurance premium;
+        </section>
+        <section prefix="5">
+    	     names and addresses of assuming reinsurers;
+        </section>
+        <section prefix="6">
+    	     rates of all reinsurance commissions, including the commissions on any retrocessions handled by the reinsurance intermediary broker;
+        </section>
+        <section prefix="7">
+    	     related correspondence and memoranda;
+        </section>
+        <section prefix="8">
+    	     proof of placement;
+        </section>
+        <section prefix="9">
+    	     details regarding retrocessions handled by the reinsurance intermediary broker including the identity of retrocessionaires and percentage of each contract assumed or ceded;
+        </section>
+        <section prefix="10">
+    	     financial records, including but not limited to, premium and loss accounts; and
+        </section>
+        <section prefix="11">
+    	     when the reinsurance intermediary broker procures a reinsurance contract on behalf of a licensed ceding insurer:
+        </section>
+        <section prefix="a">
+    	     directly from any assuming reinsurer, written evidence that the assuming reinsurer has agreed to assume the risk; or
+        </section>
+        <section prefix="b">
+    	     if placed through a representative of the assuming reinsurer, other than an employee, written evidence that such reinsurer has delegated binding authority to the representative.
+        </section>
+        <section prefix="B">
+    	     The insurer shall have access and the right to copy and audit all accounts and records maintained by the reinsurance intermediary broker related to its business in a form usable by the insurer.
+        </section>
+    </text>
+</law>

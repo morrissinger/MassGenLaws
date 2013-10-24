@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Cases Pending In Another County; Hearing</catch_line>
+    <order_by>10</order_by>
+    <text>
+        A justice of either court or the full court may, if necessary, hear and determine cases pending in a county other than that in which such justice or court is sitting, or any motion therein; but a motion shall not be so heard nor an order so made until reasonable notice thereof has been given to the adverse party or his counsel; and either party may transmit his reasons in writing for or against the application to the court or justice, who shall examine the same and proceed thereon as if the parties were present. All orders made on such hearings shall be transmitted to the clerk in the proper county, and be entered by him.
+    </text>
+</law>

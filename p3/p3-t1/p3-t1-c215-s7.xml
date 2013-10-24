@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Attachment Of Jurisdiction; Control Of Case</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If a case is within the jurisdiction of the probate courts of two or more counties, the court first taking cognizance thereof by the commencement of proceedings therein shall retain jurisdiction thereof, and shall exclude the jurisdiction of the probate courts of all other counties; and the administration, guardianship or conservatorship first granted shall extend to all the estate of the deceased or ward in the commonwealth.
+    </text>
+</law>

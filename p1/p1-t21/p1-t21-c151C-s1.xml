@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151C" order_by="151C" level="3">Fair Educational Practices</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     The word “commission” means the Massachusetts Commission Against Discrimination, established by section fifty-six of chapter six.
+        </section>
+        <section prefix="b">
+    	     The term “educational institution” means any institution for instruction or training, including but not limited to secretarial schools, business schools, academies, colleges, universities, primary and secondary schools, which accepts applications for admission from the public generally and which is not in its nature distinctly private, except that nothing herein shall be deemed to prevent a religious or denominational educational institution from selecting its students exclusively from adherents or members of such religion or denomination or from giving preference in such selection to such adherents or members.
+        </section>
+        <section prefix="c">
+    	     The term “religious or denominational educational institution” shall include any educational institution, whether operated separately, or as a department of, or school within the university, and which is operated, supervised or controlled by religious or denominational organizations, or in which the courses of instruction lead primarily to the degree of bachelor, master or doctor of theology, and which has so certified to the commission that it is so operated, supervised or controlled.
+        </section>
+        <section prefix="d">
+    	     The term “vocational training institution” shall include any educational institution the primary purpose of which is to offer technical, agricultural, business or trade courses or courses of study leading to employment in recognized trades or occupations.
+        </section>
+        <section prefix="e">
+    	     The term “sexual harassment” means any sexual advances, requests for sexual favors and other verbal or physical conduct of a sexual nature when:— (i) submission to or rejection of such advances, requests or conduct is made either explicitly or implicitly a term or condition of the provision of the benefits, privileges or placement services or as a basis for the evaluation of academic achievement; or (ii) such advances, requests or conduct have the purpose or effect of unreasonably interfering with an individual’s education by creating an intimidating, hostile, humiliating or sexually offensive educational environment.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Judgment For Penal Sum; Amount Of Execution</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The court shall award an execution for so much of the penal sum as is then due and payable in equity and good conscience for the breach of the condition or other non-performance of the contract. The amount shall be determined by the court, unless a jury trial was claimed under section sixty of chapter two hundred and thirty-one or is ordered by the court.
+    </text>
+</law>

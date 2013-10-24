@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Vacation Of Award; Grounds; Application; Rehearing</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon application of a party, the superior court shall vacate an award if:—
+        </section>
+        <section prefix="1">
+    	     the award was procured by corruption, fraud or other undue means;
+        </section>
+        <section prefix="2">
+    	     there was evident partiality by an arbitrator appointed as a neutral, or corruption in any of the arbitrators, or misconduct prejudicing the rights of any party;
+        </section>
+        <section prefix="3">
+    	     the arbitrators exceeded their powers or rendered an award requiring a person to commit an act or engage in conduct prohibited by state or federal law;
+        </section>
+        <section prefix="4">
+    	     the arbitrators refused to postpone the hearing upon a sufficient cause being shown therefor or refused to hear evidence material to the controversy or otherwise so conducted the hearing, contrary to the provisions of section five as to prejudice substantially the rights of a party;
+        </section>
+        <section prefix="5">
+    	     there was no arbitration agreement and the issue was not adversely determined in proceedings under section two and the party did not participate in the arbitration hearing without raising the objection; but the fact that the award orders reinstatement of an employee with or without back pay or grants relief such that it could not grant or would not be granted by a court of law or equity shall not be ground for vacating or refusing to confirm the award.
+        </section>
+        <section prefix="b">
+    	     An application under this section shall be made within thirty days after delivery of a copy of the award to the applicant, provided that, if such application is based upon a claim of corruption, fraud or other undue means it shall be made within thirty days after such grounds are known or should have been known.
+        </section>
+        <section prefix="c">
+    	     In vacating the award on grounds other than stated in clause (5) of paragraph (a) the court may order a rehearing before new arbitrators chosen as provided in the agreement, or in the absence thereof, by the court in accordance with section three, or if the award is vacated on grounds set forth in clause (3) or (4) of paragraph (a), the court may order a rehearing before the arbitrators who made the award or their successors appointed in accordance with section three. The time within which the agreement requires the award to be made shall be applicable to the rehearing and shall commence from the date of the order.
+        </section>
+        <section prefix="d">
+    	     If the application to vacate an award is denied and no motion to modify or correct the award is pending, the court shall confirm the award.
+        </section>
+    </text>
+</law>

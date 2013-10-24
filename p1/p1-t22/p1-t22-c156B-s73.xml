@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>73</section_number>
+    <catch_line>Amendment On Reorganization</catch_line>
+    <order_by>73</order_by>
+    <text>
+        <section prefix="a">
+    	     Any corporation, a plan of reorganization of which, pursuant to the provisions of any applicable statute of the United States relating to reorganizations of corporations, has been or shall be confirmed by the decree or order of a court of competent jurisdiction, may put into effect and carry out the plan and the decrees and orders of the court relative thereto and may take any proceeding and do any act provided in the plan or directed by such decrees and orders, without further action by its directors or stockholders. Such power and authority may be exercised, and such proceedings and acts may be taken, as may be directed by such decrees or orders, by the trustee or trustees of such corporation appointed by the court in the reorganization proceedings (or a majority thereof), or if none be appointed and acting, by designated officers of the corporation, or by a master or other representative appointed by the court, with like effect as if exercised and taken by unanimous action of the directors and stockholders of the corporation.
+        </section>
+        <section prefix="b">
+    	     Such corporation may, in the manner provided in subsection (a), but without limiting the generality or effect of the foregoing, alter, amend or repeal its by-laws; constitute or reconstitute and classify or reclassify its board of directors, and name, constitute or appoint directors and officers in place of or in addition to all or some of the directors or officers then in office; amend its articles of organization, and make any change in its authorized and issued capital stock, or any other amendment, change, or alteration, or provision, authorized by this chapter; be dissolved, transfer all or part of its assets or merge or consolidate as permitted by this chapter; in no such case, however, shall any stockholder have any statutory right to demand payment for his stock.
+        </section>
+        <section prefix="c">
+    	     Articles of amendment made by such corporation pursuant to the foregoing provisions of this section shall be signed under the penalties of perjury by the person or persons authorized by the court, in accordance with the provisions of subsection (a) and submitted to the state secretary. The amendment shall become effective when the articles of amendment are filed in accordance with section six, unless said articles specify a later effective date not more than thirty days after such filing, in which event the amendment shall become effective on such later date.
+        </section>
+        <section prefix="d">
+    	     The provisions of this section shall cease to apply to such corporation upon the entry of a final decree in the reorganization proceedings closing the case and discharging the trustee or trustees, if any.
+        </section>
+    </text>
+</law>

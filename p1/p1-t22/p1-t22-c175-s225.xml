@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>225</section_number>
+    <catch_line>Disclosure Notice In Policy Issued Pursuant To Commercial Risks Provisions Of Sec. 224; Large Commercial Policy Holders</catch_line>
+    <order_by>225</order_by>
+    <text>
+        <section prefix="a">
+    	     A policy issued pursuant to the commercial risks provisions of section 224 shall contain the following disclosure notice to the policyholder:— The policy applied for is not subject to all insurance laws that apply to other commercial lines products and may contain significant differences from a policy that is subject to all insurance laws. The notice shall also clearly set forth policy conditions and endorsements. The notice shall include, but not be limited to, reference to claims-made versus occurrence triggers, perils, exclusions, location or territory limitations, and defense within limits or outside of limits. The disclosure notice shall also include a policyholder’s acknowledgement statement, to be signed and dated by the first named insured before the effective date of coverage. The first named insured shall sign and date a similar notice before each renewal of the policy, except if there are no material changes to the policy. The original and subsequent signed notice, if any, shall be retained in the company underwriting file. The notice shall state: I hereby acknowledge that I have read the above disclosure notice and have received a copy of the same.
+        </section>
+        <section prefix="b">
+    	     The requirements for commercial risk policies issued pursuant to section 224 shall only apply once, at the inception of the policy, except that the requirements shall apply to a renewal of policy where there are material changes to the policy form.
+        </section>
+    </text>
+</law>

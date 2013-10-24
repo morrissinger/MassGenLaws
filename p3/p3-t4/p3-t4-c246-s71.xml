@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Persons Absent From Commonwealth</catch_line>
+    <order_by>71</order_by>
+    <text>
+        If a person so summoned is out of the commonwealth at the time of service of process upon him and appears and answers within ten days of his return, he shall be allowed his costs and charges.
+    </text>
+</law>

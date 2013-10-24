@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="155" order_by="155" level="3">General Provisions Relative To Corporations</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Increase Of Capital Stock; Notice Of Vote; Disposition Of New Shares</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If a corporation, not subject to chapter one hundred and fifty-six, increases its capital stock and no other provision therefor is made by law, its directors shall forthwith give written notice thereof to each stockholder who was such at the date of the vote to increase, stating the amount of the increase, the number of shares or fractions of shares of the new stock which such stockholder is entitled to take, and the time, not less than thirty days after the date of such vote, within which such new stock shall be taken; and, within said time, each stockholder may take at par his proportion of such new shares, according to the number of his shares at the date of such vote to increase. If, at the expiration of said time, any shares remain untaken, the directors shall sell them by public auction for the benefit of the corporation at not less than the par value thereof.
+    </text>
+</law>

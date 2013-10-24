@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="247" order_by="247" level="3">Replevin</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Writ Of Return; Form</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The writ of return in actions of replevin shall be substantially in the form heretofore established and used in like cases.
+    </text>
+</law>

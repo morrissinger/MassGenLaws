@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Subscription Certificate; Issuance; Content</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     A statement of the medical service to be paid for by the corporation, and if any medical service is excepted, a statement of such exception.
+        </section>
+        <section prefix="b">
+    	     A statement of the duration of the agreement and of the terms and conditions upon which it may be extended, renewed, revised, canceled or otherwise terminated.
+        </section>
+        <section prefix="c">
+    	     A statement that any child who is mentally or physically incapable of earning his own living who is eligible for services by membership of his parent under a family contract shall be eligible under the membership of his parent as a member of such family contract so long as he continues to be mentally or physically incapable of earning his own living, without any limitation as to age, subject, however, to such rules and regulations, premiums or additional premiums as the commissioner of insurance may approve.
+        </section>
+        <section prefix="d">
+    	     A statement that within fifteen days after receipt by the corporation of notice by a subscriber, or someone acting on his behalf, that such subscriber or a covered dependent of such subscriber has received services for which the subscriber is entitled to direct payment of benefits under a subscription certificate, the corporation shall furnish the subscriber such forms as are usually furnished by it to establish a subscriber entitlement to such benefits; and that within forty-five days after the receipt by the corporation of completed forms for such benefits, the corporation shall (i) make payment for such benefits, (ii) notify the subscriber in writing of the reason or reasons for nonpayment, or (iii) notify the subscriber in writing what additional information or documentation is necessary to establish entitlement to such benefits.
+        </section>
+        <section prefix="e">
+    	     A statement, in the case of any subscription certificates providing supplemental coverage to Medicare or other governmental programs, that no participating physician or other participating provider of health services shall charge to, or collect from, a subscriber of a covered dependent any amount in excess of the maximum allowable compensation determined by the governmental agency administering such program as the basis for the government’s payment thereunder to such participating physician or other participating provider of health services.
+        </section>
+    </text>
+</law>

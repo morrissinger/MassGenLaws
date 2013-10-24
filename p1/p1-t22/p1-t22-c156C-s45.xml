@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Winding Up Affairs Of Dissolved Limited Liability Company</catch_line>
+    <order_by>45</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless otherwise provided in an operating agreement, a manager who has not wrongfully dissolved a limited liability company or, if none, the members or a person approved by the members pursuant to the operating agreement, or if there is no operating agreement, pursuant to section twenty-one, may wind up the limited liability company’s affairs; but the superior court department of the trial court, upon cause shown, may wind up the limited liability company’s affairs upon application of any member or manager, his legal representative or assignee, and in connection therewith, may appoint a liquidating trustee.
+        </section>
+        <section prefix="b">
+    	     Upon dissolution of a limited liability company and until the filing of a certificate of cancellation as provided in section fourteen, the persons winding up the limited liability company’s affairs may, in the name of, and for and on behalf of, the limited liability company, prosecute and defend suits, whether civil, criminal or administrative, gradually settle and close the limited liability company’s business, dispose of and convey the limited liability company’s property, discharge or make reasonable provision for the limited liability company’s liabilities, and distribute to the members any remaining assets of the limited liability company, all without affecting the liability of members and managers and without imposing liability on a liquidating trustee.
+        </section>
+    </text>
+</law>

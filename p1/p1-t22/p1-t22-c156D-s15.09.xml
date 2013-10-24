@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.09</section_number>
+    <catch_line>Resignation Of Registered Agent Of Foreign Corporation</catch_line>
+    <order_by>15.09</order_by>
+    <text>
+        <section prefix="a">
+    	     The registered agent of a foreign corporation may resign his agency appointment by signing and delivering to the secretary of state for filing a statement of resignation. The registered agent shall furnish a copy of the statement to the foreign corporation. The statement of resignation may include a statement that the registered office is also discontinued.
+        </section>
+        <section prefix="b">
+    	     The agency appointment is terminated, and the registered office discontinued if so provided, on the thirty-first day after the date on which the statement was filed.
+        </section>
+    </text>
+</law>

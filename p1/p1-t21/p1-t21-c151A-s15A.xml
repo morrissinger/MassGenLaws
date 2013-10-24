@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>15A</section_number>
+    <catch_line>Collection Of Payments; Levy Upon Depositary Accounts; Liability Of Depositaries</catch_line>
+    <order_by>15A</order_by>
+    <text>
+        <section prefix="a">
+    	     If any employer fails to pay any amount required under this chapter within ten days from the date notice to satisfy a judgment has been mailed to such employer, the commissioner may levy upon the account of such employer being maintained by any bank or other depositary in the commonwealth. Upon such levy the bank or depositary shall surrender the proceeds in the account, or discharge such obligation on behalf of the employer, to the commissioner or the commissioner’s agent, except such part of the account that is, at the time of such demand, subject to an attachment or execution under any judicial process. The notice of levy may be served on the bank or depositary by any designated agent of the commissioner with a copy of said notice being mailed to the employer. The notice of levy shall remain in effect for six months from the date of service of the notice on the bank or depositary or until the liability out of which such levy arose is satisfied, whichever comes first.
+        </section>
+        <section prefix="b">
+    	     Any bank or other depositary which fails or refuses to surrender the proceeds of such account subject to levy shall be liable in a sum equal to the value of the collection of which such levy has been made, together with costs and interests on such sum at the rate specified in section fifteen from the date of such levy. Any amount, other than costs, recovered under this section shall be credited against the liability for the collection of which such levy was made.
+        </section>
+        <section prefix="c">
+    	     If any employer fails to pay any amount required under this chapter within ten days from the date notice to satisfy a judgment has been mailed to such employer, the commissioner or the commissioner’s agent may file a notice of levy with any agency or instrumentality of the commonwealth or with any political subdivision of the commonwealth, with a copy of said notice being mailed to the employer and when so filed the levy shall be an attachment upon any payment due the employer from said agency, instrumentality or political subdivision. Upon filing of the notice of levy said agency, instrumentality or political subdivision shall forward to the commissioner or the commissioner’s agent any payment owed the employer until the liability out of which the levy arose is satisfied or becomes unenforceable by reason of lapse of time. The notice of levy shall lapse if not satisfied within six months from the date of service of the notice on the agency, instrumentality or political subdivision.
+        </section>
+        <section prefix="d">
+    	     Compliance with the levy shall discharge the bank, depository, agency, instrumentality or political subdivision from any obligation or liability to the delinquent employer with respect to the proceeds or payments surrendered.
+        </section>
+    </text>
+</law>

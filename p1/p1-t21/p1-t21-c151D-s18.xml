@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151D" order_by="151D" level="3">Health, Welfare And Retirement Funds</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>18</order_by>
+    <text>
+        If any provision of this chapter as the application of such provision of any person or circumstance is held invalid or is pre-empted by federal law, the remainder of this chapter and the application of such provision to other person or circumstances shall not be affected.
+    </text>
+</law>

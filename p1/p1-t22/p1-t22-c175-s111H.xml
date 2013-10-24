@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>111H</section_number>
+    <catch_line>Liability Insurance For Residential Property Owners Complying With  Lead Poisoning Prevention Guidelines   </catch_line>
+    <order_by>111H</order_by>
+    <text>
+        <section prefix="a">
+    	     Any liability insurance policy which provides coverage to the owner of any premises for which a letter of interim control or letter of full compliance is in effect, in accordance with section one hundred and ninety-seven of chapter one hundred and eleven, shall cover claims for injury or damage resulting from exposure to dangerous levels of lead in dwelling units, as long as said injury or damage is not the result of gross or willful negligence.
+        </section>
+        <section prefix="b">
+    	     Any liability insurance policy which provides coverage to the owner of any premises not in compliance with section one hundred and ninety-seven of chapter one hundred and eleven shall be endorsed to add coverage for injury or damage resulting from exposure to dangerous levels of lead in dwelling units occurring after the effective date of such endorsement when and if the owner of said premises obtains and maintains a letter of interim control or letter of full compliance, provided that any new owner of any premises who has taken title as the result of a bona fide transaction and who has also complied with the requirements of subsection (d) of section one hundred and ninety-nine of chapter one hundred and eleven, shall be covered from the date such owner took title to the premises.
+        </section>
+        <section prefix="c">
+    	     Companies which elect to offer a liability insurance policy for any premise for which the owner has not obtained a letter of interim control or letter of full compliance shall also make available for that premise additional coverage for injury or damage resulting from exposure to dangerous levels of lead, provided that in the case of an owner occupied single family premise any such coverage for injury or damage resulting from exposure to dangerous levels of lead shall be provided as part of the policy and not offered as additional coverage excepting that such coverage will not apply to claims made by persons insured under the policy.
+        </section>
+        <section prefix="d">
+    	     Any policy providing or making available liability insurance covering injury or damage resulting from exposure to dangerous levels of lead in dwelling units shall be subject to rules, regulations, or guidelines promulgated by the commissioner of insurance.
+        </section>
+        <section prefix="e">
+    	     For the purposes of this section, the words “premises” and “premise” shall mean any residential premises, dwelling unit or residential property constructed prior to nineteen hundred and seventy-eight.
+        </section>
+    </text>
+</law>

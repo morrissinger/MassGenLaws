@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="259" order_by="259" level="3">Prevention Of Frauds And Perjuries</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Consideration</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The consideration of such promise, contract or agreement need not be set forth or expressed in the writing signed by the party to be charged therewith, but may be proved by any legal evidence.
+    </text>
+</law>

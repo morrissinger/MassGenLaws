@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>15C</section_number>
+    <catch_line>Charges And Cessation Of Interest On Abandoned Property</catch_line>
+    <order_by>15C</order_by>
+    <text>
+        <section prefix="1">
+    	     such charges and such cessation of interest are provided for in a valid, enforceable and written contract between the holder and the customer which specifies the amount of such charges and that interest will cease;
+        </section>
+        <section prefix="2">
+    	     the customer is notified prior to the imposition of such charges and cessation of interest; and
+        </section>
+        <section prefix="3">
+    	     it is not the policy of the holder to waive such charges or to restore interest. No holder shall deduct from the amount of any draft, registered check, money order, certified check, cashier’s check or treasurer’s check or any similar written instrument any charges imposed by reason of the failure to present such items for encashment unless such charges are provided for in a valid enforceable and written contract and it is not the policy of the holder to waive such charges.
+        </section>
+    </text>
+</law>

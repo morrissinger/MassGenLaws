@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176E" order_by="176E" level="3">Dental Service Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Subscription Certificate; Issuance; Contents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     A statement of the dental service to be paid for by the corporation and if any dental service is excepted, a statement of such exception.
+        </section>
+        <section prefix="b">
+    	     A statement of the duration of the agreement and of the terms and conditions upon which it may be extended, renewed, revised, cancelled or otherwise terminated.
+        </section>
+        <section prefix="c">
+    	     A statement of the period of grace which will be allowed for making any payment due from the subscriber under the contract, which in any event shall not be less than ten days.
+        </section>
+        <section prefix="d">
+    	     A statement that any child who is mentally or physically incapable of earning his own living who is eligible for services by membership of his parent under a family contract shall be eligible under the membership of his parent as a member of such family contract so long as he continues to be mentally or physically incapable of earning his own living, without any limitation as to age, subject, however, to such rules and regulations, premiums or additional premiums as the commissioner of insurance may approve.
+        </section>
+    </text>
+</law>

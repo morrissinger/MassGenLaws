@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166" order_by="166" level="3">Telephone And Telegraph Companies, And Lines For The Transmission Of Electricity</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Receipt And Transmission Of Despatches</catch_line>
+    <order_by>16</order_by>
+    <text>
+        A telegraph company shall receive despatches from and for other telegraph companies and associations, and from and for any person; and, upon payment of the usual charges for transmitting despatches according to the regulations of the company, shall transmit them faithfully and impartially.
+    </text>
+</law>

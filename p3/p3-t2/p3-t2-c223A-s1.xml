@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Person Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, “person” includes an individual, his executor, administrator or other personal representative, or a corporation, partnership, association or any other legal or commercial entity, whether or not a citizen or domiciliary of this commonwealth and whether or not organized under the laws of this commonwealth.
+    </text>
+</law>

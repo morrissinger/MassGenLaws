@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Trusteeship, Etc.; Effect On Partition</catch_line>
+    <order_by>30</order_by>
+    <text>
+        The fact that a cotenant is, alone or jointly with others, as trustee or in any other representative capacity, the holder of the legal title to a share in which he has no beneficial interest shall not prevent partition.
+    </text>
+</law>

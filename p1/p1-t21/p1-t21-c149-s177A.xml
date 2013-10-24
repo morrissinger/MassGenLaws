@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>177A</section_number>
+    <catch_line>Contract Exempting Employer From Liability To Employee</catch_line>
+    <order_by>177A</order_by>
+    <text>
+        No person shall, by a special contract with his employees, exempt himself from liability which he may be under to them for injuries suffered by them in their employment and resulting from the negligence of the employer or of a person in his employ.
+    </text>
+</law>

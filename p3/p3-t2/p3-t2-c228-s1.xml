@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="228" order_by="228" level="3">Survival Of Actions And Death And Disabilities Of Parties</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Enumeration</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     Actions under chapter two hundred and forty-seven;
+        </section>
+        <section prefix="2">
+    	     Actions of tort (a) for assault, battery, imprisonment or other damage to the person; (b) for consequential damages arising out of injury to the person and consisting of expenses incurred by a husband, wife, parent or guardian for medical, nursing, hospital or surgical services in connection with or on account of such injury; (c) for goods taken or carried away or converted; or (d) for damage to real or personal property; and
+        </section>
+        <section prefix="3">
+    	     Actions against sheriffs for the misconduct or negligence of themselves or their deputies.
+        </section>
+    </text>
+</law>

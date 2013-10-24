@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.01</section_number>
+    <catch_line>Authorized Shares</catch_line>
+    <order_by>6.01</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization shall prescribe the total number of shares the corporation is authorized to issue. The articles of organization also shall, before the issuance of any shares of a class or series, prescribe the number of authorized shares of the class or series, the distinguishing designation thereof and the preferences, limitations and relative rights identical with those of other shares of the same class or series, except that if a class consists of more than 1 series, all shares of each series within the class shall have identical preferences, limitations and relative rights with those of other shares within such series and may, but need not, have some or all preferences, limitations and relative rights which are identical with those of shares of other series within the class or any other class.
+        </section>
+        <section prefix="b">
+    	     The articles of organization shall authorize 1 or more classes or series of shares that together have unlimited voting rights, and 1 or more classes or series of shares, which may be the same class or series or classes and series as those with voting rights, that together are entitled to receive the net assets of the corporation upon dissolution.
+        </section>
+        <section prefix="c">
+    	     The articles of organization may authorize 1 or more classes or series of shares that:
+        </section>
+        <section prefix="1">
+    	     have special, conditional, or limited voting rights, or no right to vote, except to the extent prohibited by this chapter;
+        </section>
+        <section prefix="2">
+    	     are redeemable or convertible as specified in the articles of organization (i) at the option of the corporation, the shareholder, or another person or upon the occurrence of a designated event; (ii) for cash, indebtedness, securities, or other property; (iii) in a designated amount or in an amount determined in accordance with a designated formula or by reference to extrinsic data or events;
+        </section>
+        <section prefix="3">
+    	     entitle the holders to distributions calculated in any manner, including dividends that may be cumulative, noncumulative, or partially cumulative;
+        </section>
+        <section prefix="4">
+    	     have preference over any other class or series of shares with respect to distributions, including dividends and distributions upon the dissolution of the corporation.
+        </section>
+        <section prefix="d">
+    	     The description of the designations, preferences, limitations, and relative rights of share classes and series in subsection (c) is not exhaustive.
+        </section>
+    </text>
+</law>

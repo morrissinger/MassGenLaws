@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>117</section_number>
+    <catch_line>Written Statement Of Amount Recorded Given By Meter Reader</catch_line>
+    <order_by>117</order_by>
+    <text>
+        When a gas or electric meter in a building owned or used by a customer of a gas or electric company is read by an employee or agent of such company, he shall, upon request, deliver to the person using the gas or electricity measured by the meter a written statement of the amount recorded by the meter at that time.
+    </text>
+</law>

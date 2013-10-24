@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="213" order_by="213" level="3">Provisions Common To The Supreme Judicial And Superior Courts</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Concurrent Jurisdiction; Exception</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        Unless otherwise specifically provided, the superior court shall have original jurisdiction, concurrently with the supreme judicial court, of all proceedings, cases and matters of which the supreme judicial court has jurisdiction, excepting those within the appellate jurisdiction of the full court, those provided for under section four of chapter two hundred and eleven, and those which cannot be transferred under section four A of said chapter.
+    </text>
+</law>

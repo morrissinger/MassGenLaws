@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>17.02</section_number>
+    <catch_line>Application To Qualified Foreign Corporations</catch_line>
+    <order_by>17.02</order_by>
+    <text>
+        APPLICATION TO QUALIFIED FOREIGN CORPORATIONS 
+A foreign corporation authorized to transact business in the commonwealth on the effective date of this chapter is subject to this chapter but is not required to apply for new authority to transact business under this chapter.
+    </text>
+</law>

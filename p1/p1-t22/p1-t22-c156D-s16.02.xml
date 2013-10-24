@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>16.02</section_number>
+    <catch_line>Inspection Of Records By Shareholders</catch_line>
+    <order_by>16.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A shareholder of a corporation is entitled to inspect and copy, during regular business hours at the office where they are maintained pursuant to subsection (e) of section 16.01, copies of any of the records of the corporation described in said subsection (e) of said section 16.01 if he gives the corporation written notice of his demand at least five business days before the date on which he wishes to inspect and copy.
+        </section>
+        <section prefix="b">
+    	     A shareholder of a corporation is entitled to inspect and copy, during regular business hours at a reasonable location specified by the corporation, any of the following records of the corporation if the shareholder meets the requirements of subsection (c) and gives the corporation written notice of his demand at least 5 business days before the date on which he wishes to inspect and copy:
+        </section>
+        <section prefix="1">
+    	     excerpts from minutes reflecting action taken at any meeting of the board of directors, records of any action of a committee of the board of directors while acting in place of the board of directors on behalf of the corporation, minutes of any meeting of the shareholders, and records of action taken by the shareholders or board of directors without a meeting, to the extent not subject to inspection under subsection (a) of section 16.02;
+        </section>
+        <section prefix="2">
+    	     accounting records of the corporation, but if the financial statements of the corporation are audited by a certified public accountant, inspection shall be limited to the financial statements and the supporting schedules reasonably necessary to verify any line item on those statements; and
+        </section>
+        <section prefix="3">
+    	     the record of shareholders described in section 16.01(c).
+        </section>
+        <section prefix="c">
+    	     A shareholder may inspect and copy the records described in subsection (b) only if:
+        </section>
+        <section prefix="1">
+    	     his demand is made in good faith and for a proper purpose;
+        </section>
+        <section prefix="2">
+    	     he describes with reasonable particularity his purpose and the records he desires to inspect;
+        </section>
+        <section prefix="3">
+    	     the records are directly connected with his purpose; and
+        </section>
+        <section prefix="4">
+    	     the corporation shall not have determined in good faith that disclosure of the records sought would adversely affect the corporation in the conduct of its business or, in the case of a public corporation, constitute material non-public information at the time when the shareholder’s notice of demand to inspect and copy is received by the corporation.
+        </section>
+        <section prefix="d">
+    	     The right of inspection granted by this section may not be abolished or limited by a corporation’s articles of organization or bylaws.
+        </section>
+        <section prefix="e">
+    	     This section shall not affect:
+        </section>
+        <section prefix="1">
+    	     the right of a shareholder to inspect records under section 7.20 or, if the shareholder is in litigation with the corporation, to the same extent as any other litigant; or
+        </section>
+        <section prefix="2">
+    	     the power of a court, independently of this chapter, to compel the production of corporate records for examination, provided that, in the case of production of records described in subsection (b) at the request of a shareholder, the shareholder has met the requirements of subsection (c).
+        </section>
+        <section prefix="f">
+    	     For purposes of this section, “shareholder” includes a beneficial owner whose shares are held in a voting trust or by a nominee on his behalf.
+        </section>
+    </text>
+</law>

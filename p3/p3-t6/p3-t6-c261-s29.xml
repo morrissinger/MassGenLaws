@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Costs And Fees</unit>
+        <unit label="chapter" identifier="261" order_by="261" level="3">Costs In Civil Actions</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Court Action By Inmate; Affidavit Of Indigency; Court Ordered Payment Plan; Review And Recommendation; Penalties For Abuse Of Process</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="a">
+    	     If an inmate brings an action in a court of the commonwealth against a state or county agency, official or employee and requests a waiver of filing fees or court costs due to indigency pursuant to section 27B, the court shall require the commissioner of correction or his designee or a county sheriff or his designee to file a copy of a current account statement of the inmate’s account and a copy of the inmate’s activity sheet for the preceding six months.
+        </section>
+        <section prefix="b">
+    	     The inmate shall file a signed affidavit containing the following information: the inmate’s name, social security number, date of birth, inmate identification number and correctional facility; assets including, but not limited to, cash, monies in bank accounts, real property, other investments and all assets of a spouse to which the inmate has legal access; income received in the past six months and income expected to be received in the next six months; liabilities and monthly expenses.
+        </section>
+        <section prefix="c">
+    	     Actions brought by inmates subject to the provisions of subsection (a) shall include all actions arising out of or resulting from a condition of or occurrence during confinement. A petition alleging a claim cognizable under section 1 of chapter 248 shall not be subject to the provisions of this section.
+        </section>
+        <section prefix="2">
+    	     The court shall issue such an order unless it finds that the inmate is incapable of making payments under such a plan or if the court determines, at any time, that such order imposes an undue administrative burden upon the court.
+        </section>
+        <section prefix="3">
+    	     Upon receipt of a copy of the court’s order, the inmate shall forward a copy of the order to the commissioner of correction or to the county sheriff and to the superintendent of the correctional facility having custody over the inmate along with a written request for an initial payment from the inmate’s account to be paid to the court. The inmate shall forward to the commissioner or the county sheriff and the superintendent a true copy of the written request for payment to the court from the inmate’s account not later than ten working days prior to the date each monthly payment is due.
+        </section>
+        <section prefix="4">
+    	     The superintendent shall withdraw such payments as the order requires and shall forward them to the clerk of the appropriate court. The court may, on its own or on motion of either or both parties, dismiss a claim at any time if the inmate fails to request payment from the superintendent or otherwise fails to pay filing fees as ordered by the court.
+        </section>
+        <section prefix="e">
+    	     The court may appoint a master to review inmate claims of indigency and make recommendations to the court. The court or master may conduct a hearing on the inmate’s claim of indigency either before or after service of process and may dismiss a claim or action if the court finds that the allegation of indigency is untrue. Any hearing on an inmate’s claim of indigency shall be conducted telephonically unless the court finds that a hearing in court is necessary.
+        </section>
+        <section prefix="f">
+    	     In addition to any other actions or penalties that may be available by law, if, after hearing, the court finds that the affidavit submitted by the inmate contains false information or omits material information and if the court further finds that the misrepresentation or omission was intentional, the court may impose costs on the inmate. If, after hearing, the court finds that the affidavit is frivolous and filed in bad faith in order to abuse the judicial process, the court shall order that the inmate lose up to 60 days of good conduct credit earned or to be earned pursuant to section 129C or 129D of chapter 127.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="163" order_by="163" level="3">Trackless Trolley Companies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Laws Applicable To Organization</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Except as otherwise provided in this chapter, corporations organized hereunder shall be organized in accordance with the general laws governing the organization of street railway companies so far as applicable and consistent with this chapter.
+    </text>
+</law>

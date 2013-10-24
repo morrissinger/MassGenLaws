@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Public Inspection; Confidentiality; Compliance By Compacting States</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     The commission shall promulgate rules establishing conditions and procedures for public inspection and copying of its information and official records, except information and records involving the privacy of individuals and insurers’ trade secrets. The commission may promulgate additional rules under which it may make available to federal and state agencies, including law enforcement agencies, records and information otherwise exempt from disclosure, and may enter into agreements with those agencies to receive or exchange information or records subject to nondisclosure and confidentiality provisions.
+        </section>
+        <section prefix="2">
+    	     Except as to privileged records, data and information, the laws of any compacting state pertaining to confidentiality or nondisclosure shall not relieve any compacting state commissioner of the duty to disclose relevant records, data or information to the commission; provided, that disclosure to the commission shall not be deemed to waive or otherwise affect any confidentiality requirement; and further provided, that, except as otherwise expressly provided in this chapter, the commission shall not be subject to the compacting state’s laws pertaining to confidentiality and nondisclosure with respect to records, data and information in its possession. Confidential information of the commission shall remain confidential after the information is provided to a commissioner.
+        </section>
+        <section prefix="3">
+    	     The commission shall monitor compacting states for compliance with duly adopted by-laws, rules, including uniform standards, and operating procedures. The commission shall notify a non-complying compacting state in writing of its noncompliance with commission by-laws, rules or operating procedures. If a non-complying compacting state fails to remedy its noncompliance within the time specified in the notice of noncompliance, the compacting state shall be considered to be in default as set forth in section 13.
+        </section>
+        <section prefix="4">
+    	     The commissioner of a state in which an insurer is authorized to do business, or is conducting the business of insurance, shall continue to exercise his or her authority to oversee the market regulation of the activities of the insurer in accordance with the state’s law. The commissioner’s enforcement of compliance with the compact shall be governed by the following provisions:
+        </section>
+        <section prefix="a">
+    	     With respect to the commissioner’s market regulation of a product or advertisement that is approved or certified to the commission, the content of the product or advertisement shall not constitute a violation of the provisions, standards or requirements of the compact except upon a final order of the commission, issued at the request of a commissioner after prior notice to the insurer and an opportunity for hearing before the commission.
+        </section>
+        <section prefix="b">
+    	     Before a commissioner may bring an action for violation of any provision, standard or requirement of the compact relating to the content of an advertisement not approved or certified to the commission, the commission, or an authorized commission officer or employee, shall authorize the action. However, authorization pursuant to this paragraph shall not require notice to the insurer, opportunity for hearing or disclosure of requests for authorization or records of the commission’s action on such requests.
+        </section>
+    </text>
+</law>

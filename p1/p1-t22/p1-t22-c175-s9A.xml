@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>9A</section_number>
+    <catch_line>Claim Fluctuation Reserves; Life Companies   </catch_line>
+    <order_by>9A</order_by>
+    <text>
+        <section prefix="1">
+    	     In addition to the reserve liability of life insurance companies computed in accordance with the requirements of section nine, the commissioner shall each year compute or cause to be computed for each domestic life insurance company, except as provided in subdivision 2, a reserve liability for claim fluctuations, hereinafter designated as the claim fluctuation reserve, which shall be a part of its entire reserve liability of each such company. To provide for the reserve liability computed in accordance with the requirements of this section each such company shall hold funds in an amount equal thereto above all its other liabilities. The reserve liability required by this section shall be computed at the end of each calendar year by adding to the amount of the reserve liability for claim fluctuations computed at the end of the preceding year (a) interest at the rate of two and one-half per cent, (b) for term insurance policies with premiums payable less than fifteen years, one per cent of the tabular net premiums, and (c) for all other life insurance policies, including provisions for total and permanent disability or for accidental death benefits in, or supplementary to, all such policies, two per cent of the tabular net premiums, and by deducting from the total of the foregoing (a) incurred claim losses which (i) result from a common loss or event, (ii) involve at least five lives, and (iii) total, exclusive of reinsurance, if any, at least five hundred thousand dollars, (b) the excess, if any, of the incurred claim losses for the year (exclusive of the losses specified in (a)) over the expected claim losses for the year calculated on the basis of such claim losses occurring at the rate of one hundred and five per cent of the average rate for the immediately preceding five years, (c) the increase, if any, in the amount of any special contingency reserve for claim losses established by such company as required by law, (d) the net loss from operations of the company, if any, and (e) the excess, if any, of the claim fluctuation reserve, computed in accordance with the requirements of this section, over six per cent of the reserve liability computed in accordance with the requirements of section nine.
+        </section>
+        <section prefix="2">
+    	     This section shall apply to any of the life insurance policies of a domestic life insurance company, if its board of directors elects to comply with and become subject to the provisions of this section and forwards to the commissioner appropriate notice of such determination.
+        </section>
+    </text>
+</law>

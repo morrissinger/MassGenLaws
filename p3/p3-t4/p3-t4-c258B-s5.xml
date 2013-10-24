@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258B" order_by="258B" level="3">Rights Of Victims And Witnesses Of Crime</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Programs Created And Maintained By District Attorneys; Services</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     court appearance notification services, including cancellations of appearances;
+        </section>
+        <section prefix="b">
+    	     informational services relative to the availability and collection of witness fees, victim compensation and restitution;
+        </section>
+        <section prefix="c">
+    	     escort and other transportation services related to the investigation or prosecution of the case, if necessary;
+        </section>
+        <section prefix="d">
+    	     case process notification services;
+        </section>
+        <section prefix="e">
+    	     employer intercession services;
+        </section>
+        <section prefix="f">
+    	     expedited return of property services;
+        </section>
+        <section prefix="g">
+    	     protection services;
+        </section>
+        <section prefix="h">
+    	     family support services including child and other dependent care services;
+        </section>
+        <section prefix="i">
+    	     waiting facilities; and
+        </section>
+        <section prefix="j">
+    	     social service referrals.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>140C</section_number>
+    <catch_line>Settlement Or Partial Payment By Insurer As Admission Of Liability</catch_line>
+    <order_by>140C</order_by>
+    <text>
+        No settlement or partial payment made under a liability insurance policy of a claim against any person insured thereunder shall be construed as an admission of liability by such person, with respect to any claim arising from the same event.
+    </text>
+</law>

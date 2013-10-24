@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Jurisdiction Of Action To Enforce Statute; Entry Fee In Actions And Proceedings</catch_line>
+    <order_by>72</order_by>
+    <text>
+        The supreme judicial or superior court shall have general jurisdiction of a civil action brought by the commissioner, to enforce any provisions of this chapter. 
+In civil actions and court proceedings under any provision of this chapter which are entered by or in behalf of the commissioner no entry fee shall be paid, but if the commissioner shall prevail the equivalent of such entry fee shall be taxed against the adverse party as costs.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>149Q</section_number>
+    <catch_line>Prohibited Language In Provider Name; False Or Misleading Statements; Purchase Of Service Contract As Condition Of Loan Or Sale Of Property Prohibited</catch_line>
+    <order_by>149Q</order_by>
+    <text>
+        <section prefix="a">
+    	     A provider shall not: (i) use in its name the words insurance, casualty, surety, mutual or any other words descriptive of the insurance, casualty or surety business; or (ii) a name deceptively similar to the name or description of any insurance or surety corporation or to the name of any other provider; provided, however, that the words “guaranty”, “warranty” or other similar words may be used.
+        </section>
+        <section prefix="b">
+    	     A provider or its representative shall not permit or cause to be made any false or misleading statement or deliberately omit any material statement that a reasonable person would consider misleading if omitted.
+        </section>
+        <section prefix="c">
+    	     A person shall not require the purchase of a service contract as a condition of a loan or a condition for the sale of any property, but may promote, endorse or recommend the purchase unless otherwise prohibited by law.
+        </section>
+    </text>
+</law>

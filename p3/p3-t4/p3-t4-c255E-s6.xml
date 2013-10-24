@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255E" order_by="255E" level="3">Licensing Of Certain Mortgage Lenders And Brokers</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>License Suspension Or Revocation; Notice And Hearing</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="i">
+    	     the licensee has violated any provision of this chapter or any rule or regulation adopted hereunder, or any other law applicable to the conduct of its business; or
+        </section>
+        <section prefix="ii">
+    	     any fact or condition exists which, if it had existed at the time of the original application for such license, would have warranted the commissioner in refusing to issue such license.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167D" order_by="167D" level="3">Deposits And Accounts</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Registration And Holding Of Stock Or Security In Name Of Partnership Or Corporate Nominee</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Any bank may cause any stock or security in registered form held for its account and not in a fiduciary capacity to be registered and held in the name of a partnership or corporate nominee named by it and residing or having a principal place of business in the commonwealth; provided, however, that nothing in this section shall be construed as to permit any bank to deliver any security held for its account into the possession and control of any other person except in accordance with the regulations of the commissioner pursuant to section six of chapter one hundred and sixty-seven. A depository having possession of securities of a bank registered as authorized by this section shall maintain adequate records indicating the ownership thereof, shall segregate the same from his or its own assets and shall be absolutely liable for any loss occasioned by the acts of a nominee.
+    </text>
+</law>

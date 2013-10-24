@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Certification Of Deposition</catch_line>
+    <order_by>33</order_by>
+    <text>
+        The justice or notary shall annex to the deposition a certificate of the time and manner of taking it, the person at whose request and the cause in which it was taken, the reason for taking it, and that the adverse party attended, or if he did not attend what notice was given to him.
+    </text>
+</law>

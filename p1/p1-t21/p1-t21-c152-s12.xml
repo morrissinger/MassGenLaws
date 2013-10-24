@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Enforcement Of Orders; Appeals From Decisions Of Reviewing Board;  Costs; Reported Questions; Copies Of Judgments</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     Whenever any party in interest presents a certified copy of an order or decision of a board member or of the reviewing board and any papers in connection therewith to the superior court department of the trial court for the county in which the injury occurred or for the county of Suffolk, the court shall enforce the order or decision, notwithstanding whether the matters at issue have been appealed and a decision on the merits of the appeal is pending. In the event that the order or decision is reversed on appeal, the enforcement order shall be deemed vacated and unenforceable from the date of such reversal. If the request for an enforcement order is presented to the superior court for the county of Suffolk, the court may, on motion of any party in interest, order the case removed to the superior court for the county in which the injury occurred.
+        </section>
+        <section prefix="2">
+    	     Any appeal from a decision by a reviewing board shall be taken pursuant to section fourteen of chapter thirty A, except that such appeal shall be filed with the appeals court of the commonwealth and provided further that clause (e) of paragraph seven of section fourteen of chapter thirty A shall not apply to such appeals.
+        </section>
+        <section prefix="3">
+    	     In rendering an order or judgement under this section or following a rescript of the supreme judicial court after an appeal from such an order or judgement the court shall award costs to the prevailing party, to be assessed as in actions at law. This paragraph shall not authorize the awarding of costs to or against the industrial accident board or reviewing board.
+        </section>
+        <section prefix="4">
+    	     In the event of a judgement of the appeals court, the court may, on motion of either party, by a brief statement of facts agreeable to the parties, report questions of law raised by the decree to the supreme judicial court for determination.
+        </section>
+        <section prefix="5">
+    	     Immediately after the entry of a judgement under this section, whether final or interlocutory, the clerk of the court shall prepare and forward to the department and to the parties an attested copy of such judgement. Upon the entry of an interlocutory judgement under this section recommitting a case to the board, counsel for the parties shall immediately notify said board by appropriate motion for action in accordance with the requirements of such judgement.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.42</section_number>
+    <catch_line>Demand</catch_line>
+    <order_by>7.42</order_by>
+    <text>
+        <section prefix="1">
+    	     a written demand has been made upon the corporation to take suitable action; and
+        </section>
+        <section prefix="2">
+    	     90 days have elapsed from the date the demand was made, or, if the decision whether to reject such demand has been duly submitted to a vote of the shareholders, not including the holders of those shares referred to in section 7.44(b)(3), within 60 days from the date when demand was made, 120 days have elapsed from the date the demand was made, unless in either case the shareholder has earlier been notified that the demand has been rejected by the corporation or irreparable injury to the corporation would result by waiting for the expiration of such 90-day or 120-day period.
+        </section>
+    </text>
+</law>

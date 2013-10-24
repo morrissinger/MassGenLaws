@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>94A</section_number>
+    <catch_line>Probable Cause As Defence In Action For False Arrest</catch_line>
+    <order_by>94A</order_by>
+    <text>
+        If a person authorized to make an arrest shall have probable cause to believe that a misdemeanor for which he may make an arrest is being committed in his presence, such probable cause shall be a defence in an action brought against him for false arrest or imprisonment.
+    </text>
+</law>

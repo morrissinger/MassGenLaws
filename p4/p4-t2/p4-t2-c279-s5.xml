@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="279" order_by="279" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Sentence If No Punishment Is Provided By Statute</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If no punishment for a crime is provided by statute, the court shall impose such sentence, according to the nature of the crime, as conforms to the common usage and practice in the commonwealth. If a person is convicted of a misdemeanor punishable by imprisonment, he may, unless otherwise expressly provided, be sentenced to imprisonment either in the jail or in the house of correction.
+    </text>
+</law>

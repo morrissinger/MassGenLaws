@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>By Laws</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The time and place for holding the annual meeting of the shareholders and the periodic meeting of the board of directors.
+        </section>
+        <section prefix="b">
+    	     The manner of calling meetings of the shareholders and of the board of directors, including special meetings;
+        </section>
+        <section prefix="c">
+    	     The number necessary to constitute a quorum at meetings of the shareholders and of the board of directors, respectively;
+        </section>
+        <section prefix="d">
+    	     The voting qualifications of members at shareholders’ meetings;
+        </section>
+        <section prefix="e">
+    	     The monthly bank day;
+        </section>
+        <section prefix="f">
+    	     The number, title, eligibility, powers and duties of directors, other officers and committees, their terms of office, and the manner of their election or appointment and of their removal;
+        </section>
+        <section prefix="g">
+    	     The manner in which the by-laws may be amended; and
+        </section>
+        <section prefix="h">
+    	     That the clerk of the corporation shall give notice of all regular and special meetings of the shareholders by publishing notice thereof, at least seven days before the meeting, in one or more newspapers published in the city or town wherein the main office of the corporation is situated or, if there is no newspaper published therein, then in a newspaper published in a nearby city or town in the same county; and for this purpose a newspaper which by its title page purports to be printed or published in such city, town or county and which has a circulation therein, shall be deemed to have been published therein. Such notice shall state the day, hour and place of the meeting and shall contain a brief statement of the nature of the business to be acted upon, except as may be provided in the by-laws with respect to the removal of officers and directors.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Authorization Necessary To Transfer Franchise, Lease Works Or Contract To Carry On Works</catch_line>
+    <order_by>21</order_by>
+    <text>
+        A corporation subject to this chapter shall not, except as otherwise expressly provided, transfer its franchise, lease its works or contract with any person, association or corporation to carry on its works, without the authority of the general court.
+    </text>
+</law>

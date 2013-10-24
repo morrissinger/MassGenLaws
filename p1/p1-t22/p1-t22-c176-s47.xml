@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Misrepresentations, Etc. Concerning Society Or Contract</catch_line>
+    <order_by>47</order_by>
+    <text>
+        <section prefix="a">
+    	     Any misrepresentation or false or misleading statement concerning the terms, benefits or advantages of any fraternal insurance contract now issued or to be issued in the commonwealth, or the financial condition of any society;
+        </section>
+        <section prefix="b">
+    	     Any false or misleading estimate or statement concerning the dividends or shares of surplus paid or to be paid by any society on any insurance contract; or
+        </section>
+        <section prefix="c">
+    	     Any incomplete comparison of an insurance contract of one society with an insurance contract of another society or insurer for the purpose of inducing the lapse, forfeiture or surrender of any insurance contract. A comparison of insurance contracts is incomplete if it does not compare in detail—
+        </section>
+        <section prefix="1">
+    	     The gross rates, and the gross rates less any dividend or other reduction allowed at the date of the comparison; and
+        </section>
+        <section prefix="2">
+    	     Any increase in cash values, and all the benefits provided by each contract for the possible duration thereof as determined by the life expectancy of the insured; or if it omits from consideration—
+        </section>
+        <section prefix="3">
+    	     Any benefit or value provided in the contract;
+        </section>
+        <section prefix="4">
+    	     Any differences as to amount or period of rates; or
+        </section>
+        <section prefix="5">
+    	     Any differences in limitations or conditions or provisions which directly or indirectly affect the benefits.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Bail</catch_line>
+    <order_by>19</order_by>
+    <text>
+        If the prisoner is detained for a cause or crime for which he is bailable, he shall be admitted to bail if sufficient bail is offered; and if not, he shall be remanded with an order of the court or justice expressing the amount in which he shall be held to bail and the court at which he shall be required to appear; and any magistrate authorized to admit to bail may, at any time before the sitting of said court, bail the prisoner pursuant to such order.
+    </text>
+</law>

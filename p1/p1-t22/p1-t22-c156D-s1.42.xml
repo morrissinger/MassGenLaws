@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.42</section_number>
+    <catch_line>Number Of Shareholders</catch_line>
+    <order_by>1.42</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of this chapter, except as provided in subsection (c), the following identified as a shareholder in a corporation’s current record of shareholders constitutes one shareholder:
+        </section>
+        <section prefix="1">
+    	     three or fewer co-owners;
+        </section>
+        <section prefix="2">
+    	     a corporation, partnership, trust, estate, or other entity;
+        </section>
+        <section prefix="3">
+    	     the trustees, guardians, custodians, or other fiduciaries of a single trust, estate, or account.
+        </section>
+        <section prefix="b">
+    	     For purposes of this chapter, shareholders registered in substantially similar names constitute one shareholder if it is reasonable to believe that the names represent the same person.
+        </section>
+        <section prefix="c">
+    	     For purposes of this chapter, each beneficial owner of shares registered in the name of a nominee in a corporation’s current record of shareholders constitutes one shareholder.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="157B" order_by="157B" level="3">Cooperative Housing Corporations</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Articles Or By Laws</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     for election of directors and other officials by unit or district;
+        </section>
+        <section prefix="b">
+    	     for voting by stockholders on the basis of one vote per member or one vote per dwelling unit rather than one vote per share;
+        </section>
+        <section prefix="c">
+    	     that any action required or permitted to be taken at a meeting of stockholders may be taken by mail ballot;
+        </section>
+        <section prefix="d">
+    	     for a method of membership representation of stockholders at meetings by delegates from units or districts, provided that delegates must be proportional to the number of members in each unit district;
+        </section>
+        <section prefix="e">
+    	     for redemption or recall of stock;
+        </section>
+        <section prefix="f">
+    	     for termination of membership rights and privileges of a stockholder;
+        </section>
+        <section prefix="g">
+    	     standards for eligibility to become a stockholder;
+        </section>
+        <section prefix="h">
+    	     for the allocation of its net savings among the uses permitted in section twelve.
+        </section>
+    </text>
+</law>

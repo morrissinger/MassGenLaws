@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="253" order_by="253" level="3">Mills, Dams And Reservoirs</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Height Of Water</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The height to which the water may be raised and the period of time for which it may be kept up in each year may be determined by jury.
+    </text>
+</law>

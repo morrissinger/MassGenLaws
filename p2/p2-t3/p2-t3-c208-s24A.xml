@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>Certificate Of Divorce; Contents</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        The court, in issuing a copy of, or a certificate relating to, a decree of divorce entered by it, shall cause to be printed or written thereon the provisions of sections twenty-one and twenty-four.
+    </text>
+</law>

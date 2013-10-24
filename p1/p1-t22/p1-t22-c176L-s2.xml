@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Charter And License; Application; Plan Of Operation Or Feasibility Study</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="A">
+    	     A risk retention group shall be chartered and licensed under the laws of the commonwealth to write only liability insurance pursuant to the provisions of this chapter and, except as provided elsewhere in this chapter, must comply with (1) all of the laws, rules, regulations and requirements applicable to such insurers chartered and licensed in the commonwealth and with (2) section three to the extent such requirements of said section three are not a limitation on laws, rules, regulations or requirements of the commonwealth.
+        </section>
+        <section prefix="B">
+    	     Before it may offer insurance in any state, a risk retention group shall submit to the commissioner for approval a plan of operation or a feasibility study. In the event of any subsequent material change in any item of the plan of operation or feasibility study, the risk retention group shall submit an appropriate revision or amendment to the commissioner for approval at least ten working days prior to the requested effective date of any such change. The group shall not offer any additional kinds of liability insurance, in the commonwealth or in any other state, until the commissioner approves a revision or amendment of such plan or study.
+        </section>
+        <section prefix="C">
+    	     At the time of filing its application for charter, the risk retention group shall provide to the commissioner in summary form the following information:
+        </section>
+        <section prefix="1">
+    	     the identity of the initial members of the group;
+        </section>
+        <section prefix="2">
+    	     the identity of the persons who organized the group or who will provide administrative services or otherwise influence or control the activities of the group;
+        </section>
+        <section prefix="3">
+    	     the amount and nature of initial capitalization;
+        </section>
+        <section prefix="4">
+    	     the coverages to be afforded; and
+        </section>
+        <section prefix="5">
+    	     the states in which the group intends to operate.
+        </section>
+    </text>
+</law>

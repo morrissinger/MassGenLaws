@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151D" order_by="151D" level="3">Health, Welfare And Retirement Funds</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Application Of Chapter; Exceptions</catch_line>
+    <order_by>7</order_by>
+    <text>
+        The provisions of this chapter shall not apply to workers’ compensation or plans established or maintained for the benefit of self-employed individuals or owner-employees as defined by the Internal Revenue Code of 1954, as amended or to any retirement fund, plan or program or any health and welfare fund, plan or program established by the commonwealth or by any political subdivision thereof or by any educational, charitable or religious organization, nor to any employees’ retirement association established by general or special law which is subject by law to an audit or examination by either the commissioner of banks or the commissioner of insurance.
+    </text>
+</law>

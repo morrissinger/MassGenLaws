@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="244" order_by="244" level="3">Foreclosure And Redemption Of Mortgages</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Judgment And Execution For Balance</catch_line>
+    <order_by>30</order_by>
+    <text>
+        If the court finds that the defendant has received from rents and profits of the land or otherwise more than is due on the mortgage, it shall award judgment and execution against him for the amount due to the plaintiff; and if there are several defendants, such judgment and execution may be awarded against them, either jointly or severally, for the amounts received by them or any of them, respectively.
+    </text>
+</law>

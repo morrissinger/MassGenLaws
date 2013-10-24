@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="153" order_by="153" level="3">Liability Of Employers To Employees For Injuries Not Resulting In Death</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Knowledge By Employee Of Defect Or Negligence</catch_line>
+    <order_by>2</order_by>
+    <text>
+        An employee or his legal representatives shall not be entitled under section one of this chapter or under chapter two hundred and twenty-nine to any right of action for damages against his employer if such employee knew of the defect or negligence which caused the injury, and failed within a reasonable time to give, or cause to be given, information thereof to the employer, or to some person superior to himself in the service of the employer who was intrusted with general superintendence.
+    </text>
+</law>

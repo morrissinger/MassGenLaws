@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="232A" order_by="232A" level="3">Tender</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Acceptance Of Tender; Stipulation Of Dismissal</catch_line>
+    <order_by>2</order_by>
+    <text>
+        If such tender is accepted, the parties shall file a stipulation of dismissal in the court in which the action is pending.
+    </text>
+</law>

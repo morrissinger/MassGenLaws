@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Office And Agent For Service Of Process In Commonwealth</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     an office, which may but need not be a place of its business in the commonwealth at which shall be kept the records required by section nine to be maintained; and
+        </section>
+        <section prefix="2">
+    	     a resident agent for service of process on the limited liability company, which agent must be an individual resident of the commonwealth, a domestic corporation, or a foreign corporation authorized to do business in the commonwealth.
+        </section>
+    </text>
+</law>

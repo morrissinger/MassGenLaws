@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>71G</section_number>
+    <catch_line>Eligibility For Health Insurance Benefits</catch_line>
+    <order_by>71G</order_by>
+    <text>
+        <section prefix="a">
+    	     An employee eligible to receive reemployment assistance benefits under section seventy-one F shall also be eligible to receive health insurance benefits during his or her eligibility period if (1) the individual was, at the time of termination covered by an individually purchased health insurance plan, and (2) the individual is not able to be covered under any health insurance plan carried by a member of the family.
+        </section>
+        <section prefix="b">
+    	     The maximum health insurance benefits amount shall be the amount of the monthly insurance premium, but not to exceed three months. Such amount shall be paid in accordance with the procedures prescribed by the commissioner. In formulating said procedures and other regulations governing this section, the commissioner shall consult with the commissioner of insurance.
+        </section>
+    </text>
+</law>

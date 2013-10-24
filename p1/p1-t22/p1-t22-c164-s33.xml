@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Fees For Filing Certificates, Articles And Copies Of Votes</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     Articles of organization required by section five.
+        </section>
+        <section prefix="b">
+    	     Articles of amendment providing for an increase of the total amount of authorized capital stock.
+        </section>
+        <section prefix="c">
+    	     Any other articles of amendment.
+        </section>
+        <section prefix="d">
+    	     Restated articles of organization in accordance with section eight C; provided, however, that in the event such restated articles of organization incorporate any amendment to the original articles of organization as theretofore amended, there shall be added to the filing fee the amount of the filing fee that would be required under paragraphs (b) and (c) of this section if such amendment had been incorporated in articles of amendment filed in accordance with section eight B.
+        </section>
+        <section prefix="e">
+    	     Articles of consolidation or merger in accordance with section one hundred and two A.
+        </section>
+        <section prefix="f">
+    	     Articles of dissolution pursuant to section one hundred of chapter one hundred and fifty-six B.
+        </section>
+        <section prefix="g">
+    	     Certificates or copies of votes required by section eight D. For each other filing with the state secretary required by law, but no fee shall be required for filing the certificate of change of principal office of the corporation required by section fourteen of chapter one hundred and fifty-six B, the certificate of change of date of annual meeting or change of fiscal year required by section thirty-eight of chapter one hundred and fifty-six B or the certification of change of officers required by section fifty-three of chapter one hundred and fifty-six B.
+        </section>
+    </text>
+</law>

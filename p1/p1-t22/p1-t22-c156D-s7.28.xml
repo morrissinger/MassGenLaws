@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.28</section_number>
+    <catch_line>Voting For Directors; Cumulative Voting</catch_line>
+    <order_by>7.28</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless otherwise provided in the articles of organization or bylaws, directors are elected by a plurality of the votes cast by the shares entitled to vote in the election at a meeting at which a quorum is present.
+        </section>
+        <section prefix="b">
+    	     Shareholders do not have a right to cumulate their votes for directors unless the articles of organization so provide.
+        </section>
+        <section prefix="c">
+    	     A statement included in the articles of organization that “a designated voting group of shareholders are entitled to cumulate their votes for directors”, or words of similar import, means that the shareholders designated are entitled to multiply the number of votes they are entitled to cast by the number of directors for whom they are entitled to vote and cast the product for a single candidate or distribute the product among two or more candidates.
+        </section>
+    </text>
+</law>

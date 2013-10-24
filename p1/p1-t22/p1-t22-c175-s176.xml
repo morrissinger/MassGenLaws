@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>176</section_number>
+    <catch_line>Larceny By Agent Or Broker</catch_line>
+    <order_by>176</order_by>
+    <text>
+        An insurance agent or broker who acts in negotiating or renewing or continuing a policy of insurance or an annuity or pure endowment contract issued by a company lawfully doing business in the commonwealth, and who receives any money or substitute for money as a premium for such a policy or contract from the insured or holder thereof, shall be deemed to hold such premium in trust for the company. If he fails to pay the same over to the company after written demand made upon him therefor, less his commission and any deductions to which, by the written consent of the company, he may be entitled, such failure shall be prima facie evidence that he has used or applied the said premium for a purpose other than paying the same over to the company, and upon conviction thereof he shall be guilty of larceny.
+    </text>
+</law>

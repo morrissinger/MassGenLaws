@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Copy Of Instrument And Certificate; Delivery To Purchaser;  Limitation On Expense Liability</catch_line>
+    <order_by>42</order_by>
+    <text>
+        <section prefix="a">
+    	     Except in the case of a sale where delivery of a public offering statement is required, or unless exempt under subsection (b) of section thirty-six, a seller of a time-share shall furnish to the purchaser before execution of any contract of sale, or before the transfer of title whichever first occurs, a copy of the time-share instrument, other than any plats or plans, and a certificate containing:
+        </section>
+        <section prefix="1">
+    	     a statement disclosing the effect on the proposed transfer of any right of first refusal or other restraint on transfer of the time-share or any portion thereof;
+        </section>
+        <section prefix="2">
+    	     a statement setting forth the amount of the periodic time-share expense liability and any unpaid time-share expense or special assessment or other sums currently due and payable from the seller;
+        </section>
+        <section prefix="3">
+    	     a statement of any other fees payable by time-share owners; and
+        </section>
+        <section prefix="4">
+    	     a statement of any judgments or other matters that are or may become liens against the time-share or the time-share unit and the status of any pending actions that may result in said liens.
+        </section>
+        <section prefix="b">
+    	     A managing entity, within ten days after a request by a time-share owner, shall furnish a certificate containing the information necessary to enable the time-share owner to comply with this section. A time-share owner providing a certificate pursuant to subsection (a) shall not be liable to the purchaser for any erroneous information provided by the managing entity and included in said certificate, other than for judgment liens against the time-share or the time-share unit.
+        </section>
+        <section prefix="c">
+    	     A purchaser shall not be liable for any unpaid time-share expense liability or fees in an amount greater than the amount set forth in a certificate prepared by a managing entity. A time-share owner shall not be liable to a purchaser for the failure or delay of a managing entity to provide the certificate in a timely manner, but the contract of sale shall be voidable by the purchaser until the certificate has been provided and for five days thereafter or until transfer, whichever first occurs.
+        </section>
+    </text>
+</law>

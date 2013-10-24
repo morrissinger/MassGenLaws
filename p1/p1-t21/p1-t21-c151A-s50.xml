@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Treasurer; Clearing Account; Fund Account; Deposit With United States Secretary Of The Treasury</catch_line>
+    <order_by>50</order_by>
+    <text>
+        <section prefix="a">
+    	     The state treasurer shall be, ex officio, the treasurer of the Unemployment Compensation Fund.
+        </section>
+        <section prefix="1">
+    	     A clearing account in which the commissioner, immediately upon their receipt, shall deposit all moneys payable to the fund.
+        </section>
+        <section prefix="2">
+    	     An unemployment compensation fund account.
+        </section>
+        <section prefix="b">
+    	     All money in the clearing account after clearance thereof, and excepting payment of refunds as provided in sections eighteen and forty-eight, shall be deposited by the state treasurer immediately with the secretary of the treasury of the United States of America to the credit of the account of the commonwealth in the Unemployment Trust Fund, established and maintained pursuant to section nine hundred and four of the Social Security Act, as amended, any provisions of the general laws relating to the deposit, administration, release or disbursement of moneys in the possession or custody of the commonwealth to the contrary notwithstanding.
+        </section>
+    </text>
+</law>

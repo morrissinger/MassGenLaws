@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.05</section_number>
+    <catch_line>Terms Of Directors Generally</catch_line>
+    <order_by>8.05</order_by>
+    <text>
+        <section prefix="a">
+    	     The terms of the initial directors of a corporation shall expire at the first shareholders’ meeting at which directors are elected.
+        </section>
+        <section prefix="b">
+    	     The terms of all directors shall expire at the next annual shareholders’ meeting following their election unless their terms are staggered under section 8.06.
+        </section>
+        <section prefix="c">
+    	     A decrease in the number of directors does not shorten an incumbent director’s term.
+        </section>
+        <section prefix="d">
+    	     Unless otherwise provided in the articles of organization or a bylaw adopted by shareholders or required by section 8.06(e), the term of a director elected to fill a vacancy shall expire at the next shareholders’ meeting at which directors are elected.
+        </section>
+        <section prefix="e">
+    	     Despite the expiration of a director’s term, he shall continue to serve until his successor is elected and qualified or until there is a decrease in the number of directors.
+        </section>
+    </text>
+</law>

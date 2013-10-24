@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167D" order_by="167D" level="3">Deposits And Accounts</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Bank As Depository Of Federal Government Funds</catch_line>
+    <order_by>22</order_by>
+    <text>
+        A bank may act as a depository of funds of the United States or any department, agency or instrumentality thereof, and in connection therewith and in accordance with applicable federal law, rules and regulations, may satisfy any requirement, including, without limitation, the pledging of collateral, and enter into such arrangements necessary or incidental to the receipt and administration of such deposit accounts.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Reinsurance Contracts; Status</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        Contracts of reinsurance shall be deemed contracts of insurance as defined in section two, and authority to make contracts of insurance shall include authority to make contracts of reinsurance covering the same classes of risks, but the hazards under such contracts shall be deemed distinct in nature from the hazard originally insured. No provision of law relative to the form of insurance policies shall apply to contracts of reinsurance unless made specifically applicable thereto.
+    </text>
+</law>

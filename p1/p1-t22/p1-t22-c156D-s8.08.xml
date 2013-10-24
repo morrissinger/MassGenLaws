@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.08</section_number>
+    <catch_line>Removal Of Directors</catch_line>
+    <order_by>8.08</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to subsection (b) of section 8.06 and except as otherwise provided in the articles of organization or bylaws, the shareholders may remove 1 or more directors with or without cause.
+        </section>
+        <section prefix="b">
+    	     If a director is elected by a voting group of shareholders, only the shareholders of that voting group may participate in the vote to remove him.
+        </section>
+        <section prefix="c">
+    	     If cumulative voting is authorized, a director may not be removed by the shareholders if the number of votes sufficient to elect him under cumulative voting is voted against his removal. If cumulative voting is not authorized, a director may be removed by the shareholders only if the number of votes cast to remove him exceeds the number of votes cast not to remove him.
+        </section>
+        <section prefix="d">
+    	     A director may be removed for cause by the directors by vote of the greater of (1) a majority of the directors then in office or (2) the number of directors required by the articles of organization or bylaws to take action under section 8.24, but, if a director is elected by a voting group of shareholders, only the directors elected by that voting group may participate in the vote to remove him.
+        </section>
+        <section prefix="e">
+    	     A director may be removed by the shareholders or the directors only at a meeting called for the purpose of removing him and the meeting notice must state that the purpose, or one of the purposes, of the meeting is removal of the director.
+        </section>
+    </text>
+</law>

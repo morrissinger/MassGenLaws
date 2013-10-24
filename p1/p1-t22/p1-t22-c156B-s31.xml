@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Unclaimed Dividends; Publication</catch_line>
+    <order_by>31</order_by>
+    <text>
+        Every corporation shall, once in every five years, publish once each week for three successive weeks in a newspaper of general circulation in Boston, and also in a newspaper of general circulation in the county where the corporation has its principal office, a list of all dividends which have remained unclaimed for two years or more and the names and last known addresses of the persons to whose credit such dividends stand.
+    </text>
+</law>

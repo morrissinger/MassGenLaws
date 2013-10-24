@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Copy Of Commissioner’S Examination Reports Served On Societies</catch_line>
+    <order_by>37</order_by>
+    <text>
+        <section prefix="a">
+    	     After an examination of any society, either domestic or foreign, has been begun, the commissioner shall not make public any financial statement, report or finding affecting the status, standing or rights of the society until a copy thereof has been served upon the society at its home office, and the society has been afforded a reasonable opportunity to be heard regarding the financial statement, report or finding. The commissioner may use such facts as come to his knowledge for the purpose of securing an injunction as provided in section 36.
+        </section>
+        <section prefix="b">
+    	     A report of an examination made under section 36 or 44 may, as far as material and relevant, be admitted, in the discretion of the court, in any judicial proceeding under section 36 or 43, as prima facie evidence of the facts set forth in such report. Nothing in this subsection shall be construed to require the commissioner to make an examination of a domestic society under said section 36 before presenting the facts to the attorney general under said section 36, or to make an examination of a foreign society under section 44 before refusing to issue a license to such a society under section 41 or revoking the license of such a society under section 43.
+        </section>
+    </text>
+</law>

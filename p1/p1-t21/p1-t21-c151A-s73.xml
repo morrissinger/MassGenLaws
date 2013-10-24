@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>73</section_number>
+    <catch_line>Partial Invalidity</catch_line>
+    <order_by>73</order_by>
+    <text>
+        If any part, section or subdivision of this chapter, or the application thereof, shall be held invalid, unconstitutional or inoperative as to any particular person, persons or conditions, the remainder hereof, or the application of any such part, section or subdivision to other persons and conditions, shall not be affected thereby.
+    </text>
+</law>

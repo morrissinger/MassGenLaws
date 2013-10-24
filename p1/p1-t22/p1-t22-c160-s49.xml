@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Exchange For Registered Bonds</catch_line>
+    <order_by>49</order_by>
+    <text>
+        At the request of the owner or holder of any coupon bonds lawfully issued, the railroad corporation issuing them may issue registered bonds in exchange therefor, upon such terms and under such regulations as its directors may prescribe, and with the consent and approval of the trustees, if any, to whom a mortgage or pledge has been executed; and such registered bonds shall, with the exception of the coupons, correspond in all respects with the coupon bonds for which they are exchanged, and shall be in conformity with all laws authorizing the issue of said coupon bonds. Such exchange shall not affect a mortgage or pledge given as security for the payment of such coupon bonds, and such mortgage or pledge shall remain in full force as security for such registered bonds; and the coupon bonds shall be cancelled and destroyed at the same time that the registered bonds are issued in exchange therefor.
+    </text>
+</law>

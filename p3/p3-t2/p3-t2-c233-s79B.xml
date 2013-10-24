@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>79B</section_number>
+    <catch_line>Fact Statements Published For Persons In Particular Occupation</catch_line>
+    <order_by>79B</order_by>
+    <text>
+        Statements of facts of general interest to persons engaged in an occupation contained in a list, register, periodical, book or other compilation, issued to the public, shall, in the discretion of the court, if the court finds that the compilation is published for the use of persons engaged in that occupation and commonly is used and relied upon by them, be admissible in civil cases as evidence of the truth of any fact so stated.
+    </text>
+</law>

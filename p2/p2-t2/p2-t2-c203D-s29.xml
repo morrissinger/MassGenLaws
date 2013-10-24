@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Income Taxes</catch_line>
+    <order_by>29</order_by>
+    <text>
+        <section prefix="a">
+    	     A tax required to be paid by a trustee based on receipts allocated to income shall be paid from income.
+        </section>
+        <section prefix="b">
+    	     A tax required to be paid by a trustee based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.
+        </section>
+        <section prefix="c">
+    	     A tax required to be paid by a trustee on the trust’s share of an entity’s taxable income shall be paid proportionately:
+        </section>
+        <section prefix="1">
+    	     from income if receipts from the entity are allocated to income; and
+        </section>
+        <section prefix="2">
+    	     from principal if:—
+        </section>
+        <section prefix="i">
+    	     receipts from the entity are allocated to principal; and
+        </section>
+        <section prefix="ii">
+    	     the trust’s share of the entity’s taxable income exceeds the total receipts described in this clause and in paragraph (1).
+        </section>
+        <section prefix="d">
+    	     For purposes of this section, receipts allocated to principal or income shall be reduced by the amount distributed to a beneficiary from principal or income for which the trust receives a deduction in calculating the tax.
+        </section>
+    </text>
+</law>

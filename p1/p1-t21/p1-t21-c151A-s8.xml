@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Employing Units Subject To Statute</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Has employed in employment subject to this chapter on some day in each of thirteen weeks in the year nineteen hundred and fifty or in any subsequent year at least one individual. Such employment shall constitute the employing unit thereof an employer hereunder as of January the first of the year in which such employment occurs.
+        </section>
+        <section prefix="b">
+    	     Is subject, or who during the preceding year was subject, to section 3301 of chapter 23 of the Internal Revenue Code of 1954 or any acts in addition thereto and amendments thereof, and who employs one or more individuals within the commonwealth in employment subject to this chapter; provided, that the commissioner shall exempt from this chapter those of employers whose inclusion would adversely affect the efficient administration and operation thereof and would tend to impair the Unemployment Compensation Fund without obtaining for said fund any compensating advantages in connection with the payment of benefits; or
+        </section>
+        <section prefix="c">
+    	     Has elected to become fully subject to this chapter; or
+        </section>
+        <section prefix="d">
+    	     Has acquired the organization, trade, or business, or substantially all the assets thereof, of another employing unit which at the time of such acquisition was an employer; or
+        </section>
+        <section prefix="e">
+    	     Has acquired a part of the organization, trade, or business of another, which part, if a separate organization, trade or business, would have been an employer; or
+        </section>
+        <section prefix="f">
+    	     Has acquired the organization, trade or business, or substantially all the assets thereof, of another employing unit, if the employment record of such acquiring unit subsequent to such acquisition, together with the employment record of the acquired unit prior to such acquisition, both within the same year, would be sufficient to constitute an employing unit an employer subject to this chapter; or
+        </section>
+        <section prefix="g">
+    	     Has taken under designation of a court temporary or permanent control or custody of the organization, trade or business, or substantially all the assets, of an employer subject to this chapter and employs one or more individuals whose wages are paid from or are chargeable upon the assets or estate of said employer; or
+        </section>
+        <section prefix="h">
+    	     Has taken under an assignment or agreement of parties temporary or permanent control or custody of the organization, trade or business, or substantially all the assets, of an employer subject to this chapter and employs one or more individuals whose wages are paid from or are chargeable upon the assets or estate of said employer.
+        </section>
+    </text>
+</law>

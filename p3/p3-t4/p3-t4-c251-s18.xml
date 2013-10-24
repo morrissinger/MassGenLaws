@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Appeals</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     An appeal may be taken from:—
+        </section>
+        <section prefix="1">
+    	     an order denying an application to compel arbitration made under paragraph (a) of section two;
+        </section>
+        <section prefix="2">
+    	     an order granting an application to stay arbitration made under paragraph (b) of section two;
+        </section>
+        <section prefix="3">
+    	     an order confirming or denying confirmation of an award;
+        </section>
+        <section prefix="4">
+    	     an order modifying or correcting an award;
+        </section>
+        <section prefix="5">
+    	     an order vacating an award without directing a rehearing; or
+        </section>
+        <section prefix="6">
+    	     a judgment or decree entered pursuant to the provisions of this chapter. Such appeal shall be taken in the manner and to the same extent as from orders or judgments in an action.
+        </section>
+    </text>
+</law>

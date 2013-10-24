@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>83</section_number>
+    <catch_line>Custody Hearings; Out Of Court Statements Describing Sexual Contact;  Admissibility</catch_line>
+    <order_by>83</order_by>
+    <text>
+        <section prefix="a">
+    	     Any out-of-court statements of a child under the age of ten describing any act of sexual contact performed on or with the child, the circumstances under which it occurred, or which identifies the perpetrator offered in an action brought under subparagraph C of section twenty-three or section twenty-four of chapter one hundred and nineteen shall be admissible; provided, however that the person to whom the statement was made, or who heard the child make the statement testifies, and the judge finds that the statement is offered as evidence of a material fact and is more probative on the point for which it is offered than any other evidence which the proponent can procure through reasonable effort.
+        </section>
+        <section prefix="b">
+    	     An out-of-court statement admissible by common law or by statute shall remain admissible notwithstanding the provisions of this section.
+        </section>
+    </text>
+</law>

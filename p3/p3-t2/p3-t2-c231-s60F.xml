@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>60F</section_number>
+    <catch_line>Award Of Damages; Elements And Itemization Of Amounts</catch_line>
+    <order_by>60F</order_by>
+    <text>
+        <section prefix="a">
+    	     In every action for malpractice, negligence, error, omission, mistake or the unauthorized rendering of professional services against a provider of health care which is tried to a jury, the court shall instruct the jury that if the jury awards damages to the plaintiff or plaintiffs it shall specify the total amount of damages, as well as the applicable elements of special and general damages upon which the award of damages is based and the amount of the total damages assigned to each element, including, but not limited to:
+        </section>
+        <section prefix="1">
+    	     Amounts intended to compensate the plaintiff for reasonable expenses which have been incurred, or which will be incurred, for necessary medical, surgical, X-ray, dental, or rehabilitative services, including prosthetic devices; necessary ambulance, hospital, and nursing services; drugs; and therapy;
+        </section>
+        <section prefix="2">
+    	     Amounts intended to compensate the plaintiff for lost wages or loss of earning capacity and other economic losses which have been incurred or will be incurred; and
+        </section>
+        <section prefix="3">
+    	     Amounts intended to compensate the plaintiff for pain and suffering, loss of companionship, embarrassment, and other items of general damages, which have been incurred or will be incurred in the future, and whether there is a substantial or permanent loss or impairment of a bodily function, or substantial disfigurement, or other special circumstances in the case which warrant a finding that imposition of the limitation specified in section sixty I would deprive the plaintiff of just compensation for the injuries sustained.
+        </section>
+        <section prefix="b">
+    	     In every action for malpractice, negligence, error, omission, mistake or the unauthorized rendering of professional services against a provider of health care which is tried without a jury, if the court awards damages to the plaintiff or plaintiffs, it shall find the total amount of damages, and specify the applicable elements of special and general damages upon which the award of damages is based and the amount of the total damages assigned to each element, including, but not limited to:
+        </section>
+        <section prefix="1">
+    	     Amounts intended to compensate the plaintiff for reasonable expenses which have been incurred, or which will be incurred, for necessary medical, surgical, X-ray, dental, or rehabilitative services, including prosthetic devices; necessary ambulance, hospital and nursing services; drugs; and therapy;
+        </section>
+        <section prefix="2">
+    	     Amounts intended to compensate the plaintiff for lost wages or loss of earning capacity and other economic losses which have been incurred or will be incurred; and
+        </section>
+        <section prefix="3">
+    	     Amounts intended to compensate the plaintiff for pain and suffering, loss of companionship, embarrassment, and other items of general damages, which have been incurred or will be incurred in the future, and whether there is a substantial or permanent impairment of a bodily function, or substantial disfigurement, or other special circumstances in the case which warrant a finding that imposition of the limitation specified in section sixty I would deprive the plaintiff of just compensation for the injuries sustained.
+        </section>
+    </text>
+</law>

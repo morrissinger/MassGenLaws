@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>132A</section_number>
+    <catch_line>Group Annuity Contract; Definitions</catch_line>
+    <order_by>132A</order_by>
+    <text>
+        <section prefix="a">
+    	     to a person, firm or corporation, as employer, and providing for the payment of annuities on all of his or its employees or any specified class or classes thereof, and which requires that the considerations or stipulated payments shall be paid by the employer or by the employer and the employees jointly; provided, however, that this clause shall not apply to any group annuity plan to which the provisions of section 403(b) of the Internal Revenue Code apply; or
+        </section>
+        <section prefix="b">
+    	     to an employers’ association, and providing for the payment of annuities on all of the employees of any or all the members of such association or of any specified class or classes of such employees, and which requires that the considerations or stipulated payments shall be paid either wholly by each employer with respect to his or its employees, or jointly by the employer and his or its employees, or with gifts or other voluntary contributions received by such employers’ association; or
+        </section>
+        <section prefix="c">
+    	     to a trade union or other association of wage workers described in section twenty-nine, and providing for the payment of annuities on all of the members of such union or association or of any specified class or classes thereof, and which requires that the considerations or stipulated payments shall be paid wholly with funds contributed by such union or association, the employer or employers of the persons covered under the contract, or both, or partly with such funds and partly with funds contributed by the persons covered under the contract; or
+        </section>
+        <section prefix="d">
+    	     to the trustee or trustees of a fund established by one or more employers, or by one or more trade unions or other associations of wage workers described in section twenty-nine, or by one or more employers and one or more such unions or associations, and providing for the payment of annuities on all of the employees of the employers or all of the members of the unions or associations, or all of any class or classes thereof, and which requires that the considerations or stipulated payments shall not be paid wholly with funds contributed specifically for such coverage by the persons covered thereunder except in the case of coverage of a partner or an individual proprietor.
+        </section>
+    </text>
+</law>

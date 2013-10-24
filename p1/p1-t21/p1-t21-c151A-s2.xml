@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Service Deemed “Employment”; Exclusions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     such individual has been and will continue to be free from control and direction in connection with the performance of such services, both under his contract for the performance of service and in fact; and
+        </section>
+        <section prefix="b">
+    	     such service is performed either outside the usual course of the business for which the service is performed or is performed outside of all the places of business of the enterprise for which the service is performed; and
+        </section>
+        <section prefix="c">
+    	     such individual is customarily engaged in an independently established trade, occupation, profession or business of the same nature as that involved in the service performed.
+        </section>
+    </text>
+</law>

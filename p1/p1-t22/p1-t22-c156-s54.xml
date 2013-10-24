@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Certain Certificates; Determination Of Fees</catch_line>
+    <order_by>54</order_by>
+    <text>
+        The fees for filing the following certificates shall be determined annually by the commissioner of administration under the provision of section three B of chapter seven: 
+A certificate providing for an increase of capital stock with par value. 
+A certificate providing for a change of shares with par value to shares without par value, whether or not the capital is changed thereby. 
+A certificate providing for an increase in the number of shares without par value, whether or not the capital is changed thereby. 
+A certificate providing for a change of shares without par value into shares with par value or for an exchange of shares without par value for shares with par value, whether or not an increase or decrease or no change in the capital is provided for.
+    </text>
+</law>

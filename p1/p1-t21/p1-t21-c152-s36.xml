@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Specific Injuries</catch_line>
+    <order_by>36</order_by>
+    <text>
+        <section prefix="1">
+    	     In addition to all other compensation to the employee shall be paid the sums hereafter designated for the following specific injuries; provided, however, that the employee has not died from any cause within thirty days of such injury:
+        </section>
+        <section prefix="a">
+    	     For the loss by enucleation or otherwise or the total loss of use of one eye, or for injury to one eye which produces an inability which is not correctible to use both eyes together for single binocular vision, or the reduction to twenty-seventieths of normal vision in one eye, with glasses, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by thirty-nine.
+        </section>
+        <section prefix="b">
+    	     For the loss by enucleation or otherwise, or the total loss of use of both eyes, or the reduction to twenty-seventieths of normal vision in both eyes, with glasses, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by ninety-six.
+        </section>
+        <section prefix="c">
+    	     For any correctible permanent but partial reduction in either the acuity or field of vision of one or both eyes, such sum in proportion to the amount applicable in the event of total loss, total loss of use, or the reduction to twenty-seventieths of normal vision of one or both eyes as the correctible partial reduction bears to such total loss, total loss of use or reduction to twenty-seventieths of normal vision; provided that, for any permanent but partial reduction in either acuity or field of vision of either eye which requires the use of corrective device, such as glasses or contact lens, to produce normal vision, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by seven.
+        </section>
+        <section prefix="d">
+    	     For the loss of hearing of one ear, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by twenty-nine; for the loss of hearing of both ears, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by seventy-seven.
+        </section>
+        <section prefix="e">
+    	     For the amputation or permanent, total loss of use of the major arm, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by forty-three; for the amputation or permanent total loss of use of the minor arm, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by thirty-nine; for the amputation or permanent total loss of use of both arms, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by ninety-six.
+        </section>
+        <section prefix="f">
+    	     For the amputation or permanent, total loss of use of the major hand at the wrist, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by thirty-four; for the amputation or permanent, total loss of use of the minor hand at the wrist, a sum equal to the average weekly wage in the commonwealth at the date of injury multiplied by twenty-nine; for the amputation or permanent, total loss of use of both hands at the wrist, a sum equal to the average weekly wage in the commonwealth at the date of injury multiplied by seventy-seven.
+        </section>
+        <section prefix="g">
+    	     For the amputation or permanent, total loss of use of either leg, a sum equal to the average weekly wage in the commonwealth at the date of the injury multiplied by thirty-nine; for the amputation or permanent, total loss of use of both legs, a sum equal to the average weekly wage in the commonwealth on the date of injury multiplied by ninety-six.
+        </section>
+        <section prefix="h">
+    	     For the amputation or permanent, total loss of use of either foot at any point above the ankle joint, a sum equal to the average weekly wage in the commonwealth at the date of injury multiplied by twenty-nine; for the amputation or permanent, total loss of use of both feet at any point above the ankle joints, a sum equal to the average weekly wage in the commonwealth at the date of injury multiplied by sixty-eight.
+        </section>
+        <section prefix="i">
+    	     For any permanent but partial loss of use of a member, whether leg, foot, arm, or hand, such sum in proportion to the amount applicable in the event of amputation or permanent, total loss of use of said member as the said partial loss bears to the total loss of use of said member.
+        </section>
+        <section prefix="j">
+    	     For each loss of bodily function or sense, other than those specified in preceding paragraphs of this section, the amount which, according to the determination of the member or reviewing board, is a proper and equitable compensation, not to exceed the average weekly wage in the commonwealth at the date of injury multiplied by thirty-two; provided, however, that the total amount payable under this paragraph shall not exceed the average weekly wage in the commonwealth at the date of injury multiplied by eighty.
+        </section>
+        <section prefix="k">
+    	     For bodily disfigurement, an amount which, according to the determination of the member or reviewing board, is a proper and equitable compensation, not to exceed fifteen thousand dollars; which sum shall be payable in addition to all other sums due under this section. No amount shall be payable under this section for disfigurement that is purely scar-based, unless such disfigurement is on the face, neck or hands.
+        </section>
+        <section prefix="2">
+    	     Where applicable, losses under this section shall be determined in accordance with standards set forth in the American Medical Association Guides to the Evaluation of Permanent Impairments. Nothing in this section shall adversely affect the employee’s rights to any compensation which is or may become due under the provisions of any other section.
+        </section>
+    </text>
+</law>

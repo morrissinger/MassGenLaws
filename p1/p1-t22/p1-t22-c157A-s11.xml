@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="157A" order_by="157A" level="3">Employee Cooperative Corporations</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Conversion Of Membership Shares And Internal Capital Accounts Upon Revocation Of Election; Consolidation Or Merger</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     When any employee cooperative revokes its election in accordance with section four, the articles of amendment shall provide for conversion of membership shares and internal capital accounts or their conversion to securities or other property in a manner consistent with said chapter one hundred and fifty-six B.
+        </section>
+        <section prefix="b">
+    	     An employee cooperative which has not revoked its election under this chapter may not consolidate or merge with another corporation other than an employee cooperative. Two or more employee cooperatives may consolidate or merge in accordance with sections seventy-eight, eighty, eighty-one, eighty-four and eighty-five of said chapter one hundred and fifty-six B.
+        </section>
+    </text>
+</law>

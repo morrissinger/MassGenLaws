@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>148B</section_number>
+    <catch_line>Persons Performing Service Not Authorized Under This Chapter Deemed Employees; Exception</catch_line>
+    <order_by>148B</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of this chapter and chapter 151, an individual performing any service, except as authorized under this chapter, shall be considered to be an employee under those chapters unless:—
+        </section>
+        <section prefix="1">
+    	     the individual is free from control and direction in connection with the performance of the service, both under his contract for the performance of service and in fact; and
+        </section>
+        <section prefix="2">
+    	     the service is performed outside the usual course of the business of the employer; and,
+        </section>
+        <section prefix="3">
+    	     the individual is customarily engaged in an independently established trade, occupation, profession or business of the same nature as that involved in the service performed.
+        </section>
+        <section prefix="b">
+    	     The failure to withhold federal or state income taxes or to pay unemployment compensation contributions or workers compensation premiums with respect to an individual’s wages shall not be considered in making a determination under this section.
+        </section>
+        <section prefix="c">
+    	     An individual’s exercise of the option to secure workers’ compensation insurance with a carrier as a sole proprietor or partnership pursuant to subsection (4) of section 1 of chapter 152 shall not be considered in making a determination under this section.
+        </section>
+        <section prefix="d">
+    	     Whoever fails to properly classify an individual as an employee according to this section and in so doing fails to comply, in any respect, with chapter 149, or section 1, 1A, 1B, 2B, 15 or 19 of chapter 151, or chapter 62B, shall be punished and shall be subject to all of the criminal and civil remedies, including debarment, as provided in section 27C of this chapter. Whoever fails to properly classify an individual as an employee according to this section and in so doing violates chapter 152 shall be punished as provided in section 14 of said chapter 152 and shall be subject to all of the civil remedies, including debarment, provided in section 27C of this chapter. Any entity and the president and treasurer of a corporation and any officer or agent having the management of the corporation or entity shall be liable for violations of this section.
+        </section>
+        <section prefix="e">
+    	     Nothing in this section shall limit the availability of other remedies at law or in equity.
+        </section>
+    </text>
+</law>

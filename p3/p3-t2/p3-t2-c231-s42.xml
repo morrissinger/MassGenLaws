@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Endorsement Of Pleading Or Process Before Filing Or Entry; Residence</catch_line>
+    <order_by>42</order_by>
+    <text>
+        Any initial pleading or process by which an action is commenced by a plaintiff who is not an inhabitant of the commonwealth, shall before the filing or entry thereof, be endorsed by a responsible person who is such an inhabitant; but if one of the plaintiffs is such an inhabitant, the pleading or process need not be so endorsed. Every endorser, in case of avoidance or inability of the plaintiff, shall be liable to pay all costs awarded against the plaintiff if an action therefor is commenced within one year after the original judgment.
+    </text>
+</law>

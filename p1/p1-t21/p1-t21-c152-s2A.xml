@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Application Of Amendments Of Statute</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        Every act, in amendment of this chapter, in effect on the effective date of this section or thereafter becoming effective which increases or decreases the amount or amounts of compensation payable to an injured employee or his dependents including amounts deducted for legal fees shall, for the purposes of this chapter, be deemed to be substantive in character and shall apply only to personal injuries occurring on and after the effective date of such act, unless otherwise expressly provided. Every act, in amendment of this chapter, in effect on the effective date of this section or thereafter becoming effective which is not deemed to be substantive in character within the meaning of this section shall be deemed to be procedural or remedial only, in character, and shall have application to personal injuries irrespective of the date of their occurrence, unless otherwise expressly provided.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>69O</section_number>
+    <catch_line>Decision Granting Or Denying Application; Findings And Opinions;  Applicability</catch_line>
+    <order_by>69O</order_by>
+    <text>
+        <section prefix="1">
+    	     the need for the facility to meet the energy requirements of the applicant’s market area taking into account wholesale bulk power or gas sales or purchases or other co-operative arrangements with other utilities and energy policies as adopted by the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the compatibility of the facility with considerations of environmental protection, public health and public safety;
+        </section>
+        <section prefix="3">
+    	     The extent to which construction and operation of the facility will fail to conform with existing state and local laws, ordinances, by-laws, rules and regulations and reasonableness of exemption thereunder, if any, consistent with the implementation of the energy policies contained in this chapter to provide a necessary energy supply for the commonwealth with a minimum impact on the environment at the lowest possible cost; and
+        </section>
+        <section prefix="4">
+    	     the public interest, convenience and necessity requiring construction and operation of the facility.
+        </section>
+    </text>
+</law>

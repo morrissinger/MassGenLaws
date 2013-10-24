@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174A" order_by="174A" level="3">Regulation Of Rates For Fire, Marine And Inland Marine Insurance, And Rating Organizations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Restrictions On Application</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     To reinsurance, other than joint reinsurance to the extent stated in section thirteen.
+        </section>
+        <section prefix="b">
+    	     To insurance of vessels or craft, their cargoes, marine builders’ risks, marine protection and indemnity, or other risks commonly insured under marine, as distinguished from inland marine, insurance policies.
+        </section>
+        <section prefix="c">
+    	     To insurance of hulls of aircraft, including their accessories and equipment, or against liability arising out of the ownership, maintenance or use of aircraft.
+        </section>
+        <section prefix="d">
+    	     To motor vehicle insurance, nor to insurance against liability arising out of the ownership, maintenance or use of motor vehicles.
+        </section>
+    </text>
+</law>

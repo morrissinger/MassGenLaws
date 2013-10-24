@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="207" order_by="207" level="3">Marriage</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Issue Of Marriage Void By Reason Of Nonage Or Insanity</catch_line>
+    <order_by>16</order_by>
+    <text>
+        The issue of a marriage declared void by reason of nonage, insanity or idiocy of either party shall be the legitimate issue of the parent who was capable of contracting the marriage.
+    </text>
+</law>

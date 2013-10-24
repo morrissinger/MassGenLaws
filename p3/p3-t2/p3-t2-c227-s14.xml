@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Contract Actions</catch_line>
+    <order_by>14</order_by>
+    <text>
+        An action of contract against several defendants, any one of whom is in the commonwealth and any other of whom is absent, in which the plaintiff recovers judgment shall not be subject to the provisions of this chapter relative to review, giving bond and alienation of land; but judgment shall not be rendered against any such absent defendant, unless under such circumstances as would entitle the plaintiff to judgment if the absent party were the sole defendant.
+    </text>
+</law>

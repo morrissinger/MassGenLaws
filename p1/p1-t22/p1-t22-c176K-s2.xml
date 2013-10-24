@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176K" order_by="176K" level="3">Medicare Supplement Insurance Plans</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Compliance; Withdrawal From Market</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding the provisions of any other law to the contrary, and subject to the provisions of OBRA 90 and
+        </section>
+        <section prefix="b">
+    	     A carrier that participated in the market on or after a date set by the commissioner by regulation may not withdraw from the market until all insureds of such carrier have had the opportunity to join a policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract offered by another carrier during the next annual open enrollment period or other enrollment period required in section three.
+        </section>
+        <section prefix="c">
+    	     A carrier that withdraws from the market on or after the effective date of this chapter may not participate in the market in the commonwealth for five years from the date of withdrawal, unless the commissioner finds that such re-entry shall be permitted earlier than said five years due to a compelling public interest.
+        </section>
+    </text>
+</law>

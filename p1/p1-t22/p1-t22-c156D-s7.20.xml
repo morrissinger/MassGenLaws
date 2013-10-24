@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.20</section_number>
+    <catch_line>Shareholders List For Meeting</catch_line>
+    <order_by>7.20</order_by>
+    <text>
+        <section prefix="a">
+    	     After fixing a record date for a shareholders’ meeting, a corporation shall prepare an alphabetical list of the names of all its shareholders who are entitled to notice of the meeting. The list shall be arranged by voting group, and within each voting group by class or series of shares, and show the address of and number of shares held by each shareholder, but need not include an electronic mail address or other electronic contact information for any shareholder.
+        </section>
+        <section prefix="b">
+    	     The shareholders list shall be available for inspection by any shareholder, beginning 2 business days after notice is given of the meeting for which the list was prepared and continuing through the meeting:
+        </section>
+        <section prefix="1">
+    	     at the corporation’s principal office or at a place identified in the meeting notice in the city where the meeting will be held; or
+        </section>
+        <section prefix="2">
+    	     on a reasonably accessible electronic network, provided that the information required to gain access to such list is provided with the notice of the meeting.
+        </section>
+        <section prefix="c">
+    	     A shareholder, his agent, or attorney is entitled on written demand to inspect and, subject to the requirements of section 16.02(c), to copy the list, during regular business hours and at his expense, during the period it is available for inspection.
+        </section>
+        <section prefix="d">
+    	     The corporation shall make the shareholders list available at the meeting, and any shareholder or his agent or attorney is entitled to inspect the list at any time during the meeting or any adjournment.
+        </section>
+        <section prefix="e">
+    	     If the corporation refuses to allow a shareholder or his agent or attorney to inspect the shareholders list before or at the meeting, or copy the list as permitted by subsection (b), the superior court of the county where a corporation’s principal office or, if none in the commonwealth, its registered office is located, on application of the shareholder, may summarily order the inspection or copying at the corporation’s expense and may postpone the meeting for which the list was prepared until the inspection or copying is complete.
+        </section>
+        <section prefix="f">
+    	     Refusal or failure to prepare or make available the shareholders list shall not affect the validity of action taken at the meeting.
+        </section>
+    </text>
+</law>

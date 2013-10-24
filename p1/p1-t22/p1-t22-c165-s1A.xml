@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="165" order_by="165" level="3">Water And Aqueduct Companies</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Adequacy Of Distribution System; Approval</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        No corporation or company shall engage in the distribution or sale of water in the commonwealth through its pipes or mains unless written approval of the adequacy of its distribution system has first been obtained from the department, and unless proof of compliance with chapter one hundred and eleven has been furnished to the department.
+    </text>
+</law>

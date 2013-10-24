@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Board Of Directors; Powers</catch_line>
+    <order_by>25</order_by>
+    <text>
+        The board of directors may exercise all the powers of the corporation, except such as are conferred by law, or by the by-laws of the corporation, upon the stockholders.
+    </text>
+</law>

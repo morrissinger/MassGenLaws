@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>10B</section_number>
+    <catch_line>Arbitration; Agreements; Proceedings</catch_line>
+    <order_by>10B</order_by>
+    <text>
+        <section prefix="1">
+    	     At any time prior to five days before a conference held pursuant to section ten A, the parties to a claim or complaint may agree to refer the matter to an independent arbitrator; provided, however, that such arbitrator shall not have appeared before an administrative judge or the reviewing board as an advocate on behalf of any party for at least one year. Parties who wish to refer a matter to arbitration shall sign a written agreement to arbitrate which shall be enforceable in accordance with the provisions of section one of chapter two hundred and fifty-one. The agreement shall require that the arbitrator determine all questions regarding this chapter, and, except as provided in subsection four, it shall provide that the parties will abide by the findings and award of the arbitrator which shall be final and binding upon them. The agreement shall also identify all costs and fees which may be payable in the arbitration and shall state which party shall be responsible for the payments.
+        </section>
+        <section prefix="2">
+    	     Upon receipt of a written agreement to arbitrate signed by the parties, the department shall mark the case as forwarded to arbitration, and all further proceedings on the case before the division of dispute resolution shall be stayed. No further claim or complaint may be filed with the department with respect to the same injury or condition that is the subject of the arbitration until the department is in receipt of the arbitrator’s award or a written withdrawal from arbitration signed by both parties.
+        </section>
+        <section prefix="3">
+    	     An agreement to arbitrate entered into by the parties may also provide that any subsequent claim or complaint filed by either party with respect to the same injury or condition that is the subject of the initial arbitration must likewise be referred for findings by the same arbitrator or another arbitrator agreed to by the parties. Whenever a subsequent claim or complaint is filed with the department after the parties have entered into an agreement for arbitration of successive claims and complaints in accordance with this paragraph, the department shall mark the case as forwarded to arbitration and paragraph two shall apply.
+        </section>
+        <section prefix="4">
+    	     Any arbitration authorized pursuant to this section shall be conducted in accordance with the provisions of chapter two hundred and fifty-one. The arbitrator shall have all of the powers and duties provided in said chapter two hundred and fifty-one, and the arbitrator’s award may be reviewed, modified or set aside only as provided in that chapter. The arbitrator’s award shall include his findings as to compensation, an order requiring or denying payment of compensation, modifying or terminating compensation, or denying modification or termination of compensation. The arbitrator’s award may be enforced pursuant to section twelve of this chapter. The arbitrator shall provide the department with a copy of the arbitration award upon its issuance. Any party seeking to vacate or modify an arbitration award shall do so pursuant to the provisions of sections twelve and thirteen, respectively, of chapter two hundred fifty-one.
+        </section>
+        <section prefix="5">
+    	     At any stage of the proceedings before the department the parties to a claim or complaint may agree to mediate the matter before an independent mediator selected by the parties. Agreement by the parties to mediation shall not result in the postponement or stay of any proceedings before the department, nor shall any party be considered to have waived its right to proceed with its case before the department by virtue of its agreement to mediate. The work product and case files of the mediator shall be confidential and subject to the evidentiary privilege set forth in section twenty-three C of chapter two hundred and thirty-three. The costs and fees of mediation shall be subject to the agreement of the parties and the mediator.
+        </section>
+    </text>
+</law>

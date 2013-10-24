@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Map And Engineer’S Report To Accompany Petition For Charter</catch_line>
+    <order_by>8</order_by>
+    <text>
+        A petition to the general court for a charter for a railroad corporation shall not be acted upon, unless accompanied by such a map of the route and by such a report of a competent engineer, as is specified in section eighteen.
+    </text>
+</law>

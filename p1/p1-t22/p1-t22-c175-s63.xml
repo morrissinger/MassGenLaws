@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Capital And Reserve; Payment; Investment   </catch_line>
+    <order_by>63</order_by>
+    <text>
+        <section prefix="b">
+    	     In the bonds or notes of any county, city, school or water district, or other political subdivision, located in any other state in the United States, and having a population, according to the last national census preceding the date of such investment, of more than twenty-five thousand inhabitants, provided that such notes or bonds are legally authorized and are a direct obligation of the county, city, school or water district or political subdivision issuing the same.
+        </section>
+        <section prefix="c">
+    	     In the bonds or notes of any county, city, town, school or water district, or other political subdivision, located in any other state of the United States and having an indebtedness, after deducting the amount of its water debt and securities in the sinking funds available for payment of its bonds, not in excess of five per cent of the valuation of property therein as assessed for taxation next preceding the date of such investment, provided that such bonds or notes are legally authorized and are a direct obligation of the county, city, town, school or water district or other political subdivision issuing the same.
+        </section>
+        <section prefix="d">
+    	     In the bonds or notes of any county, city, town, district, authority or political subdivision located in any state of the United States, if, by statutory or other requirements applicable thereto, such bonds or notes are payable as to both principal and interest from adequate special revenues pledged or otherwise appropriated or by law required to be provided for the purpose of such payment, but not including any obligations payable solely out of special assessments on properties benefited by local improvements.
+        </section>
+        <section prefix="1">
+    	     initially rated at least BBB- or Baa3 or the equivalent thereof by any of the nationally recognized statistical rating organizations recognized by the Securities Valuation Office of the National Association of Insurance Commissioners hereinafter referred to as NAIC-SVO;
+        </section>
+        <section prefix="2">
+    	     initially rated NAIC 1 or NAIC 2 subsequent to such acquisition, either by the NAIC-SVO or by the insurer pursuant to a filing exemption in accordance with the requirements of the NAIC-SVO; or
+        </section>
+        <section prefix="3">
+    	     are provisionally rated NAIC 1Z or NAIC 2Z by the insurer in accordance with the requirements of the NAIC-SVO. In the event that the provisionally rated bonds, notes, evidences of indebtedness or contractual obligations for the payment of money or the long-term debt of the institution or institutions issuing, assuming or guaranteeing the bonds, notes, evidences of indebtedness or contractual obligations for the payment of money subsequently fail to qualify under clause (1) or clause (2) after any appeal by the insurer within the applicable time periods specified by the NAIC-SVO, then the bonds, notes, evidences of indebtedness or contractual obligations for the payment of money shall no longer qualify as permitted investments under this paragraph; but no company may invest more than an aggregate of 2 per cent of its admitted assets in bonds, notes, evidences of indebtedness or contractual obligations for the payment of money issued, guaranteed or insured by any one institution pursuant to this paragraph.
+        </section>
+        <section prefix="1">
+    	     obligations, including certificates of deposit and bankers acceptances, of banks or trust companies incorporated and doing business under the laws of the United States or one of the states thereof which at the date of the investment have capital, surplus and undivided profits, as of the date of their most recent published financial statements, in excess of one hundred million dollars, including obligations of foreign branches of United States banks and United States branches or agencies of foreign banks if such banks meet the stated qualifications;
+        </section>
+        <section prefix="2">
+    	     commercial paper which at the date of the investment is rated, or guaranteed by a company whose commercial paper is rated, A-1 by Standard & Poor’s Corporation, P-1 by Moody’s Investors Service, Inc., or F-1 by Fitch’s Investors Service or, if not rated, is issued by a company which at the date of the investment has an outstanding debt issue rated AAA or AA by Standard & Poor’s or Aaa or Aa by Moody’s;
+        </section>
+        <section prefix="3">
+    	     corporate obligations maturing in one year or less which at the date of the investment are rated A or higher by Standard & Poor’s or A or higher by Moody’s; and
+        </section>
+        <section prefix="4">
+    	     repurchase agreements with respect to any of the foregoing obligations.
+        </section>
+    </text>
+</law>

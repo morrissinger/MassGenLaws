@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Section 1.  As used in this chapter, the following words shall, unless the context otherwise requires, have the following meanings:— 
+“Bank”, any association or corporation chartered by the commonwealth under chapter 168, 170, 171 or 172, or an individual, association, partnership or corporation incorporated or doing a banking business in the commonwealth subject to the supervision of the commissioner. 
+“Commissioner”, the commissioner of banks. 
+“Cooperative bank”, an association or corporation chartered pursuant to chapter 170. 
+“Credit union”, an association or corporation chartered pursuant to chapter 171. 
+“Federal bank”, a national banking association, savings and loan association or savings bank that exists by authority of the United States, the main office of which is located in the commonwealth. 
+“Federal branch”, a branch in the commonwealth of any out-of-state federal bank. 
+“Foreign bank”, an association or corporation authorized to do a banking business the main office of which is located outside the commonwealth and which exists by authority of a country other than the United States. 
+“Internet bank”, a bank, federal bank, foreign bank or out-of-state bank that provides its services exclusively or primarily through the internet. 
+“Limited purpose trust company”, an association or corporation chartered pursuant to section 9A of chapter 172. 
+“Massachusetts bank”, a bank, other than an association or corporation chartered pursuant to chapter 171. 
+“Massachusetts branch”, a branch in the commonwealth of an out-of-state bank. 
+“Out-of-state bank”, an association or corporation authorized to do a banking business, the main office of which is located outside the commonwealth and which exists by authority of a state of the United States except the commonwealth. 
+“Out-of-state branch”, a branch of a Massachusetts bank located outside the commonwealth. 
+“Out-of-state federal bank”, a national banking association, savings and loan association or savings bank that exists by authority of the United States, the main office of which is located outside the commonwealth. 
+“Savings bank”, an association or corporation chartered pursuant to chapter 168. 
+“State”, a state, commonwealth or territory of the United States, the District of Columbia, or a foreign country. 
+“Trust company”, an association or corporation chartered pursuant to chapter 172.
+    </text>
+</law>

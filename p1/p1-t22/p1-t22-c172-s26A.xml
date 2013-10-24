@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>26A</section_number>
+    <catch_line>Notice Of Proposed Acquisition; Disapproval</catch_line>
+    <order_by>26A</order_by>
+    <text>
+        <section prefix="1">
+    	     The identity, personal history, business background and experience of each person by whom or on whose behalf the acquisition is to be made, including his material business activities and affiliations during the past five years, and a description of any material pending legal or administrative proceedings in which he is a party and any criminal indictment or conviction of such person by a state or federal court.
+        </section>
+        <section prefix="2">
+    	     A statement of the assets and liabilities of each person by whom or on whose behalf the acquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
+        </section>
+        <section prefix="3">
+    	     The terms and conditions of the proposed acquisition and the manner in which the acquisition is to be made.
+        </section>
+        <section prefix="4">
+    	     The identity, source and amount of the funds or other consideration used or to be used in making the acquisition, and if any part of these funds or other consideration has been or is to be borrowed or otherwise obtained for the purpose of making the acquisition, a description of the transaction, the names of the parties, and any arrangements, agreements, or understandings with such persons.
+        </section>
+        <section prefix="5">
+    	     Any plans or proposals which any acquiring party making the acquisition may have to liquidate the bank, to sell its assets or merge it with any company or to make any other major change in its business or corporate structure or management.
+        </section>
+        <section prefix="6">
+    	     The identification of any person employed, retained, or to be compensated by the acquiring party, or by any person on his behalf, to make solicitations or recommendations to stockholders for the purpose of assisting in the acquisition, and a brief description of the terms of such employment, retainer or arrangement for compensation.
+        </section>
+        <section prefix="7">
+    	     Copies of all invitations or tenders or advertisements making a tender offer to stockholders for purchase of their stock to be used in connection with the proposed acquisition.
+        </section>
+        <section prefix="8">
+    	     Any additional relevant information and in such form as the commissioner may require by specific request in connection with any particular notice.
+        </section>
+    </text>
+</law>

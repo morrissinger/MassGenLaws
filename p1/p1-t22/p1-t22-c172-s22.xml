@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Annual Report; Balance Sheet</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Each trust company shall, annually, within thirty days after the last business day of December make a report to the commissioner in such form as he may prescribe showing accurately its condition at the close of business on that day, and containing such other information as the commissioner may require. Each annual report and the general books of each trust company shall be available for examination for reasonable purposes by stockholders or their authorized agents at the principal office during business hours. 
+Each such corporation shall prepare a balance sheet, in accordance with generally accepted accounting principles, which presents fairly its condition as of the last business day of its fiscal year. A copy of said balance sheet shall be made available to a depositor upon request.
+    </text>
+</law>

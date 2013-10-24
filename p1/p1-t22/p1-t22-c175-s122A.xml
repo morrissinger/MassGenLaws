@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>122A</section_number>
+    <catch_line>Discrimination Based Upon Lawful Travel Plans</catch_line>
+    <order_by>122A</order_by>
+    <text>
+        <section prefix="a">
+    	     An insurer or producer authorized to issue policies on the lives of persons in the commonwealth shall not make a distinction or otherwise discriminate between persons, reject an applicant, cancel a policy or demand or require a higher rate of premium for reasons based solely upon an applicant’s or insured’s past lawful travel experiences or future lawful travel plans.
+        </section>
+        <section prefix="b">
+    	     This section shall not prohibit an insurer from excluding or limiting coverage under a life insurance policy, or refusing to offer life insurance, based upon past lawful travel or future lawful travel plans, or from charging a different rate for that coverage, when that action is based upon sound actuarial principle or is related to actual or reasonably expected experience and is not based solely on the destination’s inclusion on the United States Department of State Travel Warning List.
+        </section>
+        <section prefix="c">
+    	     A violation of this section shall constitute an unfair method of competition or unfair and deceptive act or practice pursuant to chapter 176D.
+        </section>
+    </text>
+</law>

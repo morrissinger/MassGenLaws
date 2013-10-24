@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>213</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>213</order_by>
+    <text>
+        <section prefix="1">
+    	     a natural person who enters into not more than one loan agreement in a calendar year for any value less than the expected death benefit;
+        </section>
+        <section prefix="2">
+    	     a family member or friend, who is not in the business of providing or obtaining viatical loans, who enters into a loan agreement for any value less than the expected death benefit; or
+        </section>
+        <section prefix="3">
+    	     a financing entity.
+        </section>
+        <section prefix="1">
+    	     an attorney, an accountant, an investment or financial planner or any person exercising a power of attorney granted by a viatical loan borrower;
+        </section>
+        <section prefix="2">
+    	     a person who is retained to represent a viatical loan borrower and whose compensation is paid by or at the discretion of the viatical loan borrower regardless of whether the viatical loan transaction is completed; or
+        </section>
+        <section prefix="3">
+    	     a credit union, trade union, not-for-profit entity or an employer or association that makes information about viatical loans available to its employees or members unless such information is distributed in exchange for financial consideration.
+        </section>
+        <section prefix="1">
+    	     a bank, savings bank, savings and loan association, credit union or other licensed lending institution which takes an assignment of a life insurance policy as collateral for a loan;
+        </section>
+        <section prefix="2">
+    	     the issuer of a life insurance policy providing accelerated benefits and pursuant to the contract;
+        </section>
+        <section prefix="3">
+    	     a natural person who enters into not more than one agreement in a calendar year for the transfer of life insurance policies for any value less than the expected death benefit;
+        </section>
+        <section prefix="4">
+    	     a family member or friend who is not in the business of providing or obtaining viatical settlements, who enters into a viatical settlement agreement for any value less than the expected death benefit; or
+        </section>
+        <section prefix="5">
+    	     a financing entity.
+        </section>
+        <section prefix="1">
+    	     an attorney, accountant, investment or financial planner or any person exercising a power of attorney granted by a viator;
+        </section>
+        <section prefix="2">
+    	     a person who is retained to represent a viator and whose compensation is paid by or at the discretion of the viator regardless of whether the viatical settlement transaction is completed; or
+        </section>
+        <section prefix="3">
+    	     a credit union, trade union, not-for-profit entity or an employer or association that makes information about viatical settlements available to its employees or members, unless such information is distributed in exchange for financial consideration.
+        </section>
+    </text>
+</law>

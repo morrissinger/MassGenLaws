@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Powers And Duties Of Commissioner; Audit</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall have the same powers and duties in respect to co-operative banks which he has in respect to savings banks. At least once during each 12 months following their election, and more often if required by the commissioner, the audit committee, referred to in section 11, shall have an audit made of the balance sheet of the corporation and other financial statements as it may prescribe.
+        </section>
+        <section prefix="b">
+    	     The audit shall be made by an independent certified public accountant as set forth in the last paragraph of section 33 of chapter 13 in accordance with generally accepted auditing standards and in the form and manner and at the time within the 12 months as the audit committee may prescribe. Within 30 days after its election, the audit committee shall appoint an accountant and written notice thereof shall be given to the commissioner.
+        </section>
+        <section prefix="c">
+    	     The accountant shall report in writing to the audit committee the results of the audit. At the next meeting of the directors thereafter, the audit committee shall render a report, which shall be read and be signed by the committee, stating the nature, extent and results of the audit and whether it accepts the accountant’s report.
+        </section>
+        <section prefix="d">
+    	     The audit committee shall file with the commissioner a copy of the accountant’s report within 30 days after its receipt and maintain another copy with the records of the corporation. If the audit committee fails to have an audit as herein provided, the commissioner shall have an audit made by an independent certified public accountant as set forth in the last paragraph of section 33 of chapter 13 in the form and manner as the commissioner may prescribe, and the expense thereof shall be paid by the corporation.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     check guarantee or authorization service which does not directly result in a debit or credit to a consumer’s account.
+        </section>
+        <section prefix="b">
+    	     any transfer of funds, other than those processed by automated clearinghouse, made by a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which is not designed primarily to transfer funds on behalf of a consumer.
+        </section>
+        <section prefix="c">
+    	     any transfer, the primary purpose of which is the purchase or sale of securities or commodities regulated by the Securities and Exchange Commission or the Commodities Futures Trading Commission.
+        </section>
+        <section prefix="d">
+    	     any transfer under an agreement between a consumer and a financial institution which provides that the institution will initiate individual transfers without a specific request from the consumer, (1) between a consumer’s accounts within the financial institution, such as a transfer from a checking account to a savings account; (2) into a consumer’s account by the financial institution, such as the crediting of interest to a savings account, provided that the financial institution shall be subject to clause (2) of section seven and sections twenty and twenty-one; or (3) from a consumer’s account to an account of the financial institution, such as a loan payment, provided that the financial institution shall be subject to clause (1) of section seven and sections twenty and twenty-one.
+        </section>
+        <section prefix="e">
+    	     any transfer of funds which is initiated by a telephone conversation between a consumer and an officer or employee of a financial institution which is not pursuant to a prearranged plan and under which periodic or recurring transfers are not contemplated.
+        </section>
+        <section prefix="1">
+    	     an unauthorized electronic fund transfer;
+        </section>
+        <section prefix="2">
+    	     an incorrect electronic fund transfer from or to the consumer’s account;
+        </section>
+        <section prefix="3">
+    	     the omission from a periodic statement of an electronic fund transfer affecting the consumer’s account which should have been included;
+        </section>
+        <section prefix="4">
+    	     a computational error by the financial institution;
+        </section>
+        <section prefix="5">
+    	     the consumer’s receipt of an incorrect amount of money from an electronic branch;
+        </section>
+        <section prefix="6">
+    	     a consumer’s request for additional information or clarification concerning an electronic fund transfer or any documentation required by this chapter; or
+        </section>
+        <section prefix="7">
+    	     any other error described in regulations of the commissioner.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Timber</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     If a trustee accounts for receipts from the sale of timber and related products pursuant to this section, the trustee shall allocate the net receipts:
+        </section>
+        <section prefix="1">
+    	     to income if the amount of timber removed from the land does not exceed the rate of growth of the timber during the accounting periods in which a beneficiary has a mandatory income interest;
+        </section>
+        <section prefix="2">
+    	     to principal if the amount of timber removed from the land exceeds the rate of growth of the timber or the net receipts are from the sale of standing timber;
+        </section>
+        <section prefix="3">
+    	     to or between income and principal if the net receipts are from the lease of timberland or from a contract to cut timber from land owned by a trust, by determining the amount of timber removed from the land under the lease or contract and applying the rules in paragraphs (1) and (2); or
+        </section>
+        <section prefix="4">
+    	     to principal if the advance payments, bonuses, and other payments are not allocated pursuant to paragraph (1), (2), or (3).
+        </section>
+        <section prefix="b">
+    	     In determining net receipts to be allocated pursuant to subsection (a), a trustee shall deduct and transfer to principal a reasonable amount for depletion.
+        </section>
+        <section prefix="c">
+    	     This chapter applies whether or not a decedent or transferor was harvesting timber from the property before it become subject to the trust.
+        </section>
+        <section prefix="d">
+    	     If a trust owns an interest in timber land, the trustee may allocate net receipts from the sale of timber and related products as provided in this chapter or in the manner used by the trustee. If the trust acquires an interest in timber land, the trustee shall allocate net receipts from the sale of timber and related products as provided in this chapter.
+        </section>
+    </text>
+</law>

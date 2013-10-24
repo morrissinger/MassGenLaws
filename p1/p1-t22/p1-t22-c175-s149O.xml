@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>149O</section_number>
+    <catch_line>Reimbursement Of Covered Sums Or Performance Of Service Pursuant To Reimbursement Insurance Policy</catch_line>
+    <order_by>149O</order_by>
+    <text>
+        <section prefix="a">
+    	     Reimbursement insurance policies insuring service contracts issued, sold or offered for sale in the commonwealth shall require the insurer that issued the reimbursement insurance policy to reimburse or pay on behalf of the provider any covered sums the provider is legally obligated to pay or, in the event of the provider’s non-performance, shall provide the service which the provider is legally obligated to perform according to the provider’s contractual obligations under the service contracts issued or sold by the provider.
+        </section>
+        <section prefix="b">
+    	     In the event covered service is not provided by the service contract provider within 60 days of proof of loss by the service contract holder, the contract holder may apply directly to the reimbursement insurance company.
+        </section>
+    </text>
+</law>

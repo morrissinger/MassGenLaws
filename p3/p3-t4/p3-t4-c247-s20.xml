@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="247" order_by="247" level="3">Replevin</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Judgment For Return Of Goods Attached</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If the goods replevied had been attached, they shall, upon a judgment for a return, be held liable to the attachment until final judgment in the action in which they were attached, and for thirty days thereafter, so that they may be taken on execution. If such final judgment is rendered before the return of the goods, or if the goods when replevied were seized and held on execution, they shall be held subject to the same attachment or seizure for thirty days after the return, in order that the execution may be served thereon, or the service thereof completed, in like manner as it might have been if the goods had not been replevied.
+    </text>
+</law>

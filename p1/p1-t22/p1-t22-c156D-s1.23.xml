@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.23</section_number>
+    <catch_line>Effective Time And Date Of Document</catch_line>
+    <order_by>1.23</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b) and in subsection (c) of section 1.24, a document that is filed by the secretary of state pursuant to section 1.25 is effective:
+        </section>
+        <section prefix="1">
+    	     at the time and on the date when it was approved for filing by the secretary of state; or
+        </section>
+        <section prefix="2">
+    	     in the case of articles of organization, amendment or merger, at the time and on the date when the articles were received for filing by the secretary of state if the articles are not rejected by the secretary within such time after their filing as is specified in regulations promulgated by the secretary.
+        </section>
+        <section prefix="b">
+    	     A filed document may specify a delayed effective time and date, and if it does so the document will become effective at the time and date specified. If a delayed effective date but no time is specified, the document is effective at the close of business on that date. A delayed effective date for a document may not be later than the ninetieth day after the date when it is received for filing by the secretary of state.
+        </section>
+    </text>
+</law>

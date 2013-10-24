@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>7A</section_number>
+    <catch_line>Medicare Supplemental Group Coverage; Eligibility Due To Age Or Disability</catch_line>
+    <order_by>7A</order_by>
+    <text>
+        Any person who is eligible for Medicare coverage for both hospital and physician service due to age or disability, other than end-stage renal disease, shall be eligible for supplemental coverage to Medicare ninety days before and after the month of such person’s Medicare effective date or of the month of loss of group or individual health coverage resulting from such person’s retirement. Such supplemental coverage shall be effective no earlier than the effective date of Medicare coverage.
+    </text>
+</law>

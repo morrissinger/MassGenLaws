@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Foreign Depositions Obtained Contrary To Statute</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Depositions and affidavits taken without the commonwealth in any manner other than is provided in the three preceding sections, if taken before a notary public or other person authorized by the laws of any other state or country to take depositions, may be admitted or rejected in the discretion of the court; but such deposition or affidavit shall not be admitted unless the court finds that the adverse party had sufficient notice of the taking thereof and an opportunity to cross-examine the witness, or that from the circumstances of the case it was impossible to give him such notice.
+    </text>
+</law>

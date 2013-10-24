@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Waiver Of Levy; Remedies</catch_line>
+    <order_by>50</order_by>
+    <text>
+        If, before an execution which has been levied on land is returned and recorded, it appears that there is a defect or error in the proceedings which would defeat the levy, or that the land levied upon cannot be held thereby, the creditor may waive the levy, which shall thereupon be void, and resort to any other remedy for the satisfaction of his judgment.
+    </text>
+</law>

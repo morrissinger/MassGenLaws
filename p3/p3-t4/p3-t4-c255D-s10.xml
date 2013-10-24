@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Prohibited Agreements</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     Blank spaces for terms required by this chapter or for terms upon which the parties at the consummation of the sale have agreed to the extent of then available information except that the finance charge and the annual percentage rate must always be disclosed;
+        </section>
+        <section prefix="2">
+    	     Any confession of judgment or any power or warrant of attorney to appear for the buyer or for any surety or guarantor for him to confess judgment;
+        </section>
+        <section prefix="3">
+    	     Any schedule of payments under which any one installment, except the down payment, is not equal or substantially equal to all other installments, excluding the down payment, or under which the intervals between any consecutive installments except the down payment differ substantially, unless (a) the buyer is given an absolute right upon default in any such excess or irregular installments to have the schedule of unpaid installments, including that in default, revised to conform in both amounts and intervals to the average of all preceding installments and intervals, or (b) unless the time and amounts of installments relate to the uneven seasonal income of the buyer and a statement appears in the contract to that effect.
+        </section>
+        <section prefix="4">
+    	     Any provision for repossession of the goods or for the acceleration of the time when any part or all of the total of payments becomes payable other than for default of the buyer;
+        </section>
+        <section prefix="5">
+    	     Any provision by which a buyer grants authority to the holder to unlawfully enter the installment buyer’s premises or commit any breach of peace in the repossession of the collateral, if any;
+        </section>
+        <section prefix="6">
+    	     Any waiver of rights or remedies which the installment buyer may have against the seller or holder of the retail installment sale agreement, or other person acting in his behalf;
+        </section>
+        <section prefix="7">
+    	     Any provision whereby the installment buyer executes a power of attorney appointing the seller or holder of the retail installment sale agreement, or other person acting in his behalf, as the buyer’s agent in the collection of payments under the agreement or in the repossession of the collateral security;
+        </section>
+        <section prefix="8">
+    	     Any assignment, or order for payment, of any salary, wages, commission or other compensation for services or any part thereof earned or to be earned;
+        </section>
+        <section prefix="9">
+    	     Any provision limiting, excluding, modifying or in any manner altering the term of any express warranty made a part of the basis of the bargain between the parties.
+        </section>
+    </text>
+</law>

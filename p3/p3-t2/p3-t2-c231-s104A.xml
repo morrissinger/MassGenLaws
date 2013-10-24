@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>104A</section_number>
+    <catch_line>Multiple Judgments Specification For Removal To Superior Court</catch_line>
+    <order_by>104A</order_by>
+    <text>
+        In any action brought by or against two or more persons in which separate judgments are authorized by the District-Municipal Courts Rules of Civil Procedure, the party seeking removal may specify in his claim of trial by the superior court the parties as to whom such trial is claimed, in which case the cause shall be removed as to such parties only as are specified in such claim, and said district court shall retain jurisdiction as to the remainder. In such case the clerk shall transmit attested copies of the papers in the cause to the clerk of the superior court, in lieu of the originals.
+    </text>
+</law>

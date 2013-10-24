@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151E" order_by="151E" level="3">Prohibition Of Certain Discrimination By Businesses</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Unlawful Acts</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="i">
+    	     to enter into any agreement, contract, arrangement, combination, or understanding with any foreign government, foreign person, or international organization, which requires such person to refuse, fail, or cease to do business in the commonwealth with any other person who is domiciled or has a usual place of business in the commonwealth, based upon such other person’s race, color, creed, religion, sex, national origin or foreign trade relationships;
+        </section>
+        <section prefix="ii">
+    	     to execute in the commonwealth any contract with any foreign government, foreign person, or international organization which requires such person to refuse, fail or cease to do business with another person based upon such other person’s race, color, creed, religion, sex, national origin, or foreign trade relationships;
+        </section>
+        <section prefix="iii">
+    	     to refuse, fail or cease to do business in the commonwealth with any other person who is domiciled or has a usual place of business in the commonwealth when such refusal, failure, or cessation results directly or indirectly from an agreement, contract, arrangement, combination, or understanding between the person who refuses, fails or ceases to do business and any foreign government, foreign person, or international organization, and is based upon such other person’s race, color, creed, religion, sex, national origin or foreign trade relationships;
+        </section>
+        <section prefix="iv">
+    	     to discharge or to fail, refuse or cease to hire, promote or appoint in the commonwealth any other person who is domiciled in the commonwealth to any position of employment or employment responsibility when such refusal, failure or cessation results from an agreement, contract, arrangement, combination, or understanding with any foreign government, foreign person, or international organization and is based upon such other person’s race, color, creed, religion, sex, national origin, or foreign trade relationships;
+        </section>
+        <section prefix="v">
+    	     to wilfully and knowingly aid or abet any other person to engage in conduct which is prohibited by this chapter.
+        </section>
+        <section prefix="i">
+    	     to engage in conduct required by or expressly authorized by acts of the United States Congress, a United States treaty, a United States Regulation, or a United States Executive Order;
+        </section>
+        <section prefix="ii">
+    	     to enter into any agreement with a foreign government or foreign person which requires that a preference or priority be given to the citizens or products of a particular country;
+        </section>
+        <section prefix="iii">
+    	     to enter into any agreement with an international organization entirely composed of member governments or their contracting representatives which requires that a preference or priority be given to the citizens or products of one or more of such member governments;
+        </section>
+        <section prefix="iv">
+    	     to enter into any agreement with respect to the insuring, handling or shipping of goods, or choice of carrier while in international transit.
+        </section>
+    </text>
+</law>

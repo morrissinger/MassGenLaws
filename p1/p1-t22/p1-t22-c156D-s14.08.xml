@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.08</section_number>
+    <catch_line>Creation Of Reserves As Adequate Provision For Unasserted Product Liability Claims And Known Contingent Claims Against Dissolved Corporation</catch_line>
+    <order_by>14.08</order_by>
+    <text>
+        <section prefix="a">
+    	     At any time after the end of the 3-year period specified in clause (3) of subsection (b) of section 14.07, it shall constitute adequate provision by a dissolved corporation under subsection (h) of section 6.40 and clause (3) of subsection (a) of section 14.05:
+        </section>
+        <section prefix="1">
+    	     for all unasserted claims for personal injury, wrongful death, loss of consortium or property damage based upon products or services provided by the corporation which may thereafter be asserted against the corporation, if the corporation
+        </section>
+        <section prefix="i">
+    	     sets aside in a reserve a reasonable amount of its assets, including by purchasing paid-up insurance or obtaining an assumption of liability by a responsible third party, to cover such claims, in compliance with subsection (b), and
+        </section>
+        <section prefix="ii">
+    	     publishes a notice as described in clause (1) of subsection (b) of section 14.07 stating that the corporation has complied with this section 14. 08; and
+        </section>
+        <section prefix="2">
+    	     for all remaining known but still contingent claims against the corporation, if it
+        </section>
+        <section prefix="i">
+    	     creates a separate reserve in accordance with subclause (i) of clause (1) of subsection (a) to cover such claims or increases by a reasonable amount the assets set aside in a reserve for unasserted liability claims specified in clause (1) of subsection (a) and makes such reserve also applicable to known but contingent claims, and
+        </section>
+        <section prefix="ii">
+    	     sends written notice to each holder of a known but still contingent claim against the corporation stating that, pursuant to this section 14.08, if such claim thereafter becomes due and payable and is not paid by the corporation, the assets out of which such claim may be satisfied will be limited as provided in subsection (c).
+        </section>
+        <section prefix="b">
+    	     To meet the requirement of subsection (a) that the amount of assets set aside in a reserve be reasonable, the directors or those acting in their place must comply with the applicable standards of conduct under section 8.30 in determining the amount needed to provide for payment of the category or categories of claims to which such reserve is directed, after taking into account any other claims against the corporation for which the assets in such reserve might be reached because of the lack of other adequate provision.
+        </section>
+        <section prefix="c">
+    	     With respect to any claims described in clause (1) and (2) of subsection (a) not paid by the corporation, upon compliance by the dissolved corporation with subsections (a) and (b), except as provided in section 14.09(a), the assets out of which the claims may be satisfied will be limited to the assets retained by the corporation, including the applicable reserve created pursuant to subsection (a), plus, to the extent provided in section 6.41, any assets distributed to shareholders within 3 years after the effective date of the corporation’s dissolution.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Claims For Relief; Time Limitations</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (c), unless previously barred by adjudication, consent, or limitation, a claim for relief against a custodial trustee for accounting or breach of duty shall be barred as to a beneficiary, a person to whom custodial trust property is to be paid or delivered, or the legal representative of an incapacitated or deceased beneficiary or payee:
+        </section>
+        <section prefix="1">
+    	     who has received a final account or statement fully disclosing the matter unless an action or proceeding to assert the claim is commenced within two years after receipt of the final account or statement; or
+        </section>
+        <section prefix="2">
+    	     who has not received a final account or statement fully disclosing the matter unless an action or proceeding to assert the claim is commenced within three years after the termination of the custodial trust.
+        </section>
+        <section prefix="b">
+    	     Except as provided in subsection (c), a claim for relief to recover from a custodial trustee for fraud, misrepresentation, or concealment related to the final settlement of the custodial trust or concealment of the existence of the custodial trust, shall be barred unless an action or proceeding to assert the claim is commenced within five years after the termination of the custodial trust.
+        </section>
+        <section prefix="c">
+    	     A claim for relief shall not be barred by this section if the claimant:
+        </section>
+        <section prefix="1">
+    	     is a minor, until the earlier of two years after the claimant becomes an adult or dies;
+        </section>
+        <section prefix="2">
+    	     is an incapacitated adult, until the earliest of two years after (i) the appointment of a conservator, (ii) the removal of the incapacity, or (iii) the death of the claimant; or
+        </section>
+        <section prefix="3">
+    	     was an adult, now deceased, who was not incapacitated, until two years after the claimant’s death.
+        </section>
+    </text>
+</law>

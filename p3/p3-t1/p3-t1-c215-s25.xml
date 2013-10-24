@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Removal Of Fiduciary; Effect Of Appeal</catch_line>
+    <order_by>25</order_by>
+    <text>
+        A decree of a probate court removing an executor, administrator, guardian, conservator, trustee or receiver shall have effect, notwithstanding an appeal therefrom, until otherwise ordered by a justice of the supreme judicial court. The probate court may in such case appoint a successor to the person removed, and the latter shall forthwith deliver all the property of the estate held by him to his successor, who shall proceed in the performance of his duties in like manner as if no appeal had been taken; but if the decree of removal is reversed by a final decree of the supreme judicial court, the powers of such successor shall thereupon cease and he shall forthwith deliver to his predecessor in the trust, or to such person as the court may order, all property of the estate in his hands.
+    </text>
+</law>

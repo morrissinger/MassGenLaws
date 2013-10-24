@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Answer Under Oath; Written Declarations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Such answer shall be signed and sworn to by the trustee, or, in lieu of being sworn to, shall contain his written declaration, subject to the penalty prescribed by section one A of chapter two hundred and sixty-eight, that the answer is made under the penalties of perjury.
+    </text>
+</law>

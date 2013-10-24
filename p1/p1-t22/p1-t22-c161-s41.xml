@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Real And Personal Estate; Stock Or Bonds Of Other Street Railways</catch_line>
+    <order_by>41</order_by>
+    <text>
+        A company may purchase and hold real and personal estate necessary or convenient for the operation of its railway; but it shall not, except as provided in section sixty-four, directly or indirectly, subscribe for, take or hold stock or bonds of any such company organized under general laws unless specially so authorized by the general court.
+    </text>
+</law>

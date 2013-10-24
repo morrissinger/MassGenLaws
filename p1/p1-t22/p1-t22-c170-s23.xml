@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Reserve Balances</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Such corporation shall maintain the reserve balances required by the Federal Reserve Act, 12 U.S.C. 461(b), and in the event such reserves are less than required by said act, such corporation shall not make any new loans or investments until the required reserves shall be restored. The commissioner may notify such corporation to make good such reserve and if it fails to do so within thirty days thereafter, he may certify to the Co-operative Central Bank, pursuant to section four of chapter seventy-three of the acts of nineteen hundred and thirty-four, that such corporation is in an unsound or unsafe condition to transact the business for which it is organized and thereafter said central bank shall have, and may exercise all of, the powers and privileges granted to it by said chapter seventy-three.
+    </text>
+</law>

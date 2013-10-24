@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Voting By Stockholders; Proxy</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Stockholders may vote in person or by proxy. No proxy dated more than six months before the meeting named therein shall be valid and no proxy shall be valid after the final adjournment of such meeting. A proxy with respect to stock held in the name of two or more persons shall be valid if executed by any one of them unless at or prior to exercise of the proxy the corporation receives a specific written notice to the contrary from any one of them. A proxy purporting to be executed by or on behalf of a stockholder shall be deemed valid unless challenged at or prior to its exercise and the burden of proving invalidity shall rest on the challenger. If not otherwise determined by the articles of organization or by-laws of the corporation, each stockholder shall be entitled to one vote for each share owned by him.
+    </text>
+</law>

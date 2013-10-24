@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Individual Making Service Outside Commonwealth</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Service outside this commonwealth may be made by an individual permitted to make service of process under the law of this commonwealth or under the law of the place in which the service is made or who is designated by a court of this commonwealth.
+    </text>
+</law>

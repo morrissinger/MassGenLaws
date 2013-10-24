@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>6A</section_number>
+    <catch_line>Other Service Not Included In “Employment”</catch_line>
+    <order_by>6A</order_by>
+    <text>
+        <section prefix="1">
+    	     an elected official; or
+        </section>
+        <section prefix="2">
+    	     a member of, a legislative body; or
+        </section>
+        <section prefix="3">
+    	     a member of the judiciary; or
+        </section>
+        <section prefix="4">
+    	     a member of the National Guard or Air National Guard; or
+        </section>
+        <section prefix="5">
+    	     an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency; or
+        </section>
+        <section prefix="6">
+    	     an employee serving in a position which, under or pursuant to the laws of the commonwealth or tribal law, is appointed to either a nontenured policymaker or advisor, or in a policymaking or advisory position the performance of the duties of which ordinarily does not require more than eight hours per week.
+        </section>
+    </text>
+</law>

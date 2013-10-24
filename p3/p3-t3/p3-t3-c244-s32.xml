@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="244" order_by="244" level="3">Foreclosure And Redemption Of Mortgages</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Intervention</catch_line>
+    <order_by>32</order_by>
+    <text>
+        If a person, other than the parties to a suit for redemption, is interested therein, the court may, upon terms, allow him to intervene.
+    </text>
+</law>

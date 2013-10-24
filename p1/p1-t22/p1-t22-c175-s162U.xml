@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>162U</section_number>
+    <catch_line>Non Resident License Applicants; Requirements</catch_line>
+    <order_by>162U</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall waive any requirements for a nonresident license applicant with a valid license from his home state, except the requirements imposed by section 162N if the applicant’s home state awards nonresident licenses to residents of the commonwealth on the same basis.
+        </section>
+        <section prefix="b">
+    	     A nonresident producer’s satisfaction of his home state’s continuing education requirements for licensed insurance producers shall constitute satisfaction of the commonwealth’s continuing education requirements if the nonresident producer’s home state recognizes the satisfaction of its continuing education requirements imposed upon producers from the commonwealth on the same basis.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Accounting By And Determination Of Liability Of Custodian</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     A minor who has attained the age of fourteen years, the minor’s guardian, an adult member of the minor’s family, a transferor, or a transferor’s legal representative may petition the court (i) for an accounting by the custodian or the custodian’s legal representative; or (ii) for a determination of responsibility, as between the custodial property and the custodian personally, for claims against the custodial property unless the responsibility has been adjudicated in an action under section seventeen to which the minor or the minor’s legal representative was a party.
+        </section>
+        <section prefix="b">
+    	     A successor custodian may petition the court for an accounting by the predecessor custodian.
+        </section>
+        <section prefix="c">
+    	     The court, in a proceeding under this chapter or in any other proceeding, may require or permit the custodian or the custodian’s legal representative to account.
+        </section>
+        <section prefix="d">
+    	     If a custodian is removed under paragraph (f) of section eighteen, the court shall require an accounting and order transfer of possession or control of the custodial property and records to the successor custodian and the execution of all instruments required for transfer of the custodial property.
+        </section>
+    </text>
+</law>

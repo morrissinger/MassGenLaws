@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>23F</section_number>
+    <catch_line>Admissibility Of Past Physical, Sexual Or Psychological Abuse Of Defendant</catch_line>
+    <order_by>23F</order_by>
+    <text>
+        <section prefix="a">
+    	     evidence that the defendant is or has been the victim of acts of physical, sexual or psychological harm or abuse;
+        </section>
+        <section prefix="b">
+    	     evidence by expert testimony regarding the common pattern in abusive relationships; the nature and effects of physical, sexual or psychological abuse and typical responses thereto, including how those effects relate to the perception of the imminent nature of the threat of death or serious bodily harm; the relevant facts and circumstances which form the basis for such opinion; and evidence whether the defendant displayed characteristics common to victims of abuse.
+        </section>
+    </text>
+</law>

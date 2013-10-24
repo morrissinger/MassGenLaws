@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Corporation Consolidated With One In Another State; Unauthorized Capital Stock Increase</catch_line>
+    <order_by>42</order_by>
+    <text>
+        If a railroad corporation owning a railroad in this commonwealth and consolidated with a corporation owning a railroad in another state increases its capital stock, or the capital stock of such consolidated corporation, except as authorized by this chapter or chapter one hundred and fifty-nine, without authority of the general court, or without such authority extends its line of railroad, or consolidates with any other corporation, or makes a stock dividend, the charter and franchise of such corporation shall be subject to forfeiture.
+    </text>
+</law>

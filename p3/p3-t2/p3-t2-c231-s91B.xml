@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>91B</section_number>
+    <catch_line>Statement Relating To Bank Loan For Purchase Of Goods Or Services As Defense To Claim For Libel</catch_line>
+    <order_by>91B</order_by>
+    <text>
+        It shall be a defense to any claim for libel or slander brought by a vendor against a purchaser of goods or services that the statement on which the claim is based relates to a loan from a bank used to purchase such goods or services and was made by the purchaser in good faith to an agent or employee of such bank.
+    </text>
+</law>

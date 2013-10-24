@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209A" order_by="209A" level="3">Abuse Prevention</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     attempting to cause or causing physical harm;
+        </section>
+        <section prefix="b">
+    	     placing another in fear of imminent serious physical harm;
+        </section>
+        <section prefix="c">
+    	     causing another to engage involuntarily in sexual relations by force, threat or duress.
+        </section>
+        <section prefix="a">
+    	     are or were married to one another;
+        </section>
+        <section prefix="b">
+    	     are or were residing together in the same household;
+        </section>
+        <section prefix="c">
+    	     are or were related by blood or marriage;
+        </section>
+        <section prefix="d">
+    	     having a child in common regardless of whether they have ever married or lived together; or
+        </section>
+        <section prefix="e">
+    	     are or have been in a substantive dating or engagement relationship, which shall be adjudged by district, probate or Boston municipal courts consideration of the following factors:
+        </section>
+        <section prefix="1">
+    	     the length of time of the relationship; (2) the type of relationship; (3) the frequency of interaction between the parties; and (4) if the relationship has been terminated by either person, the length of time elapsed since the termination of the relationship.
+        </section>
+    </text>
+</law>

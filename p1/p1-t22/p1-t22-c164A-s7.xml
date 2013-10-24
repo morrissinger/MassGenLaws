@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Assessment And Taxation Of Foreign Electric Utilities</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign electric utility shall be subject to assessment and taxation in the same manner and to the same extent as is provided by law with respect to a corporation defined as an “electric company” in section one of chapter one hundred sixty-four; except that a foreign electric utility which is a governmental entity shall, with respect to payments for franchise taxes to the commonwealth plus any other taxes not covered by subsections (b) and (d) of section eight, make payments in lieu of such taxes in the manner provided by subsection (c) of said section eight.
+        </section>
+        <section prefix="b">
+    	     Any foreign electric utility other than a governmental entity which owns or operates any electric power facilities in this commonwealth shall, if a corporation, be considered a “utility corporation” as defined in section fifty-two A of chapter sixty-three and subject to taxation under that section notwithstanding the limitations of clause (ix) thereof.
+        </section>
+    </text>
+</law>

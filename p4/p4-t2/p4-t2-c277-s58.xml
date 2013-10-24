@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Larceny</catch_line>
+    <order_by>58</order_by>
+    <text>
+        Larceny, whether at common law or as defined by section thirty of chapter two hundred and sixty-six, may be prosecuted and punished in any county where the defendant had possession of the property alleged to have been stolen.
+    </text>
+</law>

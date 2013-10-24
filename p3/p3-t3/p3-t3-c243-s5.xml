@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="243" order_by="243" level="3">Actions For Private Nuisances</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Injunction To Restrain Nuisance</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The superior court may in an action for a nuisance enjoin such nuisance.
+    </text>
+</law>

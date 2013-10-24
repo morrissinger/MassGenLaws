@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>False Answers; Penalty</catch_line>
+    <order_by>19</order_by>
+    <text>
+        If a person summoned as trustee, his executor or administrator, or if an officer, agent or other person who appears and answers for a corporation so summoned, knowingly and wilfully swears falsely in his answer or upon his examination, he shall be liable to the plaintiff in the trustee process, or to his executor or administrator, for the full amount due on the judgment recovered therein, with interest, to be paid out of his own goods and estate.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Meetings Of Board Of Directors</catch_line>
+    <order_by>27</order_by>
+    <text>
+        Meetings of the board of directors may be held within or without the commonwealth. Any meeting of the board shall be a legal meeting without notice if each director, by a writing filed with the records of the meeting, waives such notice.
+    </text>
+</law>

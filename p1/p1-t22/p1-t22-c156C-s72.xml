@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Revocation Of Foreign Limited Liability Company’S Authority To Transact Business In Commonwealth; Grounds; Notice; Effective Date</catch_line>
+    <order_by>72</order_by>
+    <text>
+        <section prefix="a">
+    	     The state secretary may commence a proceeding to revoke the authority of a foreign limited liability company to transact business in the commonwealth if:
+        </section>
+        <section prefix="1">
+    	     the limited liability company has failed for 2 consecutive years to comply with the laws requiring the filing of annual reports; or
+        </section>
+        <section prefix="2">
+    	     he is satisfied that the revocation of the limited liability company’s authority to transact business in the commonwealth would be in the public interest.
+        </section>
+        <section prefix="b">
+    	     If the state secretary determines that grounds exist under subsection (a), he shall serve the limited liability company with written notice of his determination. The notice shall be sent to the address of the foreign limited liability company. If, within 90 days after the notice, the limited liability company fails to correct each ground for revocation or fails to demonstrate to the reasonable satisfaction of the state secretary that each ground determined by the secretary of state does not exist, the state secretary shall administratively revoke the authority of the foreign limited liability company to transact business in the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The authority of the foreign limited liability company to transact business in the commonwealth shall cease on the date on which the state secretary makes such revocation effective.
+        </section>
+    </text>
+</law>

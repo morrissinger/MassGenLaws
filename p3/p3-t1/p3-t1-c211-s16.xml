@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Hearing In Boston Of Questions Arising In Other Counties</catch_line>
+    <order_by>16</order_by>
+    <text>
+        If the justice before whom an action or proceeding is tried in the supreme judicial court or the superior court in counties other than Barnstable, Essex, Middlesex, Norfolk, Plymouth or Suffolk considers that a question of law which arises for the determination of the full court is immaterial, frivolous, or intended merely for delay, or that the interests of the parties or of the public require a more speedy determination thereof than can be reached in the sitting established for the county in which the action or proceeding is tried, he shall so certify and order the question of law to be entered and heard at the sitting of the court for the commonwealth; and all the other proceedings shall be the same as if the question had arisen in one of the above named counties.
+    </text>
+</law>

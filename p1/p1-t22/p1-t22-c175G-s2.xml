@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175G" order_by="175G" level="3">The Pollution Liability Reinsurance Corporation</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Pollution Liability Reinsurance Corporation; Creation; Board Of Directors; Board Duties; Reports And Audits</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="i">
+    	     any entity obtaining reinsurance of pollution liability policies from the Corporation;
+        </section>
+        <section prefix="ii">
+    	     any insurance company licensed or approved to provide, and actually writing, pollution liability coverage within the commonwealth; and
+        </section>
+        <section prefix="iii">
+    	     any company or entity whose engagement by the Corporation would, in the judgment of the board, pose the appearance or reality of a conflict of interest.
+        </section>
+    </text>
+</law>

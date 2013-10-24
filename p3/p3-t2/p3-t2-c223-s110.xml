@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>110</section_number>
+    <catch_line>Dissolution Of Prior Attachment; Defences</catch_line>
+    <order_by>110</order_by>
+    <text>
+        No attachment shall be dissolved as aforesaid by reason of a defence to the action which is founded on the laws for the limitation of actions or requiring certain contracts to be made in writing, or by reason of any other like defence, if the court finds that the demand is otherwise well founded and is justly and equitably due.
+    </text>
+</law>

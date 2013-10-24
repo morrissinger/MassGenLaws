@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>39A</section_number>
+    <catch_line>Valuation Of Bonds Or Other Evidence Of Debt</catch_line>
+    <order_by>39A</order_by>
+    <text>
+        A society may, in the annual statement required by section 38, value its bonds or other evidences of debt having a fixed term and rate and not in default as to principal or interest and if amply secured, in accordance with the following rule:— if purchased at par, at the par value; if purchased above or below par, on the basis of the purchase price adjusted so as to bring the value to par at maturity and so as to yield meantime the effective rate of interest at which the purchase was made. The purchase price shall in no case be taken at a higher figure than the actual market value at the time of purchase, and a society may return such bonds or other evidences of debt at either their market or their book value, but in no event at any aggregate value exceeding the aggregate of the values calculated according to the foregoing rule.
+    </text>
+</law>

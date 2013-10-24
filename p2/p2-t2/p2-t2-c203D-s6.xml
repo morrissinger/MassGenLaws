@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Determination And Distribution Of Net Income</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     A fiduciary of an estate or of a terminating income interest shall determine the amount of net income and net principal receipts received from property specifically given to a beneficiary under this chapter which apply to trustees and the rules in paragraph (5). The fiduciary shall distribute the net income and net principal receipts to the beneficiary who is to receive the specific property.
+        </section>
+        <section prefix="2">
+    	     A fiduciary shall determine the remaining net income of a decedent’s estate or a terminating income interest under which apply to trustees and by:
+        </section>
+        <section prefix="i">
+    	     including in net income all income from property used to discharge liabilities;
+        </section>
+        <section prefix="ii">
+    	     paying from income or principal, in the fiduciary’s discretion, fees of attorneys, accountants and fiduciaries, court costs and other expenses of administration, and interest on death taxes, but the fiduciary may pay those expenses from income of property passing to a trust for which the fiduciary claims an estate tax, marital or charitable deduction only if the payment of those expenses from income will not cause the reduction or loss of the deduction; and
+        </section>
+        <section prefix="iii">
+    	     paying from principal all other disbursements made or incurred in connection with the settlement of a decedent’s estate or the winding up of a terminating income interest, including debts, funeral expenses, disposition of remains, family allowances, and death taxes and related penalties that are apportioned to the estate or terminating income interest by the will, the terms of the trust, or applicable law.
+        </section>
+        <section prefix="3">
+    	     A fiduciary shall distribute to a beneficiary who receives a pecuniary amount outright, the interest on the amount, if any, provided by the will, the terms of the trust or applicable law from net income determined under paragraph (2) or from principal if the net income is insufficient. If a beneficiary is to receive a pecuniary amount outright from a trust after an income interest ends and no interest on the amount is provided for by the terms of the trust or applicable law, the fiduciary shall distribute the interest to which the beneficiary would be entitled under applicable law as if the pecuniary amount were required to be paid under a will.
+        </section>
+        <section prefix="4">
+    	     A fiduciary shall distribute the net income remaining after distributions required by paragraph (3) in the manner described in section 2 to all other beneficiaries, including a beneficiary who receives a pecuniary amount in trust, even if the beneficiary holds an unqualified power to withdraw assets from the trust or other presently exercisable general power of appointment over the trust.
+        </section>
+        <section prefix="5">
+    	     A fiduciary may not reduce principal or income receipts from property described in paragraph (1) because of a payment described in section 5 if the will, the terms of the trust or applicable law requires the fiduciary to make the payment from assets other than the property or if the fiduciary recovers or expects to recover the payment from a third party. The net income and principal receipts from the property are determined by including all of the amounts the fiduciary receives or pays with respect to the property, whether those amounts accrued or became due before, on or after the date of a decedent’s death or an income interest’s terminating event and by making a reasonable provision for amounts that the fiduciary believes the estate or terminating income interest may become obligated to pay after the property is distributed.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>78A</section_number>
+    <catch_line>Written Warnings And Civil Citations; Appeal; Penalties; Criminal Complaint</catch_line>
+    <order_by>78A</order_by>
+    <text>
+        <section prefix="a">
+    	     As an alternative to initiating criminal proceedings to enforce any violation of sections 56 to 105, inclusive, or a violation of this chapter for improperly employing a minor for which a criminal penalty is provided, the attorney general may, at his discretion, issue a written warning or a civil citation to the person responsible for the violation. The citation may require immediate compliance with sections 56 to 105, inclusive, and may impose, for each instance in which a minor is required or permitted to work in violation of sections 56 to 105, inclusive, a separate civil penalty of not more than $250 for the first violation; not more than $500 for the second violation; and not more than $2,500 for the third and each subsequent violation. When determining the amount of the civil penalty per violation, the total number of prior violations shall include all violations committed per establishment location during the previous 3 years beginning on the effective date of this section. A person cited shall make payment of the penalty to the commonwealth within 21 days of the date of the citation. Nothing in this section shall limit the remedies contained in section 27C.
+        </section>
+        <section prefix="b">
+    	     A person aggrieved by a citation may appeal the citation by filing a notice of appeal with the attorney general and the division of administrative law appeals within 15 calendar days of the date of issuance of the citation. The appellant shall be granted a hearing before the division of administrative law appeals in accordance with chapter 30A. The hearing officer may affirm or, if the aggrieved person demonstrates by a preponderance of evidence that the citation was erroneously issued, vacate or modify the citation. A person aggrieved by a decision of the hearing officer may file an appeal in the superior court pursuant to said chapter 30A.
+        </section>
+        <section prefix="c">
+    	     If a civil penalty imposed by a citation remains unpaid beyond the time period specified for payment, the penalty amount and interest thereon at the rate of 18 per cent per annum shall be a lien upon the real estate and personal property of the person who has failed to pay the penalty. The lien shall take effect by operation of law on the day immediately following the due date for payment of the fine, and, unless dissolved by payment, shall as of that date be considered a tax due and owing to the commonwealth, which may be collected through procedures provided for by chapter 62C. An officer of a corporation that has failed to pay the penalty shall not incorporate or serve as an officer in any corporation which did not have a legal existence as of the date the fine became due and owing to the commonwealth.
+        </section>
+        <section prefix="d">
+    	     If a person fails to comply with a citation or to pay a civil penalty imposed thereby within 21 days of the date of the issuance of the citation or within 30 days following a decision of the hearing officer if the citation has been appealed, excluding any time during which judicial review of the hearing officer’s decision remains pending, the attorney general may apply for a criminal complaint or seek indictment against the violator for the violation for which the citation was issued, or, in the alternative, may enter a civil complaint in the district or superior court to enforce payment of the citation. The attorney general shall not be required to pay a filing fee. In applying for the criminal complaint, the attorney general shall be entitled to seek all remedies and penalties provided for the violation under this chapter.
+        </section>
+    </text>
+</law>

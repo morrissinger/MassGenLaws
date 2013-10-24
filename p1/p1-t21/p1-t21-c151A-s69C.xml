@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>69C</section_number>
+    <catch_line>Reduction Of Back Pay Award Due To Receipt Of Unemployment Benefits;  Notice To Commissioner; Reimbursement Of Unemployment Compensation Fund</catch_line>
+    <order_by>69C</order_by>
+    <text>
+        <section prefix="a">
+    	     If a back pay award to an individual is reduced because of the receipt of unemployment benefits by the individual, the employer against whom the back pay award was made shall notify the commissioner of the back pay award in such manner as prescribed by the commissioner. The employer must notify the commissioner in writing not later than the twelfth day from which the employer learns about the reduction in the back pay award.
+        </section>
+        <section prefix="b">
+    	     An employer which has been assessed a back pay award which has been reduced because of the receipt of unemployment benefits by an individual shall reimburse the unemployment compensation fund for the amount of benefits paid from such fund equal to the amount of the reduction of the back pay award. The employer shall not be liable under this section to reimburse the fund more than the amount by which the commissioner determines the individual was overpaid unemployment benefits because of receipt of a back pay award.
+        </section>
+        <section prefix="c">
+    	     Any reimbursement of the fund by the employer pursuant to subsection (b) shall be credited against the overpayment resulting from the receipt of a back pay. An individual who has received a back pay award which has been reduced by the receipt of unemployment benefits shall not be liable with respect to an overpayment caused by receipt of said award that creates liability for the employer under subsection (b).
+        </section>
+        <section prefix="d">
+    	     Any reimbursement of the fund by the employer pursuant to subsection (b) shall be credited to the employer’s account or the solvency account in accordance with section fourteen as if the reimbursement had been made by the individual who was overpaid unemployment benefits. If the employer has elected to make payments in lieu of contributions such credit shall be in accordance with the provisions of section fourteen A as if the reimbursement had been made by the individual who was overpaid unemployment benefits.
+        </section>
+    </text>
+</law>

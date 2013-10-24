@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Wilful Misconduct Of Employer; Defense; Reimbursement Of Insurer;  Employment Of Minor; Mentally Retarded Persons; Injuries At Sheltered Workshops</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="1">
+    	     the employment takes place in a sheltered workshop which holds either a license from the department of developmental services or accreditation from the commission on accreditation of rehabilitation facilities; and
+        </section>
+        <section prefix="2">
+    	     a professional vocational specialist evaluates the employee at the employment site, for the specific job performed and such evaluation determines in writing that the employee is appropriate for and capable of such employment; and
+        </section>
+        <section prefix="3">
+    	     the employee has agreed in writing to the written rehabilitation plan or to an accurate verbal description of such written plan.
+        </section>
+    </text>
+</law>

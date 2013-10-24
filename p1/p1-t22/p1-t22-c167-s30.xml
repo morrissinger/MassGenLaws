@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Fees And Expenses</catch_line>
+    <order_by>30</order_by>
+    <text>
+        The compensation of the special agents, counsel, employees and assistants, and all expenses of supervision and liquidation, shall be fixed by the commissioner, subject to the approval of the supreme judicial court, on notice to such bank, and, upon the certificate of the commissioner, shall be paid out of the funds of the bank in his hands.
+    </text>
+</law>

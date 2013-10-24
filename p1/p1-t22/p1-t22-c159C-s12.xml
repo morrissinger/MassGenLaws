@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159C" order_by="159C" level="3">Telemarketing Solicitation</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Jurisdiction; Nonresidents</catch_line>
+    <order_by>12</order_by>
+    <text>
+        A court of the commonwealth may exercise personal jurisdiction over a nonresident or his executor or administrator as to an action or proceeding authorized by this chapter.
+    </text>
+</law>

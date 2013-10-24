@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161A" order_by="161A" level="3">Massachusetts Bay Transportation Authority</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Allocation Of Annual Revenues In Excess Of Expenses</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     to fully fund all debt service reserves required under the trust agreements of any bonds of the authority then outstanding, and to fund in advance the debt service reserve requirements of any bond issuances planned for the upcoming fiscal year, in each case to the extent required by an applicable bond resolution or trust agreement securing bonds of the authority;
+        </section>
+        <section prefix="b">
+    	     to fund the Stabilization Fund established pursuant to the first paragraph of section 19;
+        </section>
+        <section prefix="c">
+    	     50 per cent of any revenues in excess of expenses remaining after all debt service reserve requirement and the Stabilization Fund are fully funded shall be deposited in the Fare Stability Fund established pursuant to the second paragraph of section 19;
+        </section>
+        <section prefix="d">
+    	     50 per cent of any revenues in excess of expenses remaining after all debt service reserve requirement and the Stabilization Fund are fully funded shall pay for capital improvements in lieu of bond proceeds or be applied to the retirement of outstanding bonds.
+        </section>
+    </text>
+</law>

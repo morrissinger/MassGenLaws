@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151C" order_by="151C" level="3">Fair Educational Practices</unit>
+    </structure>
+    <section_number>2A</section_number>
+    <catch_line>Vocational Training Institutions; Unfair Practices</catch_line>
+    <order_by>2A</order_by>
+    <text>
+        <section prefix="a">
+    	     To exclude or limit or otherwise discriminate against any person or persons seeking admission as students to such institution, course, or course of study because of race, religion, creed, color, age, sex or national origin.
+        </section>
+        <section prefix="b">
+    	     To discriminate against any student in providing the benefits, privileges, and placement services associated with such institution, course, or course of study because of race, religion, creed, color, age, sex or national origin.
+        </section>
+        <section prefix="c">
+    	     To penalize any of its employees or students or any applicant for admission because he or she has testified, participated or assisted in any proceeding under this section.
+        </section>
+        <section prefix="d">
+    	     To cause to be made any written or oral inquiry concerning the race, religion, creed, color, age, sex or national origin of a person seeking admission, except that a religious or denominational educational institution which certified to the commission that it is a religious or denominational educational institution may inquire as to the religious or denominational affiliations of applicants for admission.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Articles Of Organization; Contents</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization shall state:
+        </section>
+        <section prefix="1">
+    	     that the incorporators (stating their names, including their given names, and post office addresses) associate themselves with the intention of forming a corporation;
+        </section>
+        <section prefix="2">
+    	     the name of the corporation;
+        </section>
+        <section prefix="3">
+    	     the purposes for which the corporation is formed;
+        </section>
+        <section prefix="4">
+    	     the total number of shares and the par value, if any, of each class of stock which the corporation is authorized to issue;
+        </section>
+        <section prefix="5">
+    	     if more than one class of stock is authorized, a distinguishing designation for each class and, prior to the issuance of any shares of a class, if shares of any other class are outstanding, a description of the preferences, voting powers, qualifications, and special or relative rights or privileges of that class and of each other class of which shares are outstanding, and of each series then established within any class.
+        </section>
+        <section prefix="b">
+    	     The articles of organization, in addition, may state:
+        </section>
+        <section prefix="1">
+    	     any restrictions imposed upon the transfer of shares of stock of any class;
+        </section>
+        <section prefix="2">
+    	     any other lawful provisions for the conduct and regulation of the business and affairs of the corporation, for its voluntary dissolution, or for limiting, defining or regulating the powers of the corporation, or of its directors or stockholders, or of any class of stockholders.
+        </section>
+        <section prefix="c">
+    	     The form on which articles of organization are filed shall also contain the following information which shall not for any purpose be treated as a permanent part of said articles:
+        </section>
+        <section prefix="1">
+    	     the street address of the initial principal office of the corporation in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the name, residence and post-office address of each of the initial directors and the president, treasurer and clerk of the corporation;
+        </section>
+        <section prefix="3">
+    	     the fiscal year of the corporation initially adopted;
+        </section>
+        <section prefix="5">
+    	     the name and business address of the resident agent, if any, of the corporation.
+        </section>
+    </text>
+</law>

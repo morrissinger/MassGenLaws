@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>3.01</section_number>
+    <catch_line>Purposes</catch_line>
+    <order_by>3.01</order_by>
+    <text>
+        PURPOSES 
+Every corporation incorporated under this chapter has the purpose of engaging in any lawful business unless a more limited purpose is set forth in its articles of organization.
+    </text>
+</law>

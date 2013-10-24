@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="242" order_by="242" level="3">Waste And Trespass</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Actions In Tort In Nature Of Waste; When Maintainable Against Representatives</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If such action in tort was commenced in the lifetime of the tenant, it may be prosecuted against his executor or administrator or it may be commenced against such executor or administrator for waste committed or suffered in the tenant’s lifetime.
+    </text>
+</law>

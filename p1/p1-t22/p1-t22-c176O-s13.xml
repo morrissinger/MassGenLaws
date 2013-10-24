@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Formal Internal Grievance Process; Expedited Resolution Policy</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     A carrier or utilization review organization shall maintain a formal internal grievance process that provides for adequate consideration and timely resolution of grievances, which shall include but not be limited to: (1) a system for maintaining records of each grievance filed by an insured or on his behalf, and responses thereto, for a period of seven years, which records shall be subject to inspection by the commissioner; (2) the provision of a clear, concise and complete description of the carrier’s formal internal grievance process and the procedures for obtaining external review pursuant to section 14 with each notice of an adverse determination; (3) the carrier’s toll-free telephone number for assisting insureds in resolving such grievances and the consumer assistance toll-free telephone number maintained by the office of patient protection; (4) a written acknowledgement of the receipt of a grievance within 15 days and a written resolution of each grievance within 30 days from receipt thereof; and (5) a procedure to accept grievances by telephone, in person, by mail, or by electronic means, provided that an oral grievance made by an insured shall be reduced to writing by the carrier and a copy thereof forwarded to the insured by the carrier within 48 hours of receipt. The time limits established by this paragraph may be waived or extended by mutual agreement of the insured and the carrier.
+        </section>
+        <section prefix="b">
+    	     The formal internal grievance process maintained by a carrier or utilization review organization shall provide for an expedited resolution of a grievance concerning a carrier’s coverage or provision of immediate and urgently needed services. Said expedited resolution policy shall include, but not be limited to:
+        </section>
+        <section prefix="i">
+    	     a resolution before an insured’s discharge from a hospital if the grievance is submitted by an insured who is an inpatient in a hospital;
+        </section>
+        <section prefix="ii">
+    	     provisions for the automatic reversal of decisions denying coverage for services or durable medical equipment, pending the outcome of the appeals process, within 48 hours, or earlier for durable medical equipment at the option of the physician responsible for treatment or proposed treatment of the covered patient, of receipt of certification by said physician that, in the physician’s opinion, the service or use of durable medical equipment at issue in a grievance or appeal is medically necessary, that a denial of coverage for such services or durable medical equipment would create a substantial risk of serious harm to the patient, and that the risk of that harm is so immediate that the provision of such services or durable medical equipment should not await the outcome of the normal appeal or grievance process, but, in the event said physician exercises the option of automatic reversal earlier than 48 hours for durable medical equipment, he must further certify as to the specific, immediate and severe harm that will result to the patient absent action within the 48 hour time period;
+        </section>
+        <section prefix="iii">
+    	     a resolution within five days from the receipt of such grievance if submitted by an insured with a terminal illness.
+        </section>
+        <section prefix="c">
+    	     A grievance not properly acted on by the carrier within the time limits required by this section shall be deemed resolved in favor of the insured.
+        </section>
+    </text>
+</law>

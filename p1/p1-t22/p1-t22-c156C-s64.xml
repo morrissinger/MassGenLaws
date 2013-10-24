@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Reorganization Of Limited Liability Company</catch_line>
+    <order_by>64</order_by>
+    <text>
+        <section prefix="a">
+    	     Any limited liability company, a plan of reorganization of which, pursuant to the provisions of any applicable statute of the United States relating to reorganizations of corporations or limited liability companies, has been or shall be confirmed by the decree or order of a court of competent jurisdiction, may put into effect and carry out the plan and the decrees and orders of the court relative thereto and may take any proceeding and do any act provided in the plan or directed by such decrees and orders, without further action by its members or managers. Such power and authority may be exercised, and such proceedings and acts may be taken, as may be directed by such decrees or orders, by the trustee or trustees of such limited liability company appointed by the court in the reorganization proceedings or a majority thereof or if none be appointed and acting, by designated members or managers of the limited liability company, or by a master or other representative appointed by the court, with like effect as if exercised and taken by unanimous action of the members and managers of the limited liability company.
+        </section>
+        <section prefix="b">
+    	     The provisions of this section shall cease to apply to such limited liability company upon the entry of a final decree in the reorganization proceedings closing the case and discharging the trustee or trustees, if any.
+        </section>
+    </text>
+</law>

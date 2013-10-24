@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>101</section_number>
+    <catch_line>Enclosure Of Platforms During Winter Months</catch_line>
+    <order_by>101</order_by>
+    <text>
+        Every street car in use for the transportation of passengers in December, January, February and March, which, while in motion, requires the constant care or service of an employee upon its platforms or upon one of them, shall have said platforms enclosed in such manner as to protect the motormen, conductors or other employees operating such car from exposure to wind and weather in such manner as the department shall approve.
+    </text>
+</law>

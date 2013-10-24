@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231A" order_by="231A" level="3">Procedure For Declaratory Judgments</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Costs</catch_line>
+    <order_by>7</order_by>
+    <text>
+        In an action wherein a judgment or other consequential relief is sought, the costs shall not be affected by the making or refusal of any determination; but in an action for a determination only, under this chapter, costs shall be wholly in the discretion of the court.
+    </text>
+</law>

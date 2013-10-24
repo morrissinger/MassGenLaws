@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177G</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>177G</order_by>
+    <text>
+        <section prefix="1">
+    	     an employee of the insurer;
+        </section>
+        <section prefix="2">
+    	     a United States manager of the United States branch of an alien insurer;
+        </section>
+        <section prefix="3">
+    	     an underwriting manager which, pursuant to contract, manages all or part of the insurance operations of an authorized insurer, is under common control with such insurer, subject to sections two hundred and six to two hundred and six D, inclusive, and whose compensation is not based on the volume of premiums written; or
+        </section>
+        <section prefix="4">
+    	     an attorney-in-fact authorized by and acting for the subscribers of a reciprocal insurance exchange or inter-insurance exchange under powers of attorney.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Domicile Of Parties</catch_line>
+    <order_by>4</order_by>
+    <text>
+        A divorce shall not, except as provided in the following section, be adjudged if the parties have never lived together as husband and wife in this commonwealth; nor for a cause which occurred in another jurisdiction, unless before such cause occurred the parties had lived together as husband and wife in this commonwealth, and one of them lived in this commonwealth at the time when the cause occurred.
+    </text>
+</law>

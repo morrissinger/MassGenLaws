@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Service Of Notice</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Notice to the debtor under this chapter may be served upon him personally or left at his last and usual place of abode. If the debtor does not reside within the precinct of the officer serving the execution, and is not found by him therein, such officer shall, in addition to any other service required by law, send by mail, postpaid and addressed to the debtor at his residence as described in the execution, a copy of any notice service of which upon him would be required if he were found within such precinct.
+    </text>
+</law>

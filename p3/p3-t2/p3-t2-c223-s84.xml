@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>84</section_number>
+    <catch_line>Insufficient Service Of Process; Dismissal Of Action Or Further Service</catch_line>
+    <order_by>84</order_by>
+    <text>
+        If in a civil action the defendant makes a motion to dismiss the action for insufficient service of process, the court may dismiss the action without prejudice or may quash the process and allow the issuance and service of new process in accordance with the applicable rules of court.
+    </text>
+</law>

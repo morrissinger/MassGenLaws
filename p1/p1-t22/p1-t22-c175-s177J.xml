@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177J</section_number>
+    <catch_line>Independent Financial Examinations; Actuary Opinions; Review Of Processing Operations; Notification To Commissioner Of Appointment Or Termination</catch_line>
+    <order_by>177J</order_by>
+    <text>
+        <section prefix="A">
+    	     The insurer shall have on file independent financial examinations, in a form acceptable to the commissioner, of each managing general agent with which it has done or is currently doing business.
+        </section>
+        <section prefix="B">
+    	     If a managing general agent establishes loss reserves, the insurer shall annually obtain the opinion of a qualified actuary attesting to the adequacy of loss reserves established for losses incurred and outstanding on business produced by the managing general agent. This is in addition to any other required loss reserve certification.
+        </section>
+        <section prefix="C">
+    	     The insurer shall periodically, at least semi-annually, conduct an on-site review of the underwriting and claims processing operations of the managing general agent and prepare a written report of its findings.
+        </section>
+        <section prefix="D">
+    	     Binding authority for all reinsurance contracts or participation in insurance or reinsurance syndicates shall rest with an officer of the insurer, who shall not be affiliated with the managing general agent.
+        </section>
+        <section prefix="E">
+    	     Within thirty days of entry into or termination of a contract with a managing general agent, the insurer shall provide written notification of such appointment or termination to the commissioner. Notices of appointment of a managing general agent shall include a statement of duties which the managing general agent is expected to perform on behalf of the insurer, the lines of insurance for which it is authorized to act, and any other information the commissioner may request. Notices of termination shall state all reasons for such termination.
+        </section>
+        <section prefix="F">
+    	     An insurer shall review its books and records each quarter to determine if any licensed producer has become a managing general agent as defined in section one hundred and seventy-seven G. If the insurer determines that a producer has become a managing general agent pursuant to the above, the insurer shall promptly notify the producer and the commissioner of such determination and the insurer and producer must fully comply with the provisions of this section within thirty days.
+        </section>
+        <section prefix="G">
+    	     An insurer shall not appoint to its board of directors an officer, director, employee, subproducer or controlling shareholder of its managing general agents. This subsection shall not apply to relationships governed by sections two hundred and six to two hundred and six D, inclusive, or, if applicable, sections one hundred and seventy-four F to one hundred and seventy-four K, inclusive.
+        </section>
+    </text>
+</law>

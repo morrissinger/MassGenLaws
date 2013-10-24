@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>47Y</section_number>
+    <catch_line>Coverage For Medically Necessary Hypodermic Syringes Or Needles   </catch_line>
+    <order_by>47Y</order_by>
+    <text>
+        <section prefix="a">
+    	     No individual policy of accident and sickness insurance issued or renewed pursuant to section 110 shall restrict or discontinue coverage for medically necessary hypodermic syringes or needles, notwithstanding section 27 of chapter 94C. The term “medical necessity” shall be construed in accordance with the guidelines set forth in subsection (b) of section 16 of chapter 176O. Nothing in this section shall prohibit applicable co-payments, deductibles, coinsurance or other cost sharing features.
+        </section>
+        <section prefix="b">
+    	     This section shall not apply to individual policies of accident and sickness insurance that are accident only, credit-only, limited scope dental benefits if offered separately, disability income insurance, coverage issued as a supplement to liability insurance, insurance arising out of a workers’ compensation law or similar law, automobile medical payment insurance, insurance under which benefits are payable with or without regard to fault and which is statutorily required to be contained in a liability insurance policy or equivalent self insurance, long-term care if offered separately, coverage supplemental to the coverage provided under 10 U.S.C. chapter 55 if offered as a separate insurance policy, any policy subject to chapter 176K and hospital indemnity insurance policies if offered as independent, non-coordinated benefits. For the purposes of this section, “hospital indemnity insurance policies” shall mean policies issued pursuant to this chapter which provide a benefit not to exceed $500 per day, as adjusted on an annual basis by the amount of increase in the average weekly wages in the commonwealth as defined in section 1 of chapter 152, to be paid to an insured or a dependent, including the spouse of an insured, on the basis of a hospitalization of the insured or a dependent.
+        </section>
+    </text>
+</law>

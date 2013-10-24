@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Judicial Review; Filing Deadline; Jurisdiction; Orders</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person subject to an order of the commissioner under section seventeen or section eighteen or any person whose rights under this chapter were allegedly violated may obtain a review of any order or report of the commissioner by filing in the supreme judicial court, within twenty days from the date of the service of such order or report, a written petition requesting that the order or report of the commissioner be set aside. A copy of such petition shall be simultaneously served upon the commissioner, who shall forthwith certify and file in such court a transcript of the entire record of the proceeding giving rise to the order or report which is the subject of the petition. Upon filing of the petition and transcript, the supreme judicial court shall have jurisdiction to make and enter a decree modifying, affirming or reversing any order or report of the commissioner, in whole or in part. The findings of the commissioner as to the facts supporting any order or report, if supported by clear and convincing evidence, shall be conclusive.
+        </section>
+        <section prefix="b">
+    	     To the extent an order or report of the commissioner is affirmed, the court shall issue its own order commanding obedience to the terms of the order or report of the commissioner. If any party affected by an order or report of the commissioner shall apply to the court for leave to produce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there are reasonable grounds for the failure to produce such evidence in prior proceedings, the court may order such additional evidence to be taken before the commissioner in such manner and upon such terms and conditions as the court may deem proper. The commissioner may modify his findings of fact or make new findings by reason of the additional evidence so taken and shall file such modified or new findings along with any recommendation, if any, for the modification or revocation of a previous order or report. If supported by clear and convincing evidence, the modified or new findings shall be conclusive as to the matters contained therein.
+        </section>
+        <section prefix="c">
+    	     An order or report issued by the commissioner under sections seventeen or eighteen shall become final:
+        </section>
+        <section prefix="1">
+    	     upon the expiration of the time allowed for the filing of a petition for review, if no such petition has been duly filed; except that the commissioner may modify or set aside an order or report to the extent provided in subsection (c) of section seventeen; or
+        </section>
+        <section prefix="2">
+    	     upon a final decision of the supreme judicial court if the court directs that the order or report of the commissioner be affirmed or the petition for review dismissed.
+        </section>
+        <section prefix="d">
+    	     No order or report of the commissioner under this chapter or order of a court to enforce the same shall in any way relieve or absolve any person affected by such order or report from any liability under any law of the commonwealth.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151C" order_by="151C" level="3">Fair Educational Practices</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Review Of Commission’S Order; Court Order For Enforcement;  Proceedings; Jurisdiction; Appeals</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Any party aggrieved by a final order of the commission may obtain a judicial review thereof, and the commission may obtain an order of the court for the enforcement thereof by a proceeding described in this section. Such proceeding shall be brought in the superior court within the county wherein any respondent is located.
+        </section>
+        <section prefix="b">
+    	     Upon the filing of a bill of complaint and the service of said bill, the court shall have equitable jurisdiction of the proceeding and of the questions determined therein. Thereupon the commission shall file with the court a transcript of the record of the hearing. The court after hearing and argument shall have power to make and enter upon such record an order annulling or confirming wholly or partly, or modifying the determination reviewed, as to any or all of the parties, and directing appropriate action by any party to the proceeding.
+        </section>
+        <section prefix="c">
+    	     The decision of the commission shall be reviewed in accordance with the standards for review provided in paragraph (8) of section fourteen of chapter thirty A.
+        </section>
+        <section prefix="d">
+    	     The jurisdiction of the superior court shall be exclusive and its judgment and order shall be final, subject to review by the supreme judicial court, upon appeal by the commission or any party to the proceedings, in the same manner provided by general law for appeal from the equity jurisdiction of the superior court.
+        </section>
+    </text>
+</law>

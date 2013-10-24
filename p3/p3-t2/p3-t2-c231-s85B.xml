@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>85B</section_number>
+    <catch_line>Action For Consequential Damages; Presumption Of Automobile Owner’S Responsibility</catch_line>
+    <order_by>85B</order_by>
+    <text>
+        In any action to recover the consequential damages specified in section thirty-four A of chapter ninety, arising out of an accident or collision in which a motor vehicle, as defined in sections one and thirty-four A of chapter ninety, was involved, such motor vehicle if registered in the name of the defendant as owner at the time of such accident or collision shall be presumed to have been then operated, maintained, controlled or used by and under the control of a person for whose conduct the defendant was legally responsible, and absence of such responsibility shall be an affirmative defence to be set up in the answer and proved by the defendant.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Insurers And Third Party Filers; Product Approval</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="1">
+    	     Insurers and third-party filers seeking to have a product approved by the commission shall file the product with, and pay applicable filing fees to, the commission. Nothing in this chapter shall be construed to restrict or otherwise prevent an insurer from filing its product with the insurance department in any state wherein the insurer is licensed to conduct the business of insurance, and the filing shall be subject to the laws of the states where filed.
+        </section>
+        <section prefix="2">
+    	     The commission shall establish appropriate filing and review processes and procedures pursuant to commission rules and operating procedures. Notwithstanding any provision herein to the contrary, the commission shall promulgate rules to establish conditions and procedures under which the commission will provide public access to product filing information. In establishing the rules, the commission shall consider the interests of the public in having access to the information, as well as protection of personal medical and financial information and trade secrets, that may be contained in a product filing or supporting information.
+        </section>
+        <section prefix="3">
+    	     A product approved by the commission may be sold or otherwise issued in those compacting states for which the insurer is legally authorized to do business.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Asset Backed Securities</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     If a trust receives a payment from interest or other current return and from other proceeds of the collateral financial assets, the trustee shall allocate to income the portion of the payment which the payer identifies as being from interest or other current return and shall allocate the balance of the payment to principal.
+        </section>
+        <section prefix="b">
+    	     If a trust receives one or more payments in exchange for the trust’s entire interest in an asset-backed security in 1 accounting period, the trustee shall allocate the payments to principal. If a payment is 1 of a series of payments that will result in the liquidation of the trust’s interest in the security over more than 1 accounting period, the trustee shall allocate 10 per cent of the payment to income and the balance to principal.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Voting By Stockholders; Articles Of Organization Or By Laws Controlling</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever, with respect to any action to be taken by the stockholders of a corporation subject to this chapter, the articles of organization or by-laws require the vote or concurrence of the holders of all of the shares, or of any class or series thereof, or a greater proportion thereof than required by this chapter with respect to such action, the provisions of the articles of organization or by-laws shall control.
+        </section>
+        <section prefix="b">
+    	     Whenever, with respect to any action to be taken by the stockholders of such corporation as to which a vote of each class of stock outstanding and entitled to vote thereon is required by this chapter, the articles of organization or by-laws provide that two or more classes of stock shall vote as a single class, the provisions of the articles of organization or by-laws shall control, provided, however, that no such provision shall deprive any class or series of stock whose rights would be adversely affected by such action of any right to a separate vote which such class or series may have under section eight A or section eight C.
+        </section>
+    </text>
+</law>

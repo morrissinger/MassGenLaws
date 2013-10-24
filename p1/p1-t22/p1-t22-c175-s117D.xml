@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>117D</section_number>
+    <catch_line>Credit Involuntary Unemployment Insurance</catch_line>
+    <order_by>117D</order_by>
+    <text>
+        <section prefix="a">
+    	     A licensed property and casualty insurance company may, notwithstanding any law or regulation to the contrary, issue a general or blanket policy of insurance to a bank, association, financial or other institution, vendor, or to a parent holding company, or to the trustee, trustees or agent designated by one or more banks, associations, financial or other institutions, or vendors under which debtors, guarantors or purchasers are insured against loss of employment resulting from involuntary unemployment, in an amount with respect to each obligation not to exceed the total of the scheduled payments on the obligation; provided, further, that where the coverage is for less than the full amount of said obligation, the periodic benefit payment shall cover either the full amount of each periodic payment on said obligation or the maximum periodic benefit set forth in said policy until the maximum aggregate benefit of said policy is reached.
+        </section>
+        <section prefix="b">
+    	     The following method of determination of premium rates with respect to credit involuntary unemployment insurance contained in clause (c) is required only for such insurance written in connection with consumer credit transactions which are subject to section twelve G of chapter two hundred and fifty-five, section ten of chapter two hundred and fifty-five B, section fourteen A of chapter two hundred and fifty-five C, or subsection C of section twenty-six of chapter two hundred and fifty-five D, for which an identifiable charge is paid by insured persons.
+        </section>
+        <section prefix="c">
+    	     The following are the procedures for determining the maximum premium rates permitted to be charged any account:
+        </section>
+        <section prefix="A">
+    	     The premium rates charged for credit involuntary unemployment insurance policies shall be reasonable in relation to the benefits provided as indicated by a minimum annual loss ratio of sixty percent. All credit involuntary unemployment insurance premium rates and applicable policies in connection therewith shall be filed for approval with the commissioner of insurance. The commissioner shall approve such rates and policies if such rates are reasonable in relation to benefits provided.
+        </section>
+        <section prefix="B">
+    	     Each insurer writing said involuntary unemployment insurance shall file with the commissioner of insurance annually supporting rate documentation as specified by the commissioner.
+        </section>
+        <section prefix="C">
+    	     After submission of such experience, the commissioner of insurance may review said insurance claims experience and loss ratio data from said credit insurance supplement forms and determine whether the rates in effect comply with the standards set forth in paragraph (A). If the commissioner determines the rates generating such loss ratios do not comply with the standards set forth in said paragraph (A), the commissioner may require any insurer to file rates that will meet such standards or submit reasons acceptable to the commissioner why it should not be required to do so.
+        </section>
+    </text>
+</law>

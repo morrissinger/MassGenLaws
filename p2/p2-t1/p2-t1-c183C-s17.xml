@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183C" order_by="183C" level="3">Predatory Home Loan Practices</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Application Of Chapter; Violations</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     This chapter shall apply to any lender who attempts to avoid its application by dividing any loan transaction into separate parts for the purpose of evading this chapter.
+        </section>
+        <section prefix="b">
+    	     A lender making a high-cost home mortgage loan who, when acting in good faith, fails to comply with this chapter, shall not be considered to have violated this chapter if the lender establishes that either: (1) Within 30 days of the loan closing and prior to the institution of any action under this chapter, the lender notifies the borrower of the compliance failure and makes appropriate restitution and whatever adjustments are necessary are made to the loan, at the choice of the borrower, to either: (i) make the high-cost home mortgage loan satisfy the requirements of this chapter or (ii) change the terms of the loan in a manner beneficial to the borrower so that the loan will no longer be considered a high-cost home mortgage loan; or, (2) the compliance failure was not intentional and resulted from a bona fide error notwithstanding the maintenance procedures reasonably adapted to avoid the errors, and within 60 days after the discovery of the compliance failure and before the institution of any action under this chapter or the receipt of written notice of the compliance failure, the borrower is notified of the compliance failure, appropriate restitution is made and whatever adjustments are necessary are made to the loan, at the choice of the borrower, to either (i) make the high-cost home mortgage loan satisfy the requirements of this chapter or (ii) change the terms of the loan in a manner beneficial to the borrower so that the loan will no longer be considered a high-cost home mortgage loan. Examples of a bona fide error may include clerical errors, errors in calculation, computer malfunction and programming, and printing errors. An error in legal judgment with respect to a person’s obligation under this chapter shall not be considered a bona fide error.
+        </section>
+    </text>
+</law>

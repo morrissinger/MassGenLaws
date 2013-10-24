@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>By Laws; Additional Provisions</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     A method for determining the fair market value of the unit and of the condominium in cases arising under sections seventeen and eighteen by submitting the matter to arbitration by a board consisting of one member chosen by the dissenting unit owner, one member chosen by the organization of unit owners, and one member chosen by the two members so selected.
+        </section>
+        <section prefix="b">
+    	     A procedure for submitting the disputes arising from the administration of the condominium to arbitration.
+        </section>
+        <section prefix="c">
+    	     A right of first refusal by the organization of unit owners in case of the sale of a unit, such right to be exercised within thirty days after written notice of intent to sell is given to such organization, provided, however, that this right shall not be exercised so as to restrict alienation, conveyance, sale, leasing, purchase, ownership and occupancy of units because of race, creed, color, national origin or sex.
+        </section>
+        <section prefix="d">
+    	     Such other provisions as may be deemed necessary for the management and regulation of the organization of unit owners or the condominium not inconsistent with this chapter and the master deed.
+        </section>
+    </text>
+</law>

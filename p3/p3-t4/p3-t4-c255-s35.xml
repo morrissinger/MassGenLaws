@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255" order_by="255" level="3">Mortgages, Conditional Sales And Pledges Of Personal Property, And Liens Thereon</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Priority Between Certain Liens</catch_line>
+    <order_by>35</order_by>
+    <text>
+        As against a conditional vendor or lessor, or person claiming under him, the lien of a bailee of the vendee or lessee or person claiming under him on property exceeding twenty dollars in value, for consideration furnished, without actual notice of the conditional sale or lease, shall prevail; except that the lien of such a bailee on property delivered to him subsequent to the breach of a condition of the sale or lease shall not prevail if the conditional vendor or lessor or person claiming under him makes demand in writing on the bailee for the property within ninety days from the date of the bailment.
+    </text>
+</law>

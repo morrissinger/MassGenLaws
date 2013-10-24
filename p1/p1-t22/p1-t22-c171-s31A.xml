@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>31A</section_number>
+    <catch_line>Guarantees</catch_line>
+    <order_by>31A</order_by>
+    <text>
+        A credit union may execute and deliver for a member such guarantees as may be incidental or usual in the transfer of investment securities.
+    </text>
+</law>

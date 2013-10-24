@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="224" order_by="224" level="3">Arrest On Mesne Process And Supplementary Proceedings In Civil Actions</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Habeas Corpus</catch_line>
+    <order_by>22</order_by>
+    <text>
+        The court may issue a writ of habeas corpus to bring before it for examination or disposition or for the purpose of giving bond, a defendant or debtor, or, in the case of a corporation or trust with transferable shares, its officer, trustee or agent who has been imprisoned under the provisions of this chapter.
+    </text>
+</law>

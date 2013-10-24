@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Rates And Premiums For Policies To Which This Chapter Applies;  Sufficiency To Recoup Amounts Paid To Fund</catch_line>
+    <order_by>13</order_by>
+    <text>
+        The rates and premiums charged for insurance policies to which this chapter applies shall include amounts sufficient to recoup over a reasonable length of time a sum equal to the amounts paid to the Fund by the insurer less any amounts returned to the insurer by the Fund.
+    </text>
+</law>

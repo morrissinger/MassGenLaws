@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Conditions To Liability</catch_line>
+    <order_by>46</order_by>
+    <text>
+        A stockholder or officer in a corporation shall not be held liable for its debts or contracts unless a judgment has been recovered against it and it has neglected for thirty days after demand made on execution to pay the amount due, with the officer’s fees, or to exhibit to him real or personal property of the corporation subject to be taken on execution, sufficient to satisfy the same, and the execution has been returned unsatisfied.
+    </text>
+</law>

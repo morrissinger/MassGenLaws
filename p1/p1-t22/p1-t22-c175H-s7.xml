@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175H" order_by="175H" level="3">False Health Care Claims</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Restitution; Attorneys Fees, Costs</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Any person convicted of a violation of sections two or three, in addition to any fines or sentences imposed, including any order of probation, shall be ordered to make restitution to a health care corporation or health care insurer for the full amount of the benefit or payment made, and for reasonable attorneys fees and costs, inclusive of costs of investigation.
+    </text>
+</law>

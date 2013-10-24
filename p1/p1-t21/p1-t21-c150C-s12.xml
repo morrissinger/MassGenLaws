@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Modification Or Correction Of Award; Grounds; Procedure</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon application made within thirty days after delivery of a copy of the award to the applicant, the superior court shall modify or correct the award if:—
+        </section>
+        <section prefix="1">
+    	     There was an evident miscalculation of figures or an evident mistake in the description of any person, thing or property referred to in the award;
+        </section>
+        <section prefix="2">
+    	     The arbitrators have awarded upon a matter not submitted to them and the award may be corrected without affecting the merits of the decision upon the issues submitted; or
+        </section>
+        <section prefix="3">
+    	     The award is imperfect in a matter of form, not affecting the merits of the controversy.
+        </section>
+        <section prefix="b">
+    	     If the application is granted, the court shall modify and correct the award so as to effect its intent and shall confirm the award as so modified and corrected; otherwise, it shall confirm the award as made.
+        </section>
+        <section prefix="c">
+    	     An application to modify or correct an award may be joined in the alternative with an application to vacate the award.
+        </section>
+    </text>
+</law>

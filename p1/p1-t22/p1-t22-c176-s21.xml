@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Change Of Beneficiary; Interest Of Beneficiary; Funeral Benefits;  Payment Of Benefits To Personal Representative</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     The owner of a benefit contract shall have the right at all times to change the beneficiary or beneficiaries in accordance with the laws or rules of the society unless the owner waives this right by specifically requesting in writing that the beneficiary designation be irrevocable. A society may, through its laws or rules, limit the scope of beneficiary designations and shall provide that no revocable beneficiary shall have or obtain any vested interest in the proceeds of any certificate unless the certificate has become due and payable in conformity with the provision of the benefit contract.
+        </section>
+        <section prefix="b">
+    	     A society may make provision for the payment of funeral benefits to the extent of such portion of any payment under a certificate as might reasonably appear to be due to any person equitably entitled thereto by reason of having incurred expense occasioned by the burial of the member.
+        </section>
+        <section prefix="c">
+    	     If, at the death of any member, there is no lawful beneficiary to whom the insurance benefits shall be payable, the amount of such benefits, except to the extent that funeral benefits may be paid as provided in subsection (b), shall be payable to the personal representative of the deceased member, but if the owner of the certificate is other than the insured, such proceeds shall be payable to the owner.
+        </section>
+    </text>
+</law>

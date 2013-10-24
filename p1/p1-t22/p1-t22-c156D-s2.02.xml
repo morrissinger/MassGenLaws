@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>2.02</section_number>
+    <catch_line>Articles Of Organization</catch_line>
+    <order_by>2.02</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization shall set forth:
+        </section>
+        <section prefix="1">
+    	     a corporate name for the corporation that satisfies the requirements of section 4.01;
+        </section>
+        <section prefix="2">
+    	     the number of shares the corporation is authorized to issue, and any required description of additional classes or series of shares, in conformity with section 6.01; and
+        </section>
+        <section prefix="3">
+    	     the name and address of each incorporator.
+        </section>
+        <section prefix="b">
+    	     The articles of organization may set forth:
+        </section>
+        <section prefix="1">
+    	     provisions not inconsistent with law regarding:
+        </section>
+        <section prefix="i">
+    	     the purpose or purposes for which the corporation is organized;
+        </section>
+        <section prefix="ii">
+    	     managing the business and regulating the affairs of the corporation;
+        </section>
+        <section prefix="iii">
+    	     defining, limiting, and regulating the powers of the corporation, its board of directors, and shareholders or any class thereof;
+        </section>
+        <section prefix="iv">
+    	     a par value for authorized shares or classes of shares;
+        </section>
+        <section prefix="v">
+    	     the imposition of personal liability on shareholders for the debts of the corporation to a specified extent and upon specified conditions; or
+        </section>
+        <section prefix="vi">
+    	     the voluntary dissolution of the corporation; and
+        </section>
+        <section prefix="2">
+    	     any provision that under this chapter is required to be set forth in the articles of organization in order for the subject matter of the provision to be effective or is permitted to be set forth in such articles;
+        </section>
+        <section prefix="3">
+    	     any provision that under this chapter is required or permitted to be set forth in the bylaws; and
+        </section>
+        <section prefix="4">
+    	     a provision eliminating or limiting the personal liability of a director to the corporation for monetary damages for breach of fiduciary duty as a director notwithstanding any provision of law imposing such liability; but the provision shall not eliminate or limit the liability of a director (i) for any breach of the director’s duty of loyalty to the corporation or its shareholders, (ii) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, (iii) for improper distributions under section 6.40, or (iv) for any transaction from which the director derived an improper personal benefit.
+        </section>
+        <section prefix="c">
+    	     The articles of organization need not set forth any of the corporate powers enumerated in this chapter.
+        </section>
+        <section prefix="d">
+    	     The form on which articles of organization are filed shall also include the following supplemental information, which is not to be considered a part of the articles:
+        </section>
+        <section prefix="1">
+    	     the street address of the initial registered office of the corporation;
+        </section>
+        <section prefix="2">
+    	     the names and addresses of the individuals who will serve as the initial directors, president, treasurer and secretary of the corporation;
+        </section>
+        <section prefix="3">
+    	     the name of its initial registered agent at its registered office;
+        </section>
+        <section prefix="4">
+    	     the fiscal year of the corporation that is initially adopted; and
+        </section>
+        <section prefix="5">
+    	     such other supplemental information as the secretary of state may require, including (i) a brief description of the type of business in which the corporation intends to engage or its SIC code, and (ii) the federal tax identification number of the corporation.
+        </section>
+    </text>
+</law>

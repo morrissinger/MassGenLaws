@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>83</section_number>
+    <catch_line>Creditor; Right To Hold Property Until Repaid Upon Failure To Recover Judgment</catch_line>
+    <order_by>83</order_by>
+    <text>
+        If the attaching creditor, after having paid the amount ordered by the court, does not recover judgment, he may nevertheless hold the property until the debtor has repaid with interest the amount so paid.
+    </text>
+</law>

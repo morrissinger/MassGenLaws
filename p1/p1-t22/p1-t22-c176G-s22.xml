@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Health Care Providers; Liability Of Member Of Health Maintenance Organization; Limitation On Collection Of Amounts Owed</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of this section, “health care provider” shall mean any physician, hospital or other person furnishing health services who has provided such services to members under an express or implied contract or with an expectation of receiving payment, other than co-payment, deductible or co-insurance, directly or indirectly from the health maintenance organization.
+        </section>
+        <section prefix="b">
+    	     In addition to the provisions of section 21, in the event of the insolvency of a health maintenance organization:
+        </section>
+        <section prefix="1">
+    	     a member of a health maintenance organization shall not be liable to any health care provider for any covered health services provided to the member, except as provided in subsection (c);
+        </section>
+        <section prefix="2">
+    	     a health care provider or any representative of a health care provider may not collect or attempt to collect from a member money owed to the health care provider by a health maintenance organization;
+        </section>
+        <section prefix="3">
+    	     a health care provider or any representative of a health care provider may not maintain any action against a member to collect or attempt to collect any money owed to the health care provider by a health maintenance organization.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any other provision of this section, a health care provider or representative of a health care provider may collect or attempt to collect from a member:
+        </section>
+        <section prefix="1">
+    	     a co-payment, deductible, or co-insurance amounts owed by the member to the health care provider for covered services provided by the health care provider, or
+        </section>
+        <section prefix="2">
+    	     a payment or charges for services not covered under the member’s health maintenance contract.
+        </section>
+    </text>
+</law>

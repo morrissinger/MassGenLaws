@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Unfair Labor Practices By Employers</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="1">
+    	     To interfere with, restrain or coerce employees in the exercise of the rights guaranteed in section three.
+        </section>
+        <section prefix="2">
+    	     To dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it; provided, that, subject to rules and regulations made and published by the commission pursuant to section nine R of chapter twenty-three, an employer shall not be prohibited from permitting employees to confer with him during working hours without loss of time or pay. An employer shall not be prohibited from paying regular initiation fees, dues and assessments to any labor organization in which he is a member or is eligible for membership.
+        </section>
+        <section prefix="3">
+    	     By discrimination in regard to hire or tenure of employment or any term or condition of employment, to encourage or discourage membership in any labor organization; provided, that nothing in this chapter shall preclude an employer from making and carrying out, except as provided in subsection six hereof, an agreement with a labor organization (not established, maintained or assisted by any action defined in this chapter as an unfair labor practice) to require as a condition of employment membership therein, if such labor organization is the representative of the employees as provided in subsection (a) of section five in the appropriate collective bargaining unit covered by such agreement when made, but no such agreement shall be deemed to apply to any employee who is not eligible for full membership and voting rights in such labor organization.
+        </section>
+        <section prefix="4">
+    	     To discharge or otherwise discriminate against an employee because he has filed charges or given testimony under this chapter.
+        </section>
+        <section prefix="5">
+    	     To refuse to bargain collectively with the representatives of his employees, subject to the provisions of subsection (a) of section five.
+        </section>
+        <section prefix="6">
+    	     To discharge or otherwise discriminate against any employee because he is not a member in good standing of a labor organization with whom the employer has made an agreement to require as a condition of employment membership therein, unless
+        </section>
+        <section prefix="A">
+    	     Such labor organization shall have certified to the employer that such employee—
+        </section>
+        <section prefix="1">
+    	     Was denied admission to, or deprived of, membership in good standing as a result of a bona fide occupational disqualification or the administration of discipline; and
+        </section>
+        <section prefix="2">
+    	     Has exhausted the remedies available to him within the labor organization including any right of appeal permitted by its constitution or by-laws; and
+        </section>
+        <section prefix="B">
+    	     Such employee shall have exhausted the remedies available to him under sections six A and six B.
+        </section>
+    </text>
+</law>

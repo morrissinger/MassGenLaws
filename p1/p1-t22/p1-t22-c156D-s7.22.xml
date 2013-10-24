@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.22</section_number>
+    <catch_line>Proxies</catch_line>
+    <order_by>7.22</order_by>
+    <text>
+        <section prefix="a">
+    	     A shareholder may vote his shares in person or by proxy.
+        </section>
+        <section prefix="b">
+    	     A shareholder may appoint a proxy to vote or otherwise act for him by signing an appointment form, either personally or by his attorney-in-fact.
+        </section>
+        <section prefix="c">
+    	     An appointment of a proxy is effective when received by the secretary or other officer or agent authorized to tabulate votes. Unless otherwise provided in the appointment form, an appointment is valid for a period of 11 months from the date the shareholder signed the form or, if it is undated, from the date of its receipt by the officer or agent, or for such shorter period as may be specified in the bylaws.
+        </section>
+        <section prefix="d">
+    	     An appointment of a proxy is revocable by the shareholder unless the appointment form conspicuously states that it is irrevocable and the appointment is coupled with an interest. Appointments coupled with an interest include, without limitation, the appointment of:
+        </section>
+        <section prefix="1">
+    	     a secured party;
+        </section>
+        <section prefix="2">
+    	     a person who purchased or agreed to purchase the shares;
+        </section>
+        <section prefix="3">
+    	     a creditor of the corporation who extended it credit under terms requiring the appointment;
+        </section>
+        <section prefix="4">
+    	     an employee of the corporation whose employment contract requires the appointment; or
+        </section>
+        <section prefix="5">
+    	     a party to a voting agreement created under section 7.31.
+        </section>
+        <section prefix="e">
+    	     The death or incapacity of the shareholder appointing a proxy shall not affect the right of the corporation to accept the proxy’s authority unless notice of the death or incapacity is received by the secretary or other officer or agent authorized to tabulate votes before the proxy exercises his authority under the appointment.
+        </section>
+        <section prefix="f">
+    	     An appointment made irrevocable under subsection (d) is revoked when the interest with which it is coupled is extinguished.
+        </section>
+        <section prefix="g">
+    	     A transferee for value of shares subject to an irrevocable appointment may revoke the appointment if he did not know of its existence when he acquired the shares and the existence of the irrevocable appointment was not noted conspicuously on the certificate representing the shares or on the information statement for shares without certificates.
+        </section>
+        <section prefix="h">
+    	     Subject to section 7.24 and to any express limitation on the proxy’s authority appearing on the face of the appointment form, a corporation is entitled to accept the proxy’s vote or other action as that of the shareholder making the appointment.
+        </section>
+    </text>
+</law>

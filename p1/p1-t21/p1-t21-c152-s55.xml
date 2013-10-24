@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Approval Of Policy By Commissioner; Review; Issuance Of Policy In Violation Of Statute</catch_line>
+    <order_by>55</order_by>
+    <text>
+        No policy of workers’ compensation insurance shall be issued or delivered until a copy thereof has been filed with the commissioner of insurance at least thirty days prior to such issue or delivery, unless before the expiration of the thirty days the said commissioner shall have approved the form of the policy in writing, nor if the commissioner notifies the company in writing that in his opinion the form of said policy does not comply with the laws of the commonwealth, specifying the reasons for his opinion; provided, that upon petition of the company the opinion of the commissioner shall be subject to review by the supreme judicial court. 
+Any policy of insurance issued in violation of this section or of any other provision of this chapter shall nevertheless be valid and binding upon the company issuing it, and the rights, duties and obligations of the parties thereto shall be determined by this chapter and chapter one hundred and seventy-five.
+    </text>
+</law>

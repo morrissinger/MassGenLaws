@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>51</order_by>
+    <text>
+        <section prefix="a">
+    	     Grand or subordinate lodges of societies, orders or associations doing business in the commonwealth on December thirty-first, nineteen hundred and fifty-eight, which provide benefits exclusively through local or subordinate lodges;
+        </section>
+        <section prefix="b">
+    	     Orders, societies or associations which admit to membership only persons engaged in one or more crafts or hazardous occupations, in the same or similar lines of business, insuring only their own members, their families and descendants of members, and the ladies’ societies or ladies’ auxiliaries to such orders, societies or associations;
+        </section>
+    </text>
+</law>

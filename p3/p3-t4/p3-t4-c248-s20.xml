@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Prisoners Committed In Civil Actions For Want Of Bail; Bail</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If the prisoner has been committed on mesne process in a civil action for want of bail, and it appears that the amount for which bail was required is excessive and unreasonable, the court or justice shall decide how much bail is reasonable, and shall order that on giving such bail the prisoner shall be discharged.
+    </text>
+</law>

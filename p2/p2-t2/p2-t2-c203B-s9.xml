@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Payments To Beneficiaries</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     A custodial trustee shall pay to the beneficiary or expend for the beneficiary’s use and benefit so much or all of the custodial trust property as the beneficiary while not incapacitated may direct from time to time.
+        </section>
+        <section prefix="b">
+    	     If the beneficiary is incapacitated, the custodial trustee shall expend so much or all of the custodial trust property as the custodial trustee considers advisable for the use and benefit of the beneficiary and individuals who were supported by the beneficiary when the beneficiary became incapacitated, or who are legally entitled to support by the beneficiary. Expenditures may be made in the manner, when, and to the extent that the custodial trustee determines suitable and proper, without court order and without regard to other support, income, or property of the beneficiary.
+        </section>
+        <section prefix="c">
+    	     A custodial trustee may establish checking, savings, or other similar accounts of reasonable amounts under which either the custodial trustee or the beneficiary may withdraw funds from, or draw checks against, the accounts. Funds withdrawn from, or checks written against, the account by the beneficiary are distributions of custodial trust property by the custodial trustee to the beneficiary.
+        </section>
+    </text>
+</law>

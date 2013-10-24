@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Property On Deposit; Presumption Of Abandonment</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     Communicated in writing with the person concerning the deposit; or
+        </section>
+        <section prefix="2">
+    	     Been credited with interest on a passbook or certificate of deposit at his request; or
+        </section>
+        <section prefix="3">
+    	     Had a transfer, disposition of interest or other transaction noted of record in the books or records of the person; or
+        </section>
+        <section prefix="4">
+    	     Increased or decreased the amount of deposit; or
+        </section>
+        <section prefix="5">
+    	     Owned other property for which clause (1), (2), (3) or (4) is applicable; provided, however, that the holder communicates in writing with the owner with regard to such property that would otherwise be presumed abandoned under this section at the address at which communications regarding such other property regularly are received; or
+        </section>
+        <section prefix="6">
+    	     Had another relationship with the holder concerning which the owner has:
+        </section>
+        <section prefix="i">
+    	     communicated in writing with the holder, or
+        </section>
+        <section prefix="ii">
+    	     otherwise indicated an interest as evidenced by a memorandum on file prepared by an employee of the holder; provided, however, that if the holder communicates in writing with the owner with regard to the property that would otherwise be presumed abandoned under this section at the address at which communications regarding the other relationship regularly are received.
+        </section>
+    </text>
+</law>

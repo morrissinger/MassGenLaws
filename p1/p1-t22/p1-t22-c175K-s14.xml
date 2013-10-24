@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     The provisions of this compact shall be severable; and if any phrase, clause, sentence or provision is considered unenforceable, the remaining provisions of the compact shall be enforceable.
+        </section>
+        <section prefix="2">
+    	     The provisions of this compact shall be liberally construed to effectuate its purposes.
+        </section>
+    </text>
+</law>

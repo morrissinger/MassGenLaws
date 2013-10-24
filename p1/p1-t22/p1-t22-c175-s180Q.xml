@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180Q</section_number>
+    <catch_line>Location Of Home Office Or Principal Place Of Business</catch_line>
+    <order_by>180Q</order_by>
+    <text>
+        At any time the board of directors of a domestic company may, by resolution, provide that in the event of a national emergency the home office or principal place of business of the company shall be at such location as is named or described in the resolution. Such resolution may provide for alternative locations and establish an order of preference.
+    </text>
+</law>

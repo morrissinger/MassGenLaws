@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.23</section_number>
+    <catch_line>Appeal From Denial Of Reinstatement</catch_line>
+    <order_by>14.23</order_by>
+    <text>
+        <section prefix="a">
+    	     If the secretary of state denies a corporation’s application for reinstatement following administrative dissolution, he shall serve the corporation under section 5.04 with a written notice that explains the reason or reasons for denial.
+        </section>
+        <section prefix="b">
+    	     The corporation may appeal the denial of reinstatement to the superior court for Suffolk county within 30 days after service of the notice of denial is perfected. The corporation appeals by petitioning the court to set aside the dissolution and attaching to the petition copies of the secretary of state’s certificate, or other public record, of dissolution, the corporation’s application for reinstatement, and the secretary of state’s notice of denial.
+        </section>
+        <section prefix="c">
+    	     The court may summarily order the secretary of state to reinstate the dissolved corporation or may take other action the court considers appropriate.
+        </section>
+        <section prefix="d">
+    	     The court’s final decision may be appealed as in other civil proceedings.
+        </section>
+    </text>
+</law>

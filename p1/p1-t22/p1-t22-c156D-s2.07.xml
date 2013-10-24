@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>2.07</section_number>
+    <catch_line>Emergency Bylaws</catch_line>
+    <order_by>2.07</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization provide otherwise, the board of directors of a corporation may adopt bylaws to be effective only in an emergency defined in subsection (d). The emergency bylaws, which are subject to amendment or repeal by the shareholders, may make all provisions necessary for managing the corporation during the emergency, including:
+        </section>
+        <section prefix="1">
+    	     appointment of successors to any of the officers, directors, employees or agents;
+        </section>
+        <section prefix="2">
+    	     relocation of the principal office or designation of alternative officers;
+        </section>
+        <section prefix="3">
+    	     procedures for calling and giving notice of a meeting of the board of directors;
+        </section>
+        <section prefix="4">
+    	     quorum requirements for the meeting; and
+        </section>
+        <section prefix="5">
+    	     designation of additional or substitute directors.
+        </section>
+        <section prefix="b">
+    	     All provisions of the regular bylaws consistent with the emergency bylaws remain effective during the emergency. The emergency bylaws are not effective after the emergency ends.
+        </section>
+        <section prefix="c">
+    	     Corporate action taken in good faith in accordance with the emergency bylaws:
+        </section>
+        <section prefix="1">
+    	     binds the corporation; and
+        </section>
+        <section prefix="2">
+    	     may not be used to impose liability on a corporate director, officer, employee, or agent.
+        </section>
+        <section prefix="d">
+    	     An emergency exists for purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="168" order_by="168" level="3">Savings Banks</unit>
+    </structure>
+    <section_number>35A</section_number>
+    <catch_line>Limitations On Approval Of Merger Or Consolidation</catch_line>
+    <order_by>35A</order_by>
+    <text>
+        The commissioner shall not approve an application for a merger or consolidation pursuant to this chapter if the bank sought to be acquired has been in existence for a period of less than three years or if, as a result of any such merger, the applicant would control in excess of thirty percent of the total deposits, exclusive of foreign deposits, of all depository institutions in the commonwealth insured by the Federal Deposit Insurance Corporation, or any successor corporation thereto; provided, however, that either said age requirement or concentration limit, or both, may be waived by the commissioner if economic conditions warrant such waiver. For the purposes of this section, the term “foreign deposits” shall mean deposits received in a foreign country and deposits in Edge and Agreement subsidiaries and international banking facilities.
+    </text>
+</law>

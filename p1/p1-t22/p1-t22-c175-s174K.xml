@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>174K</section_number>
+    <catch_line>Violations Of Secs. 174 F To 174 K; Remedies</catch_line>
+    <order_by>174K</order_by>
+    <text>
+        <section prefix="A">
+    	     If the commissioner believes that the controlling broker or any other person as defined in section one hundred and seventy-four G has violated any provisions of sections one hundred and seventy-four F to one hundred and seventy-four K, inclusive, or any regulation or order promulgated hereunder, the commissioner, may order the controlling broker to cease placing business with the controlled insurer; and
+        </section>
+        <section prefix="B">
+    	     In addition to the remedies provided by chapter one hundred and seventy-six D, in any administrative action against a controlling broker or other person the commissioner may, if the commissioner finds that because of a violation by the controlling broker or any subbroker the controlled insurer or any policyholder thereof has suffered any loss or damage, the commissioner may order the broker, subbroker or both to compensate the insurer or policyholder for such loss or damage.
+        </section>
+        <section prefix="C">
+    	     If an order for liquidation or rehabilitation of the controlled insurer has been entered and a receiver appointed pursuant to sections one hundred and eighty A to one hundred and eighty L, inclusive, or an ancillary receiver has been appointed in the commonwealth for a foreign company, and the appointed receiver believes that the controlling broker or any other person has violated this section, or any regulation or order promulgated hereunder, and the insurer suffered any loss or damage therefrom, the receiver may maintain a civil action for recovery of such loss or damage or other appropriate sanctions for the benefit of the insurer.
+        </section>
+        <section prefix="D">
+    	     Nothing contained in this section shall affect the right of the commissioner to impose any other penalties provided for in this chapter or chapter one hundred and seventy-six D.
+        </section>
+        <section prefix="E">
+    	     Nothing contained in this section is intended to or shall in any manner alter or affect the rights of policyholders, claimants, creditors or other third parties.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Reinsurance   </catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     A domestic company, except as herein provided, may reinsure in any other company any part or all of any risks assumed by it, and shall file with the annual statement required by section 25 and at such other times as the commissioner may require, schedules of all reinsurance. A contract of reinsurance, other than life, made by a domestic company or by a company incorporated in a foreign country and having its principal office in the commonwealth, ceding more than 75 per cent of its total outstanding risks, shall be subject to the written approval of the commissioner. A reinsurance contract made by a domestic life company shall not cede more than 90 per cent of the risks covered by the reinsurance contract without the permission of the commissioner.
+        </section>
+        <section prefix="b">
+    	     When reinsurance is so effected the ceding company, other than a life company, shall thereafter be charged on the gross premium basis with an unearned premium liability, and a life company shall be charged thereafter with a reserve liability, both the unearned premium and reserve liability representing the proportion of the obligation retained by it. Reinsurance credits shall be established in accordance with section 20A.
+        </section>
+        <section prefix="c">
+    	     A company ceding reinsurance to a mutual company shall not, unless the contract of reinsurance so provides, become thereby a member of the company accepting the reinsurance or be entitled to any dividend or expiration return of premium or be subject to liability to assessment.
+        </section>
+        <section prefix="d">
+    	     A company and any officer or agent thereof effecting or acting in the negotiation of reinsurance in violation of this section shall severally be punished by a fine of $5,000.
+        </section>
+    </text>
+</law>

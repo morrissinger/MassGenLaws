@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="256" order_by="256" level="3">Recognizances For Debts</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Death Of Conusee</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If the conusee dies before the debt is paid, his executor or administrator may, upon exhibiting to the clerk his letters testamentary or of administration, take out the execution and the form thereof shall be altered accordingly.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167A" order_by="167A" level="3">Bank Holding Companies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Registration Of Certain Companies With Commissioner; Reports;  Examinations; Rules And Regulations</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Each bank holding company shall register with the commissioner on forms prescribed by him which shall include such information with respect to the financial condition, operations, management and intercompany relationships of the bank holding company and its affiliates and related matters as he may deem necessary or appropriate to carry out the purposes of this chapter. The commissioner may, in his discretion, extend the time within which a bank holding company shall register and file the requisite information.
+        </section>
+        <section prefix="b">
+    	     The commissioner, from time to time, may require reports under oath to keep him informed as to whether the provisions of this chapter and the rules and regulations established thereunder have been complied with, and, except in the case of a national banking association, he may make examinations of each bank holding company and each affiliate thereof, the cost of which shall be assessed against and paid by such holding company.
+        </section>
+        <section prefix="c">
+    	     The commissioner may establish such rules and regulations as he deems necessary to carry out the purposes of this chapter.
+        </section>
+    </text>
+</law>

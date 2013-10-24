@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Land Within Jurisdiction Of Probate Court In Two Or More Counties</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If a case is begun in a probate court and the land is within the jurisdiction of the probate court in 2 or more counties, the court in which proceedings are first begun shall retain jurisdiction thereof, which shall exclude the jurisdiction of probate courts of other counties; but this shall not prevent the probate court in any other county where a part of the common land lies, not included in the original petition, from making partition thereof.
+    </text>
+</law>

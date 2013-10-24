@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Decree; Force And Effect</catch_line>
+    <order_by>26</order_by>
+    <text>
+        A decree of a probate court made under the preceding section shall have effect, notwithstanding an appeal therefrom, until otherwise finally determined by the supreme judicial court.
+    </text>
+</law>

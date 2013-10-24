@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>85</section_number>
+    <catch_line>Enforcement</catch_line>
+    <order_by>85</order_by>
+    <text>
+        If railroad corporations, railway companies, counties, cities, towns, or any of them, jointly or severally, are charged with the duty of maintaining or repairing any such bridge under any provision of law, agreement, or decree of court, and if the parties so charged with such duty refuse or neglect to carry into effect such decision within a reasonable time, any other such party may apply to the superior court, which may in equity enforce such decision.
+    </text>
+</law>

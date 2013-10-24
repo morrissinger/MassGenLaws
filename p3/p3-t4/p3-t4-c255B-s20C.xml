@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255B" order_by="255B" level="3">Retail Instalment Sales Of Motor Vehicles</unit>
+    </structure>
+    <section_number>20C</section_number>
+    <catch_line>Repossession Of Motor Vehicle; Notice To Police</catch_line>
+    <order_by>20C</order_by>
+    <text>
+        Any creditor obtaining possession of a motor vehicle under the provisions of this chapter shall, within one hour after obtaining such possession, notify the police department of the city or town in which such possession occurred, giving such police department a description of the vehicle involved.
+    </text>
+</law>

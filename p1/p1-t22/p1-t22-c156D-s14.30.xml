@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.30</section_number>
+    <catch_line>Grounds For Judicial Dissolution</catch_line>
+    <order_by>14.30</order_by>
+    <text>
+        <section prefix="1">
+    	     in a proceeding by the attorney general if it is established that:
+        </section>
+        <section prefix="i">
+    	     the corporation obtained its articles of organization through fraud; or
+        </section>
+        <section prefix="ii">
+    	     the corporation has continued to exceed or abuse the authority conferred upon it by law;
+        </section>
+        <section prefix="2">
+    	     upon a petition filed by the shareholders holding not less than 40 per cent of the total combined voting power of all the shares of the corporation’s stock outstanding and entitled to vote on the question of dissolution, if it is established that:
+        </section>
+        <section prefix="i">
+    	     the directors are deadlocked in the management of the corporate affairs, the shareholders are unable to break the deadlock, and irreparable injury to the corporation is threatened or being suffered; or
+        </section>
+        <section prefix="ii">
+    	     the shareholders are deadlocked in voting power and have failed, for a period that includes at least 2 consecutive annual meeting dates, to elect successors to directors whose terms have expired, or would have expired upon the election of their successors, and irreparable injury to the corporation is threatened or being suffered;
+        </section>
+        <section prefix="3">
+    	     in a proceeding by a creditor if it is established that:
+        </section>
+        <section prefix="i">
+    	     the creditor’s claim has been reduced to judgment, the execution on the judgment returned unsatisfied, and the corporation is insolvent; or
+        </section>
+        <section prefix="ii">
+    	     the corporation has admitted in writing that the creditor’s claim is due and owing and the corporation is insolvent; or
+        </section>
+        <section prefix="4">
+    	     in a proceeding by the corporation to have its voluntary dissolution continued under court supervision.
+        </section>
+    </text>
+</law>

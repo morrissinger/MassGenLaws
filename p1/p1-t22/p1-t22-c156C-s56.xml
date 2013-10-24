@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Suits On Behalf Of Limited Liability Company</catch_line>
+    <order_by>56</order_by>
+    <text>
+        <section prefix="a">
+    	     any member or members of a limited liability company, whether or not the operating agreement vests management of the limited liability company in one or more managers, who are authorized to sue by the vote of members who own more than fifty percent of the unreturned contributions to the limited liability company determined in accordance with section twenty-nine; provided, however, that in determining the vote so required, the vote of any member who has an interest in the outcome of the suit that is adverse to the interest of the limited liability company shall be excluded; or
+        </section>
+        <section prefix="b">
+    	     any manager or managers of a limited liability company, if the operating agreement vests management of the limited liability company in one or more managers, who are authorized to sue by the vote of a majority in number of the managers; provided, however, that, in determining the vote so required, the vote of any manager who has an interest in the outcome of the suit that is adverse to the interest of the limited liability company shall be excluded.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Insurance Insolvency Guaranty Fund</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="A">
+    	     No risk retention group shall be required or permitted to join or contribute financially to any insurance insolvency guaranty fund, or similar mechanism, in the commonwealth, nor shall any risk retention group, or its insureds or claimants against its insurers, receive any benefit from any such fund for claims arising under the insurance policies issued by such risk retention group.
+        </section>
+        <section prefix="B">
+    	     When a purchasing group obtains insurance covering its members’ risks from an insurer which is not required to participate in the Massachusetts Insurers Insolvency Fund established under chapter one hundred and seventy-five D, or a risk retention group, no such risks, wherever resident or located, shall be covered by any insurance guaranty fund or similar mechanism in the commonwealth.
+        </section>
+        <section prefix="C">
+    	     When a purchasing group obtains insurance covering its members’ risks from an admitted or licensed insurer, only risks resident or located in the commonwealth shall be covered by an insurance guaranty fund or similar mechanism in the commonwealth.
+        </section>
+        <section prefix="D">
+    	     Notwithstanding the provisions of any general or special law to the contrary, the commissioner may require or exempt a risk retention group from participation in any joint underwriting association or other mechanism established or authorized under the laws of the commonwealth for the equitable apportionment among insurers of liability insurance losses and expenses incurred on policies written through such association or mechanism, and such risk retention group shall submit sufficient information to the commissioner to enable the commissioner to apportion on a nondiscriminatory basis the risk retention group’s proportionate share of such losses and expenses.
+        </section>
+    </text>
+</law>

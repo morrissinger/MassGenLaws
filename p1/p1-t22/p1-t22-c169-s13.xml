@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="169" order_by="169" level="3">Receipts Of Deposits For Transmittal To Foreign Countries</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Cease And Desist Orders</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     If the commissioner determines, after notice and opportunity for a hearing, that a licensee has engaged in or is about to engage in any act or practice constituting a violation of any provision of this chapter or any rule, regulation or order pursuant hereto, said commissioner may order such licensee to cease and desist from such unlawful act or practice and take such affirmative steps as may be necessary to carry out the provisions of this chapter.
+        </section>
+        <section prefix="b">
+    	     If the commissioner makes written findings that the public interest will be irreparably harmed by delay in issuing an order under subsection (a), he may issue a temporary cease and desist order. Upon the entry of a temporary cease and desist order, the commissioner shall promptly notify the licensee affected thereby, in writing, that such order has been so entered, the reasons therefor, and that within twenty days after the receipt of a written request from such licensee, the matter will be scheduled for hearing to determine whether or not such temporary order shall become permanent and final. If no such hearing is requested and none is ordered by the commissioner, the order shall remain in effect until it is modified or vacated by the commissioner. If a hearing is requested or ordered, the commissioner, after giving notice and opportunity for a hearing to the licensee subject to said order, shall, by written finding of facts and conclusions of law, vacate or modify such order including making such order permanent.
+        </section>
+        <section prefix="c">
+    	     No order under this section, except a temporary order issued pursuant to subsection (b), shall be entered without prior notice and opportunity for a hearing. The commissioner may vacate or modify an order under this section upon finding that the conditions which required such an order have changed and that it is in the public interest to so vacate or modify such order.
+        </section>
+    </text>
+</law>

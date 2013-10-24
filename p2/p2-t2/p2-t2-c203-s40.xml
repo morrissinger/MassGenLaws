@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203" order_by="203" level="3">Trusts</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Validity Of Certain Acts Of Trustees; Insolvency Proceedings</catch_line>
+    <order_by>40</order_by>
+    <text>
+        If a debtor residing in the commonwealth has made an assignment to a trustee for the benefit of his creditors, the acts of the trustee thereunder in protecting and caring for the property and converting it into money, if done in good faith and with reasonable judgment and discretion, shall, subject to the following section, be valid notwithstanding subsequent proceedings in insolvency by or against the debtor, and the assignee in insolvency shall, if such assignment is avoided by him, recover the net amount of money received for, or the price of, the property sold and converted by such trustee instead of the property itself.
+    </text>
+</law>

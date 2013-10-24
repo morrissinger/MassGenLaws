@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>61</section_number>
+    <catch_line>Unauthorized Distributions; Liability Of Directors</catch_line>
+    <order_by>61</order_by>
+    <text>
+        Directors of a corporation who vote to authorize any distribution by the corporation to one or more of its stockholders, whether by way of a dividend, repurchase or redemption of stock, or otherwise, except a distribution of stock of the corporation, which is in violation of the corporation’s articles of organization shall be jointly and severally liable to the corporation for the amount by which such distribution exceeds that which could have been made without violation of the corporation’s articles of organization, but only to the extent such excess distribution is not repaid to the corporation. If the corporation is insolvent or is rendered insolvent by the making of any such distribution, whether or not in violation of the articles of organization, the directors who voted to authorize such distribution shall be jointly and severally liable to the corporation for the amount of such distribution made when the corporation is insolvent, or for the amount of such distribution which exceeds that which could have been made without rendering the corporation insolvent, but in either event only to the extent such distribution, or such excess, is not repaid to the corporation. In no event shall the directors who authorized any such distribution be liable under this section if such distribution could have been made without violating the articles of organization or rendering the corporation insolvent at the time when such distribution was authorized, although subsequent payment of such distribution or any part thereof causes such violation or insolvency.
+    </text>
+</law>

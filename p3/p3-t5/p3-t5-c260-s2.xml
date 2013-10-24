@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Contract Actions; Actions Upon Judgments Or Decrees Of Courts Of Record</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Actions of contract, other than those to recover for personal injuries, founded upon contracts or liabilities, express or implied, except actions limited by section one or actions upon judgments or decrees of courts of record of the United States or of this or of any other state of the United States, shall, except as otherwise provided, be commenced only within six years next after the cause of action accrues.
+    </text>
+</law>

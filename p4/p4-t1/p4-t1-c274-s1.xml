@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="274" order_by="274" level="3">Felonies, Accessories And Attempts To Commit Crimes</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Felonies And Misdemeanors</catch_line>
+    <order_by>1</order_by>
+    <text>
+        A crime punishable by death or imprisonment in the state prison is a felony. All other crimes are misdemeanors.
+    </text>
+</law>

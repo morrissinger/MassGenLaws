@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Judicial Control Of Discretionary Powers</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A court shall not change a trustee’s decision to exercise or not to exercise a discretionary power conferred by this chapter unless it determines that the decision was an abuse of the trustee’s discretion. A court shall not determine that a trustee abused his or her discretion merely because the court would have exercised the discretion in a different manner or would not have exercised the discretion.
+        </section>
+        <section prefix="b">
+    	     The decisions to which subsection (a) applies include:—
+        </section>
+        <section prefix="1">
+    	     A determination under subsection (a) of section 4 of whether and to what extent an amount should be transferred from principal to income or income to principal.
+        </section>
+        <section prefix="2">
+    	     A determination of the factors that are relevant to the trust and its beneficiaries and the weight, if any, to be given to those factors in deciding whether to exercise the power conferred by subsection (a) of section 4.
+        </section>
+        <section prefix="c">
+    	     If a court determines that a trustee has abused his discretion, the remedy shall be to restore the income and remainder beneficiaries to the positions they would have occupied if the trustee had not abused his discretion, according to the following rules:—
+        </section>
+        <section prefix="1">
+    	     If the abuse of discretion has resulted in no distribution to a beneficiary or a distribution that is too small, the court shall require the trustee to distribute to the beneficiary an amount that the court determines will restore the beneficiary, in whole or in part, to his appropriate position.
+        </section>
+        <section prefix="2">
+    	     If the abuse of discretion has resulted in a distribution to a beneficiary that is too large, the court shall restore the beneficiaries, the trust, or both, in whole or in part to their appropriate positions by requiring the trustee to withhold an amount from 1 or more future distributions to the beneficiary who received the distribution that was too large or requiring that beneficiary to return some or all of the distribution to the trust.
+        </section>
+        <section prefix="3">
+    	     If the court is unable, after applying paragraphs (1) and (2), to restore the beneficiaries, the trust, or both, to the positions they would have occupied if the trustee had not abused his discretion, the court may require the trustee to pay an appropriate amount from his own funds to one or more of the beneficiaries or the trust or both.
+        </section>
+        <section prefix="d">
+    	     A trustee may seek court determination as to whether a proposed exercise or non-exercise by the trustee of a discretionary power will result in an abuse of discretion. A beneficiary objecting to the relief sought shall have the burden of establishing that an abuse of discretion will result.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="244" order_by="244" level="3">Foreclosure And Redemption Of Mortgages</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Opening Foreclosure; Right Of Redemption</catch_line>
+    <order_by>35</order_by>
+    <text>
+        If, after the foreclosure of a mortgage not containing a power of sale, the person entitled to the debt recovers judgment for any part thereof on the ground that the value of the land mortgaged at the time of the foreclosure was less than the amount due, such recovery shall open the foreclosure, and the person entitled may redeem the land although the three years limited therefor have expired, if suit for redemption is brought within one year after the recovery of such judgment.
+    </text>
+</law>

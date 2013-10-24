@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Laws Applicable; Stockholder Defined   </catch_line>
+    <order_by>30</order_by>
+    <text>
+        <section prefix="a">
+    	     So far as pertinent and not in conflict with express provisions of this chapter, with other provisions of law relative to such companies or with their charters:
+        </section>
+        <section prefix="1">
+    	     The general principles of law relative to the powers, duties and liabilities of corporations shall apply to all incorporated domestic companies.
+        </section>
+        <section prefix="2">
+    	     The provisions of the Business Corporation Law, chapter one hundred and fifty-six B, excepting sections four, six, fourteen, fifteen, nineteen, twenty-three, twenty-five, thirty-eight, fifty-three, sixty-two through sixty-four, sixty-eight, sixty-nine, seventy-two, seventy-three, seventy-five, seventy-six and seventy-eight through one hundred and fourteen, shall be applicable to incorporated domestic stock companies.
+        </section>
+        <section prefix="3">
+    	     Sections two, five, seven, nine through thirteen, sixteen, forty-nine, fifty-two, fifty-four through fifty-nine and sixty-seven of said chapter one hundred and fifty-six B shall be applicable to incorporated domestic mutual companies.
+        </section>
+        <section prefix="4">
+    	     The provisions which may be stated in the articles of organization, in accordance with clause (11/2) of paragraph (b) of section thirteen of chapter one hundred and fifty-six B may, in lieu thereof, be included in a bylaw of an incorporated domestic mutual company, if such provisions are adopted by a two-thirds vote of those members present and voting at a meeting duly called for such purpose.
+        </section>
+        <section prefix="b">
+    	     Except as provided in paragraph (a) the provisions of chapter one hundred and fifty-six B shall be applicable to incorporated domestic companies only as expressly provided in other sections of this chapter.
+        </section>
+    </text>
+</law>

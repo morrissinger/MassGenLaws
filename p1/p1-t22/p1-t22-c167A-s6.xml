@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167A" order_by="167A" level="3">Bank Holding Companies</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Fines And Penalties For Violations</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Any company which knowingly violates any provision of this chapter or any regulation or order issued by the commissioner pursuant thereto may be punished by a fine of not more than one hundred dollars for each day during which such violation continues.
+        </section>
+        <section prefix="b">
+    	     Any individual who willfully participates in a violation of this chapter, or any rule or regulation of the commissioner issued pursuant thereto, shall be punished by a fine of not more than five thousand dollars.
+        </section>
+        <section prefix="c">
+    	     Any individual who swears or affirms that any report required by the commissioner pursuant to this chapter is true, knowing the same to be false, shall be punished by a fine of not more than five thousand dollars or by imprisonment for not more than one year, or both.
+        </section>
+        <section prefix="d">
+    	     Any officer, director, trustee, employee or agent of any bank holding company or affiliate thereof who makes any false entry in any book, record or statement of such company or affiliate with the intent to deceive any examiner lawfully appointed to examine into its condition or into any of its affairs, or who, with like intent, willfully omits to make a true entry of any material pertaining to the business of such company or affiliate in any book, report, record or statement of such company or affiliate, made, written or kept by him or under his direction shall be punished by a fine of not more than ten thousand dollars, or by imprisonment in the state prison for not more than ten years, or in a jail or house of correction for not more than two and one half years, or by both such fine and imprisonment.
+        </section>
+    </text>
+</law>

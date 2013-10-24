@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="244" order_by="244" level="3">Foreclosure And Redemption Of Mortgages</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Tender To Guardian Or Conservator</catch_line>
+    <order_by>34</order_by>
+    <text>
+        A tender may be made to a guardian or conservator, who may, upon satisfaction, execute a release of the mortgage.
+    </text>
+</law>

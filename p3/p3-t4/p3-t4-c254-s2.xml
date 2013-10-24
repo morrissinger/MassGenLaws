@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="254" order_by="254" level="3">Liens On Buildings And Land</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Written Contract; Notice; Time For Filing; Form</catch_line>
+    <order_by>2</order_by>
+    <text>
+        A person entering into a written contract with the owner of any interest in real property, or with any person acting for, on behalf of, or with the consent of such owner for the whole or part of the erection, alteration, repair or removal of a building, structure, or other improvement to real property, or for furnishing material or rental equipment, appliances, or tools therefor, shall have a lien upon such real property, land, building, structure or improvement owned by the party with whom or on behalf of whom the contract was entered into, as appears of record on the date when notice of said contract is filed or recorded in the registry of deeds for the county or district where such land lies, to secure the payment of all labor, including construction management and general contractor services, and material or rental equipment, appliances, or tools which shall be furnished by virtue of said contract. Said notice may be filed or recorded in the registry of deeds in the county or registry district where the land lies by any person entitled under this section to enforce a lien, and shall be in substantially the following form: 
+Notice is hereby given that by virtue of a written contract dated , between , owner, and , contractor, said contractor is to furnish or has furnished labor and material or rental equipment, appliances or tools for the erection, alteration, repair or removal of a building, structure, or other improvement on a lot of land or other interest in real property described as follows: 
+(INSERT DESCRIPTION) 
+Such person may file or record the notice of contract at any time after execution of the written contract whether or not the date for performance stated in such written contract has passed and whether or not the work under such written contract has been performed, but not later than the earliest of: (i) sixty days after filing or recording of the notice of substantial completion under section two A; or (ii) ninety days after filing or recording of the notice of termination under section two B; or (iii) ninety days after such person or any person by, through or under him last performed or furnished labor or materials or both labor and materials.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.25</section_number>
+    <catch_line>Quorum And Voting Requirements For Voting Groups</catch_line>
+    <order_by>7.25</order_by>
+    <text>
+        <section prefix="a">
+    	     Shares entitled to vote as a separate voting group may take action on a matter at a meeting only if a quorum of those shares exists with respect to that matter. Unless otherwise provided in this chapter, or in the articles of organization, the bylaws or a resolution of the board of directors, as permitted by subsection (a) of section 7.27, a majority of the votes entitled to be cast on the matter by the voting group constitutes a quorum of that voting group for action on that matter.
+        </section>
+        <section prefix="b">
+    	     A share once represented for any purpose at a meeting is deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting unless:
+        </section>
+        <section prefix="1">
+    	     the shareholder attends solely to object to lack of notice, defective notice, or the conduct of the meeting on other grounds, and does not vote the shares or otherwise consent that they are to be deemed present; or
+        </section>
+        <section prefix="2">
+    	     in the case of an adjournment, a new record date is or shall be set for that adjourned meeting.
+        </section>
+        <section prefix="c">
+    	     If a quorum of a voting group exists, favorable action on a matter, other than the election of directors, is taken by a voting group if the votes cast within the group favoring the action exceed the votes cast opposing the action, unless either this chapter, or the articles of organization, the bylaws or a resolution of the board of directors, as permitted by subsection (a) of section 7.27, requires a greater number of affirmative votes.
+        </section>
+        <section prefix="d">
+    	     An amendment of the articles of organization or the bylaws affecting the quorum or voting requirement for a voting group is governed by section 7. 27 or section 10.21 respectively.
+        </section>
+        <section prefix="e">
+    	     The election of directors is governed by section 7.28.
+        </section>
+    </text>
+</law>

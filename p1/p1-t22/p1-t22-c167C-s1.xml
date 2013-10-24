@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167C" order_by="167C" level="3">Bank Locations</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        As used in this chapter, the following words shall, unless the context otherwise requires, have the following meanings:— 
+“Bank”, an association or corporation chartered by the commonwealth under chapter 168, 170 and 172. 
+“Commissioner”, the commissioner of banks. 
+“Foreign bank”, an association or corporation authorized to do a banking business in the commonwealth, the main office of which is located outside the commonwealth, and which exists by authority of a country other than the United States. 
+“Governing board”, the board of directors, the board of trustees or similar board of a bank. 
+“Out-of-state bank”, an association or corporation authorized to do a banking business in the commonwealth, the main office of which is located outside the commonwealth, and which exists by the authority of a state of the United States except the commonwealth. 
+“Out-of-state branch”, a branch of a bank located outside the commonwealth. 
+“Out-of-state federal bank”, a national banking association, savings and loan association or savings bank that exists by authority of the United States, the main office of which is located outside the commonwealth.
+    </text>
+</law>

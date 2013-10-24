@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Claims Against Trust Property; Trustee, Beneficiary Liability</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     A claim based on a contract entered into by a custodial trustee acting in a fiduciary capacity, an obligation arising from the ownership or control of custodial trust property, or a tort committed in the course of administering the custodial trust, may be asserted by a third person against the custodial trust property by proceeding against the custodial trustee in a fiduciary capacity, whether or not the custodial trustee or the beneficiary is personally liable.
+        </section>
+        <section prefix="b">
+    	     A custodial trustee shall not be personally liable to a third person:
+        </section>
+        <section prefix="1">
+    	     on a contract properly entered into in a fiduciary capacity unless the custodial trustee fails to reveal such capacity or to identify the custodial trust in the contract; or
+        </section>
+        <section prefix="2">
+    	     for an obligation arising from control of custodial trust property or for a tort committed in the course of the administration of the custodial trust unless the custodial trustee is personally at fault.
+        </section>
+        <section prefix="c">
+    	     A beneficiary shall not be personally liable to a third person for an obligation arising from beneficial ownership of custodial trust property or for a tort committed in the course of administration of the custodial trust unless the beneficiary is personally in possession of the custodial trust property giving rise to the liability or is personally at fault.
+        </section>
+        <section prefix="d">
+    	     Subsections (b) and (c) shall not preclude actions or proceedings to establish liability of the custodial trustee or beneficiary to the extent the person sued is protected as the insured by liability insurance.
+        </section>
+    </text>
+</law>

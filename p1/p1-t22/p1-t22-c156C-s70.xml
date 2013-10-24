@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>70</section_number>
+    <catch_line>Administrative Dissolution; Notice; Wind Up And Liquidation Of Affairs</catch_line>
+    <order_by>70</order_by>
+    <text>
+        <section prefix="a">
+    	     The state secretary may commence a proceeding to dissolve a limited liability company if:
+        </section>
+        <section prefix="1">
+    	     the limited liability company has failed for 2 consecutive years to comply with the laws requiring the filing of annual reports; or
+        </section>
+        <section prefix="2">
+    	     he is satisfied that the limited liability company has become inactive and its dissolution would be in the public interest.
+        </section>
+        <section prefix="b">
+    	     If the state secretary determines that grounds exist under subsection (a), he shall serve the limited liability company with written notice of his determination. The notice shall be sent to the address of the office in the commonwealth required by clause (1) of section 5. If, within 90 days after the notice, the limited liability company fails to correct each ground for dissolution or fails to demonstrate to the reasonable satisfaction of the state secretary that each ground determined by the state secretary does not exist, the state secretary shall administratively dissolve the limited liability company.
+        </section>
+        <section prefix="c">
+    	     A limited liability company administratively dissolved continues in existence, but shall not carry on any business except that necessary to wind up and liquidate its affairs.
+        </section>
+    </text>
+</law>

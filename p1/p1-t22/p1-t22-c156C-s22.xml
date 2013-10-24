@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Debts, Obligations And Liabilities Of Limited Liability Company</catch_line>
+    <order_by>22</order_by>
+    <text>
+        Except as otherwise provided by this chapter, the debts, obligations and liabilities of a limited liability company, whether arising in contract, tort or otherwise, shall be solely the debts, obligations and liabilities of the limited liability company; and no member or manager of a limited liability company shall be personally liable, directly or indirectly, including, without limitation, by way of indemnification, contribution, assessment or otherwise, for any such debt, obligation or liability of the limited liability company solely by reason of being a member or acting as a manager of the limited liability company.
+    </text>
+</law>

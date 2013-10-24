@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>134</section_number>
+    <catch_line>Load Aggregation Programs</catch_line>
+    <order_by>134</order_by>
+    <text>
+        <section prefix="a">
+    	     Any municipality or any group of municipalities acting together within the commonwealth is hereby authorized to aggregate the electrical load of interested electricity consumers within its boundaries; provided, however, that such municipality or group of municipalities shall not aggregate electrical load if such are served by an existing municipal lighting plant. Such municipality or group of municipalities may group retail electricity customers to solicit bids, broker, and contract for electric power and energy services for such customers. Such municipality or group of municipalities may enter into agreements for services to facilitate the sale and purchase of electric energy and other related services. Such service agreements may be entered into by a single city, town, county, or by a group of cities, towns, or counties.
+        </section>
+        <section prefix="b">
+    	     A municipality or group of municipalities establishing a load aggregation program pursuant to subsection (a) may, by a vote of its town meeting or legislative body, whichever is applicable, adopt an energy plan which shall define the manner in which the municipality or municipalities may implement demand side management programs and renewable energy programs that are consistent with any state energy conservation goals developed pursuant to chapter 25A or chapter 164. After adoption of the energy plan by such town meeting or other legislative body, the city or town clerk shall submit the plan to the department to certify that it is consistent with any such state energy conservation goals. If the plan is certified by the department, the municipality or group of municipalities may apply to the Massachusetts clean energy technology center for monies from the Massachusetts Renewable Energy Trust Fund, established pursuant to section 9 of chapter 23J, and receive, and if approved, expend moneys from the demand side management system benefit charges or line charges in an amount not to exceed that contributed by retail customers within said municipality or group municipalities. This will not prevent said municipality or municipalities from applying to the Massachusetts clean energy technology center for additional funds. If the department determines that the energy plan is not consistent with any such state-wide goals, it shall inform the municipality or group of municipalities within six months by written notice the reasons why it is not consistent with any such state-wide goals. The municipality or group of municipalities may re-apply at anytime with an amended version of the energy plan.
+        </section>
+    </text>
+</law>

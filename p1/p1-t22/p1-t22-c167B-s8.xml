@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Disclosure Of Terms And Conditions; Information Included</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The terms and conditions of electronic fund transfers involving a consumer’s account shall be disclosed, in writing, before the consumer contracts for an electronic fund transfer service. Such disclosures shall be in readily understandable language and shall include, to the extent applicable:
+        </section>
+        <section prefix="1">
+    	     the consumer’s liability for unauthorized electronic fund transfers and notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of an access device;
+        </section>
+        <section prefix="2">
+    	     the telephone number and address of the person or office to be notified, including the hours during which such telephone number may be used by the consumer, in the event the consumer believes that an unauthorized electronic fund transfer has been or may be effected or to which the consumer can make any inquiry, complaint or seek resolution of a problem;
+        </section>
+        <section prefix="3">
+    	     the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system;
+        </section>
+        <section prefix="4">
+    	     any charges for electronic fund transfers, for the right to make such transfers, or charges for account maintenance;
+        </section>
+        <section prefix="5">
+    	     the minimum balance, if any, in an account required as a condition for using an accepted access device;
+        </section>
+        <section prefix="6">
+    	     the rate of interest, if any, which will be paid on any account which may be used for electronic fund transfers;
+        </section>
+        <section prefix="7">
+    	     the consumer’s right to stop payment of a preauthorized electronic fund transfer and the procedure to initiate such a stop payment order;
+        </section>
+        <section prefix="8">
+    	     the consumer’s right to receive documentation of electronic fund transfers under section nine;
+        </section>
+        <section prefix="9">
+    	     a summary of the error resolution provisions of section seventeen and the consumer’s rights thereunder; such summary shall include the form of the notice to be used for written confirmation of a consumer’s belief that an error occurred. The financial institution shall thereafter transmit such summary at least once per calendar year, alternatively, a financial institution may choose to mail or deliver a shorter summary on or with each periodic statement required by section nine.
+        </section>
+        <section prefix="10">
+    	     the financial institution’s liability to the consumer under section nineteen.
+        </section>
+        <section prefix="11">
+    	     under what circumstances the financial institution will in the ordinary course of business disclose information concerning the consumer’s account to third persons;
+        </section>
+        <section prefix="12">
+    	     A statement that any documentation provided to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
+        </section>
+        <section prefix="14">
+    	     the financial institution’s business days, as determined in accordance with section one.
+        </section>
+        <section prefix="15">
+    	     an explanation of the manner in which the consumer may terminate the agreement.
+        </section>
+        <section prefix="16">
+    	     the fact that the initiation by the consumer of certain electronic fund transfers from the consumer’s account will, except as otherwise provided in the agreement, effectively eliminate the consumer’s ability to stop payment of the transfer, together with a statement, printed in ten-point boldface type, substantially similar to the following:
+        </section>
+        <section prefix="b">
+    	     A financial institution shall notify a consumer in writing at least thirty days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) when such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. Any such notification shall be accompanied by an explanation of the significance of the change to the consumer and the consumer’s right to terminate the agreement if the consumer does not accept the change. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to clause (3) of subsection (a), the commissioner shall require subsequent notification if such a change is made permanent.
+        </section>
+        <section prefix="c">
+    	     For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this chapter, the information required to be disclosed to the consumer under subsection (a) shall be disclosed not later than the earlier of:
+        </section>
+        <section prefix="1">
+    	     the first periodic statement required by subsection (c) of section nine after the effective date of this chapter; or
+        </section>
+        <section prefix="2">
+    	     thirty days after the effective date of this chapter.
+        </section>
+    </text>
+</law>

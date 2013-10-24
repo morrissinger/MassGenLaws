@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Principal Office</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The principal office of any domestic society shall be located in the commonwealth. The meetings of its supreme legislative or governing body may be held in any state, district, province or territory wherein such society has at least five subordinate branches, and all business transacted at such meetings shall be as valid in all respects as if such meetings were held in the commonwealth.
+    </text>
+</law>

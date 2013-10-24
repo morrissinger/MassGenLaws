@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Proceeds Of Sale; Disposition Among Several Creditors</catch_line>
+    <order_by>44</order_by>
+    <text>
+        If the property sold on execution has been attached by another creditor, or seized on another execution, either by the same or another officer, or if before payment of such residue to the debtor another writ of attachment or execution against him is delivered to the officer who made the sale, the proceeds of the sale shall be applied to the discharge of the several judgments in the order in which the respective writs of attachment or execution were served, and any residue returned to the debtor.
+    </text>
+</law>

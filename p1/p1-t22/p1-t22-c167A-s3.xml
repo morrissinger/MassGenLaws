@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167A" order_by="167A" level="3">Bank Holding Companies</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Acts Not Requiring Approval By Board</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The prohibitions contained in section two shall not apply to (1) stock acquired in good faith in a fiduciary capacity except where such stock is held for the benefit of the shareholders of a banking institution or bank holding company; (2) stock accepted in good faith as collateral security for advances made or stock required in the regular course of securing or collecting a debt previously contracted in good faith; provided, such stock shall be sold or otherwise disposed of within the term of five years from the date of its acquisition unless its further holding is approved by the board of bank incorporation; (3) stock acquired as a consequence of a merger or consolidation of one banking institution with another, or the conversion of one banking institution into another, or the sale of assets of one banking institution to another where the stock acquired does not represent a larger percentage interest in the stock of the banking institution in which acquired than was held prior to such consolidation, merger, conversion or sale by the bank holding company in the banking institution consolidated, merged or converted, or whose assets were the subject of the sale; or (4) any stock acquired in connection with the underwriting of the issue of such stock and which is held only for such period of time as will permit the sale thereof on a reasonable basis.
+    </text>
+</law>

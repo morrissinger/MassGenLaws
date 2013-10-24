@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>102C</section_number>
+    <catch_line>Policy Against Loss Or Damage To Property By Radioactive  Contamination; Form; Contents; Requisites   </catch_line>
+    <order_by>102C</order_by>
+    <text>
+        <section prefix="1">
+    	     A provision plainly specifying the percentage of any loss or claim for which each company shall be liable.
+        </section>
+        <section prefix="2">
+    	     A provision that any notice, sworn statement or proof of loss which may be required by the provisions of said policy may be rendered, made or given to any one of the companies or to the agent named in the policy as the duly authorized agent of the companies, and that such notice, sworn statement or proof of loss so rendered, made or given shall be valid and binding as to all of such companies.
+        </section>
+        <section prefix="3">
+    	     A provision that, in any action or suit under the policy, service of process may be made on any one of such companies and that such service shall be deemed valid and binding service upon all of such companies.
+        </section>
+    </text>
+</law>

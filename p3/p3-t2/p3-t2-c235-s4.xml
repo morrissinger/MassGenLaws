@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Judgment Nunc Pro Tunc</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Every judgment or order of the supreme judicial, superior or land court shall bear date of the year, month and day when entered; but the court may order it to be entered as of an earlier day than that of entry.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="276" order_by="276" level="3">Search Warrants, Rewards, Fugitives From Justice, Arrest, Examination, Commitment And Bail. Probation Officers And Board Of Probation</unit>
+    </structure>
+    <section_number>23B</section_number>
+    <catch_line>Annual List Of Persons Registered With Licensing Authorities;  Department Of Criminal Justice Information Services; Outstanding Warrants;  Notification Of License Suspension; Hearing</catch_line>
+    <order_by>23B</order_by>
+    <text>
+        <section prefix="a">
+    	     Any agency, department, commission, division or authority of the commonwealth that issues a professional license, certificate, permit or authorization to engage in a profession, trade, or business shall ensure that such license, certificate, permit or authorization is suspended for a person who has a default or arrest warrant outstanding against him.
+        </section>
+        <section prefix="b">
+    	     In order to determine if a person has an outstanding warrant against him, the licensing authorities referenced in subsection (a) shall transmit to the department of criminal justice information services in an electronic format and reporting schedule approved by the executive director of the department of criminal justice information services a list of persons who are registered with such licensing authorities on an annual basis. The department of criminal justice information services shall, subject to appropriation, remit to each licensing authority a list of persons who have received a license, certificate, permit or authorization to engage in a profession, trade, or business against whom there is an outstanding default or arrest warrant issued by any court of the commonwealth. Evidence of the outstanding default or arrest warrant appearing in the warrant management system as established by section 23A shall be sufficient grounds for such suspension.
+        </section>
+        <section prefix="c">
+    	     Each licensing authority shall notify persons against whom there is a default or arrest warrant outstanding that their license, certificate, permit or authorization shall be suspended unless the person furnishes proof within 30 days that such warrant has been recalled or that there is no such warrant outstanding against the person. Such notification shall be deemed sufficient if the notice is mailed to the address listed on the license, certificate, permit or authorization or application for the license, certificate, permit or authorization. If no such proof is furnished within 30 days, the person shall be notified that such license, certificate, permit or authorization is suspended subject to the opportunity for a hearing. After such notice to the person has been delivered or mailed by the licensing authority, the person may request a hearing within 90 days with respect to the existence of an outstanding warrant. If a hearing is requested within ten days from the time the notice that the license, certificate, permit or authorization is suspended is mailed or delivered, the license, certificate, permit or authorization shall not be suspended until a finding following the hearing. If a hearing is requested as provided for in this chapter, the law enforcement agency responsible for the warrant shall be notified of the time, place, date of hearing and the subject of the warrant. An affidavit from the law enforcement agency responsible for the warrant or from the colonel of the state police may be introduced as prima facie evidence of the existence of a warrant without the need for members of that law enforcement agency to attend any hearings held under this section. The licensing authority shall issue a finding within 45 days of conducting the hearing as to the existence of a warrant. If there is a warrant outstanding, the license, certificate, permit or authorization shall be suspended. Said license shall not be renewed or reinstated without sufficient proof that the warrant has been cleared.
+        </section>
+        <section prefix="d">
+    	     For the purposes of this section, a professional license shall mean any license, permit, certificate, registration, authority or similar form of permission necessary to engage in a trade or profession issued by an agency, department, commission, division or authority of the commonwealth.
+        </section>
+        <section prefix="e">
+    	     The licensing authorities referenced in this section shall promulgate regulations to implement this section. Implementation of this section shall be subject to appropriation.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Venue; Removal Of Cases</catch_line>
+    <order_by>15</order_by>
+    <text>
+        An initial application shall be made to the superior court for a county in which two or more employees covered by the agreement described in section one have their place of employment, or to the superior court for the county of Suffolk, but if so presented to the superior court for the county of Suffolk, that court may, on motion of any party in interest, order the case removed to the superior court for a county in which a substantial portion of the employees covered by the agreement have their place of employment. All subsequent applications shall be made to the court hearing the initial application unless the court otherwise directs.
+    </text>
+</law>

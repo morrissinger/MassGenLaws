@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Eminent Domain</catch_line>
+    <order_by>60</order_by>
+    <text>
+        If it is decided that the location of the railroad or of the way shall be changed, land or other property may be taken therefor by eminent domain on behalf of the railroad corporation, the commonwealth, the county or the city or town, as the case may be, under chapter seventy-nine, and damages may be recovered therefor under said chapter.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>157</section_number>
+    <catch_line>Use Of Car Not Equipped With Automatic Couplers</catch_line>
+    <order_by>157</order_by>
+    <text>
+        A railroad corporation, in moving traffic between points in the commonwealth, shall not haul or use, or permit to be hauled or used, on its lines any car which is not equipped with couplers coupling automatically by impact, and which do not require men to go between the cars to uncouple them.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Pleading Following Answer In Abatement</catch_line>
+    <order_by>21</order_by>
+    <text>
+        If an answer in abatement filed in the land court in an action which is not governed by the Massachusetts Rules of Civil Procedure is overruled on demurrer, or, if, in consequence of such answer in abatement, the plaintiff amends, the defendant within such time as the court orders shall plead to the merits.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176B" order_by="176B" level="3">Medical Service Corporations</unit>
+    </structure>
+    <section_number>7C</section_number>
+    <catch_line>Retroactive Premium Rate Increase</catch_line>
+    <order_by>7C</order_by>
+    <text>
+        For purposes of this section, retroactive premium rate increase shall mean any premium rate increase based upon an actual approved rate which is assessed to a subscriber after any payment has been made by said subscriber based upon an estimated premium rate for such period of coverage. 
+A medical service corporation governed by this chapter which offers medicare supplemental individual or group coverage shall, in the event of a retroactive premium rate increase for such coverage, allocate such increase among the remaining outstanding premium payments due; provided, however, that no finance charge or additional cost may be charged as a result of such allocation.
+    </text>
+</law>

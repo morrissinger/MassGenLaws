@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Articles; Certificate Of Incorporation</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     A true copy of the agreement of association, the names of the subscribers thereto, and the name, residence and post office address of each of the officers of the corporation; and
+        </section>
+        <section prefix="b">
+    	     The date of the first meeting and the successive adjournments thereof, if any.
+        </section>
+    </text>
+</law>

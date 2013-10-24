@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="169" order_by="169" level="3">Receipts Of Deposits For Transmittal To Foreign Countries</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Investigation Of Persons Other Than Licensees</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The commissioner, if he has reason to believe that a person other than a licensee has violated any of the provisions of this chapter, shall be authorized to make such investigations as he shall deem necessary and may examine such other person and shall compel the production of all relevant books, records, accounts and documents.
+    </text>
+</law>

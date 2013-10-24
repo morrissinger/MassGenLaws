@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255F" order_by="255F" level="3">Licensing Of Mortgage Loan Originators</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Surety Bonds</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Each mortgage loan originator shall be covered by a surety bond in accordance with this section. The surety bond shall provide coverage for each mortgage loan originator in an amount as prescribed in subsection (b) and shall be in a form prescribed by the commissioner. If a mortgage loan originator is an employee or exclusive agent of an entity, the surety bond of said entity may be used to satisfy the mortgage loan originator’s surety bond requirement.
+        </section>
+        <section prefix="b">
+    	     The penal sum of the surety bond shall be maintained in an amount that reflects the dollar amount of loans originated as determined by the commissioner.
+        </section>
+        <section prefix="c">
+    	     Upon commencement of an action on a licensee’s bond the commissioner may require the filing of a new bond. The commissioner shall, immediately upon recovery upon any action on the bond, require that the licensee file a new bond.
+        </section>
+    </text>
+</law>

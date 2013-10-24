@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>11.04</section_number>
+    <catch_line>Action On A Plan Of Merger Or Share Exchange</catch_line>
+    <order_by>11.04</order_by>
+    <text>
+        <section prefix="1">
+    	     The plan of merger or share exchange shall be adopted by the board of directors.
+        </section>
+        <section prefix="2">
+    	     Except as provided in clause (7) and in section 11.05, after adopting the plan of merger or share exchange the board of directors must submit the plan to the shareholders for their approval.
+        </section>
+        <section prefix="3">
+    	     The board of directors may condition its submission of the plan of merger or share exchange to the shareholders on any basis.
+        </section>
+        <section prefix="4">
+    	     If the plan of merger or share exchange is required to be approved by the shareholders, and if the approval is to be given at a meeting, the corporation shall notify each shareholder, whether or not entitled to vote, of the meeting of shareholders at which the plan is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the plan and shall contain or be accompanied by a copy or summary of the plan. If the corporation is to be merged into an existing corporation or other entity, the notice shall also include or be accompanied by a copy or summary of the articles of organization or organizational documents of that corporation or other entity. If the corporation is to be merged into a corporation or other entity that is to be created pursuant to the merger, the notice shall include or be accompanied by a copy or a summary of the articles of organization or organizational documents of the new corporation or other entity.
+        </section>
+        <section prefix="5">
+    	     Unless (i) a greater percentage vote, or one or more additional separate voting groups, is required by the articles of organization, pursuant to subsection (a) of section 7.27, by the bylaws, pursuant to section 10.21, or by the board of directors, acting pursuant to clause (3) of this section, or (ii) the articles provide for a lesser percentage vote, in accordance with subsection (b) of section 7.27, approval of the plan of merger or share exchange requires approval by two-thirds of all the shares entitled generally to vote on the matter by the articles of organization, and in addition two-thirds of the shares in any voting group entitled to vote separately on the matter by this chapter, by the articles, by the bylaws, or by action of the board of directors pursuant to subsection (c) of section 11.04.
+        </section>
+        <section prefix="6">
+    	     Except as otherwise expressly provided in the article of organization, voting by a class or series of shares as a separate voting group is required on a plan of merger or share exchange if the plan contains a provision that, if contained in a proposed amendment to articles of organization, would entitle such class or series to vote as a separate voting group on the proposed amendment under section 10.04; provided however, that (i) receipt of shares of a class or series of shares in exchange for shares pursuant to a plan of merger or share exchange involving each outstanding class and series shall not, in and of itself, entitle holders of the exchanged class or series to vote as a separate voting group, and (ii) if the proposed provision would, as an amendment, entitle two or more classes or series of shares to vote separately but would affect those classes or series in the same or a substantially similar way, the shares of all such classes or series shall, unless the articles of organization provide otherwise, vote together as a single voting group on the plan.
+        </section>
+        <section prefix="7">
+    	     Unless the articles of organization otherwise provide, approval by the corporation’s shareholders of a plan of merger or share exchange is not required if:
+        </section>
+        <section prefix="i">
+    	     the corporation will survive the merger or is the acquiring corporation in a share exchange;
+        </section>
+        <section prefix="ii">
+    	     except for amendments permitted by section 10.05, its articles of organization will not be changed;
+        </section>
+        <section prefix="iii">
+    	     each shareholder of the corporation whose shares were outstanding immediately before the effective date of the merger or share exchange will hold the same number of shares, with identical preferences, limitations, and relative rights, immediately after the effective date of change; and
+        </section>
+        <section prefix="iv">
+    	     the shares of any class or series of stock of such corporation to be issued or delivered pursuant to the plan of merger does not exceed 20 per cent of the shares of such corporation of the same class or series outstanding immediately before the effective date of the merger.
+        </section>
+        <section prefix="8">
+    	     If as a result of a merger or share exchange 1 or more shareholders of a domestic corporation would become subject to owner liability for the obligations or liabilities of any other person or entity, approval of the plan of merger shall require the execution, by each such shareholder, of a separate written consent to become subject to such owner liability.
+        </section>
+    </text>
+</law>

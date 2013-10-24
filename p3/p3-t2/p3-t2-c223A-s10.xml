@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Taking Depositions Outside Commonwealth; Issuance Of Commissions Or Letters Rogatory</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     A deposition to obtain testimony or documents or other things in an action pending in this commonwealth may be taken outside this commonwealth:
+        </section>
+        <section prefix="1">
+    	     On reasonable notice in writing to all parties, setting forth the time and place for taking the deposition, the name and address of each person to be examined, if known, and if not known, a general description sufficient to identify him or the particular class or group to which he belongs and the name or descriptive title of the person before whom the deposition will be taken. The deposition may be taken before a person authorized to administer oaths in the place in which the deposition is taken by the law thereof or by the law of this commonwealth or the United States.
+        </section>
+        <section prefix="2">
+    	     Before a person commissioned by the court. The person so commissioned shall have the power by virtue of his commission to administer any necessary oath.
+        </section>
+        <section prefix="3">
+    	     Pursuant to a letter rogatory issued by the court. A letter rogatory may be addressed “To the Appropriate Authority in (here name the state or country).”
+        </section>
+        <section prefix="4">
+    	     In any manner before any person, at any time or place, or upon any notice stipulated by the parties. A person designated by the stipulation shall have the power by virtue of his designation to administer any necessary oath.
+        </section>
+        <section prefix="b">
+    	     A commission or a letter rogatory shall be issued after notice and application to the court, and on terms that are just and appropriate. It shall not be requisite to the issuance of a commission or a letter rogatory that the taking of the deposition in any other manner is impracticable or inconvenient, and both a commission and a letter rogatory may be issued in proper cases. Evidence obtained in a foreign country in response to a letter rogatory need not be excluded merely for the reason that it is not a verbatim transcript or that the testimony was not taken under oath or for any similar departure from the requirements for depositions taken within this commonwealth.
+        </section>
+    </text>
+</law>

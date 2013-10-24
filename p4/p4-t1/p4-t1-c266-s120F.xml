@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="266" order_by="266" level="3">Crimes Against Property</unit>
+    </structure>
+    <section_number>120F</section_number>
+    <catch_line>Unauthorized Access To Computer System; Penalties</catch_line>
+    <order_by>120F</order_by>
+    <text>
+        Whoever, without authorization, knowingly accesses a computer system by any means, or after gaining access to a computer system by any means knows that such access is not authorized and fails to terminate such access, shall be punished by imprisonment in the house of correction for not more than thirty days or by a fine of not more than one thousand dollars, or both. 
+The requirement of a password or other authentication to gain access shall constitute notice that access is limited to authorized users.
+    </text>
+</law>

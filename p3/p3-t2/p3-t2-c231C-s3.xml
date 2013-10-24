@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231C" order_by="231C" level="3">Structured Settlement Contracts</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Waiver Of Secs. 2 To 4; Payee Penalty For Failure To Transfer</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The provisions of sections 2 to 4, inclusive, shall not be waived.
+        </section>
+        <section prefix="b">
+    	     No payee who proposes to make a transfer of structured settlement payment rights shall incur a penalty, forfeit an application fee or other payment, or otherwise incur any liability to the proposed transferee based on the failure of the transfer to satisfy the conditions of section 2.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>14A</section_number>
+    <catch_line>Employee Leasing Companies</catch_line>
+    <order_by>14A</order_by>
+    <text>
+        <section prefix="1">
+    	     As used in this section, the following words shall have the following meanings:—
+        </section>
+        <section prefix="a">
+    	     “Client company”, a person, association, partnership, corporation or other entity that utilizes workers provided by an employee leasing company pursuant to a contract.
+        </section>
+        <section prefix="b">
+    	     “Commissioner”, the commissioner of insurance.
+        </section>
+        <section prefix="c">
+    	     “Employee leasing company”, a sole proprietorship, partnership, corporation or other form of business entity whose business consists largely of leasing employees to one or more client companies under contractual arrangements that retain for such employee leasing companies a substantial portion of personnel management functions, such as payroll, direction and control of workers, and the right to hire and fire workers provided by the employee leasing company; provided, however, that the leasing arrangement is long term and not an arrangement to provide the client company temporary help services during seasonal or unusual conditions.
+        </section>
+        <section prefix="2">
+    	     The commissioner may establish by regulation the circumstances and conditions, if any, under which any employee leasing company may be the policyholder of a workers’ compensation insurance policy providing coverage to employees leased to client companies, and the manner and method of determining the appropriate premiums of client companies and employee leasing companies.
+        </section>
+        <section prefix="3">
+    	     An employee leasing company that does not meet the requirements of this section shall be subject to the provisions of section twenty-five C and where applicable, section fourteen.
+        </section>
+    </text>
+</law>

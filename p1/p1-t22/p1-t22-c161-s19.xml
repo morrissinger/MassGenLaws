@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Stock Certificates</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Each stockholder shall be entitled to a certificate which shall be signed by the president and by the treasurer of the company, or by such other officers as may be authorized by the by-laws, shall be sealed with its seal, and shall certify the number of shares owned by him in such company.
+    </text>
+</law>

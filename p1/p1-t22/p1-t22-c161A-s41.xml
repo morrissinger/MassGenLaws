@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161A" order_by="161A" level="3">Massachusetts Bay Transportation Authority</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Electric Utility Business; Public Interest Factors</catch_line>
+    <order_by>41</order_by>
+    <text>
+        <section prefix="a">
+    	     to purchase electric power and energy, including, without limiting the generality of the foregoing, all or a portion of the capacity and output of one or more specific electric power facilities, and steam whether or not produced by an electric power facility;
+        </section>
+        <section prefix="b">
+    	     to purchase electric power and energy and other products of electric power facilities from other utilities, public and private, within and without the commonwealth, political subdivisions; provided, however, that nothing in this section shall be construed to authorize resale of electric power and energy so purchased except as otherwise authorized by law;
+        </section>
+        <section prefix="c">
+    	     to contract for the use of transmission and distribution facilities owned by others for the delivery to the authority, and any such owner is hereby authorized to enter into such contracts with the corporation;
+        </section>
+        <section prefix="d">
+    	     to contract with respect to the purchase, sale, delivery, exchange, interchange, wheeling, pooling, transmission or use of electric power and energy and to otherwise participate in the New England power pool, as defined by section 1 of chapter 164A; and
+        </section>
+        <section prefix="e">
+    	     to do all things necessary, convenient or desirable to carry out the purposes of providing electricity in connection with the mass movement of persons or powers expressly granted or necessarily implied in this chapter.
+        </section>
+    </text>
+</law>

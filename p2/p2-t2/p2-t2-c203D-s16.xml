@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Insurance Policies And Similar Contracts</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in subsection (b), a trustee shall allocate to principal the proceeds of a life insurance policy or other contract in which the trust or its trustee is named as beneficiary, including a contract that insures the trust or its trustee against loss for damage to, destruction of or loss of title to a trust asset. The trustee shall allocate dividends on an insurance policy to income if the premiums on the policy are paid from income and to principal if the premiums are paid from principal.
+        </section>
+        <section prefix="b">
+    	     A trustee shall allocate to income proceeds of a contract that insures the trustee against loss of occupancy or other use by an income beneficiary, loss of income, or, subject to section 12, loss of profits from a business.
+        </section>
+        <section prefix="c">
+    	     This section shall not apply to a contract to which section 18 applies.
+        </section>
+    </text>
+</law>

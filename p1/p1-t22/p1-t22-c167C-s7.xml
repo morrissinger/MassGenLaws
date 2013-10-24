@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167C" order_by="167C" level="3">Bank Locations</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Branch De Novo In Foreign State Or Country</catch_line>
+    <order_by>7</order_by>
+    <text>
+        A bank, with the approval of and under conditions imposed by the commissioner, may establish a branch de novo in a state of the United States other than the commonwealth or in a foreign country in accordance with the laws of the state or foreign country, and may exercise the powers at the branch de novo as are permitted to banks existing by the authority of the jurisdiction in which the branch is located, unless the commissioner determines that the exercise of the powers is unsafe or unsound.
+    </text>
+</law>

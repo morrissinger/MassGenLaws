@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151" order_by="151" level="3">Minimum Fair Wages</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Wage Rate Less Than Fair Wage; Mailing And Posting Wage Rate And Regulations</catch_line>
+    <order_by>10</order_by>
+    <text>
+        After the commissioner has established a fair wage in any occupation in accordance with sections seven and nine, it shall be unlawful for any employer in such occupation to employ persons for less than such rate of wages. The commissioner shall send by mail so far as is practicable to each employer in the occupation in question a copy of the wage rate and related regulations and each employer shall be required to post a copy of said wages and regulations in each room in which persons affected by such wages and regulations are employed.
+    </text>
+</law>

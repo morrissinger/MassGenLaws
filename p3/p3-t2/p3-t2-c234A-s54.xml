@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234A" order_by="234A" level="3">Office Of Jury Commissioner For The Commonwealth</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Payment Of Grand Juror By Commonwealth</catch_line>
+    <order_by>54</order_by>
+    <text>
+        Each grand juror who serves more than three days shall be paid by the commonwealth for the fourth day of service and each day of service thereafter at the daily compensation rate for the particular grand juror determined under the section fifty-three.
+    </text>
+</law>

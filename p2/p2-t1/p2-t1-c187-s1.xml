@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="187" order_by="187" level="3">Easements</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Right To Light And Air</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Whoever erects a house or other building with windows overlooking the land of another shall not, by the mere continuance of such windows, acquire an easement of light or air so as to prevent the erection of a building on such land.
+    </text>
+</law>

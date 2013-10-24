@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>24F</section_number>
+    <catch_line>Duty To Exchange Information With Department Of Revenue; Definitions;  Penalties For Failure To Exchange Information; Exceptions   </catch_line>
+    <order_by>24F</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to the requirements of sections 24D and 24E, which shall take precedence over this section, before making any nonrecurring payment equal to or in excess of $500 to a claimant under a contract of insurance, every company authorized to issue policies of insurance pursuant to this chapter shall exchange information with the department of revenue to ascertain whether that claimant owes taxes to the commonwealth. The company shall either provide the department of revenue with information about the claimant or examine information made available by the department of revenue and updated not more than once a month. If the company elects to provide the department of revenue with information about a claimant, the company shall provide, not less than 10 business days before making payment to the claimant, the claimant’s name, address, date of birth and social security number as appearing in the company’s files and other information appearing in the company’s files as the commissioner of revenue, in consultation with the commissioner of insurance, may require by regulation. The company shall use a method and format prescribed by the commissioner of revenue but if the company is unable to use a method and format prescribed by the commissioner, the company shall cooperate with the department of revenue to identify another method or format, including submission of written materials. If the company elects to examine information made available by the department of revenue and the claimant owes taxes to the commonwealth, the company shall notify the department of revenue, not less than 10 business days before making payment to the claimant, of the claimant’s name, address, date of birth and social security number as appearing in the company’s files and other information appearing in the company’s files as the commissioner of revenue, in consultation with the commissioner of insurance, may require by regulation, using a method and format prescribed by the commissioner of revenue. The insurer may remit to the department of revenue the full amount of taxes owed to the commonwealth at the time it so notifies the department of revenue or at any time before making payment to the claimant, without regard to the 10-day business period. A company shall not share information with the department of revenue if doing so would require the companies to violate the claimant’s right to privacy under state or federal law.
+        </section>
+        <section prefix="b">
+    	     This section shall not apply to that portion of a claim resulting in payments on behalf of the claimant issued to a third party where there is documentation showing that the third party has provided or agreed to provide the claimant with a benefit or service related to the claim including, but not limited to, the services of an attorney or a medical doctor, or to any portion of a claim based on damage to or a loss of real property. The commissioner of revenue, in consultation with the commissioner of insurance, shall promulgate regulations setting forth procedures for making payment to the department of revenue when a third party has either provided or agreed to provide goods or services to the claimant, and the insurance company cannot reasonably determine the remaining amount payable to the claimant.
+        </section>
+        <section prefix="c">
+    	     An individual making a claim governed by this section shall provide his current address, date of birth and social security number to the insurance company, upon the request of the company. The company may inform the claimant that the request is being made in accordance with this section for the purpose of assisting the department of revenue in collecting taxes owed to the commonwealth. An individual who refuses to provide the information required by this section shall not receive payment on the claim, and the company that declines payment on this basis shall be exempt from suit and immune from liability under this chapter or any other chapter or in any common law action in law or equity.
+        </section>
+        <section prefix="d">
+    	     Pursuant to regulations issued by the commissioner of revenue in consultation with the commissioner of insurance, a company that knowingly fails to accurately exchange information regarding a claim to which this section applies shall be subject to a penalty assessed by the department of revenue. A company that makes a payment to the department of revenue pursuant to this section and an insured individual on whose behalf the company makes a payment shall be immune from any obligation or liability to the claimant or other interested party arising from the payment, notwithstanding the provisions of this chapter or any other law.
+        </section>
+        <section prefix="e">
+    	     Information provided by the department of revenue to a company under this section may only be used for the purpose of assisting the department in collecting taxes owed to the commonwealth. An individual or company who uses the information for any other purpose shall be liable in a civil action to both the department of revenue and the claimant in the amount of $1,000 each, for each violation.
+        </section>
+        <section prefix="f">
+    	     In the event of a state of emergency declared by the governor or the president of the United States, the commissioner of insurance may temporarily suspend the application of this section to claims made due to the conditions resulting in the state of emergency.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="212" order_by="212" level="3">The Superior Court</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Affirmation Of Judgment On Non Entry Of Appeal</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If, upon an appeal in a civil action authorized by law, the appellant fails to enter and prosecute his appeal, the court may, upon complaint of the appellee, affirm the former judgment or render such other judgment as law and justice require.
+    </text>
+</law>

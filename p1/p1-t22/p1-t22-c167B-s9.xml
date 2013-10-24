@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Documentation Of Transfers; Contents; Notice; Periodic Statements</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     For each electronic fund transfer initiated by a consumer from an electronic branch or point-of-sale terminal, the financial institution holding such consumer’s account shall, directly or indirectly at the time the transfer is initiated, make available to the consumer written documentation of such transfer. The documentation shall clearly set forth to the extent applicable:
+        </section>
+        <section prefix="1">
+    	     the amount involved and the calendar date the transfer is initiated;
+        </section>
+        <section prefix="2">
+    	     the type of transfer and the type of the consumer’s account or accounts with the financial institution from which or to which funds are transferred;
+        </section>
+        <section prefix="3">
+    	     a number or code that uniquely identifies the consumer initiating the transfer, the consumer’s account or accounts, or the access device used to initiate the transfer;
+        </section>
+        <section prefix="4">
+    	     the identity of any third party to whom or from whom funds are transferred;
+        </section>
+        <section prefix="5">
+    	     the location or identification of the electronic branch or point-of-sale terminal involved; and
+        </section>
+        <section prefix="6">
+    	     a transfer identification number which provides a permanent audit trail.
+        </section>
+        <section prefix="b">
+    	     Where a consumer’s account is scheduled to be credited by a preauthorized electronic fund transfer from the same payor at least once every sixty days, except where the payor provides positive notice of the transfer to the consumer, the financial institution shall provide notice by one of the following means:
+        </section>
+        <section prefix="1">
+    	     the institution shall transmit oral or written notice to the consumer, within two business days after the transfer, that the transfer occurred;
+        </section>
+        <section prefix="2">
+    	     the institution shall transmit oral or written notice to the consumer, within two business days after the date on which the transfer was scheduled to occur, that the transfer did not occur; or
+        </section>
+        <section prefix="3">
+    	     the institution shall provide a readily available telephone line that the consumer may call to ascertain whether or not a transfer occurred and shall disclose the telephone number on the initial disclosures required by section eight and on each periodic statement.
+        </section>
+        <section prefix="c">
+    	     A financial institution shall provide each consumer with a periodic statement for each account of such consumer that may be accessed by means of an electronic fund transfer; provided, however, that if two or more consumers hold a joint account from or to which electronic fund transfers can be made, the financial institution need provide only one set of disclosures for each account. Except as provided in subsection (d) or (e), such statement shall be provided at least monthly for each monthly or shorter cycle in which an electronic fund transfer affecting the account as occurred, or every three months, whichever is more frequent. The statement, which may include information regarding transactions other than electronic fund transfers, shall clearly set forth in meaningful sequence:
+        </section>
+        <section prefix="1">
+    	     with regard to each electronic fund transfer during the period, the information described in clauses (1) to (5), inclusive, of subsection (a), which may be provided on an accompanying document, except that in lieu of the date the transfer was initiated the statement may include the date on which the transfer was debited or credited to the consumer’s account.
+        </section>
+        <section prefix="2">
+    	     the amount of any fee or charge assessed by the financial institution during the period for electronic fund transfers or for account maintenance;
+        </section>
+        <section prefix="3">
+    	     the balances in the consumer’s account at the beginning of the period and at the close of the period; and
+        </section>
+        <section prefix="4">
+    	     the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Such address and telephone number shall be preceded by the caption “Direct Inquiries To:’ or other similar language indicating that the address and number are to be used for such inquiries or notices.
+        </section>
+        <section prefix="d">
+    	     In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c), upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
+        </section>
+        <section prefix="e">
+    	     In the case of a consumer’s account other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c).
+        </section>
+        <section prefix="f">
+    	     In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
+        </section>
+        <section prefix="g">
+    	     If a financial institution discloses to a person other than the consumer or any other person who is a party to the transaction information regarding an electronic fund transfer beyond that necessary to effect the transfer or to prepare a periodic statement, within ten business days the financial institution shall mail or deliver to the consumer a written notice including the following information:
+        </section>
+        <section prefix="1">
+    	     the nature of the information disclosed;
+        </section>
+        <section prefix="2">
+    	     the name of the person to whom the information was disclosed; and
+        </section>
+        <section prefix="3">
+    	     the authorization, if any, for the disclosure.
+        </section>
+    </text>
+</law>

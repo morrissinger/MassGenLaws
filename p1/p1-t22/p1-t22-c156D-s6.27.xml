@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.27</section_number>
+    <catch_line>Restriction On Transfer Of Shares And Other Securities</catch_line>
+    <order_by>6.27</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization, bylaws, an agreement among shareholders or an agreement between shareholders and the corporation may impose restrictions on the transfer or registration of transfer of shares of the corporation. A restriction shall not affect shares issued before the restriction was adopted unless the holders of the shares are parties to the restriction agreement or voted in favor of the restriction, or unless the restriction is set forth in an amendment to the articles of organization or bylaws approved by the holders of that percentage of each voting group of the outstanding shares required for the approval of an amendment of the articles of organization containing the restriction.
+        </section>
+        <section prefix="b">
+    	     A restriction on the transfer or registration of transfer of shares is valid and enforceable against the holder or a transferee of the holder if the restriction is authorized by this section and its existence is noted conspicuously on the front or back of the certificate or is contained in the information statement required by subsection (b) of section 6.26. Unless so noted, a restriction is not enforceable against a person without knowledge of the restriction.
+        </section>
+        <section prefix="c">
+    	     A restriction on the transfer or registration of transfer of shares is authorized:
+        </section>
+        <section prefix="1">
+    	     to maintain the corporation’s status when it is dependent on the number or identity of its shareholders;
+        </section>
+        <section prefix="2">
+    	     to preserve exemptions under federal or state securities law;
+        </section>
+        <section prefix="3">
+    	     for any other reasonable purpose.
+        </section>
+        <section prefix="d">
+    	     A restriction on the transfer or registration of transfer of shares may, without limitation:
+        </section>
+        <section prefix="1">
+    	     obligate the shareholder first to offer the corporation or other persons, separately, consecutively, or simultaneously, an opportunity to acquire the restricted shares;
+        </section>
+        <section prefix="2">
+    	     obligate the corporation or other persons, separately, consecutively, or simultaneously, to acquire the restricted shares;
+        </section>
+        <section prefix="3">
+    	     require the corporation, the holders of any class of its shares, or another person to approve the transfer of the restricted shares, if the requirement is not manifestly unreasonable;
+        </section>
+        <section prefix="4">
+    	     prohibit the transfer of the restricted shares to designated persons or classes of persons, if the prohibition is not manifestly unreasonable.
+        </section>
+        <section prefix="e">
+    	     For purposes of this section, “shares” includes a security convertible into or carrying a right to subscribe for or acquire shares.
+        </section>
+    </text>
+</law>

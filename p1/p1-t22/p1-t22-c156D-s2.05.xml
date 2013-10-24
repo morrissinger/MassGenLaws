@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>2.05</section_number>
+    <catch_line>Organization Of Corporation</catch_line>
+    <order_by>2.05</order_by>
+    <text>
+        <section prefix="a">
+    	     The organization of the corporation shall be completed as follows:
+        </section>
+        <section prefix="1">
+    	     The incorporator or incorporators may hold an organizational meeting before or after incorporation at the call of a majority of the incorporators at which by-laws shall be adopted and the initial directors, a president, treasurer and secretary, shall be elected.
+        </section>
+        <section prefix="2">
+    	     If no organizational meeting of the incorporators is held, the initial directors named in the articles of organization shall hold an organizational meeting after incorporation at the call of a majority of the directors at which by-laws shall be adopted and a president, treasurer and secretary shall be elected.
+        </section>
+        <section prefix="3">
+    	     At the organization meeting of the incorporators or the directors, additional officers may be appointed and any other business may be transacted which is properly brought before the meeting.
+        </section>
+        <section prefix="b">
+    	     Action required or permitted by this chapter to be taken by incorporators at an organizational meeting may be taken without a meeting if the action taken is evidenced by one or more written consents describing the action taken and signed by each incorporator.
+        </section>
+        <section prefix="c">
+    	     An organizational meeting may be held within and without the commonwealth.
+        </section>
+    </text>
+</law>

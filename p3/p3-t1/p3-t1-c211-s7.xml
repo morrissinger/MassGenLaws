@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Questions Of Law; Argument; Order</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Unless the court for cause shown directs otherwise, questions of law in criminal cases which are entered upon the docket of the full court shall be argued in their order and before any civil cases are argued, and thereafter questions of law in civil cases which are entered upon said docket shall, when reached, be argued in their order if either party is ready. But no party shall be compelled to be ready for argument within ten days after the question has been duly reserved of record in the court in which the case is pending.
+    </text>
+</law>

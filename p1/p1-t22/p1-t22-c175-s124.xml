@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>124</section_number>
+    <catch_line>Statements Concerning Age Or Health; Binding Effect On Company</catch_line>
+    <order_by>124</order_by>
+    <text>
+        In any claim arising under a policy issued in the commonwealth by any life company, without previous medical examination, or without the knowledge and consent of the insured, or, if said insured is a minor, without the consent of the parent, guardian or other person having legal custody of said minor, the statements made in the application as to the age, physical condition and family history of the insured shall be held to be valid and binding on the company; but the company shall not be debarred from proving as a defense to such claim that said statements were wilfully false, fraudulent or misleading.
+    </text>
+</law>

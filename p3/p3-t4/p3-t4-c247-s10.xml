@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="247" order_by="247" level="3">Replevin</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Damages; Assessment; Rate</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If the goods when replevied had been taken on execution, or if they had been attached and judgment is afterward rendered for the attaching creditor, and if in either case the service of the execution is delayed by reason of the replevin, the damages to be assessed for the defendant upon a judgment for a return shall be at the rate of not less than twelve per cent a year on the value of the goods for the time during which the service of the execution was so delayed.
+    </text>
+</law>

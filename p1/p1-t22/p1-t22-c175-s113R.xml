@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>113R</section_number>
+    <catch_line>Interest On Refunds Of Overpayments   </catch_line>
+    <order_by>113R</order_by>
+    <text>
+        Every insurer offering motor vehicle liability insurance and related coverages shall pay interest on refunds of overpayments to those insured paying premiums in full based on an estimated premium. Such interest shall include interest in the amount charged policyholders for overdue payments.
+    </text>
+</law>

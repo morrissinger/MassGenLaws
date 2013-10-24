@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>22I</section_number>
+    <catch_line>Amounts Received In Settlement Of Claims Retained For Unpaid  Premiums   </catch_line>
+    <order_by>22I</order_by>
+    <text>
+        Any insurance company, broker or agent may retain an amount equal to any unpaid premium due on the policy under which a claim is being presented, when settling any such claim for an insured; provided, however, that the unpaid premium remains unpaid sixty days after the effective day of such policy or the date of the original billing thereof, whichever later occurs; provided further, that such unpaid premium shall be retained as against any loss payee or mortgagee named in said policy up to the amount of the unpaid balance owed to such loss payee or mortgagee on the date the loss occurred which gave rise to said claim until the premium payment is made to said insurance company, broker, or agent by the insured, loss payee or mortgagee; and provided, further, that this section shall not be applicable to a health insurance policy.
+    </text>
+</law>

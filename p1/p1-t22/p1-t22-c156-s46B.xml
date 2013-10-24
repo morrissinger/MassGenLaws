@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>46B</section_number>
+    <catch_line>Corporations Authorized To Consolidate; Method</catch_line>
+    <order_by>46B</order_by>
+    <text>
+        <section prefix="b">
+    	     The location of the principal office of the consolidated corporation in the commonwealth, or elsewhere in the case of a corporation formed to do business wholly outside the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The purposes for which the consolidated corporation is formed and the nature of the business to be transacted, and, if formed for the purposes mentioned in section seven, a statement limiting the term of said consolidated corporation to fifty years.
+        </section>
+        <section prefix="d">
+    	     The total amount of capital stock of the corporation to be authorized and the number of shares into which the capital stock is to be divided, and the par value of the shares, which shall not be less than one dollar, and the number of shares without par value to be authorized.
+        </section>
+        <section prefix="e">
+    	     The restrictions, if any, imposed upon the transfer of shares.
+        </section>
+        <section prefix="f">
+    	     If there are two or more classes of stock, a description of the different classes and a statement of the terms on which they are to be created and the method of voting thereon.
+        </section>
+        <section prefix="g">
+    	     Any other lawful provisions for the conduct and regulation of the business of the consolidated corporation, for its voluntary dissolution, or for limiting, defining or regulating the powers of the consolidated corporation, or of its directors, or stockholders, or of any class of stockholders.
+        </section>
+    </text>
+</law>

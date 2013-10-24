@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="6" order_by="6" level="2">Costs And Fees</unit>
+        <unit label="chapter" identifier="261" order_by="261" level="3">Costs In Civil Actions</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Attorney General; Travel Costs</catch_line>
+    <order_by>17</order_by>
+    <text>
+        If costs are taxed for the commonwealth, no fees shall be taxed or allowed for the travel of the attorney general or any attorney for the commonwealth.
+    </text>
+</law>

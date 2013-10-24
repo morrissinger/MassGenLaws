@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176M" order_by="176M" level="3">Nongroup Health Insurance</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Guaranteed Issue Health Plans; Premiums</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Premiums charged to eligible individuals for guaranteed issue health plans issued or renewed after August fifteenth, nineteen hundred and ninety-six, shall satisfy the requirements of this section.
+        </section>
+        <section prefix="1">
+    	     Each carrier shall establish a base premium rate for each rate basis type within each guaranteed issue health plan it offers. The premium charged to any eligible purchaser shall be limited to the base premium rate multiplied by the factors specified in paragraphs (2), (3) and (4).
+        </section>
+        <section prefix="2">
+    	     A carrier may establish a premium rate adjustment based upon the age of an insured individual. Such an adjustment shall be known as the age rate adjustment. A carrier may establish an age rate adjustment, the value of which may range from 0.67 to 1.33. If a carrier chooses to establish age rate adjustments, the premium charged to every individual enrolled in a guaranteed issue health plan shall be subject to the applicable age rate adjustment.
+        </section>
+        <section prefix="3">
+    	     The commissioner shall annually establish not fewer than five distinct regions of the state for the purpose of area rate adjustments. A carrier may establish an area rate adjustment for each different region, the value of which shall range from 0.8 to 1.2. If a carrier chooses to establish area rate adjustments, the premium charged for a guaranteed issue health plan to each eligible individual who resides within each geographic area shall be subject to the applicable area rate adjustment.
+        </section>
+        <section prefix="4">
+    	     A carrier may establish a benefit level rate adjustment for each type of approved alternative guaranteed issue health plan. The benefit level rate adjustment shall be expressed as a number and shall only represent the actuarial value of the benefit level of the alternative guaranteed issue health plan authorized by subsection (d) of section 2 as compared to the actuarial value of the benefit level of the standard guaranteed issue health plan authorized by subsection (c) of section 2, assuming no difference in expected cost and utilization for those in the standard guaranteed issue health plans as compared to those in the alternative guaranteed issue health plans, as certified in an actuarial opinion and memorandum signed by a member of the American Academy of Actuaries, which includes sufficient documentation to support the benefit level rate adjustment. The benefit level rate adjustment may not reflect the nature of the actual populations covered by the guaranteed issue health plans. The premium charged to every individual enrolled in an alternative guaranteed issue health plan shall be subject to the applicable benefit level rate adjustment. There shall be no benefit level rate adjustment to a standard guaranteed issue health plan.
+        </section>
+        <section prefix="5">
+    	     The premium rate charged by a carrier to each individual on the date of the individual’s guaranteed issue health policy is issued or renewed shall be the base premium rate charged for that rate basis type, multiplied by the age rate adjustment, multiplied by the area rate adjustment, multiplied by the benefit level rate adjustment as may be applicable pursuant to this section.
+        </section>
+        <section prefix="6">
+    	     Nothing shall preclude a carrier from directly subsidizing the premium rate established pursuant to this section charged to eligible individuals who meet eligibility criteria established by the carrier, including individual or household income and asset tests, to assess economic need.
+        </section>
+    </text>
+</law>

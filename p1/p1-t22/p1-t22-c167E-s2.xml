@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167E" order_by="167E" level="3">Mortgages And Loans</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Powers</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     to discount, buy, invest in, hold, assign, transfer, sell and negotiate promissory notes, drafts, bills of exchange, mortgages, trade acceptances, banker’s acceptances, bonds, debentures, bonds or notes secured by mortgages, installment obligations, accounts receivable, balances due on conditional sales and other evidences of debt for its own account or for the account of customers;
+        </section>
+        <section prefix="2">
+    	     to advance money or credits on real estate, on improvements thereto or on personal security, on terms to be agreed upon; and
+        </section>
+        <section prefix="3">
+    	     to buy, sell or make loans as participation loans with another bank or with an insurance company and to service loans sold by it.
+        </section>
+    </text>
+</law>

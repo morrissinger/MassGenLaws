@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>243</section_number>
+    <catch_line>Quarterly Statement</catch_line>
+    <order_by>243</order_by>
+    <text>
+        Every railroad corporation shall, within fifty days after the expiration of each quarter of the year, transmit to the department a quarterly statement of its business and financial condition, in such form and with such detail as the department requires, which shall at reasonable times be open to public inspection. A railroad corporation neglecting to comply with this section shall forfeit fifty dollars for each day during which such neglect continues.
+    </text>
+</law>

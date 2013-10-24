@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>11.06</section_number>
+    <catch_line>Articles Of Merger Or Share Exchange</catch_line>
+    <order_by>11.06</order_by>
+    <text>
+        <section prefix="a">
+    	     After a plan of merger or share exchange has been adopted and approved as required by this chapter, articles of merger or share exchange shall be executed on behalf of each party to the merger or share exchange by any officer or other duly authorized representative. The articles shall set forth:
+        </section>
+        <section prefix="1">
+    	     the names of the parties to the merger or share exchange and the date on which the merger or share exchange occurred or is to be effective;
+        </section>
+        <section prefix="2">
+    	     if the articles of organization of the survivor of a merger are amended, or if a new corporation is created as a result of a merger, the amendments to the survivor’s articles of organization or the articles of organization of the new corporation;
+        </section>
+        <section prefix="3">
+    	     if the plan of merger or share exchange required approval by the shareholders of a domestic corporation that was a party to the merger or share exchange, a statement that the plan was duly approved by the shareholders and, if voting by any separate voting group was required, by each such separate voting group, in the manner required by this chapter and the articles of organization;
+        </section>
+        <section prefix="4">
+    	     if the plan of merger or share exchange did not require approval by the shareholders of a domestic corporation that was a party to the merger or share exchange, a statement to that effect; and
+        </section>
+        <section prefix="5">
+    	     as to each foreign corporation and each other entity that was a party to the merger or share exchange, a statement that the participation of the foreign corporation or other entity was duly authorized by the laws under which the corporation or other entity is organized or by which it is governed and by all action required by such laws, and by its articles of organization or other organizational documents.
+        </section>
+        <section prefix="b">
+    	     Articles of merger or share exchange shall be delivered to the secretary of state for filing by the survivor of the merger or the acquiring corporation in a share exchange and shall take effect at the effective time provided in section 1.23.
+        </section>
+        <section prefix="c">
+    	     The survivor of the merger or share exchange shall file a copy of the articles of merger or share exchange certified by the state secretary in the registry of deeds in each district within the commonwealth in which real property of any constituent corporation is situated, except that no filing need be made with respect to real property of a constituent corporation which is the survivor. The effectiveness of the merger or share exchange shall not be affected by this requirement.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.01</section_number>
+    <catch_line>Requirement For And Duties Of Board Of Directors</catch_line>
+    <order_by>8.01</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in section 7.32, each corporation shall have a board of directors.
+        </section>
+        <section prefix="b">
+    	     All corporate power shall be exercised by or under the authority of, and the business and affairs of the corporation shall be managed under the direction of, its board of directors, subject to any limitation set forth in the articles of organization or in an agreement authorized under section 7.32.
+        </section>
+    </text>
+</law>

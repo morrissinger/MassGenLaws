@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Meetings; Voting</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     The commission shall meet and take actions consistent with this compact and the by-laws.
+        </section>
+        <section prefix="2">
+    	     Each member of the commission shall have the right and power to cast a vote to which that compacting state is entitled and to participate in the business and affairs of the commission. A member shall vote in person or by other means as provided in the by-laws. The by-laws may provide for members’ participation in meetings by telephone or other means of communication.
+        </section>
+        <section prefix="3">
+    	     The commission shall meet at least once during each calendar year. Additional meetings shall be held as set forth in the by-laws.
+        </section>
+    </text>
+</law>

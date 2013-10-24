@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Inspecting Documents</catch_line>
+    <order_by>68</order_by>
+    <text>
+        Every party to any cause or proceeding may inspect and take copies of any document referred to in the pleading or particulars of any other party and relied on by such other party, unless the court is satisfied that the same is not in his possession or control or that he has some other reasonable excuse for not producing the same for such inspection, and the court may make orders for production for said purposes, enforceable in like manner as orders to answer interrogatories.
+    </text>
+</law>

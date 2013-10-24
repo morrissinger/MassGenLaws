@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Liability Of Financial Institution To Consumer</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by:
+        </section>
+        <section prefix="1">
+    	     the financial institution’s failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where:
+        </section>
+        <section prefix="A">
+    	     the consumer’s account has insufficient funds;
+        </section>
+        <section prefix="B">
+    	     the funds are subject to legal process or other encumbrance restricting such transfer;
+        </section>
+        <section prefix="C">
+    	     such transfer would exceed an established credit limit; or
+        </section>
+        <section prefix="D">
+    	     an electronic branch has insufficient cash to complete the transaction,
+        </section>
+        <section prefix="2">
+    	     the financial institution’s failure to make an electronic fund transfer due to insufficient funds when the financial institution failed to credit, in accordance with the terms and conditions of an account, a deposit of funds to the consumer’s account which would have provided sufficient funds to make the transfer, and
+        </section>
+        <section prefix="3">
+    	     the financial institution’s failure to stop payment of a preauthorized transfer from a consumer’s account when instructed to do so in accordance with the terms and conditions of the account.
+        </section>
+        <section prefix="b">
+    	     A financial institution shall not be liable under clauses (1) and (2) of subsection (a) if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
+        </section>
+        <section prefix="1">
+    	     an act of God or other circumstance beyond its control, that it exercised reasonable care to prevent such an occurrence, and that it exercised such diligence as the circumstances required; or
+        </section>
+        <section prefix="2">
+    	     a technical malfunction which was known to the consumer at the time he attempted to initiate an electronic fund transfer or, in the case of a preauthorized transfer, at the time such transfer should have occurred.
+        </section>
+        <section prefix="c">
+    	     In the case of a failure described in subsection (a) which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
+        </section>
+    </text>
+</law>

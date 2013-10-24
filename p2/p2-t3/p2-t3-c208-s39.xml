@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Foreign Divorces; Validity</catch_line>
+    <order_by>39</order_by>
+    <text>
+        A divorce adjudged in another jurisdiction according to the laws thereof by a court having jurisdiction of the cause and of both the parties shall be valid and effectual in this commonwealth; but if an inhabitant of this commonwealth goes into another jurisdiction to obtain a divorce for a cause occurring here while the parties resided here, or for a cause which would not authorize a divorce by the laws of this commonwealth, a divorce so obtained shall be of no force or effect in this commonwealth.
+    </text>
+</law>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>By Laws</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The name of the corporation.
+        </section>
+        <section prefix="b">
+    	     The purposes for which it is formed.
+        </section>
+        <section prefix="c">
+    	     The condition of residence, occupation or association which qualify persons for membership.
+        </section>
+        <section prefix="d">
+    	     The conditions on which shares may be paid in, transferred and withdrawn.
+        </section>
+        <section prefix="e">
+    	     The conditions on which deposits may be received and withdrawn.
+        </section>
+        <section prefix="f">
+    	     The method of receipting for money paid on account of shares or deposits or repaid on loans.
+        </section>
+        <section prefix="g">
+    	     The number of directors and the number of years for each term.
+        </section>
+        <section prefix="h">
+    	     The number of members of the credit committee.
+        </section>
+        <section prefix="i">
+    	     The time of holding regular meetings of the board of directors, the credit committee and the auditing committee.
+        </section>
+        <section prefix="j">
+    	     The duties of the several officers.
+        </section>
+        <section prefix="k">
+    	     The entrance fees, if any, to be charged.
+        </section>
+        <section prefix="l">
+    	     The fines, if any, to be charged for failure to meet obligations to the corporation punctually.
+        </section>
+        <section prefix="m">
+    	     The date of the annual meeting.
+        </section>
+        <section prefix="n">
+    	     The manner in which members shall be notified of the annual meeting and special meetings.
+        </section>
+        <section prefix="o">
+    	     The number of members who shall constitute a quorum at all meetings.
+        </section>
+        <section prefix="p">
+    	     Such other policies as may be deemed to be necessary.
+        </section>
+    </text>
+</law>

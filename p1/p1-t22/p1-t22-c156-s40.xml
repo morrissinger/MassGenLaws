@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Apportionment Of Assessment</catch_line>
+    <order_by>40</order_by>
+    <text>
+        Such sums as may be decreed to be paid by the stockholders in such suit shall be assessed upon them in the proportions fixed in section thirty-five with respect to claims for contribution; but a stockholder shall not be liable to pay a larger amount than the amount of stock held by him at the time when his liability accrued, shares of stock with par value to be computed for this purpose at their par value as fixed at that time and shares without par value to be computed at the value, at the time of issue, of the cash, property, services or expenses for which they were issued, but not including paid-in surplus.
+    </text>
+</law>

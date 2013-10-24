@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Stockholders’ Liability For Issued Stock</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Shares of stock issued in accordance with section twenty-one shall, except for unpaid instalments on instalment stock issued pursuant to section nineteen, be fully paid stock and not liable to any further call or assessment thereon.
+    </text>
+</law>

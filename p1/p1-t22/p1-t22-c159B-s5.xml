@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159B" order_by="159B" level="3">Carriers Of Property By Motor Vehicle</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Brokers; License; Fees For Services; Rules And Regulations; Filing Of Tariffs</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall for compensation sell or offer for sale transportation subject to this chapter, and no person shall make any contract, agreement or arrangement to provide, procure, furnish or arrange for such transportation or hold himself out by advertisement, solicitation or otherwise as one who sells, provides, procures, contracts or arranges for such transportation, unless such person holds a broker’s license issued by the department authorizing him to engage in such transactions; provided, that no such person shall engage in transportation subject to this chapter unless he holds a certificate or permit as provided therein. In the execution of any contract, agreement or arrangement to sell, provide, procure, furnish or arrange for such transportation, no broker shall employ any motor carrier who is not the holder of a certificate or permit under which he may lawfully undertake the transportation in question. This paragraph shall not apply to any motor carrier holding a certificate or a permit or to any bona fide employee or agent of such motor carrier, so far as concerns transportation to be furnished wholly by such carrier, or jointly with other motor carriers holding like certificates or permits, or with a common carrier by railroad, express or water.
+        </section>
+        <section prefix="b">
+    	     A broker’s license shall be issued to any qualified applicant therefor, authorizing the whole or any part of the operations covered by the application, if it is found that the applicant is fit, willing and able properly to perform the service proposed and to conform to this chapter and the lawful requirements, orders, rules and regulations of the department thereunder, and that the proposed service, to the extent authorized by the license, is or will be consistent with the public interest and the policy declared in this chapter; otherwise, such application shall be denied. Each application for such a license shall be made in the same manner as is provided in paragraph (a) of section three for applications for certificates, and shall be accompanied by a fee, the amount of which shall be determined annually by the commissioner of administration under the provision of section three B of chapter seven for the filing thereof.
+        </section>
+        <section prefix="c">
+    	     The department shall from time to time prescribe reasonable rules and regulations for the protection of shippers by motor vehicle, to be observed by all persons holding brokers’ licenses, and no such license shall be issued or remain in force unless the applicant or licensee shall have furnished a bond or other security to the commonwealth, approved by the department, in such form and amount as will insure financial responsibility and the supplying of authorized transportation in accordance with contracts, agreements or arrangements therefor.
+        </section>
+        <section prefix="d">
+    	     The department and its agents and examiners shall have the same authority as to accounts, reports and records, including inspection and preservation thereof, of any person holding a broker’s license as they have under this chapter with respect to accounts, reports and records of motor carriers subject thereto.
+        </section>
+        <section prefix="e">
+    	     All brokers licensed under this chapter shall file with the department tariffs in the same form and manner as prescribed by this chapter for common carriers by motor vehicle.
+        </section>
+        <section prefix="f">
+    	     Brokers’ licenses shall be non-transferable.
+        </section>
+    </text>
+</law>

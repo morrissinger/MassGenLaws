@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="240" order_by="240" level="3">Proceedings For Settlement Of Title To Land</unit>
+    </structure>
+    <section_number>10C</section_number>
+    <catch_line>Determination Of Restrictions; Manner</catch_line>
+    <order_by>10C</order_by>
+    <text>
+        Any determination or declaration that the restriction is or is not enforceable, or is enforceable only in a certain manner or to a certain extent or for the benefit of certain land shall be in rem and operate directly upon the subject land, and be binding upon all persons entitled to enforce the restriction thereon. If the court determines that the restriction is enforceable only by award of money damages it shall, whether or not a violation has occurred, make such award according to general rules of equity, and upon payment thereof determine that the land is free of the restriction.
+    </text>
+</law>

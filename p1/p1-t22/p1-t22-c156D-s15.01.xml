@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.01</section_number>
+    <catch_line>Authority To Transact Business Required</catch_line>
+    <order_by>15.01</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation that transacts business or has a usual place of business in the commonwealth shall deliver the certificate required by section 15.03 to the secretary of state for filing.
+        </section>
+        <section prefix="b">
+    	     The following activities, among others, do constitute transacting business within the meaning of subsection (a):
+        </section>
+        <section prefix="1">
+    	     the ownership or leasing of real estate in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     engaging in the construction, alteration or repair of any structure, railway or road; or
+        </section>
+        <section prefix="3">
+    	     engaging in any other activity requiring the performance of labor.
+        </section>
+        <section prefix="c">
+    	     The following activities, among others, without more, do not constitute transacting business within the meaning of subsection (a):
+        </section>
+        <section prefix="1">
+    	     maintaining, defending, or settling any proceeding;
+        </section>
+        <section prefix="2">
+    	     holding meetings of the board of directors or shareholders or carrying on other activities concerning internal corporate affairs;
+        </section>
+        <section prefix="3">
+    	     maintaining bank accounts;
+        </section>
+        <section prefix="4">
+    	     maintaining offices or agencies for the transfer, exchange, and registration of the corporations own securities or maintaining trustees or depositories with respect to those securities;
+        </section>
+        <section prefix="5">
+    	     selling through independent contractors;
+        </section>
+        <section prefix="6">
+    	     soliciting or obtaining orders, whether by mail or through employees or agents or otherwise, if the orders require acceptance outside the commonwealth before they become contracts;
+        </section>
+        <section prefix="9">
+    	     conducting an isolated transaction that is not one in the course of repeated transactions of a like nature;
+        </section>
+        <section prefix="10">
+    	     transacting business in interstate commerce; or
+        </section>
+        <section prefix="11">
+    	     performing activities subject to regulation under chapter 167 or chapter 175, if the foreign corporation has complied with the applicable chapter.
+        </section>
+        <section prefix="d">
+    	     The list of activities in subsections (b) and (c) is not exhaustive.
+        </section>
+    </text>
+</law>

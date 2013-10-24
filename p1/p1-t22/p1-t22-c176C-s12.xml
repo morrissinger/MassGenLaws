@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176C" order_by="176C" level="3">Non Profit Medical Service Plans</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Submission Of Disputes; Review Of Determination</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Any dispute arising between a medical service corporation and any medical organization with which such corporation has an agreement as provided by this chapter may be submitted to the department of public health for its decision with respect thereto. All decisions and findings of any state department or officer made under any provision of this chapter may be revised by proper proceedings in the superior court.
+    </text>
+</law>

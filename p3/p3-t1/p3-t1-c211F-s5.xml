@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211F" order_by="211F" level="3">Office Of Community Corrections</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Biannual Report</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     the effectiveness of the office of community corrections in promoting the goals of the commission;
+        </section>
+        <section prefix="2">
+    	     the effectiveness of the office of community corrections in diverting offenders by reducing prison commitments;
+        </section>
+        <section prefix="3">
+    	     the evaluations and recommendations submitted by the county community corrections advisory boards and by providers of community corrections programs;
+        </section>
+        <section prefix="4">
+    	     fiscal audits on the expenditure of state funds;
+        </section>
+        <section prefix="5">
+    	     allegations of provider noncompliance and the results of any investigations into such allegations.
+        </section>
+    </text>
+</law>

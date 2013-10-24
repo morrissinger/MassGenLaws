@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Dividends</catch_line>
+    <order_by>28</order_by>
+    <text>
+        The board of directors may declare from net profits cash dividends annually, semi-annually or quarterly, but not more frequently, and noncash dividends at any time. No dividends shall be declared, credited or paid so long as there is any impairment of capital stock. No trust company having outstanding preferred stock shall, except as otherwise authorized by the commissioner, declare dividends upon common stock for any period other than a period for which dividends are declared upon preferred stock. 
+The approval of said commissioner shall be required if the total of all dividends declared by a trust company in any calendar year shall exceed the total of its net profits for that year combined with its retained net profits of the preceding two years, less any required transfer to surplus or a fund for the retirement of any preferred stock. 
+For the purposes of this section, the words net profits shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all federal and state taxes.
+    </text>
+</law>

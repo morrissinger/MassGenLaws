@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>19T</section_number>
+    <catch_line>Domestic Mutual Insurance Company Reorganizing With Existing Domestic  Or Foreign Mutual Holding Company; Terms And Conditions   </catch_line>
+    <order_by>19T</order_by>
+    <text>
+        <section prefix="a">
+    	     By complying with the provisions of sections 19F to 19W, inclusive, a domestic mutual insurance company may reorganize with an existing domestic or foreign mutual holding company, in which case the plan of reorganization of the domestic mutual insurer shall provide that the domestic mutual insurer will become a domestic stock insurer, that the members of the domestic mutual insurer will become members of the mutual holding company, that the owners of policies issued by the domestic mutual insurer and in force on the effective date shall as of the effective date have equity rights in the mutual holding company, and that the mutual holding company will acquire, directly or through one or more intermediate stock holding companies, at least 51 per cent of the voting stock of the reorganized insurer.
+        </section>
+        <section prefix="b">
+    	     An existing domestic mutual holding company may, with the approval of the commissioner:
+        </section>
+        <section prefix="i">
+    	     acquire direct or indirect ownership of a converting foreign mutual insurer that becomes a stock insurer in compliance with the law of its state of domicile;
+        </section>
+        <section prefix="ii">
+    	     grant membership interests and equity rights to the members or policyholders of a foreign mutual insurer that merges with a direct or indirect domestic or foreign subsidiary of the domestic mutual holding company and such a subsidiary, if it is a domestic insurer, may merge with such a foreign mutual insurer pursuant to section 19A or 19B notwithstanding the provisions in said sections to the effect that they do not authorize mergers between mutual insurers and stock insurers.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>128</section_number>
+    <catch_line>Deposit</catch_line>
+    <order_by>128</order_by>
+    <text>
+        A defendant may dissolve an attachment by depositing with the attaching officer an amount of money equal at least to the amount of the attachment, which the officer shall hold in place of the property attached and which shall be subject to be disposed of in the same manner.
+    </text>
+</law>

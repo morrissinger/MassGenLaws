@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="187" order_by="187" level="3">Easements</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Solar Easements</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        <section prefix="1">
+    	     A description of the dimensions of the easement expressed in measurable terms, such as vertical or horizontal angles measured in degrees, or the hours of the day on specified dates during which direct sunlight to a specified surface of a solar collector, device, or structural design feature may not be obstructed, or a combination of these descriptions.
+        </section>
+        <section prefix="2">
+    	     The restrictions placed upon vegetation, structures, and other objects which would impair or obstruct the passage of sunlight through the easement.
+        </section>
+        <section prefix="3">
+    	     The amount, if any, of permissible obstruction of the passage of sunlight through the easement, expressed in measurable terms, such as a specific percentage of sunlight that may be obstructed.
+        </section>
+        <section prefix="4">
+    	     The provisions for trimming vegetation that would impermissibly obstruct the passage of sunlight through the easement including any compensation for trimming expenses.
+        </section>
+        <section prefix="5">
+    	     Any provisions for compensation of the owner of property benefiting from the easement in the event of impermissible obstruction of the easement.
+        </section>
+        <section prefix="6">
+    	     The terms or conditions, if any, under which the easement may be revised or terminated.
+        </section>
+    </text>
+</law>

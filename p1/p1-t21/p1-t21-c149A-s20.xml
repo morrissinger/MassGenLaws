@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149A" order_by="149A" level="3">Public Construction Alternative Delivery Methods</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Best Value Or Low Bid Basis For Evaluation And Selection</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     If the basis of the award is low bid, then each proposal, including the price or prices, must be sealed by the proposer and submitted to the awarding authority as one complete package. The awarding authority shall publicly open and read the proposals forthwith upon the expiration of the time for filing said proposals. The awarding authority shall enter into good faith, non-fee negotiations of the design-build contract with the responsible proposer that submits a responsive proposal with the lowest bid.
+        </section>
+        <section prefix="b">
+    	     If the basis of the award is best value, then each proposal shall be submitted by the proposer to the awarding authority in two separate proposals, which shall include a sealed technical proposal and a sealed price proposal. The sealed technical proposal and sealed price proposal shall be submitted simultaneously.
+        </section>
+        <section prefix="1">
+    	     The awarding authority shall establish a selection committee that shall first open, evaluate, and score each technical proposal from responsible proposers based on the quality criteria contained in the RFP. The evaluation and ranking of proposals shall be in accordance with the quality criteria and relative weights assigned or identified in the RFP. During this evaluation process, the price proposals shall remain sealed. Each technical proposal shall remain confidential.
+        </section>
+        <section prefix="2">
+    	     After completion of the evaluation of the technical proposals, the awarding authority shall publicly open and read, at the place and time designated in the RFP, the sealed price proposals and shall publicly calculate the overall value rating for each proposal. The overall value rating shall be the total price divided by the quality score or another objective formula clearly detailed in the RFP. The awarding authority shall enter into good faith negotiations with the responsible proposer with the lowest price per quality score point. In the event that two or more proposers have the same lowest price per quality score, the awarding authority shall enter into good faith negotiations with the responsible proposer who submitted the lowest price.
+        </section>
+        <section prefix="c">
+    	     Upon the completion of successful negotiations with the selected design build entity, the awarding authority shall enter into a design build contract with said entity. After signing a design build contract, the awarding authority shall notify in writing all other design build entities that their proposals were not accepted.
+        </section>
+        <section prefix="d">
+    	     Except for section 39M of chapter 30, all other provisions of the public bidding laws, including sections 39F, 39G, 39J, 39N, 39O 39P and 39R of said chapter 30 and sections 26, 27, 27A, 27B, 27C, 27D, 29, 29C and 34A of chapter 149, shall apply to all design build projects procured pursuant to this chapter in the same manner as they apply to public works projects generally procured pursuant to said section 39M said of said chapter 30.
+        </section>
+    </text>
+</law>

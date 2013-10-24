@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>24A</section_number>
+    <catch_line>Seasonal Employment</catch_line>
+    <order_by>24A</order_by>
+    <text>
+        <section prefix="a">
+    	     No waiting period shall be allowed and no benefits shall be paid to an individual on the basis of service performed in seasonal employment as defined by subsection (aa) of section one unless the claim is filed within the operating period of the seasonal employment. If the claim is filed outside the operating period of the seasonal employment, benefits may be paid on the basis of nonseasonal wages only.
+        </section>
+        <section prefix="b">
+    	     An employer shall provide the commissioner with such information necessary to make a seasonal determination defined by subsection (cc) of section one. Until the commissioner makes a seasonal determination, no employer or employee may be considered seasonal.
+        </section>
+        <section prefix="c">
+    	     Any employer notified of a seasonal determination may file an appeal regarding a seasonal determination and obtain review of the determination. Such appeal and review shall be in accordance with sections thirty-nine through forty-two, inclusive.
+        </section>
+        <section prefix="d">
+    	     Whenever an employer is determined to be a seasonal employer, the following provisions apply:
+        </section>
+        <section prefix="1">
+    	     The seasonal determination becomes effective the first day of the calendar quarter commencing after the date of the seasonal determination.
+        </section>
+        <section prefix="2">
+    	     The seasonal determination does not affect any benefit rights of seasonal workers with respect to employment before the effective date of the seasonal determination.
+        </section>
+        <section prefix="e">
+    	     If a seasonal employer, after the date of its seasonal determination, operates its business or its seasonal operation during a period or periods of sixteen weeks or more in a calendar year, the employer shall be redetermined by the commissioner to have lost its seasonal status with respect to that business or operation effective at the end of the then current calendar quarter. The redetermination shall be reported in writing to the employer. An employer notified of a redetermination may file an appeal of the redetermination and obtain review of the redetermination in accordance with sections thirty-nine through forty-two, inclusive.
+        </section>
+        <section prefix="f">
+    	     Seasonal employers shall keep account of wages paid to seasonal workers within the seasonal period as determined by the commissioner, and shall report these wages on a special seasonal quarterly report form as prescribed by the commissioner.
+        </section>
+    </text>
+</law>

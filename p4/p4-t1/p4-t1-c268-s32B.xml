@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="268" order_by="268" level="3">Crimes Against Public Justice</unit>
+    </structure>
+    <section_number>32B</section_number>
+    <catch_line>Resisting Arrest</catch_line>
+    <order_by>32B</order_by>
+    <text>
+        <section prefix="a">
+    	     A person commits the crime of resisting arrest if he knowingly prevents or attempts to prevent a police officer, acting under color of his official authority, from effecting an arrest of the actor or another, by:
+        </section>
+        <section prefix="1">
+    	     using or threatening to use physical force or violence against the police officer or another; or
+        </section>
+        <section prefix="2">
+    	     using any other means which creates a substantial risk of causing bodily injury to such police officer or another.
+        </section>
+        <section prefix="b">
+    	     It shall not be a defense to a prosecution under this section that the police officer was attempting to make an arrest which was unlawful, if he was acting under color of his official authority, and in attempting to make the arrest he was not resorting to unreasonable or excessive force giving rise to the right of self-defense. A police officer acts under the color of his official authority when, in the regular course of assigned duties, he is called upon to make, and does make, a judgment in good faith based upon surrounding facts and circumstances that an arrest should be made by him.
+        </section>
+        <section prefix="c">
+    	     The term “police officer” as used in this section shall mean a police officer in uniform or, if out of uniform, one who has identified himself by exhibiting his credentials as such police officer while attempting such arrest.
+        </section>
+        <section prefix="d">
+    	     Whoever violates this section shall be punished by imprisonment in a jail or house of correction for not more than two and one-half years or a fine of not more than five hundred dollars, or both.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Judgment Against Member Payable With Interest In Limited Liability Company</catch_line>
+    <order_by>40</order_by>
+    <text>
+        On application to a court of competent jurisdiction by any judgment creditor of a member, the court may charge the limited liability company interest of the member with payment of the unsatisfied amount of the judgment with interest. To the extent so charged, the judgment creditor has only the rights of an assignee of the limited liability company interest. This chapter does not deprive any member of the benefit of any exemption laws applicable to his limited liability company interest.
+    </text>
+</law>

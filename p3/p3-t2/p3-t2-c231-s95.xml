@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>95</section_number>
+    <catch_line>Defense To Action On Default Judgment</catch_line>
+    <order_by>95</order_by>
+    <text>
+        In an action upon a judgment obtained by default and without the knowledge of the defendant, brought within six years after the rendition thereof, the court may, in its discretion and upon terms, allow the defendant to show in defense any payment, satisfaction or extinguishment of the claim, prior to the obtaining of such judgment, or any matter of fraud, which in either case he might have shown in the original suit upon a motion for relief from judgment.
+    </text>
+</law>

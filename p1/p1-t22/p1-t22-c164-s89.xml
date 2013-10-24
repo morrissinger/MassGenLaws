@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Rights Of Another Municipality To Enter Another Town</catch_line>
+    <order_by>89</order_by>
+    <text>
+        A town which has duly acquired a municipal lighting plant and is authorized to supply gas or electricity in any other town shall have all the rights which a private corporation supplying gas or electricity in said other town would have under the three preceding sections.
+    </text>
+</law>

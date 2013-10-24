@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>19E</section_number>
+    <catch_line>Solicitations By Telephone; Required Disclosures; Misrepresentation</catch_line>
+    <order_by>19E</order_by>
+    <text>
+        <section prefix="1">
+    	     stating the identity of the person making the solicitations;
+        </section>
+        <section prefix="2">
+    	     stating the trade name of the person represented by the person making the solicitation; and
+        </section>
+        <section prefix="3">
+    	     stating the kind of goods or services being offered for sale.
+        </section>
+    </text>
+</law>

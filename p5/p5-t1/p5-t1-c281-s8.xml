@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="5" order_by="5" level="1">The General Laws, And Express Repeal Of Certain Acts And Resolves</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title I Placeholder</unit>
+        <unit label="chapter" identifier="281" order_by="281" level="3">The General Laws And Their Effect</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Salary Or Compensation Of Incumbent; Effect Of Repeal Of Law By General Laws</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The salary or compensation of any incumbent of any office or position at the time when the General Laws take effect shall not be diminished thereby, notwithstanding the repeal therein of any act establishing such salary or compensation and notwithstanding that the General Laws establish a different salary or compensation for the office or position.
+    </text>
+</law>

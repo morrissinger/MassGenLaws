@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>85A</section_number>
+    <catch_line>Prima Facie Evidence Of Owner’S Responsibility For Operation Of Motor Vehicle</catch_line>
+    <order_by>85A</order_by>
+    <text>
+        In all actions to recover damages for injuries to the person or to property or for the death of a person, arising out of an accident or collision in which a motor vehicle was involved, evidence that at the time of such accident or collision it was registered in the name of the defendant as owner shall be prima facie evidence that it was then being operated by and under the control of a person for whose conduct the defendant was legally responsible, and absence of such responsibility shall be an affirmative defence to be set up in the answer and proved by the defendant.
+    </text>
+</law>

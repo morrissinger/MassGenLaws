@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Notice In General</catch_line>
+    <order_by>42</order_by>
+    <text>
+        The said notice shall be in writing, and shall state in ordinary language the time, place and cause of the injury, and shall be signed by the person injured, or, in case of his death, by his legal representative, or by a person to whom payments may be due under this chapter, or by a person in behalf of any one of them. Any form of written communication signed by a person who may give the notice as above provided, containing the information that the person has been so injured, giving the time, place and cause of the injury, shall be considered a sufficient notice.
+    </text>
+</law>

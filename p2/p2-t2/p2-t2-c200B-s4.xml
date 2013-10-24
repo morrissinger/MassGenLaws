@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Notice To Terminate Loan Of Property; Contents; Acquisition Of Title By Museum Upon Failure Of Lender To Respond To Notice Or Collect Property</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless a written loan agreement provides otherwise, a museum may give notice of the museum’s intent to terminate a loan of property at any time if:
+        </section>
+        <section prefix="1">
+    	     the property was loaned to the museum for an indefinite term; or
+        </section>
+        <section prefix="2">
+    	     the property was loaned to the museum for a specified term and the term has expired.
+        </section>
+        <section prefix="b">
+    	     A mailed notice of intent to terminate a loan shall comply with subsection (b) of section 2, and shall include the following statement: “The records of (name of museum) indicate that you have property on loan to it. The museum hereby terminates the loan. If you desire to claim the property, you must contact the museum, establish your ownership of the property, and make arrangements to collect the property. If you fail to do so within 1 year after the date on which this notice was delivered, you will be considered to have donated the property to the museum and the museum will become the owner of the property.”
+        </section>
+        <section prefix="c">
+    	     If a lender or claimant does not respond to a notice of intent to terminate a loan under this chapter and does not collect the property within 1 year from the date of the notice, the museum shall acquire title to the property and may sell, dispose of or retain the property.
+        </section>
+    </text>
+</law>

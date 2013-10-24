@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201D" order_by="201D" level="3">Health Care Proxies</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Private Facilities; Refusal To Honor Proxy</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     the facility has informed the patient or the health care agent of such policy prior to or upon admission, if reasonably possible; and
+        </section>
+        <section prefix="b">
+    	     the patient is transferred to another equivalent facility that is reasonably accessible to the patient’s family and willing to honor the agent’s decision. If the facility or the agent is unable to arrange such a transfer, the facility shall seek judicial guidance or honor the agent’s decision.
+        </section>
+    </text>
+</law>

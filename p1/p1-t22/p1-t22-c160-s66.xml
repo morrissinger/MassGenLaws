@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Guaranty Of Steamship Company Bonds</catch_line>
+    <order_by>66</order_by>
+    <text>
+        A railroad corporation may guarantee, to an amount not exceeding five per cent of its capital stock, the bonds of any corporation incorporated in the commonwealth for the purpose of carrying freight, passengers and mails between any port of this commonwealth and Europe; or, upon adequate security therefor, may issue its own bonds to the same amount, conformably to the provisions of sections forty-seven and forty-eight.
+    </text>
+</law>

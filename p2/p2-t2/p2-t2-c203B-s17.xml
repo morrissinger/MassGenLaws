@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Termination Of Trust; Order Of Distribution</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon termination of a custodial trust, the custodial trustee shall transfer the unexpended custodial trust property:
+        </section>
+        <section prefix="1">
+    	     to the beneficiary, if not incapacitated or deceased;
+        </section>
+        <section prefix="2">
+    	     to the conservator or other recipient designated by the court for an incapacitated beneficiary; or
+        </section>
+        <section prefix="3">
+    	     upon the beneficiary’s death, in the following order:
+        </section>
+        <section prefix="i">
+    	     as last directed in a writing signed by the deceased beneficiary while not incapacitated and received by the custodial trustee during the life of the deceased beneficiary;
+        </section>
+        <section prefix="ii">
+    	     to the survivor of multiple beneficiaries if survivorship is provided for pursuant to section six;
+        </section>
+        <section prefix="iii">
+    	     as designated in the instrument creating the custodial trust; or
+        </section>
+        <section prefix="iv">
+    	     to the estate of the deceased beneficiary.
+        </section>
+        <section prefix="b">
+    	     If, when the custodial trust would otherwise terminate, the distributee is incapacitated, the custodial trust shall continue for the use and benefit of the distributee as beneficiary until the incapacity is removed or the custodial trust is otherwise terminated.
+        </section>
+        <section prefix="c">
+    	     Death of a beneficiary shall not terminate the power of the custodial trustee to discharge obligations of the custodial trustee or beneficiary incurred before the termination of the custodial trust.
+        </section>
+    </text>
+</law>

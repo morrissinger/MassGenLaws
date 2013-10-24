@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Mergers; Transfers; Notice; Contracts, Financial Statements And Certificates; Commissioner’S Approval</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     No domestic society shall merge with or accept the transfer of the membership or funds of any other society, unless 90 days’ notice of the proposed merger or transfer is given to the commissioner, who, within such period, shall make such recommendations to each of such societies. The merger or transfer shall be evidenced by a written contract that sets out in full the terms and conditions of the merger or transfer, and shall be filed with the commissioner, together with a sworn statement by the president and secretary, or corresponding officers, of each of such societies of their financial conditions and a sworn certificate of such officers of each of the contracting societies that the merger or transfer has been approved by a vote of two-thirds of the members of the supreme legislative or governing body of each of such societies.
+        </section>
+        <section prefix="b">
+    	     Upon the submission of the contract, financial statements and certificates, the commissioner shall examine them, and if the commissioner finds that the financial statements are correct, and that the contract is in conformity with this section, and that the merger or transfer is just and equitable to the members of each of the societies, the commissioner shall approve the merger or transfer, issue a certificate to that effect, and thereupon the contract of merger or transfer shall be of full force and effect. No such merger proposed by two societies not incorporated in the same state shall go into effect until approved by the commissioner, or corresponding officer, of each state incorporating the societies involved in the proposed transaction, nor until their joint certificate of approval of the contract therefore is issued.
+        </section>
+    </text>
+</law>

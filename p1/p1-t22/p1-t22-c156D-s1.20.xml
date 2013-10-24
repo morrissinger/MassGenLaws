@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.20</section_number>
+    <catch_line>Filing Requirements</catch_line>
+    <order_by>1.20</order_by>
+    <text>
+        <section prefix="a">
+    	     To be entitled to filing with the secretary of state, a document shall satisfy the requirements of this section, any other section of this chapter that adds to or varies from these requirements, any applicable forms or regulations promulgated by the secretary of state hereunder, and any other relevant laws or regulations of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     This chapter shall require or permit the filing of the document in the office of the secretary of state.
+        </section>
+        <section prefix="c">
+    	     The document shall contain the information required by this chapter. The document may contain other information as well that is relevant to the business or affairs of the corporation.
+        </section>
+        <section prefix="d">
+    	     The document shall be typewritten, printed or in such other form as the secretary of state shall prescribe.
+        </section>
+        <section prefix="e">
+    	     The document shall be in the English language. A corporate name need not be in English if written in English letters or Arabic or Roman numerals, and the certificate of existence required of foreign corporations need not be in English if accompanied by a reasonably authenticated English translation.
+        </section>
+        <section prefix="f">
+    	     The document shall be executed:
+        </section>
+        <section prefix="1">
+    	     by the chairman of the board of directors of a domestic or foreign corporation, by its president, or by another of its officers;
+        </section>
+        <section prefix="2">
+    	     if directors have not been selected or the corporation has not been formed, by the incorporator or incorporators; or
+        </section>
+        <section prefix="3">
+    	     if the corporation is in the hands of a receiver, trustee, or other court-appointed fiduciary, by that fiduciary.
+        </section>
+        <section prefix="g">
+    	     The person executing the document shall sign it and state beneath or opposite his signature his name and the capacity in which he signs. The document may but need not contain any of: (1) the corporate seal, (2) an attestation, and (3) an acknowledgment or verification.
+        </section>
+        <section prefix="h">
+    	     The document shall be delivered to the office of the secretary of state for filing and shall be accompanied by one exact or conformed copy, except that no copy is required for filings under sections 5.02, 15.03, 15.08, 15.09 and 16.22, the correct filing fee and any payment or penalty required by this chapter or other law. The secretary of state may waive the requirement that an exact or conformed copy accompany any document submitted for filing, including documents submitted electronically.
+        </section>
+        <section prefix="i">
+    	     Electronic documents or transmissions may be filed with the secretary of state if and to the extent permitted by the secretary. The secretary of state may promulgate regulations regarding the procedures for electronic filings which shall supersede any inconsistent provisions of this chapter with respect to such filings.
+        </section>
+    </text>
+</law>

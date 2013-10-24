@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>96</section_number>
+    <catch_line>Dividends And Voting Rights After Demand For Payment</catch_line>
+    <order_by>96</order_by>
+    <text>
+        <section prefix="1">
+    	     A bill shall not be filed within the time provided in section ninety;
+        </section>
+        <section prefix="2">
+    	     A bill, if filed, shall be dismissed as to such stockholder; or
+        </section>
+        <section prefix="3">
+    	     Such stockholder shall with the written approval of the corporation, or in the case of a consolidation or merger, the resulting or surviving corporation, deliver to it a written withdrawal of his objections to and an acceptance of such corporate action.
+        </section>
+    </text>
+</law>

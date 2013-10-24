@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Purchases Of Insurance By Purchasing Groups; Agents Or Brokers;  Notice To Members</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="A">
+    	     A purchasing group may not purchase insurance from a risk retention group that is not chartered in a state or from an insurer not admitted in the state in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such state. For purposes of this chapter, the purchasing group shall be deemed to be located in any state in which its members are resident or conducting business which is to be insured through the risk purchasing group.
+        </section>
+        <section prefix="B">
+    	     A purchasing group which obtains liability insurance from an insurer not admitted in the commonwealth or a risk retention group shall inform each of the members of such purchasing group which are resident in or have a risk located in the commonwealth that such risk is not protected by an insurance insolvency guaranty fund in the commonwealth, and that such risk retention group or such insurer may not be subject to all General Laws and regulations of the commonwealth.
+        </section>
+        <section prefix="C">
+    	     No purchasing group may purchase insurance providing for a deductible or self-insured retention applicable to the group as a whole, however, coverage may provide for a deductible or self-insured retention applicable to individual members.
+        </section>
+        <section prefix="D">
+    	     Purchases of insurance by purchasing groups are subject to the same standards regarding aggregate limits which are applicable to all purchases of group insurance.
+        </section>
+    </text>
+</law>

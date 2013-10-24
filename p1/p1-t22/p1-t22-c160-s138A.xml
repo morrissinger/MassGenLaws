@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>138A</section_number>
+    <catch_line>Warning Devices At Crossings</catch_line>
+    <order_by>138A</order_by>
+    <text>
+        A railroad corporation whose railroad is crossed by a public way at the same grade shall, at its own expense, install at any such grade crossing designated by the department and used by through passenger trains or cars or through freight trains a device to activate by hand a warning signal which shall audibly or visibly warn an approaching train from the grade crossing of danger at said grade crossing.
+    </text>
+</law>

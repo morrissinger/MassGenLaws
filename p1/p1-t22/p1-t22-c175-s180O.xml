@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180O</section_number>
+    <catch_line>Board Of Directors</catch_line>
+    <order_by>180O</order_by>
+    <text>
+        <section prefix="1">
+    	     Three directors shall constitute a quorum for the transaction of business at all meetings of the board.
+        </section>
+        <section prefix="2">
+    	     Any vacancy in the board may be filled by a majority of the remaining directors, though less than a quorum or though a sole remaining director.
+        </section>
+        <section prefix="3">
+    	     If there are no surviving directors, but at least three vice-presidents of the company survive, the three vice-presidents with the longest term of service shall be the directors and shall possess all of the powers of the previous board of directors and such powers as are granted herein or by subsequently enacted legislation. By majority vote, such emergency board of directors may elect other directors. If there are not at least three surviving vice-presidents, the commissioner or a duly designated person exercising the powers of the commissioner shall appoint three persons as directors who shall possess all of the powers of the previous board of directors and such powers as are granted herein or by subsequently enacted legislation, and these persons by majority vote may elect other directors. The directors who hold office under this paragraph shall hold office only until succeeded by directors elected at the next regular annual meeting of the company, but if the regular annual meeting of the company is not scheduled to occur within six months of the termination of the national emergency, a special meeting of the company shall be called within six months after the termination of such emergency at which meeting directors shall be elected to succeed those holding office under this paragraph.
+        </section>
+    </text>
+</law>

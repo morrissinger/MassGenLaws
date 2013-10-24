@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175H" order_by="175H" level="3">False Health Care Claims</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Investigation And Proceedings By Attorney General</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The attorney general may conduct an investigation of an alleged violation of this chapter and may commence a proceeding pursuant to section four.
+    </text>
+</law>

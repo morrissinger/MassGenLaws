@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>119B</section_number>
+    <catch_line>Refund Of Prepaid Premiums Upon Death Of Insured</catch_line>
+    <order_by>119B</order_by>
+    <text>
+        Upon the death of an insured, the proceeds payable under any policy of individual life insurance, other than a single-premium life insurance policy, delivered or issued for delivery in the commonwealth which is in force on a premium-paying basis on the date of death, shall include premiums paid for any period beyond the end of the policy month in which death occurred, unless such refund of premiums is due some other person pursuant to contract provisions.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Managing Officers</catch_line>
+    <order_by>31</order_by>
+    <text>
+        The business of every corporation shall be managed and conducted by a president, a board of not less than five directors, a clerk, a treasurer and such other officers and such agents as the corporation by its by-laws shall authorize.
+    </text>
+</law>

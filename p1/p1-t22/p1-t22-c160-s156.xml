@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>156</section_number>
+    <catch_line>Safety Couplers On Freight Cars</catch_line>
+    <order_by>156</order_by>
+    <text>
+        A railroad corporation shall cause to be placed upon both ends of every freight car owned by it and which it may lawfully use such automatic or other safety coupler as the department, after an examination and test, may prescribe, and the department may annul any such requirement made by it.
+    </text>
+</law>

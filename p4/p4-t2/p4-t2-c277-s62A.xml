@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>62A</section_number>
+    <catch_line>Violations Of Chapter 209 A; Jurisdiction</catch_line>
+    <order_by>62A</order_by>
+    <text>
+        Any criminal violation of chapter two hundred and nine A may be prosecuted and punished in the territorial jurisdiction in which the violation was committed or in which the original order under said chapter two hundred and nine A was issued.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Officers’ Liability</catch_line>
+    <order_by>36</order_by>
+    <text>
+        The president, treasurer and directors of every corporation shall be jointly and severally liable for all the debts and contracts of the corporation contracted or entered into while they are officers thereof if any stock is issued in violation of section fifteen, sixteen, forty-six B or forty-six D, or if any statement or report required by this chapter is made by them which is false in any material representation and which they know to be false; but directors who vote against such issue, and are recorded as so voting, shall not be so liable, and only the officers signing such statement or report shall be so liable; provided, that the officers signing a false report of condition shall be liable only for debts contracted and contracts entered into before the filing of the next subsequent report of condition, and only to persons who shall have relied upon such false report to their damage.
+    </text>
+</law>

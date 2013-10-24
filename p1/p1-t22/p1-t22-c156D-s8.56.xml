@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.56</section_number>
+    <catch_line>Officers</catch_line>
+    <order_by>8.56</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may indemnify and advance expenses under this subdivision to an officer of the corporation who is a party to a proceeding because he is an officer of the corporation.
+        </section>
+        <section prefix="1">
+    	     to the same extent as a director; and
+        </section>
+        <section prefix="2">
+    	     if he is an officer but not a director, to such further extent as may be provided by the articles of organization, the bylaws, a resolution of the board of directors, or contract except for liability arising out of acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law.
+        </section>
+        <section prefix="b">
+    	     Clause (2) of subsection (a) shall apply to an officer who is also a director if the basis on which he is made a party to the proceeding is an act or omission solely as an officer.
+        </section>
+        <section prefix="c">
+    	     An officer of a corporation who is not a director is entitled to mandatory indemnification under section 8.52, and may apply to a court under section 8.54 for indemnification or an advance for expenses, in each case to the same extent to which a director may be entitled to indemnification or advance under those provisions.
+        </section>
+    </text>
+</law>

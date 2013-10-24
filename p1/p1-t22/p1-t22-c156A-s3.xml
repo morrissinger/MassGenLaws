@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Professional Services Provided</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as hereinafter provided, a professional corporation may be organized under this chapter only for the purpose of rendering professional services and services ancillary thereto within a single profession.
+        </section>
+        <section prefix="b">
+    	     A professional corporation may be organized for the purpose of rendering professional services within two or more professions except to the extent expressly prohibited by the licensing laws of the commonwealth applicable to such professions or the regulations of any of the applicable regulating boards.
+        </section>
+        <section prefix="c">
+    	     The provisions of this chapter shall not be construed as prohibiting the organization of a corporation to render professional services, or as limiting the rendering of professional services or the practice of any profession under any other provisions of law except to the extent expressly prohibited or limited by such provisions of law or the regulations of the applicable regulating boards.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Mode Of Service Outside Commonwealth; Proof Of Service</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     When the law of this commonwealth authorizes service outside this commonwealth, the service, when reasonably calculated to give actual notice, may be made:
+        </section>
+        <section prefix="1">
+    	     by personal delivery in the manner prescribed for service within this commonwealth;
+        </section>
+        <section prefix="2">
+    	     in the manner prescribed by the law of the place in which the service is made for service in that place in an action in any of its courts of general jurisdiction;
+        </section>
+        <section prefix="3">
+    	     by any form of mail addressed to the person to be served and requiring a signed receipt;
+        </section>
+        <section prefix="4">
+    	     as directed by the foreign authority in response to a letter rogatory; or
+        </section>
+        <section prefix="5">
+    	     as directed by the court.
+        </section>
+        <section prefix="b">
+    	     Proof of service outside this commonwealth may be made by affidavit of the individual who made the service or in the manner prescribed by the law of this commonwealth, the order pursuant to which the service is made, or the law of the place in which the service is made for proof of service in an action in any of its courts of general jurisdiction. When service is made by mail, proof of service shall include a receipt signed by the addressee or other evidence of personal delivery to the addressee satisfactory to the court.
+        </section>
+    </text>
+</law>

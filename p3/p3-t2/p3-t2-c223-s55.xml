@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Death Or Removal Of First Attaching Officer</catch_line>
+    <order_by>55</order_by>
+    <text>
+        If an officer dies or is removed from office while an attachment which he has made remains in force, the attached property, whether replevied or remaining in possession of the officer or of his executor or administrator, may be further attached by any other officer so as to bind it or its proceeds, as if the later attachment had been made by the first mentioned officer.
+    </text>
+</law>

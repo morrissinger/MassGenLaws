@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Release Of Liens; Surety Bond; Service Of Process For Foreclosure Of Lien</catch_line>
+    <order_by>44</order_by>
+    <text>
+        <section prefix="a">
+    	     In the case of a sale of a time-share where delivery of a public offering statement is required pursuant to subsection (c) of section thirty-seven, a seller shall, before transferring a time-share, record in the appropriate registry of deeds or land registration office or furnish to the purchaser releases of all liens affecting said time-share which the purchaser does not expressly agree to take subject to or assume, or shall provide a surety bond as provided in section fourteen of chapter two hundred and fifty-four.
+        </section>
+        <section prefix="b">
+    	     If a lien other than a mortgage becomes effective against more than one time-share estate, any time-share owner is entitled to a release of his time-share estate from said lien upon payment of his proportionate liability for said lien in accordance with time-share expense liability unless he or his predecessor in interest agreed otherwise with the lienor. After payment, the managing entity shall not assess or have a lien against said time-share estate for any portion of the time-share expenses incurred in connection with said lien.
+        </section>
+        <section prefix="c">
+    	     If a lien is to be foreclosed or enforced against all time-shares in a time-share property, service of process shall be made upon the managing entity, if any, and shall constitute service thereof upon all the time-share owners for the purposes of foreclosure or enforcement. The managing entity shall forward promptly, by registered mail, a copy thereof to each time-share owner at his last address known to the managing entity. The cost of said forwarding shall be paid in advance by the holder of the lien and may be taxed as a cost of the enforcement proceeding. Said notice shall not be sufficient for the entry of a deficiency or other personal judgment against any time-share owner.
+        </section>
+    </text>
+</law>

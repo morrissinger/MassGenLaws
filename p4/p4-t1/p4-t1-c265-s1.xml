@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Murder Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Murder committed with deliberately premeditated malice aforethought, or with extreme atrocity or cruelty, or in the commission or attempted commission of a crime punishable with death or imprisonment for life, is murder in the first degree. Murder which does not appear to be in the first degree is murder in the second degree. Petit treason shall be prosecuted and punished as murder. The degree of murder shall be found by the jury.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Dividends, Interest, Etc.; Credit To Owner’S Account</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        Whenever any property is paid or delivered to the treasurer other than money under this act, the treasurer upon receipt, shall credit to the owner’s account any dividends, interest or other increments realized or accruing on the property at or before liquidation or conversion thereof into money.
+    </text>
+</law>

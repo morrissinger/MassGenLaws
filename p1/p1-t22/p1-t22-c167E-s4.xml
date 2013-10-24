@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167E" order_by="167E" level="3">Mortgages And Loans</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Loan Policies</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Each bank shall adopt and maintain comprehensive written loan policies that establish appropriate limits and standards for extensions of credit under section 3 that are consistent with safe and sound banking practices and are appropriate to the size, nature and scope of the bank’s operations.
+        </section>
+        <section prefix="b">
+    	     The loan policies shall establish prudent loan underwriting standards that clearly and measurably address, at a minimum: (1) maximum loan to value, loan amount, loan maturities, and debt to income requirements; (2) collateral and appraisal requirements; (3) application and loan approval requirements; and (4) loan administration procedures. The written loan policies shall be reviewed and approved annually by the bank’s governing board.
+        </section>
+        <section prefix="c">
+    	     The commissioner may by directive, guideline or regulation, establish additional minimum safe and sound lending requirements.
+        </section>
+    </text>
+</law>

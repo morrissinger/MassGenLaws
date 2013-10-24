@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>84A</section_number>
+    <catch_line>Consolidation Of Actions Involving Same Subject Matter</catch_line>
+    <order_by>84A</order_by>
+    <text>
+        If two or more actions to recover damages or indebtedness arising out of the same accident, event or transaction are pending in the superior court, whether in the same or in different counties, the court or any justice thereof may order that some or all of them be tried together in such county as he may designate. This section shall not limit existing powers of the courts or justices thereof relative to the consolidation or joint trial of causes.
+    </text>
+</law>

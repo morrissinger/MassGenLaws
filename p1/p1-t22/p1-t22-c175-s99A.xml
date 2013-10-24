@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>99A</section_number>
+    <catch_line>Fire Policy; Damage Caused By Nuclear Reaction Or Contamination   </catch_line>
+    <order_by>99A</order_by>
+    <text>
+        Insurers issuing the standard policy pursuant to section ninety-nine are authorized to affix thereto or include therein a written statement that the policy does not cover loss or damage caused by nuclear reaction or nuclear radiation or radioactive contamination, all whether directly or indirectly resulting from an insured peril under said policy; provided, however, that nothing herein contained shall be construed to prohibit the attachment to any such policy of an endorsement or endorsements specifically assuming coverage for loss or damage caused by nuclear reaction or nuclear radiation or radioactive contamination; however, subject to the foregoing and all provisions of the said policy, direct loss by fire resulting from nuclear reaction, or nuclear radiation or radioactive contamination is insured against by such policy.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Evidence In Actions Against An Executor Or Administrator</catch_line>
+    <order_by>66</order_by>
+    <text>
+        If a cause of action brought against an executor or administrator is supported by oral testimony of a promise or statement made by the testator or intestate of the defendant, evidence of statements, written or oral, made by the decedent, memoranda and entries written by him, and evidence of his acts and habits of dealing tending to disprove or to show the improbability of the making of such promise or statement, shall be admissible.
+    </text>
+</law>

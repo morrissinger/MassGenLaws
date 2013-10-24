@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Alternative Allegations</catch_line>
+    <order_by>31</order_by>
+    <text>
+        Different means or different intents by or with which a crime may be committed may be alleged in the same count in the alternative.
+    </text>
+</law>

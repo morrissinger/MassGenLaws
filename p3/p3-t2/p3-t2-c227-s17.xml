@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Mixed Actions</catch_line>
+    <order_by>17</order_by>
+    <text>
+        The provisions of this chapter relative to judgment, bond and review in actions of tort shall apply to a mixed action if the defendant or one of several defendants is absent from the commonwealth, but, as to the service of process and notice to the defendant, it shall be conducted as a real action.
+    </text>
+</law>

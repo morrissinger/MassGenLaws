@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175B" order_by="175B" level="3">Unauthorized Insurer’S Process Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>5</order_by>
+    <text>
+        If any provision of this chapter, or the application thereof to any person or circumstances is held invalid, such invalidity shall not affect other provisions or applications of the chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are declared to be severable.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>25J</section_number>
+    <catch_line>Boards Of Trustees</catch_line>
+    <order_by>25J</order_by>
+    <text>
+        <section prefix="1">
+    	     Each group shall be operated by a board of trustees which shall consist of not less than three persons whom the members of a group elect for stated terms of office. At least two of the trustees shall be employees, officers or directors of members of the group, except for public employer groups for whom the three trustees shall be elected officials or employees of public entities within this state. The administrator of a self-insurance group, if any, shall not serve on the board of trustees of the group, unless the group is a public employer group, in which case the administrator may serve as a trustee. All trustees shall be residents of the commonwealth or officer of corporations authorized to do business in the commonwealth.
+        </section>
+        <section prefix="2">
+    	     The board of trustees of each group shall ensure that all claims are paid promptly and shall take all necessary precautions to safeguard the assets of the group, including the following:
+        </section>
+        <section prefix="a">
+    	     Maintain responsibility for all monies collected or disbursed from the group and segregate all monies in a claims fund account and an administrative fund account. Net premium shall be placed in a designated depository in an amount equal to the aggregate retained workers’ compensation liability of the group, and such deposits shall be called the claims fund account. The remaining net premium after any payments for reinsurance or excess insurance shall be placed in a designated depository for the payment of taxes, general regulatory fees and assessments and administrative costs and such deposits shall be called the administrative fund account.
+        </section>
+        <section prefix="b">
+    	     Maintain minutes of its meetings and make such minutes available to the commissioner of insurance; and
+        </section>
+        <section prefix="c">
+    	     Designate an administrator to carry out the policies of the board of trustees and to provide day to day management of the group. The board shall enter into a written agreement with the administrator, which shall include, but not be limited to, a description of the duties, responsibilities and compensation for the administrator, subject to the commissioner’s approval. The group shall demonstrate to the commissioner’s satisfaction that any administrator designated by the board of trustees is of good repute, is in sound financial condition and is experienced in the area of workers’ compensation claims administration.
+        </section>
+        <section prefix="3">
+    	     Funds not needed for current obligations may be invested by the board of trustees in accordance with the provisions of section sixty-three of chapter one hundred and seventy-five.
+        </section>
+        <section prefix="4">
+    	     The board of trustees shall not:
+        </section>
+        <section prefix="a">
+    	     Extend credit to individual members for payment of a premium, except pursuant to payment plans approved by the commissioner of insurance.
+        </section>
+        <section prefix="b">
+    	     Borrow any monies from the group or in the name of the group except in the ordinary course of business, without first advising the commissioner of insurance of the nature and purpose of the loan and obtaining prior approval from the commissioner of insurance.
+        </section>
+    </text>
+</law>

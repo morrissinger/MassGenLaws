@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Exchange Of Common For Preferred; Limitations</catch_line>
+    <order_by>33</order_by>
+    <text>
+        Any such company may, upon such terms and in such manner as shall be determined by vote of two thirds in amount of its outstanding common capital stock and as shall be approved by the department, issue in lieu of outstanding common shares preferred shares to such number, of such par value and with such preferences, rights, restrictions and limitations and entitled to such rate of preferred dividend as shall so be determined and approved; provided, that the aggregate par value of such preferred stock shall not exceed the aggregate par value of the common stock in exchange for which it is issued.
+    </text>
+</law>

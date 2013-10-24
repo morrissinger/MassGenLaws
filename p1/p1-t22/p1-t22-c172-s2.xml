@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Application Of This Chapter And Chapters 167 C To 167 G, Inclusive</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as herein otherwise specifically provided, this chapter shall apply to all trust companies.
+        </section>
+        <section prefix="b">
+    	     A trust company doing business under a charter issued prior to May twenty-eighth, eighteen hundred and eighty-eight, shall not be subject to any provision of this chapter which is inconsistent with its charter or any provision of its by-laws adopted pursuant to its charter. Such trust company may adopt as part of its charter this chapter and chapters one hundred and sixty-seven C to one hundred and sixty-seven G, inclusive, or any provision thereof, by vote of a majority of its stockholders at its annual meeting or at a meeting called for the purpose and by filing within ten days from the date of such meeting, with the state secretary and with the commissioner, a certificate of such adoption sworn to by the clerk of such trust company.
+        </section>
+    </text>
+</law>

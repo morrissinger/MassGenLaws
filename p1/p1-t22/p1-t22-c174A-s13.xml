@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174A" order_by="174A" level="3">Regulation Of Rates For Fire, Marine And Inland Marine Insurance, And Rating Organizations</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Joint Reinsurance; Regulation</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     Every group, association or other organization of insurers which engages in joint underwriting or joint reinsurance, shall be subject to regulation with respect thereto as herein provided, subject, however, with respect to joint underwriting, to all other provisions of this chapter and, with respect to joint reinsurance, to sections fourteen and sixteen to eighteen, inclusive.
+        </section>
+        <section prefix="b">
+    	     If, after due notice and a hearing, the commissioner finds that any activity or practice of any such group, association or other organization is unfair or unreasonable or otherwise inconsistent with any provision or provisions of this chapter, he may issue a written order specifying in what respects such activity or practice is unfair or unreasonable or otherwise inconsistent with such provision or provisions, and requiring the discontinuance of such activity or practice.
+        </section>
+    </text>
+</law>

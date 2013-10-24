@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>98</section_number>
+    <catch_line>Safety Devices For Cars And Station Platforms</catch_line>
+    <order_by>98</order_by>
+    <text>
+        A company shall equip its cars, when in use, with such headlights, fenders, wheel guards, brakes, and other safety devices, and shall provide such protection, human or otherwise, at its station platforms, as may be required from time to time by the department.
+    </text>
+</law>

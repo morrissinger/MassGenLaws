@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Employees’ Stock; Dividends</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If a dividend is paid by a corporation to its stockholders, the holders of employees’ stock shall receive upon each share which has been paid for in full in time to be entitled to a dividend, an amount which shall bear such proportion to the amount paid as a dividend upon each share of the general stock of such corporation as the par value of the shares of such employees’ stock bears to the par value of the shares of such general stock.
+    </text>
+</law>

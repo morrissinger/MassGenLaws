@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Special Notice Accounts</catch_line>
+    <order_by>34</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as hereinafter provided relative to dividends or interest on such shares and deposits, neither the whole nor any part of such shares or deposits may be withdrawn other than pursuant to the terms of a withdrawal notice of ninety days or more signed by such shareholder or depositor or any joint shareholder or depositor and received by such credit union. Such notice shall state that such shareholder or depositor or such joint shareholders or depositors propose to withdraw such shares and deposits in whole or in specified part during a withdrawal period commencing upon a day specified, which day shall be not less than ninety days following the receipt by the credit union of such withdrawal notice and terminating upon the expiration of the ninth day following or, if such ninth day shall be a Saturday, Sunday or legal holiday, upon the expiration of the business day next succeeding such ninth day.
+        </section>
+        <section prefix="b">
+    	     Any ordinary, extra or additional dividend or interest on such shares or deposits may be withdrawn pursuant to a permanent dividend or interest order signed by such shareholder or depositor or any joint shareholder or depositor and received by such credit union prior to the day upon which such dividend or interest becomes payable or pursuant to a demand made by such shareholder or depositor or any joint shareholders or depositors within one year after the day upon which such dividend or interest became payable. If not so withdrawn, no such dividend or interest shall be withdrawn except as hereinbefore provided in subparagraph (a).
+        </section>
+    </text>
+</law>

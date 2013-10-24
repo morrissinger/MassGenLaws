@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167H" order_by="167H" level="3">Mutual Holding Companies</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Board Of Corporators; Members; Term; Election</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A mutual holding company shall be governed by a board of corporators and shall further be governed in accordance with the charter and by-laws of the mutual holding company as adopted or amended in connection with the reorganization authorized under subsection (a) of section two or as amended by the corporators thereafter. Such board of corporators shall have at least twenty-five members and may, at a legal meeting thereof, elect by ballot any person to be a corporator. Corporators shall be elected for a term of ten years; provided, however, that no person shall serve as a corporator of more than one mutual holding company. Not more than three-fifths of the corporators of a mutual holding company shall be trustees or officers thereof at any one time.
+        </section>
+        <section prefix="b">
+    	     With respect to a mutual holding company formed through the reorganization of a savings bank, the board of corporators shall initially consist of the board of corporators of such savings bank as constituted pursuant to section nine of chapter one hundred and sixty-eight. Such corporators shall, after the formation of the mutual holding company, continue to serve as corporators for the balance of the terms to which they were elected under said section nine.
+        </section>
+        <section prefix="c">
+    	     With respect to a mutual holding company which has been formed through the reorganization of a cooperative bank, the board of corporators shall be elected by a majority of the shareholders of such cooperative bank at the meeting at which the plan of reorganization is approved. Such election shall be in accordance with the provisions of subsection (b) of section two which are applicable to such approval of the plan of reorganization.
+        </section>
+    </text>
+</law>

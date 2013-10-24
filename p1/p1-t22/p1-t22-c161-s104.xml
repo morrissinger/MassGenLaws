@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>104</section_number>
+    <catch_line>Reasonable Accommodations For Passengers</catch_line>
+    <order_by>104</order_by>
+    <text>
+        Every company shall furnish reasonable accommodations for the conveyance of passengers, and for every wilful neglect to provide such accommodations shall forfeit not less than five nor more than twenty dollars; and may establish the rates of fare for all passengers and property conveyed or transported in its cars, subject to the limitations of its charter or other provisions of law.
+    </text>
+</law>

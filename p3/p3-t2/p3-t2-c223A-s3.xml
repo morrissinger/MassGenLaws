@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223A" order_by="223A" level="3">Jurisdiction Of Courts Of The Commonwealth Over Persons In Other States And Countries</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Transactions Or Conduct For Personal Jurisdiction</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     transacting any business in this commonwealth;
+        </section>
+        <section prefix="b">
+    	     contracting to supply services or things in this commonwealth;
+        </section>
+        <section prefix="c">
+    	     causing tortious injury by an act or omission in this commonwealth;
+        </section>
+        <section prefix="d">
+    	     causing tortious injury in this commonwealth by an act or omission outside this commonwealth if he regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in this commonwealth;
+        </section>
+        <section prefix="e">
+    	     having an interest in, using or possessing real property in this commonwealth;
+        </section>
+        <section prefix="f">
+    	     contracting to insure any person, property or risk located within this commonwealth at the time of contracting;
+        </section>
+        <section prefix="g">
+    	     maintaining a domicile in this commonwealth while a party to a personal or marital relationship out of which arises a claim for divorce, alimony, property settlement, parentage of a child, child support or child custody; or the commission of any act giving rise to such a claim; or
+        </section>
+        <section prefix="h">
+    	     having been subject to the exercise of personal jurisdiction of a court of the commonwealth which has resulted in an order of alimony, custody, child support or property settlement, notwithstanding the subsequent departure of one of the original parties from the commonwealth, if the action involves modification of such order or orders and the moving party resides in the commonwealth, or if the action involves enforcement of such order notwithstanding the domicile of the moving party.
+        </section>
+    </text>
+</law>

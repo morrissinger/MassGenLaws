@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Discrimination In Residential Mortgage Loans On Basis Of Location Of Property</catch_line>
+    <order_by>64</order_by>
+    <text>
+        <section prefix="a">
+    	     requiring reasonable and uniformly applied application fees,
+        </section>
+        <section prefix="b">
+    	     utilizing income standards which are reasonable in relation to the amount of the loan requested and which shall be disclosed to each prospective applicant, or
+        </section>
+        <section prefix="c">
+    	     uniformly refusing to accept applications because of a lack of lendable funds.
+        </section>
+        <section prefix="a">
+    	     the willingness and the financial ability of the borrower to repay the loan;
+        </section>
+        <section prefix="b">
+    	     the market value of any real estate proposed as security for any loan;
+        </section>
+        <section prefix="c">
+    	     diversification of the mortgagee’s investment portfolio; and
+        </section>
+        <section prefix="d">
+    	     the exercise of judgement and care under the circumstances then prevailing, which men of prudence, discretion and intelligence exercise in the management of their affairs.
+        </section>
+    </text>
+</law>

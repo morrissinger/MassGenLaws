@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.31</section_number>
+    <catch_line>Court Costs And Counsel Fees</catch_line>
+    <order_by>13.31</order_by>
+    <text>
+        <section prefix="a">
+    	     The court in an appraisal proceeding commenced under section 13.30 shall determine all costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court. The court shall assess the costs against the corporation, except that the court may assess cost against all or some of the shareholders demanding appraisal, in amounts the court finds equitable, to the extent the court finds such shareholders acted arbitrarily, vexatiously, or not in good faith with respect to the rights provided by this chapter.
+        </section>
+        <section prefix="b">
+    	     The court in an appraisal proceeding may also assess the fees and expenses of counsel and experts for the respective parties, in amounts the court finds equitable:
+        </section>
+        <section prefix="1">
+    	     against the corporation and in favor of any or all shareholders demanding appraisal if the court finds the corporation did not substantially comply with the requirements of sections 13.20, 13.22, 13.24 or 13.25; or
+        </section>
+        <section prefix="2">
+    	     against either the corporation or a shareholder demanding appraisal, in favor of any other party, if the court finds that the party against whom the fees and expenses are assessed acted arbitrarily, vexatiously, or not in good faith with respect to the rights provided by this chapter.
+        </section>
+        <section prefix="c">
+    	     If the court in an appraisal proceeding finds that the services of counsel for any shareholder were of substantial benefit to other shareholders similarly situated, and that the fees for those services should not be assessed against the corporation, the court may award to such counsel reasonable fees to be paid out of the amounts awarded the shareholders who were benefited.
+        </section>
+        <section prefix="d">
+    	     To the extent the corporation fails to make a required payment pursuant to sections 13.24, 13.25, or 13.26, the shareholder may sue directly for the amount owed and, to the extent successful, shall be entitled to recover from the corporation all costs and expenses of the suit, including counsel fees.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Minerals, Water, And Other Natural Resources</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     If a trustee accounts for receipts from an interest in minerals or other natural resources pursuant to this section, the trustee shall allocate them as follows:
+        </section>
+        <section prefix="1">
+    	     If received as nominal delay rental or nominal annual rent on a lease, a receipt shall be allocated to income.
+        </section>
+        <section prefix="2">
+    	     If received from a production payment, a receipt must be allocated to income if the agreement creating the production payment provides a factor for interest or its equivalent. The balance shall be allocated to principal.
+        </section>
+        <section prefix="3">
+    	     If an amount received as a royalty, shut-in-well payment, take-or-pay payment, bonus, or delay rental is more than nominal, 90 per cent shall be allocated to principal and the balance to income.
+        </section>
+        <section prefix="4">
+    	     If an amount is received from a working interest or any other interest not provided for in paragraph (1), (2), or (3), 90 per cent of the net amount received shall be allocated to principal and the balance to income.
+        </section>
+        <section prefix="b">
+    	     An amount received on account of an interest in water that is renewable shall be allocated to income. If the water is not renewable, 90 per cent of the amount shall be allocated to principal and the balance to income.
+        </section>
+        <section prefix="c">
+    	     This chapter applies whether or not a decedent or donor was extracting minerals, water or other natural resources before the interest became subject to the trust.
+        </section>
+        <section prefix="d">
+    	     If a trust owns an interest in minerals, water, or other natural resources, the trustee may allocate receipts from the interest as provided in this chapter or in the manner used by the trustee. If the trust acquires an interest in minerals, water or other natural resources, the trustee shall allocate receipts from the interest as provided in this chapter.
+        </section>
+    </text>
+</law>

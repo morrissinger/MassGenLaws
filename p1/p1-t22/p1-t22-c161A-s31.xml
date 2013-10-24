@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161A" order_by="161A" level="3">Massachusetts Bay Transportation Authority</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Factors For Determining Arbitration Awards</catch_line>
+    <order_by>31</order_by>
+    <text>
+        <section prefix="a">
+    	     The financial ability of the authority to meet additional costs, which shall include but not be limited to: (i) the statutory requirement that the authority produce revenues in excess of expenses; (ii) the financial ability of the individual communities and the commonwealth to meet additional costs; (iii) the average per capita tax burden, average annual income and sources of revenue within the commonwealth, and the effect of any arbitration award on the respective property tax rates of the cities and towns within the authority’s district.
+        </section>
+        <section prefix="b">
+    	     The overall compensation presently received by the employees, having regard not only for wages for time actually worked but also for wages for time not worked, including vacations, holidays and other excused time.
+        </section>
+        <section prefix="c">
+    	     All benefits received by the employees, including insurance, pension, as well as the continuity and stability of employment.
+        </section>
+        <section prefix="d">
+    	     The hazards of employment, physical, educational and mental qualifications, job training and skills involved.
+        </section>
+        <section prefix="e">
+    	     A comparison of wages, hours, and conditions of employment of the employees involved in the arbitration proceedings with the wages, hours and conditions of employment of other employees performing similar services within the commonwealth and with other employees generally in public and private employment within the commonwealth.
+        </section>
+        <section prefix="f">
+    	     The average consumer price for goods and services, commonly known as the cost of living.
+        </section>
+        <section prefix="g">
+    	     Changes in any of the foregoing circumstances during the pendency of the arbitration proceedings.
+        </section>
+        <section prefix="h">
+    	     Such other factors, not confined to the foregoing, which are normally or traditionally taken into consideration in the determination of wages, hours and conditions of employment through voluntary collective bargaining, mediation, fact-finding, arbitration or otherwise between parties, in the public service of the commonwealth, and which are not precluded from bargaining under section 25.
+        </section>
+        <section prefix="i">
+    	     The stipulation of the parties.
+        </section>
+    </text>
+</law>

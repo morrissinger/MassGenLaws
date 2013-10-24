@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211C" order_by="211C" level="3">Commission On Judicial Conduct</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Advisory Committee</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The supreme judicial court may establish an advisory committee on the code of judicial conduct, which may render advisory opinions to judges at their request or on its own motion.
+    </text>
+</law>

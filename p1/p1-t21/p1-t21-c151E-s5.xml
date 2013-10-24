@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151E" order_by="151E" level="3">Prohibition Of Certain Discrimination By Businesses</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Void Contract Provisions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Any provision of any contract or other document or other agreement which violates section two or which, if complied with by the person intended to be bound by the provision, would cause a violation of section two shall be null and void as being against the public policy of the commonwealth.
+    </text>
+</law>

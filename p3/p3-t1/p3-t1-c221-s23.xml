@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Alphabetical List Of Parties</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Each clerk shall keep an alphabetical list of the names of all parties to every action or judgment recorded in the records and a reference to the book and page thereof; and, if there are two or more plaintiffs or defendants, the name of each and a like reference shall be inserted in its appropriate place in the alphabetical list.
+    </text>
+</law>

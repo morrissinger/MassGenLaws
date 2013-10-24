@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Indemnification Of Member Or Manager</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to such standards and restrictions, if any, as are set forth in its certificate of organization or a written operating agreement, a limited liability company may, and shall have the power to, indemnify and hold harmless any member or manager or other person from and against any and all claims and demands whatsoever. Such indemnification may include payment by the limited liability company of expenses incurred in defending a civil or criminal action or proceeding in advance of the final disposition of such action or proceeding, upon receipt of an undertaking by the person indemnified to repay such payment if he shall be adjudicated to be not entitled to indemnification under this section which undertaking may be accepted without reference to the financial ability of such person to make repayment. Any such indemnification may be provided although the person to be indemnified is no longer a member or manager.
+        </section>
+        <section prefix="b">
+    	     The certificate of organization or a written operating agreement may eliminate or limit the personal liability of a member or manager for breach of any duty to the limited liability company or to another member or manager.
+        </section>
+    </text>
+</law>

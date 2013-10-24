@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>4B</section_number>
+    <catch_line>Confidentiality Of Information; Mental Or Nervous Condition;  Exceptions</catch_line>
+    <order_by>4B</order_by>
+    <text>
+        <section prefix="a">
+    	     no such written consent shall be made a condition of the receipt of such benefits or any other benefits for which the member is otherwise covered;
+        </section>
+        <section prefix="b">
+    	     nothing contained herein shall prohibit the disclosure of any information held by such health maintenance organization which is not privileged pursuant to section one hundred and thirty-five of chapter one hundred and twelve or section twenty B of chapter two hundred and thirty-three;
+        </section>
+        <section prefix="c">
+    	     a health maintenance organization shall not be prohibited from disclosing aggregate patient data if such data contains no information personally identifying any member;
+        </section>
+        <section prefix="d">
+    	     a health maintenance organization shall not be prohibited from disclosing patient utilization data to a law enforcement authority, a state board of registration, or a court of competent jurisdiction if the health maintenance organization, a law enforcement authority, or a state board of registration has reason to believe (i) a patient is committing or has committed fraud, or (ii) a provider is committing or has committed fraud or professional misconduct related to the provision of such diagnosis or treatment;
+        </section>
+        <section prefix="e">
+    	     nothing contained herein shall prohibit a health maintenance organization from using or disclosing patient information for coordination of benefits, subrogation, peer review or utilization review. For the purposes of this clause the term “coordination of benefits” shall mean the determination of primary and secondary responsibility for the payment of a claim between or among two or more insurers providing the same or similar coverage to an insured. Nothing contained herein shall prohibit a health maintenance organization from disclosing patient or provider identifiers to a self-insured plan administered by said health maintenance organization; provided, however, that such identifiers shall be used only for purposes of billing and audit; or
+        </section>
+        <section prefix="f">
+    	     nothing contained herein shall prohibit a health maintenance organization from disclosing patient information to an account which is self-insured in whole or in part, and administered by such organization for research to be conducted by the account; provided, however, that no patient shall be the subject of such research without having first been notified by the account in writing of the scope and purpose of the research. Such written notice shall clearly state that the patient will not be a participant in any such research and will not be penalized in any way if the patient elects in writing to be excluded. Any research conducted by an account under this clause shall maintain the confidentiality of all identifiable patient information.
+        </section>
+    </text>
+</law>

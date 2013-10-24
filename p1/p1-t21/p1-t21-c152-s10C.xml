@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>10C</section_number>
+    <catch_line>Collective Bargaining Agreements; Binding Obligations And Procedures</catch_line>
+    <order_by>10C</order_by>
+    <text>
+        <section prefix="1">
+    	     Any employer, and the recognized or certified and exclusive representative of its employees may agree by collective bargaining to establish certain binding obligations and procedures relating to workers’ compensation; provided, however, that the scope of the agreement shall be limited to:
+        </section>
+        <section prefix="a">
+    	     benefits supplemental to those provided in sections thirty-four, thirty-four A, thirty-five and thirty-six;
+        </section>
+        <section prefix="b">
+    	     an alternative dispute resolution system which may include but is not limited to arbitration, mediation and conciliation;
+        </section>
+        <section prefix="c">
+    	     the use of a limited list of providers for medical treatment;
+        </section>
+        <section prefix="d">
+    	     the use of a limited list of impartial physicians;
+        </section>
+        <section prefix="e">
+    	     the creation of a light duty, modified job or return to work program;
+        </section>
+        <section prefix="f">
+    	     the adoption of twenty-four hour health care coverage plan;
+        </section>
+        <section prefix="g">
+    	     the establishment of safety committees and safety procedures; and
+        </section>
+        <section prefix="h">
+    	     the establishment of vocational rehabilitation or retraining programs.
+        </section>
+    </text>
+</law>

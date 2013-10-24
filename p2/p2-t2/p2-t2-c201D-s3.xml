@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201D" order_by="201D" level="3">Health Care Proxies</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Eligibility To Serve As Agent</catch_line>
+    <order_by>3</order_by>
+    <text>
+        No person who is an operator, administrator or employee of a facility may be appointed as health care agent by an adult, who, at the time of executing the health care proxy is a patient or resident of such facility or has applied for admission to such facility unless said operator, administrator or employee is related to the principal by blood, marriage or adoption.
+    </text>
+</law>

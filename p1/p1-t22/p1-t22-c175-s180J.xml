@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180J</section_number>
+    <catch_line>Special Deposit Claims; Priority</catch_line>
+    <order_by>180J</order_by>
+    <text>
+        The owners of special deposit claims against an insurer for which a receiver has been appointed in a liquidation proceeding in this or any other reciprocal state shall be given priority against their several special deposits in accordance with the laws governing the creation and maintenance of such deposits. If there be a deficiency in any such deposit, so that the claims secured thereby are not fully discharged therefrom, the claimants may share in the general assets, but such sharing shall be deferred until general creditors, and also claimants against other special deposits who have received smaller percentages from their respective special deposits, have been paid percentages of their claims equal to the percentage paid from such special deposit.
+    </text>
+</law>

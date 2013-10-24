@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="5" order_by="5" level="1">The General Laws, And Express Repeal Of Certain Acts And Resolves</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title I Placeholder</unit>
+        <unit label="chapter" identifier="281" order_by="281" level="3">The General Laws And Their Effect</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Statutory Time Periods; Effect Of Repeal Of Law By General Laws</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If a limitation or period of time prescribed in any of the acts repealed for acquiring a right, barring a remedy or any other purpose has begun to run, and the same or a similar limitation is prescribed in the General Laws, the time of limitation shall continue to run and shall have like effect as if the whole period had begun and ended under the operation of the General Laws. If a shorter period of time is prescribed by the General Laws in any matter relating to wills or to the administration of the estates of deceased persons, and the limitation has begun to run, it shall continue to run for the time fixed by the law in effect at the time when it began to run, notwithstanding the repeal thereof by the General Laws.
+    </text>
+</law>

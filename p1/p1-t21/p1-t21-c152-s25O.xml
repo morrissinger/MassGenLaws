@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>25O</section_number>
+    <catch_line>Uniform Classification System; Premium Contributions;  Application To Make Own Rates; Audits</catch_line>
+    <order_by>25O</order_by>
+    <text>
+        <section prefix="1">
+    	     Every workers’ compensation self-insurance group shall adhere to the uniform classification system, uniform experience rating plan, and manual rules filed with the commissioner of insurance by an advisory organization designated by said commissioner.
+        </section>
+        <section prefix="2">
+    	     Premium contributions to the group shall be determined by applying the manual rates and rules to the appropriate classification of each member which shall be adjusted by each member’s experience credit or debit. Subject to approval by the commissioner of insurance, premium contributions may also be reduced by an advance premium discount reflecting the group’s expense levels and loss experience.
+        </section>
+        <section prefix="3">
+    	     Notwithstanding the provisions of subsection (2), a group may apply to the commissioner of insurance for authority to make its own rates. Such rates shall be based on at least two years of the group’s experience. Public employer safety groups in operation for at least two consecutive years prior to their application as a public employer self insurance group may apply to the commissioner of insurance to make its own rates effective the first year of operation as a self insured group. Any self-insured group which is composed of more than 1,000 members and has been in existence for a period of five consecutive years as of December 31, 1999 and which remains in compliance with the requirements of subsection (2) of section 25G shall not be required to have its members experience rated pursuant to the uniform experience rating plan filed with and approved by the commissioner, unless its by-laws or similar rules require otherwise.
+        </section>
+        <section prefix="4">
+    	     Each group shall be audited at least annually by an auditor approved by the commissioner of insurance to verify proper classifications, experience rating, payroll and rates. A report of the audit shall be filed with said commissioner of insurance in a form acceptable to him. A group or any member thereof may request a hearing on any objections to the classifications. If the commissioner of insurance determines that, as a result of an improper classification, a member’s premium contribution is insufficient, he shall order the group to assess that member an amount equal to the deficiency. If said commissioner determines that as a result of an improper classification a member’s premium is excessive, he shall order the group to refund to the member the excess collected. The audit shall be at the expense of the group.
+        </section>
+    </text>
+</law>

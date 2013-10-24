@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Distributions Of Cash Or Other Assets</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Distributions of cash or other assets of a limited liability company shall be allocated among the members, and among classes or groups of members, in the manner provided in the operating agreement. If the operating agreement does not so provide, distributions shall be made on the basis of the agreed value as stated in the records of the limited liability company of the contributions of each member to the extent they have been received by the limited liability company and have not been returned.
+    </text>
+</law>

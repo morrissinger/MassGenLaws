@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Payment; Waiting Period</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     An individual who is in total or partial unemployment and who registers at an employment office or other place of registration maintained by the commissioner or has otherwise given notice of his unemployment in accordance with the procedure prescribed by the commissioner shall be eligible for benefits for unemployment subsequent to a waiting period sustained with respect to the benefit year to which the claim applies, which benefit year includes the week for which he claims payment for benefits. Said waiting period shall consist of one week of total or partial unemployment. No benefits shall be paid or become payable during said waiting period; thereafter benefits shall be payable weekly and shall be paid weekly; provided, however, that whenever, in the discretion of the commissioner, the public interest would be benefited thereby, benefits may be paid on a bi-weekly basis.
+        </section>
+        <section prefix="b">
+    	     With respect to an individual in total unemployment who has registered or given notice as required by this section the waiting period shall commence on the Sunday immediately preceding the date of registration. With respect to an individual in partial unemployment, such waiting period shall commence on the Sunday next but one preceding such registration or notice; provided, that in the case of an individual in partial unemployment the commissioner may prescribe an earlier Sunday on which such waiting period shall commence.
+        </section>
+        <section prefix="c">
+    	     There shall not be counted towards the required waiting period of an individual any week in which he fails to comply with the requirements of this section and of section twenty-four.
+        </section>
+        <section prefix="d">
+    	     There may be counted toward the required waiting period of an individual any week in which he receives remuneration on a subsistence basis for services rendered to a state or federal agency designed or created to relieve unemployment.
+        </section>
+    </text>
+</law>

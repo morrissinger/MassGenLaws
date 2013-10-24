@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.20</section_number>
+    <catch_line>Domestication</catch_line>
+    <order_by>9.20</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign business corporation may become a domestic business corporation only if the domestication is permitted by the organic law of the foreign corporation. The laws of the commonwealth shall govern the effect of domesticating in the commonwealth pursuant to this subdivision.
+        </section>
+        <section prefix="b">
+    	     A domestic business corporation may become a foreign business corporation only if the domestication is permitted by the laws of the foreign jurisdiction. Regardless of whether the laws of the foreign jurisdiction require the adoption of a plan of domestication, the domestication shall be approved by the adoption by the corporation of a plan of domestication in the manner provided in this subdivision. The laws of the foreign jurisdiction shall govern the effect of domesticating in that jurisdiction.
+        </section>
+        <section prefix="c">
+    	     The plan of domestication adopted by a domestic business corporation shall include:
+        </section>
+        <section prefix="1">
+    	     a statement of the jurisdiction in which the corporation is to be domesticated;
+        </section>
+        <section prefix="2">
+    	     the terms and conditions of the domestication;
+        </section>
+        <section prefix="3">
+    	     the manner and basis of reclassifying the shares of the corporation into other shares or other securities, obligations, rights to acquire shares or other securities, cash, other property, or any combination of the foregoing; and
+        </section>
+        <section prefix="4">
+    	     any amendments to the articles of organization of the corporation following its domestication that may be desired.
+        </section>
+        <section prefix="d">
+    	     The plan of domestication may also include a provision that the plan may be amended before filing the document required by the laws of the commonwealth or the other jurisdiction to consummate the domestication, except that subsequent to the approval of the plan by the shareholders the plan may not be amended to change:
+        </section>
+        <section prefix="1">
+    	     the amount or kind of shares or other securities, obligations, rights to acquire shares or other securities, cash, or other property to be received by the shareholders under the plan;
+        </section>
+        <section prefix="2">
+    	     the articles of organization as they will be in effect immediately following the domestication, except for changes permitted by section 10.05 or by comparable laws of the other jurisdiction; or
+        </section>
+        <section prefix="3">
+    	     any of the other terms or conditions of the plan if the change would adversely affect any of the shareholders in any material respect.
+        </section>
+    </text>
+</law>

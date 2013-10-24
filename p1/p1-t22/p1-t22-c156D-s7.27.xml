@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.27</section_number>
+    <catch_line>Greater Or Lesser Quorum Or Voting Requirements For Shareholders</catch_line>
+    <order_by>7.27</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization, or a bylaw adopted in conformity to section 10.21, may provide for a greater or lesser quorum requirement for action by any voting group, or for a greater affirmative vote requirement, including additional separate voting groups, than is provided for by this chapter. Whenever authorized by this chapter, the board of directors may require for the approval of a matter submitted to a vote of the shareholders satisfaction of a greater quorum requirement for any voting group, or receipt of a greater affirmative vote of the shareholders, including more separate voting groups, than is required by this chapter or the articles or bylaws.
+        </section>
+        <section prefix="b">
+    	     If any provision of this chapter requires the affirmative vote of more than a majority of the shares in any voting group, the articles of organization may provide that favorable action may be taken by vote of a lesser proportion of shares than the chapter specifies, but not less than a majority of all the shares in the voting group eligible to vote on the matter.
+        </section>
+        <section prefix="c">
+    	     Action to approve an amendment to the articles of organization or bylaws that changes or deletes a quorum or voting requirement for action by shareholders must satisfy both the quorum and voting requirements then applicable for amendment of the articles or bylaws, as the case may be, and also the quorum and voting requirements sought to be changed or deleted.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Invalid Levy; Remedy</catch_line>
+    <order_by>51</order_by>
+    <text>
+        If, after the return of an execution, it appears to the creditor that the land levied on, or any part thereof, cannot be held thereby, he may move the court which issued the execution to order the debtor to appear and show cause why another execution should not be issued on the same judgment, and the court may so order although there is a subsequent judgment for a part thereof not satisfied by the levy. If the debtor, after being duly summoned, does not show sufficient cause to the contrary, the levy of the former execution may be set aside and another execution issued for the amount then due on the original judgment and not included in a subsequent judgment, but without interest or further costs.
+    </text>
+</law>

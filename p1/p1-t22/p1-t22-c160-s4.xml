@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Corporation Chartered Concurrently With Another State</catch_line>
+    <order_by>4</order_by>
+    <text>
+        A railroad corporation chartered by the concurrent legislation of this and other states shall, as regards any portion of its railroad lying within this commonwealth, be entitled to all the benefits and be subject to all the liabilities of the railroad corporations of this commonwealth.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Appeals</catch_line>
+    <order_by>16</order_by>
+    <text>
+        An appeal may be taken from (1) an order denying an application to compel arbitration made under paragraph (a) of section two; (2) an order granting an application to stay arbitration made under paragraph (b) of section two; (3) an order confirming or denying confirmation of an award; (4) an order modifying or correcting an award; (5) an order vacating an award without directing a rehearing; or (6) a judgment or decree entered pursuant to the provisions of this chapter. 
+Such appeal shall be taken in the manner and to the same extent as from orders or judgments in an action.
+    </text>
+</law>

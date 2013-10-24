@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>False Articles; Liability Of Officers And Incorporators</catch_line>
+    <order_by>64</order_by>
+    <text>
+        The incorporators and officers of a corporation who sign any articles of organization, articles of amendment, or articles of consolidation or merger required by this chapter which are false in any material respect with regard to said corporation shall be jointly and severally liable to any stockholder of said corporation or of the resulting or surviving corporation, as the case may be, for the actual damage sustained by such stockholder by reason of reliance on such false statement, except that such incorporators and officers shall not be liable to any such stockholder by reason of reliance on such false statement occurring after the filing of corrected or amended articles of organization, articles of amendment, or articles of consolidation or merger in which such false statement is corrected.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>100</section_number>
+    <catch_line>Sale Of Property To Another Gas Or Electric Company; Exceptions</catch_line>
+    <order_by>100</order_by>
+    <text>
+        Any company subject to this chapter engaged both in the business of an electric company and of a gas company may, notwithstanding any other provisions of this chapter or of any general or special law, sell and convey its properties used or useful in the electric business or its properties used or useful in the gas business to another company subject to this chapter, and such other company may purchase such properties, with the approval of the department but subject to such of the provisions of sections ninety-six, ninety-eight and ninety-nine as may be applicable and consistent herewith.
+    </text>
+</law>

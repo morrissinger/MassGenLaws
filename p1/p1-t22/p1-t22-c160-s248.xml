@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>248</section_number>
+    <catch_line>Agreement Of Association</catch_line>
+    <order_by>248</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a railroad corporation, or a railroad and telegraph corporation.
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed.
+        </section>
+        <section prefix="c">
+    	     The termini of the railroad, or the railroad and the telegraph.
+        </section>
+        <section prefix="d">
+    	     The total amount of the capital stock of the corporation.
+        </section>
+        <section prefix="e">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are chosen and qualified in their stead.
+        </section>
+    </text>
+</law>

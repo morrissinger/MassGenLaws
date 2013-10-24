@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>215</section_number>
+    <catch_line>Suspension, Revocation Or Nonrenewal Of License</catch_line>
+    <order_by>215</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall have the right to suspend, revoke or refuse to renew the license of any viatical settlement or loan provider or viatical settlement or loan broker if the commissioner finds that:
+        </section>
+        <section prefix="1">
+    	     there was any material misrepresentation in the application for the license;
+        </section>
+        <section prefix="2">
+    	     the holder of the license has been guilty of fraudulent or dishonest practices, is subject to a final administrative action or is otherwise shown to be untrustworthy or incompetent to act as a viatical settlement or loan provider or viatical settlement or loan broker;
+        </section>
+        <section prefix="3">
+    	     the viatical settlement or loan provider demonstrates a pattern of unreasonable payments to viators or borrowers; or
+        </section>
+        <section prefix="4">
+    	     the licensee has been found guilty of, or has pleaded guilty or nolo contendere to, a felony, or a misdemeanor involving fraud or moral turpitude;
+        </section>
+        <section prefix="5">
+    	     the viatical settlement or loan provider or viatical settlement or loan broker has entered into viatical settlement or loan contracts that have not been approved pursuant to sections 212 to 223, inclusive;
+        </section>
+        <section prefix="6">
+    	     the viatical settlement or loan provider or viatical settlement or loan broker has failed to honor contractual obligations set out in viatical settlement or loan contracts;
+        </section>
+        <section prefix="7">
+    	     the licensee no longer meets the requirements for initial licensure;
+        </section>
+        <section prefix="8">
+    	     the viatical settlement or loan provider has assigned or pledged a viaticated policy to a person other than to a duly licensed viatical settlement or loan provider or a financing entity; or
+        </section>
+        <section prefix="9">
+    	     the licensee has violated any of the provisions of sections 212 to 223, inclusive, of this chapter.
+        </section>
+        <section prefix="b">
+    	     Before the commissioner shall deny a license application or revoke or refuse to renew the license of a viatical settlement or loan provider or a viatical settlement or loan broker, the commissioner shall conduct a hearing in accordance with chapter 30A. The commissioner shall also have the right to suspend a license for up to 30 days following the issuance of a cease and desist order demanding the licensee show cause within said 30 days why such license should not be revoked or non-renewed.
+        </section>
+    </text>
+</law>

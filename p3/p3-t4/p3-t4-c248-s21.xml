@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Prisoners Committed On Criminal Charges; Bail</catch_line>
+    <order_by>21</order_by>
+    <text>
+        If a person is committed to jail on a criminal accusation for want of bail, a justice of the superior court or of a district court or a trial justice may issue a writ of habeas corpus and cause the prisoner to be brought before him, when it is necessary for the purpose of admitting him to bail pursuant to chapter two hundred and seventy-six.
+    </text>
+</law>

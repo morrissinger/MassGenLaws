@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Appraisal When Several Parcels Are Levied Upon</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If the execution is levied at the same time upon several parcels of land, each parcel may be separately appraised, or all may be appraised together. If several parcels are taken successively on the same execution, all the parcels may be appraised by the appraisers first appointed, or appraisers may be appointed for each parcel.
+    </text>
+</law>

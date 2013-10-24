@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>89</section_number>
+    <catch_line>Officers And Subscribers; Liability   </catch_line>
+    <order_by>89</order_by>
+    <text>
+        If a subscriber to the agreement specified in section eighty-six fails to pay his subscription or any assessment thereon, and it is proved that the president or a director certified falsely under said section in regard to such subscriber, the person certifying shall be liable to the company for such amount as the subscriber fails to pay.
+If any such company is at any time liable for losses beyond the amount of its assets, the president and directors shall personally be liable for all losses on insurance effected while the company was in such condition.
+    </text>
+</law>

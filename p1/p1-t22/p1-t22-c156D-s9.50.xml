@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.50</section_number>
+    <catch_line>Entity Conversion Authorized; Definitions</catch_line>
+    <order_by>9.50</order_by>
+    <text>
+        <section prefix="a">
+    	     A domestic business corporation may become a domestic other entity pursuant to a plan of entity conversion. If the organic law of the other entity does not provide for such a conversion, section 9.55 governs the effect of converting to that form of entity.
+        </section>
+        <section prefix="b">
+    	     A domestic business corporation may become a foreign other entity only if the entity conversion is permitted by the laws of the foreign jurisdiction. The laws of the foreign jurisdiction governs the effect of converting to an other entity organized in that jurisdiction.
+        </section>
+        <section prefix="c">
+    	     A domestic other entity may become a domestic business corporation. If the organic law of a domestic other entity does not provide procedures for the approval of an entity conversion, the conversion shall be adopted and approved, and the entity conversion effectuated, in the same manner as a merger of the other entity and its interest holders shall be entitled to appraisal rights if appraisal rights are available upon any type of merger under the organic law of the other entity. If the organic law of a domestic other entity does not provide procedures for the approval of either an entity conversion or a merger, a plan of entity conversion shall be adopted and approved, the entity conversion effectuated, and appraisal rights exercised, in accordance with the procedures in this subdivision and PART 13. Without limiting the provisions of this subsection, a domestic other entity whose organic law does not provide procedures for the approval of an entity conversion shall be subject to subsection (e) of this section and clause (7) of section 9.52. For purposes of applying this subdivision and PART 13:
+        </section>
+        <section prefix="1">
+    	     the other entity, its interest holders, interests and organic documents taken together, shall be deemed to be a domestic business corporation, shareholders, shares and articles of organization, respectively, and vice versa, as the context may require; and
+        </section>
+        <section prefix="2">
+    	     if the business and affairs of the other entity are managed by a group of persons that is not identical to the interest holders, that group shall be deemed to be the board of directors.
+        </section>
+        <section prefix="d">
+    	     A foreign other entity may become a domestic business corporation if the organic law of the foreign other entity authorizes it to become a corporation in another jurisdiction. The laws of the commonwealth shall govern the effect of converting to a domestic business corporation pursuant to this subdivision.
+        </section>
+        <section prefix="e">
+    	     As used in this SUBDIVISION the following words shall have the following meanings unless the context requires otherwise.
+        </section>
+    </text>
+</law>

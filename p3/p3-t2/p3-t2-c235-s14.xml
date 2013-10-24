@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Executions In Actions On Judgments</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     If a judgment is rendered for the plaintiff by a court in an action founded on a judgment rendered by a court outside of the commonwealth, execution shall not issue until the plaintiff files with the court rendering the judgment in the later action a transcript of the record of the judgment in the earlier case under the seal of the court rendering it, attested by the clerk of such court.
+        </section>
+        <section prefix="b">
+    	     If a judgment is rendered for the plaintiff by a court in an action founded on a judgment rendered by a different court, within the commonwealth, execution shall not issue until the plaintiff files with the court rendering the judgment in the later action, a certificate of the judgment in the earlier case under the seal of the court rendering it, attested by the clerk of such court.
+        </section>
+    </text>
+</law>

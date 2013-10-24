@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>235</section_number>
+    <catch_line>Spark Arresters</catch_line>
+    <order_by>235</order_by>
+    <text>
+        Every corporation operating a railroad shall install and maintain on locomotives in its service spark arresters or other suitable devices capable of preventing the discharge of sparks or other material which could start a fire. Said spark arresters or other suitable devices shall be subject to the approval and inspection of the department.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176L" order_by="176L" level="3">Risk Retention And Risk Purchasing Groups</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>License Requirement</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="A">
+    	     No person, firm, association or corporation shall act or aid in any manner in soliciting, negotiating or procuring liability insurance in the commonwealth from a risk retention group unless such person, firm, association or corporation is licensed in accordance with the applicable provisions of chapter one hundred and seventy-five.
+        </section>
+        <section prefix="2">
+    	     No person, firm, association or corporation shall act or aid in any manner in soliciting, negotiating or procuring liability insurance coverage in the commonwealth for any member of a purchasing group under a purchasing group’s policy unless such person, firm, association or corporation is licensed in accordance with the applicable provisions of chapter one hundred and seventy-five.
+        </section>
+        <section prefix="C">
+    	     For purposes of acting as an agent or broker for a risk retention group or purchasing group pursuant to subsections (A) and (B), any requirement of residence in the commonwealth shall not apply.
+        </section>
+        <section prefix="D">
+    	     Every person, firm, association or corporation licensed pursuant to the provisions of chapter one hundred and seventy-five, on business placed with risk retention groups or written through a purchasing group, shall inform each prospective insured of the provisions of the notice required by subsection (G) of section three in the case of a purchasing group and subsection (B) of section eight in the case of a purchasing group.
+        </section>
+        <section prefix="2">
+    	     Each licensee who has placed business with or on behalf of a risk retention group not chartered in the commonwealth shall report to the commissioner the premiums for direct business on residents or risk located within the commonwealth.
+        </section>
+        <section prefix="3">
+    	     Each licensee who places business with a risk retention group shall keep a complete and separate record of all policies procured from each such risk retention group, which record shall be open to examination by the commissioner, as provided in section five of chapter one hundred and seventy-six D. These records shall, for each policy and each kind of insurance provided thereunder, include the following:
+        </section>
+        <section prefix="a">
+    	     the limit of liability; (b) the time period covered; (c) the effective date; (d) the name of the risk retention group which issued the policy; (e) the gross premium charged; and (f) the amount of return premiums, if any.
+        </section>
+    </text>
+</law>

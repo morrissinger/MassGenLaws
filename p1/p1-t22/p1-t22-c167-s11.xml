@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Shortages In Funds; Reports; Fine</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Any shortage of five thousand dollars or more in a bank shall, within forty-eight hours of discovery thereof by an officer of the bank in or with respect to which such shortage occurs, be reported in writing to the commissioner by the president and treasurer of the bank in which the shortage occurs, or in the absence of either of said officers by the officer performing the duties of such office. 
+Any person who wilfully violates the provisions of this section or section ten shall be guilty of a misdemeanor and shall be punished by a fine of not less than two hundred or more than one thousand dollars.
+    </text>
+</law>

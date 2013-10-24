@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166" order_by="166" level="3">Telephone And Telegraph Companies, And Lines For The Transmission Of Electricity</unit>
+    </structure>
+    <section_number>22F</section_number>
+    <catch_line>Notice Of Hearing Or Ordinance To Remove Overhead Wires</catch_line>
+    <order_by>22F</order_by>
+    <text>
+        <section prefix="a">
+    	     When the planning board, board of selectmen, city council or committee of any municipality calls a public hearing pursuant to section twenty-two B, the clerk of the municipality shall publish a copy of said resolution in a newspaper of general circulation in the municipality at least once not more than fifteen nor less than five days prior to said hearing.
+        </section>
+        <section prefix="b">
+    	     When a municipality adopts an ordinance or by-law pursuant to section twenty-two C or section twenty-two D the clerk of the municipality shall, in addition to any other notice required by law, notify all utilities known to have poles and overhead wires and associated overhead structures affected by said ordinance or by-law and all persons known to own real property served by said poles and overhead wires and associated overhead structures, by mailing a copy thereof to said persons and utilities within thirty days after the date it was adopted.
+        </section>
+    </text>
+</law>

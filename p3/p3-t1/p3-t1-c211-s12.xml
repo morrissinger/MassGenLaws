@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Law Sittings; Adjournments</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The supreme judicial court shall hold sittings for the hearing and determination of questions of law arising in any cases at such times and places as the court shall by rule determine, and any such sittings may be adjourned to such places and times as shall appear to the court to be most conducive to the dispatch of business and to the interests of the public.
+    </text>
+</law>

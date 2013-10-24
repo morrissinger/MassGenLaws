@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Settlement For Amount Less Than Owed; Conditions; Agreements Subject To Attorney General Review; Reopening Of Case</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any other provision of this chapter, the commissioner may accept a lesser amount than that owed by the employer in full and final settlement thereof, provided that the following conditions are met:
+        </section>
+        <section prefix="1">
+    	     the employer has filed a petition in bankruptcy pursuant to 11 USC section 101 et seq;
+        </section>
+        <section prefix="2">
+    	     the commissioner finds that collectibility of the amount due is doubtful;
+        </section>
+        <section prefix="3">
+    	     the commissioner finds that the employer has not acted with intent to defraud;
+        </section>
+        <section prefix="4">
+    	     there is a written agreement signed by the employer and the commissioner or the commissioner’s representative, setting forth the reasons for the settlement and all relevant information, including, but not limited to, the name and address of the employer, the settlement amount, and the amount actually paid in accordance with the terms of the settlement. Upon request the commissioner shall make available for public inspection said written agreement; and
+        </section>
+        <section prefix="5">
+    	     the settlement agreement is approved by the federal bankruptcy court judge assigned to the case.
+        </section>
+        <section prefix="b">
+    	     Any settlement agreement under this section which proposes to accept an amount which is twenty thousand dollars or more less than the full amount owed by the employer or which proposes to accept an amount which is less than fifty percent of the full amount owed by the employer shall be submitted to the attorney general for review. Any such settlement proposal shall take effect twenty-one days after its receipt by the attorney general, unless the attorney general objects in writing to the settlement. In the event the attorney general objects to a settlement proposal, such settlement shall not take effect until the objection is resolved by the commissioner and attorney general. Any settlement approved under the terms of this section shall not be subject to the confidentiality provisions of section forty-six.
+        </section>
+        <section prefix="c">
+    	     Neither the employer nor the commissioner, upon signing the settlement agreement, shall be permitted to reopen the case except by reason of (1) falsification or concealment of assets or concealment of the actual amount owed by the employer, or (2) mutual mistake of a material fact sufficient to cause a contract to be reformed or set aside.
+        </section>
+        <section prefix="d">
+    	     Notwithstanding the provisions of section sixty-nine A, any amount owed that is not collected pursuant to the provisions of this section may be charged off by the commissioner.
+        </section>
+    </text>
+</law>

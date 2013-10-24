@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Minor Children; Removal From Commonwealth; Prohibition</catch_line>
+    <order_by>30</order_by>
+    <text>
+        A minor child of divorced parents who is a native of or has resided five years within this commonwealth and over whose custody and maintenance a probate court has jurisdiction shall not, if of suitable age to signify his consent, be removed out of this commonwealth without such consent, or, if under that age, without the consent of both parents, unless the court upon cause shown otherwise orders. The court, upon application of any person in behalf of such child, may require security and issue writs and processes to effect the purposes of this and the two preceding sections.
+    </text>
+</law>

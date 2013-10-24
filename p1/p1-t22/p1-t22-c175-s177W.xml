@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177W</section_number>
+    <catch_line>Administrative Actions; Penalties</catch_line>
+    <order_by>177W</order_by>
+    <text>
+        <section prefix="A">
+    	     A reinsurance intermediary shall be considered to be in the business of insurance for purposes of the applicability of chapter one hundred and seventy-six D. In addition to the remedies provided by that chapter, in any administrative action against a reinsurance intermediary the commissioner may order:
+        </section>
+        <section prefix="1">
+    	     For each separate violation, a penalty in an amount up to ten thousand dollars; (2) The reinsurance intermediary to make restitution to the insurer, reinsurer, rehabilitator or liquidator of the insurer or reinsurer for the net losses incurred by the insurer or reinsurer attributable to such violation.
+        </section>
+        <section prefix="B">
+    	     Nothing contained in this section shall affect the right of the commissioner to impose any other penalties provided in this chapter or any other applicable sections of the General Laws.
+        </section>
+        <section prefix="C">
+    	     Nothing contained in these sections is intended to or shall in any manner limit or restrict the rights of policyholders, claimants, creditors or other third parties or confer any rights on such persons.
+        </section>
+    </text>
+</law>

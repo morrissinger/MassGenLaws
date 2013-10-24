@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.29</section_number>
+    <catch_line>Form Of Shareholder Action</catch_line>
+    <order_by>7.29</order_by>
+    <text>
+        <section prefix="a">
+    	     Any vote, consent, waiver, proxy appointment or other action by a shareholder or by the proxy or other agent of any shareholder pursuant to any section of this chapter shall be considered given in writing, dated and signed as required by this chapter if, in lieu of any other means permitted by this chapter, it consists of an electronic transmission that sets forth or is delivered with information from which the corporation can determine (i) that the electronic transmission was transmitted by the shareholder, proxy or agent or by a person authorized to act for the shareholder, proxy or agent; and (ii) the date on which such shareholder, proxy, agent or authorized person transmitted the electronic transmission. The date on which the electronic transmission is transmitted shall be considered to be the date on which it was signed. The electronic transmission shall be considered received by the corporation if it has been sent to any address specified by the corporation for the purpose or, if no address has been specified, to the principal office of the corporation, addressed to the secretary or other officer or agent having custody of the records of proceedings of shareholders.
+        </section>
+        <section prefix="b">
+    	     Any copy, facsimile or other reliable reproduction of a vote, consent, waiver, proxy appointment or other action by a shareholder or by the proxy or other agent of any shareholder may be substituted or used in lieu of the original writing for any purpose for which the original writing could be used, but the copy, facsimile or other reproduction shall be a complete reproduction of the entire original writing.
+        </section>
+    </text>
+</law>

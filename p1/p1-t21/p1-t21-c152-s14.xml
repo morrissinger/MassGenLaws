@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Actions Not Based On Reasonable Grounds; Illegal Or Fraudulent Conduct; Costs And Penalties</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     Except as provided in subsection three, if any administrative judge or administrative law judge determines that any proceedings have been brought, prosecuted, or defended by an insurer without reasonable grounds:
+        </section>
+        <section prefix="a">
+    	     the whole cost of the proceedings shall be assessed upon the insurer; and
+        </section>
+        <section prefix="b">
+    	     if a subsequent order requires that additional compensation be paid, a penalty of double back benefits of such amount shall be paid by the insurer to the employee, and such penalty shall not be included in any formula utilized to establish premium rates for workers’ compensation insurance.
+        </section>
+        <section prefix="2">
+    	     If it is determined that in any proceeding within the division of dispute resolution, a party, including an attorney or expert medical witness acting on behalf of an employee or insurer, concealed or knowingly failed to disclose that which is required by law to be revealed, knowingly used perjured testimony or false evidence, knowingly made a false statement of fact or law, participated in the creation or presentation of evidence which he knows to be false, or otherwise engaged in conduct that such party knew to be illegal or fraudulent, the party’s conduct shall be reported to the general counsel of the insurance fraud bureau. Notwithstanding any action the insurance fraud bureau may take, the party shall be assessed, in addition to the whole costs of such proceedings and attorneys’ fees, a penalty payable to the aggrieved insurer or employee, in an amount not less than the average weekly wage in the commonwealth multiplied by six. A copy of any order or decision requiring the payment of penalties by an attorney under this section shall be referred to the board of bar overseers. Any expert medical witness who knowingly makes false statements in any medical report or deposition or who provides testimony of any kind in a proceeding under this chapter on behalf of a party he knows to be engaging in a fraudulent claim or defense, shall be subject to the same penalties applicable to attorneys herein. A copy of any order or decision requiring the payment of penalties by a physician under this section shall be reported to the appropriate board of registration. Any action provided in this subsection shall be brought by an employee or insurer in the department, or by an employee, employer or insurer in the superior court department of the trial court for the county in which the injury occurred or in the county of Suffolk; provided, however, that if presented to the superior court for the county of Suffolk, the court may, on motion of any party in interest, order the case removed to the superior court for the county in which the injury occurred.
+        </section>
+        <section prefix="3">
+    	     Notwithstanding any provision of section one hundred and eleven A of chapter two hundred and sixty-six to the contrary, any person who knowingly makes any false or misleading statement, representation or submission or knowingly assists, abets, solicits or conspires in the making of any false or misleading statement, representation or submission, or knowingly conceals or fails to disclose knowledge of the occurrence of any event affecting the payment, coverage or other benefit for the purpose of obtaining or denying any payment, coverage, or other benefit under this chapter; and any person or employer who knowingly misclassifies employees or engages in deceptive employee leasing practices for the purpose of avoiding full payment of insurance premiums; and any law firm, healthcare establishment or agent thereof that employs or contracts persons or firms to personally coerce or encourage individuals to file compensation claims, shall be punished by imprisonment in the state prison for not more than five years or by imprisonment in jail for not less than six months nor more than two and one-half years or by a fine of not less than one thousand nor more than ten thousand dollars, or by both such fine and imprisonment.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>91</section_number>
+    <catch_line>Registration Of Decrees</catch_line>
+    <order_by>91</order_by>
+    <text>
+        A decree of a court of competent jurisdiction affecting title or rights in registered land, whether made in the exercise of general equity jurisdiction or in the exercise of jurisdiction conferred by statute, may be registered in the same manner as a judgment at law. But every court making such a decree shall, upon application of the plaintiff or petitioner, order any parties before it to execute for registration any deed or instrument necessary to give effect to its decree. If the person required to execute any deed or other instrument for the purpose of giving effect to the decree is absent from the commonwealth, or is a minor, or insane, or for any reason is not amenable to the process of the court, it may appoint a trustee to execute such instrument, which, when executed, shall be registered and shall have full force and effect to bind the land to be affected thereby.
+    </text>
+</law>

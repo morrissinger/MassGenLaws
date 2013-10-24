@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="202" order_by="202" level="3">Sales, Mortgages And Leases Of Real Estate By Executors, Administrators, Guardians And Conservators</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Notice Of Petition; Service</catch_line>
+    <order_by>10</order_by>
+    <text>
+        No license to sell real estate shall be granted to an executor or administrator until notice of the petition and of the time and place appointed for hearing the same has been given by serving such notice personally on all persons interested in the estate at least fourteen days before the time appointed for the hearing, or by publication at such times and in such newspaper as the court orders.
+    </text>
+</law>

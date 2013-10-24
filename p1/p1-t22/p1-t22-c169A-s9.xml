@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="169A" order_by="169A" level="3">Licensing Of Check Cashers</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Violations; Temporary Cease And Desist Orders</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     If the commissioner determines, after giving notice of and opportunity for a hearing, that a licensee has engaged in or is about to engage in an act or practice constituting a violation of a provision of this chapter or a rule, regulation or order adopted hereunder, said commissioner may order such licensee to cease and desist from such unlawful act or practice and take such affirmative action as in his judgment will effect the purposes of this chapter.
+        </section>
+        <section prefix="b">
+    	     If the commissioner makes written findings of fact that the public interest will be irreparably harmed by a delay in issuing an order under subsection (a) he may issue a temporary cease and desist order. Upon the entry of a temporary cease and desist order, the commissioner shall promptly notify, in writing, the licensee affected thereby that such order has been so entered, the reasons therefor, and that within twenty days after the receipt of a written request for a hearing from such licensee, the matter will be scheduled for such hearing to determine whether or not such temporary order shall become permanent and final. If no such hearing is requested and none is ordered by the commissioner, the order shall remain in effect until it is modified or vacated by the commissioner. If a hearing is requested or ordered, the commissioner, after giving notice of and opportunity for a hearing to the licensee subject to such order, shall, by written finding of facts and conclusions of law, vacate, modify or issue a permanent cease and desist order.
+        </section>
+        <section prefix="c">
+    	     No order under this section, except an order issued pursuant to subsection (b), may be entered without prior notice and opportunity for a hearing. The commissioner may vacate or modify an order under this section upon a finding that the conditions which required such order have changed and that it is in the public interest to vacate or modify such order.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>8A</section_number>
+    <catch_line>Other Employing Units Subject To Statute</catch_line>
+    <order_by>8A</order_by>
+    <text>
+        <section prefix="a">
+    	     An employing unit for which services described under subsection (a) of section four A are performed shall be subject to the provisions of this chapter notwithstanding the provisions of subsection (a) of section eight.
+        </section>
+        <section prefix="b">
+    	     An employing unit for which services described under subsection (b) of section four A are performed, shall be subject to the provisions of this chapter as of January first, nineteen hundred and seventy-eight, who or which, paid remuneration in cash in any calendar quarter during the year nineteen hundred and seventy-seven, amounting to twenty thousand dollars or more to individuals performing such services, or employed ten or more individuals performing such services on some day in each of twenty weeks during the year nineteen hundred and seventy-seven. The employment of ten or more individuals in service described under subsection (b) of section four A on same day in each of twenty weeks, or the payment of remuneration in cash amounting to twenty thousand dollars or more for such services in any calendar quarter in the year nineteen hundred and seventy-eight or in any subsequent year shall constitute the employing unit thereof an employer as of January first of the year in which such employment or payment of remuneration occurs.
+        </section>
+        <section prefix="c">
+    	     Any employing unit for which services described under subsection (c) of section four A are performed, who or which, or whose agent paid remuneration in cash amounting to one thousand dollars or more in any calendar quarter during the year nineteen hundred and seventy-seven shall be subject to the provisions of this chapter as of January first, nineteen hundred and seventy-eight.
+        </section>
+        <section prefix="d">
+    	     An employing unit for which services described under subsections (b) and (c) of section four A are performed shall be subject to the provisions of this chapter, who or which, or whose agent would be subject under subsections (b) to (h), inclusive, of section eight.
+        </section>
+    </text>
+</law>

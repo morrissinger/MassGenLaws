@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Parties; Joinder; Service Of Process</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     After examination of the pleadings, affidavits, certified copies of the documentation relative to other custody proceedings and such oral testimony as it may require, the court shall determine the proper parties to the custody proceeding.
+        </section>
+        <section prefix="b">
+    	     During the pendency of the proceeding, the court may require the joinder of additional parties and in that event, the court shall specify that such additional parties be served with process in accordance with section five or six, as applicable, or that they be otherwise notified in such manner as the court shall determine.
+        </section>
+    </text>
+</law>

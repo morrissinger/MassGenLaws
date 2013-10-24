@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>35C</section_number>
+    <catch_line>Date Of Eligibility; Benefits Applicable; Adjustments</catch_line>
+    <order_by>35C</order_by>
+    <text>
+        When there is a difference of five years or more between the date of injury and the initial date on which the injured worker or his survivor first became eligible for benefits under section thirty-one, thirty-four, thirty-four A, or section thirty-five, the applicable benefits shall be those in effect on the first date of eligibility for benefits. 
+For purposes of adjustments to compensation under sections thirty-four B and thirty-five F for employees subject to this section, the first date of eligibility for benefits rather than the date of injury shall be used for purposes of computing such supplemental benefits.
+    </text>
+</law>

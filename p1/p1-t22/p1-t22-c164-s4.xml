@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Application Of Chapter 156 B</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Sections seven, nine, nine A, ten, fourteen, sixteen, seventeen, twenty, twenty-six, twenty-nine through forty, forty-two through fifty-nine, sixty-one, sixty-two, sixty-five through sixty-nine, seventy-seven, ninety-nine through one hundred and thirteen and one hundred and fifteen.
+        </section>
+        <section prefix="c">
+    	     Sections sixty-three and sixty-four shall apply also to statements, reports, articles of organization, articles of amendment and articles of consolidation or merger required to be filed pursuant to this chapter or chapter one hundred and fifty-six B.
+        </section>
+    </text>
+</law>

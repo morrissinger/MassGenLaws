@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176J" order_by="176J" level="3">Small Group Health Insurance</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Disclosure By Carriers</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Every carrier shall make reasonable disclosure to prospective small business insureds, as part of its solicitation and sales material of:—
+        </section>
+        <section prefix="1">
+    	     the surcharge, if any, which shall be applied to a group’s premium if one or more members are covered in the plan set forth in section 8; and
+        </section>
+        <section prefix="2">
+    	     the participation requirements or participation rate adjustments of the carrier for each health benefit plan.
+        </section>
+        <section prefix="b">
+    	     Every carrier, as a condition of doing business under the jurisdiction of this chapter on and after January 1, 2007, shall electronically file with the commissioner an annual actuarial opinion that the carrier’s rating methodologies and rates to be applied in the upcoming calendar year comply with the requirements of this chapter and any regulations promulgated under the authority of this chapter. In addition, every carrier shall file electronically an annual statement of the number of eligible individuals, eligible employees and eligible dependents, as of the close of the preceding calendar year, enrolled in a health benefit plan offered by the carrier. A carrier that may require eligible individuals or eligible small groups with 5 or fewer eligible employees to obtain coverage through an intermediary or the connector shall file a list of those intermediaries, with associated contact information, before requiring those small groups to go through an intermediary to obtain small group health coverage. Every carrier shall maintain at its principal place of business a complete and detailed description of its rating practices including information and documentation which demonstrates that its rating methods and practices are based upon commonly accepted actuarial assumptions, are under sound actuarial principles, and comply with this chapter. Such information shall be made available to the commissioner upon request, but shall remain confidential.
+        </section>
+        <section prefix="c">
+    	     Every carrier shall notify the commissioner regarding any material changes or additions to the actuarial methodology at least 30 days before the effective date of the change or addition, including amendments to rate basis types, rating factors, intermediary relationships, distribution networks and products offered within this market. If the commissioner determines that a carrier is not complying with this chapter, the commissioner may disapprove the rating methodologies and the rates which the carrier uses.
+        </section>
+    </text>
+</law>

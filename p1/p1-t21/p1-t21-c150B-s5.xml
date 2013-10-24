@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150B" order_by="150B" level="3">Peaceful Settlement Of Industrial Disputes Dangerous To Public Health And Safety</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Relief Against Violations Of Statutes; Injunction</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     No person, other than the commonwealth as provided in subsection (b) hereof and except as provided in subsection (c) of section four, shall be entitled to legal or equitable relief in any court of the commonwealth as a result of a violation of any provision of this chapter.
+        </section>
+        <section prefix="b">
+    	     The superior court in an action by the commonwealth shall have jurisdiction to restrain and enjoin violations of this chapter and such jurisdiction shall not be limited by the provisions concerning labor disputes contained in section twenty C of chapter one hundred and forty-nine, sections one and six of chapter two hundred and fourteen, and sections thirteen A and thirteen B of chapter two hundred and twenty; provided that such actions shall be brought by direction of the governor and not otherwise.
+        </section>
+    </text>
+</law>

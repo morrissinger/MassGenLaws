@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.04</section_number>
+    <catch_line>Action Without Meeting</catch_line>
+    <order_by>7.04</order_by>
+    <text>
+        <section prefix="a">
+    	     Action required or permitted by this chapter to be taken at a shareholders’ meeting may be taken without a meeting if the action is taken either: (1) by all shareholders entitled to vote on the action; or (2) to the extent permitted by the articles of organization, by shareholders having not less than the minimum number of votes necessary to take the action at a meeting at which all shareholders entitled to vote on the action are present and voting. The action shall be evidenced by 1 or more written consents that describe the action taken, are signed by shareholders having the requisite votes, bear the date of the signatures of such shareholders, and are delivered to the corporation for inclusion with the records of meetings within 60 days of the earliest dated consent delivered to the corporation as required by this section.
+        </section>
+        <section prefix="b">
+    	     If not otherwise fixed under section 7.03 or 7.07, the record date for determining shareholders entitled to take action without a meeting is the date the first shareholder signs the consent under subsection (a).
+        </section>
+        <section prefix="c">
+    	     A consent signed under this section has the effect of a vote at a meeting and may be described as such in any document, except that if action is taken by the consent of less than all shareholders entitled to vote on the action, any document required to be filed under this chapter with respect to such action shall state that the action was taken by consent of the required number of shareholders and that any required notice has been given to other shareholders.
+        </section>
+        <section prefix="d">
+    	     If action is to be taken pursuant to the consent of voting shareholders without a meeting, the corporation, at least 7 days before the action pursuant to the consent is taken, shall give notice, which complies in form with the requirements of section 7.05, of the action (1) to nonvoting shareholders in any case where this chapter would require such notice if the action is to be taken pursuant to a vote by voting shareholders at a meeting, and (2) if the action is to be taken pursuant to the consent of less than all the shareholders entitled to vote on the matter, to all shareholders entitled to vote who did not consent to the action. The notice shall contain, or be accompanied by, the same material that, under this chapter, would have been required to be sent to shareholders in or with the notice of a meeting at which the action would have been submitted to the shareholders for approval.
+        </section>
+    </text>
+</law>

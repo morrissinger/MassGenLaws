@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="272" order_by="272" level="3">Crimes Against Chastity, Morality, Decency And Good Order</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>31</order_by>
+    <text>
+        <section prefix="1">
+    	     whether the circumstances include sexual behavior, sexual relations, infamous conduct of a lustful or obscene nature, deviation from accepted customs and manners, or sexually oriented displays;
+        </section>
+        <section prefix="2">
+    	     whether the focal point of a visual depiction is the child’s genitalia, pubic area, or breast area of a female child;
+        </section>
+        <section prefix="3">
+    	     whether the setting or pose of a visual depiction is generally associated with sexual activity;
+        </section>
+        <section prefix="4">
+    	     whether the child is depicted in an unnatural pose or inappropriate attire, considering the child’s age;
+        </section>
+        <section prefix="5">
+    	     whether the depiction denotes sexual suggestiveness or a willingness to engage in sexual activity;
+        </section>
+        <section prefix="6">
+    	     whether the depiction is of a child engaging in or being engaged in sexual conduct, including, but not limited to, sexual intercourse, unnatural sexual intercourse, bestiality, masturbation, sado-masochistic behavior, or lewd exhibition of the genitals.
+        </section>
+        <section prefix="1">
+    	     appeals to the prurient interest of the average person applying the contemporary standards of the county where the offense was committed;
+        </section>
+        <section prefix="2">
+    	     depicts or describes sexual conduct in a patently offensive way; and
+        </section>
+        <section prefix="3">
+    	     lacks serious literary, artistic, political or scientific value.
+        </section>
+    </text>
+</law>

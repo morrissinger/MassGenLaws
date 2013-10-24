@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Trust If Child Under Specified Age</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     If property is distributable under the provisions of subparagraph (3) of section six or of section seven to a child of the testator who is under the age specified in the will or, if the will does not specify an age, under the age of twenty-three years, all shares distributable to issue of the testator shall be held in a trust under the provisions of this section. In exercising powers under subsections (b) and (c), primary consideration shall be given to the needs of children of the testator who are under the age of twenty-three years or under disability.
+        </section>
+        <section prefix="b">
+    	     Until no living child of the testator is under the age determined under subsection (a), the trustee shall pay the income and principal of the trust to or for the benefit or account of one or more of the issue of the testator in amounts the trustee deems advisable for their needs for health, education, support, or maintenance. Income not so paid may be added to principal.
+        </section>
+        <section prefix="c">
+    	     The trustee at any time in its discretion may distribute to a beneficiary the share, in whole or in part, of the trust to which the distributee would be entitled if the trust then terminated. If the whole of a share has been distributed under this subsection, the trustee thereafter shall not make any further distribution of income or principal to such distributee or issue of such distributee.
+        </section>
+        <section prefix="d">
+    	     The trust terminates when no living child of the testator is under the age determined under subsection (a) or the trustee determines that continuation of the trust is uneconomical.
+        </section>
+        <section prefix="e">
+    	     Subject to the provisions of subsection (c) and section nine, the property in the trust shall be distributed upon termination to the issue of the testator in proportion to the shares determined at the death of the surviving spouse under the provisions of subparagraph (3) of section six, or at the death of the testator under the provisions of section seven, if there is no surviving spouse. In determining the amount to be distributed to any distributee, the trustee shall charge the share of that distributee with any partial distribution made under subsection (c) and may charge, in its discretion, the share of that distributee with distributions under subsection (b) to or for the benefit or account of the distributee, or issue or ancestor of the distributee. If any issue whose share is held in trust under the provisions of this section dies before the complete distribution of the share, the property to which the issue would have been entitled if living shall be distributed to the assignees, or, if none, to the estate of the deceased issue.
+        </section>
+        <section prefix="f">
+    	     If an issue is serving as trustee, the discretion of the trustee under this section is not exercisable, except as necessary for that individual’s needs for health, education, support, or maintenance, in favor of that individual, that individual’s estate, that individual’s creditors, or the creditors of that individual’s estate.
+        </section>
+    </text>
+</law>

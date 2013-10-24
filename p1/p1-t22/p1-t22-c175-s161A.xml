@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>161A</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>161A</order_by>
+    <text>
+        In this section and in sections one hundred and sixty-one B to one hundred and sixty-one E, inclusive, the following words shall, unless the context requires otherwise, have the following meanings:— 
+“Alien insurer”, any insurer incorporated or organized under the laws of any country or state other than the United States or one of the United States. 
+“Domestication”, the reorganization of the United States branch of an alien insurer as the result of which a domestic insurer shall succeed to all the business and assets and assume all the liabilities of the United States branch of the alien insurer. 
+“United States branch”, the business unit through which business is transacted within the United States by an alien insurer, and the assets and liabilities of such insurer within the United States pertaining to such business. 
+“Domestic insurer”, a stock insurance company incorporated under the laws of the commonwealth.
+    </text>
+</law>

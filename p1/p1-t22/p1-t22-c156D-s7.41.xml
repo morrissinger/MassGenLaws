@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.41</section_number>
+    <catch_line>Standing</catch_line>
+    <order_by>7.41</order_by>
+    <text>
+        <section prefix="1">
+    	     was a shareholder of the corporation at the time of the act or omission complained of or became a shareholder through transfer by operation of law from one who was a shareholder at that time; and
+        </section>
+        <section prefix="2">
+    	     fairly and adequately represents the interests of the corporation in enforcing the right of the corporation.
+        </section>
+    </text>
+</law>

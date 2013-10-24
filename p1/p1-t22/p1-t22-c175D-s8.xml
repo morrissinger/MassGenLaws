@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Recovery Of Claims From Fund; Assignment Of Policy Rights;  Cooperation; Liability Of Insolvent Insurer’S Receiver, Et Al.;  Settlements; Periodic Statements And Estimates Of Claims</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="1">
+    	     Any person recovering under this chapter shall be deemed to have assigned his rights under the policy to the Fund to the extent of his recovery from the Fund, but shall retain the right to recover from the receiver or liquidator of the insolvent insurer any amount of his claim under the coverage of the policy not paid by the Fund. Every person with a right to recover under this chapter shall cooperate with the Fund in the handling of the claim to the same extent as such person would have been required to cooperate with the insolvent insurer. The Fund shall have no cause of action against the insured of the insolvent insurer for any sums it has paid out.
+        </section>
+        <section prefix="2">
+    	     The receiver, liquidator or statutory successor of an insolvent insurer shall be bound by settlements of claims by the Fund and shall grant, against the assets of the insolvent insurer, priority equal to that which the claimant would have been entitled in the absence of this chapter.
+        </section>
+        <section prefix="3">
+    	     The Fund shall periodically file with the receiver or liquidator of the insolvent insurer statements of the covered claims paid by the Fund and estimates of anticipated claims on the Fund which shall preserve the rights of the Fund against the assets of the insolvent insurer.
+        </section>
+    </text>
+</law>

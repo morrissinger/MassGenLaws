@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Trade Or Employment Organizations</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Corporations may be formed under this chapter for improving the condition of any employees in any one or more trades or employments, either relative to their employment or to the promotion of education, temperance, morality or social intercourse among them, or for paying benefits to sick or unemployed members, or to persons dependent upon deceased members or otherwise.
+    </text>
+</law>

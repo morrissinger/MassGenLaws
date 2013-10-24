@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Award; Form; Delivery; Time; Waiver Of Objections</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The award shall be in writing and signed by the arbitrators concurring in the award. The arbitrators shall deliver a copy of the award to each party personally or by registered mail, or as provided in the agreement.
+        </section>
+        <section prefix="b">
+    	     An award shall be made within the time fixed therefor by the agreement or, if said time is not so fixed, within such time as the court orders upon application of a party. The parties may by an agreement in writing extend the time either before or after the expiration thereof. A party shall be deemed to have waived the objection that an award was not made within the time required unless he notifies the arbitrators of his objection prior to the delivery of the award to him.
+        </section>
+    </text>
+</law>

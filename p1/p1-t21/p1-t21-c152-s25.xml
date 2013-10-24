@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Insurer’S Liability On Judgment For Employee</catch_line>
+    <order_by>25</order_by>
+    <text>
+        If an insured person who has complied with the rules, regulations and demands of the insurer is required by a judgment of a court to pay to an employee any damages on account of personal injury sustained by such employee during the period covered by insurance, the insurer shall pay to the insured the full amount of such judgment and the cost assessed therewith if the insured shall have given the insurer written notice of the bringing of the action in which the judgment was recovered and an opportunity to appear and defend the same.
+    </text>
+</law>

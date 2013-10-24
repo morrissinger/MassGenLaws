@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>12B</section_number>
+    <catch_line>Mobile Radio Telephone Service; Certification; Exemptions</catch_line>
+    <order_by>12B</order_by>
+    <text>
+        <section prefix="a">
+    	     an extension of a system within any authorized service area within which a radio utility has theretofore lawfully operated;
+        </section>
+        <section prefix="b">
+    	     an extension within or to an authorized service area already served by the radio utility, necessary in the ordinary course of business;
+        </section>
+        <section prefix="c">
+    	     the replacement of facilities within or to any authorized service area already served by a utility;
+        </section>
+        <section prefix="d">
+    	     an extension into an area contiguous to that already served by a radio utility which is not the recipient of mobile radio telephone service from another radio utility, if no certificate for service in such contiguous area has been issued to or applied for by any other radio utility;
+        </section>
+        <section prefix="e">
+    	     the acquisition and operation of any mobile radio utility system for which a certificate had been issued for previous construction and operation by a radio utility.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Dispute Resolution</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The commission shall attempt, upon the request of a member, to resolve any disputes or other issues that are subject to this compact and which may arise between 2 or more compacting states, or between compacting states and non-compacting states, and the commission shall promulgate an operating procedure providing for resolution of those disputes.
+    </text>
+</law>

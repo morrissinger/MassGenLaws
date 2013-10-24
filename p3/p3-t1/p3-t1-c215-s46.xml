@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Summons Or Citation; Service By Registered Mail</catch_line>
+    <order_by>46</order_by>
+    <text>
+        When personal service is required of any summons or citation issued by a probate court, the court may direct such service to be made by registered mail addressed to the party entitled thereto at his post office address. Further service may be ordered.
+    </text>
+</law>

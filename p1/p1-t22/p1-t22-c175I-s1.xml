@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     The obligations imposed by this chapter shall apply to an insurance institution, insurance representative or insurance-support organization which in the case of life, health and disability insurance:
+        </section>
+        <section prefix="1">
+    	     collects, receives or maintains information in connection with an insurance transaction which pertains to a natural person who is a resident of the commonwealth; or
+        </section>
+        <section prefix="2">
+    	     engages in an insurance transaction with an applicant, individual or policyholder who is a resident of the commonwealth.
+        </section>
+        <section prefix="b">
+    	     In the case of life, health or disability insurance, the rights granted by this chapter shall extend to the following residents of the commonwealth:
+        </section>
+        <section prefix="1">
+    	     natural persons who are the subject of information collected, received or maintained in connection with insurance transactions; and
+        </section>
+        <section prefix="2">
+    	     applicants, individuals or policyholders who engage in or seek to engage in insurance transactions.
+        </section>
+        <section prefix="c">
+    	     For purposes of this section, a person shall be considered a resident of the commonwealth if such person’s last known mailing address, as shown in the records of the insurance institution, insurance representative or insurance-support organization, is located in the commonwealth.
+        </section>
+    </text>
+</law>

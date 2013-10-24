@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="205" order_by="205" level="3">Bonds Of Executors, Administrators, Guardians, Conservators, Trustees And Receivers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Joint Fiduciaries; Joint Or Separate Bonds</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Two or more persons acting jointly as executors, administrators, trustees or otherwise, who are required to give bonds, may give either separate or joint bonds.
+    </text>
+</law>

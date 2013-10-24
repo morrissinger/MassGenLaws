@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>26A</section_number>
+    <catch_line>Suicide</catch_line>
+    <order_by>26A</order_by>
+    <text>
+        Dependents shall not be precluded from recovery under this chapter, nor shall the insurance company be relieved from making payment to the commonwealth under section sixty-five, for death by suicide of the employee, if it be shown by the weight of the evidence that, due to the injury, the employee was of such unsoundness of mind as to make him irresponsible for his act of suicide.
+    </text>
+</law>

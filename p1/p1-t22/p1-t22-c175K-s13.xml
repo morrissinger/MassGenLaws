@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Withdrawals From Compact Or Default; Reinstatement; Dissolution Of Compact</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="b">
+    	     The effective date of withdrawal is the effective date of the repealing statute. However, the withdrawal shall not apply to product filings approved or self-certified, or to an advertisement of the products, on the date the repealing statute becomes effective, except by mutual agreement of the commission and the withdrawing state unless the approval is rescinded by the withdrawing state as provided in paragraph (e).
+        </section>
+        <section prefix="c">
+    	     The commissioner of the withdrawing state shall immediately notify the management committee in writing upon the introduction of legislation repealing this compact in the withdrawing state.
+        </section>
+        <section prefix="d">
+    	     The commission shall notify the other compacting states of the introduction of the legislation within 10 days after its receipt of notice thereof.
+        </section>
+        <section prefix="e">
+    	     The withdrawing state shall be responsible for all obligations, duties and liabilities incurred through the effective date of withdrawal, including any obligations, the performance of which extend beyond the effective date of withdrawal, except to the extent those obligations may have been released or relinquished by mutual agreement of the commission and the withdrawing state. The commission’s approval of products and advertisement before the effective date of withdrawal shall continue to be effective and be given full force and effect in the withdrawing state, unless formally rescinded by the withdrawing state in the same manner as provided by the laws of the withdrawing state for the prospective disapproval of products or advertisement previously approved under state law.
+        </section>
+        <section prefix="f">
+    	     Reinstatement following withdrawal of a compacting state shall occur upon the effective date of the withdrawing state reenacting the compact.
+        </section>
+        <section prefix="b">
+    	     Product approvals by the commission or product self-certifications, or any advertisement in connection with the product, that are in force on the effective date of termination shall remain in force in the defaulting state in the same manner as if the defaulting state had withdrawn voluntarily pursuant to subsection (1).
+        </section>
+        <section prefix="c">
+    	     Reinstatement following termination of any compacting state requires a reenactment of the compact.
+        </section>
+        <section prefix="b">
+    	     Upon the dissolution of this compact, the compact becomes null and void and shall be of no further force or effect, and the business and affairs of the commission shall be wound up and any surplus funds shall be distributed in accordance with the by-laws.
+        </section>
+    </text>
+</law>

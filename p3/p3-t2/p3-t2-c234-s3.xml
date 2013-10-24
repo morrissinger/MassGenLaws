@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Limit Of Service In Suffolk County</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Except as provided in section three A, a person shall not serve as a traverse juror in Suffolk county for more than thirty days, except to finish a case commenced within that time.
+    </text>
+</law>

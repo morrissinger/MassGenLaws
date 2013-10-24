@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166" order_by="166" level="3">Telephone And Telegraph Companies, And Lines For The Transmission Of Electricity</unit>
+    </structure>
+    <section_number>21B</section_number>
+    <catch_line>Protection Of Overhead High Voltage Lines</catch_line>
+    <order_by>21B</order_by>
+    <text>
+        <section prefix="1">
+    	     The erection of mechanical barriers to prevent physical contact with high voltage conductors; or
+        </section>
+        <section prefix="2">
+    	     De-energizing the high voltage conductors and grounding where necessary. Only in the case of either of such exceptions may the six foot clearance required be reduced. The required six foot clearance shall not be provided by movement of the conductors through strains impressed by attachments or otherwise upon the structures supporting the overhead high voltage lines, nor upon any equipment, fixtures, or attachments thereon.
+        </section>
+        <section prefix="3">
+    	     In addition to (1) and (2), an insulated cagetype guard or other effective protective device of a type approved by the commissioner of labor and industries shall be installed about the boom or arm of all hoisting or other such construction equipment, except backhoes or dippers, being operated in proximity of overhead high voltage lines.
+        </section>
+        <section prefix="4">
+    	     All mechanical barriers and all insulated protective devices referred to herein shall be of such character and construction as are suited to work operations, and adequate for the electrical conditions to be encountered.
+        </section>
+        <section prefix="5">
+    	     All mechanical barriers and all insulated protective devices shall be maintained in good functioning condition and shall be subject to periodic inspection.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.23</section_number>
+    <catch_line>Transfer Of Authority</catch_line>
+    <order_by>15.23</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign business corporation authorized to transact business in the commonwealth that converts into a foreign nonprofit corporation or into any form of foreign other entity that is required to deliver for filing an application for authority to transact business in the commonwealth or make a similar type of delivery with the secretary of state if it transacts business in the commonwealth shall deliver to the secretary of state for filing an application for transfer of authority executed by any officer or other duly authorized representative. The application shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the type of other entity into which it has been converted and the jurisdiction whose laws govern its internal affairs;
+        </section>
+        <section prefix="3">
+    	     any other information that would be required in a filing under the laws of the commonwealth by an other entity of the type the corporation has become seeking authority to transact business in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The application for transfer of authority shall be delivered to the secretary of state for filing and shall take effect on the effective date provided in section 1.23.
+        </section>
+        <section prefix="c">
+    	     Upon the effectiveness of the application for transfer of authority, the authority of the corporation under this chapter to transact business in the commonwealth shall be transferred without interruption to the other entity which shall thereafter hold such authority subject to the provisions of the laws of the commonwealth applicable to that type of other entity.
+        </section>
+    </text>
+</law>

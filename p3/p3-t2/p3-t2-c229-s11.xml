@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="229" order_by="229" level="3">Actions For Death And Injuries Resulting In Death</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Interest</catch_line>
+    <order_by>11</order_by>
+    <text>
+        In any civil action in which a verdict is given or a finding made for pecuniary damages for the death, with or without conscious suffering, of any person, whether or not such person was in the employment of the defendant against whom the verdict is rendered or finding made, there shall be added by the clerk of the court to the amount of the damages interest thereon at the same rate of interest per annum as provided in section six B of chapter two hundred and thirty-one, from the date of the commencement of the action, even though such interest brings the amount of the verdict or finding beyond the maximum liability imposed by law.
+    </text>
+</law>

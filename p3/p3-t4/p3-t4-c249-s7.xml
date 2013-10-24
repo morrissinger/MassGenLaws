@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="249" order_by="249" level="3">Audita Querela, Certiorari, Mandamus And Quo Warranto</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Intervention By Attorney General</catch_line>
+    <order_by>7</order_by>
+    <text>
+        The attorney general may intervene in such action and may demand a judgment of fine and forfeiture.
+    </text>
+</law>

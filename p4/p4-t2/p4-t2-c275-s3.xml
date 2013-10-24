@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="275" order_by="275" level="3">Proceedings To Prevent Crimes</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Warrant To Apprehend Accused</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If, upon such examination, it is found there is just cause to fear that such crime may be committed, such court or justice shall issue a warrant, reciting the substance of the complaint, and requiring the officer to whom it is directed forthwith to apprehend the person complained of and take him before such justice or some other justice or court having jurisdiction of the cause. Such warrant, if issued by a justice, shall be under his hand.
+    </text>
+</law>

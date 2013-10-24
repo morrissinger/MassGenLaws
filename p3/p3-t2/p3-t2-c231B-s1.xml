@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231B" order_by="231B" level="3">Contribution Among Joint Tortfeasors</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Right Of Contribution; Subrogation</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this chapter, where two or more persons become jointly liable in tort for the same injury to person or property, there shall be a right of contribution among them even though judgment has not been recovered against all or any of them.
+        </section>
+        <section prefix="b">
+    	     The right of contribution shall exist only in favor of a joint tortfeasor, hereinafter called tortfeasor, who has paid more than his pro rata share of the common liability, and his total recovery shall be limited to the amount paid by him in excess of his pro rata share. No tortfeasor shall be compelled to make contribution beyond his own pro rata share of the entire liability.
+        </section>
+        <section prefix="c">
+    	     A tortfeasor who enters into a settlement with a claimant shall not be entitled to recover contribution from another tortfeasor in respect to any amount paid in a settlement which is in excess of what was reasonable.
+        </section>
+        <section prefix="d">
+    	     A liability insurer, who by payment has discharged in full or in part the liability of a tortfeasor and has thereby discharged in full its obligation as insurer, shall be subrogated to the tortfeasor’s right of contribution to the extent of the amount it has paid in excess of the tortfeasor’s pro rata share of the common liability. This provision shall not limit or impair any right of subrogation arising from any other relationship.
+        </section>
+        <section prefix="e">
+    	     This chapter shall not impair any right of indemnity under existing law. Where one tortfeasor is entitled to indemnity from another, the right of the indemnity obligee shall be for indemnity and not contribution, and the indemnity obligor shall not be entitled to contribution from the obligee for any portion of his indemnity obligation.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Effect Of Disability At Distribution</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     If property becomes distributable by a personal representative or trustee to an individual under the age specified in the will or, if the will does not specify an age, under the age of twenty-three years, or to an individual who the personal representative or trustee determines cannot effectively manage or apply the property by reason of mental illness, mental deficiency, physical illness or disability, chronic use of drugs, chronic intoxication, or other cause: (i) the personal representative or trustee, as to principal or income, may distribute part or all of the property to the distributee directly, by deposit or investment in the distributee’s name or for the distributee’s account, or to a guardian or conservator for the distributee; (ii) the personal representative may distribute to the trustee in trust under clause (iii); or (iii) the trustee may retain all or any part of the property in trust for the distributee and thereafter at any time the trustee may distribute or apply part or all of the principal or income to or for the benefit or account of the distributee.
+        </section>
+        <section prefix="b">
+    	     Unless terminated earlier, a trust under clause (iii) subsection (a) shall terminate upon the attainment of the required age, removal of the disability, or death of the distributee. Upon such termination, the trustee shall distribute the remaining trust property to the distributee or personal representative of the distributee’s estate.
+        </section>
+        <section prefix="c">
+    	     The provisions of this section shall not apply to distributions to a surviving spouse of the testator.
+        </section>
+    </text>
+</law>

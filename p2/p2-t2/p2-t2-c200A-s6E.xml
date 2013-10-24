@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>6E</section_number>
+    <catch_line>Mineral Proceeds; Abandonment</catch_line>
+    <order_by>6E</order_by>
+    <text>
+        <section prefix="a">
+    	     Mineral proceeds includes all obligations to pay resulting from the production and sale of minerals, including net revenue interests, royalties, overriding royalties, production payments, and joint operating agreements.
+        </section>
+        <section prefix="b">
+    	     All mineral proceeds that are held or owing by the holder and that have remained unclaimed by the owner for longer than three years after they become payable or distributable and the owners underlying right to receive those mineral proceeds are presumed abandoned.
+        </section>
+    </text>
+</law>

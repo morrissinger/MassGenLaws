@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.55</section_number>
+    <catch_line>Determination And Authorization Of Indemnification</catch_line>
+    <order_by>8.55</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may not indemnify a director under section 8.51 unless authorized for a specific proceeding after a determination has been made that indemnification of the director is permissible because he has met the relevant standard of conduct set forth in said section 8.51.
+        </section>
+        <section prefix="b">
+    	     The determination shall be made:
+        </section>
+        <section prefix="1">
+    	     if there are 2 or more disinterested directors, by the board of directors by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of 2 or more disinterested directors appointed by such a vote;
+        </section>
+        <section prefix="2">
+    	     by special legal counsel
+        </section>
+        <section prefix="i">
+    	     selected in the manner prescribed in clause (1); or
+        </section>
+        <section prefix="ii">
+    	     if there are fewer than two disinterested directors, selected by the board of directors, in which selection directors who do not qualify as disinterested directors may participate; or
+        </section>
+        <section prefix="3">
+    	     by the shareholders, but shares owned by or voted under the control of a director who at the time does not qualify as a disinterested director may not be voted on the determination.
+        </section>
+        <section prefix="c">
+    	     Authorization of indemnification shall be made in the same manner as the determination that indemnification is permissible, except that if there are fewer than two disinterested directors, authorization of indemnification shall be made by those entitled under subclause (ii) of clause (2) of subsection (b) to select special legal counsel.
+        </section>
+    </text>
+</law>

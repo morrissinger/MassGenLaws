@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions; Corporation; Articles Of Organization</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     “corporation” shall mean a corporation to which, under section three, this chapter applies; and
+        </section>
+        <section prefix="b">
+    	     “articles of organization” of a corporation shall mean its articles of organization, including any special act of incorporation, as from time to time amended by any of the following amendments:
+        </section>
+        <section prefix="1">
+    	     a certificate of a vote adopting the provisions of this chapter filed pursuant to section five;
+        </section>
+        <section prefix="2">
+    	     a certificate of a vote establishing a series filed pursuant to section twenty-six;
+        </section>
+        <section prefix="3">
+    	     articles of amendment filed pursuant to section seventy-two or section seventy-three;
+        </section>
+        <section prefix="4">
+    	     restated articles of organization filed pursuant to section seventy-four;
+        </section>
+        <section prefix="5">
+    	     articles of consolidation or merger filed pursuant to section seventy-eight, section seventy-nine, section eighty-two or section eighty-three;
+        </section>
+        <section prefix="6">
+    	     articles of dissolution filed pursuant to section one hundred; and
+        </section>
+        <section prefix="7">
+    	     a certificate as to the revival of a corporation filed pursuant to section one hundred and eight.
+        </section>
+    </text>
+</law>

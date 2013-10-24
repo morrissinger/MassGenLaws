@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Transfers To Surplus Reserve</catch_line>
+    <order_by>34</order_by>
+    <text>
+        Every trust company shall within thirty days of the close of the calendar year transfer from net profits to its surplus account a sum equal to one-quarter of one per cent of the total amount of such company’s savings deposits as of such year end; provided, however, that such transfer shall not be required of any trust company whose surplus account at that time equals or exceeds the amount of its capital stock.
+    </text>
+</law>

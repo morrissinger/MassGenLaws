@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159C" order_by="159C" level="3">Telemarketing Solicitation</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Use Of Blocking Devices Or Services Prohibited</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No telephone solicitor shall intentionally cause to be installed or shall intentionally use a blocking device or service to circumvent a consumer’s use of a call identification service or device.
+    </text>
+</law>

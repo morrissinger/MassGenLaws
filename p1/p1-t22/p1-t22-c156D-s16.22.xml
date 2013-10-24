@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>16.22</section_number>
+    <catch_line>Annual Report For Secretary Of State</catch_line>
+    <order_by>16.22</order_by>
+    <text>
+        <section prefix="a">
+    	     Each domestic corporation, and each foreign corporation authorized to transact business in the commonwealth, shall deliver to the secretary of state for filing an annual report that sets forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation and the state or country under whose law it is incorporated;
+        </section>
+        <section prefix="2">
+    	     the address of its registered office and the name of its registered agent at that office in the commonwealth;
+        </section>
+        <section prefix="3">
+    	     the address of its principal office;
+        </section>
+        <section prefix="4">
+    	     the names and business addresses of its directors, officers required by section 8.40(a), and chief executive officer and chief financial officer, if different;
+        </section>
+        <section prefix="5">
+    	     A brief description of its activities in the commonwealth.
+        </section>
+        <section prefix="6">
+    	     the total number of authorized shares, itemized by class and series, if any, within each class;
+        </section>
+        <section prefix="7">
+    	     the total number of issued and outstanding shares, itemized by class and series, if any, within each class; and
+        </section>
+        <section prefix="8">
+    	     the fiscal year of the corporation.
+        </section>
+        <section prefix="b">
+    	     Information in the annual report shall be current as of the date the annual report is executed on behalf of the corporation.
+        </section>
+        <section prefix="c">
+    	     The annual report shall be delivered to the secretary of state within 21/2 months after the end of the fiscal year of the corporation.
+        </section>
+    </text>
+</law>

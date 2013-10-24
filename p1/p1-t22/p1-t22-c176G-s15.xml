@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Bond; Waiver</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Each health maintenance organization shall furnish to the commissioner evidence of a surety bond in an amount satisfactory to the commissioner or deposit with the commissioner cash or sureties acceptable to him in at least the same amount as a guarantee that the obligation to the enrollees will be performed. The commissioner may waive this requirement if a health maintenance organization has contracted with a carrier as defined in section one for the purpose of reinsurance.
+    </text>
+</law>

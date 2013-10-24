@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>11.05</section_number>
+    <catch_line>Merger Between Parent And Subsidiary Or Between Subsidiaries</catch_line>
+    <order_by>11.05</order_by>
+    <text>
+        <section prefix="a">
+    	     A domestic parent corporation that owns shares of a domestic or foreign subsidiary corporation that carry at least 90 per cent of the voting power of each class and series of the outstanding shares of the subsidiary that have voting power may merge the subsidiary into itself or into another such subsidiary, or merge itself into the subsidiary, without the approval of the board of directors or shareholders of the subsidiary, unless the articles of organization of any of the corporations otherwise provide, and unless, in the case of a foreign subsidiary, approval by the subsidiary’s board of directors or shareholders is required by the laws under which the subsidiary is organized.
+        </section>
+        <section prefix="b">
+    	     If under subsection (a) approval of a merger by the subsidiary’s shareholders is not required, the parent corporation shall, within 10 days after the effective date of the merger, notify each of the subsidiary’s shareholders that a merger has become effective.
+        </section>
+        <section prefix="c">
+    	     Except as provided in subsections (a) and (b), a merger between a parent and subsidiary shall be governed by PART 11 applicable to mergers generally.
+        </section>
+    </text>
+</law>

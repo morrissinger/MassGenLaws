@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>80</section_number>
+    <catch_line>Method As Assessing</catch_line>
+    <order_by>80</order_by>
+    <text>
+        The provisions of chapter eighty relative to the assessment of betterments on real estate, so far as applicable, shall apply to assessments made under the two preceding sections.
+    </text>
+</law>

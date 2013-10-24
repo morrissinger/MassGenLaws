@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="155" order_by="155" level="3">General Provisions Relative To Corporations</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Application Of Chapter; Secretary Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        This chapter, unless expressly limited in its application, shall apply to all corporations created by or organized under the laws of the commonwealth, except incorporated domestic insurance companies, and except corporations subject to chapter 156A or corporations subject to chapter 156B or chapter 156D or chapter 164 or sections 1 through 11D of chapter 165 or chapter 180 except that section 2B of this chapter shall apply to all corporations subject to any of said chapters and except insofar as such provisions are inconsistent with other provisions of law relative to particular corporations or classes of corporations, and the provisions shall apply to all corporations created by or organized under laws other than those of the commonwealth so far as they are made applicable to them by reference in this or any other chapter. In this chapter, unless the context otherwise requires, “secretary” or “state secretary” means the secretary of the commonwealth.
+    </text>
+</law>

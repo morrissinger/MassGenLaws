@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.03</section_number>
+    <catch_line>Delivering Certificate By Foreign Corporation</catch_line>
+    <order_by>15.03</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation shall, not later than 10 days after it commences transacting business in the commonwealth, deliver to the secretary of state for filing a certificate setting forth:
+        </section>
+        <section prefix="1">
+    	     the name of the foreign corporation or, if its name is unavailable for use in the commonwealth, a corporate name that satisfies the requirements of section 15.06;
+        </section>
+        <section prefix="2">
+    	     the name of the state or country under whose law it is incorporated;
+        </section>
+        <section prefix="3">
+    	     its date of incorporation and period of duration;
+        </section>
+        <section prefix="4">
+    	     the street address of its principal office;
+        </section>
+        <section prefix="5">
+    	     the address of its registered office in the commonwealth, the name of its registered agent at that office and the agents written consent, either on the certificate or attached to it, to its appointment as agent;
+        </section>
+        <section prefix="6">
+    	     its fiscal year;
+        </section>
+        <section prefix="7">
+    	     a brief description of the activities to be conducted by the foreign corporation in the commonwealth; and
+        </section>
+        <section prefix="8">
+    	     the names and usual business addresses of its current directors and officers.
+        </section>
+        <section prefix="b">
+    	     The foreign corporation shall deliver with the completed certificate a certificate of existence, or a document of similar import, duly authenticated by the secretary of state or other official having custody of corporate records in the state or country under whose law it is incorporated.
+        </section>
+        <section prefix="c">
+    	     The secretary of state shall examine and endorse his approval on the certificate delivered by the foreign corporation if the business of the foreign corporation is not prohibited by law to a corporation formed under the laws of the commonwealth and if the secretary of state determines that the certificate complies with this section. Upon such approval and payment of the required fee, the certificate shall be filed by the secretary of state and the foreign corporation shall be considered to be registered to transact business in the commonwealth.
+        </section>
+    </text>
+</law>

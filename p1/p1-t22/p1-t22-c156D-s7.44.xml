@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.44</section_number>
+    <catch_line>Dismissal</catch_line>
+    <order_by>7.44</order_by>
+    <text>
+        <section prefix="a">
+    	     A derivative proceeding commenced after rejection of a demand shall be dismissed by the court on motion by the corporation if the court finds that either: (1) 1 of the groups specified in subsections (b)(1) or (f) has determined in good faith after conducting a reasonable inquiry upon which its conclusions are based that the maintenance of the derivative proceeding is not in the best interests of the corporation; or (2) shareholders specified in subsection (b)(3) have determined that the maintenance of the derivative proceeding is not in the best interests of the corporation.
+        </section>
+        <section prefix="b">
+    	     Unless a panel is appointed pursuant to subsection (f), the determination in subsection (a) shall be made by:
+        </section>
+        <section prefix="1">
+    	     a majority vote of independent directors present at a meeting of the board of directors if the independent directors constitute a quorum;
+        </section>
+        <section prefix="2">
+    	     a majority vote of a committee consisting of 2 or more independent directors appointed by majority vote of independent directors present at a meeting of the board of directors, whether or not the independent directors constituted a quorum; or
+        </section>
+        <section prefix="3">
+    	     the vote of the holders of a majority of the outstanding shares entitled to vote, not including shares owned by or voted under the control of a shareholder or related person who has or had a beneficial financial interest in the act or omission complained of or other interest therein that would reasonably be expected to exert an influence on that shareholder’s or related person’s judgment if called upon to vote in the determination.
+        </section>
+        <section prefix="c">
+    	     None of the following shall by itself cause a director to be considered not independent for the purposes of this section:
+        </section>
+        <section prefix="1">
+    	     the nomination or election of the director by a person who is a defendant in the derivative proceeding or against whom action is demanded;
+        </section>
+        <section prefix="2">
+    	     the naming of the director as a defendant in the derivative proceeding or as a person against whom action is demanded; or
+        </section>
+        <section prefix="3">
+    	     the approval by the director of the act being challenged in the derivative proceeding or demand if the act resulted in no personal benefit to the director.
+        </section>
+        <section prefix="d">
+    	     If the corporation moves to dismiss the derivative suit, it shall make a written filing with the court setting forth facts to show (1) whether a majority of the board of directors was independent at the time of the determination by the independent directors and (2) that the independent directors made the determination in good faith after conducting a reasonable inquiry upon which their conclusions are based. Unless otherwise required by subsection (a), the court shall dismiss the suit unless the plaintiff has alleged with particularity facts rebutting the corporation’s filing in its complaint or an amended complaint or in a written filing with the court. All discovery proceedings shall be stayed upon the filing by the corporation of the motion to dismiss and the filing required by this subsection until the notice of entry of the order ruling on the motion; but the court, on motion and after a hearing and for good cause shown, may order that specified discovery be conducted.
+        </section>
+        <section prefix="e">
+    	     If a majority of the board of directors does not consist of independent directors at the time the determination by independent directors is made, the corporation shall have the burden of proving that the requirements of subsection (a) have been met. If a majority of the board of directors consists of independent directors at the time the determination is made or if the determination is made by shareholders pursuant to clause (3) of subsection (b) or is made pursuant to subsection (f), the plaintiff shall have the burden of proving that the requirements of subsection (a) have not been met.
+        </section>
+        <section prefix="f">
+    	     The court may appoint a panel of 1 or more independent persons upon motion by the corporation to make a determination whether the maintenance of the derivative proceeding is in the best interests of the corporation. In such case, the plaintiff shall have the burden of proving that the requirements of subsection (a) have not been met.
+        </section>
+    </text>
+</law>

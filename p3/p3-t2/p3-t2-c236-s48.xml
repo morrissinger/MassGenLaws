@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Levy On Land Subject To Lien Not Allowed For</catch_line>
+    <order_by>48</order_by>
+    <text>
+        If, after an execution has been levied by setting off land, there proves to be a mortgage or other lien on the land or an estate of homestead therein, not known or allowed for, or not fully allowed for, by the appraisers, the creditor shall nevertheless be entitled to hold the land by force of the execution, except the estate of homestead, as against the debtor, and may recover, in a new action against the debtor, the amount of the homestead estate or the amount which he may lawfully pay on account of such mortgage or other lien, or so much thereof as has not been deducted and allowed for in the estimate of the appraisers.
+    </text>
+</law>

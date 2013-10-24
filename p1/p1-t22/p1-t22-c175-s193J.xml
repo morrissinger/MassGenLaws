@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>193J</section_number>
+    <catch_line>Solicitation Of Proxies</catch_line>
+    <order_by>193J</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be unlawful for any person in contravention of such rules and regulations, as the commissioner may prescribe as necessary or appropriate in the public interest or for the protection of investors, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security of a domestic insurer not listed on a national securities exchange.
+        </section>
+        <section prefix="b">
+    	     It shall be unlawful for any broker required to be registered under chapter one hundred and ten A, to give, or to refrain from giving, in contravention of such rules and regulations as the commissioner may prescribe as necessary or appropriate in the public interest or for the protection of investors, a proxy, consent, or authorization in respect of any security of a domestic insurer not listed on a national securities exchange if the security is carried for the account of a customer.
+        </section>
+        <section prefix="c">
+    	     Unless proxies, consents, or authorizations in respect of a security of a domestic insurer not listed on a national securities exchange are solicited by or on behalf of the management of the issuer from the holders of record of such security, in accordance with the rules and regulations prescribed under this section, prior to any annual or other meeting of the holders of such security, such issuer shall file with the commissioner and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made.
+        </section>
+        <section prefix="d">
+    	     The provisions of this section shall not apply to a domestic insurance company having not more than ninety-nine stockholders, or having ninety-five per cent or more of its stock owned or controlled by a parent or affiliate insurer and the remaining shares held by less than five hundred stockholders.
+        </section>
+    </text>
+</law>

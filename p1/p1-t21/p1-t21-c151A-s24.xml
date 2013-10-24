@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Eligibility</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     Have been paid wages in the base period amounting to at least thirty times the weekly benefit rate; provided, however, that for the period beginning on January first, nineteen hundred and ninety-five the individual has been paid wages of at least two thousand dollars during said base period; provided, further, that said amount shall be increased annually proportionately, rounding to the nearest one hundred dollars, to any increases which have occurred during the prior calendar year in the minimum wage as set forth in section one of chapter one hundred and fifty-one; and, provided further, that any such increase shall be effective beginning on the first Sunday in January.
+        </section>
+        <section prefix="b">
+    	     Be capable of, available, and actively seeking work in his usual occupation or any other occupation for which he is reasonably fitted; and
+        </section>
+        <section prefix="c">
+    	     Have given notice of his unemployment, by registering either in a public employment office or in such other manner, and within such time or times, as the commissioner shall prescribe, and have given notice of the continuance of his unemployment and furnished information concerning any remuneration received by him during the period for which he claims benefits, in accordance with the procedures prescribed by the commissioner.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Eligibility Of Compacting States; Effectiveness Of Compact;  Amendments</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="1">
+    	     A state is eligible to become a compacting state.
+        </section>
+        <section prefix="2">
+    	     The compact shall become effective and binding upon legislative enactment of the compact into law by 2 compacting states; but, the commission shall become effective for purposes of adopting uniform standards for, reviewing, and giving approval or disapproval of, products filed with the commission that satisfy applicable uniform standards only after 26 states are compacting states or, alternatively, by states representing greater than 40 per cent of the premium volume for life insurance, annuity, disability income and long-term care insurance products, based on records of the NAIC for the prior year. Thereafter, it shall become effective and binding as to any other compacting state upon enactment of the compact into law by that state.
+        </section>
+        <section prefix="3">
+    	     Amendments to the compact may be proposed by the commission for enactment by the compacting states. An amendment shall not become effective and binding upon the commission and the compacting states unless and until all compacting states enact the amendment into law.
+        </section>
+    </text>
+</law>

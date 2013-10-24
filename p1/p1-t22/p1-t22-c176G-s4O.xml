@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>4O</section_number>
+    <catch_line>Outpatient Services; Hormone Replacement Therapy For Peri And Post Menopausal Women; Contraceptive Services; Approved Prescription Contraceptive Drugs Or Devices; Exception</catch_line>
+    <order_by>4O</order_by>
+    <text>
+        <section prefix="a">
+    	     Any individual or group health maintenance contract that is issued, renewed or delivered within or without the commonwealth and that provides benefits for outpatient services shall provide to residents of the commonwealth and to persons having a principal place of employment within the commonwealth benefits for hormone replacement therapy services for peri and post menopausal women and outpatient contraceptive services under the same terms and conditions as for such other outpatient services. Outpatient contraceptive services shall mean consultations, examinations, procedures and medical services provided on an outpatient basis and related to the use of all contraceptive methods to prevent pregnancy that have been approved by the United States Food and Drug Administration.
+        </section>
+        <section prefix="b">
+    	     Any individual or group health maintenance contract that is issued, renewed or delivered within or without the commonwealth and that provides benefits for outpatient prescription drugs or devices shall provide to residents of the commonwealth and to persons having a principal place of employment within the commonwealth benefits for hormone replacement therapy for peri and post menopausal women and for outpatient prescription contraceptive drugs or devices that have been approved by the United States Food and Drug Administration under the same terms and conditions as for such other prescription drugs or devices, provided that in covering all FDA approved prescription contraceptive methods, nothing in this section precludes the use of closed or restricted formulary.
+        </section>
+        <section prefix="c">
+    	     The requirements of this section shall not apply to a health maintenance contract delivered, issued or renewed pursuant to this chapter if that contract is purchased by an employer that is a church or qualified church-controlled organization, as those terms are defined in 26 U.S.C. section 3121(w)(3)(A) and (B).
+        </section>
+    </text>
+</law>

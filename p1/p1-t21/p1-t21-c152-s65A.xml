@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>65A</section_number>
+    <catch_line>Designation Of Insurer To Issue Policy; Equitable Distribution Of Risks; Servicing Carriers; Service Fees</catch_line>
+    <order_by>65A</order_by>
+    <text>
+        <section prefix="1">
+    	     Any employer whose application for workers’ compensation insurance has been rejected or not accepted within five days by two insurers may appeal to the commissioner of insurance and if it shall appear that such employer has complied with or will comply substantially with all laws, orders, rules and regulations in force and effect relating to the welfare, health and safety of his employees, and shall not be in default of payment of any premium for such insurance, then the commissioner shall designate an insurer who shall forthwith, upon the receipt of the payment for the premium therefore, issue to such employer a policy of insurance contracting to pay the compensation provided for by this chapter. The commissioner of insurance shall make equitable distribution of such risks among insurers in a reasonable manner that, so far as practicable, does not discriminate against any insurer or group of insurers. Subject to subsection (4), the commissioner may establish a servicing carrier fee for insurers, third party administrators or other claims service handling companies as authorized by the commissioner which shall be paid by the reinsurance pool established under section sixty-five C, and which shall not be unreasonable or discriminatory.
+        </section>
+        <section prefix="2">
+    	     The commissioner of insurance may delegate his duties under this section to the rating organization designated by him under section sixty-five C to administer the reinsurance pool established under that section; provided, however, that such organization shall adopt rules and procedures for assigning rejected risks, shall incorporate such rules and procedures into its plan of operation subject to the approval of the commissioner under section sixty-five C, and shall each year submit to the commissioner a report of the assigned risks for the preceding year. The commissioner of insurance may, upon reasonable notice to the rating organization designated by him under section sixty-five C and after a hearing, revoke the delegation of authority provided for by this section.
+        </section>
+        <section prefix="3">
+    	     The commissioner may require one or more insurers to be servicing carriers issuing policies of insurance to employers qualified hereunder. The commissioner may also designate third party claims administrators to service claims for policies issued by the plan. The commissioner may competitively bid any contract to service the claims for the plan. The commissioner shall adopt rules and regulations governing the conduct of any third party administrator approved to provide claim services to the plan.
+        </section>
+        <section prefix="b">
+    	     The commissioner may authorize an additional service fee of up to five percent of the total written premium serviced by the servicing carrier or administrator. In determining whether to authorize an additional service fee amount the commissioner shall consider:
+        </section>
+        <section prefix="i">
+    	     the performance of the carrier, third party administrator, or other claims service handling companies as authorized by the commissioner in reducing the loss costs of the insured risks to which it was assigned during the previous calendar year;
+        </section>
+        <section prefix="ii">
+    	     evidence that the carrier, administrator, or other claims service handling company as authorized by the commissioner has aggressively and effectively assisted employers to improve workplace safety;
+        </section>
+        <section prefix="iii">
+    	     whether the carrier, administrator, or other claims service handling company as authorized by the commissioner has complied in all respects with established performance standards approved by the commissioner; and
+        </section>
+        <section prefix="iv">
+    	     whether the carrier, administrator, or other claims service handling company as authorized by the commissioner has a superior record in handling and investigating claims promptly and properly.
+        </section>
+        <section prefix="c">
+    	     The commissioner may establish a different service carrier fee than is specified in paragraphs (a) and (b) if the commissioner holds a hearing regarding the appropriate service fee to be established and determines that a different fee is indicated. Thereafter, the commissioner may, after a hearing, establish a new service carrier fee whenever the commissioner determines that such a fee is appropriate.
+        </section>
+    </text>
+</law>

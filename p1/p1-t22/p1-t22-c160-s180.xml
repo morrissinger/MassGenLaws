@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>180</section_number>
+    <catch_line>Conductor; Experience</catch_line>
+    <order_by>180</order_by>
+    <text>
+        No person shall act as a conductor on a railroad train unless he has been employed as a brakeman for two years, or was employed as a conductor on a railroad train before June tenth, nineteen hundred and eleven.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Notice Of Route</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Such petition shall not be acted upon, until notice thereof has been published according to law, designating the route with such certainty as to give reasonable notice to all persons interested therein that their rights may be affected by the granting of the petition, and that they may have an opportunity to appear and object thereto.
+    </text>
+</law>

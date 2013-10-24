@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>11A</section_number>
+    <catch_line>Dissolution; Voluntary; Charitable Corporation</catch_line>
+    <order_by>11A</order_by>
+    <text>
+        <section prefix="a">
+    	     A charitable corporation constituting a public charity organized under any general or special law, which desires to voluntarily windup and close its affairs, may authorize its dissolution in accordance with this section. This section shall constitute the sole method for the voluntary dissolution of a charitable corporation.
+        </section>
+        <section prefix="b">
+    	     A petition for dissolution shall be authorized by vote of a majority of the corporation’s board of directors entitled to vote thereon; provided, however, that if the corporation has 1 or more classes of members, the corporation may, in its articles of incorporation, in a by-law adopted by the incorporators under section 3 or in a by-law adopted by the members, assign the power of authorization to the members acting by majority vote of the members entitled to vote thereon or provide that the exercise of the power shall be subject to approval by the members.
+        </section>
+        <section prefix="c">
+    	     If the corporation has no remaining assets, the petition for dissolution shall be submitted to the division of public charities of the office of the attorney general setting forth in substance the grounds of the application for dissolution together with the forms, affidavits and information as the division from time to time may prescribe. If the division is satisfied that the corporation has or will become inactive and that its dissolution would be in the public interest, the division may approve the dissolution of the corporation.
+        </section>
+        <section prefix="d">
+    	     If the corporation has remaining assets, the petition for its dissolution shall be filed in the supreme judicial court setting forth in substance the grounds for the application for dissolution and requesting the court to authorize the administration of its funds for similar public charitable purposes as the court may determine. The supreme judicial court may, by rule or order, provide that the petition and court authorization are not required for dissolutions approved by the division upon receipt of the forms, affidavits and information as the division may require if the corporation has net assets no greater than such amount as the court may provide in the rule or order or in such other situations as the court may provide.
+        </section>
+    </text>
+</law>

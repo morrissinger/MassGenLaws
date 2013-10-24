@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>34A</section_number>
+    <catch_line>Municipal Street Lighting Service</catch_line>
+    <order_by>34A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any city or town receiving street lighting service from an electric company pursuant to a tariff which provides for the use by such municipality of lighting equipment owned by the electric company, such as lighting ballasts, fixtures, and other equipment necessary for the conversion of electric energy into street lighting service, shall have the rights with respect to such lighting equipment as set forth in this section. Such rights shall apply in the event that such municipality does not establish a municipal lighting plant in accordance with this chapter or such lighting plant is established but ownership and control of the distribution facilities needed to deliver electric energy to such lighting equipment is held and retained by the electric company serving the municipality prior to the establishment of the lighting plant. A municipality subject to the provisions of this section, at its option, upon 60 days notice to the electric company and to the department, and subject to the provisions of subsections (b) to (e), inclusive, may:
+        </section>
+        <section prefix="i">
+    	     convert its street lighting service from the subject tariff to an alternative tariff approved by the department providing for delivery service by the electric company of electric energy, whether supplied by the electric company or any other person, over distribution facilities and wires owned by the electric company to lighting equipment owned or leased by the municipality, and further providing for the use by such municipality of the space on any pole, lamp post, or other mounting surface previously used by the electric company for the mounting of the lighting equipment of the electric company;
+        </section>
+        <section prefix="ii">
+    	     purchase electric energy for use in such municipal lighting equipment from the electric company or any other person allowed by law to provide electric energy; and
+        </section>
+        <section prefix="iii">
+    	     acquire, or compensate the electric company for, the lighting equipment of the electric company in the municipality in accordance with subsection (b).
+        </section>
+        <section prefix="b">
+    	     Any municipality exercising the option to convert its street lighting service pursuant to subsection (a) shall be required to compensate the electric company for its unamortized investment, net of any salvage value obtained by the electric company under the circumstances, in the lighting equipment owned by the electric company in the municipality as of the date the electric company receives notice of such exercise pursuant to subsection (a). In meeting this requirement, the municipality may acquire all or any part of such lighting equipment of the electric company upon the payment of the unamortized investment allocable to such acquired equipment. Upon such payment, the municipality shall have the right to use, alter, remove, or replace such acquired equipment in any way the municipality deems appropriate. In addition, the municipality may request that the electric company remove any unacquired part of such lighting equipment. Thereupon, the municipality shall pay to the electric company the cost of removal by the electric company, along with the unamortized investment allocable to such unacquired part, net of any salvage value attributable to the removed equipment.
+        </section>
+        <section prefix="c">
+    	     In connection with the exercise by any municipality of the option to convert its street lighting service pursuant to subsection (a), any person other than the electric company controlling the right to use space on any pole, lamp post, or other mounting surface previously used by the electric company in such municipality shall allow the municipality to assume the rights and obligations of the electric company with respect to such space for the unexpired term of any lease or other agreement under which the electric company used such space; provided, however, that in the assumption of the rights and obligations of the electric company by such a municipality, such municipality shall in no way or form restrict, impede, or prohibit universal access for the provision of electric and other services.
+        </section>
+        <section prefix="d">
+    	     In connection with the exercise by any municipality of the option to convert its street lighting service pursuant to subsection (a), any dispute concerning the terms of the alternative tariff, the compensation to be paid the electric company, or any other matter arising in connection with such exercise, including, but not limited to, the terms on which space is to be provided to the municipality in accordance with subsection (c), shall be resolved by the department within 60 days of any request for such resolution by the municipality or any person involved in such dispute.
+        </section>
+        <section prefix="e">
+    	     Notwithstanding any general or special law, rule, or regulation to the contrary, any affiliate of any electric company whose street lighting service is converted by any municipality in accordance with the provisions of this section may solicit and compete for the business of any such municipality for the provision of lighting equipment or any other service such as equipment maintenance in connection therewith.
+        </section>
+    </text>
+</law>

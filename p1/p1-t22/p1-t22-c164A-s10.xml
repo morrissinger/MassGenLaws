@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Foreign Electric Utilities; Ownership Or Operation Of Electric Power Facilities In Commonwealth; Notice, Annual Report And Information To Department; Financing; Application Of Laws</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Each foreign electric utility which is acting pursuant to authority granted in this chapter shall, before owning or operating any electric power facilities in this commonwealth, notify the department of the action to be taken by it; shall thereafter furnish to the department annually a copy of the annual report filed by it with the utility regulatory agency of the state of its domicile or principal locus; and shall furnish to the department from time to time such other information with respect to its activities in the commonwealth as the department may reasonable request.
+        </section>
+        <section prefix="b">
+    	     Any foreign electric utility which owns or operates any electric power facility in this commonwealth shall (1) be subject to sections three, three A and four of chapter one hundred eighty-one as to matters arising out of such ownership or operation and (2) as to a foreign electric utility other than a governmental entity be further subject to the requirements of chapter one hundred sixty-four and other regulatory laws within the commonwealth with respect to any financing of its interest in such electric power facility, including any borrowing or the issuance of any notes, bonds or other evidence of indebtedness or securities of any nature, provided, however, that it shall be exempt from such further requirements of this clause (2) upon certification filed with the department by a regulatory commission of the state of domicile or principal locus of such foreign electric utility, or of the United States, that said commission has regulatory jurisdiction over financing of such foreign electric utility.
+        </section>
+    </text>
+</law>

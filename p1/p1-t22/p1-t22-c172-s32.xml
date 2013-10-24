@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Reserve Balances For Federal Reserve System Members</catch_line>
+    <order_by>32</order_by>
+    <text>
+        A trust company which is a member of the federal reserve system shall maintain the reserve balances required by or pursuant to the Federal Reserve Act, as amended or supplemented from time to time and shall be exempt from the requirements of section thirty-one.
+    </text>
+</law>

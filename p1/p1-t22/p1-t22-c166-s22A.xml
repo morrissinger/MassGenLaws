@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166" order_by="166" level="3">Telephone And Telegraph Companies, And Lines For The Transmission Of Electricity</unit>
+    </structure>
+    <section_number>22A</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>22A</order_by>
+    <text>
+        <section prefix="a">
+    	     “Municipality”, any city or town.
+        </section>
+        <section prefix="b">
+    	     “Department”, the department of telecommunications and energy.
+        </section>
+        <section prefix="c">
+    	     “Planning board”, the planning board of a city or town.
+        </section>
+        <section prefix="d">
+    	     “Person” shall include individuals, firms, corporations, partnerships, and their agents and employees.
+        </section>
+        <section prefix="e">
+    	     “Poles and overhead wires and associated overhead structures” shall mean poles, towers, supports, wires, conductors, guys, stubs, platforms, crossarms, braces, transformers, insulators, cut-outs, switches, communication circuits, appliances, attachments, and appurtenances located above ground, upon, along or across any public way or ways of a municipality and used or useful in the transmission of intelligence by electricity or otherwise, or for the transmission of television signals, whether by electricity or otherwise, or for the transmission of electricity for lighting, heating or power, or for the construction or operation of a street railway or an electric railroad; provided, however, that said phrase shall not mean or include any of the following: poles, towers, overhead wires and associated overhead structures used exclusively in the transmission but not the distribution of electricity; poles used exclusively for police and fire alarm boxes or any similar municipal equipment installed under the supervision and to the satisfaction of the engineer of any municipality; wires (exclusive of supporting structures) crossing any portion of any underground utility district from which overhead wires have been prohibited, or connecting to buildings on the perimeter of such portion, when such wires originate in an area from which poles and overhead wires and associated overhead structures are not prohibited; overhead wires attached to the exterior surface of a building by means of a bracket or other fixture and extending from one location on the same building or to an adjacent building without crossing any public street; radio antennae, their associated equipment and supporting structures, used by a utility for furnishing communication services; and service terminals including transformers in pedestals above ground, used to distribute electric or communication service in underground systems.
+        </section>
+        <section prefix="f">
+    	     “Utility”, any person who has been or may be granted any license, permission or other authority to construct or maintain poles and overhead wires and associated overhead structures upon, along, under or across any public way or ways.
+        </section>
+        <section prefix="g">
+    	     “Engineer of the municipality”, the town engineer or commissioner of public works, or other officer or employee having corresponding duties.
+        </section>
+        <section prefix="h">
+    	     “Transmission”, the carrying of electric power in excess of twenty thousand volts, phase-to-phase.
+        </section>
+        <section prefix="i">
+    	     “Retail delivery revenues”, the revenues that a distribution company, as defined in section 1 of chapter 164, receives for transmission and distribution service excluding revenues from power supply, transition charges, renewable charges and demand side management charges.
+        </section>
+    </text>
+</law>

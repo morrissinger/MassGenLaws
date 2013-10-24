@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>102A</section_number>
+    <catch_line>Combination Policies; Contents; Commissioner’S Approval   </catch_line>
+    <order_by>102A</order_by>
+    <text>
+        <section prefix="1">
+    	     A provision plainly specifying the percentage of any loss or claim for which each such company shall be liable.
+        </section>
+        <section prefix="2">
+    	     A provision that the sworn statement required by said standard form, the written request by the insured for a reference under section one hundred or the notice of any claim authorized by section one hundred and two may be rendered, made or given to any one of such companies or, in the case of said notice, to the agent of any one of such companies, and that such statement, request or notice so rendered, made or given shall be valid and binding as to all of such companies.
+        </section>
+        <section prefix="3">
+    	     A provision that, in any action or suit under the policy, service of process may be made on any one of such companies and that such service shall be deemed valid and binding service upon all of such companies.
+        </section>
+        <section prefix="4">
+    	     A provision, in the case of a policy issued by mutual companies, that the contingent mutual liability of the insured to each such company shall be based on such proportion of the total premium as the amount insured by each such company bears to the total amount insured under the policy.
+        </section>
+        <section prefix="5">
+    	     A provision that upon cancellation by any company of its liability under the policy the return premium, if any, to be paid or tendered to the insured shall be based on such proportion of the total premium stated in the policy as the amount insured by the cancelling company bears to the total amount insured under the policy.
+        </section>
+    </text>
+</law>

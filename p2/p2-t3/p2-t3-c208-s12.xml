@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Spouse’S Property; Attachment</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Upon an action for divorce by either spouse for a cause accruing after marriage, the real and personal property of the other spouse may be attached to secure suitable support and maintenance to the plaintiff and to such children as may be committed to his care and custody.
+    </text>
+</law>

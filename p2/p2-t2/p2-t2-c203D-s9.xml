@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Apportionment When Income Interest Ends</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     When a mandatory income interest ends, the trustee shall pay to a mandatory income beneficiary who survives that date, or the estate of a deceased mandatory income beneficiary whose death causes the interest to end, the beneficiary’s share of the undistributed income that is not disposed of under the terms of the trust unless the beneficiary has an unqualified power to revoke more than 5 per cent of the trust immediately before the income interest ends. In the latter case, the undistributed income from the portion of the trust that may be revoked shall be added to principal.
+        </section>
+        <section prefix="b">
+    	     When a trustee’s obligation to pay a fixed annuity or a fixed fraction of the value of the trust’s assets ends, the trustee shall prorate the final payment if required by applicable law to accomplish a purpose of the trust or its settlor relating to income, gift, estate or other tax requirements.
+        </section>
+    </text>
+</law>

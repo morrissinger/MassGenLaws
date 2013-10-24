@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177R</section_number>
+    <catch_line>License Requirement; Employment Restriction; Annual Financial Statements</catch_line>
+    <order_by>177R</order_by>
+    <text>
+        <section prefix="A">
+    	     An insurer shall not engage the services of any person, firm, association or corporation to act as a reinsurance intermediary broker on its behalf unless such person is licensed as required by section one hundred and seventy-seven O.
+        </section>
+        <section prefix="B">
+    	     An insurer may not employ an individual who is employed by a reinsurance intermediary broker with which it transacts business, unless such reinsurance intermediary broker is under common control with the insurer and subject to sections two hundred and six to two hundred and six D, inclusive.
+        </section>
+        <section prefix="C">
+    	     The insurer shall obtain a copy of the current annual statement of financial condition or documents providing similar information for each reinsurance intermediary broker with which it transacts business.
+        </section>
+    </text>
+</law>

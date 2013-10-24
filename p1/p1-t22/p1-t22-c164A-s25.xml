@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Ownership Or Control Of Domestic Electric Utilities By Foreign Corporations; Applicability Of Corporation Law</catch_line>
+    <order_by>25</order_by>
+    <text>
+        A domestic electric utility shall not be subject to the provisions of section ten of chapter one hundred eight-one in the event a foreign corporation, as defined in said chapter, owns or controls a majority of the capital stock of said domestic electric utility, provided such ownership or control results from action pursuant to authority granted by this chapter.
+    </text>
+</law>

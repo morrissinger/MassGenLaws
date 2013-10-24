@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211C" order_by="211C" level="3">Commission On Judicial Conduct</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Investigations, Hearings And Recommendations</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     All judges of the trial court, the appeals court and the supreme judicial court shall be subject to discipline pursuant to this chapter. The commission on judicial conduct shall have the authority to receive information, investigate, conduct hearings, and make recommendations to the supreme judicial court concerning allegations of judicial misconduct and allegations of mental or physical disability affecting a judge’s performance.
+        </section>
+        <section prefix="2">
+    	     The commission shall have jurisdiction over investigations and recommendations regarding discipline arising from the conduct of all judges, including any retired judge who is assigned to perform the duties of a judge for a temporary period. This jurisdiction shall include all conduct that occurred prior to a judge’s assuming judicial office, and conduct of a lawyer who is no longer a judge that occurred while he held judicial office; provided, however, that in evaluating such conduct, the commission shall give substantial weight to relevant decisions of the supreme judicial court and the board of bar overseers regarding bar discipline. The foregoing shall not be construed to derogate the inherent authority of the supreme judicial court to supervise and discipline judges, the authority of the governor with the consent of the council to remove a judge upon the address of both houses of the legislature or to retire a judge involuntarily because of advanced age or mental or physical disability, the authority of the legislature to remove a judge through impeachment, or the supervisory authority of the chief justices of the appeals and supreme judicial courts or of the chief and department administrative justices of the trial court.
+        </section>
+        <section prefix="3">
+    	     Except where the commission determines otherwise for good cause, the commission shall not deal with complaints arising out of acts or omissions occurring more than one year prior to the date commission proceedings are initiated pursuant to section five; provided, however, that, when the last episode of an alleged pattern of recurring judicial conduct arises within the one year period, the commission may consider all prior acts or omissions related to such alleged pattern of conduct.
+        </section>
+        <section prefix="4">
+    	     In the absence of fraud, corrupt motive, bad faith, or clear indication that the judge’s conduct violates the code of judicial conduct, the commission shall not take action against a judge for making findings of fact, reaching a legal conclusion, or applying the law as he understands it. Commission proceedings shall not be a substitute for an appeal.
+        </section>
+        <section prefix="5">
+    	     Grounds for discipline shall include:
+        </section>
+        <section prefix="a">
+    	     conviction of a felony;
+        </section>
+        <section prefix="b">
+    	     willful misconduct in office;
+        </section>
+        <section prefix="c">
+    	     willful misconduct which, although not related to judicial duties, brings the judicial office into disrepute;
+        </section>
+        <section prefix="d">
+    	     conduct prejudicial to the administration of justice or conduct unbecoming a judicial officer, whether conduct in office or outside of judicial duties, that brings the judicial office into disrepute; or
+        </section>
+        <section prefix="e">
+    	     any conduct that constitutes a violation of the codes of judicial conduct or professional responsibility.
+        </section>
+    </text>
+</law>

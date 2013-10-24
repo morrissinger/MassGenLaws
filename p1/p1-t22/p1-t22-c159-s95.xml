@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>95</section_number>
+    <catch_line>Compensation Of Police; Liability For Misconduct Of Police</catch_line>
+    <order_by>95</order_by>
+    <text>
+        Railroad, railway, railway express and steamboat police officers shall be paid by the corporation or company upon whose petition they are appointed. Such corporation or company shall be liable for any official misconduct of such officers to the same extent as for torts of agents or servants in their employ.
+    </text>
+</law>

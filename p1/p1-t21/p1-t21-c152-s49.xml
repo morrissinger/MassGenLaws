@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>49</section_number>
+    <catch_line>Claim In General</catch_line>
+    <order_by>49</order_by>
+    <text>
+        The claim for compensation shall be in writing, and shall state the date, place, cause and nature of the injury. It shall be signed by the person injured, or, in the event of his death, by his legal representative, or by a person to whom payments may be due, or by a person in behalf of any of them, and shall be filed with the department. A claim for compensation shall not be held invalid or insufficient by reason of any inaccuracy in stating the date, place, cause or nature of the injury unless it is shown that it was the intention to mislead and that the insurer was in fact misled thereby.
+    </text>
+</law>

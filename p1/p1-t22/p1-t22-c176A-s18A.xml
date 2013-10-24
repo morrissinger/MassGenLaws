@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176A" order_by="176A" level="3">Non Profit Hospital Service Corporations</unit>
+    </structure>
+    <section_number>18A</section_number>
+    <catch_line>Financial Statements; Inclusion Of Electronic Data Processing Equipment As Asset</catch_line>
+    <order_by>18A</order_by>
+    <text>
+        In an account of its financial condition, a non-profit hospital service corporation may include as an asset available for the payment of losses electronic data processing equipment, provided that the cost of such equipment at the time of acquisition is at least one hundred thousand dollars and that said cost is to be amortized in full over a period not to exceed ten years.
+    </text>
+</law>

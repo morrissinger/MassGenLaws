@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Action For Damages Brought Against Museum; Time For Action; Property Deemed Donated Upon Failure To Act After Receipt Of Notice Of Museum’S Intent To Claim Title; Title To Property Purchased From Museum; Recovery Of Property Upon Failure To Receive Notice; Competing Interests In Loaned Property</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless a written loan agreement exists between the parties, no action for damages shall be brought against a museum or the museum’s employees, agents, officers or trustees because of injury, damage to or loss of property loaned to the museum more than 2 years after the date the museum provided notice to the lender or claimant of the damage or loss.
+        </section>
+        <section prefix="b">
+    	     No action shall be brought against a museum or the museum’s employees, agents, officers or trustees to recover loaned or undocumented property more than 2 years after the date the museum provides notice to the lender or claimant of the museum’s intent to terminate a loan or the museum’s assertion of title to undocumented property.
+        </section>
+        <section prefix="c">
+    	     No action shall be brought against a museum or the museum’s employees, agents, officers or trustees to recover loaned property more than 2 years after the expiration date of the most recent written contract between the lender or claimant and the museum.
+        </section>
+        <section prefix="d">
+    	     A lender or claimant shall be deemed to have donated loaned property to a museum if the lender or claimant fails to contact the museum and establish the lender’s or claimant’s claim to the property after receiving notice of the museum’s intent to claim title to the property or dispose of the property or if the lender or claimant fails to file an action to recover the loaned property within the periods specified in subsections (b) and (c).
+        </section>
+        <section prefix="e">
+    	     A person who purchases property from a museum shall acquire title to the property if, prior to the person’s purchase, the museum acquired title to the property under this chapter.
+        </section>
+        <section prefix="f">
+    	     Notwithstanding subsections (d) and (e), a lender or claimant who has not received notice of intent to terminate a loan or notice of the museum’s assertion of title to undocumented property and who proves that the museum received satisfactory notice of interest in the property under subsection (b) of section 7, may recover the property or, if the property has been disposed of, the reasonable value of the property at the time the museum disposed of the property.
+        </section>
+        <section prefix="g">
+    	     If a person claims a competing interest with a second person in property loaned to a museum, the burden shall be on the person claiming the competing interest to prove such person’s interest in the property. A museum shall not be liable for the return of property to a claimant who has produced reasonable proof of ownership if, at the time the museum returned the property, the claimant’s claim was uncontested.
+        </section>
+    </text>
+</law>

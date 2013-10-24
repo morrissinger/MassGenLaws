@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>54</section_number>
+    <catch_line>Depositaries; Insurance Charge; Commingling Funds</catch_line>
+    <order_by>54</order_by>
+    <text>
+        Except as otherwise provided in this chapter, moneys in the clearing and benefit accounts and the contingent fund may be deposited in any depositary bank in which general funds of the commonwealth may be deposited, but no public deposit insurance charge or premium shall be paid out of the Unemployment Compensation Fund or the contingent fund. 
+Moneys in the clearing and benefit accounts and the contingent fund shall not be commingled with other funds of the commonwealth, but shall be maintained as separate accounts on the books of the depositary bank.
+    </text>
+</law>

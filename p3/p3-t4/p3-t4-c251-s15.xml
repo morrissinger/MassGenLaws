@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Applications To Court</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Except as otherwise provided, an application to the court under this chapter shall be by motion and shall be heard in the manner and upon the notice provided by law or rule of court for the making and hearing of motions. Unless the parties have agreed otherwise, notice of an initial application for an order shall be served in the manner provided by law for the service of an original writ of summons.
+    </text>
+</law>

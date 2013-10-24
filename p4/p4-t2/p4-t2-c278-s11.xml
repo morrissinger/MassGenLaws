@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Directed Verdict; Setting Aside Verdict, New Trial Or Finding Of Guilty Of Included Offense</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If a motion for a directed verdict of not guilty is denied and the case is submitted to the jury and a verdict of guilty is returned, the judge may on a renewed motion for a directed verdict of not guilty pursuant to the Massachusetts Rules of Criminal Procedure set aside the verdict and order a new trial, or order the entry of a finding of guilty of any offense included in the offense charged in the indictment or complaint.
+    </text>
+</law>

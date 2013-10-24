@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="259" order_by="259" level="3">Prevention Of Frauds And Perjuries</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Actionable Contracts; Necessity Of Writing</catch_line>
+    <order_by>1</order_by>
+    <text>
+        No action shall be brought: 
+First, To charge an executor or administrator, or an assignee under an insolvent law of the commonwealth, upon a special promise to answer damages out of his own estate; 
+Second, To charge a person upon a special promise to answer for the debt, default or misdoings of another; 
+Third, Upon an agreement made upon consideration of marriage; 
+Fourth, Upon a contract for the sale of lands, tenements or hereditaments or of any interest in or concerning them; or, 
+Fifth, Upon an agreement that is not to be performed within one year from the making thereof; 
+Unless the promise, contract or agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or by some person thereunto by him lawfully authorized.
+    </text>
+</law>

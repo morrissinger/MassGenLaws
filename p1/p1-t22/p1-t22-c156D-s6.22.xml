@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.22</section_number>
+    <catch_line>Liability Of Shareholders</catch_line>
+    <order_by>6.22</order_by>
+    <text>
+        <section prefix="a">
+    	     A purchaser from a corporation of its own shares is not liable to the corporation or its creditors with respect to the shares except to pay the consideration for which the shares were authorized to be issued or specified in the subscription agreement.
+        </section>
+        <section prefix="b">
+    	     Unless otherwise provided in the articles of organization, a shareholder of a corporation shall not be personally liable for the acts or debts of the corporation except that he may become personally liable by reason of his own acts or conduct.
+        </section>
+    </text>
+</law>

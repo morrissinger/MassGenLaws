@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>51A</section_number>
+    <catch_line>Decision In Compensation Case; Law In Effect</catch_line>
+    <order_by>51A</order_by>
+    <text>
+        In any claim in which no compensation has been paid prior to the final decision on such claim, said final decision shall take into consideration the compensation provided by statute on the date of the decision, rather than the date of the injury.
+    </text>
+</law>

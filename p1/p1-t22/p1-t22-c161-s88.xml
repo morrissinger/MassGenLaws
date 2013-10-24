@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>88</section_number>
+    <catch_line>Liability Of Municipality For Alteration Or Discontinuance Of Public Way</catch_line>
+    <order_by>88</order_by>
+    <text>
+        A city or a town which, for any lawful purpose, takes up, alters or discontinues public ways in which the tracks of a company are located, shall not be liable in damages therefor to said company.
+    </text>
+</law>

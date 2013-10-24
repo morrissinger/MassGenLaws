@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.04</section_number>
+    <catch_line>Amended Certificate</catch_line>
+    <order_by>15.04</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation that has delivered to the secretary of state for filing the certificate required by section 15.03 shall deliver an amendment to the certificate if it changes:
+        </section>
+        <section prefix="1">
+    	     its corporate name;
+        </section>
+        <section prefix="2">
+    	     the period of its duration;
+        </section>
+        <section prefix="3">
+    	     the state or country of its incorporation;
+        </section>
+        <section prefix="4">
+    	     the street address of its principal office;
+        </section>
+        <section prefix="5">
+    	     its fiscal year; or
+        </section>
+        <section prefix="6">
+    	     the activities conducted by the foreign corporation in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     A foreign corporation that changes its corporate name or the state or country of its incorporation shall deliver with the completed amendment a certificate evidencing the changes duly authenticated by the secretary of state or other official having custody of corporate records in the state or country under whose law it is incorporated.
+        </section>
+        <section prefix="c">
+    	     A foreign corporation that has delivered to the secretary of state for filing the certificate required by section 15.03 may deliver an amendment to the certificate for any other reason.
+        </section>
+        <section prefix="d">
+    	     The requirements of section 15.03 for delivering to the secretary of state for filing an original certificate apply to delivering any amendment thereto under this section, except that an amendment need not contain any of the information the original certificate that is not being changed and the certificate required by subsection (b) of this section need be delivered only in the circumstances set forth in said subsection (b).
+        </section>
+    </text>
+</law>

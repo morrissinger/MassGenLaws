@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.02</section_number>
+    <catch_line>Dissolution By Board Of Directors And Shareholders, Or Otherwise In Accordance With Articles Of Organization</catch_line>
+    <order_by>14.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may voluntarily authorize dissolution by any method or procedure specified in its articles of organization. The articles of organization may condition the availability of the method or procedure on any basis. Notwithstanding anything else contained in this subsection, any provision in the articles of organization adopted pursuant to this subsection shall cease to be effective when shares of the corporation are listed on a national securities exchange or regularly traded in a market maintained by 1 or more members of a national or affiliated securities association. If a provision of the articles of organization ceases to be effective for any reason, the board of directors may, without shareholder action, adopt an amendment to the articles of organization, and, if appropriate, to the bylaws of the corporation, to delete such a provision and any references to it.
+        </section>
+        <section prefix="b">
+    	     In the absence of any specified methods or procedures in the articles of organization, and in addition to any methods or procedures so specified unless the articles of organization state that the specified methods or procedures are exclusive, a corporation may voluntarily authorize dissolution as follows:
+        </section>
+        <section prefix="1">
+    	     the board of directors shall submit a proposal for and terms of the proposed dissolution to the shareholders; and
+        </section>
+        <section prefix="2">
+    	     the shareholders entitled to vote shall approve the dissolution as provided in subsection (e).
+        </section>
+        <section prefix="c">
+    	     The board of directors may condition any submission to the shareholders of a proposal for dissolution under subsection (b) on any basis.
+        </section>
+        <section prefix="d">
+    	     The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders’ meeting, in connection with any submission of a proposal for dissolution under subsection (b), in accordance with section 7.05. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation.
+        </section>
+        <section prefix="e">
+    	     Unless (1) a greater percentage vote, or the vote of one or more additional separate voting groups, is required by the articles of organization, pursuant to subsection (a) of section 7.27, by the bylaws, pursuant to section 10.21, or by the board of directors, acting pursuant to subsection (c) of this section, or (2) the articles provide for a lesser percentage vote, in accordance with subsection (b) of section 7.27, and subject, except as otherwise permitted by subsection (a) of this section, to the requirement that such lesser percentage be not less than a majority of all the votes entitled to be cast on the proposal, adoption of the proposal to dissolve requires approval by two-thirds of all the votes entitled generally to be cast on the matter by the articles of organization.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.58</section_number>
+    <catch_line>Variation By Corporate Action; Application Of Subchapter</catch_line>
+    <order_by>8.58</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may, by its articles of organization or bylaws or in a resolution adopted or a contract approved by its board of directors or shareholders, obligate itself in advance of the act or omission giving rise to a proceeding to provide indemnification in accordance with section 8.51 or section 8.56 or advance funds to pay for or reimburse expenses in accordance with section 8.53. Any such obligatory provision shall be deemed to satisfy the requirements for authorization referred to in subsection (c) of section 8.53 and in subsection (c) of section 8.55. Any such provision that obligates the corporation to provide indemnification to the fullest extent permitted by law shall be considered to obligate the corporation to advance funds to pay for or reimburse expenses in accordance with section 8.53 to the fullest extent permitted by law, unless the provision specifically provides otherwise.
+        </section>
+        <section prefix="b">
+    	     Any provision pursuant to subsection (a) shall not obligate the corporation to indemnify or advance expenses to a director of a predecessor of the corporation, pertaining to conduct with respect to the predecessor, unless otherwise specifically provided. Any provision for indemnification or advance for expenses in the articles of incorporation, bylaws, or a resolution of the board of directors or shareholders of a predecessor of the corporation in a merger or in a contract to which the predecessor is a party, existing at the time the merger takes effect, shall be governed by clause (3) of subsection (a) of section 11.07.
+        </section>
+        <section prefix="c">
+    	     A corporation in its articles of organization may, limit any of the rights to indemnification or advance for expenses created by or pursuant to this subdivision.
+        </section>
+        <section prefix="d">
+    	     This subdivision shall not limit a corporation’s power to pay or reimburse expenses incurred by a director or an officer in connection with his appearance as a witness in a proceeding at a time when he is not a party.
+        </section>
+        <section prefix="e">
+    	     This subdivision shall not limit a corporation’s power to indemnify, advance expenses to or provide or maintain insurance on behalf of an employee or agent.
+        </section>
+    </text>
+</law>

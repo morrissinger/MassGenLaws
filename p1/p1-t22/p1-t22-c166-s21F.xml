@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166" order_by="166" level="3">Telephone And Telegraph Companies, And Lines For The Transmission Of Electricity</unit>
+    </structure>
+    <section_number>21F</section_number>
+    <catch_line>Exemptions; Definitions</catch_line>
+    <order_by>21F</order_by>
+    <text>
+        <section prefix="a">
+    	     Series of poles or the equivalent;
+        </section>
+        <section prefix="b">
+    	     Nonconductive enclosures around conductors.
+        </section>
+        <section prefix="a">
+    	     Removing electrical conductors from poles;
+        </section>
+        <section prefix="b">
+    	     Elevating electrical conductors from poles;
+        </section>
+        <section prefix="c">
+    	     Rerouting electrical conductors.
+        </section>
+        <section prefix="a">
+    	     Employees of a light and power company with respect to the electrical system of such a company, and the employees of a transportation system with respect to the electrical circuits of such system;
+        </section>
+        <section prefix="b">
+    	     Employees of communication utilities, state, county or municipal agencies having authorized circuit construction on the poles or structures of an electric power company or transportation system or communication system;
+        </section>
+        <section prefix="c">
+    	     Employees of an industrial plant with respect to the electrical system of such plant;
+        </section>
+        <section prefix="d">
+    	     Employees of any electrical or communications contractor with respect to work under his supervision.
+        </section>
+    </text>
+</law>

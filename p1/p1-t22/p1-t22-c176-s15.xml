@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Benefits Other Than Insurance Benefits</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Make any separate charge therefor;
+        </section>
+        <section prefix="b">
+    	     Issue any certificate, policy or other document promising such payments;
+        </section>
+        <section prefix="c">
+    	     Provide in its constitution, laws or any other document that such payments may be received by the member as a matter of right; or
+        </section>
+        <section prefix="d">
+    	     Advertise such payments as insurance or as payments to which the member has any right.
+        </section>
+    </text>
+</law>

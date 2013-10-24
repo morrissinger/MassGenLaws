@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>44A1/2</section_number>
+    <catch_line>Fair Competition For Bidders On Construction</catch_line>
+    <order_by>44A1/2</order_by>
+    <text>
+        <section prefix="a">
+    	     A public agency, before entering into a contract for design services pursuant to section 38D or section 38K of chapter 7, shall contract for the services of an owner’s project manager to serve as the public agency’s agent and consultant during the planning, design and implementation of a contract for the construction, reconstruction, installation, demolition, maintenance or repair of any building by the public agency estimated to cost not less than $1,500,000. The duties of the owner’s project manager shall include, but need not be limited to, providing advice and consultation with respect to design, value engineering, scope of the work, cost estimating, general contractor and subcontractor prequalification, pursuant to section 44D1/2 or 44D3/4 when applicable, scheduling, construction and the selection, negotiation with and oversight of a designer and a general contractor for the project, ensuring the preparation of time schedules which shall serve as control standards for monitoring performance of the building project, and assisting in project evaluation including, but not limited to, written evaluations of the performance of the design professional, contractors, and subcontractors. For the purposes of this subsection, the term “owner’s project manager” shall mean an individual, corporation, partnership, sole proprietorship, joint stock company, joint venture, or other entity engaged in the practice of providing project management services for the construction and supervision of construction of buildings. The owner’s project manager shall be a person who is registered by the commonwealth as an architect or professional engineer and who has at least 5 years experience in the construction and supervision of construction of buildings or a person, if not registered as an architect or professional engineer, who has at least 7 years experience in the construction and supervision of construction of buildings. The owner’s project manager shall be independent of the designer, general contractor or any sub-contractor involved in the building project.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding subsection (a), a public agency may assign an existing employee to serve as the owner’s project manager, if that employee meets or exceeds the minimum qualifications as outlined in subsection (a) and has experience in the construction and supervision of construction of buildings of similar size and scope of complexity as the project to which he is assigned.
+        </section>
+        <section prefix="c">
+    	     The public agency shall use a qualifications based selection process to procure the services of an owner’s project manager.
+        </section>
+    </text>
+</law>

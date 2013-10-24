@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.24</section_number>
+    <catch_line>Corporation’S Acceptance Of Votes</catch_line>
+    <order_by>7.24</order_by>
+    <text>
+        <section prefix="a">
+    	     If the name signed on a vote, consent, waiver, or proxy appointment corresponds to the name of a shareholder, the corporation if acting in good faith is entitled to accept the vote, consent, waiver, or proxy appointment and give it effect as the act of the shareholder.
+        </section>
+        <section prefix="b">
+    	     If the name signed on a vote, consent, waiver, or proxy appointment does not correspond to the name of its shareholder, the corporation if acting in good faith is nevertheless entitled to accept the vote, consent, waiver, or proxy appointment and give it effect as the act of the shareholder if:
+        </section>
+        <section prefix="1">
+    	     the shareholder is an entity and the name signed purports to be that of an officer or agent of the entity;
+        </section>
+        <section prefix="2">
+    	     the name signed purports to be that of an administrator, executor, guardian, conservator or other fiduciary representing the shareholder and, if the corporation requests, evidence of fiduciary status acceptable to the corporation has been presented;
+        </section>
+        <section prefix="3">
+    	     the name signed purports to be that of a receiver or trustee in bankruptcy of the shareholder and, if the corporation requests, evidence of this status acceptable to the corporation has been presented;
+        </section>
+        <section prefix="4">
+    	     the name signed purports to be that of a secured party, beneficial owner, or attorney-in-fact of the shareholder and, if the corporation requests, evidence acceptable to the corporation of the signatory’s authority to sign for the shareholder has been presented;
+        </section>
+        <section prefix="5">
+    	     two or more persons are the shareholder as co-owners, cotenants or fiduciaries and the name signed purports to be the name of at least one of the co-owners and the person signing appears to be acting on behalf of all the co-owners; or
+        </section>
+        <section prefix="6">
+    	     the corporation otherwise has a reasonable basis for believing that the signatory is, or has authority to sign for, the shareholder.
+        </section>
+        <section prefix="c">
+    	     The corporation is entitled to reject a vote, consent, waiver, or proxy appointment if the secretary or other officer or agent authorized to tabulate votes, acting in good faith, has reasonable basis for doubting the validity of the signature on it or the signatory’s authority to sign for the shareholder.
+        </section>
+        <section prefix="d">
+    	     The corporation and its officer or agent who accepts or rejects a vote, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section shall not be liable to the shareholder for damages resulting from the acceptance or rejection.
+        </section>
+        <section prefix="e">
+    	     Corporate action based on the acceptance or rejection of a vote, consent, waiver, or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise.
+        </section>
+    </text>
+</law>

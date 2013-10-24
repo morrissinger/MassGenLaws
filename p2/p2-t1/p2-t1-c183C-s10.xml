@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183C" order_by="183C" level="3">Predatory Home Loan Practices</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Periodic Payment Schedule</catch_line>
+    <order_by>10</order_by>
+    <text>
+        A high-cost home mortgage loan shall not contain a payment schedule with regular periodic payments such that the result is an increase in the principal amount.
+    </text>
+</law>

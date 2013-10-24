@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Consolidation And Merger; Agreement; Submission Of Articles; Filing Copy Of Articles</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Any two or more corporations as defined in section two and any such corporation and any other corporations organized under other laws of the commonwealth, if such other laws permit, may consolidate to form a new corporation, or may merge into a single corporation which may be any one of the constituent corporations, in the manner specified in this section. If one or more of such corporations constitutes a public charity, then the consolidated or surviving corporation shall be a public charity.
+        </section>
+        <section prefix="b">
+    	     Such corporations as desire to consolidate or merge shall enter into an agreement of consolidation or merger signed by an authorized officer of each corporation which shall set forth:
+        </section>
+        <section prefix="i">
+    	     the names of the corporations proposing to consolidate or merge and the name of the resulting or surviving corporation;
+        </section>
+        <section prefix="ii">
+    	     the purposes of the resulting or surviving corporation;
+        </section>
+        <section prefix="iii">
+    	     the terms and conditions of the consolidation or merger, including, in the case of any constituent corporation having capital stock, the method of retiring and cancelling such stock; and
+        </section>
+        <section prefix="iv">
+    	     the manner of fixing the effective date of the consolidation or merger, which shall be fixed as provided in section seventy-eight of chapter one hundred and fifty-six B.
+        </section>
+        <section prefix="c">
+    	     The agreement of consolidation or merger shall be adopted by each of the constituent corporations by vote of two-thirds of its members entitled to vote thereon or, in the case of a constituent corporation having capital stock, by the holders of two-thirds of its capital stock entitled to vote thereon at a meeting duly called for the purpose in the manner prescribed in section seventy-eight of chapter one hundred and fifty-six B.
+        </section>
+        <section prefix="d">
+    	     (1) Unless such agreement to consolidate or merge is abandoned pursuant to its provisions, articles of consolidation or merger shall be submitted to the state secretary in the manner prescribed in and subject to section seventy-eight of chapter one hundred and fifty-six B and shall become effective as provided in said section seventy-eight of said chapter one hundred and fifty-six B; provided, however, that no articles of consolidation or merger shall be approved and filed by the state secretary (i) if as a result thereof the location of a constituent corporation subject to section twenty-six would be changed, until after approval of such change by the state secretary, or (ii) if the purposes of the resulting or surviving corporation are such that the articles of organization of a corporation newly organized under this chapter for such purposes must be approved by any department or officer of this commonwealth as a condition of organization under this chapter, until after approval of the articles of consolidation or merger by such department or officer.
+        </section>
+        <section prefix="2">
+    	     The resulting or surviving corporation shall file a copy of the articles of consolidation or merger certified by the state secretary in the registry of deeds in each district within the commonwealth in which real property of any constituent corporation is situated or in lieu of such certified copy, a certificate issued by the state secretary in such form as he shall prescribe evidencing the filing and approval of articles of consolidation or merger hereunder, except that no filing need be made with respect to real property of a constituent corporation which is the surviving corporation of a merger.
+        </section>
+    </text>
+</law>

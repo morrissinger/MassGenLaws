@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>110H</section_number>
+    <catch_line>Policies Cancellable At Age 65; Notice To Insured   </catch_line>
+    <order_by>110H</order_by>
+    <text>
+        Every company which issues a policy of insurance under the provisions of section one hundred and eight which is cancellable when the insured reaches age sixty-five shall, sixty days prior to the date of intended cancellation, notify the insured that such policy will be cancelled and the date thereof. If such company fails to so notify the insured, such policy shall remain in effect until such notification or until ninety days after the insured reaches age sixty-five, whichever shall first occur.
+    </text>
+</law>

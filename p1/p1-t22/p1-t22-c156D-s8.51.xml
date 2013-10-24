@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.51</section_number>
+    <catch_line>Permissible Indemnification</catch_line>
+    <order_by>8.51</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, a corporation may indemnify an individual who is a party to a proceeding because he is a director against liability incurred in the proceeding if:
+        </section>
+        <section prefix="ii">
+    	     he reasonably believed that his conduct was in the best interests of the corporation or that his conduct was at least not opposed to the best interests of the corporation; and
+        </section>
+        <section prefix="iii">
+    	     in the case of any criminal proceeding, he had no reasonable cause to believe his conduct was unlawful; or
+        </section>
+        <section prefix="2">
+    	     he engaged in conduct for which he shall not be liable under a provision of the articles of organization authorized by clause (4) of subsection (b) of section 2.02.
+        </section>
+        <section prefix="b">
+    	     A director’s conduct with respect to an employee benefit plan for a purpose he reasonably believed to be in the interests of the participants in, and the beneficiaries of, the plan is conduct that satisfies the requirement that his conduct was at least not opposed to the best interests of the corporation.
+        </section>
+        <section prefix="c">
+    	     The termination of a proceeding by judgment, order, settlement, or conviction, or upon a plea of nolo contendere or its equivalent, is not, of itself, determinative that the director did not meet the relevant standard of conduct described in this section.
+        </section>
+        <section prefix="d">
+    	     Unless ordered by a court under clause (3) of subsection (a) of section 8.54, a corporation may not indemnify a director under this section if his conduct did not satisfy the standards set forth in subsection (a) or subsection (b).
+        </section>
+    </text>
+</law>

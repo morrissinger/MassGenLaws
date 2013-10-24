@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>142</section_number>
+    <catch_line>Loans; Interest Rates; Loan Value; Definitions</catch_line>
+    <order_by>142</order_by>
+    <text>
+        <section prefix="1">
+    	     For the purpose of this section, “Published monthly average” shall mean: (a) the monthly average of the composite yield on seasoned corporate bonds as published by Moody’s Investors Service, Inc. or any successor thereto; or (b), in the event that the monthly average of the composite yield on seasoned corporate bonds is no longer published, a substantially similar average, established by regulations promulgated by the commissioner.
+        </section>
+        <section prefix="2">
+    	     After premiums have been paid for at least three full years on any policy of life insurance issued or delivered in the commonwealth by any life company, the holder thereof, upon written application therefor to the company at its home office and upon an assignment of the policy to the company, in a form satisfactory to it, shall be entitled to a loan from the company of a sum not exceeding its loan value, on the sole security of the policy.
+        </section>
+        <section prefix="3">
+    	     Such policy shall contain a provision permitting (a), an interest rate on such loan of not more than eight per cent per annum; or (b) a provision permitting an adjustable maximum interest rate on such loan established from time to time by the insurer in accordance with the provisions of subsection (4).
+        </section>
+        <section prefix="4">
+    	     The rate of interest charged on a policy loan made under clause (b) of subsection (3) shall not exceed the higher of either: (a) the published monthly average for the calendar month ending two months before the date on which the rate is determined; or (b) the rate used to compute the cash surrender values under the policy during the applicable period plus one per cent per annum.
+        </section>
+        <section prefix="5">
+    	     If the maximum rate of interest is determined pursuant to the provisions of clause (b) of subsection (3), the policy shall contain a provision setting forth the frequency at which the rate is to be determined for such policy.
+        </section>
+        <section prefix="6">
+    	     The maximum rate for each policy must be determined at regular intervals at least once every twelve months, but not more frequently than once in any three month period. At the intervals specified in the policy, the rate being charged: (a), may be increased whenever such increase as determined under subsection (4) would increase the rate by one-half per cent or more per annum; and (b), must be reduced whenever such reduction as determined under subsection (4) would decrease that rate by one-half per cent or more per annum.
+        </section>
+        <section prefix="7">
+    	     The life insurer shall:
+        </section>
+        <section prefix="a">
+    	     notify the policyholder at the time a cash loan is made of the initial rate of interest on the loan;
+        </section>
+        <section prefix="b">
+    	     notify the policyholder with respect to premium loans of the initial rate of interest on the loan as soon as it is reasonably practical to do so after making the initial loan; provided, however, that notice need not be given to the policyholder when a further premium loan is added, except as provided in clause (c);
+        </section>
+        <section prefix="c">
+    	     send to policyholders with loans reasonable advance notice of any increase in the rate; and
+        </section>
+        <section prefix="d">
+    	     include in the notices required in clauses (a), (b) and (c) the substance of the pertinent provisions of subsections (3) and (5).
+        </section>
+        <section prefix="8">
+    	     The loan value shall be an amount which, together with interest as aforesaid to the end of the current policy year, shall equal the cash surrender value available at the end of the said policy year under the policy, including the cash surrender value of any existing paid-up additions thereto, if the policy is then free from indebtedness. The company shall deduct from such loan value any existing indebtedness, including accrued interest thereon, and may also deduct any unpaid portion of the premium for the then current policy year. Failure to repay any loan under the policy or to pay interest thereon shall not avoid the policy until the total indebtedness, including accrued interest thereon, is equal to or exceeds the loan value, nor until thirty days after notice has been mailed by the company to the last known address of the holder. The affidavit of any officer, clerk or agent of the company or of any one authorized to mail such notice, that the notice required by this section has been duly mailed by the company, shall be prima facie evidence that such notice was duly given. Nothing in this section shall require any company to make a loan upon any policy for less than twenty-five dollars.
+        </section>
+        <section prefix="9">
+    	     No life insurer shall terminate a policy in a policy year as the sole result of a change in the interest rate during such policy year, and the life insurer shall maintain coverage during such policy year until the time at which it would otherwise have terminated if there had been no change during such policy year.
+        </section>
+        <section prefix="10">
+    	     The substance of the pertinent provisions of subsections (3) and (5) shall be set forth in the policies to which they apply.
+        </section>
+        <section prefix="11">
+    	     For purposes of this section:
+        </section>
+        <section prefix="a">
+    	     The rate of interest on policy loans permitted under this section includes the interest rate charged on reinstatement of policy loans for the period during and after any lapse of policy.
+        </section>
+        <section prefix="b">
+    	     The term “policy loan” includes any premium loan made under a policy to pay one or more premiums that were not paid to the life insurer as they fell due.
+        </section>
+        <section prefix="c">
+    	     The term “policyholder” includes the owner of the policy or the person designated to pay premiums as shown on the records of the life insurer.
+        </section>
+        <section prefix="d">
+    	     The term “policy” includes certificates issued by a fraternal benefit society and annuity contracts which provide for policy loans.
+        </section>
+        <section prefix="12">
+    	     No other provision of law shall apply to policy loan interest rates unless made specifically applicable to such rates.
+        </section>
+        <section prefix="13">
+    	     This section shall not apply to term policies nor to those in force as extended term insurance nor to industrial life insurance policies nor to life insurance policies or contracts which are contracts on a variable basis.
+        </section>
+    </text>
+</law>

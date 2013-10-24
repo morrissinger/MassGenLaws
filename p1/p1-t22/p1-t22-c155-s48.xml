@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="155" order_by="155" level="3">General Provisions Relative To Corporations</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>False Statements; Penalty</catch_line>
+    <order_by>48</order_by>
+    <text>
+        Whoever knowingly makes, executes, files or publishes any report or statement required by law to be made, executed, filed or published by a corporation in this commonwealth, whether such corporation is organized under the laws of this commonwealth or elsewhere, or whoever causes the same to be done, which report or statement is false in any material representation, shall be punished by a fine of not more than five thousand dollars or by imprisonment for not more than three years, or both.
+    </text>
+</law>

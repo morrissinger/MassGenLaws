@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Statement Of Account; Contents</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="1">
+    	     The amounts paid by or on behalf of the buyer, setting forth any refund and any payment of charges for delinquencies, expenses of repossession and extensions, to the date of the statement of account;
+        </section>
+        <section prefix="2">
+    	     The amounts, if any, which have become due but remain unpaid, setting forth any charges for delinquencies, expenses of repossession and extensions;
+        </section>
+        <section prefix="3">
+    	     The number of installment payments and the dollar amount of each installment not due but still to be paid and the remaining period the agreement is to run.
+        </section>
+    </text>
+</law>

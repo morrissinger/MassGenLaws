@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175J" order_by="175J" level="3">Administrative Supervision And Hazardous Financial Conditions Of Insurities</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Applicability</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The provisions of this chapter shall apply to all domestic insurers, and any other insurer doing business in the commonwealth whose state of domicile has requested in writing for the commissioner to apply the provisions of this chapter as regards such insurer.
+    </text>
+</law>

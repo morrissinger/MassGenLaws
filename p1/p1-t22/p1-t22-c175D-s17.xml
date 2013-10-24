@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>High Net Worth Insureds; Payment Of Claims; Financial Information</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="1">
+    	     For purposes of this section “high net worth insured” shall mean any insured whose net worth exceeds $25 million on December 31 of the year before the year in which the insurer becomes an insolvent insurer; but, an insured’s net worth on that date shall be considered to include the aggregate net worth of the insured and all of its subsidiaries and affiliates as calculated on a consolidated basis. “High net worth insured” shall not include a federal, state or local government entity.
+        </section>
+        <section prefix="2">
+    	     The fund shall not be obligated to pay a first party claim by a high net worth insured.
+        </section>
+        <section prefix="3">
+    	     The fund shall have the right to recover from a high net worth insured amounts paid by the fund to or on behalf of the insured, whether for indemnity, defense or otherwise.
+        </section>
+        <section prefix="4">
+    	     The fund shall not be obligated to pay a claim that would otherwise be a covered claim that is an obligation to or on behalf of a person who has a net worth greater than that allowed by the insurance guaranty association law of the state of residence of the claimant at the time specified by that state’s applicable law, and which fund has denied coverage to that claimant on that basis.
+        </section>
+        <section prefix="5">
+    	     The fund shall establish reasonable procedures subject to the approval of the commissioner for requesting financial information from insureds on a confidential basis for purposes of applying this section; but, the financial information may be shared with any other state guaranty association or fund similar to the fund and the liquidator for the insolvent insurer on the same confidential basis. A request to an insured seeking financial information shall advise the insured of the consequences of failing to provide the financial information. If an insured refuses to provide the requested financial information where it is requested and available, the fund may, until such time as the information is provided, provisionally consider the insured to be a high net worth insured for the purposes of subsections (2) and (3).
+        </section>
+        <section prefix="6">
+    	     In a lawsuit contesting the applicability of this section where the insured has refused to provide financial information under the procedure established pursuant to subsection (5), the insured shall bear the burden of proof concerning its net worth at the relevant time. If the insured fails to prove that its net worth at the relevant time was less than the applicable amount, the court shall award the fund its full costs, expenses and reasonable attorneys’ fees in contesting the claim.
+        </section>
+    </text>
+</law>

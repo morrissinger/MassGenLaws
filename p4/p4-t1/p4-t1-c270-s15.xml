@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="270" order_by="270" level="3">Crimes Against Public Health</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Arrest Without Warrant For Spitting</catch_line>
+    <order_by>15</order_by>
+    <text>
+        Any person detected in the act of violating the preceding section may, if his name is unknown to the officer, be arrested without a warrant by any officer authorized to serve criminal process in the place where the offence is committed and kept in custody until he can be taken before a court having jurisdiction of such offence.
+    </text>
+</law>

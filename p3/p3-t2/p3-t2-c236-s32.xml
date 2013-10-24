@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="236" order_by="236" level="3">Levy Of Executions On Land</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Proceedings After Dissolution Of Prior Attachment</catch_line>
+    <order_by>32</order_by>
+    <text>
+        If land is set off or sold in part under a prior attachment or seizure, or if that attachment or seizure is dissolved, the land or such part thereof as remains undisposed of shall continue bound for thirty days thereafter by the seizure on execution, and service of the execution may be completed as if the land had been first seized thereon within said thirty days, although the return day thereof has passed.
+    </text>
+</law>

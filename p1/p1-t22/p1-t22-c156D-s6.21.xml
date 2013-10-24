@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.21</section_number>
+    <catch_line>Issuance Of Shares</catch_line>
+    <order_by>6.21</order_by>
+    <text>
+        <section prefix="a">
+    	     The powers granted in this section to the board of directors may be reserved to the shareholders, either exclusively or concurrently with the powers of the directors, by the articles of organization.
+        </section>
+        <section prefix="b">
+    	     The board of directors may authorize shares to be issued for consideration consisting of any tangible or intangible property or benefit to the corporation, including cash, promissory notes, services performed, contracts for services to be performed, or other securities of the corporation.
+        </section>
+        <section prefix="c">
+    	     Before the corporation issues shares, the board of directors must determine that the consideration received or to be received for shares to be issued is adequate. That determination by the board of directors is conclusive insofar as the adequacy of consideration for the issuance of shares relates to whether the shares are validly issued, fully paid, and nonassessable.
+        </section>
+        <section prefix="d">
+    	     The articles of organization may limit the type or specify the minimum amount of consideration for which the shares of any class or series may be issued. A reference in the articles of organization to par value shall not, by itself, be deemed to be a specification of the minimum amount.
+        </section>
+        <section prefix="e">
+    	     Notwithstanding subsection (d), when the corporation receives the consideration for which the board of directors authorized the issuance of shares, the shares issued therefor are fully paid and nonassessable.
+        </section>
+        <section prefix="f">
+    	     The corporation may place in escrow shares issued for a contract for future services or benefits or a promissory note, or make other arrangements to restrict the transfer of the shares, and may credit distributions in respect of the shares against their purchase price, until the services are performed, the note is paid, or the benefits received. If the services are not performed, the note is not paid when due, or the benefits are not received, the shares escrowed or restricted and the distributions credited may be canceled in whole or part.
+        </section>
+    </text>
+</law>

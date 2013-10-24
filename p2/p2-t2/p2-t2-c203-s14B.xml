@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203" order_by="203" level="3">Trusts</unit>
+    </structure>
+    <section_number>14B</section_number>
+    <catch_line>Securities Held By Fiduciaries; Powers Of Fiduciaries; Records And Certification</catch_line>
+    <order_by>14B</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless expressly limited by the governing instrument, a fiduciary, as defined in paragraph (b), shall have the powers specified in paragraph (c) with respect to securities held by the fiduciary in a fiduciary capacity. This power shall be in addition to all other powers which such fiduciary shall have pursuant to applicable law or the governing instrument.
+        </section>
+        <section prefix="b">
+    	     For purposes of this section, a fiduciary shall include an executor, administrator of an estate or administrator with the will annexed, trustee, guardian, conservator, or custodian pursuant to chapter two hundred and one A; provided, however, that said fiduciary may be permanent or temporary; and provided, further, that court appointment of said fiduciary is not required.
+        </section>
+        <section prefix="c">
+    	     A fiduciary, acting directly or through an agent or custodian, shall, with respect to securities represented by certificates or uncertificated securities as described in clause (4), have the following powers:—
+        </section>
+        <section prefix="1">
+    	     to register, hold or deposit securities in a manner such that, without certification as to ownership attached, certificates representing securities of the same class of the same issuer are held in bulk, including, to the extent feasible, the merging of certificates of large denomination;
+        </section>
+        <section prefix="2">
+    	     to register, hold or deposit securities in the name of a partnership or corporate nominee of the fiduciary or of the agent or custodian of the fiduciary, including, but not limited to, in the name of a nominee of a depository or clearing corporation described in clause (3);
+        </section>
+        <section prefix="3">
+    	     to register, hold or deposit securities in a securities depository, or in a clearing corporation, as defined in section 8-102 of chapter one hundred and six, in a manner such that ownership of, or other interests in, securities may be transferred by bookkeeping entry on the books of the depository or clearing corporation without physical delivery of certificates representing such securities;
+        </section>
+        <section prefix="4">
+    	     to register, hold or deposit securities in the form of uncertificated securities, as defined in section 8-102 of chapter one hundred and six; and
+        </section>
+        <section prefix="5">
+    	     to register, hold or deposit with any federal reserve bank any securities the principal and interest of which the United States or any department, agency or instrumentality thereof has agreed to pay, or has guaranteed payment, in a manner such that ownership of, or other interests in, securities may be transferred by bookkeeping entry of such federal reserve bank without actual issue or physical delivery of certificates representing such securities.
+        </section>
+        <section prefix="d">
+    	     A fiduciary registering, holding or depositing securities in any manner provided in paragraph (c) shall maintain at all times adequate records showing the ownership of such securities, and shall segregate the securities from such fiduciary’s own assets.
+        </section>
+        <section prefix="e">
+    	     The fiduciary shall on demand by any court or interested party certify in writing as to the securities registered, held or deposited by the fiduciary as of any date. Any court or any interested party may rely on such written certification by the fiduciary as proof of the fiduciary’s ownership of the securities as of the date indicated. The fiduciary, in preparing and making such certification, may rely on a written certification with respect to the securities provided by any agent or custodian holding, directly or indirectly, the securities for the account of the fiduciary and on a written certification of the issuer sent to the fiduciary or the agent or custodian of the fiduciary as the registered owner of uncertificated securities as proof of ownership of such uncertificated securities. The fiduciary shall hold harmless any such interested party for loss resulting from reliance upon such certification issued by the fiduciary. For purposes of this paragraph, an interested party shall mean a co-fiduciary or beneficiary or the attorney, legal representative or guardian ad litem of any co-fiduciary or beneficiary.
+        </section>
+    </text>
+</law>

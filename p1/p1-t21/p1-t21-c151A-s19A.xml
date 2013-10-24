@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>19A</section_number>
+    <catch_line>Application For Or Renewal Of License To Conduct Profession Or Business; Certification Of Compliance With Contribution Laws; Renewal Or Extension Of Certain Contracts; False Certifications</catch_line>
+    <order_by>19A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any employer applying to any agency or instrumentality of the commonwealth for a right or license to conduct a profession, trade or business, or for the renewal of such right or license, shall certify upon such application, under penalties of perjury that said employer has complied with all laws of the commonwealth relating to contributions and payments in lieu of contributions. Such rights or licenses shall not be issued or renewed unless such certification is made.
+        </section>
+        <section prefix="b">
+    	     No contract or other agreement for the purpose of providing goods, services or physical space to any agency or instrumentality of the commonwealth shall be entered into, renewed or extended with any employer unless such employer certifies in writing, under penalties of perjury, that said employer has complied with all laws of the commonwealth relating to contributions and payments in lieu of contributions.
+        </section>
+        <section prefix="c">
+    	     Whoever certifies falsely that all laws of the commonwealth relating to contributions and payments in lieu of contributions have been complied with shall be subject to the penalty provided in section one of chapter two hundred and sixty-eight. For the purposes of this section, an employer may certify that all laws of the commonwealth relating to contributions and payments in lieu of contributions have been complied with if the employer has entered into and is complying with a repayment agreement satisfactory to the commissioner or if there is a pending adjudicatory proceeding or court action contesting the amount due.
+        </section>
+        <section prefix="d">
+    	     All agencies and instrumentalities of the commonwealth shall provide the commissioner with such information necessary to carry out the provisions of this section. Nothing in any general or special law to the contrary shall prohibit the exchange of such information between the commissioner and the agency or instrumentality.
+        </section>
+    </text>
+</law>

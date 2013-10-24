@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Stockholder’S Action; Qualifications Of Plaintiff</catch_line>
+    <order_by>46</order_by>
+    <text>
+        No stockholder shall institute or maintain any suit or proceeding in the right of the corporation against stockholders, directors or officers of the corporation as such, based on liability under this chapter or otherwise with respect to any alleged act or default of such stockholders, directors or officers unless the stockholder owned stock in the corporation at the time of the act or default complained of or his stock devolved upon him thereafter by operation of law from one who was a stockholder at such time.
+    </text>
+</law>

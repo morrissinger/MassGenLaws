@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>8C</section_number>
+    <catch_line>Crew Leaders; Definition; Employees Of Crew Leaders</catch_line>
+    <order_by>8C</order_by>
+    <text>
+        <section prefix="a">
+    	     Crew Leaders who are registered or provide specialized agricultural labor. For the purposes of subsection (h) of section 1, any individual who is a member of a crew furnished by a crew leader to perform service in agricultural labor for any other person shall be treated as an employee of such crew leader if such crew leader holds a valid certificate of registration under The Farm Labor Contractor Registration Act of 1963 or substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and if such individual is not an employee of such other person within the meaning of section two.
+        </section>
+        <section prefix="b">
+    	     For purposes of subsection (b) of section eight A, in the case of any individual who is furnished by a crew leader to perform service in agricultural labor for any other person and who is not treated as an employee of such crew leader under this section, such other person and not the crew leader shall be treated as the employer of such individual; and such other person shall be treated as having paid cash remuneration to such individual in an amount equal to the amount of cash remuneration paid to each individual by the crew leader, either on his own behalf or on behalf of such other person, for the service in agricultural labor performed for such other person.
+        </section>
+        <section prefix="c">
+    	     For purposes of subsection (b) of section 8A the term “crew leader” means an individual who furnishes individuals to perform service in agricultural labor for any other person, pays, either on his own behalf or on behalf of such other person, the individual so furnished by him for the service in agricultural labor performed by them, and has not entered into a written agreement with such other person under which such individual is designated as an employee of such other person.
+        </section>
+    </text>
+</law>

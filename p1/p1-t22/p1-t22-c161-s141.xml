@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>141</section_number>
+    <catch_line>Retention Of Records By State Departments And Commissions</catch_line>
+    <order_by>141</order_by>
+    <text>
+        Every state department and commission shall keep a record of its proceedings in any matter considered by it under any laws affecting street railways in which it shall enter every request, made by any party before it, for a ruling of law and of its action upon such request, and the neglect either to grant or refuse such request shall, subject to section five of chapter twenty-five, be taken in any judicial review of such proceedings as a refusal.
+    </text>
+</law>

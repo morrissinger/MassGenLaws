@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Liability Of Consumer For Unauthorized Transfer</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     A consumer shall be liable for any unauthorized electronic fund transfers or a series of transfers arising from a single loss or theft of the access device only if the access device is an accepted access device, the liability is not in excess of fifty dollars, the issuer of such access device gives adequate notice to the consumer of the potential liability, and the unauthorized electronic fund transfer occurs before the consumer has notified such issuer that an unauthorized electronic fund transfer has occurred or may occur as the result of loss, theft or otherwise. A consumer shall not be liable for the unauthorized use of any access device regardless of the date of issuance, unless (a) the conditions of liability specified in this section are met, and (b) the issuer of such access device has provided a method whereby the user of such access device can be identified as the person authorized to use it, such as by signature, photograph or fingerprint or by electronic or mechanical confirmation. For purpose of this section, notice to a financial institution is given when a consumer takes such steps as are reasonably necessary to provide the financial institution with the pertinent information, whether or not any particular officer, employee, or agent of the financial institution does in fact receive the information. Notice may be given to the financial institution, at the consumer’s option, in person, by telephone, or in writing. Notice in writing is considered given at the time of receipt or, whether or not received, at the expiration of the time ordinarily required for transmission, whichever is earlier. Notice is also considered given when the financial institution becomes aware of circumstances that lead to the reasonable belief that an unauthorized electronic fund transfer involving the consumer’s account has been or may be made.
+        </section>
+        <section prefix="b">
+    	     In any action which involves a consumer’s liability for an unauthorized electronic fund transfer, the burden of proof is upon the financial institution to show that the electronic fund transfer was authorized or if the electronic fund transfer was unauthorized, then the burden of proof is upon the financial institution to establish that the conditions of liability set forth in subsection (a) have been met, and, if the transfer was initiated after the effective date of section eight, that the disclosures required to be made to the consumer under clauses (1) and (2) of said subsection (a) of said section eight were in fact made in accordance with such section.
+        </section>
+        <section prefix="c">
+    	     In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in chapter one hundred and forty D pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer’s account is overdrawn, nothing in this section imposes liability upon a consumer for an unauthorized electronic fund transfer in excess of his liability for such a transfer under other applicable law or under any agreement with the consumer’s financial institution.
+        </section>
+        <section prefix="d">
+    	     Except as provided in this section, a consumer incurs no liabilities from an unauthorized electronic fund transfer.
+        </section>
+    </text>
+</law>

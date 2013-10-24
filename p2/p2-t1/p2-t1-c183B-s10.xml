@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Implied Repeals By Subsequent Legislation</catch_line>
+    <order_by>10</order_by>
+    <text>
+        This chapter being intended as a unified coverage of its subject matter, no part of it shall be construed to be impliedly repealed in whole or in part by subsequent legislation if such construction can reasonably be avoided.
+    </text>
+</law>

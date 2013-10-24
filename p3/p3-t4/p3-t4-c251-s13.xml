@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Award; Modification By Court; Time For Application; Grounds;  Joinder With Application To Vacate</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon application made within thirty days after delivery of a copy of the award to the applicant, the court shall modify or correct the award if:—
+        </section>
+        <section prefix="1">
+    	     there was an evident miscalculation of figures or an evident mistake in the description of any person, thing or property referred to in the award;
+        </section>
+        <section prefix="2">
+    	     the arbitrators have awarded upon a matter not submitted to them and the award may be corrected without affecting the merits of the decision upon the issues submitted; or
+        </section>
+        <section prefix="3">
+    	     the award is imperfect in a matter of form, not affecting the merits of the controversy.
+        </section>
+        <section prefix="b">
+    	     If the application is granted, the court shall modify and correct the award so as to effect its intent and shall confirm the award as so modified and corrected; otherwise, the court shall confirm the award as made.
+        </section>
+        <section prefix="c">
+    	     An application to modify or correct an award may be joined in the alternative with an application to vacate the award.
+        </section>
+    </text>
+</law>

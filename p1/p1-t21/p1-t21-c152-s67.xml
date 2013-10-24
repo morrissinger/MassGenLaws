@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>67</section_number>
+    <catch_line>Application To Insureds And Employers Having Right Of Election, Of Statutes Relating To Defenses To Actions</catch_line>
+    <order_by>67</order_by>
+    <text>
+        Paragraph 4 of said section sixty-six shall not apply to actions to recover damages for personal injuries sustained by any person, whose employer has a right of election as provided in paragraph 4 of section one.
+    </text>
+</law>

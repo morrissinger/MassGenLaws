@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Persons Presumed Dependent On Employee; Division Of Benefits And Payments For Children Of Former Marriage; Parent Surviving Dependent Parent;  Dependency Determined By Facts; Division Of Benefits</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="a">
+    	     A wife upon a husband with whom she lives at the time of his death, or from whom, at the time of his death, the department shall find the wife was living apart for justifiable cause or because he had deserted her. The findings of the department upon the questions of such justifiable cause and desertion shall be final.
+        </section>
+        <section prefix="b">
+    	     A husband upon a wife with whom he lives at the time of her death.
+        </section>
+        <section prefix="c">
+    	     Children under the age of eighteen years (or over said age, if physically or mentally incapacitated from earning) upon the parent with whom they are living at the time of the death of such parent, there being no surviving dependent parent; provided, that in case of the death of an employee who has at the time of his death living children by a former wife or husband, under the age of eighteen years (or over said age, if physically or mentally incapacitated from earning), said children shall be conclusively presumed to be wholly dependent for support upon such deceased employee, and the death benefit shall be divided between the surviving wife or husband and all the children of the deceased employee in equal shares, the surviving wife or husband taking the same share as a child. The total sum due the surviving wife or husband and her or his own children shall be paid directly to the wife or husband for her or his own use and for the benefit of her or his own children, and the sums due to the children by the former wife or husband of the deceased employee shall be paid to their guardians or legal representatives for the benefit of such children. Children, within the meaning of this paragraph, shall also include any children of the deceased employee conceived but not born at the time of the employee’s injury, and the compensation provided for by this chapter on account of any such children shall be payable from the date of their birth.
+        </section>
+        <section prefix="d">
+    	     Children under the age of eighteen years (or over said age but physically or mentally incapacitated from earning) upon a parent who was at the time of his death legally bound or ordered by law, decree or order of court or other lawful requirement to support such children although living apart from such child or children. Children, within the meaning of this paragraph, shall also include any children of the deceased employee conceived but not born at the time of the employee’s injury, and the compensation provided for by this chapter on account of any such children shall be payable from the date of their birth.
+        </section>
+        <section prefix="e">
+    	     A parent upon an unmarried child under the age of eighteen years; provided, that such child was living with the parent at the time of the injury resulting in death.
+        </section>
+    </text>
+</law>

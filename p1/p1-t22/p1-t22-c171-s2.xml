@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Incorporation; Agreement Of Association</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     that the subscribers thereto associate themselves with the intention of forming a corporation;
+        </section>
+        <section prefix="b">
+    	     the name by which the corporation shall be known. A corporation organized under this chapter shall include in its corporate name the words “credit union”. Other distinguishing words may be used;
+        </section>
+        <section prefix="c">
+    	     the location of the principal office of the corporation, which shall be within the commonwealth;
+        </section>
+        <section prefix="d">
+    	     the purposes for which the corporation is formed and the nature of the business to be transacted; and
+        </section>
+        <section prefix="e">
+    	     the name of each incorporator, his residence and the post office address.
+        </section>
+    </text>
+</law>

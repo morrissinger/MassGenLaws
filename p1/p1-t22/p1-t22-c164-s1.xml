@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     a certificate of a vote establishing a series filed under section 26 of chapter 156B;
+        </section>
+        <section prefix="2">
+    	     articles of amendment filed under section 8B;
+        </section>
+        <section prefix="3">
+    	     restated articles of organization filed under section 8C;
+        </section>
+        <section prefix="4">
+    	     certificates of confirmation of proceedings filed under section 8D;
+        </section>
+        <section prefix="5">
+    	     articles of consolidation or merger filed under section 102A;
+        </section>
+        <section prefix="6">
+    	     articles of dissolution filed under section 100 of chapter 156B;
+        </section>
+        <section prefix="7">
+    	     a certificate as to the revival of a corporation filed under section 108 of chapter 156B.
+        </section>
+    </text>
+</law>

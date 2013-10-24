@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>50</section_number>
+    <catch_line>Proportionate Assessment Of Shareholders</catch_line>
+    <order_by>50</order_by>
+    <text>
+        Such sums as may be decreed to be paid by the stockholders in such suit in equity shall be assessed upon them in proportion to the amounts of stock held by them respectively at the time when the suit in which said judgment was recovered was begun; but no stockholder shall be liable to pay a larger sum than the amount of stock held by him at that time at its par value.
+    </text>
+</law>

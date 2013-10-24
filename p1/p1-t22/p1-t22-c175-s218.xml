@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>218</section_number>
+    <catch_line>Examination Of Business By Commissioner; Confidential Information; Records Retention</catch_line>
+    <order_by>218</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may, when the commissioner deems it reasonably necessary to protect the interests of the public, examine the business and affairs of any licensee or applicant for a license. The commissioner shall have the authority to order any licensee or applicant to produce any records, books, files or other information reasonably necessary to ascertain whether or not the licensee or applicant is acting or has acted in violation of the law or otherwise contrary to the interests of the public. The expenses incurred in conducting any examination shall be paid by the licensee or applicant.
+        </section>
+        <section prefix="b">
+    	     Names, individual identification data and descriptions of the particular catastrophic, life-threatening or chronic illnesses or conditions for all insureds shall be considered private and confidential information and shall not be disclosed by the commissioner, unless required by law.
+        </section>
+        <section prefix="c">
+    	     Records of all transactions of viatical settlement or loan contracts shall be maintained by the viatical settlement or loan provider and shall be available to the commissioner for inspection during reasonable business hours. A viatical settlement or loan provider shall maintain records of each viatical settlement or loan until five years after the death of the insured.
+        </section>
+    </text>
+</law>

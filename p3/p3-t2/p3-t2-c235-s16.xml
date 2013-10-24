@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Execution Not To Issue Until Appellate Review Exhausted</catch_line>
+    <order_by>16</order_by>
+    <text>
+        No execution shall issue upon a judgment until the exhaustion of all possible appellate review thereof, and the receipt by the clerk of the trial court of the appropriate rescript or order.
+    </text>
+</law>

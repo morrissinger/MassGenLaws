@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Signals Indicating Position Of Bridge</catch_line>
+    <order_by>123</order_by>
+    <text>
+        Every drawbridge shall be equipped with conspicuous day and night signals, which shall be displayed at all times in such manner as clearly to indicate to the engineer of an approaching train whether the draw is open or closed.
+    </text>
+</law>

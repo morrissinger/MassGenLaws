@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Prior Adverse Underwriting Decisions; Requests For Information By Insurance Organizations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No insurance institution, insurance representative or insurance-support organization may seek information in connection with an insurance transaction concerning any previous adverse underwriting decision experienced by an individual unless such inquiry also requests the reasons for any previous adverse underwriting decision.
+    </text>
+</law>

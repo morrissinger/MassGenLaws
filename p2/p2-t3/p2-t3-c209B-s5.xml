@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Notice And Opportunity To Be Heard; Proper Parties</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Reasonable notice in conformity with section six and an opportunity to be heard shall be given to the contestants, to any parent whose parental rights have not been previously terminated, to any person acting as parent, and to any other persons designated proper parties by the court pursuant to section four, provided that in the event a court of the commonwealth assumes jurisdiction pursuant to clause (ii) of paragraph (3) of subsection (a) of section two, then the court may waive such notice requirement for such period as may be allowed under applicable court rules.
+        </section>
+        <section prefix="b">
+    	     Any notice shall include the nature of the action, copies of all pleadings filed with the court, and the statement that any person so notified may apply to the court concerning allocation of the costs of those reasonable and necessary expenses to be incurred in connection with the custody proceeding in accordance with applicable sections of this chapter.
+        </section>
+    </text>
+</law>

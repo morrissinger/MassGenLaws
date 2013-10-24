@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="280" order_by="280" level="3">Fines And Forfeitures</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Recovery Of Fines And Forfeitures</catch_line>
+    <order_by>1</order_by>
+    <text>
+        Fines and forfeitures exacted as punishments for offences or violation or neglect of any duty imposed by statute may, unless otherwise provided, be prosecuted for and recovered by indictment or complaint or by an action of tort in the name of the commonwealth in a court having jurisdiction of the offence or action.
+    </text>
+</law>

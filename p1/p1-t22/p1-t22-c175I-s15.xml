@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Violations; Notice; Hearings; Service Of Process</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever the commissioner has reason to believe that an insurance institution, insurance representative or insurance-support organization has been or is engaged in conduct in the commonwealth which violates this chapter, or if the commissioner believes that an insurance-support organization has been or is engaged in conduct outside the commonwealth which has an effect on a person residing in the commonwealth and which violates this chapter, the commissioner shall issue and serve upon such insurance institution, insurance representative or insurance-support organization a statement of charges and notice of hearing to be held at a time and place fixed in the notice, the date of such hearing shall be not less than twenty-one business days after the date of service.
+        </section>
+        <section prefix="b">
+    	     At the time and place fixed for such hearing the insurance institution, insurance representative or insurance-support organization charged shall have an opportunity to answer the charges against it and present evidence on its behalf. Upon good cause shown, the commissioner shall permit any adversely affected person to intervene, appear and be heard at such hearing by counsel or in person.
+        </section>
+        <section prefix="c">
+    	     At any hearing conducted pursuant to this section the commissioner may administer oaths, examine and cross-examine witnesses and receive oral and documentary evidence. The commissioner shall have the power to subpoena witnesses, compel their attendance and require the production of books, papers, records, correspondence and other documents which are relevant to the hearing. A stenographic record of the hearing shall be made upon the request of any party or at the discretion of the commissioner. If no stenographic record is made and if judicial review is sought, the commissioner shall prepare a statement of the evidence for use on the review. Hearings conducted under this section shall be governed by the same rules of evidence and procedure applicable to administrative proceedings conducted under the laws of the commonwealth.
+        </section>
+        <section prefix="d">
+    	     Statements of charges, notices, orders and other processes of the commissioner under this chapter may be served by anyone duly authorized to act on behalf of the commissioner. Service of process may be completed in the manner provided by law for service of process in civil actions or by registered mail. A copy of the statement of charges, notice, order or other process shall be provided to the person or persons whose rights under this chapter have been allegedly violated. A verified return setting forth the manner of service, or return postcard receipt in the case of registered mail, shall be sufficient proof of service.
+        </section>
+    </text>
+</law>

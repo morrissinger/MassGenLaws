@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>62C</section_number>
+    <catch_line>Venue For Prosecution Of Violations Of Sec. 35 A Of Chapter 266</catch_line>
+    <order_by>62C</order_by>
+    <text>
+        <section prefix="1">
+    	     the county in which the residential property for which a mortgage loan is being sought is located;
+        </section>
+        <section prefix="2">
+    	     the county in which any act was performed in furtherance of the violation;
+        </section>
+        <section prefix="3">
+    	     the county in which any person alleged to have violated this section had control or possession of any proceeds of, or other funds received as a result of the violation;
+        </section>
+        <section prefix="4">
+    	     the county in which a closing on the mortgage loan occurred; or
+        </section>
+        <section prefix="5">
+    	     the county in which a document containing a deliberate misstatement, misrepresentation or omission is filed with a registrar of deeds.
+        </section>
+    </text>
+</law>

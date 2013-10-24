@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Informing Lender Of Provisions Of Chapter At Time Loan Of Property Made; Retention Of Records; Notification Of Change In Property Ownership;  Filing Of Notice Of Interest In Property</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="2">
+    	     A museum shall notify a lender or claimant of the museum’s change of address or dissolution.
+        </section>
+        <section prefix="3">
+    	     A museum shall retain all written records regarding property acquired under this chapter for at least 10 years from the date that the museum acquired title to the property or until the dissolution of the museum, whichever occurs first.
+        </section>
+        <section prefix="2">
+    	     A lender or claimant may file with a museum a written notice of interest in the property held by the museum. A notice of interest in the property shall:
+        </section>
+        <section prefix="i">
+    	     contain an adequate description of the property to enable the museum to identify the property;
+        </section>
+        <section prefix="ii">
+    	     be accompanied by documentation sufficient to establish the lender or claimant as the owner of the property; and
+        </section>
+        <section prefix="iii">
+    	     be signed under penalty of perjury by the lender or claimant, or by a person authorized to act on behalf of the lender or claimant.
+        </section>
+    </text>
+</law>

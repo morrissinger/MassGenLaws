@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="212" order_by="212" level="3">The Superior Court</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Exclusive Original Jurisdiction</catch_line>
+    <order_by>3</order_by>
+    <text>
+        The court shall have exclusive original jurisdiction of civil actions for the foreclosure of mortgages, and of real and mixed actions, except those of which the land court or district courts have jurisdiction, of complaints for flowing lands, and of claims against the commonwealth. Except as otherwise provided by law, the court shall have original jurisdiction of civil actions for money damages. The actions may proceed in the court only if there is no reasonable likelihood that recovery by the plaintiff will be less than or equal to $25,000, or an amount ordered from time to time by the supreme judicial court. Where multiple damages are allowed by law, the amount of single damages claimed shall control.
+    </text>
+</law>

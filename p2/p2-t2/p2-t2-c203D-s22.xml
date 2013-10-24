@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Property Not Productive Of Income</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     If a marital deduction is allowed for all or part of a trust whose assets consist substantially of property that does not provide the spouse with sufficient income from or use of the trust assets, and if the amounts that the trustee transfers from principal to income under section 4 and distributes to the spouse from principal pursuant to the terms of the trust are insufficient to provide the spouse with the beneficial enjoyment required to obtain the marital deduction, the spouse may require the trustee to make property productive of income, convert property within a reasonable time, or exercise the power conferred by subsection (a) of said section 4. The trustee may decide which action or combination of actions to take.
+        </section>
+        <section prefix="b">
+    	     In cases not governed by subsection (a), proceeds from the sale or other disposition of an asset are principal without regard to the amount of income the asset produces during any accounting period.
+        </section>
+    </text>
+</law>

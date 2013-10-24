@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Absence; Presumption Of Death</catch_line>
+    <order_by>3</order_by>
+    <text>
+        A divorce may be adjudged for any of the causes allowed by sections one, one B, or two although the defendant has been continuously absent for such time and under such circumstances as would raise a presumption of death.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="208" order_by="208" level="3">Divorce</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Alimony; Enforcement</catch_line>
+    <order_by>35</order_by>
+    <text>
+        The court may enforce judgments, including foreign decrees, for allowance, alimony or allowance in the nature of alimony, in the same manner as it may enforce judgments in equity.
+    </text>
+</law>

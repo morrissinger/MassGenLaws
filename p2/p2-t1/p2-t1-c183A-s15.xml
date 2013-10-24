@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Subdivision Control Law</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The subdivision control law shall not apply to the division of a building into units.
+    </text>
+</law>

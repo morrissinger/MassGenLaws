@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151" order_by="151" level="3">Minimum Fair Wages</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Copy Of Order And Certificate Evidence Of Compliance With Statute And Effectiveness Of Order</catch_line>
+    <order_by>21</order_by>
+    <text>
+        In any prosecution under section nineteen or in any action or suit under section twenty, a copy of a mandatory order covering any occupation, together with a certificate attesting the correctness of the copy and setting forth that on the date of such certificate such order is in force, bearing the signature of the commissioner attested by the state secretary in accordance with section seventy-six of chapter two hundred and thirty-three, shall be competent evidence equally with the original order, and shall be prima facie evidence that the provisions of this chapter relative to the establishment of minimum fair wage rates in such occupation were complied with prior to the making of such order, and that such order has continued in full force and effect up to the date of such certificate.
+    </text>
+</law>

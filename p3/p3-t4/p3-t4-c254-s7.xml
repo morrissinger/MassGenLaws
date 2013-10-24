@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="254" order_by="254" level="3">Liens On Buildings And Land</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Mortgages; Invalidity Of Subsequent Liens</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     No lien under section one shall avail against a mortgage duly registered or recorded unless the work or labor performed is in the erection, alteration, repair or removal of a building, structure, or other improvement to real property which erection, alteration, repair, removal, or improvement was actually begun prior to the recording of the mortgage.
+        </section>
+        <section prefix="b">
+    	     No lien under section two shall avail as against a mortgage duly registered or recorded to the extent of amounts actually advanced or unconditionally committed (i) prior to the filing or recording of the notice of contract, and (ii) after the filing or recording of the notice of contract but within twenty-five days after the last day of the period stated in an accurate duly executed partial waiver and subordination of lien in the form required by section thirty-two, except for the amount of retainage accurately stated in such partial waiver and subordination of lien.
+        </section>
+        <section prefix="c">
+    	     No lien under section four shall avail against a mortgage actually existing and duly registered or recorded to the extent of the amount actually advanced or unconditionally committed prior to the filing or recording in the registry of deeds of the notice required by section four.
+        </section>
+        <section prefix="d">
+    	     No lien under section two or four of this chapter shall avail as against a purchaser, other than the owner or person acting for or on behalf of, or with the consent of such owner who entered into the written contract on which the lien is based, whose deed or other instrument of title was duly registered or recorded prior to the filing or recording of such notices under said section two or four.
+        </section>
+        <section prefix="d">
+    	     No lien under sections 2C or 2D shall avail against a mortgage duly registered or recorded prior to the filing or recording of the notice of contract if and to the extent that such lien relates to professional services performed before such mortgage was registered or recorded. If and to the extent that such lien relates to professional services performed after such mortgage was registered or recorded, such lien shall avail against such mortgage except to the extent of the amount actually advanced or unconditionally committed prior to the filing or recording of the notice of contract.
+        </section>
+        <section prefix="e">
+    	     No lien under sections 2, 2C, 2D or 4 shall avail as against a purchaser, other than the owner or person acting for or on behalf of, or with the consent of such owner who entered into the written contract on which the lien is based, whose deed or other instrument of title was duly registered or recorded prior to the filing or recording of such notices under said sections 2, 2C, 2D or 4.
+        </section>
+    </text>
+</law>

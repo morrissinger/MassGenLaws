@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Acquittal Of Part Of Crime And Conviction Of Residue</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If a person indicted for a felony is acquitted by the verdict of part of the crime charged, and is convicted of the residue, such verdict may be received and recorded by the court, and thereupon the defendant shall be adjudged guilty of the crime, if any, which appears to the court to be substantially charged by the residue of the indictment, and shall be sentenced and punished accordingly.
+    </text>
+</law>

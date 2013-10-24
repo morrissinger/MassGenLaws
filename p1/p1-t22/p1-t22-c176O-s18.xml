@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Responsibility Of Carrier For Behavioral Health Services Compliance</catch_line>
+    <order_by>18</order_by>
+    <text>
+        A carrier for whom a behavioral health manager is administering behavioral health services shall be responsible for the behavioral health manager’s failure to comply with the requirements of this chapter in the same manner as if the carrier failed to comply.
+    </text>
+</law>

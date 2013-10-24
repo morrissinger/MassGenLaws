@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Assessments; Default Of Shareholder</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The directors may assess upon all the shares subscribed, but not paid in, such amounts, not in excess of their par value, as they think proper, and may direct the same to be paid to the treasurer, who shall give written notice thereof to the subscribers. If a subscriber fails to pay his assessment for thirty days after such notice, the directors may transfer the rights under such subscription to any person who subscribes for the same and pays the assessments due, or may order the treasurer, after giving notice of the sale, to sell such shares by public auction to the highest bidder, and, upon the payment by him to the company of the unpaid assessments, of interest to the date of sale and of the charges of the sale, the shares shall be transferred to him. If, within thirty days after the sale, the purchaser does not make said payment to the company, the sale shall be cancelled, and the subscriber shall be liable to the company for the unpaid assessments, the interest thereon, and the charges of sale. If the amount so paid by the purchaser to the company is more than the amount for which the shares were sold, the subscriber shall be liable to the purchaser for the deficiency; if it is less, the purchaser shall be liable to the subscriber for the surplus.
+    </text>
+</law>

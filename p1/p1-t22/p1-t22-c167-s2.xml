@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Examination Of Banks</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="2">
+    	     The commissioner or the person making the examination shall, at the time of the examination, have free access to the vaults, investments, cash, books and papers. In making an examination, the commissioner shall have access to the vaults, books and papers of each of the bank’s affiliates and may make any examination of the affairs of its affiliates that may be necessary to disclose fully the relations between the bank and its affiliates and the effect of this relationship upon the affairs of the bank.
+        </section>
+        <section prefix="2">
+    	     Copies of reports of these examinations shall be furnished to the bank for its use only and shall not be exhibited to any other person, organization or agency without the prior written approval of the commissioner. The commissioner may, in his discretion, furnish to the Chief National Bank Examiner, the Federal Reserve Bank of Boston, the Federal Deposit Insurance Corporation, the Depositors Insurance Fund, the Cooperative Central Bank, the Massachusetts Credit Union Share Insurance Corporation, the National Credit Union Administration, the Office of Thrift Supervision or any successors to these entities, any other bank regulatory or law enforcement agency, or the banking departments of other states or foreign countries, any information, reports and statements relating to the institutions under his supervision that he considers appropriate.
+        </section>
+        <section prefix="2">
+    	     If the assessment in a fiscal year by the division of banks is insufficient to pay for the operations of the division of banks in the amount set out in its annual appropriation and any additional appropriations for that fiscal year, the division of banks shall assess the remaining amount upon all depository and nondepository financial institutions under the supervision of the division. This assessment shall be determined by regulations of the secretary of administration and finance under section 3B of chapter 7, with the assistance of the commissioner, and may contain such classifications and differentiations based upon the regulatory condition of each institution as the commissioner considers necessary. The classifications of individual institutions shall be exempt from section 10 of chapter 66. The assessment shall be paid within 30 days after notice from the commissioner of the amount due.
+        </section>
+        <section prefix="3">
+    	     The expense of the examination of the affairs of an affiliate of a bank, including all monies expended by the commonwealth for personal services and the proportion of the general overhead of the division of banks and loan agencies, including travel, hotel and meal allowances and other costs that are determined by the commissioner to be attributable to the examination or audit, shall be paid by the affiliate examined. For the purposes of this section, “affiliate” shall include holding company affiliates, but shall not include any person or corporation the control of which is held by a bank when acting in a fiduciary capacity.
+        </section>
+    </text>
+</law>

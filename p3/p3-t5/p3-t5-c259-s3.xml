@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="259" order_by="259" level="3">Prevention Of Frauds And Perjuries</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Insolvent Debtor; New Promise; Necessity Of Writing</catch_line>
+    <order_by>3</order_by>
+    <text>
+        No promise for the payment of a debt, made by an insolvent debtor who has obtained his discharge from such debt under proceedings in bankruptcy or insolvency, shall be evidence of a new or continuing contract whereby to deprive the debtor of the benefit of relying upon such discharge in bar of the recovery of a judgment upon such debt, unless such promise is made by or contained in some writing signed by him, or by some person thereunto by him lawfully authorized.
+    </text>
+</law>

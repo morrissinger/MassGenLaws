@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>42A</section_number>
+    <catch_line>Foreign Societies; Deposit</catch_line>
+    <order_by>42A</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign society, if formed under the law of any government or state other than of the United States, shall not be admitted and authorized to transact business in the commonwealth until, in addition to complying with the conditions of sections 41 and 42, it has satisfied the commissioner that it has made a deposit, as provided in this section, with (1) the state treasurer; (2) the proper board or officer of some other state of the United States; or (3) trustees who are citizens or corporations of the United States and approved by the commissioner, appointed under a deed of trust executed in a form approved by the attorney general and the commissioner and who have filed with the commissioner a bond, in a form approved by the attorney general and the commissioner, with a surety company authorized to transact business in the commonwealth as surety, and in such sum as the commissioner may require, conditioned upon the faithful performance of their duties and running to the commissioner, or his successor for the benefit of all the members, certificate holders and creditors within the United States of such society.
+        </section>
+        <section prefix="b">
+    	     Such deposit shall be in an amount not less than the reserves with respect to all its outstanding certificates of membership held by residents of the United States and may be made in the securities and subject to the limitations specified in sections 63 and 66 of chapter 175, or in cash or such other securities as the commissioner may approve. If made with the state treasurer, such deposit shall not be returned to the society until it has ceased to transact business in the commonwealth, nor until the commissioner is satisfied that the society is under no obligation to members, certificate holders or other persons in this commonwealth or in any other state of the United States for whose benefit such deposit was made, nor until he has given his written consent to such return. The commissioner may, in any case, authorize in writing the return to the society of any excess of any such deposit over the amount required by this section if he is satisfied that such return will not be prejudicial to the interests of its members, certificate holders or creditors.
+        </section>
+    </text>
+</law>

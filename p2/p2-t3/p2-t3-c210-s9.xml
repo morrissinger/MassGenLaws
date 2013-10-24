@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="210" order_by="210" level="3">Adoption Of Children And Change Of Names</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Succession To Property; Right Of Child Adopted In Foreign State</catch_line>
+    <order_by>9</order_by>
+    <text>
+        A person adopted in another state or country, in accordance with the laws thereof, shall upon proof of such fact be entitled in this commonwealth to the same rights of succession to property by grant, trust settlement, entail, devise, bequest, or by intestacy as he would have had if he had been adopted in the commonwealth.
+    </text>
+</law>

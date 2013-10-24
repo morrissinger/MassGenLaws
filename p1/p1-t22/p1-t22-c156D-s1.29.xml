@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.29</section_number>
+    <catch_line>Penalty For Signing False Document</catch_line>
+    <order_by>1.29</order_by>
+    <text>
+        <section prefix="a">
+    	     A person commits an offense if he signs a document that he knows is false in any material respect with intent that the document be delivered to the secretary of state for filing.
+        </section>
+        <section prefix="b">
+    	     The secretary of state shall refer to the attorney general for action evidence of offenses under this section.
+        </section>
+        <section prefix="c">
+    	     An offense under this section is a civil misdemeanor punishable by a fine not to exceed $100,000.
+        </section>
+    </text>
+</law>

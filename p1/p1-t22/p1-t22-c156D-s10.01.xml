@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>10.01</section_number>
+    <catch_line>Authority To Amend</catch_line>
+    <order_by>10.01</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may amend its articles of organization at any time to add or change a provision that is required or permitted in the articles of organization as of the effective date of the amendment or to delete a provision not required in the articles of organization.
+        </section>
+        <section prefix="b">
+    	     A shareholder of the corporation shall not have a vested property right resulting from any provision in the articles of organization, including provisions relating to management, control, capital structure, dividend entitlement, or purpose or duration of the corporation.
+        </section>
+    </text>
+</law>

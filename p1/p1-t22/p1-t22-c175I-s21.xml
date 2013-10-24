@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Disclosure Of Information; Immunity</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="1">
+    	     for any person who discloses false information with malice or willful intent to injure any person; or
+        </section>
+        <section prefix="2">
+    	     for any person who misidentifies an individual as the subject of information and who discloses such misidentified information to others.
+        </section>
+    </text>
+</law>

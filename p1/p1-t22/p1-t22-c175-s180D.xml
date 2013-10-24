@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180D</section_number>
+    <catch_line>Domestic Companies; Duty Of Receivers To Give Notice Of Appointment</catch_line>
+    <order_by>180D</order_by>
+    <text>
+        The receiver of any company of which this commonwealth is the domiciliary state, appointed under section six, section one hundred and eighty B or section one hundred and eighty C, shall, within twenty days after his appointment, give notice thereof to all policyholders of the company by written notice, in a form prescribed by the court, sent by mail, postage prepaid, to the last address of the insured appearing on the records of the company.
+    </text>
+</law>

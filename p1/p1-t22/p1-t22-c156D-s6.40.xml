@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.40</section_number>
+    <catch_line>Distributions To Shareholders</catch_line>
+    <order_by>6.40</order_by>
+    <text>
+        <section prefix="a">
+    	     A board of directors may authorize and the corporation may make distributions to its shareholders subject to restriction by the articles of organization and the limitations in subsections (c) and (h).
+        </section>
+        <section prefix="b">
+    	     If the board of directors does not fix the record date for determining shareholders entitled to a distribution, other than one involving a purchase, redemption or other acquisition of the corporation’s shares, it is the date the board of directors authorizes the distribution.
+        </section>
+        <section prefix="c">
+    	     No distribution may be made by a corporation which is a going concern if, after giving it effect,
+        </section>
+        <section prefix="1">
+    	     the corporation would not be able to pay its existing and reasonably foreseeable debts, liabilities and obligations, whether or not liquidated, matured, asserted or contingent, as they become due in the usual course of business; or
+        </section>
+        <section prefix="2">
+    	     the corporation’s total assets would be less than the sum of its total liabilities plus, unless the articles of organization permit otherwise, the amount that would be needed, if the corporation were to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of shareholders whose preferential rights are superior to those receiving the distribution.
+        </section>
+        <section prefix="d">
+    	     The board of directors may base a determination that a distribution is not prohibited under subsection (c) either on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable in the circumstances.
+        </section>
+        <section prefix="e">
+    	     Except as provided in subsection (g), the effect of a distribution made in accordance with subsection (c) is measured:
+        </section>
+        <section prefix="1">
+    	     in the case of distribution by purchase, redemption, or other acquisition of the corporation’s shares, as of the earlier of (i) the date money or other property is transferred or debt incurred by the corporation, or (ii) the date the shareholder ceases to be a shareholder with respect to the acquired shares;
+        </section>
+        <section prefix="2">
+    	     in the case of any other distribution of indebtedness, as of the date the indebtedness is distributed; and
+        </section>
+        <section prefix="3">
+    	     in all other cases, as of (i) the date the distribution is authorized if the payment occurs within 120 days after the date of authorization or (ii) the date the payment is made if it occurs more than 120 days after the date of authorization.
+        </section>
+        <section prefix="f">
+    	     A corporation’s indebtedness to a shareholder incurred by reason of a distribution made in accordance with subsection (c) is at parity with the corporation’s indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.
+        </section>
+        <section prefix="g">
+    	     Indebtedness of a corporation, including indebtedness issued as a distribution, is not considered a liability for purposes of determinations under subsection (c) if its terms provide that payment of principal and interest are made only if and to the extent that payment of a distribution to shareholders could then be made under this section. If the indebtedness is issued as a distribution, each payment of principal or interest is treated as a distribution, the effect of which is measured on the date the payment is actually made.
+        </section>
+        <section prefix="h">
+    	     No distribution in liquidation may be made by a corporation unless adequate provision has been made, after giving effect to the provisions of PART 14, to satisfy:
+        </section>
+        <section prefix="1">
+    	     the corporation’s existing and reasonably foreseeable debts, liabilities and obligations, whether or not liquidated, matured, asserted or contingent, as they thereafter arise; and
+        </section>
+        <section prefix="2">
+    	     the preferential liquidation rights of shares whose preferential rights are superior to such rights of the shares which would receive the distribution.
+        </section>
+    </text>
+</law>

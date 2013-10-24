@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Erroneous Venue; Procedure</catch_line>
+    <order_by>15</order_by>
+    <text>
+        If an error in venue is discovered at any stage of the proceedings of a civil action in the supreme judicial or superior court, the court may, upon motion of either party, order the action, with all papers relating thereto, to be removed to the proper county upon terms to the defendant; and it shall thereupon be entered and prosecuted in the same court for that county as if it had been originally commenced therein, and all prior proceedings otherwise regularly taken shall be valid.
+    </text>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203C" order_by="203C" level="3">Prudent Investment</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Investment And Management Decisions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     A trustee shall invest and manage trust assets as a prudent investor would, considering the purposes, terms, and other circumstances of the trust, including those set forth in subsection (c). In satisfying this standard, the trustee shall exercise reasonable care, skill, and caution.
+        </section>
+        <section prefix="b">
+    	     A trustee’s investment and management decisions respecting individual assets shall be considered in the context of the trust portfolio as a part of an overall investment strategy reasonably suited to the trust.
+        </section>
+        <section prefix="c">
+    	     Among circumstances that a trustee shall consider in investing and managing trust assets are such of the following as are relevant to the trust or its beneficiaries:
+        </section>
+        <section prefix="1">
+    	     general economic conditions;
+        </section>
+        <section prefix="2">
+    	     the possible effect of inflation or deflation;
+        </section>
+        <section prefix="3">
+    	     the expected tax consequences of investment decisions or strategies;
+        </section>
+        <section prefix="4">
+    	     the role that each investment or course of action plays within the overall trust portfolio;
+        </section>
+        <section prefix="5">
+    	     the expected total return from income and the appreciation of capital;
+        </section>
+        <section prefix="6">
+    	     other resources of the beneficiaries;
+        </section>
+        <section prefix="7">
+    	     needs for liquidity, regularity of income, and preservation or appreciation of capital; and
+        </section>
+        <section prefix="8">
+    	     an asset’s special relationship or special value, if any, to the purposes of the trust or to one of the beneficiaries.
+        </section>
+        <section prefix="d">
+    	     A trustee shall make a reasonable effort to verify facts relevant to the investment and management of trust assets.
+        </section>
+        <section prefix="e">
+    	     A trustee may invest in any kind of property or type of investment consistent with the standards of this chapter.
+        </section>
+        <section prefix="f">
+    	     A trustee who has special skills or expertise, or is named trustee in reliance upon the trustee’s representation that the trustee has such special skills or expertise, shall have a duty to use such special skills or expertise.
+        </section>
+    </text>
+</law>

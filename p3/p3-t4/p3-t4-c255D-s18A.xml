@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>18A</section_number>
+    <catch_line>Modification Of Agreement Or Extension Of Credit Prohibited;  Exceptions; Notice To Buyer; Violations</catch_line>
+    <order_by>18A</order_by>
+    <text>
+        <section prefix="1">
+    	     No retail installment sale agreement may be modified in any way by the parties or by a holder, nor shall the amount financed or unpaid balance as defined in chapter one hundred and forty D, or any other amount owing under any retail installment sale agreement ever become due and owing under any extension of credit or obligation other than the original retail installment sale agreement, except as provided in sections sixteen, seventeen and eighteen; provided, however, that this section shall not apply to any transactions between the buyer and any person not a party to nor a holder of the retail installment sale agreement.
+        </section>
+        <section prefix="2">
+    	     If any retail installment sale agreement or other extension of credit is in violation of this section any person entitled to enforce such agreement or extension is liable to the buyer or buyers in an amount equal to the sum of twice the amount of the finance charge in connection with said agreement or extension, except that the liability shall not be less than five hundred dollars. For purposes of this paragraph, the finance charge shall be the greater of: (a) the total finance charge provided for in said agreement or extension; (b) the total finance charges billed, collected and sought to be collected under said agreement or extension; or (c) the initial principal amount of credit extended, not the amount of the credit line, under said agreement or extension times the annual percentage rate in effect during the first period on which interest accrues under said agreement or extension.
+        </section>
+        <section prefix="b">
+    	     The provisions of subsection (1) and (2) shall not apply to an open-end or variable rate closed-end extension of credit, or to an open-end or variable rate closed-end obligation if the buyer has been furnished a statement in the following form, as a separate document, accurately completed by the creditor, and has freely signed said statement.
+        </section>
+        <section prefix="4">
+    	     The commissioner may prescribe the method of computation for all disclosure statements required by subsection (3).
+        </section>
+    </text>
+</law>

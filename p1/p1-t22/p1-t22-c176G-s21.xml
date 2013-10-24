@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Participating Provider; Contracts With Health Maintenance Organizations; Hold Harmless Clause; Limitation On Collection Actions</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of this section, “participating provider” shall mean any physician, hospital or other person who, under an express or implied contract with the health maintenance organization or with its contractor or subcontractor, has agreed to provide health care services to members with an expectation of receiving payment, other than co-payment, co-insurance or deductible, directly or indirectly from the health maintenance organization, its contractor or subcontractor.
+        </section>
+        <section prefix="b">
+    	     Every contract between a health maintenance organization and a participating provider shall be in writing and shall contain the following hold harmless provision:
+        </section>
+        <section prefix="c">
+    	     In the event that the participating provider contract has not been reduced to writing as required by subsection (b) or that the contract fails to contain the required hold harmless provision, such provision shall be deemed incorporated into such contract by operation of law.
+        </section>
+        <section prefix="d">
+    	     No participating provider, agent, trustee or assignee thereof, may maintain any action at law against a member to collect sums owed by the health maintenance organization.
+        </section>
+    </text>
+</law>

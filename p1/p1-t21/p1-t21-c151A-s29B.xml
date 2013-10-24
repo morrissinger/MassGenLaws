@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>29B</section_number>
+    <catch_line>Child Support Obligations; Disclosure; Deductions</catch_line>
+    <order_by>29B</order_by>
+    <text>
+        <section prefix="a">
+    	     An individual filing a new claim for unemployment compensation shall, at the time of filing such claim, disclose whether or not the individual owes child support obligations as defined under subsection (f). If any such individual discloses that he or she owes child support obligations, and is determined to be eligible for unemployment compensation, the commissioner shall notify the state or local child support enforcement agency enforcing such obligation that the individual has been determined to be eligible for unemployment compensation.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall deduct and withhold from any unemployment compensation otherwise payable to an individual that owes child support obligations as defined under subsection (f):
+        </section>
+        <section prefix="A">
+    	     the amount specified by the individual to the commissioner to be deducted and withheld under this subsection, if neither (B) nor (C) is applicable, or
+        </section>
+        <section prefix="B">
+    	     the amount (if any) determined pursuant to an agreement submitted to the commissioner under Section 454(20)(B)(i) of the Social Security Act by the state or local child support enforcement agency, unless (C) is applicable, or
+        </section>
+        <section prefix="C">
+    	     any amount otherwise required to be so deducted and withheld from such unemployment compensation pursuant to legal process as that term is defined in
+        </section>
+        <section prefix="c">
+    	     Any amount deducted and withheld under subsection (b) shall be paid by the commissioner to the appropriate state or local child support enforcement agency.
+        </section>
+        <section prefix="d">
+    	     Any amount deducted and withheld under subsection (b) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by such individual to the state or local child support enforcement agency in satisfaction of the individual’s child support obligations.
+        </section>
+        <section prefix="e">
+    	     For purposes of subsections (a) to (d), inclusive, the term “unemployment compensation” means any compensation payable under this act including amounts payable by the commissioner pursuant to an agreement under any federal law providing for compensation, assistance, or allowances with respect to unemployment.
+        </section>
+        <section prefix="f">
+    	     The term “child support obligations” is defined for purposes of these provisions as including only obligations which are being enforced pursuant to a plan described in
+        </section>
+        <section prefix="g">
+    	     The term “state or local child support enforcement agency” as used in these provisions means any agency of this state or a political subdivision thereof operating pursuant to a plan described in subsection (f).
+        </section>
+        <section prefix="h">
+    	     The commissioner shall disclose, upon request, to officers or employees of any state or local child support enforcement agency, any wage information with respect to an identified individual which is contained in the agency’s records. Such information shall not be disclosed by the commissioner unless the requesting agency agrees that the information is to be used only for the purpose of establishing and collecting child support obligations from, and locating, individuals owing such obligations.
+        </section>
+        <section prefix="i">
+    	     This section applies only if appropriate arrangements have been made for reimbursement by the state or local child support enforcement agency for the administrative costs incurred by the commissioner under this section which are attributable to child support obligations being enforced by the state or local child support enforcement agency.
+        </section>
+    </text>
+</law>

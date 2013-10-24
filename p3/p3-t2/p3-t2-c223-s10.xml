@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Actions By City Of Boston; Transfer From County Of Suffolk</catch_line>
+    <order_by>10</order_by>
+    <text>
+        The defendant in an action brought in Suffolk county by the city of Boston or by its collector may, if the action is brought in the supreme judicial or superior court, within thirty days after the day for appearance, file a motion in writing for the removal of the action to Essex, Middlesex or Norfolk county; and the court shall thereupon order it to be removed to the same court in such one of said counties as the attorney of the city of Boston elects.
+    </text>
+</law>

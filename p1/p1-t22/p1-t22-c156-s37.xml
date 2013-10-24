@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Directors’ Liability</catch_line>
+    <order_by>37</order_by>
+    <text>
+        The directors of every corporation shall be jointly and severally liable for the debts and contracts of the corporation in the following cases: 
+First. For declaring or assenting to a dividend if the corporation is, or thereby is rendered, bankrupt or insolvent, to the extent of such dividend. 
+Second. For debts contracted between the time of making or assenting to a loan to a stockholder or director and the time of its repayment, to the extent of such loan. 
+Directors who vote against declaring said dividend or who vote against making said loan shall not be liable as aforesaid.
+    </text>
+</law>

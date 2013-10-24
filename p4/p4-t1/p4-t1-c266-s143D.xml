@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="266" order_by="266" level="3">Crimes Against Property</unit>
+    </structure>
+    <section_number>143D</section_number>
+    <catch_line>Application Of Secs. 143 To 143 C; Exceptions</catch_line>
+    <order_by>143D</order_by>
+    <text>
+        <section prefix="a">
+    	     Nothing in sections 143A to 143C, inclusive, shall be construed to apply to any person lawfully entitled to use or who causes to be used such sound or images for profit through public performance, or who transfers or causes to be transferred any such sound or images as part of a radio or television broadcast or for archival preservation.
+        </section>
+        <section prefix="b">
+    	     Nothing in section 143A to 143C, inclusive, shall be construed to apply to local, state or federal law enforcement officers employing an audiovisual recording function during the lawful exercise of law enforcement duties.
+        </section>
+    </text>
+</law>

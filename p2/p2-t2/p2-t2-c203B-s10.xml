@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Administration Of Trust For Incapacitated Beneficiary; Determination Of Incapacity</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The custodial trustee shall administer the custodial trust as for an incapacitated beneficiary if (i) the custodial trust was created under section five, (ii) the transferor has so directed in the instrument creating the custodial trust, or (iii) the custodial trustee has determined that the beneficiary is incapacitated.
+        </section>
+        <section prefix="b">
+    	     A custodial trustee may determine that the beneficiary is incapacitated in reliance upon (i) previous direction or authority given by the beneficiary while not incapacitated, including direction or authority pursuant to a durable power of attorney, (ii) the certificate of the beneficiary’s physician, or (iii) other persuasive evidence.
+        </section>
+        <section prefix="c">
+    	     If a custodial trustee for an incapacitated beneficiary reasonably concludes that the beneficiary’s incapacity has ceased, or that circumstances concerning the beneficiary’s ability to manage property and business affairs have changed since the creation of a custodial trust directing administration as for an incapacitated beneficiary, the custodial trustee may administer the trust as for a beneficiary who is not incapacitated.
+        </section>
+        <section prefix="d">
+    	     On petition of the beneficiary, the custodial trustee, or other person interested in the custodial trust property or the welfare of the beneficiary, the court shall determine whether the beneficiary is incapacitated.
+        </section>
+        <section prefix="e">
+    	     Absent determination of incapacity of the beneficiary under subsection (b) or (d), a custodial trustee who has reason to believe that the beneficiary is incapacitated shall administer the custodial trust in accordance with the provisions of this chapter applicable to an incapacitated beneficiary.
+        </section>
+        <section prefix="f">
+    	     Incapacity of a beneficiary shall not terminate (i) the custodial trust, (ii) any designation of a successor custodial trustee, (iii) rights or powers of the custodial trustee, or (iv) any immunities of third persons acting or instructions of the custodial trustee.
+        </section>
+    </text>
+</law>

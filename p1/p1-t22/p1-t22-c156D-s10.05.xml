@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>10.05</section_number>
+    <catch_line>Amendment By Board Of Directors</catch_line>
+    <order_by>10.05</order_by>
+    <text>
+        <section prefix="1">
+    	     to extend the duration of the corporation if it was incorporated at a time when limited duration was required by law;
+        </section>
+        <section prefix="2">
+    	     if the corporation has only one class of shares outstanding:
+        </section>
+        <section prefix="a">
+    	     to change each issued and unissued authorized share of the class into a greater number of whole shares of that class; or
+        </section>
+        <section prefix="b">
+    	     to increase the number of authorized shares of the class to the extent necessary to permit the issuance of shares as a share dividend;
+        </section>
+        <section prefix="3">
+    	     to change the corporate name by substituting the word “corporation,” “incorporated,” “company,” “limited,” or the abbreviation “corp.,” “inc.,” “co.,” or “ltd.,” for a similar word or abbreviation in the name, or by adding, deleting, or changing a geographical attribution for the name;
+        </section>
+        <section prefix="4">
+    	     to reflect a reduction in authorized shares, as a result of the operation of subsection (b) of section 6.31, when the corporation has acquired its own shares and the articles of organization prohibit the reissue of the acquired shares;
+        </section>
+        <section prefix="5">
+    	     to delete a class or series of shares from the articles of organization, as a result of the operation of subsection (b) of section 6.31 or of the conversion of the shares, when there are no remaining shares of the class or series because the corporation has acquired all shares of the class or series, or all shares of the class or series have been converted into other securities, and the articles of organization prohibit the reissue of the acquired or converted shares; or
+        </section>
+        <section prefix="6">
+    	     to make any change expressly permitted by section 6.02 to be made without shareholder approval.
+        </section>
+    </text>
+</law>

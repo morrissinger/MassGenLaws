@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Report; Form; Contents</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Every person holding property declared by this chapter to be presumed abandoned shall report to the treasurer as provided in this section.
+        </section>
+        <section prefix="b">
+    	     The report shall be on a form prescribed by the treasurer and shall include:—
+        </section>
+        <section prefix="1">
+    	     Except with respect to traveler’s checks, registered checks and money orders, the name, if known, and last known address, if any, of each person appearing from the records of the holder to be the owner of any property of the value of one hundred dollars or more presumed abandoned under this chapter.
+        </section>
+        <section prefix="2">
+    	     In the case of presumed abandoned funds of life insurance companies, the full name of the insured or annuitant, and his last known address, according to the records of the life insurance company.
+        </section>
+        <section prefix="3">
+    	     The nature and identifying number, if any, or description of any intangible property and the amount appearing from the records to be due, except that items of value under one hundred dollars each shall be reported in aggregate.
+        </section>
+        <section prefix="4">
+    	     Except for any property reported in the aggregate, the date when the property became payable, demandable, or returnable, and the date of the last transaction with the owner with respect to the property.
+        </section>
+        <section prefix="5">
+    	     Other information which the treasurer prescribes by rule as necessary for the administration of this section.
+        </section>
+        <section prefix="c">
+    	     If the holder is a successor to other persons who previously held the property for the owner, or if the holder has changed his name while holding the property, he shall file with his report all prior known names and addresses of each holder of the property.
+        </section>
+        <section prefix="d">
+    	     The report shall be filed no later than November first of each year as of June thirtieth or the end of the fiscal year next preceding but the report of life insurance companies, and persons holding unclaimed proceeds from the demutualization or related reorganization of a life insurance company shall be filed before May first of each year as of December thirty-first next preceding.
+        </section>
+        <section prefix="e">
+    	     The report shall be made under penalty of perjury, and if made by an individual, by the individual; if made by a partnership, by a partner; if made by an unincorporated association or private corporation, by an officer; and, if made by a public corporation, by its chief fiscal officer.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>75</section_number>
+    <catch_line>Mortgage Or Disposal Of Assets; Vote; Notice Of Meeting</catch_line>
+    <order_by>75</order_by>
+    <text>
+        <section prefix="a">
+    	     Every corporation may, subject to the provisions of section eight, authorize, at a meeting duly called for the purpose, by vote of two-thirds of the shares of each class of stock outstanding and entitled to vote thereon, the sale, lease or exchange of all or substantially all of its property and assets, including its goodwill, upon such terms and conditions as it deems expedient, except that the articles of organization of any corporation may provide that a vote of less than two-thirds but not less than a majority of the outstanding shares of each class of stock outstanding and entitled to vote thereon, shall be necessary for such authorization. Notice of the time, place and purposes of such meeting shall be given to each stockholder of record, whether or not entitled to vote thereat, in the manner provided in section thirty-six but at least twenty days prior to the date of such meeting.
+        </section>
+        <section prefix="b">
+    	     The authorization or consent of stockholders to the mortgage or pledge of, or granting of security interest in, property or assets of a corporation shall not be necessary except to the extent that the corporation’s articles of organization otherwise provide.
+        </section>
+    </text>
+</law>

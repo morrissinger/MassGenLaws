@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174C" order_by="174C" level="3">Vehicle Protection Product Warranties Act</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Minimum Net Worth To Be Maintained By Warrantor</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A vehicle protection product shall not be sold, or offered for sale in the commonwealth unless the warrantor either covers the warrantor’s warranty liability with a warranty reimbursement insurance policy or maintains a minimum net worth in order to ensure adequate performance under the warranty under the conditions set forth in this section. No other financial security requirements or financial standards for warrantors shall be required.
+        </section>
+        <section prefix="b">
+    	     A warranty reimbursement insurance policy shall state that:—
+        </section>
+        <section prefix="1">
+    	     the insurer issuing the warranty reimbursement insurance policy shall, in the event of warrantor’s failure to do so, reimburse or pay on behalf of the warrantor all incidental costs that the warrantor is legally obligated to pay or shall provide the service that the warrantor is legally obligated to perform under the vehicle protection product warranty; and
+        </section>
+        <section prefix="2">
+    	     if the warrantor fails to perform under the terms of the warranty within 60 days of a request for payment or services, the warranty holder may seek payment or services directly from the insurer through the warrantor’s warranty reimbursement insurance policy and the insurer shall make payment or provide services directly to the warranty holder on behalf of the warrantor.
+        </section>
+        <section prefix="c">
+    	     If the vehicle protection product warrantor elects to demonstrate financial responsibility by maintaining a minimum net worth, the warrantor, or its parent company shall maintain a net worth or stockholders’ equity of not less than $30,000,000.
+        </section>
+    </text>
+</law>

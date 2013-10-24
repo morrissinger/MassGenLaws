@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.01</section_number>
+    <catch_line>Short Title</catch_line>
+    <order_by>1.01</order_by>
+    <text>
+        Section 1.01 SHORT TITLE 
+This chapter shall be known and may be cited as the “Massachusetts Business Corporation Act”.
+    </text>
+</law>

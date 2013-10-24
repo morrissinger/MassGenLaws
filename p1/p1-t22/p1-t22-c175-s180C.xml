@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180C</section_number>
+    <catch_line>Domestic Companies; Liquidation Proceedings; Approval Of Proposal To Distribute; Notice Of Application</catch_line>
+    <order_by>180C</order_by>
+    <text>
+        <section prefix="a">
+    	     reserving amounts for the payment of the expenses of administration and claims falling within the priorities established in section one hundred and eighty F;
+        </section>
+        <section prefix="b">
+    	     disbursement of the assets marshalled to date and subsequent disbursements of assets as they become available;
+        </section>
+        <section prefix="c">
+    	     equitable allocation of disbursements to each of the Funds entitled thereto; and
+        </section>
+        <section prefix="d">
+    	     the securing by the receiver from each of the Funds entitled to disbursements an agreement to return to the receiver such assets previously disbursed as may be required to pay claims of secured creditors and claims falling within the priorities established in section one hundred and eighty F. No bond shall be required of any such Fund.
+        </section>
+        <section prefix="1">
+    	     the obligation of the insolvent insurer to the other insurer would not, as of the date of the filing of the petition for receivership, entitle the other insurer to share as a claimant in the assets of the insolvent insurer;
+        </section>
+        <section prefix="2">
+    	     the obligation of the insolvent insurer to the other insurer was purchased by or transferred to the other insurer with a view to its being used as a set off;
+        </section>
+        <section prefix="3">
+    	     the obligation of the insolvent insurer is owed to an affiliate of such insurer, or any other entity or association other than the insurer;
+        </section>
+        <section prefix="4">
+    	     the obligation of the insurer is owed to an affiliate of the insolvent insurer or any other entity or association other than the insolvent insurer;
+        </section>
+        <section prefix="5">
+    	     the obligation of the insurer is to pay an assessment levied against the members or subscribers of the insolvent insurer or is to pay a balance upon a subscription to the capital stock of the insolvent insurer or is any other way in the nature of a capital contribution; or
+        </section>
+        <section prefix="6">
+    	     the obligations between the insurer and the insolvent insurer arise from business where either the insurer or the insolvent insurer has assumed risks and obligations from the other party and then has ceded back to the party substantially the same risks and obligations.
+        </section>
+    </text>
+</law>

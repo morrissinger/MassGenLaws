@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="182" order_by="182" level="3">Voluntary Associations And Certain Trusts</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Trusts; Professional Relationships</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        If a trust is formed under this chapter for the purpose of rendering one or more professional services as defined in chapter one hundred and fifty-six A, the relationship between the trust or a trustee or employee thereof rendering professional service and the person receiving such service shall be the same as if such trust or trustee or employee rendered such service to said person as an individual practitioner, including any liability arising out of the rendering of such service.
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.02</section_number>
+    <catch_line>Determination Of Terms Of Class Or Series</catch_line>
+    <order_by>6.02</order_by>
+    <text>
+        <section prefix="a">
+    	     The number of authorized shares of any class or series, the distinguishing designation thereof and the preferences, limitations and relative rights applicable thereto shall be set forth in the articles of organization or any amendment thereto approved by the shareholders or, if the articles of organization so permit, by the board of directors, provided that the board of directors may not approve an aggregate number of authorized shares of all classes and series which exceeds the total number of authorized shares specified in the articles of organization approved by the shareholders. Any such action with respect to any class or series may be amended or rescinded by the shareholders or, if initially taken by it, by the board of directors at any time prior to, but, except as provided in the next following subsection with respect to unissued shares, not after, the initial issuance of shares of such class or series.
+        </section>
+        <section prefix="b">
+    	     At any time after the initial issuance of shares of any class or series the shareholders or, if the articles of organization so permit, the board of directors may reclassify any unissued shares of the class or series into 1 or more existing or new classes or series.
+        </section>
+        <section prefix="c">
+    	     Before issuing any shares of a class or series, the number, preferences, limitations or relative rights of which have been determined by the board of directors, the corporation must deliver to the secretary of state for filing articles of amendment, which are effective without shareholder action, that set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the text of the amendment determining the terms of the class or series of shares;
+        </section>
+        <section prefix="3">
+    	     the date it was adopted; and
+        </section>
+        <section prefix="4">
+    	     a statement that the amendment was duly adopted by the board of directors.
+        </section>
+        <section prefix="d">
+    	     If the shareholders or board of directors shall, before the issuance of any shares of any class or series of which the number, preferences, limitations or relative rights are contained in articles of amendment filed with the secretary of state pursuant to subsection (c), amend or rescind any terms applicable to such class or series, or if the shareholders or board of directors shall reclassify any unissued shares of any class or series pursuant to subsection (b), the corporation shall deliver to the secretary of state for filing articles of amendment, which in the case of any amendment effected by the board of directors are effective without shareholder action, reflecting such amendment, recision or reclassification and setting forth the information required by clauses (1) and (4) of subsection (c) and, in the case of an amendment, the text of the amendment or, in the case of a reclassification, the number and existing class or series of the shares to be reclassified and the text of the amendment determining the terms of any new class or classes or series into which the shares are to be reclassified.
+        </section>
+    </text>
+</law>

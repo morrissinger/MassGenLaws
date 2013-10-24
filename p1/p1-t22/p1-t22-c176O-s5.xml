@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Contracts; Liability</catch_line>
+    <order_by>5</order_by>
+    <text>
+        No contract between a carrier, including a dental or vision carrier, and a health, dental or vision care provider for the provision of services to insureds may require the provider to indemnify the carrier for any expenses and liabilities, including, without limitation, judgments, settlements, attorneys’ fees, court costs and any associated charges, incurred in connection with any claim or action brought against the carrier based on the carrier’s management decisions, utilization review provisions or other policies, guidelines or actions.
+    </text>
+</law>

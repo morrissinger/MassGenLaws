@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="237" order_by="237" level="3">Writs Of Entry</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Estates Recoverable</catch_line>
+    <order_by>1</order_by>
+    <text>
+        All estates of freehold in fee simple, fee tail or for life may be recovered in a civil action.
+    </text>
+</law>

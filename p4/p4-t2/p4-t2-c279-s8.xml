@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="279" order_by="279" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Commitments Upon Two Or More Sentences</catch_line>
+    <order_by>8</order_by>
+    <text>
+        A convict upon whom two or more sentences to imprisonment are imposed may be fully committed upon all such sentences at the same time, and shall serve them in the order named in the mittimuses upon which he is committed; but when fine and imprisonment are named in one of the sentences the prisoner shall always be committed upon the term sentence first.
+    </text>
+</law>

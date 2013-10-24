@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175E" order_by="175E" level="3">Regulation Of Rates For Motor Vehicle Insurance</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Antitrust Provisions; Monopolies; Price Fixing; Restraints Of Trade, Etc.</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     1. No insurer or rating organization shall monopolize or attempt to monopolize, or combine or conspire with any other person or persons to monopolize, in any territory, the business of insurance or any kind, subdivision or class thereof.
+        </section>
+        <section prefix="b">
+    	     1. Any rate made in violation of subdivision (a) of this section shall be disapproved by the commissioner pursuant to the procedures prescribed in section eight, and each violator shall be subject to the penalties provided in section twelve.
+        </section>
+        <section prefix="c">
+    	     The provisions of subdivision (a) shall not be construed to prohibit two or more insurers who by virtue of their business associations in the United States represent themselves to be or are customarily known as an “insurance company group”, or similar insurance trade designation, from having the right to exchange statistical information.
+        </section>
+        <section prefix="d">
+    	     The fact that two or more admitted insurers, whether or not members or subscribers of a rating or advisory organization, use, either consistently or intermittently, the manuals of classifications, rules and rates, rating plans, modifications of any of the foregoing or recommendations of such organizations, shall not be sufficient in itself to support a finding that an agreement to adhere exists, and may be used only for the purpose of supplementing or explaining direct evidence of the existence of any such agreement.
+        </section>
+    </text>
+</law>

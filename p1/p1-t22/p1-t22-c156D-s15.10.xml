@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.10</section_number>
+    <catch_line>Liability To Be Sued; Service On Foreign Corporation</catch_line>
+    <order_by>15.10</order_by>
+    <text>
+        <section prefix="a">
+    	     Foreign corporations shall be liable to be sued and to have their property attached in the same manner and to the same extent as individuals who are residents of other states.
+        </section>
+        <section prefix="b">
+    	     Every foreign corporation doing business in the commonwealth which has not complied with section 15.03 and every foreign corporation which has complied with said section 15.03 but whose resident agent cannot, after a diligent search by an officer authorized to serve legal process, be found at the business address of such resident agent stated in its most recent certificate filed with the secretary of state pursuant to this chapter or its most recent annual report filed with the secretary of state pursuant to section 16.22 and every foreign corporation whose resident agent refuses to act as such, shall be deemed to have appointed the secretary of state and his successor in office to be its true and lawful attorney upon whom all lawful process in any action or proceeding may be served so long as any liability incurred in the commonwealth while it was doing business shall remain outstanding.
+        </section>
+        <section prefix="c">
+    	     Service of process in all actions and proceedings in the commonwealth against such a foreign corporation may be made upon the secretary of state. Service of process in all actions and proceedings in the commonwealth against a foreign corporation formerly doing business in the commonwealth that has not complied with the provision of section 15.03, or against a foreign corporation formerly doing business in the commonwealth that has withdrawn from the commonwealth pursuant to this chapter, may be made upon the secretary of state if the action or proceeding involves a liability alleged to have been incurred by the foreign corporation while it was doing business in the commonwealth.
+        </section>
+        <section prefix="d">
+    	     When lawful process in any action or proceeding against any foreign corporation which pursuant to this section may be made upon the secretary of state is served upon the secretary of state, the secretary of state shall immediately forward the process by mail, postage prepaid, directed to such foreign corporation at its last known principal office or, in the case of a foreign corporation established in a foreign country, to the resident manager, if any, in the United States. A fee of $10 shall be paid by the plaintiff to the secretary of state at the time of the service and the fees shall be taxed in his costs, if he prevails in the suit. The secretary of state shall keep a record of all such processes, which shall show the day of service.
+        </section>
+        <section prefix="e">
+    	     In the case of service of process on a foreign corporation that has not complied with section 15.03, the notice herein provided for shall be mailed by the secretary of state to the proper address of the foreign corporation furnished to him by the plaintiff or his attorney.
+        </section>
+        <section prefix="f">
+    	     Service of process upon a foreign corporation for violation of any criminal law of the commonwealth may be made in the manner hereinabove provided except that no fee shall be paid to the secretary of state.
+        </section>
+        <section prefix="g">
+    	     This section does not prescribe the only means, or necessarily the required means, of serving a foreign corporation.
+        </section>
+    </text>
+</law>

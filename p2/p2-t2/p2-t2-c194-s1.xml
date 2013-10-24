@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="194" order_by="194" level="3">Public Administrators</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Appointment; Number; Term</catch_line>
+    <order_by>1</order_by>
+    <text>
+        There shall be in each county one or more public administrators, not exceeding six in Middlesex and in Suffolk or five in any other county, appointed by the governor with the advice and consent of the council, who shall hold office for five years from the time of their appointment.
+    </text>
+</law>

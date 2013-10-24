@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Applicable Provisions; Powers And Duties</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Chapter 156D shall apply to professional corporations and which shall enjoy the powers and privileges, and be subject to the duties, restrictions and liabilities of corporations organized under said chapter, except where inconsistent with this chapter.
+        </section>
+        <section prefix="b">
+    	     A professional corporation may own real and personal property necessary or appropriate for rendering the professional service it was organized to render, and may invest its funds in real estate, mortgages, stocks, bonds, or any other type of investment.
+        </section>
+    </text>
+</law>

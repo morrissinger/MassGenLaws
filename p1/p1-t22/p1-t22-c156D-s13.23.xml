@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.23</section_number>
+    <catch_line>Perfection Of Rights; Right To Withdraw</catch_line>
+    <order_by>13.23</order_by>
+    <text>
+        <section prefix="a">
+    	     A shareholder who receives notice pursuant to section 13.22 and who wishes to exercise appraisal rights shall certify on the form sent by the corporation whether the beneficial owner of the shares acquired beneficial ownership of the shares before the date required to be set forth in the notice pursuant to clause (1) of subsection (b) of section 13.22. If a shareholder fails to make this certification, the corporation may elect to treat the shareholder’s shares as after-acquired shares under section 13.25. In addition, a shareholder who wishes to exercise appraisal rights shall execute and return the form and, in the case of certificated shares, deposit the shareholder’s certificates in accordance with the terms of the notice by the date referred to in the notice pursuant to subclause (ii) of clause (2) of subsection (b) of section 13.22. Once a shareholder deposits that shareholder’s certificates or, in the case of uncertificated shares, returns the executed forms, that shareholder loses all rights as a shareholder, unless the shareholder withdraws pursuant to said subsection (b).
+        </section>
+        <section prefix="b">
+    	     A shareholder who has complied with subsection (a) may nevertheless decline to exercise appraisal rights and withdraw from the appraisal process by so notifying the corporation in writing by the date set forth in the appraisal notice pursuant to subclause (v) of clause (2) of subsection (b) of section 13.22. A shareholder who fails to so withdraw from the appraisal process may not thereafter withdraw without the corporation’s written consent.
+        </section>
+        <section prefix="c">
+    	     A shareholder who does not execute and return the form and, in the case of certificated shares, deposit that shareholder’s share certificates where required, each by the date set forth in the notice described in subsection (b) of section 13.22, shall not be entitled to payment under this chapter.
+        </section>
+    </text>
+</law>

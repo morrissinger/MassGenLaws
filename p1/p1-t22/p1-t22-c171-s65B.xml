@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>65B</section_number>
+    <catch_line>Inspection Of Real Estate Securing Loan Upon Default; Appraisal Of Real Estate Upon Excessive Loan</catch_line>
+    <order_by>65B</order_by>
+    <text>
+        <section prefix="a">
+    	     A credit union shall inspect the real estate securing a loan in the event that a payment of interest or principal upon the loan or on account of real estate taxes upon the parcel mortgaged to secure the same shall be in default. Inspection for the purpose aforesaid shall be made within 91 days from the date of such default in payment of interest or principal or within 181 days from the date of such default in payment on account of taxes, as the case may be, and thereafter periodic inspection shall continue in accordance with this section until such loan shall no longer be in default.
+        </section>
+        <section prefix="b">
+    	     The commissioner may cause an appraisal of real estate to be made at the expense of the credit union whenever the commissioner deems an excessive loan has been made or is about to be made upon real estate.
+        </section>
+    </text>
+</law>

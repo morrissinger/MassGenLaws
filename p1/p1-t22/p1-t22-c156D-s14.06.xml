@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.06</section_number>
+    <catch_line>Known Non Contingent Claims Against Dissolved Corporation</catch_line>
+    <order_by>14.06</order_by>
+    <text>
+        <section prefix="a">
+    	     With respect to any non-contingent claim against the corporation, whether or not matured, known to the corporation at any time prior to the end of the 3-year period specified in clause (3) of subsection (b) of section 14.07, to the extent that the corporation in good faith disputes the claim, a dissolved corporation may, subject to paragraph (f), limit the assets out of which the claim may be satisfied to the assets retained by the corporation plus, to the extent provided in section 6.41, any assets distributed to its shareholders within 3 years after the effective date of the corporation’s dissolution, by following the procedure described in this section.
+        </section>
+        <section prefix="b">
+    	     The dissolved corporation may send notice in writing of the dissolution at any time after its effective date to any known claimant whose claim the corporation disputes in whole or in part. The written notice shall:
+        </section>
+        <section prefix="1">
+    	     include a copy or a summary of this section;
+        </section>
+        <section prefix="2">
+    	     state the amount of the claim that is disputed;
+        </section>
+        <section prefix="3">
+    	     state that the assets out of which the claim may be satisfied shall be limited as provided in subsection (c) unless a statement of the claim is received within the deadline specified in the notice by which the dissolved corporation shall receive the statement of the claim, which deadline may not be earlier than 3 years after the effective date of the corporation’s dissolution or 120 days after the effective date of the written notice, whichever is later;
+        </section>
+        <section prefix="4">
+    	     describe the information that shall be included in the statement of the claim; and
+        </section>
+        <section prefix="5">
+    	     provide the mailing address to which the statement shall be sent.
+        </section>
+        <section prefix="c">
+    	     To the extent that the corporation in good faith disputes any non-contingent claim against the corporation, whether or not matured, known to the corporation at any time before the end of the 3-year period specified in clause (3) of subsection (b) of section 14.07, and if written notice of the claim was given under subsection (b), the assets out of which the claim may be satisfied shall be limited, except as provided in subsection (a) of section 14.09, to the assets retained by the corporation plus, to the extent provided in section 6.41, any assets distributed to its shareholders within 3 years after the effective date of the corporation’s dissolution:
+        </section>
+        <section prefix="1">
+    	     if a claimant does not deliver a statement of the claim to the dissolved corporation by the specified deadline; or
+        </section>
+        <section prefix="2">
+    	     if a claimant, who has delivered a statement of the claim to the dissolved corporation and the claim was rejected in writing by the dissolved corporation, does not furnish notice to the corporation by the later of the specified deadline and 90 days from the effective date of the rejection notice that the holder intends to commence a proceeding to enforce the claim, and does not actually commence the proceeding by the later of the specified deadline and 270 days from the effective date of the rejection notice.
+        </section>
+        <section prefix="d">
+    	     If a claim described in subsection (a) has not been asserted against the dissolved corporation and the corporation has reason to believe that the claimant is unaware of the claim, the claim shall be considered to be unknown and subject to section 14.07 rather than section 14.06, unless the notice described in subsection (b) contains a reasonable description of the claim the corporation believes the claimant may have.
+        </section>
+        <section prefix="e">
+    	     The giving of notice by the dissolved corporation pursuant to section 14.06 is not evidence or admission of the existence or validity of any claim or amount.
+        </section>
+    </text>
+</law>

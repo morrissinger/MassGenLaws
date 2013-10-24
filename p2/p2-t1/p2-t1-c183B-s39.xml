@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Public Offering Statements; Conversion Buildings; Contents</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     If a conversion building that includes or is to include one or more time-share units is more than ten years old and the developer or any affiliates of the developer own or control more than fifty per cent of all units in the project, the public offering statement shall contain, in addition to the information required by section thirty-eight:
+        </section>
+        <section prefix="1">
+    	     a statement by the developer, based on a report prepared by an independent registered architect or engineer, describing the present condition of all structural components and mechanical and electrical installations material to the use and enjoyment of the time-share units;
+        </section>
+        <section prefix="2">
+    	     a statement by the developer of the expected useful life of each item reported on in clause (1) or a statement that no representations shall be made in that regard; and
+        </section>
+        <section prefix="3">
+    	     a list of any outstanding notices of uncured violations of building codes or other municipal regulations, together with the estimated cost of curing said violations;
+        </section>
+        <section prefix="b">
+    	     This section shall apply only to units in which use as a dwelling or for recreational purposes, or both, is permissible.
+        </section>
+    </text>
+</law>

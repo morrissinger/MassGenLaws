@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>72</section_number>
+    <catch_line>Employee Claiming Or Waiving Rights Against County, City, Town Or District</catch_line>
+    <order_by>72</order_by>
+    <text>
+        A laborer, workman or mechanic entering the service of such county, city, town or district who would, if injured, have a right of action against the county, city, town or district by law, may claim or waive his right of action as provided in section twenty-four, and shall be deemed to have waived such right of action unless he claims it.
+    </text>
+</law>

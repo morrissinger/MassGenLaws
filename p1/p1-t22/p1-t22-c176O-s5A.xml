@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Acceptance And Recognition Of Information Submitted Pursuant To Current Coding Standards And Guidelines Required; Use Of Standardized Claim Formats</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to subsection (c), for the purposes of processing claims for health care services submitted by a health care provider and to provide uniformity and consistency in the reporting of patient diagnostic information, patient care service and procedure information as it relates to the submission and processing of health care claims, a carrier and its subcontractors shall, without local customization, accept and recognize patient diagnostic information and patient care service and procedure information submitted pursuant to, and consistent with the current Health Insurance Portability and Accountability Act compliant code sets: the International Classification of Diseases; the American Medical Association’s Current Procedural Terminology codes, reporting guidelines and conventions; and the Centers for Medicare and Medicaid Services Healthcare Common Procedure Coding System. A carrier and its subcontractors shall adopt the aforementioned coding standards and guidelines, and all changes thereto, in their entirety, which shall be effective on the same date as the national implementation date established by the entity implementing the coding standards.
+        </section>
+        <section prefix="b">
+    	     Subject to subsection (c), a carrier and its subcontractors shall, without local customization, use the standardized claim formats for processing health care claims as adopted by the National Uniform Claim Committee and the National Uniform Billing Committee and implemented pursuant to the Health Insurance Portability and Accountability Act. A carrier and its subcontractors shall, without local customization, adopt and routinely process all changes to such formats which shall be effective on the same date as the implementation date established by the entity implementing the formats.
+        </section>
+        <section prefix="c">
+    	     Except for the requirements for consistency and uniformity in coding patient diagnostic information and patient care service and procedure information, this section shall not modify or supersede a carrier’s or its subcontractor’s payment policy, utilization review policy or benefits under a health benefit plan. Nothing in this section shall further preclude a carrier or a subcontractor thereof from adjudicating a claim pursuant to its billing guidelines, payment policies, provider contracts or health benefit plans.
+        </section>
+        <section prefix="d">
+    	     Carriers and subcontractors thereof shall accept and recognize at least 85 per cent of all claims submitted by health care providers pursuant to this section.
+        </section>
+        <section prefix="d">
+    	     Carriers and their subcontractors shall accept and recognize all claims submitted by health care providers pursuant to this section.
+        </section>
+    </text>
+</law>

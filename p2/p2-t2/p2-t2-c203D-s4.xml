@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Trustee’S Power To Adjust</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A trustee may adjust between principal and income if the trustee considers it necessary if the trustee invests and manages trust assets as a prudent investor, the terms of the trust describe the amount that may or must be distributed to a beneficiary by referring to the trust’s income, and the trustee determines, after applying the rules in subsection (a) of section 3, that the trustee is unable to comply with subsection (b) of said section 3.
+        </section>
+        <section prefix="b">
+    	     In deciding whether to exercise the power conferred by subsection (a), a trustee shall consider all factors relevant to the trust and its beneficiaries, including the following factors to the extent they are relevant:
+        </section>
+        <section prefix="1">
+    	     the nature, purpose and expected duration of the trust;
+        </section>
+        <section prefix="2">
+    	     the intent of the settlor;
+        </section>
+        <section prefix="3">
+    	     the identity and circumstances of the beneficiaries;
+        </section>
+        <section prefix="4">
+    	     the needs for liquidity, regularity of income and preservation and appreciation of capital;
+        </section>
+        <section prefix="5">
+    	     the nature and character of the assets held in the trust, if an asset is used by a beneficiary, and whether an asset was purchased by the trustee or received from the settlor;
+        </section>
+        <section prefix="6">
+    	     the net amount allocated to income under the other sections of this chapter and the increase or decrease in the value of the principal assets, which the trustee may estimate as to assets for which market values are not readily available;
+        </section>
+        <section prefix="7">
+    	     whether the terms of the trust give the trustee the power to invade principal or accumulate income or prohibit the trustee from invading principal or accumulating income, and if the trustee has exercised a power from time to time to invade principal or accumulate income;
+        </section>
+        <section prefix="8">
+    	     the actual and anticipated effect of economic conditions on principal and income and effects of inflation and deflation; and
+        </section>
+        <section prefix="9">
+    	     the anticipated tax consequences of an adjustment.
+        </section>
+        <section prefix="c">
+    	     A trustee may not make an adjustment:
+        </section>
+        <section prefix="1">
+    	     that diminishes the income interest in a trust that requires all of the income to be paid at least annually to a spouse and for which an estate tax or gift tax marital deduction would be allowed, in whole or in part, if the trustee did not have the power to make the adjustment;
+        </section>
+        <section prefix="2">
+    	     that reduces the actuarial value of the income interest in a trust to which a person transfers property with the intent to qualify for a gift tax exclusion;
+        </section>
+        <section prefix="3">
+    	     that changes the amount payable to a beneficiary as a fixed annuity or a fixed fraction of the value of the trust assets;
+        </section>
+        <section prefix="4">
+    	     from any amount that is permanently set aside for charitable purposes under a will or the terms of a trust unless both income and principal are so set aside;
+        </section>
+        <section prefix="5">
+    	     if possessing or exercising the power to make an adjustment causes an individual to be treated as the owner of all or part of the trust for income tax purposes, and the individual would not be treated as the owner if the trustee did not possess the power to make an adjustment;
+        </section>
+        <section prefix="6">
+    	     if possessing or exercising the power to make an adjustment causes all or part of the trust assets to be included for estate tax purposes in the estate of an individual who has the power to remove a trustee or appoint a trustee, or both, and the assets would not be included in the estate of the individual if the trustee did not possess the power to make an adjustment;
+        </section>
+        <section prefix="7">
+    	     if the trustee is a beneficiary of the trust; or
+        </section>
+        <section prefix="8">
+    	     if the trustee is not a beneficiary, but the adjustment would benefit the trustee directly or indirectly.
+        </section>
+        <section prefix="d">
+    	     If clause (5), (6), (7) or (8) of subsection (c) applies to a trustee and there is more than one trustee, a cotrustee to whom the provision does not apply may make the adjustment unless the exercise of the power by the remaining trustee or trustees is not permitted by the terms of the trust.
+        </section>
+        <section prefix="e">
+    	     A trustee may release the entire power conferred by subsection (a) or may release only the power to adjust from income to principal or the power to adjust from principal to income if the trustee is uncertain about whether possessing or exercising the power will cause a result described in clauses (1) to (6), inclusive, of subsection (c) or clause (8) of said subsection (c) or if the trustee determines that possessing or exercising the power will or may deprive the trust of a tax benefit or impose a tax burden not described in said subsection (c). The release may be permanent or for a specified period, including a period measured by the life of an individual.
+        </section>
+        <section prefix="f">
+    	     Terms of a trust that limit the power of a trustee to make an adjustment between principal and income do not affect the application of this section unless it is clear from the terms of the trust that the terms are intended to deny the trustee the power of adjustment conferred by subsection (a).
+        </section>
+    </text>
+</law>

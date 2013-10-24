@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>52</section_number>
+    <catch_line>Default Judgments; Payments</catch_line>
+    <order_by>52</order_by>
+    <text>
+        If the executor or administrator does not appear, the plaintiff, instead of suggesting the death of the trustee, may take judgment against him by default or otherwise as if he were living, and the executor or administrator shall pay upon the execution the amount which the deceased would have been liable to pay to the defendant, and shall be thereby discharged for the amount so paid. If he does not voluntarily pay the amount in his hands, the plaintiff may proceed against him in the manner provided in section forty-five.
+    </text>
+</law>

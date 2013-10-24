@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Limit Upon Time To Acquire Certificate Of Incorporation</catch_line>
+    <order_by>26</order_by>
+    <text>
+        The agreement of association, and all proceedings thereunder, including the fixing of the route, shall be void, unless the certificate of incorporation is issued within one year after the time the route is fixed as provided in section twenty or twenty-one.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167H" order_by="167H" level="3">Mutual Holding Companies</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Notice Of Proposed Reorganization To Commissioner; Factors To Be Considered</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     whether the formation of the proposed mutual holding company will be unfair or prejudicial to the depositors of the mutual banking institution proposing to reorganize as a mutual holding company;
+        </section>
+        <section prefix="2">
+    	     whether the interest of the public will be served by the formation of the proposed mutual holding company;
+        </section>
+        <section prefix="3">
+    	     whether disapproval is necessary to prevent unsafe or unsound banking practices;
+        </section>
+        <section prefix="4">
+    	     the financial and management resources of the mutual banking institution proposing to reorganize; and
+        </section>
+        <section prefix="5">
+    	     the competence, character and banking experience of the applicant, including its record of compliance with applicable laws and regulations.
+        </section>
+    </text>
+</law>

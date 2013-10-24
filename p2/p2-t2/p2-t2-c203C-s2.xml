@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203C" order_by="203C" level="3">Prudent Investment</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Trustees Managing Trust Assets; Duty To Comply With Prudent Investor Rule</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b), a trustee who invests and manages trust assets shall owe a duty to the beneficiaries of a trust to comply with the prudent investor rule set forth in this chapter.
+        </section>
+        <section prefix="b">
+    	     The prudent investor rule may be expanded, restricted, eliminated or otherwise altered by the provisions of a trust. A trustee shall not be liable to a beneficiary to the extent that the trustee acted in reasonable reliance on the provisions of the trust.
+        </section>
+    </text>
+</law>

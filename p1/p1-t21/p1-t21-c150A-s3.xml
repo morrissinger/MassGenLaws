@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Rights Of Employees</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Employees, or a single employee in a one-man unit, shall have the right to self-organization, to form, join or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in concerted activities, for the purpose of collective bargaining or other mutual aid or protection. An employee shall also have the right to refrain from any such activities, except to the extent of making payment of service fees to an exclusive representative.
+    </text>
+</law>

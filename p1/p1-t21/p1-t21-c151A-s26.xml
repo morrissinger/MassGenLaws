@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Benefits Under Law Of Another State Or United States</catch_line>
+    <order_by>26</order_by>
+    <text>
+        No waiting period shall be served and no benefits shall be paid under this chapter to an individual for any week with respect to which, or a part of which, he has received or is seeking unemployment benefits under an unemployment compensation law or employment security law of any other state or of the United States; provided, that, if the appropriate agency of such other state or of the United States finally determines that he is not entitled to such unemployment benefits, this section shall not apply.
+    </text>
+</law>

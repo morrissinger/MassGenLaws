@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Affirmation In Lieu Of Oath</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If a person who is returned as a grand juror is conscientiously scrupulous of taking the oath prescribed, he may affirm.
+    </text>
+</law>

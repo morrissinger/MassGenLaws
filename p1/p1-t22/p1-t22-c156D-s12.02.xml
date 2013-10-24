@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>12.02</section_number>
+    <catch_line>Sale Of Assets Other Than In Regular Course Of Business</catch_line>
+    <order_by>12.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may sell, lease, exchange, or otherwise dispose of all, or substantially all, of its property, otherwise than in the usual and regular course of business, on the terms and conditions and for the consideration determined by the corporation’s board of directors, if the board of directors proposes and the shareholders entitled to vote approve the proposed transaction.
+        </section>
+        <section prefix="b">
+    	     The board of directors may condition its submission of the proposed transaction to the shareholders on any basis.
+        </section>
+        <section prefix="c">
+    	     When seeking the approval of the shareholders, the corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders’ meeting in accordance with section 7.05. The notice shall also state that the purpose, or 1 of the purposes, of the meeting is to consider the sale, lease, exchange or other disposition, as the case may be, of all, or substantially all, the property of the corporation, otherwise than in the usual and regular course of business, and shall contain or be accompanied by a description of the proposed transaction.
+        </section>
+        <section prefix="d">
+    	     The shareholders may approve the terms and conditions of the proposed transaction, and the consideration to be received by the corporation, as previously determined by the board of directors or may fix, or authorize the board of directors to fix, the terms and conditions of the proposed transaction and the consideration to be received by the corporation.
+        </section>
+        <section prefix="e">
+    	     Unless (1) a greater percentage vote, or one or more additional separate voting groups, is required by the articles of organization, pursuant to subsection (a) of section 7.27, by the bylaws, pursuant to section 10.21, or by the board of directors, acting pursuant to subsection (c) of section 12.02, or (2) the articles provide for a lesser percentage vote, in accordance with subsection (b) of section 7.27, approval of the transaction requires the affirmative vote of two-thirds of all the shares entitled generally to vote on the matter by the articles of organization, and in addition two-thirds of the shares in any voting group entitled to vote separately on the matter by the articles, by the bylaws, or by action of the board of directors pursuant to subsection (c) of section 12.02.
+        </section>
+        <section prefix="f">
+    	     After such a transaction is approved by shareholders, but before it has been consummated, it may be abandoned by the corporation without further shareholder action, subject to any contractual rights which may have arisen.
+        </section>
+        <section prefix="g">
+    	     A transaction that constitutes a pro rata distribution of the corporation’s property to its shareholders is governed by section 6.40 and not by this section.
+        </section>
+    </text>
+</law>

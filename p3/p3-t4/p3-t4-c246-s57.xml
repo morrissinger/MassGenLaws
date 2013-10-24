@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Proceedings If Trustee Is Charged For Specific Property</catch_line>
+    <order_by>57</order_by>
+    <text>
+        If a person is charged as trustee by reason of personal property other than money, which he holds or is bound to deliver to the defendant, he shall deliver it, or so much thereof as may be necessary, to the officer holding the execution, who shall sell the property and apply and account for the proceeds in the same manner as if the property had been taken on execution.
+    </text>
+</law>

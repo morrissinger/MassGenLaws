@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Issues Of Fact To Be Tried By Jury</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The supreme judicial court, upon request of a party to a civil action in which equitable relief is sought, may frame issues of fact to be tried by a jury and order the same to be tried in that court or in the superior court in the county in which such cause is pending, or upon the request of all parties in any other county.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Registration Of Leases Or Notices Of Leases</catch_line>
+    <order_by>71</order_by>
+    <text>
+        Leases, or notices of leases as defined in section four of chapter one hundred and eighty-three, of registered land for more than seven years from the making thereof shall be registered in lieu of recording.
+    </text>
+</law>

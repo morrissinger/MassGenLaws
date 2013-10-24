@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Registration Of Foreign Limited Liability Company</catch_line>
+    <order_by>48</order_by>
+    <text>
+        <section prefix="1">
+    	     the name of the foreign limited liability company and, if different, the name under which it proposes to do business in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the jurisdiction where such limited liability company was organized and the date of its organization;
+        </section>
+        <section prefix="3">
+    	     the general character of the business the foreign limited liability company proposes to do in the commonwealth;
+        </section>
+        <section prefix="4">
+    	     the address of the principal office of the foreign limited liability company;
+        </section>
+        <section prefix="5">
+    	     if the foreign limited liability company has managers, the name and address of each manager;
+        </section>
+        <section prefix="6">
+    	     the address of the principal office of the foreign limited liability company in the commonwealth, if any;
+        </section>
+        <section prefix="7">
+    	     the name and address of its resident agent and the agent’s written consent, either on the certificate or attached to it, to his appointment as agent;
+        </section>
+        <section prefix="8">
+    	     if the foreign limited liability company has a specific date of dissolution, the latest date on which the foreign limited liability company is to dissolve; and
+        </section>
+        <section prefix="9">
+    	     if desired, the name of one or more persons authorized to execute, acknowledge, deliver and record any recordable instrument purporting to affect an interest in real property, whether to be recorded with a registry of deeds or a district office of the land court.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176R" order_by="176R" level="3">Consumer Choice Of Nurse Practitioner Services</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Inclusion Of Nurse Practitioners On Publicly Accessible List Of Participating Providers</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Notwithstanding any general or special law to the contrary, a carrier shall ensure that all participating provider nurse practitioners are included on any publicly accessible list of participating providers for the carrier.
+    </text>
+</law>

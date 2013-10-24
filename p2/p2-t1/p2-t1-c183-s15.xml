@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Easements, Privileges And Appurtenances Belonging To Granted Estate</catch_line>
+    <order_by>15</order_by>
+    <text>
+        In a conveyance of real estate all rights, easements, privileges and appurtenances belonging to the granted estate shall be included in the conveyance, unless the contrary shall be stated in the deed, and it shall be unnecessary to enumerate or mention them either generally or specifically.
+    </text>
+</law>

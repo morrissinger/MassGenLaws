@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Refusal To Give List; False List; Penalty</catch_line>
+    <order_by>48</order_by>
+    <text>
+        If an officer unreasonably refuses to give the certified list mentioned in the preceding section or wilfully gives a false list, he shall be liable to the judgment creditor for double the amount of all damages occasioned by such refusal or false list.
+    </text>
+</law>

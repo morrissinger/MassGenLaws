@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="280" order_by="280" level="3">Fines And Forfeitures</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Proceedings To Recover Penalties; Appointment Of Counsel</catch_line>
+    <order_by>3</order_by>
+    <text>
+        In proceedings in the name of the commonwealth for the recovery of fines, forfeitures or penalties, the whole or any part of which do not enure to the benefit of the commonwealth, the court may, upon motion of the district attorney, appoint an attorney to conduct the cause under his direction; but such attorney so appointed shall have no right to control the cause or receive compensation from the commonwealth.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>87</section_number>
+    <catch_line>Limitation Upon Tax Exemption</catch_line>
+    <order_by>87</order_by>
+    <text>
+        Land, outside the location of the railroad five rods in width, taken or purchased for railroad, depot or station purposes shall not be exempt from taxation.
+    </text>
+</law>

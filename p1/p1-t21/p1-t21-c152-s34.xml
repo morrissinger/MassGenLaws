@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Total Incapacity; Compensation</catch_line>
+    <order_by>34</order_by>
+    <text>
+        While the incapacity for work resulting from the injury is total, during each week of incapacity the insurer shall pay the injured employee compensation equal to sixty percent of his or her average weekly wage before the injury, but not more than the maximum weekly compensation rate, unless the average weekly wage of the employee is less than the minimum weekly compensation rate, in which case said weekly compensation shall be equal to his average weekly wage. 
+The total number of weeks of compensation due the employee under this section shall not exceed one hundred fifty-six.
+    </text>
+</law>

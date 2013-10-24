@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Unfair Labor Practices By Individuals Or Labor Organizations</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="1">
+    	     To seize or occupy unlawfully private property as a means of forcing settlement of a labor dispute; or
+        </section>
+        <section prefix="2">
+    	     To authorize or engage in any strike, slowdown, boycott or other concerted cessation of work or withholding of patronage for the purpose of—
+        </section>
+        <section prefix="a">
+    	     Bringing about, directly or indirectly, the commission of any unfair labor practice, or
+        </section>
+        <section prefix="b">
+    	     Injuring or interfering with the trade or business of any person because such person has refused to commit an unfair labor practice; or
+        </section>
+        <section prefix="c">
+    	     Interfering with, restraining or coercing employees in their choice or rejection of representatives for the purpose of collective bargaining after the commission has determined in a proceeding under section five that such employees do not desire to be represented by such labor organization; or
+        </section>
+        <section prefix="3">
+    	     To aid in any concerted activities of the types described in this section by giving direction or guidance in the conduct thereof or by providing funds for the payment of strike, unemployment or other benefits to persons participating therein; or
+        </section>
+        <section prefix="4">
+    	     To interfere with, restrain or coerce an employer or employee in the exercise of a right guaranteed under this chapter.
+        </section>
+    </text>
+</law>

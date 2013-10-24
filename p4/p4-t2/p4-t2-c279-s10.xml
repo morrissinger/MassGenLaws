@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="279" order_by="279" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Conditional Sentence</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If a person has been convicted of a crime punishable, at the discretion of the court, by fine or imprisonment in the jail or house of correction or by fine or imprisonment in the state prison, the court may impose upon him a conditional sentence, and order him to pay a fine within a limited time which shall be expressed in the sentence, and in default thereof to suffer such imprisonment as is provided by law. He shall be forthwith committed to the custody of an officer in court or to the jail, to be detained until the sentence is complied with; and if he does not within the time limited pay the fine imposed, the sheriff shall cause the other part of the sentence to be executed forthwith.
+    </text>
+</law>

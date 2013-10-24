@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Dissolution</catch_line>
+    <order_by>15</order_by>
+    <text>
+        If action required by section 12 or 13 is not taken within the prescribed time period, or it shall be established that a professional corporation has failed to comply with this chapter, the state secretary may dissolve the corporation in accordance with section 14.21 of subdivision B of Part 14 of chapter 156D. The state secretary may also dissolve a professional corporation upon receipt of a certificate from any regulating board with jurisdiction stating that such corporation has failed to comply with the requirements of such board so as to give due cause for its dissolution, which certificate shall recite pertinent facts to support the requested dissolution. A copy of such certificate shall be given to such corporation at least sixty days in advance of said dissolution.
+    </text>
+</law>

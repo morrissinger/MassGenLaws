@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Restrictions On Real Estate Mortgage Loans; Credit Union Membership;  Location Of Mortgaged Real Estate; Capitalization Of Assets</catch_line>
+    <order_by>66</order_by>
+    <text>
+        <section prefix="1">
+    	     A person obligated from time to time to make payments under a mortgage, whether as the original borrower or as a subsequent owner of the mortgaged property, shall be or shall become a member of the credit union.
+        </section>
+        <section prefix="2">
+    	     Each loan shall be on real estate situated within the commonwealth or within a radius of 100 miles of the main office of the credit union without regard to geographical location.
+        </section>
+        <section prefix="3">
+    	     A credit union having assets of not more than $100,000 may invest not more than 50 per cent of its assets in real estate mortgages. A credit union having assets of more than $100,000 but not $500,000 or more may invest not more than 70 per cent of its assets in real estate mortgages. A credit union having assets of $500,000 or more may invest not more than 80 per cent of its assets in real estate mortgages.
+        </section>
+    </text>
+</law>

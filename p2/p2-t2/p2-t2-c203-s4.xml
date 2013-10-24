@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203" order_by="203" level="3">Trusts</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Testamentary Trustee; Appointment</catch_line>
+    <order_by>4</order_by>
+    <text>
+        If a testator has omitted in his will to appoint a trustee in this commonwealth and such appointment is necessary to carry into effect the provisions of the will, the probate court may, after notice to all persons interested, appoint a trustee who shall have the same powers, rights and duties and the same title to the estate as if originally appointed by the testator.
+    </text>
+</law>

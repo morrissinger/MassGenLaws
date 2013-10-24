@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Meetings Of Board Of Directors; Report On Transactions</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     The board of directors shall meet at intervals, that shall not be less frequent than quarterly, but, upon application in writing by the corporation, the commissioner may waive or modify this requirement. Unless the articles of organization or the by-laws otherwise provide, members of the board of directors or a committee designated thereby may participate in a meeting of the board or committee by means of a conference telephone or similar communications equipment by means of which all persons participating in the meeting may simultaneously hear each other, and participation by those means shall constitute presence in person at a meeting. Members may transmit written authorizations that may be required during the meeting by electronic facsimile or other commercially acceptable transmission. At intervals that shall not be less frequent than quarterly, the treasurer or other officer designated by the board of directors shall submit to a meeting of the board of directors, or to a meeting of its executive committee, if the receipt of the reports has been delegated by the board of directors to that committee, a written report, over his signature, for the period running from the closing date of the last report to a date not more than 18 days before the date of the meeting at which the report is submitted. The report shall be filed with the records of the meeting and shall be retained for a period of 6 years from the date of the meeting. The report shall provide a summary of the following transactions:
+        </section>
+        <section prefix="1">
+    	     changes in investments;
+        </section>
+        <section prefix="2">
+    	     changes in reserve or contingency accounts;
+        </section>
+        <section prefix="3">
+    	     lists of the following loans, setting forth total liabilities of the borrower to the corporation, both secured and unsecured:
+        </section>
+        <section prefix="i">
+    	     loans in excess of $50,000 each, overdue for more than 30 days, other than real estate mortgage loans, but for a bank with total assets in excess of $1,000,000,000 as of its most recent call report, loans reportable in this category shall be those in excess of $100,000, and for a bank with total assets in excess of $10,000,000,000 as of its most recent call report, loans reportable shall be those in excess of $1,000,000;
+        </section>
+        <section prefix="ii">
+    	     real estate mortgage loans on which interest is more than 6 months in arrears;
+        </section>
+        <section prefix="iii">
+    	     real estate mortgage loans concerning which any tax upon the underlying security has been paid by the corporation and not repaid to the corporation;
+        </section>
+        <section prefix="iv">
+    	     all loans secured and unsecured, and discounts of any borrower including both direct and indirect liabilities made during the period which brings aggregate liabilities of such borrower to an amount in excess of $100,000, with a notation of any line of credit possessed by the borrower, but, for a bank with total assets in excess of $1,000,000,000 as of its most recent call report, the reportable threshold amount of aggregate liabilities outstanding to a single borrower shall be the greater of $500,000 or 1 per cent of capital and surplus.
+        </section>
+        <section prefix="b">
+    	     Upon application in writing by a corporation the commissioner, in his discretion, may waive or modify the list of transactions to be included in the report.
+        </section>
+    </text>
+</law>

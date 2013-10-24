@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="254" order_by="254" level="3">Liens On Buildings And Land</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Void And Unenforceable Covenants, Promises, Etc.; Exceptions</catch_line>
+    <order_by>32</order_by>
+    <text>
+        <section prefix="1">
+    	     waivers of liens given by any person named as a principal on a lien bond provided under section twelve in connection with an interim or final payment received by such persons;
+        </section>
+        <section prefix="2">
+    	     statements by persons entitled to file documents under this chapter of amounts due or paid to them;
+        </section>
+        <section prefix="3">
+    	     dissolutions of liens under section ten;
+        </section>
+        <section prefix="4">
+    	     partial waivers and subordinations of liens given by persons who have filed or recorded notices of contract under section two substantially in the following form with no material deviation therefrom:
+        </section>
+        <section prefix="a">
+    	     waive any and all liens and right of lien on such real property for labor or materials, or both labor and materials, or rental equipment, appliances or tools, performed or furnished through the following date: ___ (payment period), except for retainage, unpaid agreed or pending change orders, and disputed claims as stated above; and
+        </section>
+        <section prefix="b">
+    	     subordinate any and all liens and right of lien to secure payment for such unpaid, agreed or pending change orders and disputed claims, and such further labor or materials, or both labor and materials, or rental equipment, appliances or tools, except for retainage, performed or furnished at any time through the twenty-fifth day after the end of the above payment period, to the extent of the amount actually advanced by the above lender/mortgagee through such twenty-fifth day.
+        </section>
+    </text>
+</law>

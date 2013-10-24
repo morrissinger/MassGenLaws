@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.30</section_number>
+    <catch_line>General Standards For Directors</catch_line>
+    <order_by>8.30</order_by>
+    <text>
+        <section prefix="a">
+    	     A director shall discharge his duties as a director, including his duties as a member of a committee:
+        </section>
+        <section prefix="1">
+    	     in good faith;
+        </section>
+        <section prefix="2">
+    	     with the care that a person in a like position would reasonably believe appropriate under similar circumstances; and
+        </section>
+        <section prefix="3">
+    	     in a manner the director reasonably believes to be in the best interests of the corporation. In determining what the director reasonably believes to be in the best interests of the corporation, a director may consider the interests of the corporation’s employees, suppliers, creditors and customers, the economy of the state, the region and the nation, community and societal considerations, and the long-term and short-term interests of the corporation and its shareholders, including the possibility that these interests may be best served by the continued independence of the corporation.
+        </section>
+        <section prefix="b">
+    	     In discharging his duties, a director who does not have knowledge that makes reliance unwarranted is entitled to rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by:
+        </section>
+        <section prefix="1">
+    	     one or more officers or employees of the corporation whom the director reasonably believes to be reliable and competent with respect to the information, opinions, reports or statements presented;
+        </section>
+        <section prefix="2">
+    	     legal counsel, public accountants, or other persons retained by the corporation, as to matters involving skills or expertise the director reasonably believes are matters (i) within the particular person’s professional or expert competence or (ii) as to which the particular person merits confidence; or
+        </section>
+        <section prefix="3">
+    	     a committee of the board of directors of which the director is not a member if the director reasonably believes the committee merits confidence.
+        </section>
+        <section prefix="c">
+    	     A director is not liable for any action taken as a director, or any failure to take any action, if he performed the duties of his office in compliance with this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Variance; Prejudice</catch_line>
+    <order_by>35</order_by>
+    <text>
+        A defendant shall not be acquitted on the ground of variance between the allegations and proof if the essential elements of the crime are correctly stated, unless he is thereby prejudiced in his defence. He shall not be acquitted by reason of an immaterial misnomer of a third party, an immaterial mistake in the description of property or the ownership thereof, failure to prove unnecessary allegations in the description of the crime or any other immaterial mistake in the indictment.
+    </text>
+</law>

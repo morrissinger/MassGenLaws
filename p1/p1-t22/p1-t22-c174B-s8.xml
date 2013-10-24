@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174B" order_by="174B" level="3">Regulation Of Automobile Clubs</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Refusal, Suspension Or Revocation Of License; Grounds</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     has violated any provision of this chapter; or
+        </section>
+        <section prefix="b">
+    	     is in such financial condition that its further transaction of automobile club service in the commonwealth would be hazardous to its members and the automobile-club-service-buying public in the commonwealth, is insolvent; or
+        </section>
+        <section prefix="c">
+    	     has refused or refuses to remove or discharge, or terminate its relationship with a director or officer who has been convicted of any crime involving fraud or dishonesty; or
+        </section>
+        <section prefix="d">
+    	     customarily, or in the regular course of business, compels claimants under its service contract either to accept less than the amount due them or fewer services or compels them to bring suit in order to secure full payment of the amount or all of the services due to said claimants; or
+        </section>
+        <section prefix="e">
+    	     conducts its business outside this commonwealth in such a manner as unjustly to discriminate against or prejudice the interests of the people of this commonwealth; or
+        </section>
+        <section prefix="f">
+    	     is affiliated with and is under the same general management or interlocking directorate or ownership as another automobile club which transacts business in this commonwealth which does not have a certificate of authority therefor; or
+        </section>
+        <section prefix="g">
+    	     has exceeded, or exceeds, its charter powers; or
+        </section>
+        <section prefix="h">
+    	     has refused, or refuses, to be examined, or if its directors, managing officers, employees or representatives refuse to submit to examination by the commissioner when required by the commissioner, or refuse to perform any legal obligation relative to such examination; or
+        </section>
+        <section prefix="i">
+    	     maintains, through its employees, a policy of misrepresenting to the public its service contracts; or
+        </section>
+        <section prefix="j">
+    	     fails to issue service contracts to its members.
+        </section>
+    </text>
+</law>

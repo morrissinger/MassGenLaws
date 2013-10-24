@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258C" order_by="258C" level="3">Compensation Of Victims Of Violent Crimes</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Filing And Proof Of Claims; Civil Investigative Demands</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="2">
+    	     The claimant has the burden of proving by a preponderance of the evidence that he is eligible to receive compensation.
+        </section>
+        <section prefix="3">
+    	     A claim under this chapter shall be made on a claim form prescribed by the division. The claim shall be accompanied by copies of bills and other documentation supporting the claim, and shall be signed under the pains and penalties of perjury. Any claim for loss of support or other expenses incurred as the result of the death of a victim must be accompanied by proof of dependency of the claimant upon the victim. All claims must contain a release of information necessary to investigate the claim.
+        </section>
+        <section prefix="b">
+    	     Upon receipt of a claim hereunder, the division shall acknowledge receipt of same, in writing, to the claimant or counsel of record. The division shall, thereafter, conduct an investigation of the claim to verify the information contained on the application.
+        </section>
+    </text>
+</law>

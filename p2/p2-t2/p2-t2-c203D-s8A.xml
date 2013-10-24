@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>8A</section_number>
+    <catch_line>Apportionment Of Receipts And Disbursements When Decedent Dies Or Income Interest Begins</catch_line>
+    <order_by>8A</order_by>
+    <text>
+        <section prefix="a">
+    	     A trustee shall allocate an income receipt or disbursement other than one to which paragraph (1) of section 6 applies to principal if its due date occurs on or before the date on which a decedent dies in the case of an estate or before an income interest begins in the case of a trust or successive income interest.
+        </section>
+        <section prefix="b">
+    	     A trustee shall allocate an income receipt or disbursement to income if its due date occurs after the date on which a decedent dies or on or after an income interest begins and it is a periodic due date. An income receipt or disbursement must be treated as accruing from day to day if its due date is not periodic or it has no due date. The portion of the receipt or disbursement accruing on or before the date on which a decedent dies or before an income interest begins shall be allocated to principal and the balance shall be allocated to income.
+        </section>
+        <section prefix="c">
+    	     An item of income or an obligation is due on the date the payer is required to make a payment. If a payment date is not stated, there is no due date for the purposes of this chapter. Distributions to shareholders or other owners from an entity to which section 10 applies are considered to be due on the date fixed by the entity for determining who is entitled to receive the distribution or, if no date is fixed, on the declaration date for the distribution. A due date is periodic for receipts or disbursements that shall be paid at regular intervals under a lease or an obligation to pay interest or if an entity customarily makes distributions at regular intervals.
+        </section>
+    </text>
+</law>

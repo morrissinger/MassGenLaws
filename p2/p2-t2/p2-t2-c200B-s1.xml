@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="i">
+    	     is operated by a nonprofit corporation, trust, association, public agency or educational institution;
+        </section>
+        <section prefix="ii">
+    	     is operated primarily for educational, scientific, historic preservation, cultural or aesthetic purposes; and
+        </section>
+        <section prefix="iii">
+    	     owns, borrows, cares for, exhibits, studies, archives or catalogues property.
+        </section>
+        <section prefix="i">
+    	     that is held by a museum;
+        </section>
+        <section prefix="ii">
+    	     that is assumed to be a gift to the museum; and
+        </section>
+        <section prefix="iii">
+    	     whose ownership cannot be determined by reference to the museum’s records.
+        </section>
+    </text>
+</law>

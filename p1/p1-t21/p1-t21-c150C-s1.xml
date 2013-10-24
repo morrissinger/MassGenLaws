@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Legal Status Of Agreements</catch_line>
+    <order_by>1</order_by>
+    <text>
+        A written agreement or a provision in a written agreement between a labor organization or organizations, as defined in subsection (5) of section two of chapter one hundred and fifty A, and an employer or employers or association or group of employers to submit to arbitration any existing controversy or any controversy thereafter arising between parties to the agreement, including but not restricted to any controversy dealing with rates of pay, wages, hours or other terms and conditions of employment of any employee or employees, shall be valid, enforceable and irrevocable, except as otherwise provided by law or in equity for the revocation of any contract.
+    </text>
+</law>

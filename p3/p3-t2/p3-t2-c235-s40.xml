@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Adjournment Upon Injunction</catch_line>
+    <order_by>40</order_by>
+    <text>
+        If a sale of such property on execution is enjoined, it may be adjourned by the court granting the injunction to await further order of the court, and upon dissolution of the injunction the court may order the sale to proceed, and may order additional notice of the adjourned sale.
+    </text>
+</law>

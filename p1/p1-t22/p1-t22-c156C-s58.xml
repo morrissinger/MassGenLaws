@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>58</section_number>
+    <catch_line>Lack Of Authority To Sue</catch_line>
+    <order_by>58</order_by>
+    <text>
+        The lack of authority of a member or manager to sue on behalf of the limited liability company may not be asserted as a defense to an action by the limited liability company or by the limited liability company as a basis for bringing a subsequent suit on the same cause of action.
+    </text>
+</law>

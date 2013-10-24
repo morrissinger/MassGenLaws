@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151" order_by="151" level="3">Minimum Fair Wages</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Failure To Observe Fair Wage Or Regulations; Summons; Hearing;  Publication Of Names, Liability</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If the commissioner has reason to believe that any employer is not paying a fair wage or not observing other minimum wage regulations, the commissioner may, on fifteen days notice, summon such employer to show cause why the name of such employer should not be published as having committed such violation. After a hearing and a finding of nonobservance, the commissioner may cause to be published in such newspaper or newspapers within this commonwealth or in such other manner as he may deem appropriate, the name of such employer or employers. Neither the commissioner nor any authorized representative of the commissioner nor any newspaper publisher, proprietor, editor or employee thereof shall be liable to an action for damages for publishing the name of any employer as provided herein unless guilty of wilful misrepresentation.
+    </text>
+</law>

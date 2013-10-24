@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176Q" order_by="176Q" level="3">Commonwealth Health Insurance Connector</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Study Of Connector And Enrolled Persons; Written Report</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="1">
+    	     the operation and administration of the connector, including surveys and reports of health benefits plans available to eligible individuals and on the experience of the plans. The experience on the plans shall include data on enrollees in the connector and enrollees purchasing health benefit plans as defined by chapter 176J outside of the connector, the operation and administration of the commonwealth care health insurance program described in chapter 118H, expenses, claims statistics, complaints data, how the connector met its goals, and other information deemed pertinent by the connector; and
+        </section>
+        <section prefix="2">
+    	     any significant observations regarding utilization and adoption of the connector.
+        </section>
+    </text>
+</law>

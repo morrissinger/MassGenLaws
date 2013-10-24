@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>16.20</section_number>
+    <catch_line>Financial Statement For Shareholders</catch_line>
+    <order_by>16.20</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation shall furnish to its shareholders upon request annual financial statements, which may be consolidated or combined statements of the corporation and 1 or more of its subsidiaries, as appropriate, that include a balance sheet as at the end of the fiscal year, an income statement for that year and, if available, a statement of changes in shareholder equity for that year unless that information appears elsewhere in the financial statements. If prepared by the corporation, the corporation shall also furnish a statement of cash flows for that year. If financial statements are prepared by the corporation on the basis of generally accepted accounting principles, the annual financial statements must also be prepared on that basis. For purposes of this subsection, financial statements may consist of copies of federal tax returns or other comparable information which is reasonable under the circumstances in the case where the corporation does not prepare financial statements as described above.
+        </section>
+        <section prefix="b">
+    	     If the annual financial statements are reported upon by a public accountant, his report shall accompany those statements. If not, those statements shall be accompanied by a certificate of the president or the person responsible for the corporation’s accounting records:
+        </section>
+        <section prefix="1">
+    	     stating his reasonable belief whether the statements were prepared in accordance with generally accepted accounting principles or, if not, describing the basis of preparation; and
+        </section>
+        <section prefix="2">
+    	     describing any respects in which the statements were not prepared on a basis of accounting consistent with the statements prepared for the preceding year.
+        </section>
+        <section prefix="c">
+    	     A corporation shall deliver the annual financial statements, or a written notice of their availability, to each shareholder before the earlier to occur of the annual meeting of shareholders or 120 days after the close of the fiscal year. Thereafter, the corporation shall deliver its most recent financial statements upon the written request of any shareholder to whom the statements were not delivered.
+        </section>
+        <section prefix="d">
+    	     A corporation shall not be required to furnish its annual financial statements to a shareholder if it can demonstrate a proper corporate purpose for withholding information contained in those statements from that shareholder.
+        </section>
+    </text>
+</law>

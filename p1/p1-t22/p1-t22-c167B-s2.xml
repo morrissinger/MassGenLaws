@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Regulations; Advisory Rulings; Reconsideration Of Rulings; Model Clauses</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may prescribe from time to time such regulations as may be necessary or proper in carrying out the purposes of chapter one hundred and sixty-seven B. Such regulations shall be consistent, where applicable, with the regulations promulgated by the board under the electronic fund transfer act 15 USC 1693 et seq. A regulation adopted by the commissioner is not inconsistent with the regulations promulgated by the board if the protection such regulation affords consumers is equal to or greater than the protection afforded by the board’s regulations. If the commissioner adopts regulations similar to the board’s regulations, and the board subsequently amends any provisions of said regulations, the commissioner shall, as soon as practicable after the board’s promulgation of the amendment, commence an amendment process under section two of chapter thirty A to determine if the provisions of this chapter would be supported by the adoption of a similar amendment to the commissioner’s regulations.
+        </section>
+        <section prefix="b">
+    	     The commissioner may issue from time to time advisory rulings under section eight of said chapter thirty A, interpreting any provision of this chapter or the regulations issued hereunder. Each official board interpretation or official staff interpretation that interprets a provision of the regulations promulgated under said Electronic Fund Transfer Act that is similar in substance to a provision of this chapter or the regulations issued hereunder, shall, until rescinded by the board, be deemed by the commissioner to be an advisory ruling issued by the commissioner under said section eight.
+        </section>
+        <section prefix="c">
+    	     The commissioner may issue model clauses, consistent with the model clauses issued by the board, for optional use by financial institutions to facilitate compliance with the disclosure requirements of section eight and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language.
+        </section>
+        <section prefix="d">
+    	     Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers, as in the judgment of the commissioner are necessary or proper to effectuate the purposes of this chapter to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
+        </section>
+        <section prefix="e">
+    	     In the event that electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer’s account, the commissioner shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this chapter are made applicable to such persons and services, and such regulations shall be consistent with the regulations issued by the board, where applicable. A regulation adopted by the commissioner is not inconsistent with the regulations issued by the board if the protection such regulation affords consumers is equal to or greater than the protection afforded by the board’s regulations.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Prohibitions</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     condition the extension of credit to a consumer on such consumer’s repayment by means of preauthorized electronic fund transfers;
+        </section>
+        <section prefix="2">
+    	     require a consumer to accept an electronic fund transfer service or to establish an account for receipt of electronic fund transfers with a financial institution as a condition of employment or receipt of a government benefit; provided, however, that where a consumer’s account is to be credited by a preauthorized electronic fund transfer, the consumer shall have the choice of selecting the financial institution to which the transfer shall be made if such institution is technically capable of receiving such a transfer; or
+        </section>
+        <section prefix="3">
+    	     condition the sale of goods or services to a consumer on such consumer’s payment by means of an electronic fund transfer.
+        </section>
+    </text>
+</law>

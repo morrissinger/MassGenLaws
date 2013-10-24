@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167G" order_by="167G" level="3">Trust Department</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following words as used in this chapter, unless the context otherwise requires, shall have the following meanings: 
+“Bank” or “such bank”, a savings bank, cooperative bank, trust company or limited purpose trust company. 
+“Capital stock”, the sum of the par value of the preferred and common shares of capital stock, issued and outstanding. 
+“Commissioner”, the commissioner of banks. 
+“Officer”, any individual designated as such in accordance with the by-laws including, whether or not so designated, the president, vice-president, treasurer, and the clerk or secretary or any individual who performs the duties appropriate to those offices.
+    </text>
+</law>

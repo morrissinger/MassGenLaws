@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>60I</section_number>
+    <catch_line>Attorney Fees; Limitations On Contingency Fees</catch_line>
+    <order_by>60I</order_by>
+    <text>
+        <section prefix="1">
+    	     Forty per cent of the first one hundred and fifty thousand dollars recovered;
+        </section>
+        <section prefix="2">
+    	     Thirty-three and one-third per cent of the next one hundred and fifty thousand dollars recovered;
+        </section>
+        <section prefix="3">
+    	     Thirty per cent of the next two hundred thousand dollars recovered;
+        </section>
+        <section prefix="4">
+    	     Twenty-five per cent of any amount by which the recovery exceeds five hundred thousand dollars.
+        </section>
+    </text>
+</law>

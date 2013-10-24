@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Instruments; Allocation Of Votes And Expense Liabilities;  Alteration</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     The time-share instrument shall state the amount of or formula used to determine any time-share expense liability allocated to each time-share.
+        </section>
+        <section prefix="b">
+    	     If the time-share instrument provides for voting, it shall allocate votes to each time-share unit and to each time-share estate and may allocate votes to any time-share license. It shall not allocate any votes to any other property or to any person who is not a time-share owner. The number of votes allocated to each time-share shall be equal for all time-shares or proportionate to each time-share’s value as estimated by the developer, time-share expense liability, or unit size. The time-share instrument may specify some matters as to which the votes shall be equal and others as to which they shall be proportionate.
+        </section>
+        <section prefix="c">
+    	     Except as otherwise provided pursuant to clause (5) of subsection (a) of section twelve, the votes and time-share expense liabilities allocated to a time-share shall not be altered without the unanimous consent of all time-share owners entitled to vote and voting at a meeting in which at least eighty per cent of the votes allocated to time-shares are cast or in an initiative or referendum in which at least eighty per cent of said votes are cast.
+        </section>
+        <section prefix="d">
+    	     Except for minor variations due to rounding, the sum of the time-share expense liabilities assigned to all time-shares shall equal one if stated as fractions or one hundred per cent if stated as percentages. In the event of discrepancy between the time-share liabilities or votes allocated to a time-share and the result derived from the application of the formulas, the allocated time-share expense liability or vote prevails.
+        </section>
+    </text>
+</law>

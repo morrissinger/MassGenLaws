@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Natural Increase Considered In Determining Weekly Wages</catch_line>
+    <order_by>51</order_by>
+    <text>
+        Whenever an employee is injured under circumstances entitling him to compensation, if it be established that the injured employee was of such age and experience when injured that, under natural conditions, in the open labor market, his wage would be expected to increase, that fact may be considered in determining his weekly wage. A determination of an employee’s benefits under this section shall not be limited to the circumstances of the employee’s particular employer or industry at the time of injury.
+    </text>
+</law>

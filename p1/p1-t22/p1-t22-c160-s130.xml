@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>130</section_number>
+    <catch_line>Signs Indicating Way Stations</catch_line>
+    <order_by>130</order_by>
+    <text>
+        Every railroad corporation shall indicate to its passengers the name of each way station by placing at or near the station a proper and conspicuous sign or signs, and shall forfeit fifty dollars for each violation of this section.
+    </text>
+</law>

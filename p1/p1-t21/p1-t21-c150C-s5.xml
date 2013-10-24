@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Notice; Effect Of Appearance; Hearings</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The arbitrators shall appoint a time and place for the hearing and cause written notice to the parties to be served personally or by registered mail not less than five days before the hearing. Appearance at the hearing shall constitute waiver of such notice. The arbitrators may adjourn the hearing from time to time and may conduct a hearing and make a ruling on the arbitrability of the controversy prior to receiving evidence on the merits. On request of a party and for good cause, or upon their own motion the arbitrators may postpone the hearing to a time not later than the date fixed by the agreement for making the award unless the parties consent to a later date. The arbitrators may hear and determine the controversy upon the evidence produced, notwithstanding the failure of a party duly notified to appear. The court upon application of either party may direct the arbitrators to proceed promptly with the hearing and determination of the controversy.
+        </section>
+        <section prefix="b">
+    	     The parties shall have the right to be heard, to present evidence material to the controversy and to cross-examine witnesses appearing at the hearing.
+        </section>
+        <section prefix="c">
+    	     The hearing shall be conducted by all the arbitrators, but a majority may determine any question and render a final award. If, during the course of the hearing, an arbitrator for any reason ceases to act, the remaining arbitrator or arbitrators appointed to act as neutrals may continue with the hearing and determination of the controversy.
+        </section>
+    </text>
+</law>

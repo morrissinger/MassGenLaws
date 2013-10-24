@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>54A</section_number>
+    <catch_line>Domestic Companies; Risks And Hazards In Other States   </catch_line>
+    <order_by>54A</order_by>
+    <text>
+        Any domestic company authorized to transact any of the kinds of business specified in the second clause of section forty-seven may, outside the commonwealth, make contracts of insurance insuring property of any kind or description against any and all risks of loss or damage.
+    </text>
+</law>

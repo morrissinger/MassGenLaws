@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>20A</section_number>
+    <catch_line>Change Of Par Value Of Capital Stock</catch_line>
+    <order_by>20A</order_by>
+    <text>
+        Every corporation subject to this chapter may, at a meeting duly called for the purpose, by the vote of a majority of all of its stock or, if two or more classes of stock have been issued, of a majority of each class outstanding and entitled to vote, authorize a change of the par value of the shares of its capital stock in accordance with paragraph (h) of section four or paragraph (i) of section one hundred and thirty-six, or authorize a change of the par value or values of the shares of any class or classes of its capital stock to a par value or values of ten dollars or of five dollars; but such change shall not be effective unless the department shall approve the same on an application of the corporation filed within thirty days after the passage of such vote. The aggregate par value of the outstanding shares shall not be increased by a change in the par value thereof.
+    </text>
+</law>

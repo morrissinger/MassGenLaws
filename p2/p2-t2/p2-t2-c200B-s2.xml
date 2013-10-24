@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Notice To Lender Or Claimant; Contents; Delivery Requirements;  Notice By Publication</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A notice to a lender or claimant under this chapter shall contain:
+        </section>
+        <section prefix="1">
+    	     the lender’s or claimant’s name, if known;
+        </section>
+        <section prefix="2">
+    	     the lender’s or claimant’s address, if known;
+        </section>
+        <section prefix="3">
+    	     a description of the property on loan to the museum;
+        </section>
+        <section prefix="4">
+    	     the date of the loan, if known, or the approximate date the property came into the custody of the museum;
+        </section>
+        <section prefix="5">
+    	     the name of the museum; and
+        </section>
+        <section prefix="6">
+    	     the name, address and telephone number of the appropriate museum official or office to be contacted regarding the property.
+        </section>
+        <section prefix="b">
+    	     A notice mailed to a lender or claimant under this chapter shall be sent by certified mail, return receipt requested, to the lender’s or claimant’s address. Notice shall be deemed to have been provided if the museum receives, within 60 days of mailing the notice to the lender or claimant a return receipt indicating a completed delivery to the lender’s or claimant’s address. The date of a notice provided under this subsection shall be the date of delivery to the lender’s or claimant’s address, as identified in the return receipt.
+        </section>
+        <section prefix="c">
+    	     If notice to a lender or claimant is not given in accordance with subsection (b), or if, after a diligent search of its records, a museum does not know or cannot determine the lender’s or claimant’s identity or address, notice may be given by publication, in which case notice shall be published:
+        </section>
+        <section prefix="1">
+    	     at least once per week for 3 successive weeks in a newspaper of general circulation in the county or municipality in which the museum is located; and
+        </section>
+        <section prefix="2">
+    	     if the museum has in its records the lender’s or claimant’s address, at least once per week for 3 successive weeks in a newspaper of general circulation in the county or municipality in which the lender or claimant is located.
+        </section>
+    </text>
+</law>

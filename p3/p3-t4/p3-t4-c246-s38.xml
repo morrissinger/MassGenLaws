@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Counterclaim By Defendant In Pending Action; Proceedings</catch_line>
+    <order_by>38</order_by>
+    <text>
+        If, while an action is pending, the plaintiff is summoned as trustee of the defendant on account of a counterclaim filed therein, such pending action shall be subject to the three preceding sections in the same manner and with the same effect as if it were an action brought upon such counterclaim by the defendant against the plaintiff.
+    </text>
+</law>

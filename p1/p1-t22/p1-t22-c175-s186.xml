@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>186</section_number>
+    <catch_line>Misrepresentation Or Warranty By Insured; Effect</catch_line>
+    <order_by>186</order_by>
+    <text>
+        <section prefix="a">
+    	     No oral or written misrepresentation or warranty made in the negotiation of a policy of insurance by the insured or in his behalf shall be deemed material or defeat or avoid the policy or prevent its attaching unless such misrepresentation or warranty is made with actual intent to deceive, or unless the matter misrepresented or made a warranty increased the risk of loss.
+        </section>
+        <section prefix="b">
+    	     No oral or written misrepresentation or warranty as to the physical condition or health risks to the physical condition of the insured made in the negotiation of any policy of life or endowment insurance or annuity contract by the insured or on his behalf shall defeat or avoid the policy or prevent its attaching unless such misrepresentation or warranty is material and is made with actual intent to deceive or increased the risk of loss. For the purposes of this paragraph, a misrepresentation or warranty shall be deemed material if knowledge or ignorance of it would otherwise have influenced the insurer in making the contract at all, or in estimating the degree and character of the risk, or in fixing the rate of the premium.
+        </section>
+    </text>
+</law>

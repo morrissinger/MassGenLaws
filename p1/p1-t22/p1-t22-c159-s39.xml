@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Violations; Action By Attorney General</catch_line>
+    <order_by>39</order_by>
+    <text>
+        If in the judgment of the department any common carrier violates or neglects in any respect to comply with the provisions of any law, and after written notice by the department continues such violation or neglect, or neglects to make returns as required by law, or to amend the same when lawfully required so to do, the department shall forthwith present the facts to the attorney general for action.
+    </text>
+</law>

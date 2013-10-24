@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>54A</section_number>
+    <catch_line>Necessity Of Insurance Contract Insuring Payment Of Compensation</catch_line>
+    <order_by>54A</order_by>
+    <text>
+        Every contract or agreement the purpose of which is to insure an employer in whole or in part against liability on account of injury or death of an employee, other than seasonal or casual farm laborers, and seasonal or casual or part-time domestic servants who work in the employ of the employer less than sixteen hours a week for whom insurance under this chapter remains elective, shall be void unless it also insures the payment of the compensation provided for by this chapter. The second paragraph of section fifty-five shall not apply in case of a contract or agreement made void by this section.
+    </text>
+</law>

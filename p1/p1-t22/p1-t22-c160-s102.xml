@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>102</section_number>
+    <catch_line>Level Grade Crossing Of Highway</catch_line>
+    <order_by>102</order_by>
+    <text>
+        If a railroad is laid out across a public way, the county commissioners, or the department of highways in the case of a state highway, upon the application of the railroad corporation, or of the board of aldermen of the city or selectmen of the town where the crossing is situated, after notice to all persons interested and a hearing, may adjudge that public necessity requires the crossing at the same level, and may, if the department also consents in writing to such crossing at the same level, make a decree specially to authorize and require the corporation so to construct its railroad, in such manner as shall be prescribed in the decree, and the commissioners, or the department of public works in the case of a state highway, may modify such decree or may revoke it at any time before the construction of the railroad at such crossing.
+    </text>
+</law>

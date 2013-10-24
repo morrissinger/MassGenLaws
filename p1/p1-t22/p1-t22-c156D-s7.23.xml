@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.23</section_number>
+    <catch_line>Shares Held By Nominees</catch_line>
+    <order_by>7.23</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may establish a procedure by which the beneficial owner of shares that are registered in the name of a nominee will be recognized by the corporation as the shareholder, to the extent provided in the procedure.
+        </section>
+        <section prefix="b">
+    	     The procedure may set forth:
+        </section>
+        <section prefix="1">
+    	     the types of nominees to which it applies;
+        </section>
+        <section prefix="2">
+    	     the rights or privileges that the corporation recognizes in a beneficial owner;
+        </section>
+        <section prefix="3">
+    	     the manner in which the procedure is selected by the nominee;
+        </section>
+        <section prefix="4">
+    	     a requirement for the certification by the nominee of the beneficial holders;
+        </section>
+        <section prefix="5">
+    	     the information that must be provided when the procedure is selected;
+        </section>
+        <section prefix="6">
+    	     the period for which selection of the procedure is effective; and
+        </section>
+        <section prefix="7">
+    	     other aspects of the rights and duties created.
+        </section>
+    </text>
+</law>

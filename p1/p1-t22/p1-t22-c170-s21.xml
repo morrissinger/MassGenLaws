@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Surplus Accounts</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="1">
+    	     Every such corporation shall establish and maintain a surplus account to which all undivided profits and earnings of the corporation shall be transferred. The surplus account shall be used to meet losses, contingencies, and adjustments arising out of or incidental to the operation of the corporation’s business. The directors may authorize payments from the surplus account of amounts sufficient to enable the corporation to distribute dividends and interest to shares and accounts. The aggregate amount of the surplus account required by this section shall not exceed at any time twenty per cent of the deposits of the corporation.
+        </section>
+    </text>
+</law>

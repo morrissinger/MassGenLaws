@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Agreements By Parties</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="1">
+    	     Except as otherwise provided by section seven, any payment of compensation shall be by written agreement by the parties and subject to the approval of the department. Any other questions arising under this chapter may be so settled by agreement. Said agreements shall for all purposes be enforceable in the same manner as an order under section twelve.
+        </section>
+        <section prefix="2">
+    	     Any withdrawal of a complaint for discontinuance of compensation shall be made in writing and filed with the department and the employee. The parties shall be deemed to have agreed to all of the findings contained in a written decision of an arbitrator on a case forwarded to arbitration pursuant to the provisions of section ten. The department shall approve any agreement received on a prescribed form unless such agreement is deemed to be in violation of law. Any agreement not approved shall be returned to the party submitting it. Except as provided by section ten B, a party to any agreement under this chapter may file a complaint with the superior court to vacate or modify such agreement on grounds of law or equity.
+        </section>
+    </text>
+</law>

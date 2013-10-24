@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203C" order_by="203C" level="3">Prudent Investment</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Delegation Of Investment And Management Functions</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     A trustee may delegate investment and management functions if it is prudent to do so. A trustee shall exercise reasonable care, skill and caution in:
+        </section>
+        <section prefix="1">
+    	     selecting an agent;
+        </section>
+        <section prefix="2">
+    	     establishing the scope and terms of the delegation, consistent with the purposes and terms of the trust; and
+        </section>
+        <section prefix="3">
+    	     periodically reviewing the agent’s actions in order to monitor the agent’s performance and compliance with the terms of the delegation.
+        </section>
+        <section prefix="b">
+    	     In performing a delegated function, an agent shall owe a duty to the trust to exercise reasonable care to comply with the terms of the delegation.
+        </section>
+        <section prefix="c">
+    	     A trustee who complies with the requirements of subsection (a) shall not be liable to the beneficiaries or to the trust for the decisions or actions of the agent to whom the function was delegated.
+        </section>
+        <section prefix="d">
+    	     By accepting the delegation of trust functions from the trustee of a trust that is subject to the laws of the commonwealth, an agent submits to the jurisdiction of the courts of the commonwealth.
+        </section>
+    </text>
+</law>

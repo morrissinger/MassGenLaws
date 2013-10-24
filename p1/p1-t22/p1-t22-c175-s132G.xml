@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>132G</section_number>
+    <catch_line>Variable Annuity Contracts; Issuance; Contents; Separate Investment Accounts; Reserve Liability; Approval; Rules And Regulations</catch_line>
+    <order_by>132G</order_by>
+    <text>
+        <section prefix="1">
+    	     The history and financial condition of the company;
+        </section>
+        <section prefix="2">
+    	     The character, responsibility and general fitness of the officers and directors of the company; and
+        </section>
+        <section prefix="3">
+    	     In the case of a company other than a domestic company, whether the regulation provided by its domiciliary jurisdiction provides a degree of protection to policyholders and the public which is substantially equal to that provided by this section and the rules and regulations issued thereunder.
+        </section>
+    </text>
+</law>

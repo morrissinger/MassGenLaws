@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>186B</section_number>
+    <catch_line>Effect Of Lack Of Sworn Statement Of Loss; Laws Applicable</catch_line>
+    <order_by>186B</order_by>
+    <text>
+        The provisions of section one hundred and two, relative to certain rights of an insured who has failed to render a sworn statement of loss, shall apply in case of claims for loss or damage from any hazard insured against under any policy of insurance issued in the commonwealth.
+    </text>
+</law>

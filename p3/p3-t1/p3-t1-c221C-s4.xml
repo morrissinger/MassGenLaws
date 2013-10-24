@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221C" order_by="221C" level="3">Court Interpreters For The Trial Court</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Oath; Verification Of Testimony; Privileged Communications</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Before beginning to interpret in any proceeding an interpreter shall swear or affirm that he will make true and impartial interpretation using his best skill and judgment in accordance with the standards prescribed by law and the ethics of the interpreter profession.
+        </section>
+        <section prefix="b">
+    	     In any proceeding, the judge may order all of the testimony of a non-English speaker and its interpretation to be electronically recorded for use in audio or visual verification of the official transcript of the proceedings.
+        </section>
+        <section prefix="c">
+    	     Disclosures made out of court by communications of a non-English speaker through an interpreter to another person shall be a privileged communication and said interpreter shall not disclose such communication without permission of said non-English speaker; provided, however, that such non-English speaker had a reasonable expectation or intent that such communication would not be so disclosed.
+        </section>
+    </text>
+</law>

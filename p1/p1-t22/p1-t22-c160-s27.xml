@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Limit Upon Time To Construct Railroad</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If a corporation does not begin the construction of its railroad and expend thereon at least ten per cent of the amount of its original capital stock within two years after the date of its certificate of incorporation, and does not complete and open its railroad for use within four years after said date, its corporate powers and existence shall cease.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Powers Of Land Court</catch_line>
+    <order_by>25</order_by>
+    <text>
+        In all matters within its jurisdiction, the court shall have all the powers which the superior court has including power to grant injunctions and restraining orders in accordance with the Massachusetts Rules of Civil Procedure as justice and equity may require, except that it shall hold no trials by jury.
+    </text>
+</law>

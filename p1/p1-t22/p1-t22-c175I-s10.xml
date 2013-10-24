@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Adverse Underwriting Decision; Notice; Reasons; Disclosure Of Medical Or Mental Health Record Information; Summary Of Rights</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     In the event of an adverse underwriting decision, the insurance institution or insurance representative responsible for the decision shall:
+        </section>
+        <section prefix="1">
+    	     either provide the applicant, policyholder or individual proposed for coverage with the specific reason for the adverse underwriting decision in writing or advise such person that upon written request such person may receive the specific reason in writing; and
+        </section>
+        <section prefix="2">
+    	     provide the applicant, policyholder or individual proposed for coverage with a summary of the rights established under subsection (b) and sections eight and nine.
+        </section>
+        <section prefix="b">
+    	     Upon receipt of a written request within ninety business days from the date of the mailing of notice or other communication of an adverse underwriting decision to an applicant, policyholder or individual proposed for coverage, the insurance institution or insurance representative shall furnish to such person within twenty-one business days from the date of receipt of such written request:
+        </section>
+        <section prefix="1">
+    	     the specific reason for the adverse underwriting decision, in writing, if such information was not initially furnished in writing pursuant to paragraph (1) of subsection (a); and
+        </section>
+        <section prefix="2">
+    	     the specific items of personal and privileged information that support such reason; provided, however, that:
+        </section>
+        <section prefix="i">
+    	     the insurance institution or insurance representative shall not be required to furnish specific items of privileged information if it has a reasonable suspicion, based upon specific information available for review by the commissioner, that the applicant, policyholder or individual proposed for coverage has engaged in criminal activity, fraud, or material misrepresentation; and
+        </section>
+        <section prefix="ii">
+    	     specific items of medical record information supplied by a medical care institution or medical professional shall be disclosed either directly to the individual about whom the information relates or to a medical professional designated by such individual and licensed to provide medical care with respect to the condition to which the information relates, whichever such individual prefers. Mental health record information shall be supplied directly to such individual, pursuant to this subsection, only with the approval of the qualified professional person with treatment responsibility for the condition to which the information relates or of another equally qualified mental health professional. Upon release of any medical or mental health record information to a medical professional designated by such individual, the insurance institution, insurance representative or insurance-support organization shall notify such individual, at the time of the disclosure, that it has provided the information to the medical professional; and
+        </section>
+        <section prefix="3">
+    	     the name and address of the source that supplied the specific items of information pursuant to paragraph (2) of subsection (b); except that a source that is a natural person acting in a personal capacity need not be revealed if confidentiality was specifically promised; provided, however, that the identity of any medical professional or medical-care institution shall be disclosed either directly to the individual or to the designated medical professional other than the one who initially supplied the information, whichever such individual prefers.
+        </section>
+        <section prefix="c">
+    	     The obligations imposed by this section upon an insurance institution or insurance representative may be satisfied by another insurance institution or insurance representative authorized to act on its behalf.
+        </section>
+        <section prefix="d">
+    	     When an adverse underwriting decision results solely from an oral request or inquiry, the explanation of reasons and summary of rights required by subsection (a) may be given orally.
+        </section>
+    </text>
+</law>

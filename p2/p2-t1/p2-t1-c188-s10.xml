@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="188" order_by="188" level="3">Homesteads</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Termination Of Estate Of Homestead</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     An estate of homestead created under section 3 or 4 may be terminated by any of the following methods:
+        </section>
+        <section prefix="1">
+    	     a deed to a non-family member conveying the home, signed by the owner and a non-owner spouse or former spouse residing in the home as a principal residence as of the date of the deed;
+        </section>
+        <section prefix="2">
+    	     a recorded release of the estate of homestead, duly signed and acknowledged by the owner and a non-owner spouse or former spouse residing in the home as a principal residence as of the date of the release;
+        </section>
+        <section prefix="3">
+    	     the abandonment of the home as the principal residence by the owner, the owner’s spouse, former spouse or minor children, except that such abandonment shall terminate only the rights of the persons who have abandoned the home; provided, however, that no person in military service as defined in 50 U.S.C. appendix, section 511 shall be deemed to have abandoned the home due to such military service;
+        </section>
+        <section prefix="4">
+    	     in the case of a home the title to which is held in trust, by either: (i) the execution of a deed or a release of homestead by the trustee; or (ii) action of a beneficial owner identified in the declaration, who is not a minor child, taken in the same manner as provided in clauses (2) and (3); or
+        </section>
+        <section prefix="5">
+    	     the subsequent recorded declaration of an estate of homestead under section 3 on other property, except that such declaration shall terminate only the rights of the owner making such subsequent declaration and the rights of that owner’s spouse and minor children who reside or intend to reside in the other property as their principal residence.
+        </section>
+        <section prefix="b">
+    	     No deed between spouses or former spouses or co-owners who individually or jointly hold an estate of homestead under section 3 or 4 and no deed between a trustee and a trust beneficiary or between a life tenant and a remainderman shall terminate the homestead unless each co-owner, spouse, former spouse or trust beneficiary entitled to the benefit of the homestead has executed an express release thereof pursuant to clause (2) or clause (4) of subsection (a).
+        </section>
+        <section prefix="c">
+    	     If a subsequent declaration on other property which terminates a homestead under clause (5) of subsection (a) is later invalidated, the prior declaration shall not be reinstated; provided, however, that the owner shall have the benefit of the provisions of section 4.
+        </section>
+        <section prefix="d">
+    	     Except for the subordination provided in section 9, nothing contained in a mortgage or any document executed in connection therewith shall terminate or otherwise affect a homestead estate.
+        </section>
+        <section prefix="e">
+    	     A deed reserving an estate of homestead shall convey, according to its terms, any title or interest in the property beyond the estate of homestead.
+        </section>
+    </text>
+</law>

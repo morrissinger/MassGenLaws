@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Amendment Of Articles Of Organization; Changes In Capital Stock Or Corporate Name</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     a change of the par value of the shares of its capital stock in accordance with clause (5) of paragraph (a) of section six, provided the aggregate par value of the outstanding shares shall not be increased by any such change, and provided further that such change shall not be effective unless the department shall approve the same on an application of the corporation filed within thirty days after the passage of the vote authorizing such change;
+        </section>
+        <section prefix="b">
+    	     an increase of its capital stock of any class then authorized, or a reduction of any such class of stock; and
+        </section>
+        <section prefix="c">
+    	     change of its corporate name.
+        </section>
+    </text>
+</law>

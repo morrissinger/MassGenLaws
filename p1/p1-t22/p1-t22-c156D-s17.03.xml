@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>17.03</section_number>
+    <catch_line>Saving Provisions</catch_line>
+    <order_by>17.03</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b), the repeal of chapter 181 shall not affect:
+        </section>
+        <section prefix="1">
+    	     the operation of said chapter 181 or any action taken under it before its repeal;
+        </section>
+        <section prefix="2">
+    	     any ratification, right, remedy, privilege, obligation, or liability acquired, accrued, or incurred under said chapter 181 before its repeal;
+        </section>
+        <section prefix="3">
+    	     any violation of said chapter 181, or any penalty, forfeiture, or punishment incurred because of the violation, before its repeal; or
+        </section>
+        <section prefix="4">
+    	     any proceeding commenced under said chapter 181 before its repeal, and the proceeding may be completed in accordance with said chapter 181 as if it had not been repealed.
+        </section>
+        <section prefix="b">
+    	     If a penalty or punishment imposed for a violation of said chapter 181 is reduced by chapter 156D, the penalty or punishment if not already imposed shall be imposed in accordance with this chapter.
+        </section>
+    </text>
+</law>

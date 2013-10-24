@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>46D</section_number>
+    <catch_line>Domestic And Foreign Corporations; Method; Liability Of Directors</catch_line>
+    <order_by>46D</order_by>
+    <text>
+        <section prefix="a">
+    	     If the consolidated corporation is to be a domestic corporation:
+        </section>
+        <section prefix="b">
+    	     If the consolidated corporation is to be incorporated under the laws of another state:
+        </section>
+    </text>
+</law>

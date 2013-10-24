@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176K" order_by="176K" level="3">Medicare Supplement Insurance Plans</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Discrimination; Open Enrollment Period; Health Maintenance Organizations; Waiver</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     No carrier participating in the market shall, at any time, deny or condition the issuance of any policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract available for sale in the commonwealth, nor discriminate in the pricing of such a plan, to any eligible person because of the age, health status, claims experience, receipt of health care, medical condition of the eligible person, or any other factor which the commissioner may specify by regulation.
+        </section>
+        <section prefix="b">
+    	     No policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract may contain any waiting period or pre-existing condition limitation or exclusion.
+        </section>
+        <section prefix="c">
+    	     No carrier participating in the market shall deny or condition the issuance of any policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract available for sale in the commonwealth, nor discriminate in the pricing of such a policy, to an eligible person when an application for such a policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract is submitted during the six month period beginning at the time the eligible person became initially eligible for coverage.
+        </section>
+        <section prefix="d">
+    	     Every carrier that participates in the market shall make available during the required open enrollment to every eligible person all policies for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract which that carrier is authorized to issue pursuant to sections four and five of this chapter. The required open enrollment period for eligible persons shall commence on February first and end on March thirty-first of each year, for coverage to be effective June first of that year or no later than Medicare coverage is first effective, whichever is earlier.
+        </section>
+        <section prefix="e">
+    	     A carrier may offer, sell, issue, deliver, or otherwise make effective or renew a policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract to an eligible person at any other time of the year, provided said carrier complies with the requirements of this chapter.
+        </section>
+        <section prefix="f">
+    	     A health maintenance organization shall not be required to accept applications from or offer coverage to an eligible person if: (i) the eligible person does not reside in the health maintenance organization’s approved service area; or (ii) within said area, the health maintenance organization demonstrates to the satisfaction of the commissioner that it will not, within said area, have the capacity in its network of providers to deliver services adequately to new eligible persons because of obligations to existing enrollees; provided that a health maintenance organization that makes such a demonstration to the satisfaction of the commissioner may not offer coverage in such applicable area to any other new enrollees or groups until the later of ninety days after each such refusal or the date on which the carrier notifies the commissioner that it has regained capacity to deliver services to eligible persons for policy for medicare supplement insurance or medicare select insurance or a policy issued pursuant to a risk or cost contract coverage.
+        </section>
+        <section prefix="g">
+    	     Any carrier shall make available all its policies for medicare supplement insurance or medicare select insurance or policies issued pursuant to a risk or cost contract to any eligible person of the commonwealth whose coverage under a policy issued pursuant to a risk or cost contract has been canceled because the health maintenance organization’s contract with Medicare has been terminated. Such coverage shall comply with all provisions of this chapter, and shall become effective on the date that coverage under the risk or cost contract ends.
+        </section>
+        <section prefix="h">
+    	     The commissioner may by regulation waive provisions of this section for policies for medicare supplement insurance or medicare select insurance or policies issued pursuant to a risk or cost contract issued in the commonwealth prior to the effective date of OBRA 90, or such other date as the commissioner may specify by regulation in order to comply with the provisions of OBRA 90, or with the provisions of law governing contracts; provided that not less than forty-five days prior to the proposed promulgation of said waiver, the commissioner shall file with the clerk of the house of representatives and the clerk of the senate documentation explaining the reasons why said waiver is necessary, including, if applicable, the basis for any refusal by the health care finance administration to not renew or permit modifications to the federal waiver granted pursuant to the provisions of OBRA 90 or, the reasons why such waiver is necessary to comply with contract law.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>85V</section_number>
+    <catch_line>Sports Program Volunteers’ Liability; Definitions</catch_line>
+    <order_by>85V</order_by>
+    <text>
+        <section prefix="i">
+    	     acts or failures to act which are committed in the course of activities primarily commercial in nature even though carried on to obtain revenue for maintaining the sports program or revenue used for other charitable purposes.
+        </section>
+        <section prefix="ii">
+    	     any acts or failures to act relating to the transportation of participants in a sports program or others to or from a game, event or practice.
+        </section>
+        <section prefix="iii">
+    	     acts or failures to act relating to the care and maintenance of real estate which such persons or nonprofit associations own, possess or control and which is used in connection with a sports program and or any other nonprofit association activity.
+        </section>
+    </text>
+</law>

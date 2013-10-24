@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Claims, Reports, Notices And Returns, In General; Notice Of Claimant’S Failure To Report For Work</catch_line>
+    <order_by>38</order_by>
+    <text>
+        <section prefix="a">
+    	     Benefit claims shall be filed at the employment office at which the claimant has registered as unemployed. The commissioner shall prescribe the form, the time, and the manner in which such claims, other than disputed claims, shall be filed. The commissioner shall also prescribe the form and manner in which reports on claims required from the claimant and from the employing units shall be presented, and the conduct of hearings, other than those on appeals. Such procedure shall be designed to ascertain the substantive rights of the parties involved, without regard to common law or statutory rules of evidence and other technical rules of procedure.
+        </section>
+        <section prefix="b">
+    	     Notice of a claim so filed shall be given promptly by the commissioner or his authorized representative to the most recent employing unit of the claimant and to such other employing units as the commissioner may prescribe. If such employing unit has reason to believe there has been misrepresentation or has other reasons which might affect the allowance of said claim, or has been requested by the commissioner to furnish any other pertinent information relating to said claim, it or he shall return the said notice to the indicated employment office with the reasons or information stated thereon within eight days after receipt, but in no case more than ten days after mailing of said notice, in accordance with the procedure prescribed by the commissioner. Failure without good cause to return said notice and information within the time provided in this section or prescribed by the commissioner shall bar the employing unit from being a party to further proceedings relating to the allowance of the claim, and failure knowingly to return it within such time shall subject the employing unit to the penalties provided in section forty-seven. For the purposes of this subsection, it shall be deemed that said notice has been returned as of the date indicated by the postal cancellation stamp thereon.
+        </section>
+        <section prefix="c">
+    	     If, after receiving a notice of claim filed, the employing unit recalls a claimant to work, and such claimant fails to report for such work the employing unit shall within five days of the date of such recall notify the employment office from which such notice was received. Such notice shall be in writing, and shall identify the claimant and the date on which such work was available for him. Failure knowingly to give such notice and information within the time provided in this section shall subject the employing unit to the penalties provided in section forty-seven.
+        </section>
+    </text>
+</law>

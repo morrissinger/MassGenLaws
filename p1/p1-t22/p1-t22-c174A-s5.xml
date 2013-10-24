@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174A" order_by="174A" level="3">Regulation Of Rates For Fire, Marine And Inland Marine Insurance, And Rating Organizations</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Rates; General Provisions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Rates shall be made in accordance with the following provisions:—
+        </section>
+        <section prefix="b">
+    	     Except to the extent necessary to meet the provisions of subdivision 2 of subsection (a) of this section, uniformity among insurers in any matters within the scope of this section is neither required nor prohibited.
+        </section>
+        <section prefix="c">
+    	     Rates made in accordance with this section may be used subject to this chapter.
+        </section>
+        <section prefix="d">
+    	     Nothing in this chapter shall abridge or restrict the freedom of contract between insurers and agents or brokers with respect to commissions or between insurers and their employees with respect to compensation.
+        </section>
+        <section prefix="e">
+    	     Two or more insurers who by virtue of their business associations in the United States represent themselves to be or are customarily known as an “insurance company group”, or similar insurance trade designation, shall have the right to make the same filings or to use the same rates for each such insurer subject to subdivisions 1, 2 and 3 of subsection (a) of this section; and nothing contained in this chapter shall be construed to prohibit an agreement to make the same filings or use the same rates and concerted action in connection with such filings or rates by such insurers. This subsection shall not apply to two or more insurers who are not under the same common executive or general management or control and who act in concert in underwriting groups or pools.
+        </section>
+    </text>
+</law>

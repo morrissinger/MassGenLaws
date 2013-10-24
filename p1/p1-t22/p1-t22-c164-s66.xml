@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Application Of Chapter And By Laws Of Town To Plant Authorized By Special Act</catch_line>
+    <order_by>66</order_by>
+    <text>
+        This chapter, and all ordinances or by-laws of any town acting under its provisions relative to the manufacture, use or distribution of gas or electricity, or to the quality thereof, or to the plant or the appliances therefor, shall apply to such town, so far as applicable.
+    </text>
+</law>

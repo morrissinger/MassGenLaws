@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151B" order_by="151B" level="3">Unlawful Discrimination Because Of Race, Color, Religious Creed, National Origin, Ancestry Or Sex</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Complaints; Procedure; Limitations; Bar To Proceeding; Award Of Damages</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     in an amount not to exceed $10,000 if the respondent has not been adjudged to have committed any prior discriminatory practice;
+        </section>
+        <section prefix="b">
+    	     in an amount not to exceed $25,000 if the respondent has-been adjudged to have committed one other discriminatory practice during the 5-year period ending on the date of the filing of the complaint; and
+        </section>
+        <section prefix="c">
+    	     in an amount not to exceed $50,000 if the respondent has been adjudged to have committed 2 or more discriminatory practices during the 7-year period ending on the date of the filing of the complaint. Notwithstanding the aforesaid provisions, if the acts constituting the discriminatory practice that is the object of the complaint are committed by the same natural person who has been previously adjudged to have committed acts constituting a discriminatory practice, then the civil penalties set forth in clauses (b) and (c) may be imposed without regard to the period of time within which any subsequent discriminatory practice occurred.
+        </section>
+    </text>
+</law>

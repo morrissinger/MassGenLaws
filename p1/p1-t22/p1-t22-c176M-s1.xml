@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176M" order_by="176M" level="3">Nongroup Health Insurance</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     a group health plan;
+        </section>
+        <section prefix="b">
+    	     a health plan, including, but not limited to, a health plan issued, renewed or delivered within or without the commonwealth to a natural person who is enrolled in a qualifying student health insurance program pursuant to section 18 of chapter 15A or a qualifying student health program of another state;
+        </section>
+        <section prefix="c">
+    	     Part A or Part B of Title XVIII of the Social Security Act;
+        </section>
+        <section prefix="d">
+    	     Title XIX of the Social Security Act, other than coverage consisting solely of benefits under section 1928;
+        </section>
+        <section prefix="e">
+    	     10 U.S.C. chapter 55;
+        </section>
+        <section prefix="f">
+    	     a medical care program of the Indian Health Service or of a tribal organization;
+        </section>
+        <section prefix="g">
+    	     a state health benefits risk pool;
+        </section>
+        <section prefix="h">
+    	     a health plan offered under 5 U.S.C. chapter 89;
+        </section>
+        <section prefix="i">
+    	     a public health plan as defined in federal regulations authorized by the Public Health Service Act, section 2701(c)(1)(I), as amended by P.L. 104-191; or
+        </section>
+        <section prefix="j">
+    	     a health benefit plan under the Peace Corps Act, 22 U.S.C. 2504(e).
+        </section>
+        <section prefix="1">
+    	     in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or (2) in connection with a group health plan maintained by a self-employed individual, under which one or more employees are participants, the self-employed individual; if such individual is, or may become, eligible to receive a benefit under the plan or such individual’s beneficiaries may be eligible to receive any such benefit.
+        </section>
+    </text>
+</law>

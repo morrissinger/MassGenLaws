@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.32</section_number>
+    <catch_line>Receivership Or Custodianship</catch_line>
+    <order_by>14.32</order_by>
+    <text>
+        <section prefix="a">
+    	     A court in a judicial proceeding brought to dissolve a corporation may appoint 1 or more receivers to wind up and liquidate, or one or more custodians to manage, the business and affairs of the corporation. The court shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a receiver or custodian. The court appointing a receiver or custodian has exclusive jurisdiction over the corporation and all of its property wherever located.
+        </section>
+        <section prefix="b">
+    	     The court may appoint an individual or a domestic or foreign corporation, authorized to transact business in the commonwealth, as a receiver or custodian. The court may require the receiver or custodian to post bond, with or without sureties, in an amount the court directs.
+        </section>
+        <section prefix="c">
+    	     The court shall describe the powers and duties of the receiver or custodian in its appointing order, which may be amended from time to time. Among other powers:
+        </section>
+        <section prefix="1">
+    	     the receiver (i) may dispose of all or any part of the assets of the corporation wherever located, at a public or private sale, if authorized by the court; and (ii) may sue and defend in his own name as receiver of the corporation in all courts of the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the custodian may exercise all of the powers of the corporation, through or in place of its board of directors or officers, to the extent necessary to manage the affairs of the corporation in the best interests of its shareholders and creditors.
+        </section>
+        <section prefix="d">
+    	     The court during a receivership may redesignate the receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if doing so is in the best interests of the corporation, its shareholders, and creditors.
+        </section>
+        <section prefix="e">
+    	     The court from time to time during the receivership or custodianship may order compensation paid and expense disbursements or reimbursements made to the receiver or custodian and his counsel from the assets of the corporation or proceeds from the sale of the assets.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.11</section_number>
+    <catch_line>False Reports Or Statements</catch_line>
+    <order_by>15.11</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer of a foreign corporation who signs any statement or report required by this chapter which is false in any material representation and that he knows or has reason to know to be false shall be liable to a creditor of the foreign corporation who has relied upon the false representation to the extent of the actual damage sustained by him by reason of such reliance; but the officer signing the statement or report shall not be liable to creditors for debts contracted or contracts entered into after the filing of a statement or report or a corrected statement or report that is not false in any material representation.
+        </section>
+        <section prefix="b">
+    	     No liability shall be imposed under this section upon any director or officer who shall have discharged the duties of his position in good faith and with the degree of diligence, care and skill that prudent men would ordinarily exercise under similar circumstances in a like position. In discharging his duties the person, when acting in good faith shall be entitled to rely upon the books of account of the foreign corporation or upon written reports made to the foreign corporation by any of its officers, other than such person, or by an independent public accountant.
+        </section>
+        <section prefix="c">
+    	     Any director or officer who pays on a judgment rendered on a claim asserted under this section shall be entitled to contribution from the other directors and officers against whom judgment has been entered on the same claim or who shall be ascertained to be liable to the plaintiff upon the same claim.
+        </section>
+        <section prefix="d">
+    	     Whoever knowingly makes, executes, delivers or publishes any report or statement required by law to be made, executed, filed or published by a foreign corporation in the commonwealth, or whoever causes the same to be done, which report or statement is false in any material representation, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than 3 years, or both.
+        </section>
+        <section prefix="e">
+    	     Whoever knowingly makes, executes, delivers or publishes any report or statement required by the law of another state or country to be made, executed, or published by a foreign corporation, or whoever causes the same to be done, within the commonwealth, which report or statement is false in any material representation, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than 3 years, or both.
+        </section>
+    </text>
+</law>

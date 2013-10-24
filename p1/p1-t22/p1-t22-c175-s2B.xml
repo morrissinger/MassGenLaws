@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>Readability Of Policy Form; Definition; Approval; Actions Based On Language</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        <section prefix="a">
+    	     The text achieves a minimum Flesch scale readability score of fifty;
+        </section>
+        <section prefix="b">
+    	     It is printed, except for tables, in not less than ten point type, one point leaded.
+        </section>
+        <section prefix="c">
+    	     The style, arrangement and overall appearance of the policy give no undue prominence to any portion of the text of the policy and any endorsements or riders;
+        </section>
+        <section prefix="d">
+    	     It contains a table of contents or an alphabetical subject index;
+        </section>
+        <section prefix="e">
+    	     The width of margins and ink to paper contrast do not unreasonably interfere with the readability of the form; and
+        </section>
+        <section prefix="f">
+    	     The organization of the content of the policy and the summary of the policy is conducive to understandability of the form.
+        </section>
+        <section prefix="1">
+    	     For policy forms containing ten thousand words or less of text, the entire form shall be analyzed. For policy forms containing more than ten thousand words, the readability of two two hundred word samples per page may be analyzed in lieu of the entire form. The samples shall be separated by at least twenty printed lines.
+        </section>
+        <section prefix="2">
+    	     (a) (i) The number of words and sentences in the text shall be counted and the total number of words divided by the total number of sentences. The figure obtained shall be multiplied by a factor of 1.015.
+        </section>
+        <section prefix="ii">
+    	     The total number of syllables shall be counted and divided by the total number of words. The figure obtained shall be multiplied by a factor of 84.6.
+        </section>
+        <section prefix="iii">
+    	     The sum of the figures computed under subclause (i) and subclause (ii) subtracted from 206.835 equals the Flesch scale readability score for the policy form.
+        </section>
+        <section prefix="b">
+    	     For the purposes of clause (a) the following procedures shall be used:
+        </section>
+        <section prefix="i">
+    	     A contraction, hyphenated word, or numbers and letters, when separated by spaces, shall be counted as one word;
+        </section>
+        <section prefix="ii">
+    	     A unit of words ending with a period, semicolon, or colon, but excluding headings and captions shall be counted as a sentence; and
+        </section>
+        <section prefix="iii">
+    	     A syllable means a unit of spoken language consisting of one or more letters of a word as divided by an accepted dictionary. Where the dictionary shows two or more equally acceptable pronunciations of a word, the pronunciation containing fewer syllables may be used.
+        </section>
+    </text>
+</law>

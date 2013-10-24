@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>174G</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>174G</order_by>
+    <text>
+        <section prefix="a">
+    	     All risk retention groups as defined in the Superfund Amendments Reauthorization Act of 1986 (Public Law No. 99-499, 100 Stat 1613), and the Risk Retention Act (15 USC Section 3901 et seq.) and chapter one hundred and seventy-six I;
+        </section>
+        <section prefix="b">
+    	     All residual market pools and joint underwriting authorities or associations; and
+        </section>
+        <section prefix="c">
+    	     All captive insurers, for the purposes of these sections one hundred and seventy-four F to one hundred and seventy-four K, inclusive, captive insurers are insurance companies owned by another organization whose exclusive purpose is to insure risks of the parent organization and affiliated companies or, in the case of groups and associations, insurance organizations, owned by the insureds, whose exclusive purpose is to insure risks to member organizations and group members and their affiliates.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Audit Of Accounts</catch_line>
+    <order_by>21</order_by>
+    <text>
+        The full court, sitting for the commonwealth, shall examine and audit all accounts for services and expenses incident to said court, and they shall be paid by the commonwealth.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234" order_by="234" level="3">Juries</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Meetings For Drawing Jurors</catch_line>
+    <order_by>23</order_by>
+    <text>
+        The meeting for drawing jurors shall, unless the court otherwise orders when issuing venires for additional jurors under section twelve, be not less than twenty days before the day when the jurors are required to attend.
+    </text>
+</law>

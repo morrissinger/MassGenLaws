@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Personal Appearance Before Court; Expenses</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The court may order any party to the proceeding who is in the commonwealth to appear personally before the court. If that party has physical custody of the child the court may order that he or she appear personally with the child.
+        </section>
+        <section prefix="b">
+    	     If a party to the proceeding whose presence is desired by the court is outside the commonwealth with or without the child, the court may order that the notice given under section five include a statement directing the party to appear personally with or without the child and declaring that failure to appear may result in a decision adverse to that party.
+        </section>
+        <section prefix="c">
+    	     If a party to the proceeding who is outside the commonwealth is directed to appear under paragraph (b) or desires to appear personally before the court with or without the child, the court may require another party to pay to the clerk or register of the court travel and other necessary expenses of the party so appearing and of the child if this is just and proper under the circumstances.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>231</section_number>
+    <catch_line>Gross Negligence Of Person In Control Of Train; Penalty</catch_line>
+    <order_by>231</order_by>
+    <text>
+        Whoever, having the management or control of a railroad train while being used for the common carriage of persons, is guilty of gross negligence in or in relation to the management or control thereof, shall be punished by a fine of not more than five thousand dollars or by imprisonment for not more than three years.
+    </text>
+</law>

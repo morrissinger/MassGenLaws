@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.35</section_number>
+    <catch_line>Abandonment Of A Nonprofit Conversion</catch_line>
+    <order_by>9.35</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless otherwise provided in a plan of nonprofit conversion of a domestic business corporation, after the plan has been adopted and approved as required by this chapter, and at any time before the nonprofit conversion has become effective, it may be abandoned by the board of directors without action by the shareholders.
+        </section>
+        <section prefix="b">
+    	     If a nonprofit conversion is abandoned under subsection (a) after articles of nonprofit conversion or articles of charter surrender have been filed with the secretary of state but before the nonprofit conversion has become effective, a statement that the nonprofit conversion has been abandoned in accordance with this section, executed by an officer or other duly authorized representative, shall be delivered to the secretary of state for filing before the effective date of the nonprofit conversion. The statement shall take effect upon filing and the nonprofit conversion shall be deemed abandoned and shall not become effective.
+        </section>
+    </text>
+</law>

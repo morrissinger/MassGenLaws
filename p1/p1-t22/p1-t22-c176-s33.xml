@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Injunction Against Transaction Of Business; Grounds; Procedure</catch_line>
+    <order_by>33</order_by>
+    <text>
+        <section prefix="a">
+    	     Has exceeded its powers;
+        </section>
+        <section prefix="b">
+    	     Has failed to comply with any provision of this chapter;
+        </section>
+        <section prefix="c">
+    	     Is not fulfilling its contracts in good faith;
+        </section>
+        <section prefix="d">
+    	     Has a membership of less than four hundred after an existence of one year or more; or
+        </section>
+        <section prefix="e">
+    	     Is conducting business fraudulently or in a manner hazardous to its members, creditors, the public or the business, he shall notify the society of his findings, state in writing the reasons for his dissatisfaction, and require the society to show cause before him, at a time and place named, why he should not take action to have the society enjoined from carrying on any business until the violation complained of shall have been corrected, or to have any other appropriate action commenced in court, as provided in the next paragraph.
+        </section>
+        <section prefix="a">
+    	     The commissioner finds that the violation complained of has been corrected;
+        </section>
+        <section prefix="b">
+    	     The cost of such action shall have been paid by the society if the court finds that the society was in default as charged;
+        </section>
+        <section prefix="c">
+    	     The court has dissolved its injunction; and
+        </section>
+        <section prefix="d">
+    	     The commissioner has reinstated the certificate of authority.
+        </section>
+    </text>
+</law>

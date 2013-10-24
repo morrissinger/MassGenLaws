@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="267" order_by="267" level="3">Forgery And Crimes Against The Currency</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Bank Notes Or Bills For A Fraction Of A Dollar</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Whoever receives or puts in circulation as currency a bank note or bill which is, or a part of which is, for any fractional part of a dollar shall be punished by a fine of twenty-five dollars.
+    </text>
+</law>

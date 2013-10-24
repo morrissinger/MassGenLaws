@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176H" order_by="176H" level="3">Legal Services Plans</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        In this chapter the following words shall have the following meanings:— 
+“Attorney”, an attorney at law who is a member of the bar of the commonwealth or any other state. 
+“Commissioner”, the commissioner of insurance. 
+“Covered dependents”, dependents of an insured for whom benefits for covered legal services are provided under an insured legal services plan, or dependents of a member for whom covered legal services are provided under a membership legal services plan. 
+“Covered legal services”, legal services for which benefits are provided under an insured legal services plan or which are provided under a membership legal services plan. 
+“Insurance certificate”, a contract entered into between an insurer and an insured under an insured legal services plan, or a statement of legal services provided by an insurer to an insured under a group insurance policy. 
+“Insured”, a person to whom an insurance certificate has been issued. 
+“Insured legal services plan”, a plan whereby benefits for legal services are provided to insureds and their covered dependents in accordance with the provisions of this chapter. 
+“Insurer”, a corporation which underwrites a legal services plan. 
+“Member”, a person to whom a membership certificate has been issued. 
+“Membership certificate”, a contract entered into between a sponsor and a member under a membership legal services plan. 
+“Membership legal services plan”, a plan whereby legal services are provided to members and their covered dependents in accordance with the provisions of this chapter. 
+“Participating attorney”, an attorney who agrees in writing with an insurer to provide legal services to an insured or insureds in accordance with the provisions of an insurance certificate under an insured legal services plan, or an attorney who agrees in writing with a sponsor to provide legal services to a member or members in accordance with the provisions of a membership certificate under a membership legal services plan. 
+“Sponsor”, any person, group of persons, or entity which establishes and operates a legal services plan in accordance with the provisions of this chapter.
+    </text>
+</law>

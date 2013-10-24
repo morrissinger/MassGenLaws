@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Remedies; Liberal Administration; Damages; Judicial Enforcement</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     The remedies provided by this chapter shall be liberally administered to the end that the aggrieved party is put in as good a position as if the other party had fully performed. However, consequential, special, or punitive damages may not be awarded except as specifically provided in this chapter or by other rule of law.
+        </section>
+        <section prefix="b">
+    	     Any right or obligation established by this chapter shall be enforceable by judicial proceeding.
+        </section>
+    </text>
+</law>

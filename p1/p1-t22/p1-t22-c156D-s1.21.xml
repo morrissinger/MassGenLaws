@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.21</section_number>
+    <catch_line>Forms</catch_line>
+    <order_by>1.21</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary of state may prescribe and furnish on request forms for any documents to be filed under this chapter. If the secretary of state so requires, use of these forms is mandatory.
+        </section>
+        <section prefix="b">
+    	     The secretary of state may accept for filing a document that contains the information required by this chapter but that does not conform to a prescribed form, whether or not use of the form is mandatory.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Claims For Benefits; Complaints Requesting Modification Or Discontinuation Of Benefits; Conciliation</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     Any claim for benefits shall be filed with the division of administration and the insurer on a form prescribed by the division, and shall specifically state the benefits claimed to be due and unpaid. No claim for weekly compensation shall be accepted by the department unless it is either accompanied by a copy of an insurer’s notification of denial pursuant to section seven, or at least thirty days have passed from the alleged onset of disability.
+        </section>
+        <section prefix="2">
+    	     Any claim or complaint shall be referred to the industrial accident board within fifteen business days of its receipt by the division of administration unless:
+        </section>
+        <section prefix="a">
+    	     the moving party fails to appear on request of the conciliation unit or provide requested information;
+        </section>
+        <section prefix="b">
+    	     a conciliator authorizes an extension of the conciliation period, attaching the reasons therefor to the case file, or
+        </section>
+        <section prefix="c">
+    	     the conciliator receives an agreement signed by the parties, on a form prescribed by the department, indicating that they will abide by the findings of an independent arbitrator chosen by such parties to make findings as to compensation pursuant to section ten B. Any conciliator, within their departmental capacity, may also be chosen by the parties to serve as the arbitrator. Said agreement may specify that any subsequent claim or complaint regarding the instant injury shall, after having been filed with the department, and, provided that such subsequent claim or complaint has not been successfully mediated by the assigned conciliator, be forwarded to the same or other agreed upon arbitrator and not be referred to the division of dispute resolution. When presented with such a signed agreement, the assigned conciliator shall mark the case as forwarded to arbitration.
+        </section>
+        <section prefix="3">
+    	     In any instance in which the respondent to a claim or complaint either fails to appear or is not authorized to negotiate, enter into and sign agreements as to compensation at a conciliation, said claim or complaint shall forthwith be referred to the industrial accident board.
+        </section>
+        <section prefix="4">
+    	     In each instance in which a claim or complaint is referred to the industrial accident board following a conciliation, the conciliator to whom the case was assigned shall forward a written report setting out the issues in controversy and the information he deems to support:
+        </section>
+        <section prefix="a">
+    	     his recommendation that weekly compensation or other benefits should or should not be paid;
+        </section>
+        <section prefix="b">
+    	     his recommendation that weekly compensation or other benefits should or should not be modified or terminated; or
+        </section>
+        <section prefix="c">
+    	     his report that the information available at the conciliation is insufficient for determining whether weekly compensation or other benefits should be paid, modified, or terminated.
+        </section>
+        <section prefix="5">
+    	     In each instance in which a claim for compensation is referred to the industrial accident board, the insurer shall pay a fee of sixty-five percent of the average weekly wage in the commonwealth at that time; provided, however, that in the event that the insurer failed to appear at a scheduled conciliation, and such failure was not beyond the control of said insurer, the referral fee shall be one hundred and thirty percent of the average weekly wage in the commonwealth at that time. In such event the referral fee shall not be included in any formula utilized to establish premium rates for workers’ compensation insurance. Any referral fee shall be paid into the Special Revenue Fund established pursuant to section sixty-five. If, prior to a claim or complaint being scheduled before an administrative judge, the parties shall forward to the senior judge a written arbitration agreement pursuant to section ten B, the department shall refund any referral fee for such claim or complaint paid under this section.
+        </section>
+        <section prefix="6">
+    	     Whenever, with respect to a case in which liability is not an issue, a claim for additional compensation or a complaint to discontinue or modify compensation is the subject of conciliation the case shall not be referred to the industrial accident board until each party shall have filed with the conciliator a written offer which such party believes to be the amount of weekly compensation due the claimant under this chapter. If the claimant fails to file such offer within any time limit set forth by the conciliator assigned to the case, such conciliator shall file, on behalf of such claimant, an amount equal to the last best offer made by such claimant, or if no offer was made, the maximum compensation rate in the commonwealth, indicating that it was filed by said conciliator. If the insurer fails to file such offer within any time limit set forth by the conciliator assigned to the case, such conciliator shall file, on behalf of such insurer, an amount equal to the last best offer made by such insurer, or if no offer was made, the amount of zero, indicating that it was filed by said conciliator.
+        </section>
+    </text>
+</law>

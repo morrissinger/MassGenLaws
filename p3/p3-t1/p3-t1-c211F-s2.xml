@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211F" order_by="211F" level="3">Office Of Community Corrections</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Office Of Community Corrections; Executive Director</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established subject to appropriation within the office of the commissioner of probation an office of community corrections, whose purpose is to establish a continuum of community corrections programs and services statewide. The goal of this chapter is to ensure and promote public safety by developing community corrections programs for appropriate offenders.
+        </section>
+        <section prefix="b">
+    	     The executive director of the office of community corrections shall be appointed by the commissioner of probation to establish, oversee and operate a statewide program of community corrections.
+        </section>
+        <section prefix="c">
+    	     The executive director shall operate subject to the direction and approval of the commissioner. Said executive director shall work in consultation with the commission, administrative office of the trial court, the department of corrections, the parole board and the county sheriffs to ensure consistency between sentencing guidelines and community corrections. The office shall, to the extent practicable, utilize existing resources of the administrative office of the Massachusetts courts for the purpose of avoiding unnecessary duplication.
+        </section>
+    </text>
+</law>

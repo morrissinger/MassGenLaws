@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Effect Of Judgment Against Trustee</catch_line>
+    <order_by>43</order_by>
+    <text>
+        The judgment against a trustee shall acquit and discharge him from all demands by the defendant, his executor or administrator, for all goods, effects and credits paid, delivered or accounted for by the trustee by force of such judgment.
+    </text>
+</law>

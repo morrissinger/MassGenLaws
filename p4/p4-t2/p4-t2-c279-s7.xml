@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="279" order_by="279" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Sentence To Jail Or House Of Correction For Non Payment Of Fine</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Whoever is convicted of a crime punishable by a fine, and is liable to imprisonment in the jail for its non-payment, may be sentenced to such imprisonment in the house of correction, or to confinement at hard labor either in the jail or house of correction.
+    </text>
+</law>

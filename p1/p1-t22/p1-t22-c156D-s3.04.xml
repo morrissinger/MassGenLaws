@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>3.04</section_number>
+    <catch_line>Ultra Vires</catch_line>
+    <order_by>3.04</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b), the validity of corporate action may not be challenged on the ground that the corporation lacks or lacked power to act.
+        </section>
+        <section prefix="b">
+    	     A corporation’s power to act may be challenged:
+        </section>
+        <section prefix="1">
+    	     in a proceeding by a shareholder against the corporation to enjoin the act;
+        </section>
+        <section prefix="2">
+    	     in a proceeding by the corporation, directly, derivatively, or through a receiver, trustee, or other legal representative, against an incumbent or former director, officer, employee, or agent of the corporation; or
+        </section>
+        <section prefix="3">
+    	     in a proceeding by the attorney general under section 14.30.
+        </section>
+    </text>
+</law>

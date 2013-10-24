@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.04</section_number>
+    <catch_line>Fractional Shares</catch_line>
+    <order_by>6.04</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may:
+        </section>
+        <section prefix="1">
+    	     issue fractions of a share or pay in money or property the value of fractions of a share;
+        </section>
+        <section prefix="2">
+    	     arrange for disposition of fractional shares by the shareholders;
+        </section>
+        <section prefix="3">
+    	     issue scrip in registered or bearer form entitling the holder to receive a full share upon surrendering enough scrip to equal a full share.
+        </section>
+        <section prefix="b">
+    	     Each certificate representing scrip must be conspicuously labeled “scrip” and must contain the information required by subsection (b) of section 6.25.
+        </section>
+        <section prefix="c">
+    	     The holder of a fractional share is entitled to exercise the rights of a shareholder, including the right to vote, to receive dividends, and to participate in the assets of the corporation upon liquidation. The holder of scrip is not entitled to any of these rights unless the scrip provides for them.
+        </section>
+        <section prefix="d">
+    	     The board of directors may authorize the issuance of scrip subject to any condition considered desirable, including:
+        </section>
+        <section prefix="1">
+    	     that the scrip will become void if not exchanged for full shares before a specified date; and
+        </section>
+        <section prefix="2">
+    	     that the shares for which the scrip is exchangeable may be sold and the proceeds paid to the scripholders.
+        </section>
+    </text>
+</law>

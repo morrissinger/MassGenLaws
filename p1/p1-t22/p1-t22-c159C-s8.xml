@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159C" order_by="159C" level="3">Telemarketing Solicitation</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Violations; Enforcement By Attorney General; Consumer Action;  Penalties; Attorney’S Fees And Costs</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The attorney general may initiate proceedings relating to a knowing violation or threatened knowing violation of this chapter. Such proceedings may include, without limitation, an injunction, a civil penalty of not more than $5,000 for each knowing violation, but not less than $1,500 for a knowing violation involving a consumer who is 65 years of age or older, and additional relief in a court of competent jurisdiction. The attorney general may also issue investigative demands and subpoenas, administer oaths and conduct hearings in the course of investigating a violation of this chapter.
+        </section>
+        <section prefix="b">
+    	     A person who has received more than 1 unsolicited telephonic sales call within a 12-month period by or on behalf of the same person or entity in violation of this chapter may: (i) bring an action to enjoin the violation; (2) bring an action to recover for actual monetary loss from such knowing violation or to receive not more than $5,000 in damages for such knowing violation, whichever is greater; or (iii) bring both such actions.
+        </section>
+        <section prefix="c">
+    	     In a civil proceeding resulting from a transaction involving a violation of this chapter, the prevailing party, after judgment in the trial court and exhaustion of all appeals, if any, shall be awarded reasonable attorney’s fees and costs from the nonprevailing party.
+        </section>
+    </text>
+</law>

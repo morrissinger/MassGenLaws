@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164B" order_by="164B" level="3">Regulation Of Steam Distribution Companies</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Exemption</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Any entity operating a steam distribution system that does not meet the definition of a steam distribution company set forth in section 1 of chapter 164 shall be exempt from the requirements of this chapter and section 18A of chapter 25 if the entity files a detailed inspection and maintenance plan with the department every 2 years.
+    </text>
+</law>

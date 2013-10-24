@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="230" order_by="230" level="3">Actions By And Against Executors And Administrators</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Survival Of Actions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        An action which would have survived if commenced by or against the original party in his lifetime may be commenced and prosecuted by or against his executor or administrator.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159A" order_by="159A" level="3">Common Carriers Of Passengers By Motor Vehicle</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Licenses; Specification Of Routes; Form; Detours</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Every such license shall specify the route or routes over which the motor vehicles used thereunder may be operated, and shall be on a form approved by the department of telecommunications and energy; provided, that a variance from a form so approved shall not affect the validity of the license if the form used is in substantial conformity with the approved form. A licensee shall not operate motor vehicles for the purposes specified in section one otherwise than upon routes specified in the license or licenses issued to him; provided, that in the event of the closing of the whole or a portion of such a route by public authority or of interference with operation thereon by street repairs, fire, accident, unusual and severe traffic congestion or other emergency, a licensee may temporarily operate such vehicles by a reasonably direct and convenient detour.
+    </text>
+</law>

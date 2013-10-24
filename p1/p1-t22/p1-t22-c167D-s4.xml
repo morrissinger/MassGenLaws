@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167D" order_by="167D" level="3">Deposits And Accounts</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Share Deposits</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="b">
+    	     Dues: On or before each bank day every serial shareholder shall pay one dollar as dues upon each serial share held by him until it is withdrawn, forfeited, suspended, retired and matured.
+        </section>
+        <section prefix="c">
+    	     Maturity: Serial shares shall mature when they reach the value of either one hundred dollars or two hundred dollars, depending on which denomination such series is in, by the accumulation of dues, distributed earnings and other credits. When maturity of any shares would occur between distribution dates by the crediting of interest at the last rate of distribution, such interest shall be so credited and such shares thereupon shall mature.
+        </section>
+        <section prefix="d">
+    	     Exchange of Serial Shares: The withdrawal value of the serial shares of a nonborrower who continues in arrears for more than six months, at the option of the board, if he fails to pay the arrears within thirty days after notice, may be transferred into paid-up shares or into a savings account, or both, or into a suspended share account. In the event of any withdrawal before maturity of interest paid or credited upon serial shares, the remaining withdrawal value of such shares may, unless withdrawn by the holder, be transferred by the bank into paid-up shares or into a savings share account, or both.
+        </section>
+    </text>
+</law>

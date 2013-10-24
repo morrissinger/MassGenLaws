@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>79H</section_number>
+    <catch_line>Tort Actions For Personal Injuries Or Death; Admissibility Of Reports Of Deceased Physicians</catch_line>
+    <order_by>79H</order_by>
+    <text>
+        In an action of tort for personal injuries or death, or for consequential damages arising from such personal injuries, the medical report of a deceased physician who attended or examined the plaintiff, including expressions of medical opinion, shall, at the discretion of the trial judge, be admissible in evidence, but nothing therein contained which has reference to the question of liability shall be so admissible. Any opposing party shall have the right to introduce evidence tending to limit, modify, contradict or rebut such medical report. The word “physician” as used in this section shall not include any person who was not licensed to practice medicine under the laws of the jurisdiction within which such medical attention was given or such examination was made.
+    </text>
+</law>

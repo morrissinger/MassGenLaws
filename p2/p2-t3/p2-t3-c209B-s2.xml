@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Jurisdiction</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Any court which is competent to decide child custody matters has jurisdiction to make a custody determination by initial or modification judgment if:
+        </section>
+        <section prefix="1">
+    	     the commonwealth (i) is the home state of the child on the commencement of the custody proceeding, or (ii) had been the child’s home state within six months before the date of the commencement of the proceeding and the child is absent from the commonwealth because of his or her removal or retention by a person claiming his or her custody or for other reasons, and a parent or person acting as parent continues to reside in the commonwealth; or
+        </section>
+        <section prefix="2">
+    	     it appears that no other state would have jurisdiction under paragraph (1) and it is in the best interest of the child that a court of the commonwealth assume jurisdiction because (i) the child and his or her parents, or the child and at least one contestant, have a significant connection with the commonwealth, and (ii) there is available in the commonwealth substantial evidence concerning the child’s present or future care, protection, training, and personal relationships; or
+        </section>
+        <section prefix="3">
+    	     the child is physically present in the commonwealth and (i) the child has been abandoned or (ii) it is necessary in an emergency to protect the child from abuse or neglect or for other good cause shown, provided that in the event that jurisdictional prerequisites are not established pursuant to any other paragraph of this subsection and a court of another state shall be entitled to assert jurisdiction under any other subparagraph of this paragraph then a court exercising jurisdiction pursuant to this clause of paragraph (3) may do so only by entering such temporary order or orders as it deems necessary unless the court of the other state has declined to exercise jurisdiction, has stayed its proceedings or has otherwise deferred to the jurisdiction of a court of the commonwealth; or
+        </section>
+        <section prefix="4">
+    	     (i) it appears that no other state would have jurisdiction under prerequisites substantially in accordance with paragraph (1), (2) or (3), or another state has declined to exercise jurisdiction on the ground that the commonwealth is the more appropriate forum to determine the custody of the child, and (ii) it is in the best interest of the child that a court of the commonwealth assume jurisdiction.
+        </section>
+        <section prefix="b">
+    	     Except under subparagraphs (3) and (4) of paragraph (a), physical presence in the commonwealth of the child or of the child and one of the contestants, is not alone sufficient to confer jurisdiction on a court of the commonwealth to make a custody determination.
+        </section>
+        <section prefix="c">
+    	     Physical presence of the child, while desirable, is not a prerequisite for jurisdiction to make a custody determination.
+        </section>
+        <section prefix="d">
+    	     A court of the commonwealth shall not exercise jurisdiction in any custody proceeding commenced during the pendency of a proceeding in a court of another state where such court of that state is exercising jurisdiction consistently with the provisions of this section for the purpose of making a custody determination, except in accordance with paragraph (3) of subsection (a), unless the court of the other state shall decline jurisdiction pursuant to paragraph (4) of subsection (a) or shall stay its proceedings or otherwise defer to the jurisdiction of a court of the commonwealth.
+        </section>
+        <section prefix="e">
+    	     If a court of another state has made a custody determination in substantial conformity with this chapter, a court of the commonwealth shall not modify that determination unless (1) it appears to the court of the commonwealth that the court which made the custody determination does not now have jurisdiction under jurisdictional prerequisites substantially in accordance with this chapter or that such court has declined to assume jurisdiction to modify its determination and (2) a court of the commonwealth now has jurisdiction pursuant to this chapter.
+        </section>
+    </text>
+</law>

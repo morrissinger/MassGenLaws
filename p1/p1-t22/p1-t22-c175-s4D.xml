@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>4D</section_number>
+    <catch_line>Coverage To Be Made Available To Residential Owners For Release Of Heating Oil</catch_line>
+    <order_by>4D</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, unless the context clearly requires otherwise, “residential property” shall mean a 1 to 4-unit dwelling used for living or sleeping.
+        </section>
+        <section prefix="b">
+    	     The joint underwriting association, formed pursuant to chapter 175C, and each insurer licensed to write and engaged in the writing of homeowners’ insurance shall make the following coverage available to residential owners: (1) first-party property coverage for response action costs incurred under chapters 21E or 21K, or regulations promulgated pursuant thereto, in response to a release of heating oil from a residential liquid fuel tank or any piping, fuel supply lines, equipment or systems connected thereto; and (2) liability coverage for third-party claims arising out of a release of heating oil into the environment. Minimum coverage of $50,000 per occurrence for first-party property, minimum coverage of $200,000 per occurrence for third-party liability and for legal defense costs shall be made available, subject to a reasonable deductible not to exceed $1,000 per claim. For the purposes of this section, first-party property coverage shall include response action costs incurred to assess and remediate a heating oil release impacting soil, indoor air or other environmental media on the insured’s property and the reimbursement of any associated personal property damage. Third-party liability coverage shall defend and indemnify the insured against any third-party claims and shall include response action costs incurred to address conditions on and off the insured’s property arising from a heating oil release on the insured’s property that has impacted or is likely to impact groundwater or has migrated to, or is likely to migrate to, a third party’s property. First-party and third-party liability coverage shall apply simultaneously and, in addition to, one another when both coverages are applicable. Insurers may charge reasonable premiums for such coverage.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding subsection (b), an insurer and the joint underwriting association may require that an owner supply proof that subsection (b) or (c) of section 38J of chapter 148, and any regulations promulgated relevant thereto, have been met as a precondition to the issuance of a policy for the coverage described in subsection (b).
+        </section>
+    </text>
+</law>

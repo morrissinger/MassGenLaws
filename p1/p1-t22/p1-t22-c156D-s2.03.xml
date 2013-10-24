@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>2.03</section_number>
+    <catch_line>Incorporation</catch_line>
+    <order_by>2.03</order_by>
+    <text>
+        <section prefix="a">
+    	     Corporate existence begins when the articles of organization become effective pursuant to section 1.23.
+        </section>
+        <section prefix="b">
+    	     The filing of the articles of organization with the state secretary shall be conclusive evidence that the incorporators satisfied all conditions precedent to incorporation and that the corporation has been incorporated under this chapter, except in a proceeding by the commonwealth to challenge the validity of the corporation.
+        </section>
+    </text>
+</law>

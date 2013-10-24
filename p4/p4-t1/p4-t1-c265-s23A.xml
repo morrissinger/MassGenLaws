@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>23A</section_number>
+    <catch_line>Rape And Abuse Of Child Aggravated By Age Difference Between Defendant And Victim Or By When Committed By Mandated Reporters; Penalties</catch_line>
+    <order_by>23A</order_by>
+    <text>
+        <section prefix="a">
+    	     there exists more than a 5 year age difference between the defendant and the victim and the victim is under 12 years of age;
+        </section>
+        <section prefix="b">
+    	     there exists more than a 10 year age difference between the defendant and the victim where the victim is between the age of 12 and 16 years of age; or
+        </section>
+        <section prefix="c">
+    	     at the time of such intercourse, was a mandated reporter as defined in section 21 of chapter 119, shall be punished by imprisonment in the state prison for life or for any term of years, but not less than 10 years. The sentence imposed on such person shall not be reduced to less than 10 years, or suspended, nor shall any person convicted under this section be eligible for probation, parole, work release, or furlough or receive any deduction from his sentence for good conduct until he shall have served 10 years of such sentence. Prosecutions commenced under this section shall neither be continued without a finding nor placed on file.
+        </section>
+    </text>
+</law>

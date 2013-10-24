@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.26</section_number>
+    <catch_line>Shares Without Certificates</catch_line>
+    <order_by>6.26</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization or bylaws provide otherwise, the board of directors of a corporation may authorize the issue of some or all of the shares of any or all of its classes or series without certificates. The authorization shall not affect shares already represented by certificates until they are surrendered to the corporation.
+        </section>
+        <section prefix="b">
+    	     Within a reasonable time after the issue or transfer of shares without certificates, the corporation shall send the shareholder a written statement of the information required on certificates by subsections (b) and (c) of section 6.25, and, if applicable, section 6.27.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234A" order_by="234A" level="3">Office Of Jury Commissioner For The Commonwealth</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Length Of Trial; Excuse Of Juror</catch_line>
+    <order_by>40</order_by>
+    <text>
+        In the event a trial is expected by the court to last more than three trial days, the trial judge shall announce this fact to jurors before the jury is impanelled. The trial judge may excuse a juror from performing his juror service on such an extended trial upon a finding of hardship, inconvenience, or public necessity taking into consideration the expected length of the extended trial, but any juror so excused shall otherwise complete his term of juror service.
+    </text>
+</law>

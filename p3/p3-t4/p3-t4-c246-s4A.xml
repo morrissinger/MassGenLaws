@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Change Of Venue In District Courts</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        Whenever the venue of an action in a district court is based upon the residence or usual place of business of an alleged trustee, which action could not otherwise be properly brought in that district, the court may on motion of any party thereto transfer such action for trial and final disposition to any other district court in which the action might have been commenced had there been no trustee alleged.
+    </text>
+</law>

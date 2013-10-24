@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>77</section_number>
+    <catch_line>Amendments Adversely Affecting Rights Of Stockholder</catch_line>
+    <order_by>77</order_by>
+    <text>
+        <section prefix="a">
+    	     alters or abolishes any preferential right of his stock having preferences;
+        </section>
+        <section prefix="b">
+    	     creates, alters or abolishes any right in respect of redemption of his stock;
+        </section>
+        <section prefix="c">
+    	     alters or abolishes any preemptive right in respect of his stock;
+        </section>
+        <section prefix="d">
+    	     creates or alters (other than to abolish) any restriction on transfer applicable to his stock; or
+        </section>
+        <section prefix="e">
+    	     excludes or limits his right as a stockholder to vote on a matter except as such right may be limited by voting rights given to new shares then being authorized of an existing or new class.
+        </section>
+    </text>
+</law>

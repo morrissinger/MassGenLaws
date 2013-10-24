@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176I" order_by="176I" level="3">Preferred Provider Arrangements</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Health Benefit Plans; Minimum Requirements</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Benefit levels for health care services rendered by nonpreferred providers shall be at least eighty per cent of the benefit levels for services rendered by preferred providers.
+        </section>
+        <section prefix="b">
+    	     If a covered person receives emergency care and cannot reasonably reach a preferred provider, payment for care related to the emergency shall be made at the same level and in the same manner as if the covered person had been treated by a preferred provider; provided, however, that every brochure, contract, policy manual and all printed materials shall clearly state that covered persons shall have the option of calling the local pre-hospital emergency medical service system by dialing the emergency telephone access number 911, or its local equivalent, whenever a covered person is confronted with a need for emergency care, and no covered person shall in any way be discouraged from using the local pre-hospital emergency medical service system, the 911 telephone number, or the local equivalent, or be denied coverage for medical and transportation expenses incurred as a result of such use of emergency care;
+        </section>
+        <section prefix="c">
+    	     A procedure shall be specified for resolving consumer complaints and grievances; and
+        </section>
+        <section prefix="d">
+    	     A procedure shall be specified for the disclosure to covered persons of the names of current preferred providers by specialty and geographic area.
+        </section>
+    </text>
+</law>

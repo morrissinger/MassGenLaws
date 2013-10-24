@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Deferred Compensation, Annuities And Similar Payments</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     If a payment is characterized as interest or a dividend or a payment made in lieu of interest or a dividend, a trustee shall allocate it to income. The trustee shall allocate to principal the balance of the payment and any other payment received in the same accounting period that is not characterized as interest, a dividend, or an equivalent payment.
+        </section>
+        <section prefix="b">
+    	     If no part of a payment is characterized as interest, a dividend or an equivalent payment, and all or part of the payment is required to be made, a trustee shall allocate to income 10 per cent of the part that is required to be made during the accounting period and the balance to principal. If no part of a payment is required to be made or the payment received is the entire amount to which the trustee is entitled, the trustee shall allocate the entire payment to principal. For purposes of this subsection, a payment is not required to be made if it is made because the trustee exercises a right of withdrawal.
+        </section>
+        <section prefix="c">
+    	     If, to obtain an estate tax marital deduction for a trust, a trustee shall allocate more of a payment to income than provided for by this section, the trustee shall allocate to income the additional amount necessary to obtain the marital deduction.
+        </section>
+        <section prefix="d">
+    	     This section shall not apply to payments to which section 19 applies.
+        </section>
+    </text>
+</law>

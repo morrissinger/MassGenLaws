@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>65</section_number>
+    <catch_line>Liability Insurance</catch_line>
+    <order_by>65</order_by>
+    <text>
+        The regulating boards, as defined in subsection (c) of section two of chapter one hundred and fifty-six A, shall adopt regulations requiring the designated amount of required liability insurance to be maintained by limited liability companies and members subject to their jurisdiction pursuant to subsection (c) of section six. The term designated amount shall be the amount deemed appropriate by the regulating board to cover negligence, wrongful acts, errors and omissions and that insures the company and its members.
+    </text>
+</law>

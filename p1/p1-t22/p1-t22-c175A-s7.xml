@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175A" order_by="175A" level="3">Regulation Of Rates For Certain Casualty Insurance, Including Fidelity, Surety And Guaranty Bonds, And For All Other Forms Of Motor Vehicle Insurance, And Regulation Of Rating Organizations</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Improper Filing; Hearings; Aggrieved Persons; Remedies</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     If at any time the commissioner finds that a filing does not meet the requirements of this chapter, he shall, after a hearing held upon not less than ten days’ written notice, specifying the matters to be considered at such hearing, to every insurer and rating organization which made such filing, issue an order specifying in what respects he finds that such filing fails to meet the requirements of this chapter, and stating when, within a reasonable period thereafter, such filing shall be deemed no longer effective. Copies of said order shall be sent to every such insurer and rating organization.
+        </section>
+        <section prefix="b">
+    	     Any person or organization aggrieved with respect to any filing which is in effect may make written application to the commissioner for a hearing thereon; provided, that the insurer or rating organization that made the filing shall not be authorized to proceed under this subsection. Such application shall specify the grounds to be relied upon by the applicant. If the commissioner shall find that the application is made in good faith, that the applicant would be so aggrieved if his grounds are established, and that such grounds otherwise justify holding such a hearing, he shall, within thirty days after receipt of such application, hold a hearing upon not less than ten days’ written notice to the applicant and to every insurer and rating organization which made such filing. If, after such hearing, the commissioner finds that the filing does not meet the requirements of this chapter, he shall issue an order specifying in what respects he finds that such filing fails to meet the requirements of this chapter, and stating when, within a reasonable period thereafter, such filing shall be deemed no longer effective. Copies of said order shall be sent to the applicant and to every such insurer and rating organization.
+        </section>
+        <section prefix="c">
+    	     The commissioner may also call a hearing at any time prior to the proposed effective date of any filing or any later effective date called for by order made pursuant to this chapter. If after such hearing the commissioner finds that any such filing will not meet the requirements of this chapter, said filing shall not take effect.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Court; Jurisdiction</catch_line>
+    <order_by>16</order_by>
+    <text>
+        The term “court” means any court of competent jurisdiction of this state. The making of an agreement described in section one providing for arbitration in this state confers jurisdiction on the court to enforce the agreement under this chapter and to enter judgment on an award thereunder.
+    </text>
+</law>

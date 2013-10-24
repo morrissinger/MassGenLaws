@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Multiple Beneficiaries; Right Of Survivorship</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Beneficial interests in a custodial trust created for multiple beneficiaries shall be deemed to be separate custodial trusts of equal undivided interests for each beneficiary. Except in a transfer or declaration for use and benefit of husband and wife, for whom survivorship is presumed, a right of survivorship shall not exist unless the instrument creating the custodial trust specifically provides for such rights of survivorship such rights required by law.
+        </section>
+        <section prefix="b">
+    	     Custodial trust property held under this chapter by the same custodial trustee for the use and benefit of the same beneficiary may be administered as a single custodial trust.
+        </section>
+        <section prefix="c">
+    	     A custodial trustee of custodial trust property held for more than one beneficiary shall separately account to each beneficiary pursuant to sections seven and fifteen for the administration of the custodial trust.
+        </section>
+    </text>
+</law>

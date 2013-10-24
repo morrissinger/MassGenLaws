@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Erroneous Levy; New Execution; Motion</catch_line>
+    <order_by>20</order_by>
+    <text>
+        If an execution is returned satisfied in whole or in part by the sale of property not liable to such execution, and if damages are recovered against the judgment creditor or the officer who served the execution on account of the seizure and sale of such property, the creditor shall be entitled to a new execution for the amount then remaining due him by a motion pursuant to the preceding section.
+    </text>
+</law>

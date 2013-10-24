@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.05</section_number>
+    <catch_line>Effect Of Filing Of Certificate</catch_line>
+    <order_by>15.05</order_by>
+    <text>
+        <section prefix="a">
+    	     The delivering by the foreign corporation to the secretary of state for filing of the certificate required by section 15.03 authorizes the foreign corporation to transact business in the commonwealth subject, however, to the right of the commonwealth to revoke the authority as provided in this chapter.
+        </section>
+        <section prefix="b">
+    	     A foreign corporation authorized to do business in the commonwealth has the same but no greater rights and has the same but no greater privileges as, and except as otherwise provided by this chapter is subject to the same duties, restrictions, penalties, and liabilities now or later imposed on, a domestic corporation of like character.
+        </section>
+        <section prefix="c">
+    	     Subject to the constitution of the commonwealth, a foreign corporations organization and internal affairs and the liability of its stockholders and directors shall be governed by the laws of the jurisdiction under which it is organized. A foreign corporation may not be denied the authority to transact business in the commonwealth by reason of any difference between such laws and the laws of the commonwealth.
+        </section>
+    </text>
+</law>

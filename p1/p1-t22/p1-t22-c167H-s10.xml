@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167H" order_by="167H" level="3">Mutual Holding Companies</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Acquisition Or Merger With Another Holding Company</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If a mutual holding company acquires or merges with another holding company under the provisions of clause (3) of section seven, the holding company acquired or the holding company resulting from such merger or acquisition may only invest in assets and engage in activities which are authorized under section seven. 
+Not later than two years following any such merger or acquisition, the acquired holding company or the holding company resulting from such merger or acquisition shall (i) dispose of any asset which is an asset in which a mutual holding company may not invest under section seven, and (ii) cease any activity which is an activity in which a mutual holding company may not engage under said section seven.
+    </text>
+</law>

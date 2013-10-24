@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Acquisition, Retention, Sale Or Guarantee Of Other’S Bonds Or Notes</catch_line>
+    <order_by>68</order_by>
+    <text>
+        A corporation owning a railroad connecting with another railroad, both of which are wholly constructed, or a corporation owning a railroad leasing, operating or controlling another railroad, may acquire, hold, sell and, upon such terms and to such an extent as may be authorized by a vote at a meeting called therefor, may guarantee the bonds or notes of such other railroad, whether such other railroad is located within or without this commonwealth; provided, that such bonds or notes are issued in conformity with law.
+    </text>
+</law>

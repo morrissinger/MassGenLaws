@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>17.01</section_number>
+    <catch_line>Application To Existing Domestic Corporations</catch_line>
+    <order_by>17.01</order_by>
+    <text>
+        <section prefix="1">
+    	     all domestic corporations having capital stock whether established before or after the effective date of this chapter, either by general or special law, for the purpose of carrying on business for profit except corporations organized for the purpose of carrying on the business of a bank, savings bank, co-operative bank, trust company, credit union, surety or indemnity company, or safe deposit company, or for the purpose of carrying on within the commonwealth the business of an insurance company, railroad, electric railroad, street railway or trolley motor company, telegraph or telephone company, gas or electric light, heat or power company, canal, aqueduct or water company, cemetery or crematory company, any other corporations which on October 1, 1965 have or may thereafter have the right to take land within the commonwealth by eminent domain or to exercise franchises in public ways granted by the commonwealth or by any county, city or town, and corporations subject to chapter 157 and corporations subject to chapter 157A; and
+        </section>
+        <section prefix="2">
+    	     notwithstanding anything to the contrary in clause (1), all other corporations to which this chapter is made applicable by the express provisions of any other general or special law to the extent provided thereby.
+        </section>
+    </text>
+</law>

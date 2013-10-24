@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="179" order_by="179" level="3">Proprietors Of Wharves, Real Estate Lying In Common, And General Fields</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Sale By Proprietors</catch_line>
+    <order_by>14</order_by>
+    <text>
+        If there are ten or more proprietors, they may, by vote of more than two thirds both in number and interest at a legal meeting, sell their estate and divide the proceeds thereof.
+    </text>
+</law>

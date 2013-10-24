@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Contracts Or Acts Of Fiduciaries</catch_line>
+    <order_by>11</order_by>
+    <text>
+        An action founded on any contract made or act done, if made or done by any person acting as the executor, administrator or other legal representative of the estate of a deceased person, shall be brought within one year, or, if made or done by any person acting as trustee, guardian or conservator, shall be brought within two years, after the right of action accrues; provided, that this section shall not apply to actions upon probate bonds, or to actions in favor of the estate of which such person shall have been such legal representative, or to actions in favor of a beneficiary or ward, or to actions brought by the commonwealth.
+    </text>
+</law>

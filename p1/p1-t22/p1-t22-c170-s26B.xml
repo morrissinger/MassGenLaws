@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>26B</section_number>
+    <catch_line>Merger Or Consolidation Of Co Operative Banks And Thrift Institutions</catch_line>
+    <order_by>26B</order_by>
+    <text>
+        <section prefix="1">
+    	     the post office address of the initial principal office of the resulting or surviving corporation in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the name, residence and post office address of each of the initial trustees or directors and the president, treasurer and clerk of the resulting or surviving corporation;
+        </section>
+        <section prefix="3">
+    	     the fiscal year of the resulting or surviving corporation initially adopted;
+        </section>
+        <section prefix="4">
+    	     the date initially fixed in the by-laws for the annual meeting of the shareholders or members of the resulting or surviving corporation.
+        </section>
+    </text>
+</law>

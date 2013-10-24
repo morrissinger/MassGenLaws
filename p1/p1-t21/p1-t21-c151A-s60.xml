@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Federal Moneys Allotted To Commonwealth Paid Into Accounts</catch_line>
+    <order_by>60</order_by>
+    <text>
+        All federal moneys allotted or apportioned to the commonwealth by the Federal Social Security Board, the Federal Railroad Retirement Board, or other federal agency, for the administration of this chapter, shall be paid into the employment security administration account, except that moneys received from the Federal Railroad Retirement Board as compensation for services or facilities supplied to said board shall be paid into this account or the employment service accounts thereof, on the same basis as expenditures are made for such services or facilities from such employment security administration account and employment service accounts.
+    </text>
+</law>

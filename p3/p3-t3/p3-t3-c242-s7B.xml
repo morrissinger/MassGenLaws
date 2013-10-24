@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="242" order_by="242" level="3">Waste And Trespass</unit>
+    </structure>
+    <section_number>7B</section_number>
+    <catch_line>Damage By Off Highway Or Recreational Vehicle To Field Crops Or Agricultural Property; Treble Damages; Definitions</catch_line>
+    <order_by>7B</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person operating an off-highway or recreational vehicle who damages or destroys a field crop product and agricultural property situated on the land of another shall be liable to the owner of such product in tort.
+        </section>
+        <section prefix="b">
+    	     A party awarded judgment under this section shall be entitled to damages in an amount up to, but not greater than, 3 times the amount assessed for the removal, damage or destruction of the farm crop product and agricultural property, plus attorney fees and litigation costs. In assessing damages under this section, the court shall consider the market value of the field crop product and agricultural property prior to its removal, damage or destruction and all costs directly related to the production, research, testing, replacement and development of the field crop product and agricultural property.
+        </section>
+        <section prefix="c">
+    	     Damages awarded under this section shall not limit remedies available under chapter 266 or under any other applicable local, state or federal law.
+        </section>
+        <section prefix="d">
+    	     Liability under this section shall not apply to any federal, state or local government agency, or to any employee of any such agency acting in the course of his employment.
+        </section>
+        <section prefix="e">
+    	     For purposes of this section, a “field crop product” shall mean any product of the soil that is grown in the context of a research or product development program in conjunction or coordination with a private research facility or a university, any federal, state or local governmental agency or any crop produced for commercial purposes on an agricultural operation as defined by
+        </section>
+        <section prefix="f">
+    	     For purposes of this section, an “agricultural property” shall mean any implement of husbandry, structure used for the conveyance of water or structure used in the production, growing or processing of field crop products or for keeping and raising of livestock.
+        </section>
+    </text>
+</law>

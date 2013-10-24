@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>15D</section_number>
+    <catch_line>Good Faith Delivery To Treasurer; Defense And Indemnification By Commonwealth</catch_line>
+    <order_by>15D</order_by>
+    <text>
+        <section prefix="1">
+    	     If the holder pays or delivers property to the treasurer in good faith and thereafter another person claims the property from the holder or another state claims the money or property under its laws relating to escheat or abandoned or unclaimed property, the commonwealth, upon written notice to the treasurer of the claim, shall defend the holder against the claim and indemnify the holder against any liability on the claim.
+        </section>
+        <section prefix="2">
+    	     For the purposes of this section, “good faith” shall mean: (1) payment or delivery was made in a reasonable attempt to comply with this chapter; (2) the person delivering the property was not a fiduciary then in breach of trust in respect to the property and had reasonable basis for believing, based on the facts then known to him, that the property was abandoned for the purposes of this chapter; and (3) there is no showing that the records pursuant to which the delivery was made did not meet reasonable commercial standards of practice in the industry.
+        </section>
+    </text>
+</law>

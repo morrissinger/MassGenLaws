@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>When Right To Income Begins And Ends</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     An income beneficiary is entitled to net income from the date on which the income interest begins. An income interest begins on the date specified in the terms of the trust or, if no date is specified, on the date an asset becomes subject to a trust or successive income interest.
+        </section>
+        <section prefix="b">
+    	     An asset becomes subject to a trust:
+        </section>
+        <section prefix="1">
+    	     on the date it is transferred to the trust in the case of an asset that is transferred to a trust during the transferor’s life;
+        </section>
+        <section prefix="2">
+    	     on the day after a testator’s death in the case of an asset that becomes subject to a trust by reason of a will, even if there is an intervening period of administration of the testator’s estate; or
+        </section>
+        <section prefix="3">
+    	     on the day after an individual’s death in the case of an asset that is transferred to a fiduciary by a third party because of the individual’s death.
+        </section>
+        <section prefix="c">
+    	     An asset becomes subject to a successive income interest on the day after the preceding income interest ends, as determined under subsection (d), even if there is an intervening period of administration to wind up the preceding income interest.
+        </section>
+        <section prefix="d">
+    	     An income interest ends on the day an income beneficiary dies or another terminating event occurs, or on the last day of a period during which there is no beneficiary to whom a trustee may distribute income.
+        </section>
+    </text>
+</law>

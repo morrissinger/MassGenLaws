@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.07</section_number>
+    <catch_line>Unknown Claims Against Dissolved Corporation</catch_line>
+    <order_by>14.07</order_by>
+    <text>
+        <section prefix="a">
+    	     With respect to any unknown claim against the corporation, including unknown contingent claims, a dissolved corporation may limit the assets out of which the claim may be satisfied to the assets retained by the corporation plus, to the extent provided in section 6.41, any assets distributed to its shareholders within three years after the effective date of the corporation’s dissolution, by following the procedure described in this section.
+        </section>
+        <section prefix="b">
+    	     The dissolved corporation may publish notice of the dissolution at any time after its effective date, and request that any person with a claim against the corporation send a statement of it in accordance with the notice. The notice shall:
+        </section>
+        <section prefix="1">
+    	     be published 1 time in a newspaper of general circulation in the city, town or county where the dissolved corporation’s principal office, or, if none in the state, its registered office, is or was last located and, if such dissolved corporation then has a website, posting the notice on the website until the earlier to occur of 30 days or the discontinuance of such website, and, if the dissolved corporation at the time of its dissolution had a class of securities registered under the Securities Exchange Act of 1934, as amended, in addition at least once in a daily newspaper with national circulation;
+        </section>
+        <section prefix="2">
+    	     describe the information that shall be included in the statement of the claim and provide a mailing address where the statement is to be sent; and
+        </section>
+        <section prefix="3">
+    	     state that the assets out of which any unknown claim against the corporation, including unknown contingent claims, may be satisfied will be limited as provided in subsection (c) unless a statement of the claim is received within three years after the publication of the notice.
+        </section>
+        <section prefix="c">
+    	     If the dissolved corporation follows the procedure in subsection (b), except as provided in subsection (a) of section 14.09,
+        </section>
+        <section prefix="1">
+    	     the assets out of which any unknown claim described in paragraph (a) may be satisfied will be limited to the assets retained by the corporation plus, to the extent provided in section 6.41, any assets distributed to its shareholders within three years after the effective date of the corporation’s dissolution, if a statement of the claim is not presented to the corporation within the three-year period specified in clause (3) of subsection (b), and
+        </section>
+        <section prefix="2">
+    	     the assets out of which any previously unknown non-contingent claim which has been presented to the corporation and rejected in writing may be satisfied will be limited as provided in clause (1) of subsection (c) if the claimant does not furnish notice to the corporation by the later of the deadline specified in clause (1) of subsection (c) and 90 days from the effective date of the rejection notice that the holder intends to commence a proceeding to enforce the claim, and does not actually commence the proceeding by the later of the specified deadline and 270 days from the effective date of the rejection notice.
+        </section>
+    </text>
+</law>

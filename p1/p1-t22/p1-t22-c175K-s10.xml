@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Disapproval Of Products; Review Panel; Modification Or Withdrawal Of Approval</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     Not later than 30 days after the commission has given notice of a disapproved product or advertisement filed with the commission, the insurer or third party filer whose filing was disapproved may appeal the determination to a review panel appointed by the commission. The commission shall promulgate rules to establish procedures for appointing the review panels and provide for notice and hearing. An allegation that the commission, in disapproving a product or advertisement filed with the commission, acted arbitrarily, capriciously, or in a manner that is an abuse of discretion or otherwise not in accordance with the law, shall be subject to judicial review in accordance with subsection 4 of section 2.
+        </section>
+        <section prefix="2">
+    	     The commission shall have authority to monitor, review and reconsider products and advertisement subsequent to their filing or approval upon a finding that the product does not meet the relevant uniform standard. Where appropriate, the commission may withdraw or modify its approval after proper notice and hearing, subject to the appeal process in subsection (1).
+        </section>
+    </text>
+</law>

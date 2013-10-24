@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.51</section_number>
+    <catch_line>Plan Of Entity Conversion</catch_line>
+    <order_by>9.51</order_by>
+    <text>
+        <section prefix="a">
+    	     A plan of entity conversion shall include:
+        </section>
+        <section prefix="1">
+    	     a statement of the type of entity the surviving entity will be and, if it will be a foreign other entity, its jurisdiction of organization;
+        </section>
+        <section prefix="2">
+    	     the terms and conditions of the conversion;
+        </section>
+        <section prefix="3">
+    	     if the surviving entity will be an other entity, the manner and basis of converting the shares of the domestic business corporation into interests or other securities, obligations, rights to acquire interests or other securities, cash, other property, or any combination of the foregoing; and
+        </section>
+        <section prefix="4">
+    	     if the surviving entity will be a domestic business corporation, the manner and basis of converting the interests in the other entity into shares of the domestic business corporation, if any, or other securities, obligations, rights to acquire interests or other securities, cash, other property, or any combination of the foregoing; and
+        </section>
+        <section prefix="5">
+    	     the full text of the organic documents of the surviving entity, as they will be in effect immediately after consummation of the conversion.
+        </section>
+        <section prefix="b">
+    	     The plan of entity conversion may also include a provision that the plan may be amended prior to filing articles of entity conversion, except that subsequent to approval of the plan by the shareholders or by the holders of voting interests in the other entity the plan may not be amended to change:
+        </section>
+        <section prefix="1">
+    	     the amount or kind of shares or other securities, interests, obligations, rights to acquire shares, other securities or interests, cash, or other property to be received by the shareholders or interest holders under the plan;
+        </section>
+        <section prefix="2">
+    	     the organic documents that will be in effect immediately following the conversion, except for changes permitted by a provision of the organic law of the surviving entity comparable to section 10.05; or
+        </section>
+        <section prefix="3">
+    	     any of the other terms or conditions of the plan if the change would adversely affect any of the shareholders or the interest holders in any material respect.
+        </section>
+    </text>
+</law>

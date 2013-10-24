@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258C" order_by="258C" level="3">Compensation Of Victims Of Violent Crimes</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Notice To Claimant; Payment Of Compensation</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Within fifteen days of completion of the investigation, the program director shall mail notice to the claimant or the attorney of record stating the amount of compensation to be paid or denied, and the reasons therefor, and the payees, if any. The program director may direct that warrant for payment by the department of the attorney general be made jointly to the claimant and to a provider. The notice shall contain information regarding the right of the claimant to petition for judicial review of the decision of the program director.
+        </section>
+        <section prefix="b">
+    	     Upon receipt of the notice of assent by a claimant, the division shall present the notice to the department of the attorney general for payment. Subject to the availability of funds appropriated for this purpose, said department of the attorney general shall cause payment to be made in accordance with the division’s award without further authorization.
+        </section>
+    </text>
+</law>

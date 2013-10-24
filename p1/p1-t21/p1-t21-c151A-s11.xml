@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Ceasing To Be Subject To Statute On Application</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No employer shall cease to be subject to this chapter except upon a finding by the commissioner, after having made such investigation as he may deem necessary, that such employer has not on any day after the first day of the then last completed calendar year employed one or more individuals in employment subject to this chapter, whereupon such employer shall cease to be subject hereto as of January first of the year in which such finding is made.
+    </text>
+</law>

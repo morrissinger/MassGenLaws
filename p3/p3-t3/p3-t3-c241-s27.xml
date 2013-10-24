@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Persons Evicted</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If a person to or for whom a part of the land has been set off is evicted by one who, at the time of the partition, had a paramount title to that parcel, but not to the whole land, the person so evicted may have a new partition of the remaining land not subject to the paramount title, as if partition had not been made.
+    </text>
+</law>

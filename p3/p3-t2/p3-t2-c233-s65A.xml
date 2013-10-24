@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>65A</section_number>
+    <catch_line>Admissibility Of Deceased Party’S Answers To Interrogatories</catch_line>
+    <order_by>65A</order_by>
+    <text>
+        If a party to an action who has filed answers to interrogatories under any applicable statute or any rule of the Massachusetts Rules of Civil Procedure dies, so much of such answers as the court finds have been made upon the personal knowledge of the deceased shall not be inadmissible as hearsay or self-serving if offered in evidence in said action by a representative of the deceased party.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201D" order_by="201D" level="3">Health Care Proxies</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Foreign Proxies; Enforceability</catch_line>
+    <order_by>11</order_by>
+    <text>
+        Nothing in this chapter shall limit the enforceability of a health care proxy or similar instrument executed in another state or jurisdiction in compliance with the law of that state or jurisdiction; provided, however, that no person or health care provider or facility shall be required to enforce such proxy where to do so would violate sections fourteen and fifteen herein; provided, further, that all the responsibilities of a person, health care provider or facility are fulfilled as required under said sections fourteen and fifteen.
+    </text>
+</law>

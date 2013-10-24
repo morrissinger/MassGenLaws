@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>110L</section_number>
+    <catch_line>Clinical Trials; Definitions; Coverage   </catch_line>
+    <order_by>110L</order_by>
+    <text>
+        <section prefix="a">
+    	     For purposes of this section, the following words shall have the following meanings:—
+        </section>
+        <section prefix="1">
+    	     An investigational drug or device but a drug or device that has been approved for use in the qualified clinical trial, whether or not the Food and Drug Administration has approved the drug or device for use in treating the patient’s particular condition, shall be a patient care service to the extent that the drug or device is not paid for by the manufacturer, distributor or provider of the drug or device.
+        </section>
+        <section prefix="2">
+    	     Nonhealth care services that a patient may be required to receive as a result of being enrolled in the clinical trial.
+        </section>
+        <section prefix="3">
+    	     Costs associated with managing the research associated with the clinical trial.
+        </section>
+        <section prefix="4">
+    	     Costs that would not be covered for non-investigational treatments.
+        </section>
+        <section prefix="5">
+    	     Any item, service or cost that is reimbursed or otherwise furnished by the sponsor of the clinical trial.
+        </section>
+        <section prefix="6">
+    	     The costs of services which are inconsistent with widely accepted and established national or regional standards of care.
+        </section>
+        <section prefix="7">
+    	     The costs of services which are provided primarily to meet the needs of the trial, including, but not limited to, tests, measurements and other services which are typically covered but which are being provided at a greater frequency, intensity or duration.
+        </section>
+        <section prefix="8">
+    	     Services or costs that are not covered under the patient’s contract with the health plan.
+        </section>
+        <section prefix="b">
+    	     Any policy, contract, agreement, plan or certificate of insurance issued, delivered or renewed within the commonwealth shall cover and reimburse for patient care services provided pursuant to a qualified clinical trial to the same extent as they would be covered and reimbursed if the patient did not receive care in a qualified clinical trial.
+        </section>
+        <section prefix="c">
+    	     A “qualified clinical trial”, a clinical trial that meets the following conditions:
+        </section>
+        <section prefix="1">
+    	     The clinical trial is intended to treat cancer in a patient who has been so diagnosed.
+        </section>
+        <section prefix="2">
+    	     The clinical trial has been peer reviewed and is approved by 1 of the United States National Institutes of Health, a cooperative group or center of the National Institutes of Health, a qualified nongovernmental research entity identified in guidelines issued by the National Institutes of Health for center support grants, the United States Food and Drug Administration pursuant to an investigational new drug exemption, the United States Departments of Defense or Veterans Affairs, or, with respect to Phase II, III and IV clinical trials only, a qualified institutional review board.
+        </section>
+        <section prefix="3">
+    	     The facility and personnel conducting the clinical trial are capable of doing so by virtue of their experience and training and treat a sufficient volume of patients to maintain that expertise.
+        </section>
+        <section prefix="4">
+    	     With respect to phase I clinical trials, the facility shall be an academic medical center or an affiliated facility, and the clinicians conducting the trial shall have staff privileges at said academic medical center.
+        </section>
+        <section prefix="5">
+    	     The patient meets the patient selection criteria enunciated in the study protocol for participation in the clinical trial.
+        </section>
+        <section prefix="6">
+    	     The patient has provided informed consent for participation in the clinical trial in a manner that is consistent with current legal and ethical standards.
+        </section>
+        <section prefix="7">
+    	     The available clinical or pre-clinical data provide a reasonable expectation that the patient’s participation in the clinical trial will provide a medical benefit that is commensurate with the risks of participation in the clinical trial.
+        </section>
+        <section prefix="8">
+    	     The clinical trial does not unjustifiably duplicate existing studies.
+        </section>
+        <section prefix="9">
+    	     The clinical trial must have a therapeutic intent and must, to some extent, assess the effect of the intervention on the patient.
+        </section>
+        <section prefix="d">
+    	     An institutional review board shall qualify under clause (2) of subsection (c) only if it: (i) meets all the federal requirements for the operation of institutional review board as identified in the Code of Federal Regulations; (ii) is not disqualified to oversee clinical research by the National Institutes of Health or the Food and Drug Administration for noncompliance with federal law; and (iii) has taken corrective action to rectify any noncompliance issue raised by the National Institutes of Health or the Food and Drug Administration within the past 3 years and has passed all subsequent National Institutes of Health or Food and Drug Administration inspections, audits or examinations.
+        </section>
+        <section prefix="e">
+    	     This section does not apply to any policy, contract, agreement, plan or certificate of insurance paid for, or providing supplemental coverage, under Title XVIII or XIX of the Social Security Act.
+        </section>
+        <section prefix="f">
+    	     Coverage under this section shall be subject to all other terms and conditions of the policy, contract, agreement, plan or certificate of insurance, including, but not limited to, provisions requiring the use of participating providers and provisions related to utilization review. Payment to health care providers under this section shall be subject to the terms and conditions of the applicable agreement between the provider and the carrier, including, but not limited to, provisions relating to utilization review, audits and the financial liability of covered persons.
+        </section>
+        <section prefix="g">
+    	     Coverage of services, when required by this section, shall not create any legal presumption that the carrier has recommended, directed or required the patient’s participation in the trial.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Consolidation Or Merger</catch_line>
+    <order_by>59</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in sections 59 to 63, inclusive, the words “other business entity” shall mean a corporation to which section 17.01 of Part 17 of chapter 156D applies, a professional corporation and a foreign professional corporation each as defined in section 2 of chapter 156A, a foreign corporation, an association or a trust, as defined in section 1 of chapter 182, a partnership whether general or limited and whether domestic or foreign, as defined, respectively, in section 6 of chapter 108A and section 1 of chapter 109, and a foreign limited liability company as defined in this chapter.
+        </section>
+        <section prefix="b">
+    	     Pursuant to an agreement of consolidation or merger, a domestic limited liability company may consolidate or merge with or into one or more domestic limited liability companies or other business entities formed or organized under the law of the commonwealth or any other state of the United States or any foreign country or other foreign jurisdiction, with such domestic limited liability company or other business entity as the agreement shall provide being the resulting or surviving domestic limited liability company or other business entity.
+        </section>
+        <section prefix="c">
+    	     In connection with a consolidation or merger under this chapter, rights or securities of, or interests in, a domestic limited liability company or other business entity which is a constituent party to the consolidation or merger may be exchanged for or converted into cash, property, rights or securities of, or interests in, the resulting or surviving domestic limited liability company or other business entity or, in addition to or in lieu thereof, may be exchanged for or converted into cash, property, rights or securities of, or interests in, a domestic limited liability company or other business entity which is not the resulting or surviving limited liability company or other business entity in the consolidation or merger.
+        </section>
+    </text>
+</law>

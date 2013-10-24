@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Cancellation Of Agreement By Buyer; Notice; Refund Of Deposits;  Reclamation Of Goods By Seller</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     Until the seller has signed and delivered to the buyer, or mailed to him at his address shown on the agreement a copy of the agreement signed by the seller or a memorandum as provided in subsection F of section nine; or as provided in subsection A of section eighteen, except that such right of cancellation relative to the memorandum under subsection A of section eighteen shall be limited to the particular memorandum only, and not to preexisting valid agreements; or
+        </section>
+        <section prefix="2">
+    	     Which is signed by the seller, and which has been consummated by a party thereto at a place other than the address of the seller, which may be his main office or branch thereof, if the buyer, not later than midnight of the third business day following execution of the agreement, notifies the seller that he is cancelling, and such cancellation shall be effective thereupon.
+        </section>
+    </text>
+</law>

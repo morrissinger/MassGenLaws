@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176Q" order_by="176Q" level="3">Commonwealth Health Insurance Connector</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Expenses Incurred By Connector; Liabilities; Indemnity And Reimbursement; Rights And Property Of Connector Upon Dissolution, Etc.</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     All expenses incurred in carrying out this chapter shall be payable solely from funds provided under the authority of this chapter and no liability or obligations shall be incurred by the connector hereunder beyond the extent to which monies shall have been provided under this chapter.
+        </section>
+        <section prefix="b">
+    	     The connector shall be liable on all claims made as a result of the activities, whether ministerial or discretionary, of any member, officer, or employee of the connector acting as such, except for willful dishonesty or intentional violation of the law, in the same manner and to the same extent as a private person under like circumstances; provided, however, that the connector shall not be liable to levy or execution on any real or personal property to satisfy judgment, for interest prior to judgment, for punitive damages or for any amount in excess of $100,000.
+        </section>
+        <section prefix="c">
+    	     No person shall be liable to the commonwealth, to the connector or to any other person as a result of his activities, whether ministerial or discretionary, as a member, officer or employee of the connector except for willful dishonesty or intentional violation of the law; provided, however, that such person shall provide reasonable cooperation to the connector in the defense of any claim. Failure of such person to provide reasonable cooperation shall cause him to be jointly liable with the connector, to the extent that such failure prejudiced the defense of the action.
+        </section>
+        <section prefix="d">
+    	     The connector may indemnify or reimburse any person, or his personal representative, for losses or expenses, including legal fees and costs, arising from any claim, action, proceeding, award, compromise, settlement or judgment resulting from such person’s activities, whether ministerial or discretionary, as a member, officer or employee of the connector; provided that the defense of settlement thereof shall have been made by counsel approved by the connector. The connector may procure insurance for itself and for its members, officers and employees against liabilities, losses and expenses which may be incurred by virtue of this section or otherwise.
+        </section>
+        <section prefix="e">
+    	     No civil action hereunder shall be brought more than 3 years after the date upon which the cause thereof accrued.
+        </section>
+        <section prefix="f">
+    	     Upon dissolution, liquidation or other termination of the connector, all rights and properties of the connector shall pass to and be vested in the commonwealth, subject to the rights of lien holders and other creditors. In addition, any net earnings of the connector, beyond that necessary for retirement of any indebtedness or to implement the public purpose or purposes or program of the commonwealth, shall not inure to the benefit of any person other than the commonwealth.
+        </section>
+    </text>
+</law>

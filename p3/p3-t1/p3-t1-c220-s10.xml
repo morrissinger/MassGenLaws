@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="220" order_by="220" level="3">Courts And Naturalization</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Judge, Etc.; Interest Of Town In Suit Or Proceeding</catch_line>
+    <order_by>10</order_by>
+    <text>
+        No person shall be disqualified from acting as judge, magistrate, appraiser or officer of any kind in a suit or proceeding in which a town is interested by reason of his interest as an inhabitant thereof. No juror shall be disqualified by reason of being an inhabitant of Boston.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>193B1/2</section_number>
+    <catch_line>Motor Vehicle Insurance; Interest Charges On Installment Payments</catch_line>
+    <order_by>193B1/2</order_by>
+    <text>
+        Any insurance company which accepts payments of motor vehicle insurance premiums in installments shall calculate the interest charge only on the unpaid balance due as of the billing date.
+    </text>
+</law>

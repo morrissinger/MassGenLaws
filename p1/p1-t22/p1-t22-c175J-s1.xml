@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175J" order_by="175J" level="3">Administrative Supervision And Hazardous Financial Conditions Of Insurities</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     the insurer has refused to permit examination of its books, papers, accounts, records or affairs by the commissioner, his deputies, employees or duly commissioned examiners;
+        </section>
+        <section prefix="2">
+    	     a domestic insurer has unlawfully removed from the commonwealth books, papers, accounts or records necessary for an examination of the insurer;
+        </section>
+        <section prefix="3">
+    	     the insurer has failed to promptly comply with the applicable financial reporting statutes or regulations and lawful division requests relating thereto;
+        </section>
+        <section prefix="4">
+    	     the insurer has neglected or refused to observe an order of the commissioner to make good, within the time prescribed by law, any prohibited deficiency in its capital, capital stock or surplus;
+        </section>
+        <section prefix="5">
+    	     the insurer is continuing to transact insurance or write business after its license has been revoked or suspended by the commissioner;
+        </section>
+        <section prefix="6">
+    	     the insurer, by contract or otherwise, has unlawfully or has in violation of an order of the commissioner or has without first having obtained written approval of the commissioner if approval is required by law: (i) totally reinsured its entire outstanding business; or (ii) merged or consolidated substantially its entire property or business with another insurer;
+        </section>
+        <section prefix="7">
+    	     the insurer engaged in any transaction in which it is not authorized or permitted to engage under the laws of this chapter, chapter one hundred and seventy-five, chapter one hundred and seventy-six D or any other applicable provision of the General Laws; or
+        </section>
+        <section prefix="8">
+    	     the insurer refused to comply with a lawful order of the commissioner.
+        </section>
+    </text>
+</law>

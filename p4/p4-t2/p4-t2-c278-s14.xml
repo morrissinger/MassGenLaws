@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Liability For Fees Of Person Acquitted</catch_line>
+    <order_by>14</order_by>
+    <text>
+        No prisoner or person under recognizance, acquitted by verdict or discharged because no indictment has been found against him, or for want of prosecution, shall be liable for any costs or fees or for any charge for subsistence while he was in custody.
+    </text>
+</law>

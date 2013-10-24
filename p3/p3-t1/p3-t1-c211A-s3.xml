@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211A" order_by="211A" level="3">Appeals Court</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Quorum; Panels; Presiding Justice</catch_line>
+    <order_by>3</order_by>
+    <text>
+        Three justices shall constitute a quorum to decide all matters required to be heard by the appeals court or, upon order of the chief justice, four or more justices may sit. The court may sit in panels of three or more justices. The chief justice, insofar as practicable, shall assign justices to panels in such manner that each justice shall sit a substantially equal number of times with each other justice. The chief justice shall preside over any panel on which he shall sit, or, if the chief justice is not a member of a panel, the senior justice shall be the presiding justice.
+    </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>1A</section_number>
+    <catch_line>Intangible Personal Property; Presumption Of Abandonment</catch_line>
+    <order_by>1A</order_by>
+    <text>
+        <section prefix="a">
+    	     the last known address of the apparent owner is in the commonwealth as shown on the records of the person in possession of property;
+        </section>
+        <section prefix="b">
+    	     no address of the apparent owner appears on the records of the person in possession of the property and
+        </section>
+        <section prefix="1">
+    	     the last known address of the apparent owner is in the commonwealth, or
+        </section>
+        <section prefix="2">
+    	     the person in possession of property subject to this chapter is domiciled in the commonwealth and has not previously paid the property to the state of the last known address of the apparent owner, or
+        </section>
+        <section prefix="3">
+    	     the holder is a government or governmental subdivision or agency of the commonwealth and has not previously paid the property to the state of the last known address of the apparent owner;
+        </section>
+        <section prefix="c">
+    	     the last known address, as shown on the records of the person in possession of property, is in a state that does not provide by law for the escheat or custodial taking of such property and the person in possession of property is domiciled in the commonwealth or is a government or governmental subdivision or agency of the commonwealth; or
+        </section>
+        <section prefix="d">
+    	     the last known address, as shown on the records of the person in possession of property, of the apparent owner is in a foreign nation and the person in possession of property is domiciled in the commonwealth or is a subdivision or agency of the commonwealth.
+        </section>
+    </text>
+</law>

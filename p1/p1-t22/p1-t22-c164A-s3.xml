@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Additional Powers Of Member Domestic Electric Utilities</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     jointly or separately to plan, finance, construct, purchase, operate, maintain, use, share costs of, own, mortgage, lease, sell, dispose of or otherwise participate in electric power facilities or portions thereof within or without the commonwealth or the product or service therefrom or securities issued in connection with the financing of electric power facilities or portions thereof; and
+        </section>
+        <section prefix="b">
+    	     to enter into and perform contracts for such joint or separate planning, financing, construction, purchase, operation, maintenance, use, sharing costs of, ownership, mortgaging, leasing, sale, disposal of or other participation in electric power facilities, or portions thereof, within or without the commonwealth, or the product or service therefrom, or securities issued in connection with the financing of electric power facilities or portions thereof, including, without limitation, contracts for the payment of obligations imposed without regard to the operational status of a facility or facilities and contracts with domestic or foreign electric utilities for the sale or purchase of electricity from an electric power facility or facilities for long or short periods of time or for the life of a specific electric generating unit or units; provided, however, that nothing in this section shall be construed to authorize a domestic electric utility to sell electricity at wholesale or retail within or without this commonwealth except (i) as otherwise authorized by or under its charter or the general or special laws of this commonwealth other than by this chapter; (ii) in connection with sales of economy, backup and other energy pursuant to a New England power pool agreement; and (iii) for any sale or sales of capacity and related energy from a specifically identified generating unit which is an electric power facility.
+        </section>
+    </text>
+</law>

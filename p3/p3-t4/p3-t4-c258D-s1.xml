@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258D" order_by="258D" level="3">Compensation For Certain Erroneous Felony Convictions</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Erroneous Felony Conviction Claims; Class Of Eligible Persons;  Burden Of Proof; Definitions; Right To Jury Trial</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="A">
+    	     A claim may be brought against the commonwealth for an erroneous felony conviction resulting in incarceration as provided in this chapter.
+        </section>
+        <section prefix="B">
+    	     The class of persons eligible to obtain relief under this chapter shall be limited to the following:—
+        </section>
+        <section prefix="i">
+    	     those that have been granted a full pardon pursuant to section 152 of chapter 127, if the governor expressly states in writing his belief in the individual’s innocence, or
+        </section>
+        <section prefix="ii">
+    	     those who have been granted judicial relief by a state court of competent jurisdiction, on grounds which tend to establish the innocence of the individual as set forth in clause (vi) of subsection (C), and if (a) the judicial relief vacates or reverses the judgment of a felony conviction, and the felony indictment or complaint used to charge the individual with such felony has been dismissed, or if a new trial was ordered, the individual was not retried and the felony indictment or complaint was dismissed or a nolle prosequi was entered, or if a new trial was ordered the individual was found not guilty at the new trial; and (b) at the time of the filing of an action under this chapter no criminal proceeding is pending or can be brought against the individual by a district attorney or the attorney general for any act associated with such felony conviction.
+        </section>
+        <section prefix="C">
+    	     In order for an individual to prevail and recover damages against the commonwealth in a cause of action brought under this chapter, the individual must establish, by clear and convincing evidence, that:—
+        </section>
+        <section prefix="i">
+    	     he is a member of the class of persons defined in subsection (B);
+        </section>
+        <section prefix="ii">
+    	     he was convicted of an offense classified as a felony;
+        </section>
+        <section prefix="iii">
+    	     he did not plead guilty to the offense charged, or to any lesser included offense, unless such guilty plea was withdrawn, vacated or nullified by operation of law on a basis other than a claimed deficiency in the plea warnings required by section 29D of chapter 278;
+        </section>
+        <section prefix="iv">
+    	     he was sentenced to incarceration for not less than 1 year in state prison or a house of correction as a result of the conviction and has served all or any part of such sentence;
+        </section>
+        <section prefix="v">
+    	     he was incarcerated solely on the basis of the conviction for the offense that is the subject of the claim;
+        </section>
+        <section prefix="vi">
+    	     he did not commit the crimes or crime charged in the indictment or complaint or any other felony arising out of or reasonably connected to the facts supporting the indictment or complaint, or any lesser included felony; and
+        </section>
+        <section prefix="vii">
+    	     to the extent that he is guilty of conduct that would have justified a conviction of any lesser included misdemeanor arising out of or reasonably connected to facts supporting the indictment or complaint, that he has served the maximum sentence he would have received for such lesser included misdemeanor and not less than one additional year in a prison.
+        </section>
+        <section prefix="D">
+    	     The claimant shall attach to his claim certified copies of: the mittimus that shows the claimant’s sentence to incarceration and; the warrants necessary to grant a pardon pursuant to section 152 of chapter 127 or; criminal case docket entries or documents related thereto in the case of judicial relief.
+        </section>
+        <section prefix="E">
+    	     For the purposes of this chapter “conviction” or “convicted” shall include an adjudication as a youthful offender, if such adjudication resulted in the youthful offender’s incarceration in a house of correction or state prison.
+        </section>
+        <section prefix="F">
+    	     The commonwealth and any individual filing an action for compensation under this chapter shall have the right to a jury trial on any action so filed. In the interest of doing substantial justice, with regard to weight and admissibility of evidence submitted by the claimant or the commonwealth, the court presiding at a jury-waived trial shall exercise its discretion by giving due consideration to any difficulties of proof caused by the passage of time, the death or unavailability or witnesses, or other factors not caused by the claimant, or those acting on the claimant’s or the commonwealth’s behalf. At a jury trial, the court shall consider these same factors as part of the exercise of its discretion when determining the admissibility and weight of evidence, and the court shall instruct the jury that it may consider the same factors when it weighs the evidence presented at trial. No evidence proffered by any party shall be excluded on grounds that it was seized or obtained in violation of the Fourth, Fifth or Sixth amendments to the Constitution of the United States, or in violation of Articles 12 or 14 of Part the First of the Constitution of Massachusetts.
+        </section>
+    </text>
+</law>

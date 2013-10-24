@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Oaths Of Jurors</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The following oath shall be administered to the jurors for the trial of all criminal cases which are not capital: 
+You shall well and truly try the issue between the commonwealth and the defendant, (or the defendants, as the case may be,) according to your evidence; so help you God. 
+The following oath shall be administered to the jurors for the trial of capital cases: 
+You shall well and truly try, and true deliverance make, between the commonwealth and the prisoner at the bar, whom you shall have in charge, according to your evidence; so help you God.
+    </text>
+</law>

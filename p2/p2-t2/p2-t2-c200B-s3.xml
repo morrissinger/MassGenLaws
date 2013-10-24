@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200B" order_by="200B" level="3">Disposition Of Museum Property</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Conservation Measures Or Disposal Of Undocumented Property Or Property On Loan Without Notice; Requirements; Lien For Costs Incurred And Liability For Damages</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless a written loan agreement provides otherwise, a museum may apply conservation measures to, or dispose of, undocumented property or property on loan to the museum without the lender’s or claimant’s permission or notice to the lender or claimant if:
+        </section>
+        <section prefix="1">
+    	     immediate action is required to protect the undocumented property or property on loan; or
+        </section>
+        <section prefix="2">
+    	     the property on loan has become a hazard to the health and safety of the public or to the museum’s staff, and if at least 1 of the following applies:
+        </section>
+        <section prefix="i">
+    	     the property poses an immediate risk of harm to the museum’s staff or collection or to the general public, in which case the museum may dispose of the property without delay and shall notify the lender or claimant of the action taken within 30 days;
+        </section>
+        <section prefix="ii">
+    	     the museum is unable to reach the lender or claimant at the lender’s or claimant’s address or phone number and is required to take action within 30 days; or
+        </section>
+        <section prefix="iii">
+    	     the museum contacts the lender or claimant and the lender or claimant does not agree to the protective measures the museum recommends and does not, or is unable to, terminate the loan and collect the property within the time the museum determines the action is necessary.
+        </section>
+        <section prefix="b">
+    	     Unless a written loan agreement provides otherwise, a museum that applies conservation measures to or disposes of loaned property in accordance with subsection (a) shall:
+        </section>
+        <section prefix="1">
+    	     acquire and may enforce a lien on the loaned property in the amount of the costs incurred by the museum;
+        </section>
+        <section prefix="2">
+    	     not be liable to the lender or claimant for damage to, or loss of, the loaned property so long as the museum had a reasonable belief at the time the action was taken that the action was necessary; and
+        </section>
+        <section prefix="3">
+    	     if the museum applied conservation measures, not be liable to the lender or claimant for damage to, or loss of, the loaned property so long as the museum exercised reasonable care in choosing and applying such conservation measures.
+        </section>
+    </text>
+</law>

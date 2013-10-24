@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Prosecution Against Persons Served; New Action</catch_line>
+    <order_by>15</order_by>
+    <text>
+        An action of contract against several defendants in which legal service is not made upon all, either by attachment or otherwise, by reason of their absence from the commonwealth or for other sufficient cause, may be prosecuted against those who are duly served with process, without further proceedings against the others. If judgment so rendered against one or more of several joint contractors remains unsatisfied, an action on the same contract may be maintained against any of the other joint contractors in like manner as if the contract had been joint and several.
+    </text>
+</law>

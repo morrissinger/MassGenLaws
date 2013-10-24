@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>68</section_number>
+    <catch_line>Sale Of Portion Of Railway; Payment Of Dividends From Money Received</catch_line>
+    <order_by>68</order_by>
+    <text>
+        A company shall not appropriate for the payment of dividends any money received from the sale of any portion of its railway, unless it first reduces its capital stock issued, by an amount which, at its par value, is equal to the amount which such portion of its railway cost said company.
+    </text>
+</law>

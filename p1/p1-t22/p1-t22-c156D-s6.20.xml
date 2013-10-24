@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.20</section_number>
+    <catch_line>Subscription For Shares Before Incorporation</catch_line>
+    <order_by>6.20</order_by>
+    <text>
+        <section prefix="a">
+    	     A subscription for shares entered into before incorporation is irrevocable for 6 months unless the subscription agreement provides a longer or shorter period or all the subscribers agree to revocation or extension. The subscription agreement shall not be binding on the corporation until it is accepted by the board of directors.
+        </section>
+        <section prefix="b">
+    	     The board of directors may determine the payment terms of subscriptions for shares that were entered into before incorporation, unless the subscription agreement specifies them. A call for payment by the board of directors shall be uniform so far as practicable as to all shares of the same class or series, unless the subscription agreement specifies otherwise.
+        </section>
+        <section prefix="c">
+    	     Shares issued pursuant to subscriptions entered into before incorporation are fully paid and nonassessable when the corporation receives the consideration specified in the subscription agreement.
+        </section>
+        <section prefix="d">
+    	     If a subscriber defaults in payment of money or property under a subscription agreement entered into before incorporation, the corporation may collect the amount owed as any other debt. Alternatively, unless the subscription agreement provides otherwise, the corporation may rescind the agreement and may sell the shares if the debt remains unpaid more than 20 days after the corporation sends written demand for payment to the subscriber. The rescission shall not affect the status of any shares theretofore issued pursuant thereto.
+        </section>
+        <section prefix="e">
+    	     A subscription agreement entered into after incorporation is a contract between the subscriber and the corporation subject to section 6.21.
+        </section>
+    </text>
+</law>

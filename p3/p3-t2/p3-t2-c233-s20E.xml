@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>20E</section_number>
+    <catch_line>Application For Witness Immunity By Attorney General Or District Attorney; Hearing; Representation Of Witness; Notice Or Waiver;  Transcript</catch_line>
+    <order_by>20E</order_by>
+    <text>
+        <section prefix="a">
+    	     A justice of the supreme judicial court, appeals court or superior court shall, at the request of the attorney general or a district attorney, and after a hearing, issue an order granting immunity to a witness, provided that such justice finds that the investigation or proceeding before the grand jury or the criminal proceeding in the supreme judicial court, appeals court or superior court involves an offense listed in section 20D and that the witness did validly refuse, or is likely to refuse, to answer questions or produce evidence on the grounds that such testimony or such evidence might tend to incriminate him. If such justice so finds, such justice shall order the witness to answer the questions or produce the evidence requested and, if he so orders, such order and the order granting immunity shall be in writing and shall become effective upon the refusal of the witness to answer any question or produce any evidence requested on the basis of his privilege against self-incrimination.
+        </section>
+        <section prefix="b">
+    	     The witness shall be entitled to representation by an attorney at the hearing, which shall not be open to the public. The court may appoint counsel for the witness.
+        </section>
+        <section prefix="c">
+    	     An application filed pursuant to this section shall, at the request of the attorney general or a district attorney, act to stay any criminal proceedings in the supreme judicial court, appeals court or superior court, but not grand jury proceedings, until such time as a justice acts upon such application; provided, however, that a justice shall conduct an expedited hearing when such application is brought after the impanelment of a jury in the superior court.
+        </section>
+        <section prefix="d">
+    	     When the attorney general or a district attorney brings such application, he shall, at least three days before the date fixed for hearing on his application, send by certified mail or deliver a copy of such application to the attorney general and to each other district attorney in the commonwealth. The attorney general and any of the district attorneys may waive, either orally or in writing, his right to be served with such application. The attorney general and any such district attorney may file an appearance and have the right to be heard at the hearing as herein provided.
+        </section>
+        <section prefix="e">
+    	     An affidavit of proof of service or, in the alternative, waiver of such service, upon each district attorney and the attorney general shall be filed with the court.
+        </section>
+        <section prefix="f">
+    	     A transcript shall be made of the proceedings at the hearing and a certified copy of said transcript shall be transmitted to the grand jury or the court, whichever is appropriate.
+        </section>
+    </text>
+</law>

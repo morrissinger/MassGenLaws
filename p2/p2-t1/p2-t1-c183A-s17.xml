@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Rebuilding Following Casualty Loss; Partition Upon Disapproval;  Repair Or Restoration Upon Approval; Purchase From Dissenting Owner</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     Rebuilding of the common areas and facilities made necessary by fire or other casualty loss shall be carried out in the manner set forth in the by-law provision dealing with the necessary work of maintenance, repair and replacement, using common funds, including the proceeds of any insurance, for that purpose, provided such casualty loss does not exceed ten per cent of the value of the condominium prior to the casualty.
+        </section>
+        <section prefix="b">
+    	     If said casualty loss exceeds ten per cent of the value of the condominium prior to the casualty, and
+        </section>
+        <section prefix="1">
+    	     If seventy-five per cent of the unit owners do not agree within one hundred and twenty days after the date of the casualty to proceed with repair or restoration, the condominium, including all units, shall be subject to partition at the suit of any unit owner. Such suit shall be subject to dismissal at any time prior to entry of an order to sell if an appropriate agreement to rebuild is filed. The net proceeds of a partition sale together with any common funds shall be divided in proportion to the unit owners’ respective undivided ownership in the common areas and facilities. Upon such sale, the condominium shall be deemed removed from the provisions of this chapter.
+        </section>
+        <section prefix="2">
+    	     If seventy-five per cent of the unit owners agree to proceed with the necessary repair or restoration, the cost of the rebuilding of the condominium, in excess of any available common funds, including the proceeds of any insurance, shall be a common expense, provided, however, that if such excess cost exceeds ten per cent of the value of the condominium prior to the casualty, any unit owner who did not so agree may apply to the superior court of the county in which the condominium is located on such notice to the organization of unit owners as the court shall direct, for an order directing the purchase of his unit by the organization of unit owners at the fair market value thereof as approved by the court. The cost of any such purchase shall be a common expense.
+        </section>
+    </text>
+</law>

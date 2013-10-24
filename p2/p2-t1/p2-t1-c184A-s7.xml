@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="184A" order_by="184A" level="3">Statutory Rule Against Perpetuities</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Fee Simple Determinable In Land Or Fee Simple Subject To Right Of Entry For Condition Broken; Term</catch_line>
+    <order_by>7</order_by>
+    <text>
+        A fee simple determinable in land or a fee simple in land subject to a right of entry for condition broken shall become a fee simple absolute if the specified contingency does not occur within thirty years from the date when such fee simple determinable or such fee simple subject to a right of entry becomes possessory. If such contingency occurs within said thirty years the succeeding interest, which may be an interest in a person other than the person creating the interest or his heirs, shall become possessory or the right of entry exercisable notwithstanding the rule against perpetuities.
+    </text>
+</law>

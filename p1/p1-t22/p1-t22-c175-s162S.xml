@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>162S</section_number>
+    <catch_line>Insurance Producers Acting As Agents Of Insurers; Appointment Procedures</catch_line>
+    <order_by>162S</order_by>
+    <text>
+        <section prefix="a">
+    	     An insurance producer shall not act as an agent of an insurer unless the insurance producer becomes an appointed agent of that insurer. An insurance producer who is not acting as an agent of an insurer is not required to become appointed.
+        </section>
+        <section prefix="b">
+    	     To appoint a producer as its agent, the appointing insurer shall file, in a format approved by the commissioner, a notice of appointment within 15 days from the date the agency contract is executed or the first insurance application is submitted. An insurer may also elect to appoint a producer to all or some insurers within the insurer’s holding company system or group by the filing of a single appointment request.
+        </section>
+        <section prefix="c">
+    	     Upon receipt of the notice of appointment, the commissioner shall verify within a reasonable time not to exceed 30 days that the insurance producer is eligible for appointment. If the insurance producer is determined to be ineligible for appointment, the commissioner shall notify the insurer within 5 days of its determination.
+        </section>
+        <section prefix="d">
+    	     An insurer shall pay an appointment fee, in the amount prescribed by section 14, for each insurance producer appointed by the insurer.
+        </section>
+        <section prefix="e">
+    	     An insurer shall remit, in a manner prescribed by the commissioner, a renewal appointment fee in the amount prescribed by section 14.
+        </section>
+    </text>
+</law>

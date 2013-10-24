@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>149U</section_number>
+    <catch_line>Enforcement Of Secs. 149 M To 149 W</catch_line>
+    <order_by>149U</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner may conduct examinations of providers, administrators, insurers or other persons to enforce sections 149M to 149W, inclusive, and protect service contract holders. Upon request of the commissioner, the provider shall make all accounts, books and records concerning service contracts sold by the provider available to the commissioner which are necessary to enable the commissioner to reasonably determine whether the provider is complying with sections 149M to 149W, inclusive.
+        </section>
+        <section prefix="2">
+    	     A person aggrieved by an order issued under this subsection may request a hearing before the commissioner. The request shall be filed with the commissioner within 20 days of the commissioner’s order. If a hearing is requested, an order issued by the commissioner under this section shall be suspended from the original effective date of the order until completion of the hearing and final decision of the commissioner. At the hearing, the burden shall be on the commissioner to show why the order issued under this subsection is justified.
+        </section>
+        <section prefix="3">
+    	     The commissioner may bring an action in any court of competent jurisdiction for an injunction or other appropriate relief to enjoin threatened or existing violations of sections 149M to 149W, inclusive. An action filed under this paragraph may also seek restitution on behalf of persons aggrieved by a violation of said sections or orders or regulations of the commissioner.
+        </section>
+        <section prefix="4">
+    	     A person who is found to have violated sections 149M to 149W, inclusive, or orders or regulations of the commissioner issued under those sections, may be assessed a civil penalty in an amount determined by the commissioner of not more than $500 per violation and not more than $10,000 in the aggregate for all violations of a similar nature. For purposes of this section, violations shall be of a similar nature if the violation consists of the same or similar course of conduct, action or practice, irrespective of the number of times the act, conduct or practice which is determined to be a violation of said sections occurred.
+        </section>
+    </text>
+</law>

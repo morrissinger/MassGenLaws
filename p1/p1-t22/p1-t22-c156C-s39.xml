@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Assignment Of Interest</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     A limited liability company interest is assignable in whole or in part except as provided in the operating agreement. The assignee of a member’s limited liability company interest shall have no right to participate in the management of the business and affairs of a limited liability company except:
+        </section>
+        <section prefix="1">
+    	     upon the approval of all of the members of the limited liability company other than the member assigning the limited liability company interest; or
+        </section>
+        <section prefix="2">
+    	     upon compliance with any procedure provided for in a written operating agreement.
+        </section>
+        <section prefix="b">
+    	     Unless otherwise provided in the operating agreement:
+        </section>
+        <section prefix="1">
+    	     an assignment entitles the assignee to share in such profits and losses, to receive such distribution or distributions, and to receive such allocation of income, gain, loss, deduction, or credit or similar items to which the assignor was entitled, to the extent assigned; and
+        </section>
+        <section prefix="2">
+    	     a member ceases to be a member and to have the power to exercise any rights or powers of a member upon assignment of all of his limited liability company interest. Unless otherwise provided in the operating agreement, the pledge of, or granting of a security interest, lien or other encumbrance in or against, any or all of the limited liability company interest of a member shall not cause the member to cease to be a member or to have the power to exercise any rights or powers of a member.
+        </section>
+        <section prefix="c">
+    	     An operating agreement may provide that a member’s interest in a limited liability company may be evidenced by a certificate of limited liability company interest issued by the limited liability company.
+        </section>
+        <section prefix="d">
+    	     Unless otherwise provided in the operating agreement and except to the extent assumed by agreement, until an assignee of a limited liability company interest becomes a member, the assignee shall have no liability as a member solely as the result of the assignment.
+        </section>
+    </text>
+</law>

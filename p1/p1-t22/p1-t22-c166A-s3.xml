@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166A" order_by="166A" level="3">Community Antenna Television Systems</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Licenses For Construction Or Operation Of Systems, Necessity, Non Exclusiveness, Contents</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     The area or areas to be served;
+        </section>
+        <section prefix="b">
+    	     The completion date of the installation of all equipment, wires and cables necessary to serve the named area or areas;
+        </section>
+        <section prefix="c">
+    	     The date service shall be available to the named area or areas;
+        </section>
+        <section prefix="d">
+    	     The term of the license, which shall not be more than fifteen years; and
+        </section>
+        <section prefix="e">
+    	     Such other terms and conditions as have been authorized by the division.
+        </section>
+    </text>
+</law>

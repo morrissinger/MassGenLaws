@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Special Meetings</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Special meetings of the stockholders may be called by the president or by a majority of the directors, and shall be called by the clerk, or in case of the death, absence incapacity or refusal of the clerk, by any other officer, upon written application of one or more stockholders who are entitled to vote and who hold at least one tenth part in interest of the capital stock entitled to vote at the meeting, stating the time, place and purpose of the meeting.
+    </text>
+</law>

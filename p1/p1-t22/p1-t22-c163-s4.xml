@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="163" order_by="163" level="3">Trackless Trolley Companies</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Content Of Agreement Of Association; Execution Of Agreement</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a trolleymotor or trackless trolley company;
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed, which shall be one not in use by any other trolleymotor or trackless trolley company, or by any street railway company, or, in the judgment of the department, so similar thereto as to be likely to be mistaken for it, and shall contain words indicating the object of the company;
+        </section>
+        <section prefix="c">
+    	     The termini of the proposed route;
+        </section>
+        <section prefix="d">
+    	     The length of the proposed route as nearly as may be;
+        </section>
+        <section prefix="e">
+    	     The name of each county, city and town where the proposed route is to be situated;
+        </section>
+        <section prefix="f">
+    	     The total amount of the capital stock of the company, which shall not be less than two thousand dollars for each mile, nor in any event less than twenty thousand dollars;
+        </section>
+        <section prefix="g">
+    	     The par value of the shares, which shall be one hundred dollars;
+        </section>
+        <section prefix="h">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are chosen and qualify in their stead.
+        </section>
+    </text>
+</law>

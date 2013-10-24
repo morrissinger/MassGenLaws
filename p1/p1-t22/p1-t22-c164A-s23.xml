@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Zoning Regulations; Exemption Of Facilities Used By Electric Utilities</catch_line>
+    <order_by>23</order_by>
+    <text>
+        For the purposes of section ten of chapter forty A, an electric power facility located within the commonwealth and used or to be used by one or more domestic or foreign electric utilities pursuant to authority set forth in this chapter shall be considered a building, structure or land used or to be used by a public service corporation and each such utility shall be considered a public service corporation.
+    </text>
+</law>

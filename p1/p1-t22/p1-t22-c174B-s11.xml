@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174B" order_by="174B" level="3">Regulation Of Automobile Clubs</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Suspension, Revocation Or Refusal Of Club Agent’S Registration;  Grounds</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     has violated any of the provisions of this chapter;
+        </section>
+        <section prefix="b">
+    	     has misappropriated or converted to his own use or has illegally withheld monies required to be held in a fiduciary capacity;
+        </section>
+        <section prefix="c">
+    	     has materially misrepresented the terms or effects of any contract or has engaged in any fraudulent transaction;
+        </section>
+        <section prefix="d">
+    	     has shown himself to be incompetent, untrustworthy or a source of injury and loss to the automobile-club-service-buying public;
+        </section>
+        <section prefix="e">
+    	     has been convicted of a crime involving fraud or dishonesty.
+        </section>
+    </text>
+</law>

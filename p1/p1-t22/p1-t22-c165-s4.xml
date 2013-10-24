@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="165" order_by="165" level="3">Water And Aqueduct Companies</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Supervisory Authority Of Department</catch_line>
+    <order_by>4</order_by>
+    <text>
+        The department shall have general supervision of all corporations and companies subject to this chapter, and shall make all necessary examinations and inquiries and keep itself informed as to the compliance by all such corporations and companies with the law.
+    </text>
+</law>

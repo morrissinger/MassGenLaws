@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175B" order_by="175B" level="3">Unauthorized Insurer’S Process Act</unit>
+    </structure>
+    <section_number>3A</section_number>
+    <catch_line>Unauthorized Companies; Non Applicability Of This Chapter</catch_line>
+    <order_by>3A</order_by>
+    <text>
+        The provisions of this chapter shall not apply to any suit, action or proceeding against any foreign company not lawfully admitted to transact business in the commonwealth arising out of any contract of insurance effectuated in accordance with section one hundred and sixty-eight of chapter one hundred and seventy-five, or to any contract of reinsurance, provided that such contract contains a provision designating the commissioner of insurance or his successor in office its true and lawful attorney upon whom may be served all lawful process in any action, suit or proceeding instituted by or on behalf of an insured or beneficiary arising out of such contract of insurance.
+    </text>
+</law>

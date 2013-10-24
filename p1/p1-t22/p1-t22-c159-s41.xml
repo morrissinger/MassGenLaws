@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Representation At Hearings Concerning Proposed Legislation Affecting Department</catch_line>
+    <order_by>41</order_by>
+    <text>
+        The department may be represented at any public hearing before any legislative committee or public board in the commonwealth, or of any other state or of the United States, with respect to any proposed legislation or action by public authorities within or without the commonwealth affecting any public service within the commonwealth subject to its supervision, whenever it deems such representation desirable in the interests of the commonwealth. It may apply by petition to the interstate commerce commission for relief, and may present evidence and arguments to the said commission, in any case in which it is of opinion that a common carrier subject to its supervision is violating any provision of the interstate commerce law or any valid order or regulation made under authority thereof. The department may also confer with or appear before boards of other states having powers over any common carrier when in its judgment the interests of the commonwealth will be promoted thereby.
+    </text>
+</law>

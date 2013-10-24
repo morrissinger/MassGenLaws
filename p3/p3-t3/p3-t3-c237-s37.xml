@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="237" order_by="237" level="3">Writs Of Entry</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Writ Of Seisin</catch_line>
+    <order_by>37</order_by>
+    <text>
+        The writ of seisin issued in such case shall be in the name of the original plaintiff against the original defendant, although either or both of them are dead, and when executed it shall enure to the benefit of the plaintiff or of the person entitled to the land under him, as if it had been executed on the day when the judgment was rendered.
+    </text>
+</law>

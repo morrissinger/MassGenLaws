@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="241" order_by="241" level="3">Partition Of Land</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Land In Different Counties</catch_line>
+    <order_by>13</order_by>
+    <text>
+        If the land lies in different counties, the court may in its discretion issue separate warrants and appoint different commissioners for each county, or for two or more counties together, in which case the partition shall be made of the land in each county, or group of counties, as if there were no other land to be divided.
+    </text>
+</law>

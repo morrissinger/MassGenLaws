@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Payment For Capital Stock</catch_line>
+    <order_by>33</order_by>
+    <text>
+        The capital stock, except as provided in this section, shall be paid in in cash. The conveyance to the corporation of real or personal property at a fair valuation shall be a sufficient paying in of its capital stock to the extent of such value, if a statement, made, signed and sworn to by its president, treasurer and a majority of its directors, giving a description of such property and the value at which it has been taken in payment, in such detail as the secretary shall require or approve, and endorsed with his certificate that he is satisfied that said valuation is fair and reasonable, is filed with the state secretary. Such statement shall be included in the certificate of payment of capital required by the preceding section. No note or obligation given by a stockholder, whether secured by pledge or otherwise, shall be considered as payment of any part of the capital stock.
+    </text>
+</law>

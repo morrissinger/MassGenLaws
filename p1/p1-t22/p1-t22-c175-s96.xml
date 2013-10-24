@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>96</section_number>
+    <catch_line>Fire Loss; Limitation On Liability   </catch_line>
+    <order_by>96</order_by>
+    <text>
+        If buildings within the commonwealth insured against loss by fire are totally destroyed by fire, the company shall not be liable beyond the actual value of the insured property at the time of the loss or damage; and if it shall appear that the insured has paid premiums on an amount in excess of said actual value, he shall be reimbursed the proportionate excess of premiums paid on the difference between the amount named in the policy and said actual value, with interest at six per cent per annum from the date of issue; and said excess of premiums and interest thereon shall be allowed the insured from the time any companies carrying said insurance at the time of the loss have continuously carried the insurance on the destroyed buildings, whether under policies existing at the time of the loss or under previous policies in the same companies.
+    </text>
+</law>

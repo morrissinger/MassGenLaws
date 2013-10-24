@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="271" order_by="271" level="3">Crimes Against Public Policy</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Gifts To Influence Business Affairs; Threats</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever, in relation to any transaction or matter concerning the business affairs of an employer, principal or beneficiary (1) offers, gives or agrees to give an agent or fiduciary of another person any benefit or anything of value with intent to influence the recipient’s conduct, or (2) as an agent or fiduciary, solicits, accepts or agrees to accept any benefit or anything of value from another person who is not an employee, principal, or beneficiary upon an agreement or understanding that such benefit or thing of value will influence his conduct, shall be punished by imprisonment in the state prison for not more than five years, or by a fine of not more than ten thousand dollars, or both.
+        </section>
+        <section prefix="b">
+    	     Whoever, verbally or by a written or printed communication, threatens an economic injury to another, or threatens to deprive another of an economic opportunity, with intent to compel that person to do any act, involving the use or disposition of anything of value against his will, shall be punished by imprisonment in the state prison for not more than five years, or in the house of correction for not more than two years, or by a fine of not more than five thousand dollars, or both. The provisions of this paragraph shall not apply to any labor disputes as defined in section two of chapter one hundred and fifty A.
+        </section>
+    </text>
+</law>

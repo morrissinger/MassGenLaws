@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="258" order_by="258" level="3">Claims And Indemnity Procedure For The Commonwealth, Its Municipalities, Counties And Districts And The Officers And Employees Thereof</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Application Of Secs. 1 To 8</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     any claim based upon an act or omission of a public employee when such employee is exercising due care in the execution of any statute or any regulation of a public employer, or any municipal ordinance or by-law, whether or not such statute, regulation, ordinance or by-law is valid;
+        </section>
+        <section prefix="b">
+    	     any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function or duty on the part of a public employer or public employee, acting within the scope of his office or employment, whether or not the discretion involved is abused;
+        </section>
+        <section prefix="c">
+    	     any claim arising out of an intentional tort, including assault, battery, false imprisonment, false arrest, intentional mental distress, malicious prosecution, malicious abuse of process, libel, slander, misrepresentation, deceit, invasion of privacy, interference with advantageous relations or interference with contractual relations;
+        </section>
+        <section prefix="d">
+    	     any claim arising in respect of the assessment or collection of any tax, or the lawful detention of any goods or merchandise by any law enforcement officer;
+        </section>
+        <section prefix="e">
+    	     any claim based upon the issuance, denial, suspension or revocation or failure or refusal to issue, deny, suspend or revoke any permit, license, certificate, approval, order or similar authorization;
+        </section>
+        <section prefix="f">
+    	     any claim based upon the failure to inspect, or an inadequate or negligent inspection, of any property, real or personal, to determine whether the property complies with or violates any law, regulation, ordinance or code, or contains a hazard to health or safety, except as otherwise provided in clause (1) of subparagraph (j).
+        </section>
+        <section prefix="g">
+    	     any claim based upon the failure to establish a fire department or a particular fire protection service, or if fire protection service is provided, for failure to prevent, suppress or contain a fire, or for any acts or omissions in the suppression or containment of a fire, but not including claims based upon the negligent operation of motor vehicles or as otherwise provided in clause (1) of subparagraph (j).
+        </section>
+        <section prefix="h">
+    	     any claim based upon the failure to establish a police department or a particular police protection service, or if police protection is provided, for failure to provide adequate police protection, prevent the commission of crimes, investigate, detect or solve crimes, identify or apprehend criminals or suspects, arrest or detain suspects, or enforce any law, but not including claims based upon the negligent operation of motor vehicles, negligent protection, supervision or care of persons in custody, or as otherwise provided in clause (1) of subparagraph (j).
+        </section>
+        <section prefix="i">
+    	     an claim based upon the release, parole, furlough or escape of any person, including but not limited to a prisoner, inmate, detainee, juvenile, patient or client, from the custody of a public employee or employer or their agents, unless gross negligence is shown in allowing such release, parole, furlough or escape.
+        </section>
+        <section prefix="j">
+    	     any claim based on an act or failure to act to prevent or diminish the harmful consequences of a condition or situation, including the violent or tortious conduct of a third person, which is not originally caused by the public employer or any other person acting on behalf of the public employer. This exclusion shall not apply to:
+        </section>
+        <section prefix="1">
+    	     any claim based upon explicit and specific assurances of safety or assistance, beyond general representations that investigation or assistance will be or has been undertaken, made to the direct victim or a member of his family or household by a public employee, provided that the injury resulted in part from reliance on those assurances. A permit, certificate or report of findings of an investigation or inspection shall not constitute such assurances of safety or assistance; and
+        </section>
+        <section prefix="2">
+    	     any claim based upon the intervention of a public employee which causes injury to the victim or places the victim in a worse position than he was in before the intervention; and
+        </section>
+        <section prefix="3">
+    	     any claim based on negligent maintenance of public property; (4) any claim by or on behalf of a patient for negligent medical or other therapeutic treatment received by the patient from a public employee.
+        </section>
+    </text>
+</law>

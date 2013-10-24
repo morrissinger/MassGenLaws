@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150C" order_by="150C" level="3">Collective Bargaining Agreements To Arbitrate</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Failure To Arbitrate; Application To Superior Court; Procedure</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     A party aggrieved by the failure or refusal of another to proceed to arbitration under an agreement described in section one may apply to the superior court for an order directing the parties to proceed to arbitration. The court shall order arbitration unless (1) the opposing party denies the existence of the agreement to arbitrate; or (2) the claim sought to be arbitrated does not state a controversy covered by the provision for arbitration; provided, that an order for arbitration shall not be refused where a dispute concerning the interpretation or application of the arbitration provision is itself made subject to arbitration or on the ground that the claim in issue lacks merit or bona fides or because no fault or grounds for the claim have been shown. In either event the court shall proceed summarily to the determination of the issue so raised and shall, if it finds for the applicant, order arbitration; otherwise, the application shall be denied.
+        </section>
+        <section prefix="b">
+    	     Upon application, the superior court may stay an arbitration proceeding commenced or threatened if it finds (1) that there is no agreement to arbitrate, or (2) that the claim sought to be arbitrated does not state a controversy covered by the provision for arbitration and disputes concerning the interpretation or application of the arbitration provision are not themselves made subject to arbitration. Such an issue, when in substantial and bona fide dispute, shall be forthwith and summarily determined, and if the court finds for the applicant it shall order a stay of arbitration, otherwise the court shall order the parties to proceed to arbitration; provided that an order to stay arbitration shall not be granted on the ground that the claim in issue lacks merit or bona fides or because no fault or grounds for the claim sought to be arbitrated have been shown.
+        </section>
+        <section prefix="c">
+    	     If an issue referable to arbitration under the alleged agreement is involved in an action or proceeding pending in a court having jurisdiction to hear applications under paragraph (a) of this section, the application shall be made therein. Otherwise and subject to section fifteen, the application may be made in any court of competent jurisdiction.
+        </section>
+        <section prefix="d">
+    	     Any action or proceeding involving an issue subject to arbitration shall be stayed if an order for arbitration or an application therefor has been made under this section or, if the issue is severable, the stay may be with respect to such issue only. When the application is made in such action or proceeding, the order for arbitration shall include such stay.
+        </section>
+    </text>
+</law>

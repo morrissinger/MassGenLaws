@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Reports; Audits, Examinations Or Inspections; Confidentiality</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     financial statements of the health maintenance organization on the latest applicable form of annual statement approved by the National Association of Insurance Commissioners for health maintenance organizations, with any additional information the commissioner may require for the purpose of eliciting a complete and accurate exhibit of the condition and transactions of the health maintenance organization;
+        </section>
+        <section prefix="2">
+    	     statistics relating to the cost of operations and the pattern of utilization of services in the previous fiscal year; and
+        </section>
+        <section prefix="3">
+    	     such other information as the commissioner may reasonably require relating to the past performance of the organization.
+        </section>
+    </text>
+</law>

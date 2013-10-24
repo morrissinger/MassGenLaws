@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Map; Engineer’S Report</catch_line>
+    <order_by>18</order_by>
+    <text>
+        The directors shall prepare a map of the route on an appropriate scale, with a profile thereof on a vertical scale of ten to one as compared with the horizontal scale, and shall procure the report of a competent engineer, based on actual examination and survey, showing the kind and amount of excavation, filling, bridging and masonry required, the grades, the number of public ways and of other railroads, and of navigable streams and tide waters, to be crossed, and the manner of crossing the same, the general profile of the surface of the country through which the railroad is to pass, the feasibility of the route, the manner of constructing the railroad, and a detailed estimate of the cost of construction.
+    </text>
+</law>

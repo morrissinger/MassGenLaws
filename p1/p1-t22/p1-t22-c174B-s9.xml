@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="174B" order_by="174B" level="3">Regulation Of Automobile Clubs</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Service Contracts; Form; Contents</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The exact corporate or other name of the club.
+        </section>
+        <section prefix="b">
+    	     The location of its home office and its usual place of business in the commonwealth, if any, giving street number and city.
+        </section>
+        <section prefix="c">
+    	     A provision that the contract may be cancelled at any time by given written notice thereof by either the club or the holder, and that the holder will, if the dues or membership fee has been paid thereupon, be entitled to a refund of the unused portion of the consideration paid for such contract, calculated on a pro rata basis over the period of the contract, without any deductions; provided that automobile club may make a reasonable minimum charge.
+        </section>
+        <section prefix="d">
+    	     A provision plainly specifying the services promised, that the holder will not be required to pay any sum, in addition to the amount specified in the contract for any services thus specified, the territory wherein such services are to be rendered, the effective date of the contract and the first renewal date.
+        </section>
+        <section prefix="e">
+    	     A statement on the first page of the service contract in not less than fourteen point type stating, “This is not an automobile liability insurance contract”.
+        </section>
+    </text>
+</law>

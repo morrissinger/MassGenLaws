@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Record Date; Closing Transfer Books</catch_line>
+    <order_by>42</order_by>
+    <text>
+        <section prefix="1">
+    	     The record date for determining stockholders having the right to notice of or to vote at a meeting of stockholders shall be at the close of business on the day next preceding the day on which notice is given.
+        </section>
+        <section prefix="2">
+    	     The record date for determining stockholders for any other purpose shall be at the close of business on the day on which the board of directors acts with respect thereto.
+        </section>
+    </text>
+</law>

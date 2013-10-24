@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>79K</section_number>
+    <catch_line>Duplicate Of Computer Data File Or Program File; Admissibility</catch_line>
+    <order_by>79K</order_by>
+    <text>
+        A duplicate of a computer data file or program file shall be admissible in evidence as the original itself unless (1) a genuine question is raised as to the authenticity of the original or (2) in the circumstances it would be unfair to admit the duplicate in lieu of the original. 
+For the purposes of this section, if data is stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, shall be an original. 
+A “duplicate of a computer data file or program file” shall mean a file produced by the same impression as the original, or from the same matrix, or by mechanical or electronic recording, in the normal way such a duplicate is produced on a computer, or by other equivalent techniques that accurately reproduce the original.
+    </text>
+</law>

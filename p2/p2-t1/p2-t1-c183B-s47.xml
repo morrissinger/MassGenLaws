@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Implied Warranties Of Quality; Exclusions Or Modifications</catch_line>
+    <order_by>47</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as limited by subsection (b) implied warranties of quality:
+        </section>
+        <section prefix="1">
+    	     may be excluded or modified by agreement of the parties; and
+        </section>
+        <section prefix="2">
+    	     shall be excluded by expressions of disclaimer, such as “as is”, “with all faults”, or other language that in common understanding calls the purchaser’s attention to the exclusion of warranties.
+        </section>
+        <section prefix="b">
+    	     With respect to a purchaser of a time-share in a time-share unit that may be used as a dwelling or for recreational purposes, no general disclaimer of implied warranties of quality shall be effective, but a developer may disclaim liability in an instrument signed by the purchaser for a specified defect or specified failure to comply with applicable law if the existence of the defect or failure entered into and became a part of the basis of the bargain.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Failure To Pay Assessment; Sale Of Shares</catch_line>
+    <order_by>30</order_by>
+    <text>
+        If the stockholder neglects to pay an amount duly assessed on his shares for thirty days after the time appointed for payment, the treasurer of the corporation may sell by public auction a sufficient number thereof to pay all assessments then due from him with necessary and incidental charges.
+    </text>
+</law>

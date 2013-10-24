@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>65A</section_number>
+    <catch_line>Holding Stock In Railroad Car And Equipment Companies</catch_line>
+    <order_by>65A</order_by>
+    <text>
+        A railroad corporation may hold stock in companies which manufacture, construct, sell, assign, lease, repair, equip, supply, maintain or deal in railroad cars and equipment to an amount not exceeding five per cent of its capital stock outstanding.
+    </text>
+</law>

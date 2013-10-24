@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Disclosure Of Information</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     A person may not disclose information regarding any account or electronic fund transfer to any person except:
+        </section>
+        <section prefix="1">
+    	     the consumer making the transfer;
+        </section>
+        <section prefix="2">
+    	     any other person who is a party to an electronic funds transfer or is necessary to effectuate the transfer, but only to the extent that the information disclosed is necessary to effectuate the transfer;
+        </section>
+        <section prefix="3">
+    	     to a person authorized by law to have access to the records of the financial institution or organization in the course of such person’s official duties;
+        </section>
+        <section prefix="4">
+    	     pursuant to a court order or lawful subpoena;
+        </section>
+        <section prefix="5">
+    	     to communicate the terms and history of a specifically identified account to a consumer reporting agency as defined in section fifty of chapter ninety-three, or to any other person meeting the requirements of clause (3) of section fifty-one of said chapter ninety-three;
+        </section>
+        <section prefix="6">
+    	     to any attorney or collection agent of the financial institution or organization;
+        </section>
+        <section prefix="7">
+    	     to an employee or other auditor of the financial institution or organization solely for the purpose of an official audit or accounting or to any other person for the purpose of servicing the account relationship, including preparation of the periodic statement of account, but only to the extent actually necessary;
+        </section>
+        <section prefix="8">
+    	     to an employee of the financial institution or organization for the purpose of pursuing or disposing of a dispute or claim involving an account; or
+        </section>
+        <section prefix="9">
+    	     pursuant to the written authorization of the consumer; provided, however, that such authorization shall not remain in effect longer than forty-five days.
+        </section>
+        <section prefix="b">
+    	     If information regarding any account or electronic funds transfer is disclosed pursuant to a court order or the summons of a governmental agency, the information shall be made available not earlier than a date specified in such order or summons as the date on which delivery of information must occur, if an information delivery date is specified in such order or summons.
+        </section>
+        <section prefix="c">
+    	     A person shall maintain reasonable procedures acceptable to the commissioner of banks designed: (i) to prevent any disclosure, other than a disclosure permitted by subsection (a), of information regarding an account or electronic funds transfer to any third party; and (ii) to make the person aware of the occurrence of any such unauthorized disclosure. If a person becomes aware of such an unauthorized disclosure, it shall, not later than three days after it obtains such knowledge, disclose to the applicable consumer the fact of the occurrence of the unauthorized disclosure and the particulars thereof known to the person.
+        </section>
+        <section prefix="d">
+    	     A person may not sell lists containing names, addresses, or other information concerning consumers using their electronic funds transfer system.
+        </section>
+        <section prefix="e">
+    	     A person may not incorporate its electronic fund transfer system lines with any other system for the purpose of ascertaining the physical location of a consumer using an electronic funds transfer system at the time of effecting a transfer.
+        </section>
+    </text>
+</law>

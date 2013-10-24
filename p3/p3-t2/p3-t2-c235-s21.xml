@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="235" order_by="235" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Erroneous Levy On Member Of Corporation; Subsequent Proceedings</catch_line>
+    <order_by>21</order_by>
+    <text>
+        If an execution against a corporation is satisfied in whole or in part by service or levy on the person or property of a member thereof, and the property levied on or damages for the service or levy are subsequently recovered by such member from the officer or judgment creditor, the creditor, upon a motion to the court which rendered the judgment, shall be entitled to a new execution for the amount then remaining due him.
+    </text>
+</law>

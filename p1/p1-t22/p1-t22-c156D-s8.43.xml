@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.43</section_number>
+    <catch_line>Resignation And Removal Of Officers</catch_line>
+    <order_by>8.43</order_by>
+    <text>
+        <section prefix="a">
+    	     An officer may resign at any time by delivering notice of the resignation to the corporation. A resignation is effective when the notice is delivered unless the notice specifies a later effective date. If a resignation is made effective at a later date and the corporation accepts the future effective date, its board of directors may fill the pending vacancy before the effective date if the board of directors provides that the successor shall not take office until the effective date.
+        </section>
+        <section prefix="b">
+    	     A board of directors may remove any officer at any time with or without cause.
+        </section>
+    </text>
+</law>

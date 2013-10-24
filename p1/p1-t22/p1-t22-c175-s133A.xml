@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>133A</section_number>
+    <catch_line>Requirements For Other Group Life Insurance Policies</catch_line>
+    <order_by>133A</order_by>
+    <text>
+        <section prefix="a">
+    	     A group life insurance policy shall not be delivered in the commonwealth unless the commissioner finds that:
+        </section>
+        <section prefix="1">
+    	     the issuance of the group policy is not contrary to the best interests of the public;
+        </section>
+        <section prefix="2">
+    	     the issuance of the group policy would result in economies of acquisition or administration; and
+        </section>
+        <section prefix="3">
+    	     the benefits are reasonable in relation to the premiums charged.
+        </section>
+        <section prefix="b">
+    	     The premium for the policy shall be paid either from the policyholder’s funds or from funds contributed by the covered persons, or from both.
+        </section>
+        <section prefix="c">
+    	     An insurer may exclude or limit the coverage on any person as to whom evidence of individual insurability is not satisfactory to the insurer.
+        </section>
+    </text>
+</law>

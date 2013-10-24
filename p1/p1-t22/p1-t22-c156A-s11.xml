@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Proxies; Voting Trusts</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No proxy for shares of a professional corporation shall be valid unless it shall be given to a qualified person, or unless it is limited to voting for one or more of the actions described in subsection (a) of section thirteen under the circumstances described therein. A voting trust with respect to shares of a professional corporation shall not be valid unless all the trustees and beneficiaries thereof are qualified persons, except that such voting trust may be validly continued for a period of not more than six months after the death of a trustee or beneficiary or for a period of not more than six months after a trustee or beneficiary has become a disqualified person.
+    </text>
+</law>

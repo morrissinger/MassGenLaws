@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149" order_by="149" level="3">Labor And Industries</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Nondiscrimination</catch_line>
+    <order_by>43</order_by>
+    <text>
+        The application of a citizen of the commonwealth for employment in any department of the commonwealth or of any political subdivision thereof or in any department of a street railway company, operated, owned, controlled or financially aided in any way by the commonwealth, or by any political subdivision thereof, shall not be affected by the applicant’s national origin, race or color.
+    </text>
+</law>

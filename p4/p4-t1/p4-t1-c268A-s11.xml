@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="268A" order_by="268A" level="3">Conduct Of Public Officials And Employees</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>County Employees; Receiving Or Requesting Compensation From, Or Acting As Agent Or Attorney For Other Than County Agency</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     No county employee shall, otherwise than as provided for the proper discharge of official duties, directly or indirectly receive or request compensation from anyone other than a county or a county agency in relation to any particular matter in which a county agency is a party or has a direct and substantial interest.
+        </section>
+        <section prefix="b">
+    	     No person shall knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly give, promise or offer such compensation.
+        </section>
+        <section prefix="c">
+    	     No county employee shall, otherwise than as provided by law for the proper discharge of official duties, act as agent or attorney for anyone other than a county or a county agency in prosecuting any claim against a county or county agency, or as agent or attorney for anyone in connection with any particular matter in which a county or county agency is a party or has a direct and substantial interest.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Oath To Articles By Directors; Liability To Stockholders</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     A true copy of the agreement of association and the names of the subscribers thereto, or, if the corporation is created by special act, a copy of the act of incorporation.
+        </section>
+        <section prefix="b">
+    	     The date of the first meeting and of the successive adjournments thereof, if any.
+        </section>
+        <section prefix="c">
+    	     Subject to section fourteen, the amount of capital stock then to be issued, the amount thereof to be paid for in full in cash, the amount thereof to be paid for in cash by instalments and the instalment to be paid before the corporation commences business, and the amount thereof to be paid for in property. If such property consists in any part of real estate, its location, area and the amount of stock to be issued therefor shall be stated; if any part of such property is personal, it shall be described in such detail as the commissioner may require, and the amount of stock to be issued therefor stated. If any part of the capital stock is issued for services or expenses, the nature of such services or expenses and the amount of stock which is issued therefor shall be clearly stated.
+        </section>
+        <section prefix="d">
+    	     The name, residence and post office address of each of the officers of the corporation.
+        </section>
+        <section prefix="e">
+    	     A certification that the provisions of sections eight and nine relative to the calling and holding of the first meeting of the corporation, and the election of a temporary clerk, the adoption of by-laws, and the election of officers have been complied with.
+        </section>
+        <section prefix="f">
+    	     The final day of the corporation’s fiscal year and the date provided in the by-laws for the annual meeting.
+        </section>
+    </text>
+</law>

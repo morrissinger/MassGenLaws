@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Summons For Attendance At Criminal Trial Outside State</catch_line>
+    <order_by>12</order_by>
+    <text>
+        A justice of the peace, upon receipt of a certificate of the clerk of a court of record in the state of Maine or in a state adjoining this commonwealth that a criminal prosecution is pending in such court, and that a resident of the commonwealth is supposed to be a material witness therein, shall issue a summons requiring such witness to appear and testify at the court in which such case is pending.
+    </text>
+</law>

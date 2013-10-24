@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255E" order_by="255E" level="3">Licensing Of Certain Mortgage Lenders And Brokers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Penalties; No Limitation On Civil Action; Review</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever the commissioner finds that any licensee or exempt person under section 2 has violated this chapter or any rule or regulation adopted thereunder, or any other law of the commonwealth applicable to the conduct of the business of making or brokering mortgage loans on residential property in the commonwealth, the commissioner may, by order, in addition to any other action authorized under this chapter or any rule or regulation made thereunder, impose a penalty upon the person which shall not exceed $5,000 for each violation, up to a maximum of $100,000 for such violation plus the costs of investigation. The commissioner may impose a penalty which shall not exceed $5,000 for each violation of this chapter, or any rule or regulation adopted thereunder, by a person other than a licensee or exempt person under section 2, plus the costs of investigation.
+        </section>
+        <section prefix="b">
+    	     Nothing in this section shall limit the right of any individual or entity who has been injured as a result of any violation of this chapter by a licensee, or any person other than a licensee or exempt person under section 2, to bring an action to recover damages or restitution in a court of competent jurisdiction.
+        </section>
+        <section prefix="c">
+    	     Any findings or order issued by the commissioner pursuant to this section shall be subject to review as provided in chapter 30A.
+        </section>
+    </text>
+</law>

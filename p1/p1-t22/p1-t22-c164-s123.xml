@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Prepayment Meters; Risk Of Loss Of Deposits</catch_line>
+    <order_by>123</order_by>
+    <text>
+        All gas and electric companies using prepayment meters shall be responsible for the loss by fire of any money deposited in said meters.
+    </text>
+</law>

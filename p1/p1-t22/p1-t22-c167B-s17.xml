@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Remedies For Wrong Resolution Of Account Error Resulting From Electronic Funds Transfer</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A financial institution shall comply with the requirements and a consumer shall be entitled to the remedies for error resolution for an electronic fund transfer required in accordance with the Electronic Funds Transfer Act, 15 USC 1693 et seq. and regulations promulgated thereunder. If in an action under section 20, the court finds that the financial institution knowingly and willfully concluded that the consumer’s account was not in error when the conclusion could not reasonably have been drawn from the evidence available to the financial institution at the time of its investigation, then the consumer shall be entitled to treble damages determined under clause (1) of subsection (a) of said section 20.
+    </text>
+</law>

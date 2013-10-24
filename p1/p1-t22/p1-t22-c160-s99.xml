@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>99</section_number>
+    <catch_line>Material Used To Surface Bridges And Approaches</catch_line>
+    <order_by>99</order_by>
+    <text>
+        Cities and towns may make agreements with railroad corporations in regard to the kind of material, form of construction and payment of the cost of the wearing surface of bridges and approaches over or under a public way, wherever the railroad company is required by law to maintain such surface.
+    </text>
+</law>

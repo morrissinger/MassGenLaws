@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="172" order_by="172" level="3">Trust Companies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Agreement Of Association</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a corporation;
+        </section>
+        <section prefix="b">
+    	     The name by which the corporation shall be known;
+        </section>
+        <section prefix="c">
+    	     The location of the principal office of the corporation, which shall be within the commonwealth;
+        </section>
+        <section prefix="d">
+    	     The purposes for which the corporation is formed and the nature of the business to be transacted;
+        </section>
+        <section prefix="e">
+    	     The amount and classes of its capital stock, and the number of shares into which any class is to be divided;
+        </section>
+        <section prefix="f">
+    	     The amount of the surplus account;
+        </section>
+        <section prefix="g">
+    	     The amount of the undivided profits account; and
+        </section>
+        <section prefix="h">
+    	     The name of each incorporator and his residence, post office address, and the number of shares of capital stock, if any, which he agrees to take and the class or classes of such shares.
+        </section>
+    </text>
+</law>

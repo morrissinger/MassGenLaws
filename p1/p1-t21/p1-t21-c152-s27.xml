@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Willful Misconduct Of Employee</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If the employee is injured by reason of his serious and wilful misconduct, he shall not receive compensation; but this provision shall not bar compensation to his dependents if the injury results in death.
+    </text>
+</law>

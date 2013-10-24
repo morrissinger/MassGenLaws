@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Application For Reinstatement By Limited Liability Company Subject To Administrative Dissolution Or Revocation Of Authority To Transact Business</catch_line>
+    <order_by>71</order_by>
+    <text>
+        <section prefix="1">
+    	     recite the name of the limited liability company and the effective date of its administrative dissolution or revocation;
+        </section>
+        <section prefix="2">
+    	     state that the grounds for dissolution or revocation either did not exist or have been corrected;
+        </section>
+        <section prefix="3">
+    	     state that the name of the limited liability company satisfies the requirements of section 3; provided, however, that if the state secretary determines that the application contains the full and correct information, he shall reinstate the limited liability company.
+        </section>
+    </text>
+</law>

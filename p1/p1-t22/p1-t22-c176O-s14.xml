@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176O" order_by="176O" level="3">Health Insurance Consumer Protections</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Review Panel; Patient Protection Office</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     An insured who remains aggrieved by an adverse determination and has exhausted all remedies available from the formal internal grievance process required pursuant to section 13, may seek further review of the grievance by a review panel established by the office of patient protection pursuant to paragraph (5) of subsection (a) of section 217 of chapter 111. The insured shall pay the first $25 of the cost of the review to said office which may waive the fee in cases of extreme financial hardship. The commonwealth shall assess the carrier for the remainder of the cost of the review pursuant to regulations promulgated by the commissioner of public health in consultation with the commissioner of insurance. The office of patient protection shall contract with at least three unrelated and objective review agencies through a bidding process, and refer grievances to one of the review agencies on a random selection basis. The review agencies shall develop review panels appropriate for the given grievance, which shall include qualified clinical decision-makers experienced in the determination of medical necessity, utilization management protocols and grievance resolution, and shall not have any financial relationship with the carrier making the initial determination. The standard for review of a grievance by such a panel shall be the determination of whether the requested treatment or service is medically necessary, as defined herein, and a covered benefit under the policy or contract. The panel shall consider, but not be limited to considering: (i) written documents submitted by the insured, (ii) additional information from the involved parties or outside sources that the review panel deems necessary or relevant, and (iii) information obtained from any informal meeting held by the panel with the parties. The panel shall send final written disposition of the grievance, and the reasons therefor, to the insured and the carrier within 60 days of receipt of the request for review, unless the panel determines additional time is necessary to fully and fairly evaluate the grievance and notifies the carrier and the insured of the decision to extend the review beyond 60 days.
+        </section>
+        <section prefix="b">
+    	     If a grievance is filed concerning the termination of ongoing coverage or treatment, the disputed coverage or treatment shall remain in effect through completion of the formal internal grievance process. An insured may apply to the external review panel to seek continued provision of health care services which are the subject of the grievance during the course of said external review upon a showing of substantial harm to the insured’s health absent such continuation, or other good cause as determined by the panel.
+        </section>
+        <section prefix="c">
+    	     The decision of the review panel shall be binding. The superior court shall have jurisdiction to enforce the decision of the review panel.
+        </section>
+        <section prefix="d">
+    	     A carrier shall allow a guardian, conservator, holder of a power of attorney, family member, or other responsible party to act as the insured’s representative in the event that an insured is unable to pursue a grievance due to physical or mental disability. An insured may designate such a representative or, if the insured is unable to so designate, a guardian, conservator, holder of a power of attorney or family member, in order of priority, may serve as representative or may designate another responsible party to act as representative. The representative shall have the same rights of grievance as the insured, including the right to review the insured’s medical file relevant to a dispute concerning coverage or treatment.
+        </section>
+        <section prefix="e">
+    	     The grievance procedures authorized by this section shall be in addition to any other procedures that may be available to any insured pursuant to contract or law, and failure to pursue, exhaust or engage in the procedures described in this subsection shall not preclude the use of any other remedy provided by any contract or law.
+        </section>
+        <section prefix="f">
+    	     No health care provider nor any agent or employee thereof, shall provide information relative to unpaid charges for health care services to a consumer reporting agency, as defined by section 50 of chapter 93, while an internal or external review under this section is pending, or for 15 days following the resolution of such a grievance.
+        </section>
+    </text>
+</law>

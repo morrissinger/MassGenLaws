@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>4.02</section_number>
+    <catch_line>Reserved Name</catch_line>
+    <order_by>4.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A person may reserve the exclusive use of a corporate name, including a fictitious name for a foreign corporation whose corporate name is not available, by delivering an application to the secretary of state for filing. The application shall set forth the name and address of the applicant and the name proposed to be reserved. If the secretary of state finds that the corporate name applied for is available, he shall reserve the name for the applicant’s exclusive use for a 60-day period and, upon the applicant’s written request within the 60-day period, extend the reservation for an additional 60-day period.
+        </section>
+        <section prefix="b">
+    	     The holder of a reserved corporate name may transfer the reservation to another person by delivering to the secretary of state a signed notice of the transfer that states the name and address of the transferee.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>114</section_number>
+    <catch_line>Filing Fees</catch_line>
+    <order_by>114</order_by>
+    <text>
+        <section prefix="a">
+    	     The fee for filing the articles of organization required by section twelve.
+        </section>
+        <section prefix="b">
+    	     The fee for filing articles of amendment required by section seventy-two or seventy-three as follows:
+        </section>
+        <section prefix="1">
+    	     Articles of amendment providing for an increase of the total amount of authorized capital stock with par value.
+        </section>
+        <section prefix="2">
+    	     Articles of amendment providing for a change of shares with par value to shares without par value.
+        </section>
+        <section prefix="3">
+    	     Articles of amendment providing for an increase in the number of shares without par value.
+        </section>
+        <section prefix="4">
+    	     Articles of amendment providing for a change of shares without par value into shares with par value or for an exchange of shares without par value for shares with par value.
+        </section>
+        <section prefix="5">
+    	     Any other articles of amendment.
+        </section>
+        <section prefix="c">
+    	     The fee for filing restated articles of organization in accordance with section seventy-four; provided, however, that in the event such restated articles of organization incorporate any amendment to the original articles of organization as theretofore amended, there shall be added to such filing fee the amount of the filing fee that would have been required under subsection (b) of this section if such amendment had been incorporated in articles of amendment filed in accordance with section seventy-two.
+        </section>
+        <section prefix="d">
+    	     The fee for filing articles of consolidation or merger as follows:
+        </section>
+        <section prefix="1">
+    	     Articles of consolidation or merger in accordance with section seventy-eight.
+        </section>
+        <section prefix="2">
+    	     Articles of consolidation or merger in accordance with section seventy-nine, if the resulting or surviving corporation is a corporation organized under the laws of the commonwealth.
+        </section>
+        <section prefix="3">
+    	     Articles of consolidation or merger in accordance with section seventy-nine, if the resulting or surviving corporation is organized under the laws of another state.
+        </section>
+        <section prefix="4">
+    	     Articles of consolidation or merger in accordance with section eighty-two.
+        </section>
+        <section prefix="5">
+    	     Articles of consolidation or merger in accordance with section eighty-three.
+        </section>
+        <section prefix="e">
+    	     The fee for filing a certificate pursuant to section twenty-six.
+        </section>
+        <section prefix="f">
+    	     The fee for filing articles of dissolution under section one hundred.
+        </section>
+        <section prefix="g">
+    	     The fee for filing all other certificates, statements or reports required by this chapter, but no fee shall be paid for filing the certificate of change of principal office of the corporation in the commonwealth required by section fourteen, the certificate of change of date of annual meeting or change of fiscal year required by section thirty-eight, the certificate of change of officers required by section fifty-three or any certificate relating to a resident agent of a corporation filed under section forty-nine.
+        </section>
+        <section prefix="h">
+    	     For the purposes of this section only, shares of stock with a par value of less than one dollar shall be deemed to have a par value of one dollar per share.
+        </section>
+    </text>
+</law>

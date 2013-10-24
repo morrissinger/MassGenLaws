@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Inaccuracies In, And Want Of, Notice</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Such notice shall not be held invalid or insufficient by reason of any inaccuracy in stating the time, place or cause of the injury unless it is shown that it was the intention to mislead and that the insurer was in fact misled thereby. Want of notice shall not bar proceedings, if it be shown that the insurer, insured or agent had knowledge of the injury, or if it is found that the insurer was not prejudiced by such want of notice.
+    </text>
+</law>

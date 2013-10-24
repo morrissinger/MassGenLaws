@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="169" order_by="169" level="3">Receipts Of Deposits For Transmittal To Foreign Countries</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>1</order_by>
+    <text>
+        This chapter shall apply to all persons who engage or are financially interested in the business of receiving deposits of money for the purpose of transmitting the same or equivalents thereof to foreign countries, except banks chartered by the commonwealth, banks chartered by the federal government or another state of the United States and authorized to do banking business in the commonwealth, persons doing business under sections thirty-eight to forty-three, inclusive, of chapter one hundred and sixty-seven, express companies having contracts with transportation companies for the operation of an express service upon the lines of such companies or express companies doing an international express business or global transportation companies or telegraph companies.
+    </text>
+</law>

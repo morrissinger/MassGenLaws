@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>9.41</section_number>
+    <catch_line>Articles Of Domestication And Conversion</catch_line>
+    <order_by>9.41</order_by>
+    <text>
+        <section prefix="a">
+    	     After the conversion of a foreign nonprofit corporation to a domestic business corporation has been authorized as required by the laws of the foreign jurisdiction, articles of domestication and conversion shall be executed by any officer or other duly authorized representative. The articles shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation immediately before the filing of the articles of domestication and conversion and, if that name is unavailable for use in the commonwealth or the corporation desires to change its name in connection with the domestication and conversion, a name that satisfies the requirements of section 4.01;
+        </section>
+        <section prefix="2">
+    	     the jurisdiction of incorporation of the corporation immediately before the filing of the articles of domestication and conversion and the date the corporation was incorporated in that jurisdiction; and
+        </section>
+        <section prefix="3">
+    	     a statement that the domestication and conversion of the corporation in the commonwealth was duly authorized as required by the laws of the jurisdiction in which the corporation was incorporated immediately before its domestication and conversion in the commonwealth.
+        </section>
+        <section prefix="b">
+    	     The articles of domestication and conversion shall either contain all of the provisions that subsection (a) of section 2.02 requires to be set forth in articles of organization and any other desired provisions that subsection (b) of section 2.02 permits to be included in articles of organization, or shall have attached articles of organization. In either case, provisions that would not be required to be included in restated articles of organization may be omitted.
+        </section>
+        <section prefix="c">
+    	     The articles of domestication and conversion shall be delivered by the corporation to the secretary of state for filing and shall take effect at the effective time provided in section 1.23.
+        </section>
+        <section prefix="d">
+    	     The corporation shall file a copy of the articles of domestication and conversion certified by the state secretary in the registry of deeds in each district within the commonwealth in which real property of the corporation is situated. The domestication and conversion shall be valid and effective in accordance with the terms of the plan of domestication and conversion and the articles of domestication and conversion delivered to the secretary of state pursuant to subsection (c), notwithstanding any failure to make the filing.
+        </section>
+        <section prefix="e">
+    	     If the foreign nonprofit corporation is authorized to transact business in the commonwealth under this chapter, its authority shall be cancelled automatically on the effective date of its domestication and conversion.
+        </section>
+    </text>
+</law>

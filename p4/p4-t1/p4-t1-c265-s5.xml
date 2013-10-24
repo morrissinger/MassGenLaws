@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Duel; Conviction Or Acquittal In Foreign State; Effect</catch_line>
+    <order_by>5</order_by>
+    <text>
+        A person indicted under either of the two preceding sections may plead a former conviction or acquittal of the same crime in any other state or country; and if his plea is admitted or established, it shall be a bar to all further proceedings against him for the same crime within this commonwealth.
+    </text>
+</law>

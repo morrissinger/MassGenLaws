@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>124D</section_number>
+    <catch_line>Shutting Off Gas Or Electric Service To Tenants Not Customer Of Record</catch_line>
+    <order_by>124D</order_by>
+    <text>
+        <section prefix="a">
+    	     the amount then due and payable for such gas or electric service;
+        </section>
+        <section prefix="b">
+    	     the date on or after which such service will be shut off, such date to be not less than fifteen nor more than thirty days, as determined by the department, after the day on which such notice is first given;
+        </section>
+        <section prefix="c">
+    	     the date on which said notice is given; and
+        </section>
+        <section prefix="d">
+    	     the right of the occupants of such building to pay the amount due or such portion thereof as is prescribed by regulation of the department and thereby avoid a cessation of service, and to recover the amounts so paid from the person to whom they would otherwise pay their rent.
+        </section>
+    </text>
+</law>

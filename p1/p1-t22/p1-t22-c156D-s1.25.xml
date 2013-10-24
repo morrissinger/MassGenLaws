@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.25</section_number>
+    <catch_line>Filing Duty Of Secretary Of State</catch_line>
+    <order_by>1.25</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon receipt of a document for filing, except an annual report filed pursuant to section 16.22, the secretary of state shall record the date and time of receipt on or with the document and, if the person submitting the document or his representative so requests, furnish evidence of the date and time of receipt to the person or his representative in a form as the secretary of state shall determine.
+        </section>
+        <section prefix="b">
+    	     The secretary of state shall examine each document received by him for filing. If he finds that the relevant provisions of law have been satisfied, he shall evidence his approval on or with the document. Upon such approval and the payment of the fee authorized by section 1.22, the document shall be deemed to be filed with the secretary of state.
+        </section>
+        <section prefix="c">
+    	     If the secretary of state refuses to file a document, he shall notify the person or his representative in writing of the refusal and his reasons therefor within 90 days after receipt in the case of annual reports under section 16.22 or within 5 days after receipt in the case of other documents.
+        </section>
+        <section prefix="d">
+    	     The secretary of state shall keep a record of each document received, of the date and time of its receipt for filing, and of the date and, if requested, the time of his approval for filing, and shall keep the document and such records on file in his office in a manner convenient for public inspection.
+        </section>
+    </text>
+</law>

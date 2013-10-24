@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>90</section_number>
+    <catch_line>Absent Defendant; Notice</catch_line>
+    <order_by>90</order_by>
+    <text>
+        If the defendant is not within the commonwealth and has no attorney therein, the notice in writing shall be left at his last and usual place of abode, if any, in the commonwealth; otherwise, it shall be delivered to, or left at the dwelling house or place of business of, the person who had possession of the property at the time of the attachment.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="251" order_by="251" level="3">Uniform Arbitration Act For Commercial Disputes</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Hearings; Time And Place; Rights Of Parties; Conduct Of Hearings</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The arbitrators shall appoint a time and place for the hearing and cause written notice to the parties to be served personally or by registered mail not less than five days before the hearing. Appearance at the hearing shall constitute a waiver of such notice. The arbitrators may adjourn the hearing from time to time and, on request of a party and for good cause, or upon their own motion may postpone the hearing to a time not later than the date fixed by the agreement for making the award unless the parties consent to a later date. The arbitrators may hear and determine the controversy upon the evidence produced notwithstanding the failure of a party duly notified to appear. The court on application may direct the arbitrators to proceed promptly with the hearing and determination of the controversy.
+        </section>
+        <section prefix="b">
+    	     The parties shall have the right to be heard, to present evidence material to the controversy and to cross-examine witnesses appearing at the hearing.
+        </section>
+        <section prefix="c">
+    	     The hearing shall be conducted by all the arbitrators but a majority may determine any question and render a final award. If, during the course of the hearing, an arbitrator for any reason ceases to act, the remaining arbitrator or arbitrators appointed to act as neutrals may continue with the hearing and determination of the controversy.
+        </section>
+    </text>
+</law>

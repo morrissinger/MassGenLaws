@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255B" order_by="255B" level="3">Retail Instalment Sales Of Motor Vehicles</unit>
+    </structure>
+    <section_number>20B</section_number>
+    <catch_line>Repossession Of Collateral On Default; Hearing; Redemption;  Disposition; Deficiency; Insurance Proceeds; Determination Of Value</catch_line>
+    <order_by>20B</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to the provisions of this section and section 20A a secured creditor under a consumer credit transaction may take possession of collateral. In taking possession the secured creditor under a consumer credit transaction may proceed without a prior hearing only if the default is material and consists of the debtors failure to make one or more payments as required by the agreement or the occurrence of an event which substantially impairs the value of the collateral and only if possession can be obtained without use of force, without breach of peace and unless the debtor consents to an entry, at the time of such entry, without entry on property owned by or rented to the debtor.
+        </section>
+        <section prefix="b">
+    	     Except as provided in subsection (a) a creditor under a consumer credit transaction may proceed against collateral only after a prior hearing. In any proceeding where possession of the collateral is part of the relief sought by a holder no court shall allow a secured creditor to take possession of collateral until the right of the creditor to take possession has been determined at a hearing at which the buyer has an opportunity to be heard having been notified in writing of said hearing at least seven days in advance thereof.
+        </section>
+        <section prefix="c">
+    	     The buyer under a secured consumer credit transaction may redeem the collateral from the holder at any time within twenty days of the creditor’s taking possession of the collateral, or thereafter until the creditor has either disposed of the collateral, entered into a contract for its disposition, or gained the right to retain the collateral in satisfaction of the buyer’s obligation.
+        </section>
+        <section prefix="d">
+    	     The creditor may after gaining possession sell or otherwise dispose of the collateral. Unless displaced by the provisions of this section and section twenty A the rights and obligations of the parties, including the redemption and disposition of the collateral shall be governed by the provisions of Part 6 of Article 9 of chapter 106. Notwithstanding the provisions in Part 6 of Article 9 of chapter 106, if, in connection with a consumer credit transaction which involves an unpaid balance of two thousand dollars or less and which is at the time of default secured by a non-possessory security interest in consumer goods, the creditor takes possession of or accepts surrender of the collateral, the debtor shall not be liable for any deficiency. If the agreement between the creditor and debtor provides that the debtor is to obtain insurance protecting the collateral against fire, theft, collision or other hazards and naming the creditor as loss payee and if, prior to the repossession or surrender of the collateral, loss or damage occurs which would give rise to insurance proceeds under the terms of the policy in force, then nothing in this section shall be deemed to limit the creditor’s rights to so much of the insurance proceeds as does not exceed the fair market value of the collateral existing just prior to the loss or damage and, if insurance as required by the agreement is not in force at the time of the loss or damage, nothing in this section shall be deemed to limit the creditor’s rights in proceeding against any third party who is responsible for the loss or damage in the name of the debtor or otherwise. For the purposes of this section the unpaid balance of a consumer credit transaction shall be that amount which the debtor would have been required to pay upon prepayment.
+        </section>
+        <section prefix="e">
+    	     (1) If the unpaid balance of the consumer credit transaction at the time of default was two thousand dollars or more the creditor shall be entitled to recover from the debtor the deficiency, if any, resulting from deducting the fair market value of the collateral from the unpaid balance due and shall also be entitled to any reasonable repossession and storage costs, provided he has complied with all provisions of this section.
+        </section>
+        <section prefix="2">
+    	     In a proceeding for a deficiency the fair market value of the collateral shall be a question for the court to determine. Periodically published trade estimates of the retail value of goods shall, to the extent they are recognized in the particular trade or business, be presumed to be the fair market value of the collateral.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176I" order_by="176I" level="3">Preferred Provider Arrangements</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Health Benefit Plans; Genetic Tests; Discrimination Based On Genetic Information</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        For the purposes of this section the following words shall have the following meanings:— 
+“Genetic information”, a written recorded individually identifiable result of a genetic test as defined by this section or explanation of such a result. 
+“Genetic test”, a test of human DNA, RNA, mitochondrial DNA, chromosomes or proteins for the purpose of identifying the genes, or genetic abnormalities, or the presence or absence of inherited or acquired characteristics in genetic material. 
+No organization and no preferred provider shall cancel, refuse to issue or renew, or in any way make or permit any distinction or discrimination in the amount of payment of premiums or rates charged, in the length of coverage or in any of the terms and conditions of a health benefit plan based on genetic information as defined in this section. No organization and no preferred provider shall require genetic tests or private genetic information, as defined in this section, as a condition of the issuance or renewal of a health benefit plan.
+    </text>
+</law>

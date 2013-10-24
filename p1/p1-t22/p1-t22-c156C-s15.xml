@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Execution Of Certificate By Authorized Person</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Each certificate required by this chapter to be filed in the office of the state secretary shall be executed:
+        </section>
+        <section prefix="1">
+    	     by any manager if the limited liability company has managers or by any other authorized person set forth in the certificate of organization or any amendment thereto;
+        </section>
+        <section prefix="2">
+    	     if the limited liability company has not been formed, by the person or persons forming the limited liability company; or
+        </section>
+        <section prefix="3">
+    	     if the limited liability company is in the hands of a receiver, trustee, or other court-appointed fiduciary, by such receiver, trustee or fiduciary.
+        </section>
+        <section prefix="b">
+    	     Unless otherwise provided in the operating agreement, any person may sign any certificate or amendment thereto or enter into the operating agreement or amendment thereto by an agent, including an attorney-in-fact. An authorization, including a power of attorney, to sign any certificate or amendment thereto or to enter into the operating agreement or amendment thereto need not be in writing, need not be sworn to, verified or acknowledged, and need not be filed in the office of the state secretary, but if in writing, must be retained by the limited liability company.
+        </section>
+        <section prefix="c">
+    	     The execution of a certificate by an authorized person constitutes an affirmation, under the penalties of perjury, that the facts stated therein are true.
+        </section>
+    </text>
+</law>

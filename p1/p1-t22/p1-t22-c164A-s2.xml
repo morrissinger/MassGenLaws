@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164A" order_by="164A" level="3">New England Power Pool</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Agreement Provisions Authorized</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     the pooling of power;
+        </section>
+        <section prefix="b">
+    	     coordination of planning, construction and operation and the manner of establishing and enforcing standards and other requirements;
+        </section>
+        <section prefix="c">
+    	     delegation of authority to administrative committees;
+        </section>
+        <section prefix="d">
+    	     amendments of the agreement by vote or other action of the participants or of committees in the manner specified therein, subject to the right of any participant to withdraw in the event of its nonconcurrence with an amendment;
+        </section>
+        <section prefix="e">
+    	     appointment of representatives to act for one or more participants in regard to amendments and other matters;
+        </section>
+        <section prefix="f">
+    	     the allocation of pool expenses among participants;
+        </section>
+        <section prefix="g">
+    	     the provision of new, altered, improved or enlarged facilities by the participants subject to such proceedings as may be required by law for undertaking or financing any such project;
+        </section>
+        <section prefix="h">
+    	     limitations on other actions by the participants which might be inconsistent with the agreement or might adversely affect its implementation;
+        </section>
+        <section prefix="i">
+    	     arbitration; and
+        </section>
+        <section prefix="j">
+    	     other matters deemed necessary or desirable in order to carry out the purpose of the agreement.
+        </section>
+    </text>
+</law>

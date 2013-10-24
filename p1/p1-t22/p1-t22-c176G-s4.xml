@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Required Coverage For Certain Conditions And Groups</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     pregnant women, infants and children as set forth in section 47C of chapter 175;
+        </section>
+        <section prefix="b">
+    	     cardiac rehabilitation as set forth in section 47D of chapter 175;
+        </section>
+        <section prefix="c">
+    	     prenatal care, childbirth and postpartum care as set forth in section 47F of chapter 175;
+        </section>
+        <section prefix="d">
+    	     cytologic screening and mammographic examination as set forth in section 47G of chapter 175;
+        </section>
+        <section prefix="e">
+    	     diagnosis and treatment of infertility as set forth in section 47H of chapter 175; and
+        </section>
+        <section prefix="f">
+    	     services rendered by a certified registered nurse anesthetist or nurse practitioner as set forth in section 47Q of chapter 175, subject to the terms of a negotiated agreement between the health maintenance organization and the provider of health care services.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="168" order_by="168" level="3">Savings Banks</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Board Of Investment; Membership; Reports; Meetings</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     The corporation shall have a board of investment of not less than 5 members, who shall be trustees of the corporation. Only 1 of the persons holding the office or performing the duties of president, executive vice president, senior vice president or treasurer shall at the same time be a member of the board of investment. The board shall elect a clerk who may, but need not be a member of the board. The board of investment may invite 1 or more trustees who are not members of the board to attend its meetings during the monthly, quarterly or semi-annual periods as the board may determine.
+        </section>
+        <section prefix="b">
+    	     At least quarterly, the treasurer or other officer designated by the board of investment shall submit to the board of investment, a written report, over his signature, covering the period for which the report has not yet been submitted. The report shall be filed with the records of the meeting and shall be retained for a period of 6 years from the date of the meeting. The report shall include the following transactions:
+        </section>
+        <section prefix="1">
+    	     changes in investments;
+        </section>
+        <section prefix="2">
+    	     changes in reserve or contingency accounts;
+        </section>
+        <section prefix="3">
+    	     lists of the following loans, setting forth the total liabilities of the borrower to the corporation, both secured and unsecured:
+        </section>
+        <section prefix="i">
+    	     loans in excess of $50,000 each, overdue for more than 30 days, other than real estate mortgage loans, but for a bank with total assets in excess of $1,000,000,000 as of its most recent call report, loans reportable in this category shall be those in excess of $100,000, and for a bank with total assets in excess of $10,000,000,000 as of its most recent call report, loans reportable shall be those in excess of $1,000,000;
+        </section>
+        <section prefix="ii">
+    	     real estate mortgage loans on which interest is more than 6 months in arrears;
+        </section>
+        <section prefix="iii">
+    	     real estate mortgage loans concerning which any tax upon the underlying security has been paid by and not repaid to the corporations; and
+        </section>
+        <section prefix="iv">
+    	     loans secured and unsecured, and discounts of any borrower including both direct and indirect liabilities made during which the period which brings aggregate liabilities of the borrower to an amount in excess of $100,000, with annotation of any line of credit possessed by the borrower, but, for a bank with total assets in excess of $1,000,000,000 as of its most recent call report, the reportable threshold amount of aggregate liabilities outstanding to a single borrower shall be the greater of $500,000 or 1 per cent of undistributed capital and surplus.
+        </section>
+        <section prefix="c">
+    	     Upon application in writing by the corporation, the commissioner in his discretion may waive or modify the list of transactions to be included in the report.
+        </section>
+        <section prefix="d">
+    	     Meetings of the board of investment shall be held at least once in each month. A record shall be made at each meeting of the transactions of the board and of the names of those present.
+        </section>
+    </text>
+</law>

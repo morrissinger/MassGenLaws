@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Dissolution Of Limited Liability Company</catch_line>
+    <order_by>43</order_by>
+    <text>
+        <section prefix="1">
+    	     the time specified in the operating agreement;
+        </section>
+        <section prefix="2">
+    	     the happening of an event as specified in the operating agreement;
+        </section>
+        <section prefix="3">
+    	     the written consent of all members;
+        </section>
+        <section prefix="4">
+    	     with respect to a limited liability company formed prior to January 1, 1997, except as provided in a written operating agreement, the death, insanity, retirement, resignation, expulsion, bankruptcy or dissolution of a member or the occurrence of any other event which terminates the membership of a member in the limited liability company unless the business of the limited liability company is continued either by the consent of all the remaining members within ninety days following the occurrence of any such event or pursuant to a right to continue stated in a written operating agreement; or
+        </section>
+        <section prefix="5">
+    	     the entry of a decree of judicial dissolution under section forty-four.
+        </section>
+    </text>
+</law>

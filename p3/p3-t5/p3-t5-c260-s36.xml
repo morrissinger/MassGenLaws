@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Application; Computation</catch_line>
+    <order_by>36</order_by>
+    <text>
+        The provisions of law relative to limitations of actions shall apply to a counterclaim by the defendant. The time of such limitation shall be computed as if an action had been commenced therefor at the time the plaintiff’s action was commenced. 
+Notwithstanding the provisions of the first paragraph of this section, a counterclaim arising out of the same transaction or occurrence that is the subject matter of the plaintiff’s claim, to the extent of the plaintiff’s claim, may be asserted without regard to the provisions of law relative to limitations of actions. 
+This section shall apply to actions brought by the commonwealth or for its benefit.
+    </text>
+</law>

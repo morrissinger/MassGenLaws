@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>5A</section_number>
+    <catch_line>Divorced Or Separated Spouses; Coverage</catch_line>
+    <order_by>5A</order_by>
+    <text>
+        <section prefix="a">
+    	     In the event of the granting of a judgment absolute of divorce or of separate support to which a member of a group health maintenance contract is a party, the person who was the spouse of said member prior to the issuance of such judgment shall be and remain eligible for benefits under said contract, whether or not said judgment was entered prior to the effective date of said contract, without additional premium or examination therefor, as if said judgment had not been entered; provided, however, that such eligibility shall not be required if said judgment so provides. Such eligibility shall continue through the member’s participation in the contract until the remarriage of either the member or such spouse, or until such time as provided by said judgment, whichever is earlier.
+        </section>
+        <section prefix="b">
+    	     In the event of the remarriage of the member referred to in paragraph (a), the former spouse thereafter shall have the right, if so provided in said judgment, to continue to receive benefits as are available to the member, by means of the addition of a rider to the family contract or the issuance of an individual contract, either of which may be at additional premium rates determined by the commissioner of insurance to be just and reasonable in accordance with the additional insuring risks involved.
+        </section>
+        <section prefix="c">
+    	     The name, address, and policy number of a person eligible for health insurance coverage pursuant to paragraph (a) or (b), if available, shall be forwarded by such health maintenance organization to the department of public welfare within thirty days of the date when coverage of said person under said paragraph (a) or (b) is commenced.
+        </section>
+        <section prefix="d">
+    	     Notice of cancellation of coverage of the divorced or separated spouse of a member shall be mailed to such divorced or separated spouse at such person’s last known address, together with notice of the right to reinstate coverage retroactively to the date of cancellation.
+        </section>
+        <section prefix="e">
+    	     Claims paid on behalf of a divorced or separated spouse or on behalf of a dependent who is not residing with the member shall be paid to the physician, hospital or other provider of covered services or to the person on whose behalf such services were performed, unless the person is a minor child. In the event the person on whose behalf such services were performed is a minor, payment shall be made to the physician, hospital or other provider of such services or to the parent or custodian with whom the child resides.
+        </section>
+    </text>
+</law>

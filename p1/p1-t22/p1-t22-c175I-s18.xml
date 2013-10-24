@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175I" order_by="175I" level="3">Insurance Information And Privacy Protection</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Penalties; Violations Of Cease And Desist Orders</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     In any case where a hearing pursuant to section fifteen results in the findings of a knowing violation of this chapter, the commissioner may, in addition to the issuance of a cease and desist order as prescribed in section seventeen, order payment of a monetary penalty of not more than one thousand dollars for each such violation; provided, however, that:
+        </section>
+        <section prefix="1">
+    	     in a hearing to which an insurance representative is a party, the monetary penalty imposed against such insurance representative shall not exceed ten thousand dollars in the aggregate for multiple violations; and
+        </section>
+        <section prefix="2">
+    	     in a hearing to which an insurance institution or insurance-support organization is a party, the monetary penalty imposed against such insurance institution or insurance-support organization shall not exceed fifty thousand dollars in the aggregate for multiple violations.
+        </section>
+        <section prefix="b">
+    	     Any person who violates a cease and desist order of the commissioner under section seventeen may, after notice and hearing and upon order of commissioner, be subject to one or more of the following penalties, at the discretion of the commissioner:
+        </section>
+        <section prefix="1">
+    	     a monetary fine of not more than ten thousand dollars for each such violation;
+        </section>
+        <section prefix="2">
+    	     a monetary fine of not more than fifty thousand dollars if the commissioner finds that such violation has occurred with such frequency as to constitute a general business practice; or
+        </section>
+        <section prefix="3">
+    	     suspension or revocation of an insurance institution’s or insurance representative’s license.
+        </section>
+    </text>
+</law>

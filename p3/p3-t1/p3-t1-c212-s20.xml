@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="212" order_by="212" level="3">The Superior Court</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Civil And Criminal Business; Separation; Jurors</catch_line>
+    <order_by>20</order_by>
+    <text>
+        Except as provided in section twenty-nine, in counties in which separate sittings of the court are established for civil and criminal business, criminal cases only shall be tried by jury at the criminal sittings, and civil cases only at the civil sittings; but jurors summoned for either civil or criminal business may by order of the court be used interchangeably for either civil or criminal business as occasion may require.
+    </text>
+</law>

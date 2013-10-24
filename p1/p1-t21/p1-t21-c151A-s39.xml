@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Determination Of Claim And Benefits; Procedures; Payment Of Claims Or Denials; Default In Payment Of Contributions</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner or his authorized representative shall promptly determine, in accordance with the procedures established by the commissioner, and after making such inquiries and investigations as he deems necessary, whether or not a claim is valid, and the amount, if any, of the benefits payable thereunder. The commissioner shall make every reasonable effort to give notice of such determination within thirty days after the date of filing of the claim, together with the reasons therefor, to the claimant. In the event that the claim is declared valid, the commissioner shall give notice to any employing unit which shall have returned notice in accordance with section thirty-eight. Benefits shall be paid promptly or denied in accordance with such determination.
+        </section>
+        <section prefix="b">
+    	     Any interested party notified of a determination may request a hearing within ten days after delivery in hand by the commissioner’s authorized representative, or mailing of said notice, unless it is determined in accordance with procedures prescribed by the commissioner that the party had good cause for failing to request a hearing within such time. In no event shall good cause be considered if the party fails to request a hearing within thirty days after such delivery or mailing of said notice. If a hearing is so requested, the commissioner or his authorized representative, except when the alternative provided in subsection (d) is invoked, shall afford all interested parties a reasonable opportunity for a fair hearing before an impartial hearing officer designated by the commissioner.
+        </section>
+        <section prefix="1">
+    	     reasonable notice of the time and place of the hearing to all parties in order to permit adequate preparation;
+        </section>
+        <section prefix="2">
+    	     notice of the issues to be considered thereat;
+        </section>
+        <section prefix="3">
+    	     the right of representation by an agent, counsel, or advocate;
+        </section>
+        <section prefix="4">
+    	     the right to produce evidence and offer testimony, examine and cross-examine witnesses; and
+        </section>
+        <section prefix="5">
+    	     making available to a party, upon request and within a reasonable time prior to a hearing, written information and documents in the possession of the commissioner to the extent necessary for the proper presentation of its case.
+        </section>
+        <section prefix="c">
+    	     A full and complete record shall be kept of all proceedings in connection with a disputed claim. All testimony, records, investigation reports and documents in the possession of the commissioner of which he avails himself in making the decision, shall be made part of the record of the proceedings. Any recorded testimony need not be transcribed unless a party to an appeal brought under section forty so requests. The party requesting a transcript shall pay the costs of the transcription. If no such request is made, the board of review may use the recording on appeal.
+        </section>
+        <section prefix="d">
+    	     Whenever a determination involves the application of clause (b) of section twenty-five, the commissioner may immediately refer the case or cases to the board of review for hearing and decision in accordance with clause (d) of section forty-one.
+        </section>
+        <section prefix="e">
+    	     Default in payment of contributions by an employer shall not in any manner adversely affect the rights of an employee otherwise eligible for benefits.
+        </section>
+    </text>
+</law>

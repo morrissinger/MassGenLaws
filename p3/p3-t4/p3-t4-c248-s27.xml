@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="248" order_by="248" level="3">Habeas Corpus And Personal Liberty</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Refusal To Obey Writ; Attachment</catch_line>
+    <order_by>27</order_by>
+    <text>
+        If a person to whom a writ of habeas corpus is directed refuses to receive it, or neglects to execute it according to the provisions of this chapter and no sufficient excuse is shown therefor, the court or justice before whom the writ was returnable shall forthwith by process of attachment, as for a contempt, compel obedience to the writ, and punish the person guilty of the contempt.
+    </text>
+</law>

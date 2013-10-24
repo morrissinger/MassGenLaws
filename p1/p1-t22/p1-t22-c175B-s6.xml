@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175B" order_by="175B" level="3">Unauthorized Insurer’S Process Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Citation</catch_line>
+    <order_by>6</order_by>
+    <text>
+        This chapter may be cited as the unauthorized insurer’s process act.
+    </text>
+</law>

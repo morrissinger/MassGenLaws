@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Cancellation Of Certificate Of Organization</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     the name of the limited liability company;
+        </section>
+        <section prefix="2">
+    	     the date of filing of its certificate of organization;
+        </section>
+        <section prefix="3">
+    	     the reason for filing the certificate of cancellation;
+        </section>
+        <section prefix="4">
+    	     the effective date, which shall be a date certain, of cancellation if it is not to be effective upon the filing of the certificate; and
+        </section>
+        <section prefix="5">
+    	     any other information the person filing the certificate of cancellation determines.
+        </section>
+    </text>
+</law>

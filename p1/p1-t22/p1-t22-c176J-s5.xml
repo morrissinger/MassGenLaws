@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176J" order_by="176J" level="3">Small Group Health Insurance</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Exclusion Of Eligible Employees; Preexisting Conditions; Waiting Periods</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     No policy shall exclude an eligible individual, eligible employee or eligible dependent on the basis of age, occupation, actual or expected health condition, claims experience, duration of coverage or medical condition.
+        </section>
+        <section prefix="b">
+    	     Preexisting conditions provisions shall not exclude coverage for a period beyond 6 months after the individual’s date of enrollment and shall only relate to conditions which had, during the 6 months before an eligible individual’s, eligible employee’s or eligible dependent’s date of enrollment and shall only relate to a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage and for which any medical advice, diagnosis, care or treatment was recommended or received before that date. Preexisting conditions provisions shall not apply to a pregnancy existing on the date of enrollment. A carrier shall not impose a preexisting conditions exclusion or waiting period for Trade Act/Health Coverage Tax Credit Eligible Persons.
+        </section>
+        <section prefix="c">
+    	     No policy shall provide for a waiting period of more than 4 months after the insured’s date of enrollment under the health benefit plan, but an eligible individual who has not had creditable coverage for the 18 months before the date of enrollment shall not be subject to a waiting period and a carrier shall not impose any waiting period upon a new employee who had creditable coverage under a previous qualifying health plan immediately before, or until, employment by the eligible small business. If a policy includes a waiting period, emergency services shall be covered during the waiting period. In determining whether a waiting period applies to an eligible individual, eligible employee or dependent, all health benefit plans shall credit the time the person was covered under a previous qualifying health plan if the insured experiences only a temporary interruption in coverage and if the previous qualifying coverage was reasonably actuarially equivalent to the new coverage, both as determined by the commissioner. The waiting period shall only apply to services which the new plan covers, but which were not covered under the previous plan.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall adopt regulations to enforce this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Processes</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Processes issuing from the court shall bear teste of the judge, shall be under the seal of the court and be signed by the recorder.
+    </text>
+</law>

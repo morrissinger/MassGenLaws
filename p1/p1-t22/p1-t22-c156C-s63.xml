@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Duties And Liabilities Of Members And Managers</catch_line>
+    <order_by>63</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the provisions of this chapter or the context indicate otherwise, each reference in the General Laws to a “person”, where such reference includes any partnership, whether general or limited and whether domestic or foreign, shall be deemed to include a limited liability company.
+        </section>
+        <section prefix="b">
+    	     To the extent that, at law or in equity, a member or manager has duties, including fiduciary duties, and liabilities relating thereto to a limited liability company or to another member or manager, (1) any such member or manager acting under the operating agreement shall not be liable to the limited liability company or to any such other member or manager for the member’s or manager’s good faith reliance on the provision of the operating agreement, and (2) the member’s or manager’s duties and liabilities may be expanded or restricted by provisions in the operating agreement.
+        </section>
+    </text>
+</law>

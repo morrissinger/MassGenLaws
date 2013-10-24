@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>76</section_number>
+    <catch_line>Settlement Of Claims; Failure To File Petition</catch_line>
+    <order_by>76</order_by>
+    <text>
+        In any case arising under the preceding section, where any person sustaining damage to his property in the manner therein specified fails to bring a petition within the time limited by chapter seventy-nine, the attorney general may join with the other parties interested in a settlement of the claim of such person; and the proportion of the amount agreed upon in settlement thereof which would be chargeable to the commonwealth under section seventy shall be paid by the commonwealth as if it were a part of the actual cost of the work required to be done under said section.
+    </text>
+</law>

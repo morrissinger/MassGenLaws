@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Proceedings Barred Under This Chapter</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     A decree or judgment entered on a petition filed pursuant to sections three or six of chapter two hundred and ten shall be a bar to a proceeding under this chapter.
+        </section>
+        <section prefix="b">
+    	     A proceeding under chapter two hundred and seven, two hundred and eight, two hundred and nine, two hundred and seventy-three, or two hundred and nine D shall not be a bar to any proceeding under this chapter. An action brought under this chapter may be consolidated with an action brought under chapters two hundred and seven, two hundred and eight, two hundred and nine or two hundred and nine D if both actions are pending in the same department of the trial court.
+        </section>
+        <section prefix="c">
+    	     If an action under chapter two hundred and seven, two hundred and eight, or two hundred and nine, is filed after the commencement of proceedings or after a judgment under this chapter, any order or judgment for support of a child issued in the annulment, divorce or separate support proceedings shall supersede any prior order or judgment for support of the same child under this chapter; and any assignment made under this chapter shall be superseded by an assignment made in the divorce, separate support, or annulment proceeding; provided, however, that nothing herein shall prevent the court in such annulment, separate support or divorce proceeding from entering an order or judgment enforcing any previous support order or judgment for support under this chapter which has not been paid, consistent with the provisions of section nine.
+        </section>
+        <section prefix="d">
+    	     No proceeding hereunder shall be barred by a prior finding or adjudication under any repealed sections of chapter two hundred and seventy-three or by the fact that a child was born prior to the effective date of this chapter.
+        </section>
+    </text>
+</law>

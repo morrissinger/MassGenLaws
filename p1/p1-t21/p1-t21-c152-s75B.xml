@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>75B</section_number>
+    <catch_line>Qualified Handicapped Persons; Discrimination Against Employees Exercising Rights Under This Chapter; Disclosure Of Data</catch_line>
+    <order_by>75B</order_by>
+    <text>
+        <section prefix="1">
+    	     Any employee who has sustained a work-related injury and is capable of performing the essential functions of a particular job, or who would be capable of performing the essential functions of such job with reasonable accommodations, shall be deemed to be a qualified handicapped person under the provisions of chapter one hundred and fifty-one B.
+        </section>
+        <section prefix="2">
+    	     No employer or duly authorized agent of an employer shall discharge, refuse to hire or in any other manner discriminate against an employee because the employee has exercised a right afforded by this chapter, or who has testified or in any manner cooperated with an inquiry or proceeding pursuant to this chapter, unless the employee knowingly participated in a fraudulent proceeding. Any person claiming to be aggrieved by a violation of this section may initiate proceedings in the superior court department of the trial court for the county in which the alleged violation occurred. An employer found to have violated this paragraph shall be exclusively liable to pay to the employee lost wages, shall grant the employee suitable employment, and shall reimburse such reasonable attorney fees incurred in the protection of rights granted as shall be determined by the court. The court may grant whatever equitable relief it deems necessary to protect rights granted by this section.
+        </section>
+        <section prefix="3">
+    	     In the event that any right set forth in this section is inconsistent with an applicable collective bargaining agreement, such agreement shall prevail. An employee may not otherwise waive rights granted by this section.
+        </section>
+        <section prefix="4">
+    	     Upon a determination by the commissioner that a request for data maintained by the department is intended to be used in such a manner as to violate the purposes of this section, the commissioner may find that the disclosure of such data constitutes an unwarranted invasion of personal privacy pursuant to chapter four and deny said request. Nothing in this section shall be construed to prohibit an insurer’s right to obtain any information held by the department regarding any employee who has filed a claim against such insurer.
+        </section>
+    </text>
+</law>

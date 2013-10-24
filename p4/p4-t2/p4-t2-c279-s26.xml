@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="279" order_by="279" level="3">Judgment And Execution</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Further Sentence Of Convict In State Prison</catch_line>
+    <order_by>26</order_by>
+    <text>
+        A convict under sentence of imprisonment in the state prison may be further sentenced for a maximum term not longer than the longest term fixed by law for the punishment of the crime for which he has been convicted, and a minimum term not less than one year.
+    </text>
+</law>

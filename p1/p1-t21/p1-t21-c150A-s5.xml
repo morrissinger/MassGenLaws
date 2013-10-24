@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Representatives; Determining And Certifying; Grievances; Units;  Review; Proceedings To Enforce Or Review Orders</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Representatives designated or selected for the purposes of collective bargaining by the majority of the employees in a unit appropriate for such purposes, including representatives selected or designated by an individual in a one-man unit, shall be the exclusive representatives of all the employees in such unit for the purposes of collective bargaining in respect to rates of pay, wages, hours of employment, or other conditions of employment; provided, that any individual employee or a group of employees shall have the right at any time to present grievances to their employer.
+        </section>
+        <section prefix="b">
+    	     The commission shall decide in each case whether, in order to insure to employees the full benefit of their right to self-organization and to collective bargaining and otherwise to effectuate the policies of this chapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, profession or craft unit, plant unit, or subdivision thereof, or a one-man unit where the commission deems such unit to be appropriate; provided that, in any case where the majority of employees of a particular profession or craft shall so decide, the commission shall designate such profession or craft as a unit appropriate for the purpose of collective bargaining; and provided, further, that, for purposes of this chapter, registered nurses and licensed practical nurses shall not be deemed to be members of the same particular profession.
+        </section>
+        <section prefix="c">
+    	     Whenever a question affecting industry, trade or health care arises concerning the representation of employees, the commission may investigate such controversy and certify to the parties, in writing, the name or names of the representatives who have been designated or selected. For the purpose of this section, the commission shall be authorized to investigate petitions requesting the decertification of an exclusive representative. In any such investigation, the commission shall provide for an appropriate hearing upon due notice either in conjunction with a proceeding under section six or otherwise, and may take a secret ballot of employees, or utilize any other suitable method to ascertain such representatives. The commission may establish such rules or regulations as it deems appropriate to effectuate the policies of this chapter for the filing of petitions for investigation and certification by employers or employees or their representatives and shall include therein provision for the filing of a petition by an employer whenever it is alleged—
+        </section>
+        <section prefix="1">
+    	     That two or more labor organizations have presented to the employer conflicting claims that each represents a majority of the employees in a bargaining unit or units claimed by them to be appropriate; or
+        </section>
+        <section prefix="2">
+    	     That a labor organization not theretofore recognized as the representative of a majority of the employees in the bargaining unit claimed by it to be appropriate has requested the employer to bargain with it as the exclusive representative of such employees, or without such request is attempting to secure such recognition by strike, slowdown, boycott or other concerted cessation of work or withholding of patronage.
+        </section>
+        <section prefix="d">
+    	     Any hearing under subsection (c) of this section may be, when so determined by the commission, conducted by a member or agent of the commission. The decisions and determinations of such member or agent shall be final and binding unless, within ten days after notice thereof, any party requests a review by the full commission. If a review is requested, the member or agent shall file with the commission and with the parties a written statement of the case; in addition, any party may, within ten days from the receipt of such statement, file a supplementary statement with the commission. A review by the commission shall be made upon such statement of the case by the member or agent and upon such supplementary statements filed by the parties, if any, together with such other evidence as the commission may require.
+        </section>
+        <section prefix="e">
+    	     Whenever an order of the commission made pursuant to subsection (c) of section six is based in whole or in part upon facts certified following an investigation pursuant to subsection (c) of this section, and there is a petition for the enforcement or review of such order, such certification and the record of such investigation shall be included in the transcript of the entire record required to be filed under subsection (e) or (f) of section six and thereupon the decree of the court enforcing, modifying or setting aside in whole or in part the order of the commission shall be made and entered upon the pleadings, testimony and proceedings set forth in such transcript.
+        </section>
+    </text>
+</law>

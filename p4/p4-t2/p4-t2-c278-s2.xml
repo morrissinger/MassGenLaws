@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Trial Of Issues Of Fact</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Issues of fact joined upon an indictment or complaint shall, in the superior court, be tried by a jury drawn and returned in the manner provided for the trial of issues of fact in civil causes, unless the person indicted or complained against elects to be tried by the court as provided by law.
+    </text>
+</law>

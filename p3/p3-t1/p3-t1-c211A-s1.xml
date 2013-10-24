@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211A" order_by="211A" level="3">Appeals Court</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Appeals Court; Establishment</catch_line>
+    <order_by>1</order_by>
+    <text>
+        There shall be an intermediate appellate court to be known as the appeals court. The appeals court shall consist of a chief justice and twenty-four associate justices.
+    </text>
+</law>

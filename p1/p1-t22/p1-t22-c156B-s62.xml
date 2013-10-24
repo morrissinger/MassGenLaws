@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Loans To Insiders; Liability Of Officers And Directors</catch_line>
+    <order_by>62</order_by>
+    <text>
+        The directors who vote for, and the officers who knowingly participate in, any loan of any assets of a corporation to any of its officers or directors shall be jointly and severally liable to the corporation for any portion of such loan which is not repaid unless a majority of the directors who are not direct or indirect recipients of such loan or the holders of a majority of the shares entitled to vote for directors which holders are not direct or indirect recipients of such loan, shall have approved or ratified the making of such loan as one which in the judgment of such directors or such holders may reasonably be expected to benefit the corporation.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201D" order_by="201D" level="3">Health Care Proxies</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Liability For Health Care Costs</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Liability for the cost of health care provided pursuant to an agent’s decision shall be the same as if the health care were provided pursuant to the principal’s decision.
+    </text>
+</law>

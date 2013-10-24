@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156" order_by="156" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Holding Stock In Other Corporations; Prohibitions</catch_line>
+    <order_by>5</order_by>
+    <text>
+        No corporation, unless authorized by a special act still in force, shall purchase, acquire, take or hold, directly or indirectly, more than ten per cent of the total capital stock of any domestic corporation authorized to carry on within the commonwealth the business of a railroad, street railway, electric railroad, elevated railway, trolleymotor, or gas company; provided, that the foregoing provisions shall not prohibit a corporation having its principal place of business in the commonwealth from purchasing, acquiring, taking or holding more than ten per cent of the capital stock of a domestic corporation carrying on within the commonwealth the business of a gas company.
+    </text>
+</law>

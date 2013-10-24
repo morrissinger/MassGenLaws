@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231" order_by="231" level="3">Pleading And Practice</unit>
+    </structure>
+    <section_number>85P</section_number>
+    <catch_line>Age Of Majority; Legal Capacity</catch_line>
+    <order_by>85P</order_by>
+    <text>
+        Except as otherwise specifically provided by law, any person domiciled in the commonwealth who has reached the age of eighteen shall for all purposes, and any other person who has reached the age of eighteen shall with respect to any transaction governed by the law of the commonwealth, be deemed of full legal capacity unless legally incapacitated for some reason other than insufficient age.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="278" order_by="278" level="3">Trials And Proceedings Before Judgment</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Night Time; Definition</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If a crime is alleged to have been committed in the night time, night time shall be deemed the time between one hour after sunset on one day and one hour before sunrise on the next day; and the time of sunset and sunrise shall be ascertained according to mean time in the place where the crime was committed.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Trial; Exclusion Of Public</catch_line>
+    <order_by>12</order_by>
+    <text>
+        In actions under this chapter, the trial shall be by the court without a jury. In an action to establish paternity, the court shall, upon request of any party, exclude the general public from the room where the trial is held and may admit only persons directly interested in the case, including officers of the court and witnesses.
+    </text>
+</law>

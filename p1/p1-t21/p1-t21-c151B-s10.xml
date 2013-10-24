@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151B" order_by="151B" level="3">Unlawful Discrimination Because Of Race, Color, Religious Creed, National Origin, Ancestry Or Sex</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Partial Invalidity</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If any provision of this chapter or the application thereof to any person or circumstance, shall, for any reason, be held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
+    </text>
+</law>

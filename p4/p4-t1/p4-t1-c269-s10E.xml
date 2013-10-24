@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="269" order_by="269" level="3">Crimes Against Public Peace</unit>
+    </structure>
+    <section_number>10E</section_number>
+    <catch_line>Firearms Sales, Distributions Or Transfers; Penalties; Eligibility For Probation, Parole, Furlough Or Work Release</catch_line>
+    <order_by>10E</order_by>
+    <text>
+        <section prefix="1">
+    	     Three or more, but less than ten, be punished by a term of imprisonment of not more than ten years in the state prison. No sentence imposed under the provisions of this paragraph shall be for less than a mandatory minimum term of imprisonment of three years and a fine of not more than fifty thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+        <section prefix="2">
+    	     Ten or more, but less than twenty, be punished by a term of imprisonment of not more than ten years in the state prison. No sentence imposed under the provisions of this paragraph shall be for less than a mandatory minimum term of imprisonment of five years and a fine of not more than one hundred thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+        <section prefix="3">
+    	     Twenty or more, be punished by a term of imprisonment not less than ten years up to life imprisonment in the state prison. No sentence imposed under the provisions of this paragraph shall be for less than a mandatory minimum term of imprisonment of ten years and a fine of not more than one hundred and fifty thousand dollars may be imposed but not in lieu of the mandatory minimum term of imprisonment, as established herein.
+        </section>
+    </text>
+</law>

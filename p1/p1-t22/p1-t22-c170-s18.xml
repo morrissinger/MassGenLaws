@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="170" order_by="170" level="3">Co Operative Banks</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Report To Commissioner; Balance Sheet</catch_line>
+    <order_by>18</order_by>
+    <text>
+        Every such corporation shall annually, within thirty days after the last business day of December, make a report to the commissioner in such form as he may prescribe, showing accurately its condition at the close of business on said day. 
+Every such corporation shall make available at each of its banking offices a balance sheet which presents fairly, in accordance with generally accepted accounting principles, including required footnote disclosures, its condition as of the last business day of its fiscal year, with comparative figures as to the end of the previous fiscal year. The balance sheet shall be made available not later than 30 days after the end of the corporation’s fiscal year and shall remain available to its members upon request.
+    </text>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Presumption Of Paternity; Mandatory Joinder</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     In all actions under this chapter a man is presumed to be the father of a child and must be joined as a party if:
+        </section>
+        <section prefix="1">
+    	     he is or has been married to the mother and the child was born during the marriage, or within three hundred days after the marriage was terminated by death, annulment or divorce; or
+        </section>
+        <section prefix="2">
+    	     before the child’s birth, he married or attempted to marry the mother by a marriage solemnized in apparent compliance with law, although the attempted marriage is or could be declared invalid, and the child was born during the attempted marriage or within three hundred days after its termination; or
+        </section>
+        <section prefix="3">
+    	     after the child’s birth, he married or attempted to marry the mother by a marriage solemnized in apparent compliance with law, although the attempted marriage is or could be declared invalid, and
+        </section>
+        <section prefix="i">
+    	     he agreed to support the child under a written voluntary promise, or
+        </section>
+        <section prefix="ii">
+    	     he has engaged in any other conduct which can be construed as an acknowledgment of paternity; or
+        </section>
+        <section prefix="4">
+    	     while the child is under the age of majority, he, jointly with the mother, received the child into their home and openly held out the child as their child; or
+        </section>
+        <section prefix="5">
+    	     he has acknowledged paternity in a parental responsibility claim as provided in section four A of chapter two hundred and ten and the mother, having received actual notice thereof, has failed within a reasonable time, to object thereto; or
+        </section>
+        <section prefix="6">
+    	     with respect to a child born before April 13, 1994, with his consent and the consent of the child’s mother, he is named as the child’s father on the birth certificate as provided in section one of chapter forty-six.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding the provisions of subsection (a), a husband or former husband shall not be required to be joined as a party if non-paternity of the child has previously been adjudicated in a proceeding between the husband and the mother of such child in a court or administrative agency of competent jurisdiction.
+        </section>
+        <section prefix="c">
+    	     Notice to a party joined as herein provided shall be sufficient if the summons is mailed to the last known address by a form of mail requiring a receipt and, if actual notice shall not be made as aforesaid, by publishing a copy of the notice once in each of three successive weeks in a newspaper designated by the court.
+        </section>
+    </text>
+</law>

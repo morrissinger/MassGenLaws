@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>8A</section_number>
+    <catch_line>Change Of Venue</catch_line>
+    <order_by>8A</order_by>
+    <text>
+        If it appears before final judgment or decree in any proceeding pending in a probate court that said proceeding was begun in the wrong county, said court may order the proceeding with all papers relating thereto to be removed to the probate court for the proper county, and it shall thereupon be entered and pending in the last mentioned court as if originally commenced therein, and all prior proceedings otherwise regularly taken shall thereupon be valid.
+    </text>
+</law>

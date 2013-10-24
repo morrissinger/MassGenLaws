@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>60</section_number>
+    <catch_line>Holidays And Election Days</catch_line>
+    <order_by>60</order_by>
+    <text>
+        If the regular time for holding a probate court occurs on a legal holiday, the court shall not be open, and all notices, summonses, citations, orders and other papers which would otherwise be made returnable at said regular time shall be made returnable on the next secular day thereafter.
+    </text>
+</law>

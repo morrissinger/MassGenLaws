@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>71F</section_number>
+    <catch_line>Eligibility For Reemployment Assistance Benefits</catch_line>
+    <order_by>71F</order_by>
+    <text>
+        <section prefix="a">
+    	     An employee shall be eligible to receive reemployment assistance benefits with respect to any week of unemployment in his or her eligibility period, as defined in section seventy-one A, only if the commissioner finds that with respect to such week (1) the employee has been terminated from their employment as a result of a plant closing or covered partial closing, (2) the employee is otherwise eligible for regular benefits under this chapter, and (3) the employee is participating in the reemployment assistance program, when such program is available, in accordance with the provisions of section seventy-one D; provided that, no reemployment assistance benefits shall be paid for any week commencing prior to the date of notification as determined by the commissioner.
+        </section>
+        <section prefix="b">
+    	     The weekly reemployment assistance benefit amount payable to an employee for a week of total unemployment in his eligibility period shall be an amount equal to the difference between the weekly benefit amount, including dependency benefits, payable to the employee during the benefit year and seventy-five per cent of the employee’s average weekly wage, rounded to the next lower full dollar amount; provided that, such amount shall not exceed the amount specified in subsection (d).
+        </section>
+        <section prefix="c">
+    	     The total amount of reemployment assistance benefits payable to any eligible employee with respect to the employee’s benefit year shall be thirteen minus the number of weeks advance notification was given to the employee by the employer minus the number of weeks of separation pay, or equivalent thereof, received by the employee from the employer, times the employee’s weekly reemployment assistance benefit amount.
+        </section>
+        <section prefix="d">
+    	     The maximum weekly reemployment assistance benefit amount payable to an employee shall be ninety-seven dollars; provided however, as of the first Sunday of October of each year commencing after December thirty-first, nineteen hundred and eighty-four the maximum amount payable shall increase by the percentage increase in the maximum weekly benefit rate computed under subsection (a) of section twenty-nine. Such new amount, rounded to the next lower full dollar amount, shall apply only to an employee whose benefit year commences on or after the first Sunday of October of the applicable year and prior to the first Sunday of October of the following year.
+        </section>
+        <section prefix="e">
+    	     No weekly reemployment assistance benefit amount shall be paid to an employee where the amount of regular benefits otherwise payable to the employee has been reduced to zero as a result of the application of subsection (b) of said section twenty-nine or subsection (d) of paragraph (6) of said section twenty-nine.
+        </section>
+        <section prefix="f">
+    	     Except when the result would be inconsistent with the provisions of section seventy-one A to seventy-one G, inclusive, the provisions of this chapter which apply to claims for, or the payment of, regular benefits shall apply to claims for, and the payment of reemployment assistance benefits.
+        </section>
+    </text>
+</law>

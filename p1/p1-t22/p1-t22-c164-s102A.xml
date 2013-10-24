@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>102A</section_number>
+    <catch_line>Consolidation Or Merger; Agreement, Provisions; Submission Of Article To State Secretary; Form; Requisites And Information; Approval;  Effectiveness; Filings</catch_line>
+    <order_by>102A</order_by>
+    <text>
+        <section prefix="1">
+    	     the post office address of the initial principal office of the resulting or surviving corporation in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     the name, residence and post office address of each of the initial directors and president, treasurer and clerk of the resulting or surviving corporation;
+        </section>
+        <section prefix="3">
+    	     the fiscal year of the resulting or surviving corporation initially adopted; and
+        </section>
+        <section prefix="4">
+    	     the date initially fixed in the by-laws for the annual meeting of the stockholders of the resulting or surviving corporation.
+        </section>
+    </text>
+</law>

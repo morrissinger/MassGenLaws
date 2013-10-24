@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="207" order_by="207" level="3">Marriage</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Foreign Marriages; Validity</catch_line>
+    <order_by>10</order_by>
+    <text>
+        If any person residing and intending to continue to reside in this commonwealth is disabled or prohibited from contracting marriage under the laws of this commonwealth and goes into another jurisdiction and there contracts a marriage prohibited and declared void by the laws of this commonwealth, such marriage shall be null and void for all purposes in this commonwealth with the same effect as though such prohibited marriage had been entered into in this commonwealth.
+    </text>
+</law>

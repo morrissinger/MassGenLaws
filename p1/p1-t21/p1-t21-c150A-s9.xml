@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Right To Strike</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Nothing in this chapter, except as provided in sections four A and four C, shall be construed so as to interfere with or impede or diminish in any way the right to strike.
+    </text>
+</law>

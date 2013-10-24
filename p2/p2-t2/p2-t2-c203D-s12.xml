@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Business And Other Activities Conducted By Trustee</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     If a trustee who conducts a business or other activity determines that it is in the best interest of all the beneficiaries to account separately for the business or activity instead of accounting for it as part of the trust’s general accounting records, the trustee may maintain separate accounting records for its transactions, whether or not its assets are segregated from other trust assets.
+        </section>
+        <section prefix="b">
+    	     A trustee who accounts separately for a business or other activity may determine if its net cash receipts must be retained for working capital, the acquisition or replacement of fixed assets and other reasonably foreseeable needs of the business or activity, and if the remaining net cash receipts are accounted for as principal or income in the trust’s general accounting records. If a trustee sells assets of the business or other activity, other than in the ordinary course of the business or activity, the trustee shall account for the net amount received as principal in the trust’s general accounting records to the extent the trustee determines that the amount received is no longer required in the conduct of the business.
+        </section>
+        <section prefix="c">
+    	     Activities for which a trustee may maintain separate accounting records include:
+        </section>
+        <section prefix="1">
+    	     retail, manufacturing, service, and other traditional business activities;
+        </section>
+        <section prefix="2">
+    	     farming;
+        </section>
+        <section prefix="3">
+    	     raising and selling livestock and other animals;
+        </section>
+        <section prefix="4">
+    	     management of rental properties;
+        </section>
+        <section prefix="5">
+    	     extraction of minerals and other natural resources;
+        </section>
+        <section prefix="6">
+    	     timber operations; and
+        </section>
+        <section prefix="7">
+    	     activities to which section 23 applies.
+        </section>
+    </text>
+</law>

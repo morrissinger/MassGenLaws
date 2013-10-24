@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="206" order_by="206" level="3">Accounts And Settlements Of Executors, Administrators, Guardians, Conservators, Trustees And Receivers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Realty Taken By Executor Or Administrator On Execution; Personal Assets</catch_line>
+    <order_by>11</order_by>
+    <text>
+        If an executor or administrator recovers judgment for a debt due the deceased, and levies on real estate, he shall be seized of such real estate in trust for the persons who would have been entitled if the judgment had been satisfied in money; and the real estate so taken shall be considered as personal assets in his hands; and if redeemed, the money shall be received by the executor or administrator, who shall thereupon release the real estate.
+    </text>
+</law>

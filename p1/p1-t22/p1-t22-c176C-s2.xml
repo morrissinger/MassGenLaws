@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176C" order_by="176C" level="3">Non Profit Medical Service Plans</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Application Of Chapter; Exemption From Insurance Laws; Exemption From Practice Of Medicine Provisions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Any medical service plan, and any medical service corporation or medical organization operating in connection with a medical service plan, under the laws of the commonwealth, shall be governed by this chapter and shall, except as otherwise provided by this chapter, be exempt from all provisions of the insurance laws of the commonwealth. Any medical service corporation operating under this chapter shall not be deemed to be practicing medicine and shall be exempt from the provisions of chapter one hundred and twelve relating to the practice of medicine.
+    </text>
+</law>

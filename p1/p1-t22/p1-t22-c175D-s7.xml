@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175D" order_by="175D" level="3">Massachusetts Insurers Insolvency Fund</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Powers And Duties Of Commissioner</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     The commissioner shall:
+        </section>
+        <section prefix="a">
+    	     notify the Fund of each insolvent insurer not later than three days after he receives notice of such insolvency and furnish to the Fund a copy of any complaint seeking an order of liquidation with a finding of insolvency against a company at the same time that such complaint is filed with a court of competent jurisdiction;
+        </section>
+        <section prefix="b">
+    	     provide the Fund with a statement of the net direct written premiums of each insurer; and
+        </section>
+        <section prefix="c">
+    	     begin an examination not later than thirty days after receiving a request for examination of an insurer under clause (e) of paragraph (2) of section five. Such examination may be conducted as a National Association of Insurance Commissioners examination or may be conducted by such persons as the commissioner shall designate. The cost of such examination shall be paid by the Fund and the examination report shall be treated as are other examination reports. In no event shall such examination report be released to the board of directors prior to its release to the public. The commissioner shall notify the board of directors when the examination is completed. The request for an examination shall be kept on file by the commissioner but it shall not be open to public inspection.
+        </section>
+        <section prefix="2">
+    	     The commissioner may:
+        </section>
+        <section prefix="a">
+    	     require that the Fund notify the insureds of the insolvent insurer and any other interested parties of the insolvency and of their rights under this chapter;
+        </section>
+        <section prefix="b">
+    	     suspend or revoke, after notice and hearings, the certificate of authority to transact insurance in this state of any insurer which fails to pay an assessment when due or fails to comply with the plan; and
+        </section>
+        <section prefix="c">
+    	     revoke the authority of any servicing facility if he finds claims are being handled unsatisfactorily.
+        </section>
+    </text>
+</law>

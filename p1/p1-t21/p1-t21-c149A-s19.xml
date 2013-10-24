@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="149A" order_by="149A" level="3">Public Construction Alternative Delivery Methods</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Design Build Contracts; Request For Proposals; Bid Deposit</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="1">
+    	     The RFP shall set forth a detailed scope of work including design concepts, technical requirements, performance criteria, construction requirements, time constraints and all other requirements that have a substantial impact on the cost, schedule and quality of the public works project and the project development process, as determined by the awarding authority.
+        </section>
+        <section prefix="2">
+    	     The RFP shall include the criteria for evaluating and ranking proposals.
+        </section>
+        <section prefix="3">
+    	     The RFP shall identify the cost basis, low-bid or best value, by which the awarding authority will evaluate proposals submitted in response to said RFP. For projects to be awarded on a best-value basis, the scoring process, quality criteria and relative weight thereof must be contained in the RFP.
+        </section>
+        <section prefix="4">
+    	     At the awarding authority’s discretion, the RFP may provide for a process, including the establishment of a team, to review conceptual technical submittals before full proposal submittal for the purposes of identifying defects that would cause rejection of the proposal as non-responsive.
+        </section>
+        <section prefix="5">
+    	     All such technical conceptual submittals and responses shall remain confidential until after the award of the contract.
+        </section>
+        <section prefix="6">
+    	     The RFP shall require that every response shall be accompanied by a bid deposit in the form of a bid bond, or cash, or a certified check on, or a treasurer’s or cashier’s check issued by, a responsible bank or trust company, payable to the awarding authority. The amount of such bid deposit shall be 5 per cent of the value of the bid. Any person submitting a bid under this section shall, on such bid, certify as follows:
+        </section>
+    </text>
+</law>

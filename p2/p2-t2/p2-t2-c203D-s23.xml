@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Derivatives And Options</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     To the extent that a trustee does not account under section 12 for transactions in derivatives, the trustee shall allocate to principal receipts from and disbursements made in connection with those transactions.
+        </section>
+        <section prefix="b">
+    	     If a trustee grants an option to buy property from the trust, whether or not the trust owns the property when the option is granted, grants an option that permits another person to sell property to the trust, or acquires an option to buy property for the trust or an option to sell an asset owned by the trust, and the trustee or other owner of the asset is required to deliver the asset if the option is exercised, an amount received for granting the option must be allocated to principal. An amount paid to acquire the option must be paid from principal. A gain or loss realized upon the exercise of an option, including an option granted to a settlor of the trust for services rendered, shall be allocated to principal.
+        </section>
+    </text>
+</law>

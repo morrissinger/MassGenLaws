@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>2C</section_number>
+    <catch_line>Actions For Damages, Etc. For Physical Alteration Or Destruction Of Fine Art</catch_line>
+    <order_by>2C</order_by>
+    <text>
+        Actions commenced under the provisions of section eighty-five S of chapter two hundred and thirty-one shall be commenced only within two years next after the cause of action accrues, or within one year next after the discovery of the act, whichever is later.
+    </text>
+</law>

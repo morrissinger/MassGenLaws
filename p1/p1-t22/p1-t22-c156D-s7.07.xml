@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.07</section_number>
+    <catch_line>Record Date</catch_line>
+    <order_by>7.07</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in section 7.03, the bylaws may fix or provide the manner of fixing the record date for one or more voting groups in order to determine the shareholders entitled to notice of a shareholders’ meeting, to demand a special meeting, to vote, or to take any other action. If the bylaws do not fix or provide for fixing a record date, the board of directors of the corporation may fix a future date as the record date. If a record date for a specific action is not fixed by the bylaws or the board of directors, and is not supplied by the section of this chapter dealing with that action, the record date shall be the close of business either on the day before the first notice is sent to shareholders, or, if no notice is sent, on the day before the meeting.
+        </section>
+        <section prefix="b">
+    	     A record date fixed under this section may not be more than 70 days before the meeting or action requiring a determination of shareholders.
+        </section>
+        <section prefix="c">
+    	     A determination of shareholders entitled to notice of or to vote at a shareholders’ meeting is effective for any adjournment of the meeting unless the board of directors fixes a new record date, which it shall do if the meeting is adjourned to a date more than 120 days after the date fixed for the original meeting.
+        </section>
+        <section prefix="d">
+    	     If a court orders a meeting adjourned to a date more than 120 days after the date fixed for the original meeting, it may provide that the original record date continues in effect or it may fix a new record date.
+        </section>
+    </text>
+</law>

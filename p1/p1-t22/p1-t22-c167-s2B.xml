@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>2B</section_number>
+    <catch_line>Investigation Of Unfair Practices</catch_line>
+    <order_by>2B</order_by>
+    <text>
+        The commissioner shall have the power to examine and investigate into the affairs of every bank engaged in consumer transactions in this commonwealth in order to determine whether such bank has been or is engaged in any unfair method of competition or in any unfair or deceptive act or practice as established by the commissioner by regulation in accordance with the provisions of section two A.
+    </text>
+</law>

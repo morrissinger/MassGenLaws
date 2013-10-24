@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209C" order_by="209C" level="3">Children Born Out Of Wedlock</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Intermarriage Of Parents; Jurisdiction</catch_line>
+    <order_by>23</order_by>
+    <text>
+        <section prefix="a">
+    	     If, after adjudication of paternity or voluntary acknowledgment of parentage, the parents of the child intermarry, any order or judgments of the court relative to support, custody, visitation and restraint on personal liberty shall be null and void, except as to any support arrearage which is owed to the commonwealth as reimbursement for public assistance and which accrued before the date that the parents intermarry and the court shall have no continuing jurisdiction over the parties under this chapter.
+        </section>
+        <section prefix="b">
+    	     If, after proceedings are commenced but before an adjudication of paternity is issued, the parents intermarry, the court may adjudicate paternity hereunder but shall have no other jurisdiction over the child or the parents under this chapter.
+        </section>
+        <section prefix="c">
+    	     An action under this chapter may be commenced after the intermarriage of the parents of the child only to determine paternity.
+        </section>
+    </text>
+</law>

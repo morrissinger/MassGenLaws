@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>48</section_number>
+    <catch_line>Lump Sum Agreements</catch_line>
+    <order_by>48</order_by>
+    <text>
+        <section prefix="1">
+    	     Under the conditions and limitations specified in this chapter, the insurer and employee may, with the written consent of the employer if such employer is an experience modified insured, by an agreement pursuant to section nineteen, redeem any liability for compensation, in whole or in part, by the payment by the insurer of a lump sum amount. Where the employee is not represented by counsel, where the parties seek determination by an administrative judge or administrative law judge of the fair and reasonable amount to be paid out of the lump sum to discharge a lien cognizable under section forty-six A, or where any party requests that such agreement be approved by an administrative judge or administrative law judge prior to the filing of such agreement with the department, a lump sum agreement shall not have been perfected until and unless approved by an administrative judge or administrative law judge as being in the claimant’s best interest. In all other cases the agreement shall not have been perfected until reviewed and approved as complete by a conciliator, administrative judge or administrative law judge as appropriate. A conciliator shall be made available in each regional office to review settlements without appointment.
+        </section>
+        <section prefix="2">
+    	     When the insurer and the employee reach such agreement subsequent to insurer acceptance of liability or subsequent to a decision of an administrative judge, the reviewing board, or an appeals court of the commonwealth finding insurer liability which decision is in effect at the time such agreement is entered into, said agreement shall not redeem liability for the payment of medical benefits or vocational rehabilitation benefits with respect to such injury.
+        </section>
+        <section prefix="3">
+    	     No lump sum agreement shall contain as part of a settlement a general or specific release that would serve as a bar to (i) employment with any employer, (ii) the receipt by the employee of any pay or benefits due him by an employer, (iii) the bringing of any future workers’ compensation claim or (iv) the bringing of any claims of wrongful discharge or breach of contract. All such general or specific releases shall be null and void. Any employer, insurer, employer or attorney attempting to obtain such release from an employee shall be punished by a fine of ten thousand dollars. Where the employee has been found suitable for vocational rehabilitation services pursuant to section thirty G, lump sum agreements shall be valid only where the employee returned to continuous employment for a period of six or more months; or completed an approved rehabilitation plan; or received express written consent from the office of education and vocational rehabilitation; or an order or decision from an administrative judge or administrative law judge authorizing such agreement. Any employee who receives an amount in violation of this paragraph shall have the right to re-open his or her claim for compensation. Any employee who accepts a lump sum settlement for benefits claimed under section 34A shall be precluded from any further lump sum settlements for said benefits.
+        </section>
+        <section prefix="4">
+    	     Whenever a lump sum agreement has been perfected in accordance with the terms of this section, such agreement shall affect only the insurer and the employee who are parties to such lump sum agreement and shall not affect any other action or proceeding arising out of a separate and distinct injury under this chapter, whether the injury precedes or arises subsequent to the date of settlement, and whether or not the same insurer is claimed to be liable for such separate and distinct injury.
+        </section>
+        <section prefix="5">
+    	     Whenever a lump sum agreement or payment has been approved by the reviewing board in accordance with the terms of this section, such agreement shall affect only the insurer and employee who are parties to such lump sum agreement and shall not affect any other action or proceeding arising out of a separate and distinct injury resulting in an incapacity whether the injury precedes or arises subsequent to the date of settlement.
+        </section>
+    </text>
+</law>

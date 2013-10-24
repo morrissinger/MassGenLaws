@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183B" order_by="183B" level="3">Real Estate Time Shares</unit>
+    </structure>
+    <section_number>37</section_number>
+    <catch_line>Public Offering Statements; Responsibility For Preparation;  Liability For Misleading Statement; Multi Location Plans</catch_line>
+    <order_by>37</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in subsection (b), a developer, prior to the offering of any interest in a unit to the general public, shall prepare a public offering statement conforming to the requirements of sections thirty-eight, thirty-nine and forty.
+        </section>
+        <section prefix="b">
+    	     A developer may transfer responsibility for preparation of all or a part of the public offering statement to a successor developer or to a person in the business of selling real estate who intends to offer time-shares in the time-share property for his own account. In the event of said transfer of responsibility, the transferor shall provide the transferee with any information necessary to enable the transferee to fulfill the requirements of subsection (a).
+        </section>
+        <section prefix="c">
+    	     Any developer, agent of a developer or person in the business of selling real estate who offers a time-share for his own account to a purchaser shall deliver a public offering statement in the manner prescribed in subsection (a) of section forty-one. The person who prepared all or a part of the public offering statement shall be liable under sections forty-one and forty-nine for any false or misleading statement set forth therein or for any omission of material fact therefrom with respect to that portion of the public offering statement which he prepared. If a developer, agent of a developer or said person in the business of selling real estate did not prepare any part of a public offering statement that he delivers, he shall not be liable for any false or misleading statement set forth therein or for any omission of material fact therefrom unless he had actual knowledge of the statement or omission, or in the exercise of reasonable care, should have known of the statement or omission.
+        </section>
+        <section prefix="d">
+    	     If a time-share property is part of any other real estate multi-location plan in connection with the sale of which the delivery of a public offering statement is required, a single public offering statement conforming to the requirements of sections thirty-eight, thirty-nine and forty as said requirements relate to all real estate multi-location plans in which the time-share property is located, and to any other requirements imposed by law, may be prepared and delivered in lieu of providing two or more public offering statements.
+        </section>
+    </text>
+</law>

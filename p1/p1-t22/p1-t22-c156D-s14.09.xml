@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.09</section_number>
+    <catch_line>Enforcement Of Claims Against Dissolved Corporation</catch_line>
+    <order_by>14.09</order_by>
+    <text>
+        <section prefix="a">
+    	     A claim against a dissolved corporation described in sections 14.06, 14.07 or 14.08, and which is not barred under the applicable statute of limitations, may be enforced against the dissolved corporation to the extent of any undistributed assets, including any available assets in a reserve created under section 14.08, any available proceeds under an insurance policy, and any applicable assumption of the dissolved corporation’s liabilities by a third party.
+        </section>
+        <section prefix="b">
+    	     The giving of notice and/or the setting aside of any reserve hereunder or otherwise by the dissolved corporation is not an admission of the existence or validity of any claim or amount.
+        </section>
+        <section prefix="c">
+    	     No time periods set forth in sections 14.06, 14.07 or 14.08 extend or shorten any applicable statute of limitations.
+        </section>
+        <section prefix="d">
+    	     No liability shall be imposed upon the dissolved corporation’s shareholders or directors, or those acting in their place, under section 6.41 or otherwise with respect to any claim described in sections 14.06, 14.07 or 14.08 if the procedures described in those sections are followed.
+        </section>
+    </text>
+</law>

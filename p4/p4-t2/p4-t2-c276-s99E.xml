@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="276" order_by="276" level="3">Search Warrants, Rewards, Fugitives From Justice, Arrest, Examination, Commitment And Bail. Probation Officers And Board Of Probation</unit>
+    </structure>
+    <section_number>99E</section_number>
+    <catch_line>Indigency; Interagency Service Agreements; Income Data Verification</catch_line>
+    <order_by>99E</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner of probation shall enter into an interagency service agreement with the department of revenue to verify income data and other information relevant to the determination of indigency of recipients of counsel pursuant to section 2 of chapter 211D.
+        </section>
+        <section prefix="b">
+    	     The commissioner of probation shall enter into an interagency service agreement with the department of transitional assistance to verify income data and other information relevant to the determination of indigency of recipients of counsel pursuant to section 2 of chapter 211D.
+        </section>
+        <section prefix="c">
+    	     The commissioner of probation shall enter into an interagency service agreement with the department of medical assistance to verify income data and other information relevant to the determination of indigency of recipients of counsel pursuant to section 2 of chapter 211D.
+        </section>
+        <section prefix="d">
+    	     The commissioner of probation shall enter into an interagency service agreement with the registry of motor vehicles to verify the statements on motor vehicle ownership or nonownership by recipients of counsel pursuant to section 2 of chapter 211D.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Remedies Relating To Real Property</unit>
+        <unit label="chapter" identifier="237" order_by="237" level="3">Writs Of Entry</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Limitation Of Defendant’S Liability</catch_line>
+    <order_by>15</order_by>
+    <text>
+        The defendant shall not be liable for rents and profits for any time more than six years prior to the commencement of the action or for waste or damage committed before said six years, unless rents and profits are allowed to diminish the defendant’s recovery upon his counterclaim for improvements under section twenty-seven.
+    </text>
+</law>

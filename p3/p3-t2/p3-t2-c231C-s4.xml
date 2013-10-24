@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231C" order_by="231C" level="3">Structured Settlement Contracts</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Violations Of Discount/Finance Charge Stipulation Or Of Disclosure Requirements; Penalties; Civil Actions By Attorney General</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     If in connection with a transfer of structured settlement payment rights, a transferee has violated the discount/finance charge stipulation, neither the transferee nor any assignee shall be entitled to collect from the transferred payment rights, or from the payee, any amount in excess of the net advance amount, and the payee shall have a right to recover from the transferee or any assignee:
+        </section>
+        <section prefix="1">
+    	     a refund of any excess amounts previously received by the transferee or any assignee;
+        </section>
+        <section prefix="2">
+    	     a penalty in an amount determined by the court; and
+        </section>
+        <section prefix="3">
+    	     reasonable costs and attorney’s fees.
+        </section>
+        <section prefix="b">
+    	     If in connection with a transfer of structured settlement payment rights, the transferee has violated the disclosure requirements in section 3, the transferee and any assignees shall be liable to the payee for:
+        </section>
+        <section prefix="1">
+    	     a penalty in an amount determined by the court; and
+        </section>
+        <section prefix="2">
+    	     reasonable costs and attorney’s fees.
+        </section>
+        <section prefix="c">
+    	     A transferee or assignee shall not be liable for a penalty in any action brought under this section if the transferee or assignee establishes by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error, notwithstanding the transferee’s maintenance of procedures reasonably designed to avoid such errors.
+        </section>
+        <section prefix="d">
+    	     No action may be brought under this section if:
+        </section>
+        <section prefix="1">
+    	     in the case of a violation of the discount/finance charge stipulation, more than one year after the due date of the last transferred structured settlement payment; and
+        </section>
+        <section prefix="2">
+    	     in the case of the disclosure requirements of section 2, more than one year after the due date of the first transferred structured settlement payment.
+        </section>
+        <section prefix="e">
+    	     If the attorney general has reason to believe that any transferee has violated this chapter, the attorney general may bring a civil action for injunctive relief and such penalties and other relief as may be appropriate to secure compliance with this chapter.
+        </section>
+    </text>
+</law>

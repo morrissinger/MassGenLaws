@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.46</section_number>
+    <catch_line>Payment Of Expenses</catch_line>
+    <order_by>7.46</order_by>
+    <text>
+        <section prefix="1">
+    	     order the corporation to pay the plaintiff’s reasonable expenses, including counsel fees, incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the corporation; or
+        </section>
+        <section prefix="2">
+    	     order the plaintiff to pay any defendant’s reasonable expenses, including counsel fees, incurred in defending the proceeding if it finds that the proceeding was commenced or maintained without reasonable cause or for an improper purpose.
+        </section>
+    </text>
+</law>

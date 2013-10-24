@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="231C" order_by="231C" level="3">Structured Settlement Contracts</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     the laws of the United States;
+        </section>
+        <section prefix="2">
+    	     the laws of the commonwealth, including principles of equity applied in the courts of the commonwealth; and
+        </section>
+        <section prefix="3">
+    	     the laws of any other jurisdiction; (i) that is the domicile of the payee or any other interested party; (ii) under whose law a structured settlement agreement was approved by a court or responsible administrative authority; or (iii) in whose courts a settled claim was pending when the parties entered into a structured settlement agreement.
+        </section>
+        <section prefix="1">
+    	     interest charges, discounts and other compensation for the time value of money;
+        </section>
+        <section prefix="2">
+    	     all application, origination, processing, underwriting, closing, filing and notary fees and all similar charges, however denominated; and
+        </section>
+        <section prefix="3">
+    	     all charges for commissions or brokerage, irrespective of the identity of the party to whom such charges are paid or payable.
+        </section>
+        <section prefix="1">
+    	     who is engaged by a payee to render advice concerning the legal, tax and financial implications of a transfer of structured settlement payment rights;
+        </section>
+        <section prefix="2">
+    	     who is not in any manner affiliated with or compensated by the transferee of the transfer; and
+        </section>
+        <section prefix="3">
+    	     whose compensation for providing the advice is not affected by whether or not a transfer occurs.
+        </section>
+        <section prefix="1">
+    	     the payee;
+        </section>
+        <section prefix="2">
+    	     a beneficiary irrevocably designated under the annuity contract to receive payments following the payee’s death or, if such designated beneficiary is a minor, the designated beneficiary’s parent or guardian;
+        </section>
+        <section prefix="3">
+    	     the annuity issuer;
+        </section>
+        <section prefix="4">
+    	     the structured settlement obligor; and
+        </section>
+        <section prefix="5">
+    	     any other party that has continuing rights or obligations under the structured settlement.
+        </section>
+        <section prefix="1">
+    	     the payee or any other interested party is domiciled in the state;
+        </section>
+        <section prefix="2">
+    	     the structured settlement agreement was approved by a court or responsible administrative authority in the commonwealth; or
+        </section>
+        <section prefix="3">
+    	     the settled claim was pending before a court of the commonwealth when the parties entered into the structured settlement agreement.
+        </section>
+    </text>
+</law>

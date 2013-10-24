@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Powers And Privileges Of Limited Liability Company; Information To Be Provided On Certificate Of Organization Or Application For Registration</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise expressly provided by law, a limited liability company may carry on any lawful business, trade, profession, purpose or activity.
+        </section>
+        <section prefix="b">
+    	     A limited liability company shall possess and may exercise all the powers and privileges granted by this chapter or by any other law or by the operating agreement, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient to the conduct, promotion or attainment of the business, trade, profession, purposes or activities of the limited liability company. Without limitation of the foregoing and except as otherwise expressly set forth in a written operating agreement, a limited liability company shall have the power to make guarantees of the obligations of another person or entity.
+        </section>
+        <section prefix="c">
+    	     A limited liability company or foreign limited liability company which is organized to render a professional service as defined in section two of chapter one hundred and fifty-six A shall (i) indicate in its certificate of organization or application for registration the specific professional services which it shall render, (ii) be subject to any conditions or limitations established by any applicable regulating boards as defined in said section two, including the provision of liability insurance required by section sixty-five, and (iii) include with its certificate of organization or application for registration a certificate by the applicable regulating board which indicates compliance as of the date of organization or registration by the members and managers with any eligibility standards established by such regulating board.
+        </section>
+    </text>
+</law>

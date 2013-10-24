@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.31</section_number>
+    <catch_line>Director Conflict Of Interest</catch_line>
+    <order_by>8.31</order_by>
+    <text>
+        <section prefix="a">
+    	     A conflict of interest transaction is a transaction with the corporation in which a director of the corporation has a material direct or indirect interest. A conflict of interest transaction is not voidable by the corporation solely because of the director’s interest in the transaction if any one of the following is true:
+        </section>
+        <section prefix="1">
+    	     the material facts of the transaction and the director’s interest were disclosed or known to the board of directors or a committee of the board of directors and the board of directors or committee authorized, approved, or ratified the transaction;
+        </section>
+        <section prefix="2">
+    	     the material facts of the transaction and the director’s interest were disclosed or known to the shareholders entitled to vote and they authorized, approved, or ratified the transaction; or
+        </section>
+        <section prefix="3">
+    	     the transaction was fair to the corporation.
+        </section>
+        <section prefix="b">
+    	     For purposes of this section, and without limiting the interests that may create conflict of interest transactions, a director of the corporation has an indirect interest in a transaction if: (1) another entity in which he has a material financial interest or in which he is a general partner is a party to the transaction; or (2) another entity of which he is a director, officer, or trustee or in which he holds another position is a party to the transaction and the transaction is or should be considered by the board of directors of the corporation.
+        </section>
+        <section prefix="c">
+    	     For purposes of clause (1) of subsection (a), a conflict of interest transaction is authorized, approved, or ratified if it receives the affirmative vote of a majority of the directors on the board of directors (or on the committee) who have no direct or indirect interest in the transaction, but a transaction may not be authorized, approved, or ratified under this section by a single director. If a majority of the directors who have no direct or indirect interest in the transaction vote to authorize, approve, or ratify the transaction, a quorum is present for the purpose of taking action under this section. The presence of, or a vote cast by, a director with a direct or indirect interest in the transaction does not affect the validity of any action taken under clause (1) of subsection (a) if the transaction is otherwise authorized, approved, or ratified as provided in that subsection.
+        </section>
+        <section prefix="d">
+    	     For purposes of clause (2) of subsection (a), a conflict of interest transaction is authorized, approved, or ratified if it receives the vote of a majority of the shares entitled to be counted under this subsection. Shares owned by or voted under the control of a director who has a direct or indirect interest in the transaction, and shares owned by or voted under the control of an entity described in clause (1) of subsection (b), may not be counted in a vote of shareholders to determine whether to authorize, approve, or ratify a conflict of interest transaction under clause (2) of subsection (a). The vote of those shares, however, is counted in determining whether the transaction is approved under other sections of this chapter. A majority of the shares, whether or not present, that are entitled to be counted in a vote on the transaction under this subsection constitutes a quorum for the purpose of taking action under this section.
+        </section>
+    </text>
+</law>

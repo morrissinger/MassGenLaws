@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Unknown Defendant; Procedure</catch_line>
+    <order_by>19</order_by>
+    <text>
+        In a civil action if the name of the defendant is not known to the plaintiff, the defendant may be designated in the summons and complaint by a fictitious name. The use of a fictitious name shall not be grounds for dismissal of the complaint if sufficient service has been made, and amendments shall be allowed and terms may be imposed.
+    </text>
+</law>

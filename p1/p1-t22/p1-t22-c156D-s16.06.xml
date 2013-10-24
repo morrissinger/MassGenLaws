@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>16.06</section_number>
+    <catch_line>Exception To Notice Requirement; Consequences Of Inability To Deliver Notice</catch_line>
+    <order_by>16.06</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever notice is required to be given under any provision of this chapter to any shareholder, the notice shall not be required to be given if:
+        </section>
+        <section prefix="1">
+    	     notice of 2 consecutive annual meetings, and all notices of meetings during the period between the 2 consecutive annual meetings, have been sent to the shareholder at the shareholder’s address as shown on the records of the corporation and have been returned undeliverable; or
+        </section>
+        <section prefix="2">
+    	     all, but not less than 2, payments of dividends on securities during a 12-month period, or 2 consecutive payments of dividends on securities during a period of more than 12 months, have been sent to the shareholder at the shareholder’s address as shown on the records of the corporation and have been returned undeliverable.
+        </section>
+        <section prefix="b">
+    	     If the shareholder shall deliver to the corporation a written notice setting forth the shareholder’s then-current address, the requirement that notice be given to the shareholder shall be reinstated.
+        </section>
+        <section prefix="c">
+    	     If the corporation is unable to deliver notice to any shareholder to an address furnished by the shareholder for the purpose and the inability becomes known to the secretary or an assistant secretary of the corporation, the transfer agent or other person responsible for the giving of notice, the corporation shall take such action as shall be reasonable in the circumstances to inform the shareholder of the inability and to request the shareholder to furnish a new address for the receipt of notices. Attempting to contact the shareholder at such other address, if any, as the corporation may have for the shareholder is deemed reasonable. The corporation may continue to rely on the address last furnished by the shareholder for notice until it is furnished in writing a new address for notice. The failure of the corporation to take the action required by this subsection shall not invalidate any meeting or other action.
+        </section>
+    </text>
+</law>

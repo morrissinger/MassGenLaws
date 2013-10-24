@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>125</section_number>
+    <catch_line>Refusal To Supply Because Of Default Of Previous Occupant</catch_line>
+    <order_by>125</order_by>
+    <text>
+        A gas or electric company shall not refuse to supply gas or electricity for any building or premises to a person applying therefor who is not in arrears to it for any gas or electricity previously supplied to him, because a bill for gas or electricity remains unpaid by a previous occupant of such building or premises.
+    </text>
+</law>

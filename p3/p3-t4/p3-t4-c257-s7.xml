@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="257" order_by="257" level="3">Seizure And Libelling Of Forfeited Property</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Decree</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If the libellant maintains his action, the court shall decree a forfeiture and sale of the property and a distribution of the proceeds, or other appropriate disposition thereof. If he fails to maintain it, the court shall decree a restitution of the property to the claimant.
+    </text>
+</law>

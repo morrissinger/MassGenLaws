@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Liability Of County, City, Town Or District For Employee’S Injuries</catch_line>
+    <order_by>71</order_by>
+    <text>
+        Except as provided in the following section, such county, city, town or district shall not be liable in any action for a personal injury sustained by a laborer, workman or mechanic in the course of his employment by such county, city, town or district, or for death resulting from such injury.
+    </text>
+</law>

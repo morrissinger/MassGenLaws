@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>1.41</section_number>
+    <catch_line>Notice</catch_line>
+    <order_by>1.41</order_by>
+    <text>
+        <section prefix="a">
+    	     Notice under this chapter shall be in writing unless oral notice is reasonable under the circumstances. Notice by electronic transmission is written notice.
+        </section>
+        <section prefix="b">
+    	     Notice may be communicated in person; by telephone, voice mail, telegraph, teletype, or other electronic means; by mail; by electronic transmission; or by messenger or delivery service. If these forms of personal notice are impracticable, notice may be communicated by a newspaper of general circulation in the area where published; or by radio, television, or other form of public broadcast communication.
+        </section>
+        <section prefix="c">
+    	     Written notice, other than notice by electronic transmission, by a domestic or foreign corporation to any of its shareholders, if in a comprehensible form, is effective upon deposit in the United States mail, if mailed postpaid and correctly addressed to the shareholder’s address shown in the corporation’s current record of shareholders.
+        </section>
+        <section prefix="d">
+    	     Written notice by electronic transmission by a domestic or foreign corporation to any of its shareholders, if in comprehensible form, is effective:
+        </section>
+        <section prefix="1">
+    	     if by facsimile telecommunication, when directed to a number furnished by the shareholder for the purpose;
+        </section>
+        <section prefix="2">
+    	     if by electronic mail, when directed to an electronic mail address furnished by the shareholder for the purpose;
+        </section>
+        <section prefix="3">
+    	     if by a posting on an electronic network together with separate notice to the shareholder of such specific posting, directed to an electronic mail address furnished by the shareholder for the purpose, upon the later of (i) such posting and (ii) the giving of such separate notice; and
+        </section>
+        <section prefix="4">
+    	     if by any other form of electronic transmission, when directed to the shareholder in such manner as the shareholder shall have specified to the corporation.
+        </section>
+        <section prefix="e">
+    	     Written notice, including notice by electronic transmission, to a domestic or foreign corporation, authorized to transact business in the commonwealth, may be addressed to its registered agent at its registered office or to the corporation at its principal office shown in its most recent annual report or, in the case of a foreign corporation that has not yet delivered an annual report, in its application for a certificate of qualification.
+        </section>
+        <section prefix="f">
+    	     Except as provided in subsection (c), written notice, other than notice by electronic transmission, if in a comprehensible form, is effective at the earliest of the following:
+        </section>
+        <section prefix="1">
+    	     when received;
+        </section>
+        <section prefix="2">
+    	     five days after its deposit in the United States mail, if mailed postpaid and correctly addressed;
+        </section>
+        <section prefix="3">
+    	     on the date shown on the return receipt, if sent by registered or certified mail, return receipt requested; or if sent by messenger or delivery service, on the date shown on the return receipt signed by or on behalf of the addressee; or
+        </section>
+        <section prefix="4">
+    	     on the date of publication if notice by publication is permitted.
+        </section>
+        <section prefix="g">
+    	     Oral notice is effective when communicated if communicated in a comprehensible manner.
+        </section>
+        <section prefix="h">
+    	     If this chapter or any other General Law prescribes notice requirements for particular circumstances, those requirements shall govern. If articles of organization or bylaws prescribe notice requirements, which are not inconsistent with this chapter, those requirements shall govern.
+        </section>
+    </text>
+</law>

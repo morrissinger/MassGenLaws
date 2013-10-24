@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>136</section_number>
+    <catch_line>Content Of Agreement Of Association Of Purchasers; Execution Of Agreement</catch_line>
+    <order_by>136</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a street railway company.
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed, which shall be one not in use by any other street railway company in the commonwealth, or, in the judgment of the department, so similar thereto as to be likely to be mistaken for it, and which shall contain the words, “street railway company”, at the end thereof.
+        </section>
+        <section prefix="c">
+    	     The corporate name of the company whose property and franchises have been purchased.
+        </section>
+        <section prefix="d">
+    	     The termini of the railway.
+        </section>
+        <section prefix="e">
+    	     The length of the railway, as nearly as may be.
+        </section>
+        <section prefix="f">
+    	     The name of each city and town where the railway is located.
+        </section>
+        <section prefix="g">
+    	     The name of the court by which the sale was ordered, the date of such order, and date of sale.
+        </section>
+        <section prefix="h">
+    	     The total amount of the capital stock of the company, which shall be fixed at an amount approved by the department, but which shall not exceed the fair cost, as determined by the department, of replacing the railway and property so acquired, less the amount of any outstanding mortgages to which said railway and property may be subject in the hands of the new company.
+        </section>
+        <section prefix="i">
+    	     The par value of the shares, which may be one hundred dollars, fifty dollars or twenty-five dollars as the department shall authorize.
+        </section>
+        <section prefix="j">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are chosen and qualified in their stead.
+        </section>
+    </text>
+</law>

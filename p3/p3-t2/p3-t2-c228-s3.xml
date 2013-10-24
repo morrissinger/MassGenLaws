@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="228" order_by="228" level="3">Survival Of Actions And Death And Disabilities Of Parties</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Judgment For Or Against Executor Or Administrator Of Officer</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If judgment in such case is rendered for the executor or administrator of the officer, the property or money recovered shall be disposed of in the same manner as it ought to have been by the officer if he had recovered the same; but if judgment is rendered against such executor or administrator, the property shall be returned or delivered or the damages recovered shall be paid in full by him, if there is sufficient property therefor, although the estate of the deceased is insolvent.
+    </text>
+</law>

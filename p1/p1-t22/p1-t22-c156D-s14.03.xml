@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.03</section_number>
+    <catch_line>Articles Of Dissolution</catch_line>
+    <order_by>14.03</order_by>
+    <text>
+        <section prefix="a">
+    	     At any time after dissolution is authorized, the corporation may dissolve by delivering to the secretary of state for filing articles of dissolution setting forth:
+        </section>
+        <section prefix="1">
+    	     the name of the corporation;
+        </section>
+        <section prefix="2">
+    	     the date dissolution was authorized;
+        </section>
+        <section prefix="3">
+    	     if dissolution was approved by the shareholders under subsection (b) of section 14.02:
+        </section>
+        <section prefix="i">
+    	     the number of votes entitled to be cast on the proposal to dissolve; and
+        </section>
+        <section prefix="ii">
+    	     either the total number of votes cast for and against dissolution or the total number of undisputed votes cast for dissolution and a statement that the number cast for dissolution was sufficient for approval.
+        </section>
+        <section prefix="4">
+    	     If voting by voting groups was required on a dissolution proposal under subsection (b) of section 14.02, the information required by subparagraph (3) of this section shall be separately provided for each voting group entitled to vote separately on the proposal to dissolve.
+        </section>
+        <section prefix="5">
+    	     If dissolution was authorized by a method or procedure specified in the articles of organization pursuant to subsection (a) of section 14.02, the articles of dissolution shall set forth such method or procedure, together with sufficient information to establish that the corporation has complied therewith.
+        </section>
+        <section prefix="b">
+    	     A corporation is dissolved upon the effective date of its articles of dissolution.
+        </section>
+    </text>
+</law>

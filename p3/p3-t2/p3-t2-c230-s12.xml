@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="230" order_by="230" level="3">Actions By And Against Executors And Administrators</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Death Or Removal Of Fiduciary After Judgment</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If an executor or administrator dies or is removed after judgment has been rendered for or against him by the probate court, such court may issue a writ of scire facias in favor of or against the administrator de bonis non; and if an executor or administrator dies or is removed after judgment has been rendered for or against him by the supreme judicial, superior, district or land court, such court may upon motion amend such judgment in favor of or against the administrator de bonis non; and a new execution may be issued upon the scire facias or amended judgment in like manner as may be done in favor of or against an original executor or administrator in case of death of his testator or intestate after a judgment rendered for or against him; except that a judgment against the first executor or administrator for costs for which he was personally liable shall be enforced only against his executor or administrator and not against the administrator de bonis non.
+    </text>
+</law>

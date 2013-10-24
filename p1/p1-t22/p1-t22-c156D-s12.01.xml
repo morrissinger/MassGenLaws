@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>12.01</section_number>
+    <catch_line>Sale Of Assets In Regular Course Of Business And Mortgage Of Assets</catch_line>
+    <order_by>12.01</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may, on the terms and conditions and for the consideration determined by the board of directors:
+        </section>
+        <section prefix="1">
+    	     sell, lease, exchange, or otherwise dispose of all, or substantially all, of its property in the usual and regular course of business;
+        </section>
+        <section prefix="2">
+    	     mortgage, pledge, including any sale upon foreclosure of such pledge, dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber all or substantially all of its property whether or not in the usual and regular course of business;
+        </section>
+        <section prefix="3">
+    	     transfer all, or substantially all, of its property to another corporation all of the shares of which are owned, directly or indirectly, by the corporation; or
+        </section>
+        <section prefix="4">
+    	     distribute assets pro rata to the holders of 1 or more classes or series of the corporation’s shares.
+        </section>
+        <section prefix="b">
+    	     Unless the articles of organization require it, approval by the shareholders of a transaction described in subsection (a) is not required.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>15A</section_number>
+    <catch_line>Controversy As To Which Of Two Or More Insurers Is Liable</catch_line>
+    <order_by>15A</order_by>
+    <text>
+        If one or more claims are filed for an injury and two or more insurers, any one of which may be held to be liable to pay compensation therefor, agree that the injured employee would be entitled to receive such compensation but for the existence of a controversy as to which of said insurers is liable to pay the same, such one of said insurers as they may mutually agree upon or as may be selected by a single member of the board shall pay to the injured employee the compensation aforesaid, pending a final decision of the board as to the matter in controversy, and such decision shall require that the amount of compensation so paid shall be deducted from the award if made against another insurer and be paid by said other insurer to the insurer agreed upon or selected by the single member as aforesaid. If, however, said insurers cannot agree that such employee would be entitled to compensation irrespective of the existence of such controversy, then a hearing to determine the question of liability and the payment of compensation shall be held forthwith by the division, such hearing to take precedence over other pending matters.
+    </text>
+</law>

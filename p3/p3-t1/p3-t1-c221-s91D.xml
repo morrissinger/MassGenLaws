@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>91D</section_number>
+    <catch_line>Court Reporters; Practices; Contracts</catch_line>
+    <order_by>91D</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words and phrases unless the context otherwise requires, shall have the following meanings:
+        </section>
+        <section prefix="b">
+    	     Contracts entered into pursuant to the practice of court reporting, not related to a particular case or reporting incident, between a court reporter or any person with whom a court reporter has a principal and agency relationship and an attorney at law, party to an action, or party having a financial interest in an action shall be prohibited. An attorney shall not be prohibited from negotiating or bidding reasonable court reporting fees, equal to all parties, on a case by case basis. This section shall not apply to a contract entered into pursuant to the practice of court reporting for the courts or to other contracts with governmental entities.
+        </section>
+    </text>
+</law>

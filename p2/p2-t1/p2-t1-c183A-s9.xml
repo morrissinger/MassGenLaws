@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Deeds Of Units; Contents</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     An indication that the deed relates to a condominium and is subject to the provisions of this chapter. If the condominium relates to a lease which is submitted to the provisions of this chapter, the name of the condominium shall contain the word “Lease” or “Leasehold” and the deed or assignment or each unit shall indicate that the condominium relates to a lease.
+        </section>
+        <section prefix="b">
+    	     A description of the land as provided in section eight, or the post office address of the property, in either case including the book, page and date of recording of the master deed.
+        </section>
+        <section prefix="c">
+    	     The unit designation of the unit in the master deed and any other data necessary for its proper identification.
+        </section>
+        <section prefix="d">
+    	     A statement of the use for which the unit is intended and the restrictions, if any, on its use.
+        </section>
+        <section prefix="e">
+    	     The undivided interest appertaining to the unit in the common areas and facilities.
+        </section>
+        <section prefix="f">
+    	     Any further provisions which the grantor and grantee may deem desirable to set forth, consistent with the master deed and this chapter.
+        </section>
+    </text>
+</law>

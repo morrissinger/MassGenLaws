@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151C" order_by="151C" level="3">Fair Educational Practices</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Unfair Practices</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     To exclude or limit or otherwise discriminate against any United States citizen or citizens seeking admission as students to such institution because of race, religion, creed, color or national origin.
+        </section>
+        <section prefix="b">
+    	     To penalize any of its employees or students or any applicant for admission because he has testified, participated or assisted in any proceeding under this section.
+        </section>
+        <section prefix="c">
+    	     To cause to be made any written or oral inquiry concerning the race, religion, color or national origin of a person seeking admission, except that a religious or denominational educational institution which certified to the commission that it is a religious or denominational educational institution may inquire as to the religious or denominational affiliations of applicants for admission.
+        </section>
+        <section prefix="d">
+    	     To exclude, limit or otherwise discriminate against any person seeking admission to a program or course of study leading to a degree, beyond a bachelor’s degree, because of race, religion, creed, color, age, sex or national origin, or to so discriminate against any student admitted to such program or course of study in providing benefits, privileges and placement services.
+        </section>
+        <section prefix="e">
+    	     To exclude from admission any student because said student is blind or deaf or requires the use of a dog guide.
+        </section>
+        <section prefix="f">
+    	     To request any information, to make or keep a record of such information, to use any form of application or application blank which requests information or to exclude or limit or otherwise discriminate against any person by reason of his or her failure to furnish information through a written application or oral inquiry or otherwise regarding: (i) an arrest, detention, or disposition regarding any violation of the law in which no conviction resulted or in which a conviction has been vacated, or (ii) a first conviction for any of the following misdemeanors: drunkenness, simple assault, speeding, minor traffic violations, affray or disturbance of the peace, or (iii) any conviction of a misdemeanor where such conviction occurred more than five years prior to the date of such application for admission, unless the applicant was sentenced to imprisonment upon conviction of such misdemeanor, or such individual has been convicted of any offense within the five years’ period.
+        </section>
+        <section prefix="g">
+    	     To sexually harass students in any program or course of study in any educational institution.
+        </section>
+    </text>
+</law>

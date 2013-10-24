@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="277" order_by="277" level="3">Indictments And Proceedings Before Trial</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Description Of Value Or Price</catch_line>
+    <order_by>24</order_by>
+    <text>
+        The value or price of property need not be stated, unless an essential element of the crime. If the nature, degree or punishment of a crime depends upon the fact that the property exceeds or does not exceed a certain value, it may be described, as the case may be, of more than that value, or of not more than that value.
+    </text>
+</law>

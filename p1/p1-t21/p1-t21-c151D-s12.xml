@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151D" order_by="151D" level="3">Health, Welfare And Retirement Funds</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Bond Of Trustee Or Plan Administrator; Waiver; Failure To File Certification Thereof; Penalty</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     Every trustee or plan administrator subject to the provisions of this chapter, who is responsible for or who is delegated to be responsible for the funds of a trust or fund shall be bonded as herein provided; the amount of such bond shall be fixed at the beginning of each calendar, policy or other fiscal year, as the case may be, and certificates indicating compliance shall be filed with the board, together with those reports filed with the board, in compliance with subsection (a) of section three. The amount of the bond shall be not less than ten per cent of the amount of funds handled by said trustee or plan administrator, determined as herein provided, except that any such bond shall be in a minimum amount of one thousand dollars and a maximum amount of one hundred thousand dollars. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the trustee or plan administrator or by their predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such trustee or plan administrator as estimated by such trustees and plan administrator and approved by the board. Such bond shall provide protection to such funds or trust funds against loss by reason of acts of fraud or dishonesty on the part of such trustee or plan administrator, either directly or through connivance with others. Any bond required hereunder shall have as surety thereon a corporate surety company which is acceptable to the board in a form or type approved by the board, including individual bonds or schedule or blanket forms of bonds which cover a group or class.
+        </section>
+        <section prefix="b">
+    	     Nothing in this section shall require any trustee or plan administrator to be bonded if said trustee or plan administrator is required to be bonded by any law of any other state or of the United States under substantially the same requirement, and said bonding may be waived by board.
+        </section>
+        <section prefix="c">
+    	     Any trustee or plan administrator neglecting to file said certification as required hereunder shall be subject to the penalty prescribed in subsection (a) of section three for failure to file annual reports.
+        </section>
+    </text>
+</law>

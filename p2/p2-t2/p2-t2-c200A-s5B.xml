@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200A" order_by="200A" level="3">Disposition Of Unclaimed Property</unit>
+    </structure>
+    <section_number>5B</section_number>
+    <catch_line>Dividends, Etc. Of Business Associations; Presumption Of Abandonment</catch_line>
+    <order_by>5B</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to section one A, any dividend, profit, distribution, interest, payment on principal, or other sum held or owing by a business association for or to its shareholder, certificate holder, member, bondholder, or other security holder, or a participating patron of a cooperative, who has not claimed it, or corresponded in writing with the business association concerning it, or otherwise indicated an interest as evidenced by a memorandum or other record on file with the association within three years after the date prescribed for payment or delivery is presumed abandoned.
+        </section>
+        <section prefix="b">
+    	     Subject to section one A, any intangible interest in a business association, as evidenced by the stock records or membership records of the association is presumed abandoned if (1) the interest in the association is owned by a person who for more than three years has neither claimed a dividend or other sum referred to in subsection (a) nor corresponded in writing with the association or otherwise indicated an interest as evidenced by a memorandum or other record on file with the association and (2) the association does not know the location of the owner at the end of such three year period. With respect to such interest the business association shall be deemed the holder.
+        </section>
+        <section prefix="c">
+    	     Subject to section one A, any dividends or other distributions held for or owing to a person at the time the stock or other security to which they attach are presumed abandoned also shall be presumed abandoned as of the same time.
+        </section>
+        <section prefix="d">
+    	     For the purposes of subsections (a) and (b) of this section a record of the sending of an Internal Revenue Service Form 1099, or its equivalent, to the persons enumerated in those subsections and a record of its not being returned by the United States Postal Service or its successor, shall be an indication of interest.
+        </section>
+    </text>
+</law>

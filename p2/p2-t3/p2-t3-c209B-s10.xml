@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Foreign Courts; Evidentiary Hearings; Transfer Of Information;  Orders To Appear Within State; Expenses</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     A court of the commonwealth may request the appropriate court of another state to hold a hearing to adduce evidence, to order a party to produce or give evidence under other procedures of that state, or to have an investigation made with respect to the custody of a child involved in proceedings pending in the court of the commonwealth; and to forward to the court of the commonwealth certified copies of the transcript of the record of the hearing, the evidence otherwise adduced, or any investigation prepared in compliance with the request. The cost of these services may be assessed against the parties.
+        </section>
+        <section prefix="b">
+    	     A court of the commonwealth may request the appropriate court of another state to order a party to custody proceedings pending in the court of the commonwealth to appear in the proceedings, and if that party has physical custody of the child, to appear with the child. The request may state that travel and other reasonable and necessary expenses of the party and of the child whose appearance is desired may be assessed against another party or may otherwise be paid.
+        </section>
+    </text>
+</law>

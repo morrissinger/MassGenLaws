@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Suits By Or Against Limited Liability Company</catch_line>
+    <order_by>55</order_by>
+    <text>
+        Suit may be brought by or against a limited liability company in its own name.
+    </text>
+</law>

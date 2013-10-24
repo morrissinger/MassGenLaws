@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175F" order_by="175F" level="3">Medical Malpractice Self Insurance Trust Funds</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Revocation Or Suspension Of Certification Of Fund; Removal Of Trustee</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     violating any provision of this chapter or any regulations promulgated hereunder;
+        </section>
+        <section prefix="2">
+    	     presenting false or misleading statements on any document which is filed in accordance with this chapter;
+        </section>
+        <section prefix="3">
+    	     holding a claims reserve less than the minimum required to be maintained by section eight;
+        </section>
+        <section prefix="4">
+    	     using improper accounting procedures not in conformity with section seven.
+        </section>
+    </text>
+</law>

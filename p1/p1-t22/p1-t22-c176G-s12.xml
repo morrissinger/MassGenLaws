@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Health Regulations Not Limited</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Nothing in this chapter shall exempt any person from any applicable provisions of chapters one hundred and eleven or one hundred and twelve, including but not limited to, provisions relating to determinations of need, licensure and regulation of hospitals and clinics and registration of health professionals.
+    </text>
+</law>

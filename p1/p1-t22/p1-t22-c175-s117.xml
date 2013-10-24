@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>117</section_number>
+    <catch_line>Policies; Term; Exception   </catch_line>
+    <order_by>117</order_by>
+    <text>
+        No company shall issue a policy of insurance on a steam boiler for a longer period than three years. This provision shall not apply to policies issued under authority of section twenty-two A which, as part of the coverage thereof, insure real or personal property against loss or damage by fire at residential locations or which, as part of the coverage thereof, insure the output of a manufacturer against such loss or damage by fire only at locations other than his manufacturing premises.
+    </text>
+</law>

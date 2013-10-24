@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Process; Issuance</catch_line>
+    <order_by>4</order_by>
+    <text>
+        Each court may, if necessary to secure justice and equity, issue to courts of inferior jurisdiction, corporations and persons all general and special writs and processes required in a civil action.
+    </text>
+</law>

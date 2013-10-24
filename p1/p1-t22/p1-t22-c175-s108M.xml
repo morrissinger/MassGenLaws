@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>108M</section_number>
+    <catch_line>Disclosure Of Patient Level Data And Contracted Prices Of Individual Health Care Services By Carriers To Providers</catch_line>
+    <order_by>108M</order_by>
+    <text>
+        [ Text of section added by 2012, 224, Sec. 155 effective October 1, 2013. See 2012, 224, Sec. 288.]  To the extent permissible under applicable state and federal privacy laws, carriers shall disclose patient-level data to providers in their network solely for the purpose of carrying out treatment, coordinating care among providers and managing the care of their own patient panel; provided, that an individual provider shall only receive patient-level data related to patients treated by said provider. Patient-level data shall include, but not be limited to, health care service utilization, medical expenses, and demographics.  The division of insurance shall develop procedures and a standard format for disclosing such patient-level information. The division may require carriers to disclose such information through the all-payer claims database established under section 12 of chapter 12C if the division and the center for health information and analysis determine that the all-payer claims database is an efficient means to provide such information.  Carriers shall make available to any provider with whom they have entered into an alternative payment contract, the contracted prices of individual health care services within such payer's network for the purpose of referrals.
+    </text>
+</law>

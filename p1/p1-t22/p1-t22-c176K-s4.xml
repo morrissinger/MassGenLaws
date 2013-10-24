@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176K" order_by="176K" level="3">Medicare Supplement Insurance Plans</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Regulations; Prescription Drug Coverage; Compliance With Benefit Designs</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall, to the extent permitted by OBRA 90, promulgate by regulation the plans for medicare supplement insurance and medicare select insurance, and the benefits for those plans, which may be offered, sold, issued, or delivered, or renewed by a carrier on or after a date set by the commissioner by regulation.
+        </section>
+        <section prefix="b">
+    	     Any policy issued pursuant to a risk or cost contract shall comply with the requirements of chapter one hundred and seventy-six G and any regulations promulgated thereunder, provided however, that each policy issued pursuant to a risk or cost contract that includes prescription drug coverage shall meet or exceed minimum standards determined by the commissioner pursuant to regulation, and provided further, that the minimum prescription drug coverage shall be comparable to that required in plans for medicare supplement insurance and medicare select insurance.
+        </section>
+        <section prefix="c">
+    	     Any carrier that participates in the market must offer at least one product with prescription drug coverage for each license under which that carrier is participating in the market, provided, however, that a carrier may be granted an exemption from this requirement by the commissioner in order to comply with the provisions of OBRA 90, or with the provisions of law governing contracts; provided that not less than forty-five days prior to the proposed granting of such an exemption, the commissioner shall file with the clerk of the house of representatives and the clerk of the senate documentation explaining the reasons why said exemption is necessary and, if applicable, communication from the health care finance administration relative to prescription drug coverage and the terms of the waiver granted pursuant to the provisions of OBRA 90.
+        </section>
+    </text>
+</law>

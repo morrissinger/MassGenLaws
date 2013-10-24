@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180A" order_by="180A" level="3">Uniform Prudent Management Of Institutional Funds</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Delegation Of Management And Investment Of An Institutional Fund</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to any specific limitation set forth in a gift instrument or in other general or special law, an institution may delegate to an external agent the management and investment of an institutional fund to the extent that an institution could prudently delegate under the circumstances. An institution shall act in good faith, with the care that an ordinarily prudent person in a like position would exercise under similar circumstances, in:
+        </section>
+        <section prefix="i">
+    	     selecting an agent;
+        </section>
+        <section prefix="ii">
+    	     establishing the scope and terms of the delegation, consistent with the purposes of the institution and the institutional fund; and
+        </section>
+        <section prefix="iii">
+    	     periodically reviewing the agent’s actions in order to monitor the agent’s performance and compliance with the scope and terms of the delegation.
+        </section>
+        <section prefix="b">
+    	     In performing a delegated function, an agent shall owe a duty to the institution to exercise reasonable care to comply with the scope and terms of the delegation.
+        </section>
+        <section prefix="c">
+    	     An institution that complies with subsection (a) shall not be liable for the decisions or actions of an agent to which the function was delegated.
+        </section>
+        <section prefix="d">
+    	     By accepting delegation of a management or investment function from an institution that is subject to the laws of the commonwealth, an agent submits to the jurisdiction of the courts of the commonwealth in all proceedings arising from or related to the delegation or the performance of the delegated function.
+        </section>
+        <section prefix="e">
+    	     An institution may delegate management and investment functions to its committees, officers or employees as authorized by any other general or special law.
+        </section>
+    </text>
+</law>

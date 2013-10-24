@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="275" order_by="275" level="3">Proceedings To Prevent Crimes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Complaint Of Threat To Commit Crime</catch_line>
+    <order_by>2</order_by>
+    <text>
+        If complaint is made to any such court or justice that a person has threatened to commit a crime against the person or property of another, such court or justice shall examine the complainant and any witnesses who may be produced, on oath, reduce the complaint to writing and cause it to be subscribed by the complainant.
+    </text>
+</law>

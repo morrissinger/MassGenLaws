@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>47A</section_number>
+    <catch_line>Exemption From Requirements Allowing Competitive Choice Of Generation Supply; Prohibition Of Retail Sales By Nonmunicipal Suppliers And Electric Companies Within Municipal Service Territory; Sale Of Electricity At Wholesale; Sale Of Electricity In Adjoining Service Territory; Restrictions On Service To Present Customers Of Municipal Lighting Plants; Referendum On Competitive Choice Of Generation Supply</catch_line>
+    <order_by>47A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any municipal lighting plant established pursuant to the provisions of this chapter or special law shall be exempt from the requirements to allow competitive choice of generation supply, unless and until such lighting plant is dissolved pursuant to existing statutory procedures.
+        </section>
+        <section prefix="b">
+    	     A municipal lighting plant established pursuant to the provisions of this chapter or special law may prohibit retail sales by suppliers and electric companies to customers within the service territory of said lighting plant; provided, however, that a municipal lighting plant may supply generation service outside its own service territory for retail purposes only if outside suppliers may provide generation service within the service territory of said municipal lighting plant by mutual agreement with said lighting plant. Such agreement, upon execution, shall be submitted to the department and shall detail the manner in which any such supplier shall conduct business within the service territory of said lighting plant.
+        </section>
+        <section prefix="c">
+    	     A municipal lighting plant may sell electricity at wholesale, for resale, to aggregators, or other entities in bulk and shall not, in doing so, be deemed to be supplying generation services outside its own service territory for the purposes of subsection (b).
+        </section>
+        <section prefix="d">
+    	     A municipal lighting plant may sell electricity at retail, by mutual agreement or by order of the department as provided pursuant to section 47 or section 60 of this chapter, in the service territory of an adjoining electric company or a municipal lighting plant, and such sale shall not be deemed to be supplying generation service outside its own service territory for the purposes of subsection (b). Such mutual agreement shall be between the municipal lighting plant selling such electricity at retail and the adjoining electric company or other municipal lighting plant.
+        </section>
+        <section prefix="e">
+    	     No municipality, private corporation, or other entity selling or distributing electricity shall use existing lines or extend its lines except by mutual agreement with a municipal lighting plant or by order of the department as provided pursuant to section 47 or section 60 of this chapter in order to distribute or sell electricity to customers presently served by such municipal lighting plant.
+        </section>
+        <section prefix="f">
+    	     If a municipal lighting plant has not allowed retail customers served by it competitive choice of generation supply by March 1, 2003, the governing body for each city or town with such municipal lighting plant shall conduct a study, which shall include the holding of public hearings, and may make recommendations which may include, but shall not be limited to, conducting a referendum relative to competitive choice of generation supply for the customers of such municipal lighting plant.
+        </section>
+    </text>
+</law>

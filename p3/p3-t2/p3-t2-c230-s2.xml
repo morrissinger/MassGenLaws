@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="230" order_by="230" level="3">Actions By And Against Executors And Administrators</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Torts; Amount Of Damages</catch_line>
+    <order_by>2</order_by>
+    <text>
+        If an action of tort is commenced or prosecuted against the executor or administrator of the person originally liable, the plaintiff shall recover only the value of the goods taken, or the damage actually sustained, without vindictive or exemplary damages, or damages for any alleged outrage to the feelings of the injured party.
+    </text>
+</law>

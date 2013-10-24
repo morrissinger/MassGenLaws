@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>34B</section_number>
+    <catch_line>Review Date; Supplemental Benefits To Sec. 31 Or 34 A</catch_line>
+    <order_by>34B</order_by>
+    <text>
+        <section prefix="a">
+    	     The director of administration shall determine the percentage change between the average weekly wage in the commonwealth on the date of the injury and the average weekly wage in the commonwealth on the review date. For purposes of this section, no increase in the average weekly wage in the commonwealth shall exceed the lesser of the following: (i) the percentage change in the most recent annual consumer price index calculated by the Bureau of Labor Statistics of the United States Department of Labor for the northeast region for all urban consumers; (ii) five percent.
+        </section>
+        <section prefix="b">
+    	     The death benefit under section thirty-one or the permanent and total disability benefit under section thirty-four A that was being paid prior to any adjustments under this section shall be the base benefit. The base benefit shall be changed on each review date by the percentage change as calculated in paragraph (a); the resulting amount shall be termed the adjusted benefit and is the amount of benefit to be paid on and after the review date. If the adjusted benefit is larger than the base benefit, the difference shall be termed the supplemental benefit. In no instance shall the adjusted benefit under this section be greater than three times the base benefit.
+        </section>
+        <section prefix="c">
+    	     The supplemental benefits under this section shall be paid by the insurer concurrent with the base benefit. Insurers shall be entitled to quarterly reimbursements for supplemental benefits, pursuant to section sixty-five, for cases involving injuries that occurred on or before October first, nineteen hundred and eighty-six, and for those cases occurring thereafter, to the extent such supplemental benefits are due to the increase of greater than five percent in the average weekly wage in the commonwealth in any single year. No self-insurer, self-insurance group or municipality that has chosen non-participation in the assessment provisions for funding such reimbursements pursuant to section sixty-five shall be entitled to such reimbursements.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.30</section_number>
+    <catch_line>Shareholders’ Preemptive Rights</catch_line>
+    <order_by>6.30</order_by>
+    <text>
+        <section prefix="a">
+    	     The shareholders of a corporation shall not have a preemptive right to acquire the corporation’s unissued shares except to the extent the articles of organization or any contract to which the corporation is a party so provides.
+        </section>
+        <section prefix="b">
+    	     For purposes of this section, “shares” include a security convertible into or carrying a right to subscribe for or acquire shares.
+        </section>
+    </text>
+</law>

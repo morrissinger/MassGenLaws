@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>62</section_number>
+    <catch_line>Limitations</catch_line>
+    <order_by>62</order_by>
+    <text>
+        A company shall not lease or contract for the operation of its railway for a period of more than ninety-nine years without the consent of the general court, nor, except as provided in the three following sections and in section one hundred and twenty-three, shall it sell its railway unless authorized so to do by its charter or by special act of the general court.
+    </text>
+</law>

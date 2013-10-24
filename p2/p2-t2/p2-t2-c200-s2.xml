@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="200" order_by="200" level="3">Settlement Of Estates Of Absentees</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Notice To Show Cause</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The court shall issue a notice reciting the substance of the petition which shall be addressed to such absentee and to all persons who claim an interest in the property of the absentee within the jurisdiction of the commonwealth, and to all whom it may concern, citing them to appear at a time and place named and show cause why a receiver of such property should not be appointed and such property held and disposed of under this chapter.
+    </text>
+</law>

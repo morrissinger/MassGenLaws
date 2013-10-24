@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.54</section_number>
+    <catch_line>Court Ordered Indemnification And Advance For Expenses</catch_line>
+    <order_by>8.54</order_by>
+    <text>
+        <section prefix="a">
+    	     A director who is a party to a proceeding because he is a director may apply for indemnification or an advance for expenses to the court conducting the proceeding or to another court of competent jurisdiction. After receipt of an application and after giving any notice it considers necessary, the court shall:
+        </section>
+        <section prefix="1">
+    	     order indemnification if the court determines that the director is entitled to mandatory indemnification under section 8.52;
+        </section>
+        <section prefix="2">
+    	     order indemnification or advance for expenses if the court determines that the director is entitled to indemnification or advance for expenses pursuant to a provision authorized by subsection (a) of section 8.58; or
+        </section>
+        <section prefix="3">
+    	     order indemnification or advance for expenses if the court determines, in view of all the relevant circumstances, that it is fair and reasonable
+        </section>
+        <section prefix="i">
+    	     to indemnify the director pursuant to section 8.51, or
+        </section>
+        <section prefix="ii">
+    	     to advance expenses to the director, even if he has not met the relevant standard of conduct set forth in subsection (a) or (b) of sections 8.51 or 8.51 or failed to comply with section 8.53.
+        </section>
+        <section prefix="b">
+    	     If the court determines that the director is entitled to indemnification under clause (1) of subsection (a) or to indemnification or advance for expenses under clause (2) of subsection (a), it shall also order the corporation to pay the director’s reasonable expenses incurred in connection with obtaining court-ordered indemnification or advance for expenses. If the court determines that the director is entitled to indemnification or advance for expenses under clause (3) of subsection (a), it may also order the corporation to pay the director’s reasonable expenses to obtain court-ordered indemnification or advance for expenses.
+        </section>
+    </text>
+</law>

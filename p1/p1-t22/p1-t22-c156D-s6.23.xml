@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.23</section_number>
+    <catch_line>Share Dividends</catch_line>
+    <order_by>6.23</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization provide otherwise, shares may be issued pro rata and without consideration to the corporation’s shareholders or to the shareholders of 1 or more classes or series. An issuance of shares under this subsection is a share dividend.
+        </section>
+        <section prefix="b">
+    	     Shares of 1 class or series shall not be issued as a share dividend in respect of shares of another class or series unless: (1) authorized by the articles of organization; (2) the holders of a majority of the outstanding shares of the class or series to be issued approve the issue; or (3) there are no outstanding shares of the class or series to be issued. In addition, shares of a class or series having preference over another class or series with respect to distributions, including dividends and distributions upon the dissolution of the corporation, shall not be issued as a share dividend in respect of shares of such other class or series if there are at the time any outstanding shares of any third class or series as to which the shares then to be issued have a right with respect to a distribution which is prior, superior or substantially equal unless: (1) authorized by the articles of organization; or (2) the holders of a majority of the outstanding shares of such third class or series approve the issue.
+        </section>
+        <section prefix="c">
+    	     If the board of directors does not fix the record date for determining shareholders entitled to a share dividend, it is the date the board of directors authorized the share dividend.
+        </section>
+    </text>
+</law>

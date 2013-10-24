@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Prevention Of Unfair Labor Practices; Powers Of Commission;  Proceedings; Judicial Review</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The commission is empowered, as hereinafter provided, to prevent any person from engaging in any unfair labor practice listed in sections four, four A, four B and four C affecting industry, trade or health care. This power shall be exclusive, and shall not be affected by any other means of adjustment or prevention that has been or may be established by agreement, code, law, or otherwise.
+        </section>
+        <section prefix="b">
+    	     Whenever it is charged that any person has engaged in or is engaging in any such unfair labor practice, the commission, or any agent or agency designated by the commission for such purposes, shall have power to issue and cause to be served upon such person a complaint stating the charges in that respect, and containing a notice of hearing before the commission or a member thereof, or before a designated agent or agency, at a place therein fixed, not less than five days after the serving of said complaint. Any such complaint may be amended by the member, agent or agency conducting the hearing or the commission in its discretion at any time prior to the issuance of an order based thereon. The person so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint. In the discretion of the member, agent or agency conducting the hearing or the commission, any other person may be allowed to intervene in the said proceeding and to present testimony. In any such proceeding the rules of evidence prevailing in courts of law or equity shall not be controlling.
+        </section>
+        <section prefix="c">
+    	     If upon the record before him such member or agent shall determine that an unfair labor practice has been committed by a person named in the complaint, he shall issue and cause to be served upon such person an order requiring such person to cease and desist from such unfair labor practice, and to take such further affirmative action as will effectuate the provisions of this chapter. If the member or agent determines that an unfair labor practice has not been committed, he shall issue an order dismissing the complaint. An order issued pursuant to this subsection shall become final and binding unless, within ten days after notice thereof, any party requests review by the full commission. A review may be made upon a written statement of the case by the member or agent agreed to by the parties, or upon written statements furnished by the parties, or, if any party or the commission requests, upon a transcript of the testimony taken at the preliminary hearing, if any, together with such other testimony as the commission may require.
+        </section>
+        <section prefix="d">
+    	     Until the record in a case shall have been filed in a court, as hereinafter provided, the commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it.
+        </section>
+        <section prefix="e">
+    	     The commission may institute appropriate proceedings in the appeals court for enforcement of its final orders.
+        </section>
+        <section prefix="f">
+    	     Any party aggrieved by a final order of the commission may institute proceedings for judicial review in the appeals court within thirty days after receipt of said order.
+        </section>
+    </text>
+</law>

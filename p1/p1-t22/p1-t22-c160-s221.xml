@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>221</section_number>
+    <catch_line>Fees For Enforcement Of Sec. 220</catch_line>
+    <order_by>221</order_by>
+    <text>
+        Except in Suffolk county, the fees and expenses of officers in the apprehension, trial or commitment of a person arrested or tried for violation of the preceding section shall be paid by the county where the offence was committed.
+    </text>
+</law>

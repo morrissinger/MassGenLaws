@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>25K</section_number>
+    <catch_line>Applications For Membership; Cancellation Of Members; Insolvency Or Bankruptcy Of Members</catch_line>
+    <order_by>25K</order_by>
+    <text>
+        <section prefix="1">
+    	     An employer joining a workers’ compensation self-insurance group after the group has been issued a certificate of approval shall submit an application for membership to the board of trustees or its administrator and, unless the employer is a public employer, enter into the indemnity agreement required by paragraph (i) of subsection (1) of section twenty-five G. Membership shall take effect no earlier than each member’s date of approval. The application for membership and its approval shall be maintained as permanent records of the board of trustees.
+        </section>
+        <section prefix="2">
+    	     Individual members of the group shall be subject to cancellation by the group pursuant to the by-laws of the group. In addition, individual members may elect to terminate their participation in the group. The group shall notify the commissioner of insurance and the division of industrial accidents of the termination or cancellation of a member within ten days and shall maintain coverage of each cancelled or terminated member for thirty days after such notice, with the cancelled or terminated member responsible for the premium for such period, unless the group is notified sooner by the workers’ compensation agency that the cancelled or terminated member has procured workers’ compensation insurance, has become a self-insurer, or has become a member of another group.
+        </section>
+        <section prefix="3">
+    	     The group shall pay all workers’ compensation benefits for which each member incurs liability during its period of membership. A member of a group, unless the group is a public employer group, who elects to terminate its membership or is cancelled by the group shall remain jointly and severally liable for the workers’ compensation obligations of the group and its members which were incurred during the cancelled or terminate member’s period of membership.
+        </section>
+        <section prefix="4">
+    	     A group member is not relieved of its workers’ compensation liabilities incurred during its period of membership except through payment by the group or the member of required workers’ compensation benefits.
+        </section>
+        <section prefix="5">
+    	     The insolvency or bankruptcy of a member shall not relieve the group or, unless the group is a public employer group, any other member of the group of liability for the payment of workers’ compensation benefits incurred during the insolvent or bankrupt member’s period of membership.
+        </section>
+        <section prefix="6">
+    	     Whenever, as a result of the addition of new members, or a material change in the size of any existing member or its parent or subsidiaries, the total annual premium of the group increases by ten percent or more, the board of trustees shall submit the approved applications of the new members, or new information regarding existing members or their parents or subsidiaries, to the commissioner, along with revised premium and payroll data. The commissioner shall review the information and may require changes in the form and amount of security and excess insurance for the group, and require the group to make other changes as the commissioner deems appropriate to ensure that the group is able to meet its workers’ compensation obligations.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>30A</section_number>
+    <catch_line>Medical Reports</catch_line>
+    <order_by>30A</order_by>
+    <text>
+        Any medical report pertaining to an injury which appears to be compensable shall be furnished by the physician or other medical provider to the employee, the insurer, and the department within fourteen days of completion of the examination of the employee. Each failure to comply with such reporting requirement shall be punishable by a civil fine to be determined by the director of administration, of not less than twenty-five nor greater than one thousand dollars. A schedule of incremental increases relative to violations shall be determined by the commissioner.
+    </text>
+</law>

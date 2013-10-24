@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Contents Of Agreement Of Association</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming a railroad corporation.
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed, which shall be one not in use by any other railroad corporation in the commonwealth, or, in the judgment of the department, so similar thereto as to be likely to be mistaken for it, and which shall contain the words, “railroad corporation”, at the end thereof.
+        </section>
+        <section prefix="c">
+    	     The termini of the railroad.
+        </section>
+        <section prefix="d">
+    	     The length of the railroad, as nearly as may be.
+        </section>
+        <section prefix="e">
+    	     The name of each county, city and town where the railroad is to be located.
+        </section>
+        <section prefix="f">
+    	     The gauge of the railroad, which shall be either four feet eight and one half inches, or three feet.
+        </section>
+        <section prefix="g">
+    	     The total amount of the capital stock of the corporation, which shall be not less than ten thousand dollars for each mile, if the gauge is four feet eight and one half inches, and not less than five thousand dollars for each mile, if the gauge is three feet.
+        </section>
+        <section prefix="h">
+    	     The par value of the shares, which shall be one hundred dollars.
+        </section>
+        <section prefix="i">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are chosen and qualified in their stead.
+        </section>
+    </text>
+</law>

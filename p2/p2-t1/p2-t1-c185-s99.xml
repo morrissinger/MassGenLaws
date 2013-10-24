@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="185" order_by="185" level="3">The Land Court And Registration Of Title To Land</unit>
+    </structure>
+    <section_number>99</section_number>
+    <catch_line>Payment; Amount</catch_line>
+    <order_by>99</order_by>
+    <text>
+        Upon original registration, there shall be paid to the recorder one tenth of one per cent of the assessed value of the land, on the basis of the last assessment for municipal taxation, or, in case of the registration of an easement or right, one tenth of one per cent of the value thereof as found by the court, as an assurance fund.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.31</section_number>
+    <catch_line>Voting Agreements</catch_line>
+    <order_by>7.31</order_by>
+    <text>
+        <section prefix="a">
+    	     An agreement between 2 or more shareholders or between 1 or more shareholders and 1 or more other persons, if in writing and signed by the parties to the agreement, whether or not the parties include all of the shareholders of the corporation, may provide for the manner in which the parties who are shareholders will vote their shares. A voting agreement created under this section is not subject to section 7.30.
+        </section>
+        <section prefix="b">
+    	     A voting agreement is valid for such period as is specified in the agreement or in any extension agreement entered into by all or some of the parties to it. An extension agreement binds only those parties signing it.
+        </section>
+        <section prefix="c">
+    	     A voting agreement created under this section is specifically enforceable.
+        </section>
+    </text>
+</law>

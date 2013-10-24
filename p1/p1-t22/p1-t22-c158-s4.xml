@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="158" order_by="158" level="3">Certain Miscellaneous Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Number Of Incorporators; Capital</catch_line>
+    <order_by>4</order_by>
+    <text>
+        For the purpose of carrying on any other lawful business for which corporations may be formed under this chapter, three or more persons may associate themselves, with a capital of not less than one thousand dollars. The capital of such companies other than gas and electric companies shall not exceed one million dollars.
+    </text>
+</law>

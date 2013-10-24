@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="268A" order_by="268A" level="3">Conduct Of Public Officials And Employees</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Avoiding, Rescinding Or Canceling State Agency Actions Resulting From Violations Of Chapter; Restitution And Damages</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     In addition to any other remedies provided by law, any violation of sections 2 to 8, inclusive, or section 23 which has substantially influenced the action taken by any state agency in any particular matter, shall be grounds for avoiding, rescinding or canceling the action on such terms as the interests of the commonwealth and innocent third persons shall require.
+        </section>
+        <section prefix="b">
+    	     In addition to the remedies set forth in subsection (a), the state ethics commission upon a finding pursuant to an adjudicatory proceeding that a person has acted to his economic advantage in violation of sections 2 to 8, inclusive, or section 23, may issue an order: (1) requiring the violator to pay the commission on behalf of the commonwealth damages in the amount of the economic advantage or $500, whichever is greater; and (2) requiring the violator to make restitution to an injured third party. If there has been no final criminal judgment of conviction or acquittal of the same violation, upon receipt of the written approval of the attorney general, the commission may order payment of additional damages in an amount not exceeding twice the amount of the economic advantage or $500, and payment of such additional damages shall bar any criminal prosecution for the same violation.
+        </section>
+        <section prefix="c">
+    	     The remedies authorized by this section shall be in addition to any civil penalty imposed by the state ethics commission in accordance with clause (3) of subsection (j) of section 4 of chapter 268B.
+        </section>
+    </text>
+</law>

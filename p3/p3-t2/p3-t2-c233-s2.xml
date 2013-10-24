@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="233" order_by="233" level="3">Witnesses And Evidence</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Service Of Summons</catch_line>
+    <order_by>2</order_by>
+    <text>
+        Such summons may be served in any county by an officer qualified to serve civil process or by a disinterested person by exhibiting and reading it to the witness, by giving him a copy thereof or by leaving such copy at his place of abode.
+    </text>
+</law>

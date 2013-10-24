@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>31A</section_number>
+    <catch_line>Summons; Service Upon Persons Engaged In Voting</catch_line>
+    <order_by>31A</order_by>
+    <text>
+        Personal service of a writ or summons upon a defendant while he is exercising his right to vote shall be null and void.
+    </text>
+</law>

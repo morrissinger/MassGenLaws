@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     “Bankruptcy”, the occurrence of any of the following events:
+        </section>
+        <section prefix="a">
+    	     a member:
+        </section>
+        <section prefix="1">
+    	     makes an assignment for the benefit of creditors;
+        </section>
+        <section prefix="2">
+    	     files a voluntary petition in bankruptcy;
+        </section>
+        <section prefix="3">
+    	     is adjudged a bankrupt or insolvent, or has entered against him an order for relief, in any bankruptcy or insolvency proceeding;
+        </section>
+        <section prefix="4">
+    	     files a petition or answer seeking for himself any reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any statute, law or regulation;
+        </section>
+        <section prefix="5">
+    	     files an answer or other pleading, admitting or failing to contest the material allegations of a petition filed against him in any proceeding of this nature;
+        </section>
+        <section prefix="6">
+    	     seeks, consents to or acquiesces in the appointment of a trustee, receiver or liquidator of the member or of all or any substantial part of his properties; or
+        </section>
+        <section prefix="b">
+    	     one hundred and twenty days after the commencement of any proceeding against the member seeking reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any statute, law or regulation, if the proceeding has not been dismissed, or if within ninety days after the appointment without his consent or acquiescence of a trustee, receiver or liquidator of the member or of all or any substantial part of his properties, the appointment is not vacated or stayed, or within ninety days after the expiration of any such stay, the appointment is not vacated.
+        </section>
+        <section prefix="2">
+    	     “Certificate of organization”, the certificate referred to in section twelve, and the certificate as amended.
+        </section>
+        <section prefix="3">
+    	     “Contribution”, any cash, property, services rendered or a promissory note or other obligation to contribute cash or property or to perform services, which a person contributes to a limited liability company in his capacity as a member.
+        </section>
+        <section prefix="4">
+    	     “Foreign limited liability company”, a limited liability company formed under the laws of any state other than the commonwealth or under the laws of any foreign country or other foreign jurisdiction and denominated as such under the laws of such state or foreign country or other foreign jurisdiction.
+        </section>
+        <section prefix="5">
+    	     “Limited liability company” and “domestic limited liability company”, an unincorporated organization formed under this chapter and having 1 or more members.
+        </section>
+        <section prefix="6">
+    	     “Limited liability company interest”, a member’s share of the profits and losses of a limited liability company and the member’s right to receive distributions of the limited liability company’s assets.
+        </section>
+        <section prefix="7">
+    	     “Manager”, a person who is designated as a manager of a limited liability company pursuant to the operating agreement.
+        </section>
+        <section prefix="8">
+    	     “Member”, a person who has been admitted to a limited liability company as a member as provided in section twenty or, in the case of a foreign limited liability company, in accordance with the laws of the state or foreign country or other foreign jurisdiction under which the foreign limited liability company is organized, and whose membership has not been terminated pursuant to the operating agreement or the operation of law.
+        </section>
+        <section prefix="9">
+    	     “Operating agreement”, any written or oral agreement of the members as to the affairs of a limited liability company and the conduct of its business.
+        </section>
+        <section prefix="10">
+    	     “Person”, a natural person, partnership, whether general or limited and whether domestic or foreign, limited liability company, foreign limited liability company, trust, estate, association, corporation, custodian, nominee or any other individual or entity in its own or any representative capacity.
+        </section>
+        <section prefix="11">
+    	     “State”, the District of Columbia or the Commonwealth of Puerto Rico or any state, territory, possession, or other jurisdiction of the United States other than the commonwealth.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Reports And Information For Federal, Commonwealth And Political Subdivision Agencies; Confidential Information; Federal Regulations Governing Expenditures</catch_line>
+    <order_by>64</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall make such reports, in such form and containing such information, as the secretary of labor may from time to time require, and shall furnish such additional information in such form as the secretary of labor may from time to time require to substantiate the accuracy of such reports; and shall make available, upon request, to any agency of the United States charged with the administration of public works or other assistance through public employment, information containing the name and address, ordinary occupation and employment status of each recipient of unemployment benefits who is specified in such request, the amounts of such benefits paid and the dates of payment, and a statement of such recipient’s rights to further benefits under this chapter; and shall make available, upon request made in a form and manner approved by the commissioner, to any agency of the commonwealth, or of any political subdivision thereof, charged with the duty of furnishing persons aid or assistance in any form or with the administration of assistance through public employment, like information with respect to any person applying for or receiving such aid or assistance who is specified in the request.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall disclose, upon request, to officers and employees of the United States Department of Agriculture and any state food stamp agency, with respect to an identified individual, any of the following information which is contained in the agency’s records:
+        </section>
+        <section prefix="1">
+    	     wage information,
+        </section>
+        <section prefix="2">
+    	     whether the individual is receiving, has received, or has made application for unemployment compensation and the amount of any compensation being received or to be received by such individual,
+        </section>
+        <section prefix="3">
+    	     the current or most recent home address of the individual, and
+        </section>
+        <section prefix="4">
+    	     whether the individual has refused an offer of employment and if so, a description of the employment offered and the terms, conditions and rate of pay therefor.
+        </section>
+        <section prefix="c">
+    	     Any information secured pursuant to this section shall be confidential and whoever discloses the same otherwise than as required or authorized by law shall be subject to the penalty provided in section forty-six of this chapter.
+        </section>
+        <section prefix="d">
+    	     The commissioner shall comply with all reasonable federal regulations governing expenditures of sums allotted or apportioned to the commonwealth for the administration of this chapter and accepted by the commonwealth.
+        </section>
+    </text>
+</law>

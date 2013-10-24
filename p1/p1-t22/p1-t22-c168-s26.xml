@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="168" order_by="168" level="3">Savings Banks</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Report To Commissioner; Balance Sheet</catch_line>
+    <order_by>26</order_by>
+    <text>
+        Every such corporation shall, annually, within thirty days after the last business day of December, make a report to the commissioner in such form as he may prescribe, showing accurately its condition at the close of business on that day and containing such other information as the commissioner may require. 
+Each such corporation shall prepare a balance sheet, in accordance with generally accepted accounting principles, which presents fairly its condition as of the last business day of its fiscal year. A copy of said balance sheet shall be made available to a depositor upon request.
+    </text>
+</law>

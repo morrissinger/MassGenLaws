@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Insurance Company Information Requested By Department; Rating Organizations; Notices Furnished By Companies</catch_line>
+    <order_by>63</order_by>
+    <text>
+        Insurance companies insuring employees under this chapter shall, at the request of the department, furnish it in writing any information required in connection with the administration by said department of this chapter, including any statistics and the names of all employers insured by them. Notice of issuance of a policy of insurance insuring employers under this chapter shall be given to the rating organization authorized by section fifty-two C by the company issuing such policy within five days after the date of issuance thereof. No further notice need be filed in case such insurance is renewed, extended or otherwise continued by such company. Such insurance shall not be cancelled or shall not be otherwise terminated until ten days after written notice of such cancellation or termination is given to the rating organization or until a notice has been received by said organization that the employer has secured insurance from another insurance company or has otherwise insured the payment of compensation provided for by this chapter. Said organization shall immediately make available to the department, by electronic transmission or otherwise, all information collected pursuant to this section. The organization may charge companies for the reasonable cost of gathering, processing and maintaining the data.
+    </text>
+</law>

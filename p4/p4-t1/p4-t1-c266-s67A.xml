@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="266" order_by="266" level="3">Crimes Against Property</unit>
+    </structure>
+    <section_number>67A</section_number>
+    <catch_line>Departments, Agencies And Public Instrumentalities; False Statements, Etc. In Procurement Of Supplies; Penalty</catch_line>
+    <order_by>67A</order_by>
+    <text>
+        <section prefix="1">
+    	     makes a material statement that is false;
+        </section>
+        <section prefix="2">
+    	     omits or conceals a material fact in a written statement;
+        </section>
+        <section prefix="3">
+    	     submits or invites reliance on a material writing or recording that is false, forged, altered, or otherwise lacking in authenticity;
+        </section>
+        <section prefix="4">
+    	     submits or invites reliance on a sample, specimen, map, photograph, boundary-mark, or other object that is misleading in a material respect; or
+        </section>
+        <section prefix="5">
+    	     uses any trick, scheme, or device that is misleading in a material respect;
+        </section>
+    </text>
+</law>

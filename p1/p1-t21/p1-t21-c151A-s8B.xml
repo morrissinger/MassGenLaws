@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>8B</section_number>
+    <catch_line>Domestic Service And Agricultural Labor; Employer</catch_line>
+    <order_by>8B</order_by>
+    <text>
+        <section prefix="a">
+    	     The remuneration earned or the employment of an individual performing domestic service after December thirty-first, nineteen hundred and seventy-seven shall not be taken into account in determining whether or not an employing unit is an employer under this chapter where:
+        </section>
+        <section prefix="1">
+    	     the employing unit is one for which other than domestic service is performed and;
+        </section>
+        <section prefix="2">
+    	     such other service is service defined as employment in subsections (a), (b) and (d) of section four A and;
+        </section>
+        <section prefix="3">
+    	     the employing unit is not an employer solely by reason of service defined as employment in subsection (c) of section four A.
+        </section>
+        <section prefix="b">
+    	     The remuneration earned or the employment of an individual performing service in agricultural labor after December thirty-first, nineteen hundred and seventy-seven shall not be taken into account in determining whether or not an employing unit is an employer under this chapter where:
+        </section>
+        <section prefix="1">
+    	     the employing unit is one for which service other than service in agricultural labor is performed and;
+        </section>
+        <section prefix="2">
+    	     such other service is service defined as employment in subsections (c) and (d) of section four A and;
+        </section>
+        <section prefix="3">
+    	     the employing unit is not an employer solely by reason of service defined as employment in subsection (b) of section four A.
+        </section>
+    </text>
+</law>

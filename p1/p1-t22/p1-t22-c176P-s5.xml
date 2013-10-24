@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176P" order_by="176P" level="3">Limited Societies</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Exemption From Certain Laws</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Societies shall be governed by this chapter, and shall be exempt from all other provisions of the insurance laws of the commonwealth except sections 16, 160A, 160B, 178 to 180, inclusive, and section 185 of chapter 175, not only in governmental relations with the commonwealth, but for every other purpose, and no law hereafter enacted shall apply to them unless they are expressly designated in such laws.
+    </text>
+</law>

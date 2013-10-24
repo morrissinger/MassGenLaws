@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183C" order_by="183C" level="3">Predatory Home Loan Practices</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Demand For Repayment</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="1">
+    	     there is fraud or material misrepresentation by the consumer in connection with the loan that is not induced by the lender, its employees, or agents;
+        </section>
+        <section prefix="2">
+    	     the consumer fails to meet the repayment terms of the agreement for any outstanding balance and after the consumer has been contacted in writing and afforded a reasonable opportunity to pay the outstanding balance as outlined within the repayment terms of the agreement; or
+        </section>
+        <section prefix="3">
+    	     there is any bona fide action or inaction by the consumer that adversely and materially affects the lender’s security for the loan, or any right of the lender in such security as provided in the loan agreement.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>19L</section_number>
+    <catch_line>Commencement Of Actions; Security For Damages And Expenses   </catch_line>
+    <order_by>19L</order_by>
+    <text>
+        <section prefix="a">
+    	     Notwithstanding any general or special law to the contrary and except as otherwise provided in subsections (c) and (d), actions concerning any plan of reorganization, proposed plan of reorganization, or any plan amendment or proposed plan amendment under section 19J or any acts taken or proposed to be taken under this section, shall be commenced within one year after the plan of reorganization or plan amendment is filed with the commissioner pursuant to clause (4) of subsection (a) of section 19H, or, if the plan of reorganization becomes effective, six months from the effective date of the plan of reorganization, whichever is later. If the plan of reorganization is withdrawn, such actions shall be commenced within six months from the date the board of directors approves a resolution to withdraw the plan. Actions concerning a plan amendment or proposed plan amendment made under section 19M shall be commenced within one year after the plan amendment or proposed plan amendment is filed with the commissioner pursuant to clause (iv) of subsection (b) of said section 19M, or if the amendment becomes effective, six months from the effective date thereof, whichever is later. If a plan amendment or proposed plan amendment made under said section 19M is withdrawn, such actions shall be commenced within six months from the date the board of directors approves a resolution to withdraw the plan. Actions arising out of either a transfer of assets or liabilities pursuant to section 19O or an offering of voting stock pursuant to section 19P, which transfer or offering is not contemplated by the plan must be commenced within one year from such transfer or offering. Actions concerning any plan of conversion or proposed plan of conversion under section 19U or any acts taken or proposed to be taken under said section 19U shall be commenced within one year after the plan of conversion is filed with the commissioner pursuant to said section 19U or six months from the effective date of the plan of conversion, whichever is later.
+        </section>
+        <section prefix="b">
+    	     In any action referred to in subsection (a), any party adverse to the mutual holding company shall be required, upon motion of the mutual holding company, reorganizing insurer, reorganized insurer or an intermediate stock holding company which establishes to the satisfaction of the court that a substantial likelihood exists that such action is brought without merit and with an intention to delay or harass, at any stage of the proceedings before final judgment, to give adequate security for the damages and reasonable expenses, including attorneys’ fees, which may be incurred as a result of, or in connection with, such action by such company and by any other defendants in such action or for which such company may become liable, to which security the mutual holding company, reorganizing insurer, reorganized insurer or an intermediate stock holding company shall have recourse in such amount as the court determines upon the termination of such action. The amount of security may from time to time be increased or decreased in the discretion of the court upon a showing that the security provided has or may become inadequate or excessive.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any general or special law to the contrary, any action seeking a stay, restraining order, injunction or similar remedy to prevent or delay the closing of any transaction pursuant to sections 19F to 19W, inclusive, or of any transaction described in a plan of reorganization or plan of conversion shall be commenced within 30 days after, as applicable, the approval of the plan of reorganization by the commissioner pursuant to subsection (d) of section 19H, the approval of the commissioner pursuant to section 19O or 19P or approval of the plan of conversion by the commissioner pursuant to section 19U.
+        </section>
+        <section prefix="d">
+    	     Any action or proceeding against the commissioner or any other governmental body or officer in connection with any act taken or order issued pursuant to sections 19F to 19W, inclusive, shall be commenced within 30 days from the date of such act or signing of such order.
+        </section>
+    </text>
+</law>

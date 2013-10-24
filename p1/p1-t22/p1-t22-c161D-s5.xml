@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161D" order_by="161D" level="3">The Massachusetts Intercity Bus Capital Assistance Program</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Lease Agreements; Limitations</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="1">
+    	     Said lease shall not exceed a duration of seven years;
+        </section>
+        <section prefix="2">
+    	     The rate of said lease shall be set at a level below the prevailing market rate for the purchase of such vehicles;
+        </section>
+        <section prefix="3">
+    	     Said rate shall be set by the secretary, and shall as nearly as possible, produce sufficient revenues to the commonwealth in combination with the estimated revenues from the sale of such vehicles under the provisions of clause (4), to recover the principal cost to the commonwealth of said program; provided, however, that the rate for any lease entered into pursuant to this chapter and in effect as of December twenty-seventh, nineteen hundred and eighty-five shall not be increased except as specifically permitted by the lease and any reduction authorized by the secretary pursuant to this section shall not be retroactive;
+        </section>
+        <section prefix="4">
+    	     Upon termination of said lease, the vehicle shall be sold to the highest bidder in accordance with General Laws relative to competitive bidding, with no preference being given to the carrier or carriers to whom the vehicle was leased during the preceding time periods;
+        </section>
+        <section prefix="5">
+    	     In the event of a declaration of emergency, by the governor, the secretary reserves the right to temporarily reassign use of such vehicle by the lessee; and
+        </section>
+        <section prefix="6">
+    	     Notwithstanding the provisions of clause (1), the secretary may extend the term of a lease entered into pursuant to this section; provided, however, that the term of such lease including any extension thereof shall not exceed twelve years; provided, further, that the rate for any lease extension may be adjusted and shall, as nearly as possible, produce sufficient revenues to the commonwealth in combination with the revised estimated revenues from the sale of such vehicles after twelve years under the provisions of clause (4) to recover the principal cost to the commonwealth of said program.
+        </section>
+    </text>
+</law>

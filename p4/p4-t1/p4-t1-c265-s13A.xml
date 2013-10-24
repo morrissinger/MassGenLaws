@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Crimes And Punishments</unit>
+        <unit label="chapter" identifier="265" order_by="265" level="3">Crimes Against The Person</unit>
+    </structure>
+    <section_number>13A</section_number>
+    <catch_line>Assault Or Assault And Battery; Punishment</catch_line>
+    <order_by>13A</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever commits an assault or an assault and battery upon another shall be punished by imprisonment for not more than 21/2 years in a house of correction or by a fine of not more than $1,000.
+        </section>
+        <section prefix="b">
+    	     Whoever commits an assault or an assault and battery:
+        </section>
+        <section prefix="i">
+    	     upon another and by such assault and battery causes serious bodily injury;
+        </section>
+        <section prefix="ii">
+    	     upon another who is pregnant at the time of such assault and battery, knowing or having reason to know that the person is pregnant; or
+        </section>
+        <section prefix="iii">
+    	     upon another who he knows has an outstanding temporary or permanent vacate, restraining or no contact order or judgment issued pursuant to section 18, section 34B or 34C of chapter 208, section 32 of chapter 209, section 3, 4 or 5 of chapter 209A, or section 15 or 20 of chapter 209C, in effect against him at the time of such assault or assault and battery; shall be punished by imprisonment in the state prison for not more than 5 years or in the house of correction for not more than 21/2 years, or by a fine of not more than $5,000, or by both such fine and imprisonment.
+        </section>
+        <section prefix="c">
+    	     For the purposes of this section, “serious bodily injury” shall mean bodily injury that results in a permanent disfigurement, loss or impairment of a bodily function, limb or organ, or a substantial risk of death.
+        </section>
+    </text>
+</law>

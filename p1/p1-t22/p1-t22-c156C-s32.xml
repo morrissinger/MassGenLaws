@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Distribution To Resigning Member</catch_line>
+    <order_by>32</order_by>
+    <text>
+        Upon resignation, a resigning member is entitled to receive any distribution to which he is entitled upon resignation under a written operating agreement. If not otherwise provided in a written operating agreement, a resigning member is entitled to receive, within a reasonable time after resignation, the fair value of his limited liability company interest as of the date of resignation based upon his right to share in distributions from the limited liability company.
+    </text>
+</law>

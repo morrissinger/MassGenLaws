@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>2E</section_number>
+    <catch_line>Review Of Cease And Desist Orders; Civil Liability</catch_line>
+    <order_by>2E</order_by>
+    <text>
+        <section prefix="1">
+    	     Upon the expiration of the time allowed for filing a petition for review if no such petition has been duly filed within such time; except that the commissioner may thereafter modify or set aside his order to the extent provided in section two D; or
+        </section>
+        <section prefix="2">
+    	     Upon the final decision of the court if the court directs that the order of the commissioner be affirmed or the petition for review be dismissed.
+        </section>
+    </text>
+</law>

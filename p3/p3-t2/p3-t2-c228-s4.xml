@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="228" order_by="228" level="3">Survival Of Actions And Death And Disabilities Of Parties</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Death Of Sole Plaintiff Or Defendant</catch_line>
+    <order_by>4</order_by>
+    <text>
+        In a personal action the cause of which survives, if there is only one plaintiff or one defendant and he dies after the commencement of the action and before final judgment, the action may proceed and be prosecuted by or against his executor or administrator, and if the action, or an appeal therein, has not been entered prior to his death, it may be entered thereafter.
+    </text>
+</law>

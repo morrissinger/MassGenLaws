@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.24</section_number>
+    <catch_line>Share Options</catch_line>
+    <order_by>6.24</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation may issue rights, options or warrants for the purchase of shares or other securities of the corporation. The board of directors shall determine the terms upon which the rights, options, or warrants are issued and the terms, including the consideration, for which the shares or other securities are to be issued.
+        </section>
+        <section prefix="b">
+    	     The terms and conditions of such rights, options or warrants, including those outstanding on the effective date of the chapter, may include without limitation, restrictions or conditions that:
+        </section>
+        <section prefix="1">
+    	     preclude or limit the exercise, transfer or receipt of the rights, options or warrants by any person owning or offering to acquire a specified number or percentage of the outstanding shares or other securities of the corporation or by any transferee of any person, or that preclude or limit the exercise, transfer or receipt based on such other factors, including the nature or identity of such persons, as the directors determine to be reasonable and in the best interests of the corporation, or
+        </section>
+        <section prefix="2">
+    	     invalidate or void such rights, options or warrants held by any such person or persons or any such transferee or transferees.
+        </section>
+    </text>
+</law>

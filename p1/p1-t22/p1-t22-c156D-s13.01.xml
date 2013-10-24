@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>13.01</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>13.01</order_by>
+    <text>
+        <section prefix="a">
+    	     listed on a national securities exchange,
+        </section>
+        <section prefix="b">
+    	     designated as a national market system security on an interdealer quotation system by the National Association of Securities Dealers, Inc., or
+        </section>
+        <section prefix="c">
+    	     listed on a regional securities exchange or traded in an interdealer quotation system or other trading system and had at least 250,000 outstanding shares, exclusive of shares held by officers, directors and affiliates, which have a market value of at least $5,000,000.
+        </section>
+    </text>
+</law>

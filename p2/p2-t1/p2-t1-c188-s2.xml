@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="188" order_by="188" level="3">Homesteads</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Homestead Protection For Elderly Or Disabled Persons</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The estate of homestead of each owner who is an elderly or disabled person, regardless of marital status, shall be protected under this section against attachment, seizure, execution on judgment, levy and sale for payment of debts and legacies, except as provided in subsection (b) of section 3, to the extent of the declared homestead exemption; provided, however, that the declaration of homestead for such elderly or disabled person that complies with section 5 has been recorded; and provided, further, that each owner occupies or intends to occupy the home as his principal residence.
+        </section>
+        <section prefix="b">
+    	     Except as provided in the following paragraph, each elderly or disabled person’s estate of homestead shall terminate upon: (i) the sale or transfer of that person’s ownership interest in the home, except where the elderly or disabled person is also the transferee of all or a portion of the transferred interest; (ii) the recorded release of that person’s homestead estate; (iii) the subsequent declaration of an estate of homestead on other property; (iv) the abandonment of the home as the principal residence by the person; (v) the death of the person; or (vi) with respect to a home owned in trust, the execution of a deed or recorded release by the trustees.
+        </section>
+        <section prefix="c">
+    	     No declaration of homestead created under this section shall terminate the existing homestead rights of a non-titled spouse or any minor children.
+        </section>
+        <section prefix="d">
+    	     Nothing in this section shall prohibit an elderly or disabled person from declaring or continuing a homestead pursuant to section 3, but no person shall concurrently hold rights under both this section and section 3.
+        </section>
+    </text>
+</law>

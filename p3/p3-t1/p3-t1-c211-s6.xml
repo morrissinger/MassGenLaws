@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="211" order_by="211" level="3">The Supreme Judicial Court</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Questions Of Law; Reservation</catch_line>
+    <order_by>6</order_by>
+    <text>
+        Questions of law arising upon a trial or other proceeding, or upon a motion for a new trial by reason of an opinion, direction, order or refusal of one justice in matter of law, may be reserved for the consideration of the full court, and so much of the case as is necessary for understanding the question shall be reported.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Liability For Distribution In Excess Of Terms Of Operating Agreement</catch_line>
+    <order_by>35</order_by>
+    <text>
+        <section prefix="a">
+    	     A member or manager who votes for or assents to a distribution in violation of the operating agreement shall be personally liable to the limited liability company for the amount of the distribution that exceeds what could have been distributed without violating the operating agreement.
+        </section>
+        <section prefix="b">
+    	     Each member or manager held liable under subsection (a) for an unlawful distribution is entitled to contribution:
+        </section>
+        <section prefix="1">
+    	     from each other member or manager who could be held liable under said subsection (a) for the unlawful distribution; and
+        </section>
+        <section prefix="2">
+    	     from each member for the amount the member received knowing that the distribution was made in violation of the operating agreement.
+        </section>
+        <section prefix="c">
+    	     A proceeding under this section is barred unless it is commenced within two years after the date of the distribution.
+        </section>
+    </text>
+</law>

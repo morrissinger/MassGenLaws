@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>34A</section_number>
+    <catch_line>Contempt; Support Or Custody Orders; Costs; Service; Attorney’S Fees; Interest; Iv D Agency; Arrest Warrants</catch_line>
+    <order_by>34A</order_by>
+    <text>
+        <section prefix="a">
+    	     Actions for contempt against any party for failure to obey any order or judgment of the probate court relative to support of a wife or children or affecting the custody of children shall be commenced in accordance with the rules of probate courts applicable to domestic relations matters.
+        </section>
+        <section prefix="b">
+    	     Upon the request of the IV-D agency as set forth in chapter 119A, when a total arrearage amounting to the support owing for a 6-month period has accrued under the defendant’s most recent order or judgment for support and the IV-D agency has been unable to bring the defendant before the court on a capias, the court shall issue a warrant for the arrest of the defendant. The IV-D agency shall file an affidavit accompanying the request for a warrant that states: (1) a total arrearage amounting to the support owing for a 6-month period has accrued under the defendant’s most recent order or judgment for support; (2) the amount of the total arrearage; (3) the date of the last payment, if any; and (4) a description of the efforts made to serve the capias on the defendant. The IV-D agency shall also provide the court with identifying information on the defendant’s name, last known address, date of birth, gender, race, height, weight, hair and eye color, any known aliases and any such information as shall be required for a warrant to be accepted by the criminal justice information system maintained by the department of criminal justice information services. A warrant that contains the above identifying information as provided by the IV-D agency to the court shall not be nullified if the information is later found to be inaccurate. If any of the above identifying information is not known to the IV-D agency, the IV-D agency may apply to the court for an exemption from the requirement to provide the information. The court shall grant the exemption if the court decides that the unknown information is not essential to identifying the defendant. The defendant may not challenge the validity of a warrant based on the granting of the exemption. The court shall enter the warrant, including the identifying information provided by the IV-D agency to the court and the name of the court that issued the warrant, into the warrant management system as set forth in section 23A of chapter 276. The warrant shall consist of the information that appears in the warrant management system, and a printout of the warrant from the criminal justice information system shall constitute a true copy of the warrant. The entry of the warrant into the warrant management system and the criminal justice information system shall constitute notice and delivery of the warrant to all law enforcement agencies who have arresting authority pursuant to section 23 of chapter 276.
+        </section>
+    </text>
+</law>

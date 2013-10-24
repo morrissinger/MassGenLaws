@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Expulsion Of Member; Examination Of Books By Member</catch_line>
+    <order_by>18</order_by>
+    <text>
+        No member of such corporation shall be expelled by vote of less than a majority of all the members thereof, nor by vote of less than three quarters of the members present and voting upon such expulsion. Every member of such corporation and every person who has an interest in its funds shall be entitled to examine its books and records.
+    </text>
+</law>

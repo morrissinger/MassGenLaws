@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="157A" order_by="157A" level="3">Employee Cooperative Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Members; Membership Shares; Fees; Rights And Responsibilities</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization or the by-laws shall establish qualifications and the method of acceptance and termination of members. No person may be accepted as a member unless employed by the employee cooperative on a full time or part time basis.
+        </section>
+        <section prefix="b">
+    	     An employee cooperative shall issue a class of voting stock designated as “membership shares”. Each member shall own only one such membership share, and only members may own such shares.
+        </section>
+        <section prefix="c">
+    	     Membership shares shall be issued for a fee as shall be determined from time to time by the directors. Sections twenty-four, twenty-five, twenty-eight and thirty of said chapter one hundred and fifty-six B shall not apply to such membership shares. Sections seventy-six and eighty-five to ninety-eight, inclusive, of said chapter one hundred and fifty-six B shall not apply to membership shares whose redemption price is determined by reference to internal capital accounts as defined in section nine.
+        </section>
+        <section prefix="d">
+    	     Members of an employee cooperative shall have all the rights and responsibilities of stockholders of a corporation organized under said chapter one hundred and fifty-six B, except as otherwise provided in this chapter.
+        </section>
+    </text>
+</law>

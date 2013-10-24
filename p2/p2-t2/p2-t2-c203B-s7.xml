@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203B" order_by="203B" level="3">Uniform Custodial Trust Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Vesting Title; Management Of Trust Property; Duties</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     If appropriate, a custodial trustee shall register or record the instrument vesting title to custodial trust property.
+        </section>
+        <section prefix="b">
+    	     If the beneficiary is not incapacitated, a custodial trustee shall follow the directions of the beneficiary in the management, control, investment, or retention of the custodial trust property. In the absence of effective contrary direction by the beneficiary while not incapacitated, the custodial trustee shall observe the standard of care that would be observed by a prudent person dealing with property of another and not limited by any other law restricting investments by fiduciaries; provided, however, that a custodial trustee, in the custodial trustee’s discretion, may retain any custodial trust property received from the transferor. If a custodial trustee has a special skill or expertise or is named custodial trustee on the basis of representation of a special skill or expertise, the custodial trustee shall use such skill or expertise.
+        </section>
+        <section prefix="c">
+    	     Subject to subsection (b), a custodial trustee shall take control of and collect, hold, manage, invest, and reinvest custodial trust property.
+        </section>
+        <section prefix="d">
+    	     A custodial trustee at all times shall keep custodial trust property of which the custodial trustee has control, separate from all other property in a manner sufficient to identify it clearly as custodial trust property of the beneficiary. Custodial trust property, the title to which is subject to recordation, is so identified if an appropriate instrument so identifying the property is recorded, and custodial trust property subject to registration is so identified if it is registered, or held in an account in the name of the custodial trustee, designated in substance: “as custodial trustee for ___ (name of beneficiary) under the Massachusetts Uniform Custodial Trust Act.”
+        </section>
+        <section prefix="e">
+    	     A custodial trustee shall keep records of all transactions with respect to custodial trust property, including information necessary for the preparation of tax returns, and shall make the records and information available at reasonable times to the beneficiary or legal representative of the beneficiary.
+        </section>
+        <section prefix="f">
+    	     The exercise of a durable power of attorney for an incapacitated beneficiary shall not be effective to terminate or direct the administration or distribution of a custodial trust.
+        </section>
+    </text>
+</law>

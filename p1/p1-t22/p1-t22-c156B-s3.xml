@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     all domestic corporations having capital stock whether established before or after October first, nineteen hundred and sixty-five, either by general or special law, for the purpose of carrying on business for profit except corporations organized for the purpose of carrying on the business of a bank, savings bank, co-operative bank, trust company, credit union, surety or indemnity company, or safe deposit company, or for the purpose of carrying on within the commonwealth the business of an insurance company, railroad, electric railroad, street railway or trolley motor company, telegraph or telephone company, gas or electric light, heat or power company, canal, aqueduct or water company, cemetery or crematory company, any other corporations which on October first, nineteen hundred and sixty-five have or may thereafter have the right to take land within the commonwealth by eminent domain or to exercise franchises in public ways granted by the commonwealth or by any county, city or town, and corporations subject to chapter one hundred and fifty-seven and corporations subject to chapter one hundred and fifty-seven A; and
+        </section>
+        <section prefix="b">
+    	     notwithstanding anything to the contrary in clause (a), all other corporations to which this chapter is made applicable by the express provisions of any other general or special law to the extent provided thereby.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Resident Agent For Service Of Process On Foreign Limited Liability Company</catch_line>
+    <order_by>51</order_by>
+    <text>
+        Each foreign limited liability company doing business in the commonwealth shall appoint a resident agent as its true and lawful attorney upon whom all lawful process in any action or proceeding against the foreign limited liability company in the commonwealth may be served. Sections 15.07, 15.08 and 15.09 of chapter 156D relative to the appointment and qualifications of a resident agent shall be applicable to the appointment of a resident agent pursuant to this section.
+    </text>
+</law>

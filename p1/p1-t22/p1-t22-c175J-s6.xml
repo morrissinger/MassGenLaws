@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175J" order_by="175J" level="3">Administrative Supervision And Hazardous Financial Conditions Of Insurities</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Confidentiality Of Proceedings And Records</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="A">
+    	     Except as provided in this section, and notwithstanding any other provision of the General Laws, including clause Twenty-sixth of section seven of chapter four and chapter sixty-six, all administrative and judicial proceedings arising under this chapter shall be held privately unless a public hearing is requested by the insurer, and all proceedings, hearings, notices, correspondence, reports, records and other information in the possession of the commissioner relating to the supervision of any insurer are confidential.
+        </section>
+        <section prefix="B">
+    	     All records of the insurer and all records of the commissioner concerning the insurer, so far as they pertain to or are a part of the record of the proceedings under this chapter, shall be and remain confidential, and shall not be subject to disclosure under clause Twenty-sixth of section seven of chapter four and chapter sixty-six or any other applicable provision of the General Laws, unless the insurer requests otherwise. Such records shall not be subject to subpoena by third parties, unless the insurer and the commissioner consent to such disclosure or release under subpoena.
+        </section>
+        <section prefix="C">
+    	     The personnel of the division shall have access to these proceedings, hearings, notices, correspondence, reports, records or information as permitted by the commissioner. The commissioner may open the proceedings or hearings or disclose the notices, correspondence, reports, records or information to a department, agency or instrumentality of this or any other state of the United States if the commissioner determines that the disclosure is necessary or proper for the enforcement of the laws of this or any other state of the United States.
+        </section>
+        <section prefix="D">
+    	     The commissioner may open the proceedings or hearings or make public the notices, correspondence, reports, records or other information if the commissioner deems that it is in the best interest of the public or in the best interest of the insurer, its insureds, creditors or the general public.
+        </section>
+        <section prefix="E">
+    	     The provisions of this section shall not apply to proceedings held pursuant to section one hundred and eighty B or one hundred and eighty C or chapter one hundred and seventy-five.
+        </section>
+    </text>
+</law>

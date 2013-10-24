@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Fixing Of Route</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The route of the railroad of a corporation established by special charter, and of its branches and extensions, shall be fixed according to sections twenty and twenty-one except so far as they may have been fixed by special statute; and such railroad, branches and extensions shall be located and constructed according to the provisions of this chapter regulating the location and construction of railroads by corporations incorporated under general laws, except that section seventeen shall not apply, if authority so to locate and construct has been granted by special act of the general court.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176F" order_by="176F" level="3">Optometric Service Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Subscription Certificate; Issuance; Contents</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     A statement of the optometric service to be paid for by the corporation, and if any optometric service is excepted, a statement of such exception.
+        </section>
+        <section prefix="b">
+    	     A statement of the duration of the agreement and of the terms and conditions upon which it may be extended, renewed, revised, canceled or otherwise terminated.
+        </section>
+        <section prefix="c">
+    	     A statement of the period of grace which will be allowed for making any payment due from the subscriber under the contract, which in any event shall not be less than ten days.
+        </section>
+    </text>
+</law>

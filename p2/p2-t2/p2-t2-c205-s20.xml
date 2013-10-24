@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="205" order_by="205" level="3">Bonds Of Executors, Administrators, Guardians, Conservators, Trustees And Receivers</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Creditors</catch_line>
+    <order_by>20</order_by>
+    <text>
+        A bond given by an executor or administrator for the performance of his trust may be put in suit by a creditor of the deceased for his own benefit, when such creditor has recovered judgment for his debt against the executor or administrator and he has neglected upon demand to pay the same or show sufficient goods or estate of the deceased to be taken on execution for that purpose.
+    </text>
+</law>

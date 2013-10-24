@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="215" order_by="215" level="3">Probate Courts</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Enforcement Of Orders, Sentences, Judgments And Decrees; Punishing Contempts; Effect Of Arrearages On Support Orders; Unemployment Of Defendant</catch_line>
+    <order_by>34</order_by>
+    <text>
+        <section prefix="1">
+    	     serve a sentence in jail; provided, however, that such sentence shall be stayed if the defendant purges himself of the contempt by taking such action as may be specified in the order, including one or more of the actions specified in clauses (2) to (6), inclusive;
+        </section>
+        <section prefix="2">
+    	     pay the full amount due under the order or judgment for support;
+        </section>
+        <section prefix="3">
+    	     make regular payments of current support and an additional specified amount towards arrears, pursuant to a payment schedule ordered by the court that requires payment of not less than the amount required under section 12 of chapter 119A and that meets all other requirements of said section 12 of said chapter 119A;
+        </section>
+        <section prefix="4">
+    	     actively seek paid employment and report at regular intervals, as specified in the order, to a probation officer on actions taken to seek employment;
+        </section>
+        <section prefix="5">
+    	     participate in a program of community service, as specified in the order, for up to 40 hours per week and report at regular intervals to a probation officer to present proof of participation in such program; or
+        </section>
+        <section prefix="6">
+    	     participate in an appropriate job readiness or job training program, as specified in the order, and report at regular intervals to a probation officer to present proof of participation in such program.
+        </section>
+    </text>
+</law>

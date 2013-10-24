@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="203D" order_by="203D" level="3">Principal And Income</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Distribution To Residuary And Remainder Beneficiaries</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Each beneficiary described in paragraph (4) of section 6 is entitled to receive a portion of the net income equal to the beneficiary’s fractional interest in undistributed principal assets, using values as of the distribution date. If a fiduciary makes more than one distribution of assets to beneficiaries to whom this section applies, each beneficiary, including one who does not receive part of the distribution, is entitled, as of each distribution date, to the net income the fiduciary has received after the date of death or terminating event or earlier distribution date but has not distributed as of the current distribution date.
+        </section>
+        <section prefix="b">
+    	     In determining a beneficiary’s share of net income, the following rules apply:
+        </section>
+        <section prefix="1">
+    	     the beneficiary is entitled to receive a portion of the net income equal to the beneficiary’s fractional interest in the undistributed principal assets immediately before the distribution date, including assets that later may be sold to meet principal obligations;
+        </section>
+        <section prefix="2">
+    	     the beneficiary’s fractional interest in the undistributed principal assets must be calculated without regard to property specifically given to a beneficiary and property required to pay pecuniary amounts not in trust;
+        </section>
+        <section prefix="3">
+    	     the beneficiary’s fractional interest in the undistributed principal assets must be calculated on the basis of the aggregate value of those assets as of the distribution date without reducing the value by any unpaid principal obligation; and
+        </section>
+        <section prefix="4">
+    	     the distribution date, for purposes of this section, may be the date as of which the fiduciary calculates the value of the assets if that date is reasonably near the date on which assets are actually distributed.
+        </section>
+        <section prefix="c">
+    	     If a fiduciary does not distribute all of the collected but undistributed net income to each person as of a distribution date, the fiduciary shall maintain appropriate records showing the interest of each beneficiary in that net income.
+        </section>
+        <section prefix="d">
+    	     A fiduciary may apply the rules in this section, to the extent that the fiduciary considers it appropriate, to net gain or loss realized after the date of death or terminating event or earlier distribution date from the disposition of a principal asset if this section applies to the income from the asset.
+        </section>
+    </text>
+</law>

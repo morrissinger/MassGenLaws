@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>177L</section_number>
+    <catch_line>Administrative Actions; Authority Of Commissioner; Penalties</catch_line>
+    <order_by>177L</order_by>
+    <text>
+        <section prefix="A">
+    	     Managing general agents shall be considered to be in the business of insurance for purposes of the applicability of chapter one hundred and seventy-six D. In addition to the remedies provided by said chapter one hundred and seventy-six D, in any administrative action against a managing general agent the commissioner may order:
+        </section>
+        <section prefix="1">
+    	     for each separate violation of the managing general agents act, a penalty in an amount up to ten thousand dollars;
+        </section>
+        <section prefix="2">
+    	     the managing general agent to reimburse the insurer, or the rehabilitator or liquidator of the insurer, for any losses incurred by the insurer caused by a violation of the managing general agents act by the managing general agent.
+        </section>
+        <section prefix="B">
+    	     Nothing contained in this section shall affect the right of the commissioner to impose any other penalties provided for in this chapter or chapter one hundred and seventy-six D.
+        </section>
+        <section prefix="C">
+    	     Nothing contained in this section is intended to or shall in any manner limit or restrict the rights of policyholders, claimants and auditors.
+        </section>
+    </text>
+</law>

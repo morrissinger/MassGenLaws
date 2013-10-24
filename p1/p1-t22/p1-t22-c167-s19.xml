@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Losses Of Bank Exceeding Surplus And Other Reserve Accounts</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Whenever it has been determined by the commissioner, after investigation, that the losses of any such bank resulting from a depreciation in the value of its assets or otherwise, exceed its surplus and any other reserve accounts, so that the estimated value of its assets is less than the total amount due to shareholders and holders of accounts referred to in chapter one hundred and sixty-seven D, he may require, by order, a suspension of dividend and interest distributions or a reduction of its liability to such shareholders and account holders in such manner as to distribute the loss equitably among them. If, after such an order of reduction, the bank realizes from such assets an amount in excess of the value so estimated, such amount shall be divided among the then remaining shareholders and account holders whose balances were so reduced, to the extent of such reduction only, and any balance of said excess remaining shall be transferred to the surplus account.
+    </text>
+</law>

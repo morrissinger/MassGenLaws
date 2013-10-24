@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>11C</section_number>
+    <catch_line>Filing Fees</catch_line>
+    <order_by>11C</order_by>
+    <text>
+        <section prefix="a">
+    	     For filing articles of organization required by section three.
+        </section>
+        <section prefix="b">
+    	     For filing articles of amendment required by section seven.
+        </section>
+        <section prefix="c">
+    	     For filing restated articles of organization in accordance with section seven.
+        </section>
+        <section prefix="d">
+    	     For filing a petition in accordance with section seven A.
+        </section>
+        <section prefix="e">
+    	     For filing articles of consolidation or merger in accordance with section ten.
+        </section>
+        <section prefix="f">
+    	     For the reservation of a name, or the extension of a reservation, and payment of the fee shall accompany the application.
+        </section>
+        <section prefix="g">
+    	     For filing all other certificates, statements, or reports required by this chapter unless another filing fee is specifically provided therefor.
+        </section>
+    </text>
+</law>

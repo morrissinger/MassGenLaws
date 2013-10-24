@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175" order_by="175" level="3">Insurance</unit>
+    </structure>
+    <section_number>180G</section_number>
+    <catch_line>Proof Of Claims; Causes Of Actions Against Policyholders</catch_line>
+    <order_by>180G</order_by>
+    <text>
+        Where an insurer has been adjudicated to be insolvent by a decree made pursuant to section six or section one hundred and eighty C, any person who has a cause of action against an insured of such insurer under a liability insurance policy issued by such insurer shall have the right to file a claim in the liquidation proceeding, regardless of the fact that such claim may be contingent, and such claim may be allowed (a) if it may be reasonably inferred from the proof presented upon such claim that such person would be able to obtain a judgment upon such cause of action against such insured, and (b) unless the court for good cause shown shall otherwise direct, if such person shall furnish suitable proof that no further valid claims against such insurer arising out of his cause of action other than those already presented can be made, and (c) if the total liability of such insurer to all claimants arising out of the same act of its insured shall be no greater than its total liability would be were it not in liquidation. No judgment against such an insured taken after the date of the entry of the liquidation order shall be considered in the liquidation proceedings as evidence of liability, or of the amount of damages, and no judgment against an insured taken by default or by collusion prior to the entry of the liquidation order shall be considered as conclusive evidence in the liquidation proceeding either of the liability of such insured to such person upon such cause of action or of the amount of damages to which such person is therein entitled.
+    </text>
+</law>

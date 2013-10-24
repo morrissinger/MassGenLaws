@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201F" order_by="201F" level="3">Caregiver Authorization Affidavits</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Caregiver Rights And Responsibilities</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     consent to medical, surgical, dental, developmental, mental health or other treatment for the minor under the supervision or upon the advice of a health care professional licensed to practice in the commonwealth;
+        </section>
+        <section prefix="2">
+    	     exercise parental rights to obtain records and other information with regard to health care services and insurance provided to the minor; and
+        </section>
+        <section prefix="3">
+    	     make educational decisions on behalf of the minor and in all other ways stand in for the authorizing party with respect to federal, state and district educational policy, including, but not limited to, accessing the minor’s educational records, representing the minor in enrollment, disciplinary, curricular, special education or other educational matters, signing permission slips for school activities and any other decision that facilitates the minor’s educational experience.
+        </section>
+    </text>
+</law>

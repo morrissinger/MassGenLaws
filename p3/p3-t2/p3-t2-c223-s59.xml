@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="223" order_by="223" level="3">Commencement Of Actions, Service Of Process</unit>
+    </structure>
+    <section_number>59</section_number>
+    <catch_line>Duration Of Attachment After Judgment</catch_line>
+    <order_by>59</order_by>
+    <text>
+        Upon judgment for the plaintiff in a civil action, property which has been attached in connection with said action shall remain subject to attachment for thirty days after the date which appears on the execution issued upon such judgment pursuant to chapter two hundred and thirty-five, unless sooner dissolved. 
+If property has been attached in Nantucket county and judgment for the plaintiff rendered in another county, or if judgment is rendered in Nantucket county and property has been attached in another county, it shall be held in like manner, subject to the same conditions, for a period of sixty days. 
+The provisions of this section shall apply to property attached upon a counterclaim when judgment is rendered for the defendant upon such counterclaim.
+    </text>
+</law>

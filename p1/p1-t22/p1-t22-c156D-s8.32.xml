@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.32</section_number>
+    <catch_line>Loans To Directors</catch_line>
+    <order_by>8.32</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided by subsection (c), a corporation may not lend money to, or guarantee the obligation of a director of, the corporation unless:
+        </section>
+        <section prefix="1">
+    	     the specific loan or guarantee is approved by a majority of the votes represented by the outstanding voting shares of all classes, voting as a single voting group, except the votes of shares owned by or voted under the control of the benefited director; or
+        </section>
+        <section prefix="2">
+    	     the corporation’s board of directors determines that the loan or guarantee benefits the corporation and either approves the specific loan or guarantee or a general plan authorizing loans and guarantees.
+        </section>
+        <section prefix="b">
+    	     The fact that a loan or guarantee is made in violation of this section shall not affect the borrower’s liability on the loan.
+        </section>
+        <section prefix="c">
+    	     This section shall not apply to loans and guarantees authorized by statute regulating any special class of corporations.
+        </section>
+    </text>
+</law>

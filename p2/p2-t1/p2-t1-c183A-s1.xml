@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     The foundations, columns, girders, beams, supports, party walls, common walls, main walls, roofs, halls, corridors, lobbies, public stairs and stairways, fire escapes and entrances and exits of the building;
+        </section>
+        <section prefix="2">
+    	     Installations of central services such as power, light, gas, hot and cold water, heating, refrigeration, air conditioning and incinerating;
+        </section>
+        <section prefix="3">
+    	     The elevators, tanks, pumps, motors, fans, compressors, ducts, and in general all apparatus and installations existing for common use;
+        </section>
+        <section prefix="4">
+    	     The land on which the building is located, or the lessee’s interest in any lease of such land which is submitted to the provisions of this chapter;
+        </section>
+        <section prefix="5">
+    	     The basements, yards, lawns, gardens, recreational facilities, parking areas and storage spaces;
+        </section>
+        <section prefix="6">
+    	     The premises for the lodging of custodian or persons in charge of the condominium;
+        </section>
+        <section prefix="7">
+    	     Such community and commercial facilities as may be provided for in the master deed as being owned in common.
+        </section>
+        <section prefix="8">
+    	     All other parts of the condominium necessary or convenient to its existence, maintenance and safety, or normally in common use.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="161" order_by="161" level="3">Street Railways</unit>
+    </structure>
+    <section_number>140</section_number>
+    <catch_line>Street Railway Lessee’S Annual Return</catch_line>
+    <order_by>140</order_by>
+    <text>
+        The lessee of a street railway shall make to the company which owns it the same annual return on oath of the operations and business of the railway as is required of the company which owns it; and, for failure so to do, shall be liable in tort to said company for all the penalties prescribed by law for failure by it to make its annual return.
+    </text>
+</law>

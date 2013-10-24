@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="220" order_by="220" level="3">Courts And Naturalization</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Flags; Display In Courts</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The flag of the United States and the flag of the commonwealth shall be displayed in every court of justice of the commonwealth while court is in session. The flags shall be of suitable dimensions.
+    </text>
+</law>

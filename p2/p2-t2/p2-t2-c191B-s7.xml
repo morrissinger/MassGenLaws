@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Shares Of Heirs When No Surviving Spouse</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     If there is no surviving spouse, the statutory will estate shall pass, subject to the provisions of sections eight and nine, as follows:
+        </section>
+        <section prefix="1">
+    	     If there is surviving issue, in equal shares to the children of the testator if all of them survive, otherwise to the surviving issue of the testator by representation; or
+        </section>
+        <section prefix="2">
+    	     If there is no surviving issue, to the individuals entitled to receive the estate as if the property were located in the commonwealth and the testator had died intestate domiciled in the commonwealth in the proportions so determined.
+        </section>
+        <section prefix="b">
+    	     Unless the personal representative determines that a trust would be uneconomical, property to which the provisions of section eight or nine applies shall be distributed to the trustee. If the personal representative determines that a trust would be uneconomical, the property shall pass under the provisions of subsection (a) free of trust. The discretion provided in this subsection to the personal representative shall not be exercised by any of the testator’s issue serving as personal representative.
+        </section>
+    </text>
+</law>

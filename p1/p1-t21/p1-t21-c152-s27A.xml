@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>27A</section_number>
+    <catch_line>False Representation Of Physical Condition By Employee; Right To Benefits</catch_line>
+    <order_by>27A</order_by>
+    <text>
+        In any claim for compensation where it is found that at the time of hire the employee knowingly and willfully made a false representation as to his physical condition and the employer relied upon the false representation in hiring such employee, when such employee knew or should have known that it was unlikely he could fulfill the duties of the job without incurring a serious injury, then the employee shall, if an injury related to the condition misrepresented occurs, not be entitled to benefits under this chapter. Retention of an employee who rectifies any misrepresentation made to his employer regarding his physical condition subsequent to the hire but prior to the injury shall restore any right to compensation under this chapter.
+    </text>
+</law>

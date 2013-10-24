@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>14.31</section_number>
+    <catch_line>Procedure For Judicial Dissolution</catch_line>
+    <order_by>14.31</order_by>
+    <text>
+        <section prefix="a">
+    	     Venue for a proceeding by the attorney general to dissolve a corporation lies in Suffolk county. Venue for a proceeding brought by any other party named in section 14.30 lies in the county where a corporation’s principal office, or, if none in the commonwealth, its registered office, is or was last located.
+        </section>
+        <section prefix="b">
+    	     It is not necessary to make shareholders parties to a proceeding to dissolve a corporation unless relief is sought against them individually.
+        </section>
+        <section prefix="c">
+    	     A court in a proceeding brought to dissolve a corporation may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing can be held.
+        </section>
+    </text>
+</law>

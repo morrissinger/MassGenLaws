@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Liability Of Any Person To Consumer</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided by this section and section nineteen, any person who fails to comply with any provision of this chapter with respect to any consumer, except for an error resolved in accordance with section seventeen, is liable to such consumer in an amount equal to the sum of:
+        </section>
+        <section prefix="1">
+    	     any actual damage sustained by such consumer as a result of such failure;
+        </section>
+        <section prefix="B">
+    	     in the case of a class action, such amount as the court may allow, except that (i) as to each member of the class no minimum recovery shall be applicable, and (ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same person shall not be more than the lesser of five hundred thousand dollars or one per centum of the net worth of the defendant; and
+        </section>
+        <section prefix="3">
+    	     in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney’s fee as determined by the court.
+        </section>
+        <section prefix="b">
+    	     In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors:
+        </section>
+        <section prefix="1">
+    	     in any individual action under clause (A) of paragraph (2) of subsection (a), the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
+        </section>
+        <section prefix="2">
+    	     in any class action under clause (B) of said paragraph (2) of said subsection (a), the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
+        </section>
+        <section prefix="c">
+    	     Except as provided in section nineteen, a person may not be held liable in any action brought under this section for a violation of this chapter if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
+        </section>
+        <section prefix="d">
+    	     No provision of this section or section twenty-one imposing any liability shall apply to:
+        </section>
+        <section prefix="1">
+    	     any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the board or by the commissioner or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the board to issue such interpretations or approvals under such procedures as the board may prescribe therefor or in conformity with any advisory ruling by the commissioner; or
+        </section>
+        <section prefix="2">
+    	     any failure to make disclosure in proper form if a financial institution utilized an appropriate model clause issued by the board or the commissioner, notwithstanding that after such act, omission, or failure has occurred, such rule, regulation, interpretation, approval, or model clause is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+        </section>
+        <section prefix="3">
+    	     to any act done or omitted in good faith by any telecommunications common carrier in conformity with any rules, regulation, tariff or interpretation thereof, promulgated or approved by the department of telecommunications and cable or the Federal Communications Commission.
+        </section>
+        <section prefix="e">
+    	     A person has no liability under this section for any failure to comply with any requirement under this chapter if, prior to the institution of an action under this section, the person notifies the consumer concerned of the failure, complies with the requirements of this chapter, and makes an appropriate adjustment to the consumer’s account and pays actual damages or, where applicable, damages in accordance with section nineteen.
+        </section>
+        <section prefix="f">
+    	     On a finding by the court that an unsuccessful action under this section was brought in bad faith or for purposes of harassment, the court shall award to the defendant attorney’s fees reasonable in relation to the work expended and costs.
+        </section>
+        <section prefix="g">
+    	     Any action under this section may be brought in any court of competent jurisdiction, within four years from the date of the occurrence of the violation.
+        </section>
+    </text>
+</law>

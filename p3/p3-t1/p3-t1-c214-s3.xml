@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Special Jurisdiction</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     Actions to compel the redelivery of goods or chattels taken or detained from the owner.
+        </section>
+        <section prefix="2">
+    	     Actions for contribution by or between devisees, legatees or heirs liable for the debts of a deceased testator or intestate, and by or between other persons respectively liable for the same debt or demand, if there are two or more such persons liable at the same time to make such contribution.
+        </section>
+        <section prefix="3">
+    	     Actions between joint owners of personal property, and their legal representatives, relative to such property, with authority to determine their respective rights and interests therein, to order a division or sale thereof and make and order a proper distribution of the proceeds of a sale, and to do all other things relative to a determination of the ownership, division and distribution of such property or the proceeds thereof.
+        </section>
+        <section prefix="4">
+    	     Actions between joint trustees, co-executors and co-administrators, and their legal representatives.
+        </section>
+        <section prefix="5">
+    	     Actions upon accounts of such a nature that they cannot be conveniently and properly adjusted and settled in an action in the district court.
+        </section>
+        <section prefix="6">
+    	     Actions by creditors to reach and apply, in payment of a debt, any property, right, title or interest, legal or equitable, of a debtor, within or without the commonwealth, which cannot be reached to be attached or taken on execution although the property sought to be reached and applied is in the possession or control of the debtor independently of any other person or cannot be reached and applied until a future time or is of uncertain value, if the value can be ascertained by sale, appraisal or by any means within the ordinary procedure of the court. In such action, the interest of the defendant in partnership property may be reached and applied in payment of the plaintiff’s debt; but unless it is a judgment debt, the business of the partnership shall not be enjoined or otherwise interrupted further than to restrain the withdrawal of any portion of the debtor’s share or interest therein until the plaintiff’s debt is established, and if either partner gives to the plaintiff a sufficient bond with sureties approved by the clerk, conditioned to pay to the plaintiff the amount of his debt and costs within thirty days after it is established, the court shall proceed no further therein than to establish the debt; and upon the filing of such bond, any injunction previously issued in such action shall be dissolved.
+        </section>
+        <section prefix="7">
+    	     Actions to reach and apply shares or interests in corporations organized under the laws of the commonwealth or of the United States, and located or having a general office in the commonwealth, whether the plaintiff is a creditor or not, and whether the action is founded upon a debt or not.
+        </section>
+        <section prefix="8">
+    	     Actions to reach and apply in payment of a debt any property, right, title or interest, real or personal, of a debtor, liable to be attached or taken on execution in a civil action against him and fraudulently conveyed by him with intent to defeat, delay or defraud his creditors, or purchased, or directly or indirectly paid for, by him, the record or other title to which is retained in the vendor or is conveyed to a third person with intent to defeat, delay or defraud the creditors of the debtor.
+        </section>
+        <section prefix="9">
+    	     Actions to reach and apply the obligation of an insurance company to a judgment debtor under a motor vehicle liability policy, as defined in section thirty-four A of chapter ninety, or under any other policy insuring a judgment debtor against liability for loss or damage on account of bodily injury or death or for loss or damage resulting therefrom, or on account of damage to property, in satisfaction of a judgment covered by such policy, which has not been satisfied within thirty days after the date when it was rendered.
+        </section>
+        <section prefix="10">
+    	     Actions to enforce the purpose or purposes of any gift or conveyance which has been or shall have been made to and accepted by any county, city, town or other subdivision of the commonwealth for a specific purpose or purposes in trust or otherwise, or the terms of such trust, or, if it shall have become impracticable to observe or carry out such purpose or purposes, or such terms, or, if the occasion therefor shall have terminated, to determine the purposes or uses to which the property involved shall be devoted and enforce the same. Such action shall be commenced only by the attorney general or, with leave of court, by ten taxpayers of such county, city, town or other subdivision. The defendant in any such action may set up such impracticability or termination and request the judgment of the court as to such other use of said property in its answer. In the case of an action by ten taxpayers as aforesaid, the attorney general shall be served with notice of the preliminary petition for leave, and may intervene as a party at any stage of the proceedings; and the plaintiffs shall be liable for costs, including reasonable counsel fees in the discretion of the court, which may, also in its discretion, award to the plaintiffs costs, including reasonable counsel fees, to be paid by the defendant or out of the fund involved, if any.
+        </section>
+        <section prefix="11">
+    	     Actions to determine the purposes or uses to which the property, whether held in trust or otherwise, of any church or religious society which shall have failed for two consecutive years next prior to the commencement of the action to hold religious services or shall have failed for such period to hold a meeting for the election of officers or shall otherwise have become inactive, or of any auxiliary organization affiliated with such a church or religious society, shall be applied, and to enforce the application thereof in accordance with such determination. Such action may be commenced by the governing body of the religious denomination having jurisdiction over such church or religious society according to the usages of the denomination to which such church or religious society belongs, or by the state organization of such denomination, if there is any, otherwise the national organization thereof; and in any action so commenced the attorney general shall be joined as a defendant.
+        </section>
+        <section prefix="12">
+    	     Civil actions seeking injunctive relief and commenced by the attorney general in the name of the commonwealth or in his name to enforce a regulation or decision or order of an agency of the commonwealth, whether interlocutory or final, directing a person to take or refrain from taking an action or cease an activity. It shall not be a defense to such an action that the regulatory statute under which the action is brought provides criminal penalties for the violation of its provisions; provided, however, that the results of such an action may not be used as the basis for criminal prosecution. The scope of review in such an action shall be governed by section fourteen of chapter thirty A.
+        </section>
+        <section prefix="13">
+    	     Civil actions seeking injunctive relief and commenced by the attorney general in the name of the commonwealth or in his name to compel a person whom an agency of the commonwealth has preliminarily determined to be subject to its authority to comply with any regulations or orders or decisions, whether interlocutory or final, the purpose of which is to require the person to participate in appropriate administrative proceedings designed, among other things, to determine finally whether the person is subject to the agency’s authority. The court shall not take evidence concerning any facts not previously submitted to the agency and, unless it determines that the defendant is not subject to the agency’s authority, it shall grant judgment for the commonwealth.
+        </section>
+        <section prefix="14">
+    	     Actions brought by the attorney general in the name of the commonwealth or by any ten citizens of a city or town to compel the city or town to appropriate for the support of public education the amounts that the city or town is required to appropriate for such purpose by chapter seventy.
+        </section>
+    </text>
+</law>

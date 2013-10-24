@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176N" order_by="176N" level="3">Portability Of Health Insurance</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Exclusion From Coverage; Waiting Period; Compliance With Other Provisions Of Law</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     exclude any eligible insured on the basis of age, occupation, actual or expected health condition, claims experience, duration of coverage, or medical condition of such person.
+        </section>
+        <section prefix="b">
+    	     contain a preexisting conditions provision that excludes coverage for a period beyond 6 months after the individual’s date of enrollment. A preexisting conditions provision may only relate to: (1) conditions which had, during the 6 months immediately before the date of enrollment, manifested themselves in such a manner as would cause an ordinarily prudent person to seek medical advice, diagnosis, care or treatment or for which medical advice, diagnosis, care or treatment was recommended or received. In determining whether a preexisting conditions provision applies to an eligible insured, a health plan shall credit the time a person was under a previous qualifying health plan if the previous coverage was continuous to a date not more than 63 days before the effective date of the new coverage, exclusive of any applicable service waiting period under the new coverage and if the previous qualifying health plan coverage was reasonably actuarially equivalent to the new coverage;
+        </section>
+        <section prefix="c">
+    	     provide for a waiting period of more than 4 months beyond the eligible insured’s date of enrollment under the health plan, but an eligible individual who has not had creditable coverage for the 18 months before the date of enrollment shall not be subject to a waiting period. If a health plan includes a waiting period, emergency services shall be covered during the waiting period. The waiting period shall only apply to services which the new plan covers, but which were not covered under the old plan. In applying a waiting period to an eligible insured, a health plan shall credit the time the person was covered under a previous qualifying health plan if the person experiences only a temporary interruption in coverage;
+        </section>
+        <section prefix="d">
+    	     exclude late enrollees from coverage for more than twelve months from the date of the application for coverage of any late enrollee.
+        </section>
+        <section prefix="e">
+    	     In any circumstance in which more extensive coverage than that provided by clauses (a) to (d) is required by any other provision of the General Laws or any law of the United States, the health benefit plan shall satisfy such other provision insofar as it requires more extensive coverage.
+        </section>
+    </text>
+</law>

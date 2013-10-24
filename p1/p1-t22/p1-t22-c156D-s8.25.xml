@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.25</section_number>
+    <catch_line>Committees</catch_line>
+    <order_by>8.25</order_by>
+    <text>
+        <section prefix="a">
+    	     Unless the articles of organization or bylaws provide otherwise, a board of directors may create 1 or more committees and appoint members of the board of directors to serve on them. Each committee may have 1 or more members, who serve at the pleasure of the board of directors.
+        </section>
+        <section prefix="b">
+    	     The creation of a committee and appointment of members to it must be approved by the greater of: (1) a majority of all the directors in office when the action is taken; or (2) the number of directors required by the articles of organization or bylaws to take action under section 8.24.
+        </section>
+        <section prefix="c">
+    	     Sections 8.20 through 8.24, which govern meetings, action without meetings, notice and waiver of notice, and quorum and voting requirements of the board of directors, shall apply to committees and their members.
+        </section>
+        <section prefix="d">
+    	     To the extent specified by the board of directors or in the articles of organization or bylaws, each committee may exercise the authority of the board of directors under section 8.01.
+        </section>
+        <section prefix="e">
+    	     A committee may not, however:
+        </section>
+        <section prefix="1">
+    	     authorize distributions;
+        </section>
+        <section prefix="2">
+    	     approve or propose to shareholders action that this chapter requires be approved by shareholders;
+        </section>
+        <section prefix="3">
+    	     change the number of the board of directors, remove directors from office or fill vacancies on the board of directors;
+        </section>
+        <section prefix="4">
+    	     amend articles of organization pursuant to section 10.02;
+        </section>
+        <section prefix="5">
+    	     adopt, amend or repeal bylaws; or
+        </section>
+        <section prefix="6">
+    	     authorize or approve reacquisition of shares, except according to a formula or method prescribed by the board of directors.
+        </section>
+        <section prefix="f">
+    	     The creation of, delegation of authority to, or action by a committee does not alone constitute compliance by a director with the standards of conduct described in section 8.30.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Place Of Stockholders’ Meetings</catch_line>
+    <order_by>35</order_by>
+    <text>
+        Meetings of stockholders shall be held within the commonwealth or, to the extent permitted by the articles of organization, elsewhere in the United States.
+    </text>
+</law>

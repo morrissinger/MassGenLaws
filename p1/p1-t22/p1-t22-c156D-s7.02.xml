@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.02</section_number>
+    <catch_line>Special Meeting</catch_line>
+    <order_by>7.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation shall hold a special meeting of shareholders:
+        </section>
+        <section prefix="1">
+    	     on call of its board of directors or the person authorized to do so by the articles of organization or bylaws; or
+        </section>
+        <section prefix="2">
+    	     in the case of a corporation other than a public corporation, if the holders of at least 10 per cent, or such lesser percentage as the articles of organization permit, of all the votes entitled to be cast on any issue to be considered at the proposed special meeting sign, date, and deliver to the corporation’s secretary one or more written demands for the meeting describing the purpose for which it is to be held; or
+        </section>
+        <section prefix="3">
+    	     in the case of a public corporation, unless otherwise provided in the articles of organization or bylaws, if the holders of at least 40 per cent of all the votes entitled to be cast on any issue to be considered at the proposed special meeting sign, date, and deliver to the corporation’s secretary one or more written demands for the meeting describing the purposes for which it is to be held.
+        </section>
+        <section prefix="b">
+    	     If not otherwise fixed under section 7.03 or 7.07, the record date for determining shareholders entitled to demand a special meeting is the date the first shareholder signs the demand.
+        </section>
+        <section prefix="c">
+    	     Except for meetings held as permitted by section 7.08, special shareholders’ meetings may be held in or out of the commonwealth at the place stated in or fixed in accordance with the bylaws. If no place is stated or fixed in accordance with the bylaws, special meetings shall be held at the corporation’s principal office.
+        </section>
+        <section prefix="d">
+    	     Only business within the purpose or purposes described in the meeting notice required by subsection (a) of section 7.05 may be conducted at a special shareholders’ meeting.
+        </section>
+        <section prefix="e">
+    	     In the event an annual meeting is not held at the time stated in or fixed in accordance with the bylaws or the time for an annual meeting is not fixed in accordance with the bylaws to be held within 13 months after the last annual meeting was held, the corporation may designate a special meeting held thereafter in accordance with this section 7.02 as a special meeting in lieu of the annual meeting, and the meeting shall have all of the effect of an annual meeting.
+        </section>
+    </text>
+</law>

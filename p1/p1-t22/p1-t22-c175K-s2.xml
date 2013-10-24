@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Interstate Insurance Product Regulation Commission</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The compacting states hereby create and establish a joint public agency known as the interstate insurance product regulation commission. Pursuant to section 3, the commission shall have the power to develop uniform standards for product lines, receive and provide prompt review of products filed therewith, and give approval to those product filings satisfying applicable uniform standards; but, it is not intended for the commission to be the exclusive entity for receipt and review of insurance product filings. Nothing herein shall prohibit an insurer from filing its product in a state wherein the insurer is licensed to conduct the business of insurance; and the filing shall be subject to the laws of the state where filed.
+        </section>
+        <section prefix="b">
+    	     The commission shall be a body corporate and politic, and an instrumentality of the compacting states.
+        </section>
+        <section prefix="c">
+    	     The commission is solely responsible for its liabilities except as otherwise specifically provided in this compact.
+        </section>
+        <section prefix="d">
+    	     Venue is proper and judicial proceedings by or against the commission shall be brought solely and exclusively in a court of competent jurisdiction where the principal office of the commission is located.
+        </section>
+    </text>
+</law>

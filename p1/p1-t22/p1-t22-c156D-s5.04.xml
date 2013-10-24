@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>5.04</section_number>
+    <catch_line>Service On Corporation</catch_line>
+    <order_by>5.04</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation’s registered agent is the corporation’s agent for service of process, notice, or demand required or permitted by law to be served on the corporation.
+        </section>
+        <section prefix="b">
+    	     Service on a corporation shall be effected and shall be perfected in accordance with the Massachusetts Rules of Civil Procedure and applicable provisions of the General Laws.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="199" order_by="199" level="3">Settlement Of Estates Of Deceased Non Residents</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Insolvent Estates; Settlement</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If such person dies insolvent, his estate found in this commonwealth shall, as far as practicable, be so disposed of that all his creditors here and elsewhere may receive equal proportions of their respective debts.
+    </text>
+</law>

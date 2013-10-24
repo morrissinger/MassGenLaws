@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>10.21</section_number>
+    <catch_line>Bylaw Dealing With Quorum Or Voting Requirements For Shareholders</catch_line>
+    <order_by>10.21</order_by>
+    <text>
+        <section prefix="a">
+    	     If authorized by the articles of organization, the initial bylaws or a bylaw subsequently adopted by shareholders may provide for a greater or lesser quorum requirement for action by any voting group of shareholders, or for a greater affirmative vote requirement, including additional separate voting groups, than is provided for by this chapter.
+        </section>
+        <section prefix="b">
+    	     Approval of an amendment to the bylaws that changes or deletes a quorum or voting requirement for action by shareholders must satisfy both the applicable quorum and voting requirements for action by shareholders with respect to amendment of the bylaws and also the particular quorum and voting requirements sought to be changed or deleted.
+        </section>
+        <section prefix="c">
+    	     A bylaw dealing with quorum or voting requirements for shareholders, including additional voting groups, may not be adopted, amended or repealed by the board of directors.
+        </section>
+    </text>
+</law>

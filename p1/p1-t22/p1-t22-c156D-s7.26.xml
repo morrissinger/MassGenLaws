@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>7.26</section_number>
+    <catch_line>Action By Single And Multiple Voting Groups</catch_line>
+    <order_by>7.26</order_by>
+    <text>
+        <section prefix="a">
+    	     When a matter is to be voted upon by a single voting group, action on that matter is taken when voted upon by that voting group as provided in section 7.25.
+        </section>
+        <section prefix="b">
+    	     When a matter is to be voted upon by two or more voting groups, favorable action on that matter is taken only by the required vote of each of those voting groups counted separately, as provided in section 7.25. Action may be taken by one voting group on a matter even though no action is taken by another voting group entitled to vote on the matter.
+        </section>
+    </text>
+</law>

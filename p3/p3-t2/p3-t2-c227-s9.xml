@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Bond</catch_line>
+    <order_by>9</order_by>
+    <text>
+        If judgment in a personal action is rendered under the preceding section upon the default of a defendant who is absent from the commonwealth or whose residence is unknown, the plaintiff shall not take out execution thereon within one year thereafter, unless he files with the clerk of the court a bond payable to the defendant with one or more sureties, approved by the clerk or, upon appeal from his decision as to the sufficiency of the sureties, by a justice of the court rendering the judgment, in a sum equal to double the amount recovered, conditioned to repay the amount so recovered if the judgment is reversed, or so much of the amount as shall be recovered upon a proceeding for relief from judgment brought by the original defendant within one year after the original judgment.
+    </text>
+</law>

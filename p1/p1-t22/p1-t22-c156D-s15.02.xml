@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>15.02</section_number>
+    <catch_line>Consequences Of Transacting Business Without Authority</catch_line>
+    <order_by>15.02</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign corporation transacting business in the commonwealth without delivering to the secretary of state for filing the certificate required by section 15.03 shall not maintain a proceeding in any court in the commonwealth until the certificate is delivered and filed.
+        </section>
+        <section prefix="b">
+    	     The successor to a foreign corporation that transacted business in the commonwealth without delivering to the secretary of state for filing the certificate required by section 15.03 and the assignee of a cause of action arising out of that business shall not maintain a proceeding based on that cause of action in any court in the commonwealth until the foreign corporation or its successor delivers the certificate and it is filed.
+        </section>
+        <section prefix="c">
+    	     A court may stay a proceeding commenced by a foreign corporation, its successor, or assignee until it determines whether the foreign corporation or its successor is required to deliver to the secretary of state for filing the certificate required by section 15.03. If it so determines, the court may further stay the proceeding until the foreign corporation or its successor delivers the certificate and it is filed.
+        </section>
+        <section prefix="d">
+    	     A foreign corporation is liable to the commonwealth for the years or parts of years during which it transacted business in the commonwealth without delivering to the secretary of state for filing the certificate required by section 15.03, in an amount equal to (1) all late fees which would have been imposed by law had it duly delivered the certificate and (2) all interest and penalties imposed by law for failure to pay the fees. A foreign corporation is further liable to the commonwealth, for each month or part thereof during which it transacted business without delivering the certificate, in an amount determined by the secretary of state, which amount shall in no event exceed the amount established by the commissioner of administration under section 3B of chapter 7, except that a foreign corporation which has delivered such certificate shall not be liable for such monthly penalty for the first 10 days during which it transacted business without delivering such certificate. Such fees and penalties may be levied by the secretary of state. The attorney general may bring an action necessary to recover amounts due to the commonwealth under this subsection including an action to restrain a foreign corporation against which fees and penalties have been imposed pursuant to this subsection from transacting business in the commonwealth until the fees and penalties have been paid.
+        </section>
+        <section prefix="e">
+    	     Notwithstanding subsections (a) and (b), the failure of a foreign corporation to deliver to the secretary of state for filing the certificate required by section 15.03 shall not impair the validity of its corporate acts or prevent it from defending any proceeding in the commonwealth, or affect the validity of any contract entered into by the foreign corporation.
+        </section>
+    </text>
+</law>

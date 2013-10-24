@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175K" order_by="175K" level="3">Interstate Insurance Compact</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Enforcement Of Other Laws Of Compact States</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="b">
+    	     For any product approved or certified to the commission, the rules, uniform standards and any other requirements of the commission shall constitute the exclusive provisions applicable to the content, approval and certification of the products. For advertisement that is subject to the commission’s authority, any rule, uniform standard or other requirement of the commission which governs the content of the advertisement shall constitute the exclusive provision that a commissioner may apply to the content of the advertisement. Notwithstanding the foregoing, no action taken by the commission shall abrogate or restrict: (i) the access of any person to state courts; (ii) remedies available under state law related to breach of contract, tort, or other laws not specifically directed to the content of the product; (iii) state law relating to the construction of insurance contracts; or (iv) the authority of the attorney general of the state, including but not limited to maintaining any actions or proceedings, as authorized by law.
+        </section>
+        <section prefix="c">
+    	     All insurance products filed with individual states shall be subject to the laws of those states.
+        </section>
+        <section prefix="b">
+    	     All agreements between the commission and the compacting states shall be binding in accordance with their terms.
+        </section>
+        <section prefix="c">
+    	     Upon the request of a party to a conflict over the meaning or interpretation of commission actions, and upon a majority vote of the compacting states, the commission may issue advisory opinions regarding the meaning or interpretation in dispute.
+        </section>
+    </text>
+</law>

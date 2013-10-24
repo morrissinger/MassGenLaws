@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="191B" order_by="191B" level="3">Uniform Statutory Will Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Incorporation By Reference</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     A will may incorporate by reference the provisions of this chapter in whole or in part and with any modifications and additions the will provides. To the extent an express provision of a will conflicts with this chapter, the terms of the will shall govern.
+        </section>
+        <section prefix="b">
+    	     A provision that all or part of the testator’s testamentary estate is to be disposed of in accordance with the provisions of this chapter incorporates by reference provisions of this chapter in effect on the date the will is executed.
+        </section>
+        <section prefix="c">
+    	     An incorporation by reference of provisions of this chapter may be in the following or a substantially similar form:
+        </section>
+    </text>
+</law>

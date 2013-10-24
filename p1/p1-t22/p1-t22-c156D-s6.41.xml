@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>6.41</section_number>
+    <catch_line>Liability For Improper Distributions</catch_line>
+    <order_by>6.41</order_by>
+    <text>
+        <section prefix="a">
+    	     A director who votes for or assents to a distribution, including a distribution in liquidation as described in subsection (h) of section 6.40, made in violation of this chapter or the articles of organization, is personally liable to the corporation for the amount of the distribution that exceeds what could have been distributed without violating this chapter or the articles of organization, if it is established that he did not perform his duties in compliance with section 8.30. In any proceeding under this section, a director has all of the defenses ordinarily available to a director.
+        </section>
+        <section prefix="b">
+    	     A director who pays the corporation on account of liability for an improper distribution under subsection (a) is entitled to:
+        </section>
+        <section prefix="1">
+    	     contribution from every other director who could be held liable under subsection (a) for the distribution;
+        </section>
+        <section prefix="2">
+    	     reimbursement from each shareholder who received the distribution knowing it was improper, for the amount that exceeded what could properly have been distributed to him; and
+        </section>
+        <section prefix="3">
+    	     reimbursement from each shareholder who received the distribution without knowing it was improper, to the extent determined appropriate in the circumstances by a court.
+        </section>
+        <section prefix="c">
+    	     Each shareholder who receives a distribution, including one in liquidation, knowing it was made in violation of this chapter or the articles of organization, shall be personally liable to the corporation for the amount of the distribution he received in excess of what could have been distributed to him without violating this chapter or the articles of organization.
+        </section>
+        <section prefix="d">
+    	     If a distribution in liquidation in violation of this chapter is made before 3 years after the effective date of the corporation’s dissolution under PART 14, shareholders who receive the distribution without knowing it is improper are personally liable to the corporation on account of any claim against the corporation existing at the end of the 3-year period, to the extent of each shareholder’s respective pro rata share of the claim, with pro ration to be determined by reference to the respective amounts distributed to shareholders in excess of what could properly have been distributed to them.
+        </section>
+        <section prefix="e">
+    	     Any shareholder’s total liability for all claims under this section on account of distributions in liquidation may not exceed the total amount of assets distributed to the shareholder in liquidation.
+        </section>
+        <section prefix="f">
+    	     A proceeding by or on behalf of the corporation under this section is barred unless it is commenced by:
+        </section>
+        <section prefix="1">
+    	     in the case of a distribution not in liquidation, 2 years after the date on which the effect of the challenged distribution was measured under subsection (e) or (g) of section 6.40;
+        </section>
+        <section prefix="2">
+    	     in the case of a distribution in liquidation by a corporation in dissolution under PART 14, the later of the time specified in the preceding clause (1) and 6 months after the end of the 3-year period referred to in subsection (d); or
+        </section>
+        <section prefix="3">
+    	     in the case of a distribution in liquidation by a corporation not in dissolution, as described in the second clause in the last sentence of subsection (h) of section 6.40, three years after the date on which the effect of the challenged distribution was measured under subsection (e) or (g) of section 6.40.
+        </section>
+        <section prefix="g">
+    	     A proceeding under subsection (b) against a director for contribution or against a shareholder for reimbursement is barred unless it is commenced by the later of (1) two years after the date on which the effect of the challenged distribution was measured under subsection (e) or (g) of section 6.40, and (2) 6 months after payment to the corporation on account of liability under subsection (a) of this section by the party seeking contribution or reimbursement.
+        </section>
+    </text>
+</law>

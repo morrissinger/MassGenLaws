@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Corporate Name</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The corporate name of every professional corporation shall end with the word “Professional Corporation”, “Corporation” or “Incorporated” or the abbreviation “P.C.”, “Corp.” or “Inc.” or any other word or words which in the judgment of the state secretary indicates that the professional corporation is incorporated; provided, however, that a regulating board may by rule adopt further requirements as to the names of professional corporations organized to render a professional service subject to the jurisdiction of such regulating board.
+    </text>
+</law>

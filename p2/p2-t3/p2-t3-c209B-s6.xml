@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="3" order_by="3" level="2">Domestic Relations</unit>
+        <unit label="chapter" identifier="209B" order_by="209B" level="3">Massachusetts Child Custody Jurisdiction Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Notice; Nonresidents; Proof Of Service</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Notice to a person in the commonwealth shall be given in accordance with the applicable Massachusetts rules of court or in such other manner as is prescribed by law.
+        </section>
+        <section prefix="b">
+    	     Notice required for the exercise of jurisdiction over a person outside the commonwealth shall be given in accordance with the applicable Massachusetts Rules of Court or statute or, in the discretion of the court, in the manner prescribed by the law of the place in which the service is made concerning service of process in an action of its court of general jurisdiction, provided, however, that in no event shall notice under this paragraph be served, mailed, delivered or last published less than twenty days before any custody determination is made in this state, other than a determination made pursuant to clause (ii) of paragraph (3) of subsection (a) of section two.
+        </section>
+        <section prefix="c">
+    	     Proof of service outside the commonwealth may be made by affidavit of the individual who made the service, in accordance with the applicable law or the Massachusetts rules of court, in accordance with the order pursuant to which the service is made, or, in the discretion of the court, otherwise in accordance with the law of the place in which the service is made.
+        </section>
+        <section prefix="d">
+    	     Notice is not required to be given to a contestant who submits to the jurisdiction of the court.
+        </section>
+    </text>
+</law>

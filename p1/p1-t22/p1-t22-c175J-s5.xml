@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="175J" order_by="175J" level="3">Administrative Supervision And Hazardous Financial Conditions Of Insurities</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Extension Or Release From Supervision</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="A">
+    	     If placed under administrative supervision by an order issued pursuant to subsection (E) of section three, the insurer shall have sixty days, or another period of time as designated by the commissioner, to comply with the requirements of the commissioner.
+        </section>
+        <section prefix="B">
+    	     If it is determined after notice and hearing that the conditions giving rise to the supervision still exist at the end of the supervision period specified above, the commissioner may extend such period.
+        </section>
+        <section prefix="C">
+    	     If it is determined that none of the conditions giving rise to the supervision exist, the commissioner shall release the insurer from supervision.
+        </section>
+    </text>
+</law>

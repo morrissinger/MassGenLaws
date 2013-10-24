@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>170</section_number>
+    <catch_line>Safety Valves; Mufflers</catch_line>
+    <order_by>170</order_by>
+    <text>
+        A railroad corporation using upon its locomotives a pop or other safety valve shall provide and use therewith a suitable and sufficient appliance for deadening the sound made by steam escaping therefrom, and, if it materially retards the escape of steam or increases the pressure upon the boiler, the corporation shall use an additional safety valve without such appliance, set at a higher point than the other but below the point at which explosion is likely to occur.
+    </text>
+</law>

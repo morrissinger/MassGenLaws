@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="159" order_by="159" level="3">Common Carriers</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Annual Audit</catch_line>
+    <order_by>36</order_by>
+    <text>
+        The department may provide for an annual audit by employees duly authorized by it of all accounts of any common carrier or class of common carriers.
+    </text>
+</law>

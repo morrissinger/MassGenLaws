@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.44</section_number>
+    <catch_line>Contract Rights Of Officers</catch_line>
+    <order_by>8.44</order_by>
+    <text>
+        <section prefix="a">
+    	     The appointment of an officer shall not itself create contract rights.
+        </section>
+        <section prefix="b">
+    	     An officer’s removal shall not affect the officer’s contract rights, if any, with the corporation. An officer’s resignation shall not affect the corporation’s contract rights, if any, with the officer.
+        </section>
+    </text>
+</law>

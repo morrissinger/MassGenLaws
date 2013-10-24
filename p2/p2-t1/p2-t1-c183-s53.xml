@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>53</section_number>
+    <catch_line>Effect Of Deed, Bond Or Other Instrument Made In Defeasance</catch_line>
+    <order_by>53</order_by>
+    <text>
+        If a deed purports to contain an absolute conveyance of land, but is made defeasible by a deed, bond or other instrument, the original deed shall not be thereby affected, as against any person other than the maker of the instrument of defeasance and his heirs and devisees and persons having actual notice of it, unless such instrument is recorded in the registry of deeds for the county or district where the land to which it relates is situated.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>160</section_number>
+    <catch_line>Violations; Penalty</catch_line>
+    <order_by>160</order_by>
+    <text>
+        A railroad corporation which violates any provision of sections one hundred and fifty-five, one hundred and fifty-seven, one hundred and fifty-eight and one hundred and fifty-nine, shall forfeit one hundred dollars, to be recovered in an action of tort brought in the name and for the use of the commonwealth by the attorney general or the district attorney for the district where the offence was committed.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="214" order_by="214" level="3">Equity Jurisdiction</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Summoning Of Jury</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If there is no regular sitting of the supreme judicial court within three months after the framing of such issues, a justice thereof may order the clerk of the courts for the county in which the cause is pending to summon a jury to try such issues, and the proceedings at such trial shall be in all respects the same as in a trial at a regular sitting.
+    </text>
+</law>

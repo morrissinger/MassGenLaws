@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Use Of Custodial Property</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     A custodian may deliver or pay to the minor or expend for the minor’s benefit so much of the custodial property as the custodian considers advisable for the use and benefit of the minor, without court order and without regard to (i) the duty or ability of the custodian personally or of any other person to support the minor, or (ii) any other income or property of the minor which may be applicable or available for that purpose.
+        </section>
+        <section prefix="b">
+    	     On petition of an interested person or the minor if the minor has attained the age of fourteen years, the court may order the custodian to deliver or pay to the minor or expend for the minor’s benefit so much of the custodial property as the court considers advisable for the use and benefit of the minor.
+        </section>
+        <section prefix="c">
+    	     A delivery, payment, or expenditure under this section is in addition to, not in substitution for, and shall not affect any obligation of a person to support the minor.
+        </section>
+    </text>
+</law>

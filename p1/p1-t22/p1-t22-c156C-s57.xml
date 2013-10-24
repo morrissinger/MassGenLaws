@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Court Orders On Termination Of Derivative Suit</catch_line>
+    <order_by>57</order_by>
+    <text>
+        <section prefix="a">
+    	     order the limited liability company to pay the plaintiff’s reasonable expenses, including counsel fees, incurred in the proceeding if it finds that the suit has resulted in a substantial benefit to the limited liability company; or
+        </section>
+        <section prefix="b">
+    	     order the plaintiff to pay any defendant’s reasonable expenses, including counsel fees, incurred in defending the suit if it finds that the suit was commenced or maintained without reasonable cause or for an improper purpose.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>51</section_number>
+    <catch_line>Removal Of Officers And Directors</catch_line>
+    <order_by>51</order_by>
+    <text>
+        <section prefix="a">
+    	     directors and officers elected by stockholders, including persons elected by directors to fill vacancies in the board or in such offices, may be removed from their respective offices with or without cause by the vote of the holders of a majority of the shares entitled to vote in the election of directors or such officers, as the case may be, provided that the directors of a class elected by a particular class of stockholders and officers elected by a particular class of stockholders may be removed only by the vote of the holders of a majority of the shares of the particular class of stockholders entitled to vote for the election of such directors or officers, as the case may be;
+        </section>
+        <section prefix="b">
+    	     officers elected or appointed by the directors may be removed from their respective offices with or without cause by vote of a majority of the directors then in office;
+        </section>
+        <section prefix="c">
+    	     any director, and any officer elected by the stockholders, may be removed from his office for cause by vote of a majority of the directors then in office.
+        </section>
+    </text>
+</law>

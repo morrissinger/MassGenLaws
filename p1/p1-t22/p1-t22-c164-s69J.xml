@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="164" order_by="164" level="3">Manufacture And Sale Of Gas And Electricity</unit>
+    </structure>
+    <section_number>69J</section_number>
+    <catch_line>Petition For Approval Of Construction; Notice Of Intention To Construct Oil Facilities; Public Hearings; Approval Or Rejection</catch_line>
+    <order_by>69J</order_by>
+    <text>
+        <section prefix="1">
+    	     A description of the applicant’s current activities involving the transshipment, transportation, storage, or refining of oil or refined oil products.
+        </section>
+        <section prefix="2">
+    	     A description of the applicant’s qualification and capability in transshipment, transportation, storage, refining and marketing of oil or refined oil products.
+        </section>
+        <section prefix="3">
+    	     An analysis of the proposed facility including but not limited to the description of alternatives to the planned action, such as other site locations, other oil facilities, and no additional oil facilities; and a description of the environmental impact of the proposed facility, said description to include buffer zones and other measures to minimize damage to the environment. The board shall after public notice and a period for comment be empowered to issue and revise its own list of guidelines. A minimum of data shall be required by these guidelines from the applicant for review concerning land use impact, water resource impact, air quality impact, solid waste impact, radiation impact and noise impact.
+        </section>
+        <section prefix="4">
+    	     A description of proposed sources of supply of crude oil or refined oil products for the oil facility which is the subject of the notice; if such sources are persons not controlled by the applicant, certified copies of any contracts, letters of intent or any other understandings.
+        </section>
+        <section prefix="5">
+    	     A description of the capital investment plan proposed for such facility, and the overall financial soundness of the company and economic viability of the facility, including insurance coverage during construction and operation.
+        </section>
+    </text>
+</law>

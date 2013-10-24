@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="247" order_by="247" level="3">Replevin</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Goods Unlawfully Taken, Detained Or Attached</catch_line>
+    <order_by>7</order_by>
+    <text>
+        If goods exceeding twenty dollars in value are unlawfully taken or detained from the owner or person entitled to their possession, or if goods of that value, which have been attached on mesne process or taken on execution, are claimed by a person other than the defendant in the action in which they have been so attached or taken, the owner or such other person may cause them to be replevied.
+    </text>
+</law>

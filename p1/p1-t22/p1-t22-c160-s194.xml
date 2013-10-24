@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>194</section_number>
+    <catch_line>Baggage Checks</catch_line>
+    <order_by>194</order_by>
+    <text>
+        Every railroad corporation shall, upon request, give checks to passengers for their baggage when delivered for transportation, and shall re-deliver the baggage to the passengers upon the surrender of such checks. A corporation violating this section shall forfeit ten dollars.
+    </text>
+</law>

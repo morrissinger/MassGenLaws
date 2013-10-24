@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="171" order_by="171" level="3">Credit Unions</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Cash On Hand Requirements And Enumerated Investments</catch_line>
+    <order_by>71</order_by>
+    <text>
+        <section prefix="a">
+    	     Shares in the Central Credit Union Fund, Inc.
+        </section>
+        <section prefix="b">
+    	     Shares in a federally chartered corporate credit union.
+        </section>
+        <section prefix="c">
+    	     Deposits in savings banks incorporated in the commonwealth.
+        </section>
+        <section prefix="d">
+    	     Paid-up shares and accounts of and in cooperative banks incorporated in the commonwealth.
+        </section>
+        <section prefix="e">
+    	     Shares of savings and loan associations incorporated in the commonwealth.
+        </section>
+        <section prefix="f">
+    	     Balances due from banks and trust companies or banking companies which are members of the Federal Deposit Insurance Corporation.
+        </section>
+        <section prefix="g">
+    	     Shares of federal savings and loan associations having a usual place of business within the commonwealth.
+        </section>
+        <section prefix="h">
+    	     Bonds or notes of the United States or of any state or subdivision thereof with a maturity of up to five years.
+        </section>
+        <section prefix="i">
+    	     Bonds or notes of other federal agencies which are on the list of legal investments prepared pursuant to section fifteen A of chapter one hundred and sixty-seven with a maturity of up to three years.
+        </section>
+        <section prefix="j">
+    	     Repurchase agreements secured by United States government obligations up to one year maturity.
+        </section>
+        <section prefix="k">
+    	     In a common trust unit plan organized for the purchase of bonds or notes of the United States or of any subdivision thereof which are on the list of legal investments prepared pursuant to said section fifteen A of said chapter one hundred and sixty-seven and which has as its custodian a banking institution authorized to accept deposits from a credit union or from a savings bank.
+        </section>
+        <section prefix="l">
+    	     Securities of the government national mortgage association.
+        </section>
+        <section prefix="m">
+    	     Federal funds.
+        </section>
+        <section prefix="n">
+    	     In any bonds or notes which are on the list of legal investments prepared pursuant to said section fifteen A of said chapter one hundred and sixty-seven with a maturity of up to three years; provided, however, that such bonds or notes are rated as, A, AA, or AAA.
+        </section>
+        <section prefix="o">
+    	     Certificates of deposits of up to one year maturity which otherwise meet the criteria set out in paragraphs (a) to (i), inclusive, or paragraph (q) of section sixty-seven.
+        </section>
+    </text>
+</law>

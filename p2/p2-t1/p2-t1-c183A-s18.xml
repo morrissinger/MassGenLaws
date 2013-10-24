@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183A" order_by="183A" level="3">Condominiums</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Improvements; Costs</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     If fifty per cent or more but less than seventy-five per cent of the unit owners agree to make an improvement to the common areas and facilities, the cost of such improvement shall be borne solely by the owners so agreeing.
+        </section>
+        <section prefix="b">
+    	     Seventy-five per cent or more of the unit owners may agree to make an improvement to the common areas and facilities and assess the cost thereof to all unit owners as a common expense, but if such improvement shall cost in excess of ten per cent of the then value of the condominium, any unit owner not so agreeing may apply to the superior court of the county in which the property is located, on such notice to the organization of unit owners as the court shall direct, for an order directing the purchase of his unit by the organization of unit owners at fair market value thereof as approved by the court. The cost of any such purchase shall be a common expense.
+        </section>
+    </text>
+</law>

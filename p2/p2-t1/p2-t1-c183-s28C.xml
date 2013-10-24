@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="183" order_by="183" level="3">Alienation Of Land</unit>
+    </structure>
+    <section_number>28C</section_number>
+    <catch_line>Refinancing In The Borrower’S Interest</catch_line>
+    <order_by>28C</order_by>
+    <text>
+        <section prefix="a">
+    	     A lender shall not knowingly make a home loan if the home loan pays off all or part of an existing home loan that was consummated within the prior 60 months or other debt of the borrower, unless the refinancing is in the borrower’s interest. The “borrower’s interest” standard shall be narrowly construed, and the burden is upon the lender to determine and to demonstrate that the refinancing is in the borrower’s interest.
+        </section>
+        <section prefix="1">
+    	     the borrower’s new monthly payment is lower than the total of all monthly obligations being financed, taking into account the costs and fees;
+        </section>
+        <section prefix="2">
+    	     there is a change in the amortization period of the new loan;
+        </section>
+        <section prefix="3">
+    	     the borrower receives cash in excess of the costs and fees of refinancing;
+        </section>
+        <section prefix="4">
+    	     the borrower’s note rate of interest is reduced;
+        </section>
+        <section prefix="5">
+    	     there is a change from an adjustable to a fixed rate loan, taking into account costs and fees; or
+        </section>
+        <section prefix="6">
+    	     the refinancing is necessary to respond to a bona fide personal need or an order of a court of competent jurisdiction.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any provision to the contrary contained in this chapter regarding costs and attorneys’ fees, in any action instituted by a borrower who alleges that the defendant violated subsection (a), the borrower shall not be entitled to costs and attorneys’ fees if the presiding judge, in the judge’s discretion, finds that, before the institution of the action by the borrower, the lender made a reasonable offer to cure and that offer was rejected by the borrower.
+        </section>
+        <section prefix="c">
+    	     The commissioner of banks may prescribe from time to time such rules and regulations as may be necessary or proper in carrying out this section. Such rules and regulations may contain such factors, classifications, differentiations or other provisions, and may provide for such adjustments and exceptions for any class of transactions as, in the judgment of the commissioner, are necessary or proper to carry out this section, to prevent circumvention or evasion thereof or to facilitate compliance therewith.
+        </section>
+    </text>
+</law>

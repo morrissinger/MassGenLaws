@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Judgment In Real Actions</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If the original judgment was for seisin of the land demanded in a real action, the writ of seisin may be issued in favor of the plaintiff without his giving bond; and if the judgment is reversed in whole or in part upon a review or other proceeding, whether sued out or commenced within the year or afterward, the original defendant may have restitution of the land.
+    </text>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Issue Or Transfer Of Shares, Or Rights Or Options To Purchase</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     A professional corporation may issue shares, fractional shares, and rights or options to purchase shares only to:
+        </section>
+        <section prefix="1">
+    	     natural persons who are licensed in the commonwealth or in any other state or territory of the United States or the District of Columbia to render a professional service permitted by the articles of organization of the corporation;
+        </section>
+        <section prefix="2">
+    	     general or registered limited liability, partnerships in which all the partners are natural persons described in subparagraph (1);
+        </section>
+        <section prefix="3">
+    	     professional corporations authorized by law to render a professional service permitted by the articles of organization of the corporation.
+        </section>
+        <section prefix="4">
+    	     business corporations authorized by law to engage in the rendering of the professional services permitted by the articles of organization of the professional corporation; and
+        </section>
+        <section prefix="5">
+    	     limited liability companies authorized by law to engage in the rendering of the professional services permitted by the articles of organization of the professional corporation.
+        </section>
+        <section prefix="b">
+    	     A regulating board may by rule further restrict the authority of professional corporations to issue or transfer shares, but no such rule shall have the effect of causing a shareholder of a professional corporation at the time such rule becomes effective to become a disqualified person.
+        </section>
+        <section prefix="c">
+    	     A shareholder of a professional corporation may transfer shares and rights or options to purchase shares of the corporation only to qualified persons, as defined herein; provided, however, that, subject to sections twelve and thirteen, nothing herein shall prohibit the pledge of shares of a professional corporation to a disqualified person or the transfer of such shares by operation of law or court decree to a disqualified person.
+        </section>
+        <section prefix="d">
+    	     Nothing herein shall prevent a professional corporation from adopting other restrictions on the transfer of its shares or requiring that transferees be approved by its shareholders or directors under provisions of its articles of organization, by-laws or an agreement binding upon all of its shareholders.
+        </section>
+        <section prefix="e">
+    	     Every certificate issued representing shares of a professional corporation shall state thereon in bold print that the shares represented thereby are subject to restrictions on transfer imposed by this chapter and any further restrictions on transfer imposed by the appropriate regulating board or boards from time to time pursuant to this chapter.
+        </section>
+        <section prefix="f">
+    	     All transfers of shares in violation of this section shall be void.
+        </section>
+    </text>
+</law>

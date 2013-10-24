@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="255D" order_by="255D" level="3">Retail Installment Sales And Services</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Extension Agreements; Form And Contents</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="1">
+    	     Shall be in writing and signed by the parties;
+        </section>
+        <section prefix="2">
+    	     Shall incorporate by reference the agreement to which the extension agreement applies;
+        </section>
+        <section prefix="3">
+    	     Shall state the terms of the extension;
+        </section>
+        <section prefix="4">
+    	     May provide for an extension charge not to exceed one per cent of each installment for each month from the date when such installment or part thereof would otherwise have been payable to the date when such installment or part thereof is made payable under the extension agreement; provided, that when any such charge is made, no delinquency charge as provided in section twenty shall be charged unless an installment as extended is not paid by the end of the grace period beyond the extended due date;
+        </section>
+        <section prefix="5">
+    	     May provide that the buyer shall pay the additional cost, if any, for insurance coverage provided in the extension; and
+        </section>
+        <section prefix="6">
+    	     Shall clearly set forth the fact of any extension charge, the amount extended, the date to which, or the time period for which payment is extended, the amount of the charge for the extension, and the amount for the additional cost of insurance, if any, resulting from the extension.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Scope And Jurisdiction</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in section twenty-two, this chapter shall apply to a transfer that refers to this chapter in the designation under subsection (a) of section nine by which the transfer is made if, at the time of the transfer, the transferor, or the minor, or the custodian is a resident of the commonwealth or the custodial property is located in the commonwealth. The custodianship so created remains subject to this chapter despite a subsequent change in residence of a transferor, the minor, or the custodian, or the removal of custodial property from the commonwealth.
+        </section>
+        <section prefix="b">
+    	     A person designated as custodian under this chapter is subject to personal jurisdiction in the commonwealth with respect to any matter relating to the custodianship.
+        </section>
+        <section prefix="c">
+    	     A transfer that purports to be made and which is valid under the Uniform Transfers to Minors Act, the Uniform Gifts to Minors Act, or a substantially similar act of another state, is governed by the law of the designated state and may be executed and is enforceable in the commonwealth if at the time of the transfer, the transferor, the minor, or the custodian is a resident of the designated state or the custodial property is located in the designated state.
+        </section>
+    </text>
+</law>

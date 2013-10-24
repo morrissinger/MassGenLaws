@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Title To Real Property</unit>
+        <unit label="chapter" identifier="188" order_by="188" level="3">Homesteads</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Protection Of Proceeds Received On Account Of Sale, Taking Or Damage Of Home Subject To An Estate Of Homestead; Period Of Protection</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     If a home that is subject to an estate of homestead is sold, whether voluntarily or involuntarily, taken or damaged by fire or other casualty, then the proceeds received on account of any such sale, taking or damage shall be entitled to the protection of this chapter during the following periods:
+        </section>
+        <section prefix="1">
+    	     in the event of a sale, whether voluntary or involuntary, or a taking, for a period ending on the date on which the person benefited by the homestead either acquires another home the person intends to occupy as a principal residence or 1 year after the date on which the sale or taking occurred, whichever first occurs; and
+        </section>
+        <section prefix="2">
+    	     in the event of a fire or other casualty, for a period ending on: (i) the date upon which the reconstruction or repair to the home is completed or the date on which the person benefited by the homestead acquires another home the person intends to occupy as a principal residence; or (ii) 2 years after the date of the fire or other casualty, whichever first occurs.
+        </section>
+        <section prefix="b">
+    	     For the purposes of this section, occupancy of a trailer, manufactured home or other temporary housing shall not establish principal residency in a reconstructed or replacement home.
+        </section>
+    </text>
+</law>

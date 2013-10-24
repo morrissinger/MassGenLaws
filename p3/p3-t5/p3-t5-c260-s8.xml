@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Citizens Of Enemy Country; Suspension Of Limitation</catch_line>
+    <order_by>8</order_by>
+    <text>
+        If a person is disabled from commencing an action because he is a subject or citizen of a country which is at war with the United States, the time of the continuance of such war after the cause of action accrues shall be excluded in determining the period herein limited for the commencement of the action.
+    </text>
+</law>

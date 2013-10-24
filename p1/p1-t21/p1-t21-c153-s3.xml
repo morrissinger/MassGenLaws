@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="153" order_by="153" level="3">Liability Of Employers To Employees For Injuries Not Resulting In Death</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Unremedied Defect Reported To Be Defective</catch_line>
+    <order_by>3</order_by>
+    <text>
+        If a defect in the ways, works or machinery of an employer has been reported to the person whose duty it is to remedy said defect, or cause it to be remedied, or to report its existence, and such defect is not remedied within a reasonable time, and by reason of said defect an employee is injured, such employee shall not be held to have assumed the risk of such injury.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="2" order_by="2" level="1">Real And Personal Property And Domestic Relations</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Descent And Distribution, Wills, Estates Of Deceased Persons And Absentees, Guardianship, Conservatorship And Trusts</unit>
+        <unit label="chapter" identifier="201A" order_by="201A" level="3">Uniform Transfers To Minors Act</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Powers Of Custodian</catch_line>
+    <order_by>13</order_by>
+    <text>
+        <section prefix="a">
+    	     A custodian, acting in a custodial capacity, has all the rights, powers, and authority over custodial property that unmarried adult owners have over their own property, but a custodian may exercise those rights, powers, and authority in that capacity only.
+        </section>
+        <section prefix="b">
+    	     This section does not relieve a custodian from liability for a breach of section twelve.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="162" order_by="162" level="3">Electric Railroads</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Content Of Agreement Of Association; Execution Of Agreement</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     That the subscribers thereto associate themselves with the intention of forming an electric railroad company;
+        </section>
+        <section prefix="b">
+    	     The corporate name assumed, which shall be one not in use by any other electric railroad company in the commonwealth, or, in the judgment of the department, so similar thereto as to be likely to be mistaken for it, or for any railroad corporation or street railway company in this commonwealth, and which shall contain the words, “electric railroad company”, at the end thereof;
+        </section>
+        <section prefix="c">
+    	     The termini of the railroad;
+        </section>
+        <section prefix="d">
+    	     The length of the railroad, as nearly as may be;
+        </section>
+        <section prefix="e">
+    	     The name of each county, city and town in which the railroad is to be located;
+        </section>
+        <section prefix="f">
+    	     The gauge of the railroad, which shall be four feet eight and one half inches;
+        </section>
+        <section prefix="g">
+    	     The total amount of the capital stock of the company, which shall be not less than ten thousand dollars for each mile;
+        </section>
+        <section prefix="h">
+    	     The par value of the shares, which shall be one hundred dollars;
+        </section>
+        <section prefix="i">
+    	     The names and residences of at least five persons, who shall be subscribers to the agreement of association, to act as directors until others are chosen and qualified in their stead.
+        </section>
+    </text>
+</law>

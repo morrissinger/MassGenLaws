@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156A" order_by="156A" level="3">Professional Corporations</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     “Professional corporation”, a domestic corporation organized under this chapter for the purpose of rendering one or more professional services. As used in sections five, six, eight, ten and nineteen, the term “professional corporation” shall also include foreign professional corporations.
+        </section>
+        <section prefix="b">
+    	     “Professional service”, (i) the service performed by registered physicians and surgeons, chiropractors, podiatrists, engineers, electrologists, physical therapists, psychologists, certified public accountants, public accountants, dentists, veterinarians, optometrists acupuncturists and registered nurses, so long as the foregoing are registered or licensed under the provisions of chapter one hundred and twelve; and by attorneys-at-law admitted to practice in the courts of the commonwealth under chapter two hundred and twenty-one; (ii) any other type of service which may be rendered only pursuant to a license pursuant to the laws of the commonwealth, if the applicable regulating boards permit the licensed person to incorporate his profession under this chapter, or if such licensed person elects to incorporate his profession under this chapter and such incorporation is not prohibited by law or by regulations of the applicable regulating board.
+        </section>
+        <section prefix="c">
+    	     “Regulating board”, a board or governing authority which is charged with licensing and regulating the profession of any person performing a professional service.
+        </section>
+        <section prefix="d">
+    	     “Foreign professional corporation”, a corporation organized for the purpose of rendering professional service under a law other than the law of the commonwealth.
+        </section>
+        <section prefix="e">
+    	     “Qualified person”, with respect to any professional corporation means a natural person, general partnership, or professional corporation which is eligible under this chapter to own shares issued by such professional corporation.
+        </section>
+        <section prefix="f">
+    	     “Disqualified person”, with respect to any professional corporation means any natural person, corporation, partnership, or other entity which for any reason is or becomes ineligible under this chapter to own shares issued by such professional corporation.
+        </section>
+    </text>
+</law>

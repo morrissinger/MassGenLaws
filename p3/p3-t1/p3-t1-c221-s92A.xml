@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="1" order_by="1" level="2">Courts And Judicial Officers</unit>
+        <unit label="chapter" identifier="221" order_by="221" level="3">Clerks, Attorneys And Other Officers Of Judicial Courts</unit>
+    </structure>
+    <section_number>92A</section_number>
+    <catch_line>Interpreters For The Deaf Or Hearing Impaired; Court Proceedings;  Arrests; Admissibility Of Evidence; Fees And Expenses; Privileged Communications</catch_line>
+    <order_by>92A</order_by>
+    <text>
+        <section prefix="2">
+    	     the interpreter swears under oath, that he will provide a true and accurate interpretation of the proceedings to the best of his skill and judgment, and
+        </section>
+        <section prefix="3">
+    	     the person conducting such proceedings determines, on the basis of testimony of the interpreter and the deaf or hearing-impaired person, that such interpreter is able in that particular proceeding, to communicate accurately with and translate information to and from such deaf or hearing-impaired person involved.
+        </section>
+    </text>
+</law>

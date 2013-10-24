@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="160" order_by="160" level="3">Railroads</unit>
+    </structure>
+    <section_number>209</section_number>
+    <catch_line>Violations; Penalties</catch_line>
+    <order_by>209</order_by>
+    <text>
+        A railroad corporation violating any provision of the four preceding sections, in addition to liability for all damages sustained by reason of such violation, shall forfeit two hundred dollars, to be recovered in tort to his own use by the party aggrieved, or to the use of the commonwealth by the attorney general or the district attorney of the district where such violation was committed; but no such action shall be maintained unless brought within one year after the date of such violation.
+    </text>
+</law>

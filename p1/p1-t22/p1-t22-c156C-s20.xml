@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156C" order_by="156C" level="3">Limited Liability Company Act</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Admission As Member Of Limited Liability Company</catch_line>
+    <order_by>20</order_by>
+    <text>
+        <section prefix="a">
+    	     In connection with the formation of a limited liability company, a person acquiring a limited liability company interest is admitted as a member of the limited liability company upon the later to occur of:
+        </section>
+        <section prefix="1">
+    	     the formation of the limited liability company; or
+        </section>
+        <section prefix="2">
+    	     the time provided in and upon compliance with the operating agreement or, if the operating agreement does not so provide, when the person’s admission is reflected in the records of the limited liability company.
+        </section>
+        <section prefix="b">
+    	     After the formation of a limited liability company, a person acquiring a limited liability company interest is admitted as a member of the limited liability company:
+        </section>
+        <section prefix="1">
+    	     in the case of a person acquiring a limited liability company interest directly from the limited liability company, at the time provided in and upon compliance with a written operating agreement or, if a written operating agreement does not so provide, upon the consent of all members; or
+        </section>
+        <section prefix="2">
+    	     in the case of an assignee of a limited liability company interest, as provided in section forty-one.
+        </section>
+        <section prefix="c">
+    	     A person may be admitted to a limited liability company as a member and may receive an interest in the limited liability company without making a contribution or being obligated to make a contribution to the limited liability company.
+        </section>
+    </text>
+</law>

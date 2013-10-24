@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Filing Copies Of Forms With Commissioner; Standard Provisions Of Certificates</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     No certificate shall be delivered or issued for delivery in this commonwealth unless a copy of the form has been filed with the commissioner in the manner provided for like policies issued by life insurers in this commonwealth. Every life, accident, health, or disability certificate and every annuity certificate issued on or after January 1, 2001 shall meet the standard contract provision requirements not inconsistent with this chapter for like policies issued by life insurers authorized to write any of these lines of insurance in this commonwealth, except that a society may provide for a grace period for payment of premiums of one full month in its certificates. The certificate shall also contain a provision stating the amount of premiums which are payable under the certificate and a provision reciting or setting forth the substance of any sections of the society’s laws or rules in force at the time of the issuance of the certificate which, if violated, will result in termination or reduction of benefits payable under the certificate.
+        </section>
+        <section prefix="b">
+    	     A society may specify the terms and conditions on which benefit contracts may be assigned.
+        </section>
+    </text>
+</law>

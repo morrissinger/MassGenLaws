@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="157B" order_by="157B" level="3">Cooperative Housing Corporations</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Net Savings; Apportionment</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="1">
+    	     as a dividend not to exceed ten per cent, noncumulative, upon one or more classes of stock;
+        </section>
+        <section prefix="2">
+    	     as an equitable distribution or refund to all patrons in proportion to their individual patronage except that (a) in the case of a subscriber patron, the distribution or refund may be credited to the subscriber’s account until the subscription has been fully paid, and (b) in the case of a nonmember patron, the amount otherwise distributable may be retained by the cooperative corporation;
+        </section>
+        <section prefix="3">
+    	     this section does not prevent a cooperative corporation from disposing of the net savings by reducing the cost of goods, facilities or services or by applying such net savings otherwise for the common benefit of members;
+        </section>
+        <section prefix="4">
+    	     this section does not prevent a cooperative corporation from adopting a system by which the payment of net savings are deferred for a fixed period of time, nor from adopting a system in which the net savings distributed are partly in cash and partly in stock.
+        </section>
+    </text>
+</law>

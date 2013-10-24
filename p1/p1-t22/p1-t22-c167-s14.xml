@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167" order_by="167" level="3">Supervision Of Banks</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Credit Needs Of Local Communities; Assessment Of Banks; Regulations;  Application For Establishment Of Domestic Branch; Examination; Alternative Community Reinvestment Examination Procedure</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     the assessment factors utilized to determine the bank’s descriptive rating;
+        </section>
+        <section prefix="2">
+    	     the commissioner’s conclusions with respect to each such assessment factor;
+        </section>
+        <section prefix="3">
+    	     a discussion of the facts supporting such conclusions; and
+        </section>
+        <section prefix="4">
+    	     the bank’s descriptive rating and the basis therefor.
+        </section>
+        <section prefix="a">
+    	     outstanding record of performance in meeting its community credit needs;
+        </section>
+        <section prefix="b">
+    	     high satisfactory record of performance in meeting its community credit needs;
+        </section>
+        <section prefix="c">
+    	     satisfactory record of performance in meeting its community credit needs;
+        </section>
+        <section prefix="d">
+    	     needs to improve record of performance in meeting its community credit needs; or
+        </section>
+        <section prefix="e">
+    	     substantial noncompliance in meeting its community credit needs.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="5" order_by="5" level="2">Statutes Of Frauds And Limitations</unit>
+        <unit label="chapter" identifier="260" order_by="260" level="3">Limitation Of Actions</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Action Not To Be Dismissed For Failure To Join Barred Party Defendant</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A civil action shall not be dismissed for failure to join a party defendant if it is established by affidavit or otherwise that the action against such party was barred by limitation.
+    </text>
+</law>

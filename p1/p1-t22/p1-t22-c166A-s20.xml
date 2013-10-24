@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="166A" order_by="166A" level="3">Community Antenna Television Systems</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Systems Constructed, Purchased, And Operated By Cities And Towns, Applicability Of Chapter</catch_line>
+    <order_by>20</order_by>
+    <text>
+        Any city or town may construct, purchase and operate a CATV system, but such operation shall be subject to this chapter as if the system were privately owned and operated.
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="234A" order_by="234A" level="3">Office Of Jury Commissioner For The Commonwealth</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Master Juror List; Random Shuffling; Summoning Jurors In Sequence</catch_line>
+    <order_by>16</order_by>
+    <text>
+        On or before the first day of October of each year, the office of jury commissioner shall prepare the master juror list for each judicial district. The master juror list for a judicial district shall contain the aggregate of all prospective juror lists of cities and towns within the judicial district. The office of the jury commissioner shall randomly shuffle the names that appear on the master juror list and store the list as a data processing file. After the random shuffling of the names that appear on the master juror list has occurred, the office of jury commissioner shall summon grand and trial jurors for a judicial district in sequence from the master juror list for the judicial district commencing with juror service to be performed on the first business day in January of the succeeding calendar year, unless the supreme judicial court shall order otherwise. 
+The office of jury commissioner may inhibit the summoning of a person on the master juror list on the ground that such person has been determined to be not-qualified to perform juror service under section four of this chapter in the current or previous three years. The content and form of the master juror list shall be specified in the regulations of the jury commissioner. The method of generation of random numbers and the method of randomly shuffling the master juror list shall be specified in the regulations of the jury commissioner.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176G" order_by="176G" level="3">Health Maintenance Organizations</unit>
+    </structure>
+    <section_number>4L</section_number>
+    <catch_line>Coverage For Hospice Services</catch_line>
+    <order_by>4L</order_by>
+    <text>
+        Any group health maintenance contract shall provide coverage for hospice services as defined in section 57D of chapter 111 during the life of the patient, to terminally ill patients with a life expectancy of six months or less; provided, however, that such services are determined to be appropriate and authorized by the patient’s primary care or treating physician and are equivalent to those services provided by a licensed hospice program regulated by the department of public health.
+    </text>
+</law>

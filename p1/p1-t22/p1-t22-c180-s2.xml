@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="180" order_by="180" level="3">Corporations For Charitable And Certain Other Purposes</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     “articles of organization”, the articles of organization of a corporation, including any special acts, as from time to time restated or amended, including articles of merger or consolidation;
+        </section>
+        <section prefix="b">
+    	     “by-laws”, the code or codes of rules adopted for the regulation or management of the affairs of the corporation irrespective of the name or names by which such rules are designated;
+        </section>
+        <section prefix="c">
+    	     “corporation”, a domestic corporation (i) heretofore established either by general or special law for any one or more of the purposes mentioned in section four or (ii) organized under this chapter on or after October first, nineteen hundred and seventy-one;
+        </section>
+        <section prefix="d">
+    	     “directors” or “board of directors”, the directors of a corporation, including persons and officers having the powers of directors;
+        </section>
+        <section prefix="e">
+    	     “member”, one having membership rights, whether or not designated as a member, in a corporation in accordance with the provisions of its articles of organization or by-laws.
+        </section>
+        <section prefix="f">
+    	     “public charity”, a corporation holding funds subject to the provisions of section eight of chapter twelve.
+        </section>
+    </text>
+</law>

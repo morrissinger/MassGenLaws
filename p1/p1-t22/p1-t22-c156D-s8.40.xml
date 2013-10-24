@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156D" order_by="156D" level="3">Business Corporations</unit>
+    </structure>
+    <section_number>8.40</section_number>
+    <catch_line>Required Officers</catch_line>
+    <order_by>8.40</order_by>
+    <text>
+        <section prefix="a">
+    	     A corporation shall have a president, a treasurer and a secretary and such other officers described in its bylaws or appointed by the board of directors in accordance with the bylaws.
+        </section>
+        <section prefix="b">
+    	     A duly appointed officer may appoint 1 or more officers or assistant officers if authorized by the bylaws or the board of directors.
+        </section>
+        <section prefix="c">
+    	     Unless the bylaws or the board of directors shall designate another officer, the secretary or an assistant secretary shall have responsibility for preparing minutes of the directors’ and shareholders’ meetings and for authenticating records of the corporation.
+        </section>
+        <section prefix="d">
+    	     The same individual may simultaneously hold more than 1 office in a corporation.
+        </section>
+    </text>
+</law>

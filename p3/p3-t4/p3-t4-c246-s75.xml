@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>75</section_number>
+    <catch_line>Several Trustees; Liability For Costs</catch_line>
+    <order_by>75</order_by>
+    <text>
+        If several persons are summoned as trustees who are liable for costs under any provision of the two preceding sections, the second execution shall be awarded against them jointly; and if any one pays more than his proportion, the others shall contribute equally to indemnify him for the excess.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Actions And Proceedings Therein</unit>
+        <unit label="chapter" identifier="227" order_by="227" level="3">Proceedings Against Absent Defendants And Upon Insufficient Service</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Real Actions; Absence Of One Of Several Defendants</catch_line>
+    <order_by>16</order_by>
+    <text>
+        Real actions against several defendants, any one of whom is absent from the commonwealth, shall be conducted relative to him as if he were the sole defendant.
+    </text>
+</law>

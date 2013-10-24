@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="3" order_by="3" level="1">Courts, Judicial Officers And Proceedings In Civil Cases</unit>
+        <unit label="title" identifier="4" order_by="4" level="2">Certain Writs And Proceedings In Special Cases</unit>
+        <unit label="chapter" identifier="246" order_by="246" level="3">Trustee Process</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Demand On Absent Trustee; Service</catch_line>
+    <order_by>42</order_by>
+    <text>
+        If the trustee cannot be found in the commonwealth by the officer to whom the execution is committed for service, a copy of the execution left at his dwelling house or at his last and usual place of abode, with a notice to him, endorsed thereon and signed by the officer, that he is required to pay and deliver, toward satisfying the execution, the goods, effects and credits for which he is liable shall be a sufficient demand for the purposes of the two preceding sections.
+    </text>
+</law>

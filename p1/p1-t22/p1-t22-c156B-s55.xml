@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="156B" order_by="156B" level="3">Certain Business Corporations</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Committees; Delegation Of Powers</catch_line>
+    <order_by>55</order_by>
+    <text>
+        <section prefix="a">
+    	     to change the principal office of the corporation;
+        </section>
+        <section prefix="b">
+    	     to amend by-laws;
+        </section>
+        <section prefix="e">
+    	     to elect officers required by this chapter to be elected by the stockholders or directors and to fill vacancies in any such offices;
+        </section>
+        <section prefix="f">
+    	     to change the number of the board of directors and to fill vacancies in the board of directors;
+        </section>
+        <section prefix="g">
+    	     to remove officers or directors from office;
+        </section>
+        <section prefix="h">
+    	     to authorize the payment of any dividend or distribution to shareholders;
+        </section>
+        <section prefix="i">
+    	     to authorize the reacquisition for value of stock of the corporation; or
+        </section>
+        <section prefix="j">
+    	     to authorize a merger pursuant to section eighty-two or section eighty-three.
+        </section>
+    </text>
+</law>

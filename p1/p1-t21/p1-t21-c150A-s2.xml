@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="150A" order_by="150A" level="3">Labor Relations</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     The term “person” includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in bankruptcy, or receivers.
+        </section>
+        <section prefix="2">
+    	     The word “employer” shall include any person acting in the interest of an employer, directly or indirectly, and shall include any health care facility, any nonprofit institution, and any vendor who contracts with or receives funds from the commonwealth or its political subdivisions, or both, to provide social, protective, legal, medical, custodial, rehabilitative, respite, nutritional, employment, educational, training, and other similar services to the commonwealth or its political subdivisions, but shall not include the commonwealth or political subdivision thereof, except in the case of a health care facility, or any labor organization, other than when acting as an employer, or anyone acting in the capacity of officer or agent of such labor organization.
+        </section>
+        <section prefix="3">
+    	     Except as otherwise provided in section three A, the word “employee” shall include any employee, and shall not be limited to the employees of a particular employer, unless the chapter explicitly states otherwise, and shall include any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice, and who has not obtained any other regular and substantially equivalent employment, and shall include any nurse or nonprofessional employee of a health care facility or of any nonprofit institution, except members of religious orders, or any employees of vendors who contract with or receive funds from the commonwealth or its political subdivisions to provide social, protective, legal, medical, custodial, rehabilitative, respite, nutritional, employment, educational, training, and other similar services to the commonwealth or its political subdivisions, but shall not include any individual employed as an agricultural worker, except as provided in section five A, or in the domestic service of any family or person at his home, or any individual employed by his parent or spouse.
+        </section>
+        <section prefix="4">
+    	     The term “representatives” includes any individual or labor organization.
+        </section>
+        <section prefix="5">
+    	     The term “labor organization” means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+        </section>
+        <section prefix="6">
+    	     The term “unfair labor practice” means any unfair labor practice listed in section four.
+        </section>
+        <section prefix="7">
+    	     The term “labor dispute” includes any controversy concerning terms, tenure or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment regardless of whether the disputants stand in the proximate relation of employer and employee.
+        </section>
+        <section prefix="8">
+    	     The term “commission” means the labor relations commission existing under section nine O of chapter twenty-three.
+        </section>
+        <section prefix="9">
+    	     The term “one-man unit” means a single employee of an employer who employs more than one employee in the same occupation within the commonwealth.
+        </section>
+        <section prefix="10">
+    	     The term “health care facility” shall include any person, including the commonwealth or any political subdivision thereof, acting in the interest of an employer, directly or indirectly, and engaged, whether or not for profit or as a public charity, in the operation of a general, mental, chronic disease, tuberculosis, or other type of hospital, clinic or infirmary, of a convalescent or nursing home, of a visiting nurses association, of a public health agency, or of any related facility such as a laboratory, an outpatient department, a nurses’ home or a training facility.
+        </section>
+        <section prefix="11">
+    	     The term “nurse employee” means any registered nurse or licensed practical nurse, except that it does not include any member of a religious order.
+        </section>
+        <section prefix="12">
+    	     The term “written majority authorization” shall mean writings signed and dated by employees in the form of authorization cards, petitions or such other written evidence that the commission finds suitable, in which a majority of employees in a unit appropriate for the purposes of collective bargaining designates or selects a labor organization as its representative for the purposes of collective bargaining and certifies the designation to be its free act and deed and given without consideration. Employee signatures shall be dated within the 12 months preceding the date on which the writings are proffered to establish majority and exclusive representative status within the meaning of subsection (a) of section 5.
+        </section>
+    </text>
+</law>

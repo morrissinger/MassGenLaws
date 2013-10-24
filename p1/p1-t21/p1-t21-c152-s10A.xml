@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="152" order_by="152" level="3">Workers' Compensation</unit>
+    </structure>
+    <section_number>10A</section_number>
+    <catch_line>Assignments Of Cases; Conferences; Orders; Appeals</catch_line>
+    <order_by>10A</order_by>
+    <text>
+        <section prefix="1">
+    	     On referral from the division of administration of a claim for compensation or a complaint for modification or discontinuance of benefits, said claim or complaint shall be immediately assigned to an administrative judge. Except where events beyond the control of the department make such scheduling impracticable, the administrative judge assigned to any case referred to the division of dispute resolution shall retain exclusive jurisdiction over the matter and any subsequent claim or complaint related to the alleged injury shall be referred to the same administrative judge. The administrative judge shall require the parties to appear before him for a conference within twenty-eight days of receipt of the case by the division of dispute resolution. The administrative judge may require and receive reports of injury, signed statements of the employee and any witnesses, medical, hospital, and rehabilitation records, and other written and oral matter. At the conference, the parties shall identify the issues in dispute and they shall produce a summary of any anticipated testimony.
+        </section>
+        <section prefix="2">
+    	     Within seven days of the conclusion of the conference the administrative judge shall file:
+        </section>
+        <section prefix="a">
+    	     a written order requiring or denying that weekly compensation or other benefits be paid; or
+        </section>
+        <section prefix="b">
+    	     a written order modifying, terminating, or denying modification or termination of weekly compensation or other benefits.
+        </section>
+        <section prefix="3">
+    	     Any party aggrieved by an order of an administrative judge shall have fourteen days from the filing date of such order within which to file an appeal for a hearing pursuant to section eleven. Such hearing shall be held within twenty-eight days of the department’s receipt of such appeal.
+        </section>
+    </text>
+</law>

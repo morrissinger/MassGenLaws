@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="21" order_by="21" level="2">Labor And Industries</unit>
+        <unit label="chapter" identifier="151A" order_by="151A" level="3">Unemployment Insurance</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Requisitions From State Trust Fund; Investment Board; Deposits;  Investments; Assistance</catch_line>
+    <order_by>57</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall from time to time requisition from the state treasurer as treasurer ex officio of the trust fund such amounts of moneys as he deems necessary for the payment of benefits for a reasonable time and immediately deposit same in the benefit account for the purpose of paying benefits under the provisions of this chapter.
+        </section>
+        <section prefix="b">
+    	     An investment board of three members, hereinafter called the board, the membership of which shall be as provided in the following sentence, is hereby created, and shall be responsible for directing how and to what extent the fund shall from time to time be held, deposited and invested under this chapter. The board shall consist of the state treasurer, the commissioner and the chairman of the state advisory council or their authorized representatives. The board shall perform its duties by the recorded vote of any two of its members and under rules to be adopted by it. Except as otherwise provided in this section and as the board may from time to time determine, not less than twenty nor more than forty per cent of the fund shall either be deposited with the federal reserve bank of Boston, if said bank is authorized to receive and to pay interest on such deposits, or shall be deposited by the commissioner, or shall, at the direction of the board, be held in ear-marked cash either by the commissioner or by the federal reserve bank of Boston, if said bank is authorized to hold such funds for the commonwealth, or in other safe depositories selected by the board. Except as otherwise provided in said section fifty-six, the balance of the fund shall at the direction of the board be invested in any or all of the classes of securities therein referred to. If the fund is so invested, the board may purchase and sell such securities therefor at current market prices, may invest and reinvest the fund from time to time in its discretion, and may, in its discretion, borrow against its investments for current payments. To enable the board to perform its duties under this section, the commissioner shall furnish the board with any necessary assistance duly requested by the board and approved by the commissioner.
+        </section>
+    </text>
+</law>

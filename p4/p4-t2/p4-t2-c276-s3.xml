@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="4" order_by="4" level="1">Crimes, Punishments And Proceedingsin Criminal Cases</unit>
+        <unit label="title" identifier="2" order_by="2" level="2">Proceedings In Criminal Cases</unit>
+        <unit label="chapter" identifier="276" order_by="276" level="3">Search Warrants, Rewards, Fugitives From Justice, Arrest, Examination, Commitment And Bail. Probation Officers And Board Of Probation</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Seizure, Custody And Disposition Of Articles; Exceptions</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Diseased animals or carcasses thereof, or any tainted, diseased, corrupt, decayed or unwholesome meat, fish, vegetables, produce, fruit or provisions of any kind, or the meat of any calf killed when less than two weeks old, or any product thereof kept or concealed with intent to kill, sell or offer the same for sale for food, shall be destroyed or disposed of in accordance with section one hundred and forty-six of chapter ninety-four by the board of health or by an officer designated by the court or justice; and diseased animals found to have been kept or concealed in a particular building, place or enclosure shall be destroyed or disposed of by the division of animal health and department of food and agriculture without compensation to the owners thereof.
+        </section>
+        <section prefix="b">
+    	     Rifles, shotguns, pistols, knives or other dangerous weapons which have been found to have been kept, concealed or used unlawfully or for an unlawful purpose shall be forfeited to the commonwealth and delivered forthwith to the colonel of the state police for destruction or preservation in the discretion of the colonel of the state police.
+        </section>
+        <section prefix="c">
+    	     Money seized under clause Third of section one shall be forfeited and paid over to the state treasurer.
+        </section>
+        <section prefix="d">
+    	     Any property, including money seized under section one, the forfeiture and disposition of which is specified in any general or special law shall be disposed of in accordance therewith.
+        </section>
+    </text>
+</law>

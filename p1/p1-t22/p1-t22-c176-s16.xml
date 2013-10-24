@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="176" order_by="176" level="3">Fraternal Benefit Societies</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Liability Of Officers And Members; Indemnification</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     The officers and members of the supreme, grand or any subordinate body of a society shall not be personally liable for the payment of any benefits provided by a society.
+        </section>
+        <section prefix="b">
+    	     A person may be indemnified and reimbursed by a society for expenses reasonably incurred by, and liabilities imposed upon, such person in connection with or arising out of any action, suit or proceeding, whether civil, criminal, administrative or investigative, or threat thereof, in which the person may be involved by reason of the fact that the person is or was a director, officer, employee or agent of the society or for any firm, corporation or organization which the person served in any capacity at the request of the society. A person shall not be so indemnified or reimbursed (1) in relation to any matter in such action, suit or proceeding as to which the person shall finally be adjudged to be or have been guilty of breach of a duty as a director, officer, employee or agent of the society; or (2) in relation to any matter in such action, suit or proceeding, or threat thereof, which has been made the subject of a compromise settlement, unless in either such case the person acted in good faith for a purpose the person reasonably believed to be in or not opposed to the best interest of the society and, in a criminal action or proceeding, in addition, had no reasonable cause to believe that the person’s conduct was unlawful. The determination of whether the conduct of such person met the standard required in order to justify indemnification and reimbursement in relation to any matter described in clause (1) or (2) of the preceding sentence may only be made by the supreme governing body or board of directors by a majority vote of a quorum consisting of persons who were not parties to such action, suit or proceeding or by a court of competent jurisdiction. The termination of any action, suit or proceeding by judgment, order, settlement, conviction or upon a plea of no contest, as to such person shall not in itself create a conclusive presumption that the person did not meet the standard of conduct required in order to justify indemnification and reimbursement. The foregoing right of indemnification and reimbursement shall not be inclusive of other rights to which such person may be entitled as a matter of law and shall inure to the benefit of the person’s heirs, executors and administrators.
+        </section>
+        <section prefix="c">
+    	     A society shall have power to purchase and maintain insurance on behalf of any person who is or was a director, officer, employee or agent of the society, or who is or was serving at the request of the society as a director, officer, employee or agent of any other firm, corporation or organization against any liability asserted against such person and incurred by the person in any such capacity or arising out of the person’s status as such, whether or not the society would have the power to indemnify the person against such liability under this section.
+        </section>
+        <section prefix="d">
+    	     No director, officer, employee, member or volunteer of a society serving without compensation, shall be liable, and no cause of action may be brought, for damages resulting from the exercise of judgment or discretion in connection with the duties or responsibilities of such person for the society unless such act or omission involved willful or wanton misconduct.
+        </section>
+    </text>
+</law>

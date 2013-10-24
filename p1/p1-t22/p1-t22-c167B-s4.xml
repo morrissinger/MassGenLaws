@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="22" order_by="22" level="2">Corporations</unit>
+        <unit label="chapter" identifier="167B" order_by="167B" level="3">Electronic Branches And Electronic Fund Transfers</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Application To Purchase, Establish, Install, Etc.; Information;  Notice Of Decision</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     the type of electronic branch applied for;
+        </section>
+        <section prefix="b">
+    	     the site location of such electronic branch with a general description of the surrounding area;
+        </section>
+        <section prefix="c">
+    	     the services which may be performed at such electronic branch;
+        </section>
+        <section prefix="d">
+    	     whether the electronic branch will credit or debit a customer’s account immediately or on a delayed basis;
+        </section>
+        <section prefix="e">
+    	     a description of the bonding or the contractual responsibilities for any losses or unauthorized transactions if such electronic branch is manned by a third party employee;
+        </section>
+        <section prefix="f">
+    	     if the electronic branch is to be shared, a list of other participants and a copy of the leasing agreement;
+        </section>
+        <section prefix="g">
+    	     the name and address of the owner of the electronic branch, and if such owner is a subsidiary of another corporation, the name and address of the parent corporation;
+        </section>
+        <section prefix="h">
+    	     details regarding the applicant’s insurance program and, in particular, considerations made relative to the proposed electronic branch;
+        </section>
+        <section prefix="i">
+    	     an outline of the security provisions for the protection of the electronic branch and the customers using it;
+        </section>
+        <section prefix="j">
+    	     the manner in which the electronic branch will be activated;
+        </section>
+        <section prefix="k">
+    	     copies of all agreements or proposed agreements relating to the operation or use relative to such electronic branch;
+        </section>
+        <section prefix="l">
+    	     a copy of any contract between a financial institution and its customers;
+        </section>
+        <section prefix="m">
+    	     if the electronic branch is owned by the applicant, a description of the fixed assets costs and estimated operating expenses; and
+        </section>
+        <section prefix="n">
+    	     any such other information which the commissioner shall require by rules and regulations.
+        </section>
+    </text>
+</law>
