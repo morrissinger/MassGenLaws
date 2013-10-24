@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>105</section_number>
+    <catch_line>Violation Of Regulations</catch_line>
+    <order_by>105</order_by>
+    <text>
+        If a physician or other person who is in any of the hospitals or places of reception mentioned in section ninety-five, or who attends, approaches or is concerned with them, violates a regulation of the board of health relative thereto, he shall forfeit not less than ten nor more than one hundred dollars.
+    </text>
+</law>

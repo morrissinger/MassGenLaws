@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>64E</section_number>
+    <catch_line>Administration Of Hospital; General Trust Fund</catch_line>
+    <order_by>64E</order_by>
+    <text>
+        <section prefix="a">
+    	     to pay for the operating expenses of Cushing Hospital, including administrative and health care delivery services;
+        </section>
+        <section prefix="b">
+    	     for the capital improvement and development of the medical school, including, but not limited to, the repair and maintenance of the present buildings, construction of a new facility, and the acquisition of medical and academic equipment and materials;
+        </section>
+        <section prefix="c">
+    	     to provide compensation, including additional fringe benefits, for employees of the hospital as the board of trustees may authorize and direct; and
+        </section>
+        <section prefix="d">
+    	     for medical research into innovative procedures for the long term care of elderly persons.
+        </section>
+    </text>
+</law>

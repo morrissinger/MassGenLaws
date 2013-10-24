@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110C" order_by="110C" level="3">Regulation Of Take Over Bids In The Acquisition Of Corporations</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Rules And Regulations; Promulgation; Waiver Of Jurisdiction;  Delegation Of Authority</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary may, pursuant to section four hundred and twelve of chapter one hundred and ten A prescribe reasonable rules and regulations or issue orders with respect to particular situations:
+        </section>
+        <section prefix="1">
+    	     Defining any terms used in this chapter including fraudulent, evasive, deceptive, manipulative or grossly unfair practices in connection with take-over bids.
+        </section>
+        <section prefix="2">
+    	     Exempting from this chapter take-over bids not made for the purpose of, and not having the effect of, changing or influencing the control of a target company.
+        </section>
+        <section prefix="3">
+    	     Covering such other matters as are necessary to give effect to this chapter.
+        </section>
+        <section prefix="4">
+    	     Waiving jurisdiction over a take-over bid if he determines that: (i) the take-over bid is subject to the jurisdiction of another state having a statute or regulation similar in purpose and effect to this chapter; (ii) information similar to that specified in section four is required to be filed with the administrator of such other state; (iii) such other state has a greater interest in regulating the take-over bid than the commonwealth, and (iv) the purpose of this chapter will be accomplished and the public interest will be better served by such waiver.
+        </section>
+        <section prefix="b">
+    	     The secretary may delegate to the director of securities the authority to perform any duty and exercise any power assigned to the secretary under the provisions of this chapter.
+        </section>
+    </text>
+</law>

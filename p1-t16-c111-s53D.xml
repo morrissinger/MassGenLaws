@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>53D</section_number>
+    <catch_line>Devises Minimizing Risk Of Injury To Health Care Workers From Hypodermic Syringes Or Needles; Regulations</catch_line>
+    <order_by>53D</order_by>
+    <text>
+        <section prefix="a">
+    	     Any acute or non-acute hospital licensed under this chapter shall ensure the provision of services to individuals through the use of hollow-bore needle devices or other technology that minimize the risk of injury to health care workers from hypodermic syringes or needles, in accordance with rules and regulations promulgated pursuant to subsection (b).
+        </section>
+        <section prefix="b">
+    	     The department shall promulgate rules and regulations requiring the use, at all acute and non-acute hospitals, of only such devices which minimize the risk of injury to health care workers from needlestick and sharps, so-called. Such rules and regulations promulgated by the department shall include the following requirements:—
+        </section>
+        <section prefix="1">
+    	     Written exposure control plans shall be developed by each acute and non-acute hospital that include an effective procedure for identifying and selecting existing sharps prevention technology, so-called, of the types specified by the department.
+        </section>
+        <section prefix="2">
+    	     Sharps injury prevention technology shall be included as engineering or work practice controls, except in cases where the employer or other appropriate party can demonstrate circumstances in which the technology does not promote employee or patient safety or interferes with a medical procedure. Those circumstances shall be specified by the employer and shall include, but not be limited to, circumstances where the technology is medically contraindicated or not more effective than alternative measures used by the employer to prevent exposure incidents. In all cases the department shall make the final determination as to whether an employer or other appropriate party has demonstrated in a satisfactory manner circumstances which warrant an exemption from the inclusion of sharps injury prevention technology.
+        </section>
+        <section prefix="3">
+    	     Information concerning exposure incidents shall be recorded in a sharps injury log to be kept within such acute and non-acute hospitals and reported annually to the department, including but not limited to, the type and brand of device involved in the incident. Such logs shall be used as the basis for continuing quality improvement in reducing sharps injuries through the provision of education and the procurement of improved products. Such logs shall be kept confidential and shall be used only for the intended purposes of this section.
+        </section>
+        <section prefix="4">
+    	     Written exposure control plans shall be updated when necessary to reflect progress in sharps prevention technology as determined by the department.
+        </section>
+        <section prefix="c">
+    	     The department shall promulgate all rules and regulations pursuant to this section in consultation with an advisory committee composed of, but not limited to: the department’s director of infectious disease, a consumer to be selected by the commissioner, a technical expert to be selected by the commissioner, and a representative from the Massachusetts Nurses Association, the Massachusetts Association of Occupational and Environmental Medicine, the Massachusetts Medical Society and the Massachusetts Hospital Association.
+        </section>
+    </text>
+</law>

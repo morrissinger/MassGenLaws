@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108" order_by="108" level="3">Criminal Offences Relative To Bills Of Lading</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>False Statement In Bill</catch_line>
+    <order_by>43</order_by>
+    <text>
+        An officer, agent, or servant of a carrier, who with intent to defraud issues, or aids in issuing, a bill for goods, knowing that it contains a false statement, shall be punished by a fine of not more than one thousand dollars or by imprisonment for not more than one year, or both.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110C" order_by="110C" level="3">Regulation Of Take Over Bids In The Acquisition Of Corporations</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Banking Or Public Utility Corporations; Copies Of Filed Material Furnished To Regulatory Body</catch_line>
+    <order_by>8</order_by>
+    <text>
+        If the offeror or the target company is a banking corporation subject to regulation by the commissioner of banks, or a public utility corporation subject to regulation by the department of public utilities or the department of telecommunications and cable, the secretary shall forthwith, upon receipt of the filing required under section two, furnish a copy of such filing to the regulatory body having jurisdiction over the offeror or target company.
+    </text>
+</law>

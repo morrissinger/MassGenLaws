@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111M" order_by="111M" level="3">Individual Health Coverage</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Duty For Certain Adults To Obtain And Maintain Creditable Coverage;  Reporting Of Coverage On Tax Return; Penalties For Violation</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     As of July 1, 2007, the following individuals age 18 and over shall obtain and maintain creditable coverage so long as it is deemed affordable under the schedule set by the board of the connector, established by chapter 176Q: (1) residents of the commonwealth; or (2) individuals who become residents of the commonwealth within 63 days, in the aggregate. Residents who within 63 days have terminated any prior creditable coverage, shall obtain and maintain creditable coverage within 63 days of such termination.
+        </section>
+        <section prefix="b">
+    	     Every person who files or is required to file an individual income tax return as a resident of the commonwealth, either separately or jointly with a spouse, shall indicate on the return, in a manner prescribed by the commissioner of revenue, whether such person (i) had creditable coverage in force for each of the 12 months of the taxable year for which the return is filed as required under paragraph (a) whether covered as an individual or as a named beneficiary of a policy covering multiple individuals, (ii) claims an exemption under section 3, or (iii) had a certificate issued under section 3 of chapter 176Q. If the person fails to indicate or indicates that he did not have such coverage in force, then a penalty shall be assessed on the return. If the person indicates that he had such coverage in force but the commissioner determines, based on the information available to him, that such requirement of paragraph (a) was not met, then the commissioner shall assess the penalty. If in any taxable year, in whole or in part, a taxpayer does not comply with the requirement of paragraph (a), the commissioner shall retain any amount overpaid by the taxpayer for purposes of making payments described in paragraph (c); provided, however, that the amount retained shall not exceed 50 per cent of the minimum insurance premium for creditable coverage available through the commonwealth health insurance connector for which the individual would have qualified during the previous year. The penalty shall be assessed for each of the months the individual did not meet the requirement of paragraph (a); provided, that any lapse in coverage of 63 days or less shall not be counted in calculating the penalty; and, provided further, that nothing in this paragraph shall be considered to authorize the commissioner to retain any amount for such purposes that otherwise would be paid to a claimant agency or agencies as debts described in clauses (i) to (vii), inclusive, of section 13 of chapter 62D. If the amount retained is insufficient to meet the penalty assessed, the commissioner shall notify the taxpayer of the balance due on the penalty and related interest. The commonwealth shall have all enforcement and collection procedures available under chapter 62C to collect any penalties assessed under this section.
+        </section>
+        <section prefix="c">
+    	     The commissioner shall deposit all penalties assessed under this section that he collects into the Commonwealth Care Trust Fund, established by section 2OOO of chapter 29.
+        </section>
+    </text>
+</law>

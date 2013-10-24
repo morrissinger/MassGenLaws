@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>94C</section_number>
+    <catch_line>Court Commitment To Tuberculosis Treatment Center; Procedure;  Notice; Hearing</catch_line>
+    <order_by>94C</order_by>
+    <text>
+        <section prefix="1">
+    	     If the petition is filed by the commissioner of public health or his agent under section ninety-four A in a nonemergency situation, the court shall appoint two physicians experienced in the diagnosis, care and treatment of tuberculosis to examine the person and report to the court on his condition and on his willingness and ability to accept proper medical treatment, and to give their opinion on whether or not it would be a serious danger to the public health to allow the person to be unhospitalized. Neither of these physicians shall be on the full-time staff of a state, county or municipal tuberculosis hospital.
+        </section>
+        <section prefix="2">
+    	     If the petition is filed by the superintendent of the tuberculosis treatment center under section ninety-four A or ninety-four B, or under section ninety-four B by the superintendent or manager of another sanatorium or hospital, the judge shall give notice to the patient of his right to a hearing on the matter of his commitment. If a hearing is requested it shall be granted and the commitment procedure and medical examination shall be conducted in compliance with paragraph (1). If no hearing is requested the judge may, on the basis of the petition of the superintendent and on such other evidence as he may require, order the person committed.
+        </section>
+    </text>
+</law>

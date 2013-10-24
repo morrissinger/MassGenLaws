@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     “Clinical Laboratory”, a facility or place, however named, the purpose of which is to make biological, serological, chemical, immuno-hematological, cytological, pathological, or other examinations of materials derived from a human body.
+        </section>
+        <section prefix="2">
+    	     “Commissioner”, the commissioner of public health.
+        </section>
+        <section prefix="3">
+    	     “Company”, a corporation, a partnership, an association, or an organized group of persons, whether incorporated or not.
+        </section>
+        <section prefix="4">
+    	     “Complex laboratory test”, a test which requires sophisticated technique, interpretation of multiple signals or proven technical skill. Such test shall require, but not be limited to, one or more of the following steps:—(a) highly skilled physical manipulation; (b) technique dependent steps in the testing, sampling or reading of results; (c) user programming of the device or devices; (d) detailed calculation of the results; (e) dilution of samples with chemically reactive substances; or (f) preparation of reagents.
+        </section>
+        <section prefix="5">
+    	     “Department”, the department of public health in the executive office of human services.
+        </section>
+        <section prefix="6">
+    	     “Exempt test”, a test which is generally noninstrumental in nature, and the results of which are determined by observation of a visual signal.
+        </section>
+        <section prefix="7">
+    	     “Person” and “whoever” shall include corporations, societies, associations, partnership, an individual or his estate upon his death, and a political subdivision of the commonwealth, but not an agency of the commonwealth.
+        </section>
+        <section prefix="8">
+    	     “Simple laboratory test”, a test which may require a series of steps, reagent additions or instrumentation, and the results of which are generally determined by a visual signal, but which is not a complex laboratory test as defined in clause (4).
+        </section>
+    </text>
+</law>

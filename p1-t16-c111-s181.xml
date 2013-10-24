@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>181</section_number>
+    <catch_line>Enforcement Of Vaccination Of Inhabitants Of Towns</catch_line>
+    <order_by>181</order_by>
+    <text>
+        Boards of health, if in their opinion it is necessary for public health or safety, shall require and enforce the vaccination and revaccination of all the inhabitants of their towns, and shall provide them with the means of free vaccination. Whoever refuses or neglects to comply with such requirement shall forfeit five dollars.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>101</section_number>
+    <catch_line>Qualifications Of Applicants; Practice By Associations</catch_line>
+    <order_by>101</order_by>
+    <text>
+        <section prefix="a">
+    	     he is at least twenty-three years of age and of good moral character;
+        </section>
+        <section prefix="b">
+    	     he is a citizen of the United States or has legally declared his intention of so becoming;
+        </section>
+        <section prefix="c">
+    	     he has completed the course of study and been graduated from a college or school of landscape architecture approved by the board and that he has had two years of practical experience in landscape architectural work of a grade and character satisfactory to the board. In lieu of graduation from an approved college or school of landscape architecture, and the practical experience in addition thereto, an applicant may take the examination upon presenting evidence of at least six years of practical experience in landscape architectural work of a grade and character satisfactory to the board. Credit may be given for approved college education at the discretion of the board.
+        </section>
+    </text>
+</law>

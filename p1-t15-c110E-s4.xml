@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110E" order_by="110E" level="3">Regulation Of Control Share Acquisitions Of Foreign Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Special Meeting Of Stockholders; Notice</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     If the person delivering the control share acquisition statement so demands in writing contemporaneously with the delivery of such control share acquisition statement, the board of directors of the issuing public corporation, within ten days after the receipt of the demand, shall call a special meeting of stockholders for the purpose of considering whether voting rights shall be authorized for the shares acquired or to be acquired in the control share acquisition. The demand will not be effective unless accompanied by an undertaking to pay the corporation’s reasonable expenses in connection with the special meeting but not including the expenses of the corporation incurred in opposing a vote to authorize voting rights for the shares acquired or proposed to be acquired in the control share acquisition. As promptly as reasonably practicable after the board has called the special meeting, the corporation shall give written notice of the special meeting to stockholders. Such notice shall be given not less than twenty days before the date of the special meeting. Unless the person delivering the control share acquisition statement and the corporation shall agree in writing to a later date, the special meeting shall be held not more than fifty days after the receipt by the corporation of the demand. If the person delivering the control share acquisition statement so requests in the demand, the special meeting will be held no sooner than thirty days after receipt by the corporation of the demand.
+        </section>
+        <section prefix="b">
+    	     If no demand respecting a special meeting of the issuing public corporation’s stockholders is made in accordance with the provisions of subsection (a), consideration of the voting rights to be authorized for the shares acquired or to be acquired in the control share acquisition shall be presented at the next annual or special meeting of the corporation’s stockholders notice of which has not been given prior to the receipt by the corporation of the control share acquisition statement.
+        </section>
+        <section prefix="c">
+    	     The notice to the issuing public corporation’s stockholders of any annual or special meeting at which the voting rights to be accorded shares acquired or proposed to be acquired in a control share acquisition are to be considered shall be directed to all stockholders of record of the issuing public corporation as of the record date set for such meeting. Such notice shall include or be accompanied by a copy of the control share acquisition statement received by the issuing public corporation pursuant to this chapter and such other information as the issuing public corporation deems appropriate.
+        </section>
+    </text>
+</law>

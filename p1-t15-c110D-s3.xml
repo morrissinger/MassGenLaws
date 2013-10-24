@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110D" order_by="110D" level="3">Regulation Of Control Share Acquisitions</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Delivery Of Control Share Acquisition Statement; Contents</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="i">
+    	     the identity of such person and any associate of such person who intends to acquire or has acquired beneficial ownership of shares of the issuing public corporation;
+        </section>
+        <section prefix="ii">
+    	     a statement that such control share acquisition statement is being made and delivered pursuant to the provisions of this chapter;
+        </section>
+        <section prefix="iii">
+    	     the number and class or series of shares of the issuing public corporation beneficially owned by such person and each associate of such person prior to the control share acquisition;
+        </section>
+        <section prefix="iv">
+    	     the number and class or series of shares acquired or proposed to be acquired by such person pursuant to the control share acquisition and the range of voting power to which the control share acquisition is or, if consummated, would be subject pursuant to the provisions of subsection (c) of section one;
+        </section>
+        <section prefix="v">
+    	     a description of the terms and conditions of the proposed or completed control share acquisition, including but not limited to the prices paid by such person in the control share acquisition and the dates upon which the shares were acquired; and
+        </section>
+        <section prefix="vi">
+    	     if the control share acquisition has not been completed, a representation by such person that such person has the financial capacity to consummate the proposed control share acquisition, together with a statement in reasonable detail of the material facts upon which such representation is based.
+        </section>
+    </text>
+</law>

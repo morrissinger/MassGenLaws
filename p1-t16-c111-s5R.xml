@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>5R</section_number>
+    <catch_line>Definitions; Distribution And Sale Of Household Cleansing Products Containing Phosphorus; Limitations; Violations</catch_line>
+    <order_by>5R</order_by>
+    <text>
+        <section prefix="1">
+    	     the amount of elemental phosphorus by weight as measured to the nearest one-tenth of one percent;
+        </section>
+        <section prefix="2">
+    	     a list naming each ingredient which equals or exceeds five percent of the contents of the product by weight and specifying the content by weight of each ingredient to the nearest percent;
+        </section>
+        <section prefix="3">
+    	     a list naming each ingredient which does not equal or exceed five percent of the contents of the product by weight; provided, however, that ingredients which are present in trace quantities need not be included on such list unless the commissioner specifically requires the listing of one or more of such ingredients by weight to the nearest percent; and
+        </section>
+        <section prefix="4">
+    	     the nature and extent of investigations and research performed by or for the manufacturer concerning the effects on human health and the environment of such product or such ingredients. Ingredients shall be listed using the generic chemical name which conforms with generally accepted rules of chemical nomenclature.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23L</section_number>
+    <catch_line>Practice Of Medicine Or Other Form Of Healing</catch_line>
+    <order_by>23L</order_by>
+    <text>
+        Nothing in this section shall be construed as authorizing an athletic trainer, occupational therapist, occupational therapy assistant, physical therapist, or physical therapist assistant to practice medicine or any other form or method of healing not specified in said section.
+    </text>
+</law>

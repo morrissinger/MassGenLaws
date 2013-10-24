@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Annual Report Of District Health Officer</catch_line>
+    <order_by>19</order_by>
+    <text>
+        Every such officer shall keep a record of his proceedings and observations, shall annually on or before December first make a report thereof to the department, shall from time to time furnish the department with such information as it may require of circumstances affecting the public health in his district, and shall in every instance where a written suggestion is made by him to the local authorities send a copy of such suggestion to said department.
+    </text>
+</law>

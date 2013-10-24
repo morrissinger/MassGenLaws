@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>96A</section_number>
+    <catch_line>Transportation Of Person Infected With Dangerous Disease To Another Town</catch_line>
+    <order_by>96A</order_by>
+    <text>
+        No town shall transport or permit to be transported to another town any person infected with a disease dangerous to the public health, without first obtaining the assent of the board of health of the town to which the patient is to be transported; but this requirement shall not apply to transportation to a hospital except under section ninety-six.
+    </text>
+</law>

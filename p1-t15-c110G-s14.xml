@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Automated Transactions; Contracts</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="1">
+    	     A contract may be formed by the interaction of electronic agents of the parties, even if no individual was aware of or reviewed the electronic agents’ actions or the resulting terms and agreements.
+        </section>
+        <section prefix="2">
+    	     A contract may be formed by the interaction of an electronic agent and an individual, acting on the individual’s own behalf or for another person, including by an interaction in which the individual performs actions that the individual is free to refuse to perform and which the individual knows or has reason to know will cause the electronic agent to complete the transaction or performance.
+        </section>
+        <section prefix="3">
+    	     The terms of the contract are determined by the substantive law applicable to it.
+        </section>
+    </text>
+</law>

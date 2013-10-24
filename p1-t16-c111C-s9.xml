@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Provision Of Emergency Medical Services; Certification Of Individuals; Restrictions On Advertising</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall provide EMS or hold oneself out as, or use the title of EMS first responder, basic or intermediate emergency medical technician or paramedic, or the acronym EMT, or any other title or acronym used by the department in the certification of EMS personnel under this chapter, unless such person has successfully completed the appropriate course in emergency medical care approved by the department pursuant to this chapter or offered by a course sponsor accredited by the department pursuant to this chapter, or has received the appropriate training in the provision of emergency medical care which, subject to such regulations as the department may establish, the department finds to be substantially equivalent to that provided by the equivalent full courses in emergency medical care approved by the department pursuant to this chapter or offered by a course sponsor accredited by the department pursuant to this chapter, and unless in each year following completion of such course such person participates satisfactorily in an appropriate supplemental course in emergency medical care approved by the department pursuant to this chapter; provided, however, that the department may, under such regulations as it may establish, grant a temporary waiver of such requirements; and provided, further, that the department may, under such regulations as it may establish, issue provisional certification to a person who has applied to the department for a finding of substantial equivalency under this section, which provisional certification shall be valid until the department rules on such application. The department shall certify or approve EMS personnel who have successfully completed such course or such substantial equivalent in emergency medical care as an EMS first responder or as an emergency medical technician. Notwithstanding the requirements listed above, additional personnel, beyond the minimum staffing requirements for EMS vehicles established by regulation, may function on an EMS vehicle in a capacity defined in regulation. Additional personnel may be exempt from the full course in emergency medical care required by the department for EMS first responder and emergency medical technician certification; provided, however, that they fulfill all training and other requirements for additional personnel that the department shall establish by regulation.
+        </section>
+        <section prefix="b">
+    	     No person shall advertise by any means, including, without limitation, signs or symbols on an EMS vehicle, that he operates or maintains an EMS first response service or an ambulance service unless the service is licensed and the EMS vehicles and personnel are certified as required by this chapter. No EMS first response service or ambulance service shall engage in any advertising which is deceptive or misleading to the public or for services other than those for which the service is licensed, and for which its EMS vehicles and personnel are certified.
+        </section>
+    </text>
+</law>

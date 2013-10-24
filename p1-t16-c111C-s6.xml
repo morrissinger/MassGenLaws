@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Ems First Response Service Or Ambulance Service; Application;  License; Renewal; Provisional License</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who proposes to establish or maintain an EMS first response service or an ambulance service shall file an application with the department, containing such information as the department may require, including,without limitation, the identity of the applicant, and any parent or affiliated entity, the level of service proposed and the number of emergency medical services vehicles for which application is made.
+        </section>
+        <section prefix="b">
+    	     Upon receipt and review of an application for a license, the department shall issue a license if it finds that the applicant is responsible and suitable to establish or maintain the proposed service and meets such requirements as the department may establish by regulation for a service license. Such requirements shall include, without limitation, the responsibility to dispatch EMS personnel and vehicles and transport patients to the appropriate hospital or other health care facility as necessary, and to participate in the local, regional and state EMS system. No original or renewal license shall be issued under this subsection, except in the case of a service owned or operated by an agency or political subdivision of the commonwealth, unless the applicant has received and there is in effect a contract of insurance conforming to the regulations promulgated by the department, subject to chapter 175.
+        </section>
+        <section prefix="c">
+    	     In the case of a renewal application, the department may, subject to such regulations as it may promulgate, issue a provisional license to an applicant that does not meet the requirements under this section; provided, however, that the applicant has demonstrated to the department’s satisfaction a good faith intention to meet such requirements; and, provided further, that the department finds that the applicant provides adequate emergency medical care and evidences a potential for full licensure within a reasonable period, not to exceed six months. The department, however, shall in no case issue a person more than two consecutive provisional licenses for the same service.
+        </section>
+        <section prefix="d">
+    	     The department shall set forth in every license which it issues under this section the name and address of the person to whom such license is issued, the period for which such license is issued, the classification or level of service, if any, for which such license is issued, the number and classification of EMS vehicles to be operated under the license, the conditions as to transfer and assignment prescribed by law, and such other terms of issuance as the department may, in the public interest, prescribe as necessary or appropriate. The department shall fix the period of a provisional license for no more than six months, and it shall fix the period of a full license for no more than 24 months.
+        </section>
+        <section prefix="e">
+    	     A complete renewal application properly filed with the department shall have the effect of a license, on all the same terms and conditions as the previously issued license, until the department acts on the application.
+        </section>
+    </text>
+</law>

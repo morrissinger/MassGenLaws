@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Information Concerning Type, Volume, Radioactivity, Source And Characteristics Of Low Level Radioactive Waste; Inspections;  Confidentiality</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of ensuring the accuracy and completeness of the low-level radioactive waste management plan or of determining compliance with this chapter or any regulations adopted hereunder, each person who generates, treats, stores, transports or disposes of low-level radioactive waste within the commonwealth shall annually, and at such other times as requested by the department of public health, provide detailed and accurate information concerning the type, volume, radioactivity, source and characteristics of the low-level radioactive waste which such person generates, treats, stores, transports or disposes of; as well as such person’s current and projected low-level radioactive waste management activities, including source minimization, volume minimization, on-site storage, treatment, packaging and transportation practices and such other information as the board or the department of public health deems necessary. The duly authorized inspectors of said department may, at all reasonable times, enter and examine any property, facility, or activity involving the management of low-level radioactive waste. The owner, operator and other person in charge of the property, facility, or activity, shall afford such inspectors unfettered access, equivalent to access provided to persons regularly employed at such property, facility or activity, following proper identification and compliance with applicable access control measures for security, radiological protection and personal safety. Such inspectors are authorized to make such inspections, conduct such tests, reviews, studies, monitoring, or sampling or examine books, papers and records as said department deems necessary for the administration or enforcement of this chapter.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding the provisions of any general or special law to the contrary, any information, record or particular part thereof, obtained by the department of public health pursuant to the provisions of this chapter, shall, upon request by the owner or proprietor thereof, be kept confidential and not be considered to be a public record when it is determined by said department that such information, record, or report, relates to secret processes or methods of manufacture or production, or that such information, record or report, if made public, would divulge a trade secret. Nothing in this section shall prevent use of such information in the preparation of the management plan, or of any summary or statistical compilation of information obtained by said department.
+        </section>
+        <section prefix="c">
+    	     All procurement activities and all payments made under contracts entered into pursuant to this chapter including any development contract and any comprehensive operating contract, shall be deemed to be within the jurisdiction of the office of the inspector general in accordance with chapter twelve A.
+        </section>
+    </text>
+</law>

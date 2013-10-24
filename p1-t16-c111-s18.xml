@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Powers And Duties Of District Health Officer</catch_line>
+    <order_by>18</order_by>
+    <text>
+        Every district health officer shall inform himself respecting the sanitary condition of his district and concerning all influences dangerous to the public health or threatening to affect the same; he shall gather all information possible concerning the prevalence of tuberculosis and other diseases dangerous to the public health within his district, shall disseminate knowledge as to the best methods of preventing the spread of such diseases, and shall take such steps as, after consultation with the department and the local authorities, shall be deemed advisable for their eradication.
+    </text>
+</law>

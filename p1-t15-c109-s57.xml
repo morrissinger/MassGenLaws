@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>57</section_number>
+    <catch_line>Proper Plaintiff</catch_line>
+    <order_by>57</order_by>
+    <text>
+        In a derivative action, the plaintiff must be a partner at the time of bringing the action and (1) at the time of the transaction of which he complains or (2) his status as a partner had devolved upon him by operation of law or pursuant to the terms of the partnership agreement from a person who was a partner at the time of the transaction.
+    </text>
+</law>

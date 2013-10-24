@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110F" order_by="110F" level="3">Business Combinations With Interested Shareholders</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Applicability Of Restrictions; Notice; Election To Be Governed By This Chapter</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     the corporation’s original articles of organization contain a provision expressly electing not to be governed by this section;
+        </section>
+        <section prefix="b">
+    	     the corporation, by action of its board of directors, adopts an amendment to its by-laws within ninety days of the effective date of this chapter, expressly electing not to be governed by this chapter, which amendment shall not be further amended by the board of directors;
+        </section>
+        <section prefix="c">
+    	     the corporation, by action of its stockholders, adopts an amendment of its articles of organization or by-laws expressly electing not to be governed by this chapter; provided, however, that in addition to any other vote required by law, such amendment to the articles of organization or by-laws must be approved by the affirmative vote of a majority of the shares entitled to vote. An amendment adopted pursuant to this paragraph shall not be effective until twelve months after the adoption of such amendment and shall not apply to any business combination between such corporation and any person who became an interested stockholder of such corporation on or prior to the date of such adoption. A by-law amendment adopted pursuant to this paragraph shall not be further amended by the board of directors;
+        </section>
+        <section prefix="d">
+    	     the corporation does not have two hundred or more stockholders of record;
+        </section>
+        <section prefix="e">
+    	     the corporation does not have: (1) its principal executive office or substantial assets within the commonwealth unless as a result of action taken directly or indirectly by an interested stockholder; and (2) either more than ten percent of its stockholders of record residing within the commonwealth or more than ten percent of its issued and outstanding shares owned of record by residents of the commonwealth.
+        </section>
+        <section prefix="f">
+    	     a stockholder becomes an interested stockholder inadvertently and (1) as soon as practicable divests sufficient shares so that the stockholder ceases to be an interested stockholder; and (2) would not, at any time within the three year period immediately prior to a business combination between the corporation and such stockholder, have been an interested stockholder but for the inadvertent acquisition; or
+        </section>
+        <section prefix="g">
+    	     the business combination is proposed prior to the consummation or abandonment of and subsequent to the earlier of the public announcement or the notice required hereunder of a proposed transaction which: (1) constitutes one of the transactions described in clause (ii) of paragraph (3); (2) is with or by a person who either was not an interested stockholder during the previous three years or who became an interested stockholder with the approval of the corporation’s board of directors; and (3) is approved or not opposed by a majority of the members of the board of directors then in office, but not less than one, who were directors prior to any person becoming an interested stockholder during the previous three years or were recommended for election or elected to succeed such directors by a majority of such directors. The proposed transactions referred to in the preceding sentence shall be limited to:
+        </section>
+        <section prefix="i">
+    	     a merger or consolidation of the corporation, except for a merger in respect of which, pursuant to section 11.05 of chapter 156D, no vote of the stockholders of the corporation is required;
+        </section>
+        <section prefix="ii">
+    	     a sale, lease, exchange, mortgage, pledge, transfer or other disposition, in one transaction or a series of transactions, whether as part of a dissolution or otherwise, of assets of the corporation or of any direct or indirect majority-owned subsidiary of the corporation, other than to any direct or indirect wholly-owned subsidiary or to the corporation, having an aggregate market value equal to fifty percent or more of either that aggregate market value of all of the assets of the corporation determined on a consolidated basis or the aggregate market value of all the outstanding stock of the corporation; or
+        </section>
+        <section prefix="iii">
+    	     a proposed tender or exchange offer for fifty percent or more of the outstanding voting stock of the corporation.
+        </section>
+    </text>
+</law>

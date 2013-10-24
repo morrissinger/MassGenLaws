@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Limited Partners</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     A person becomes a limited partner on the later of:
+        </section>
+        <section prefix="1">
+    	     the date the original certificate of limited partnership is filed; or
+        </section>
+        <section prefix="2">
+    	     the date stated in the records of the limited partnership as the date that person becomes a limited partner.
+        </section>
+        <section prefix="b">
+    	     After the filing of a limited partnership’s original certificate of limited partnership, a person may be admitted as an additional limited partner:
+        </section>
+        <section prefix="1">
+    	     in the case of a person acquiring a partnership interest directly from the limited partnership, upon compliance with the partnership agreement or, if the partnership agreement does not so provide, upon the written consent of all partners; and
+        </section>
+        <section prefix="2">
+    	     in the case of an assignee of a partnership interest of a partner who has the power, as provided in section forty-two, to grant the assignee the right to become a limited partner, upon the exercise of that power and compliance with any conditions limiting the grant or exercise of the power.
+        </section>
+    </text>
+</law>

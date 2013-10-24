@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>103</section_number>
+    <catch_line>Fees</catch_line>
+    <order_by>103</order_by>
+    <text>
+        <section prefix="a">
+    	     Annual registration fee on or before the thirty-first day of January of each year, if not so paid, a penalty shall be added to the amount thereof.
+        </section>
+        <section prefix="b">
+    	     Failure to renew certificate of registration within sixty days after notification by the board that his certificate has expired, shall, before again using the title of landscape architect within the commonwealth, be required to reregister, and may be required by the board to be reexamined.
+        </section>
+        <section prefix="c">
+    	     Application fee for examination.
+        </section>
+        <section prefix="d">
+    	     An original certificate.
+        </section>
+        <section prefix="e">
+    	     A duplicate certificate.
+        </section>
+    </text>
+</law>

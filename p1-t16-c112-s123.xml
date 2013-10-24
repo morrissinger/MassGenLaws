@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Penalties; Exemptions</catch_line>
+    <order_by>123</order_by>
+    <text>
+        <section prefix="a">
+    	     persons eligible for licensure under section 119 who provide consultative services for a fee no more than one day a month; or
+        </section>
+        <section prefix="b">
+    	     students of psychology, psychological interns or persons preparing for the practice of psychology under qualified supervision in a recognized training institution or facility; provided, however, that they are designated by such titles as “psychological intern”, “psychological trainee” or other title clearly indicating such training status.
+        </section>
+    </text>
+</law>

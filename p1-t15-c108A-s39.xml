@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Rights Of Partner Entitled To Rescind Partnership</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     To a lien on, or right of retention of, the surplus of the partnership property after satisfying the partnership liabilities to third persons for any sum of money paid by him for the purchase of an interest in the partnership and for any capital or advances contributed by him; and
+        </section>
+        <section prefix="b">
+    	     To stand, after all liabilities to third persons have been satisfied, in the place of the creditors of the partnership for any payments made by him in respect of the partnership liabilities; and
+        </section>
+        <section prefix="c">
+    	     To be indemnified by the person guilty of the fraud or making the representation against all debts and liabilities of the partnership.
+        </section>
+    </text>
+</law>

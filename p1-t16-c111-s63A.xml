@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>63A</section_number>
+    <catch_line>Admissions To Hospital</catch_line>
+    <order_by>63A</order_by>
+    <text>
+        Subject to such rules and regulations as the department may provide, the superintendent of any hospital administered by the department shall be authorized to admit to any such hospital any person, including any person who is mentally ill, or suffering from an intellectual disability or suffering from any other mental disability, providing the admitting hospital is suitable for the care and treatment of such person.
+    </text>
+</law>

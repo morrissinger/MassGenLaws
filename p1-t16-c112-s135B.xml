@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>135B</section_number>
+    <catch_line>Confidential Communications; Testimonial Privilege</catch_line>
+    <order_by>135B</order_by>
+    <text>
+        <section prefix="a">
+    	     If a social worker, in the course of making a diagnosis or treating the client, determines that the client is in need of treatment in a hospital for mental or emotional illness or that there is a threat of imminently dangerous activity by the client against himself or another person, and on the basis of such determination discloses such communication either for the purpose of placing or retaining the client in such hospital; provided, however, that the provisions of this section shall continue in effect after the client is in said hospital, or placing the client under arrest or under the supervision of law enforcement authorities;
+        </section>
+        <section prefix="b">
+    	     If a judge finds that the client, after having been informed that the communications would not be privileged, has made communications to a social worker in the course of a psychiatric examination ordered by the court; provided, however, that such communications shall be admissible only on issues involving the client’s mental or emotional condition but not as a confession or admission of guilt;
+        </section>
+        <section prefix="c">
+    	     In any proceeding, except one involving child custody, adoption or adoption consent, in which the client introduces his mental or emotional condition as an element of his claim or defense, and the judge or presiding officer finds that it is more important to the interests of justice that the communication be disclosed than that the relationship between the client and the social worker be protected;
+        </section>
+        <section prefix="d">
+    	     In any proceeding after the death of a client in which his mental or emotional condition is introduced by any party claiming or defending through or as a beneficiary of the client as an element of the claim or defense, and the judge or presiding officer finds that it is more important to the interests of justice that the communication be disclosed than that the relationship between client and social worker be protected;
+        </section>
+        <section prefix="e">
+    	     In the initiation of proceedings under paragraph C of section twenty-three or under section twenty-four of chapter one hundred and nineteen, or section three of chapter two hundred and ten or to give testimony in connection therewith;
+        </section>
+        <section prefix="f">
+    	     In any proceeding whereby the social worker has acquired the information while conducting an investigation pursuant to section fifty-one B of chapter one hundred and nineteen;
+        </section>
+        <section prefix="g">
+    	     In any other case involving child custody, adoption or the dispensing with the need for consent to adoption in which, upon a hearing in chambers, the judge, in the exercise of his discretion, determines that the social worker has evidence bearing significantly on the client’s ability to provide suitable care or custody, and that it is more important to the welfare of the child that the communication be disclosed than that the relationship between client and social worker be protected; provided, however, that in such case of adoption or the dispensing with the need for consent to adoption, a judge shall determine that the client has been informed that such communication would not be privileged; or
+        </section>
+        <section prefix="h">
+    	     In any proceeding brought by the client against the social worker and in any malpractice, criminal or license revocation proceeding in which disclosure is necessary or relevant to the claim or defense of the social worker.
+        </section>
+    </text>
+</law>

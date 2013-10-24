@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23N</section_number>
+    <catch_line>Athletic Trainers; Necessity For Licensure</catch_line>
+    <order_by>23N</order_by>
+    <text>
+        No person shall hold himself out as an athletic trainer or as being able to practice athletic training or to render athletic training services in this commonwealth unless he is licensed in accordance with section twenty-three B.
+    </text>
+</law>

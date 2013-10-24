@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>197C</section_number>
+    <catch_line>Child Exhibiting Dangerous Blood Lead Level After Issuance Of Letters Of Compliance Or Interim Control; Liability</catch_line>
+    <order_by>197C</order_by>
+    <text>
+        <section prefix="a">
+    	     If, after the issuance of a letter of full compliance pursuant to subsection (c) of section one hundred and ninety-seven, a child under the age of six exhibits a blood lead level in excess of the level considered dangerous to the child’s immediate health as determined by the department, the director shall immediately review the appropriateness of the issuance and take such corrective measures as may be necessary. If after such a review, the director determines the issuance to be appropriate, the department shall conduct an environmental investigation to determine, to the extent possible, the cause of said excess blood lead level. In no event shall an owner of premises which have been issued a letter of full compliance be held strictly liable for injury or damage caused by exposure to dangerous levels of lead during such time that said letter of full compliance was in effect. Notwithstanding the provisions of this subsection, the owner shall remain subject to a standard of reasonable care relative to compliance within the provisions of sections one hundred and eighty-nine A to one hundred and ninety-nine B, inclusive.
+        </section>
+        <section prefix="b">
+    	     If, after issuance of a letter of interim control and during compliance with provisions of an emergency lead management plan, pursuant to subsection (b) of section one hundred and ninety-seven, a child under the age of six exhibits a blood lead level in excess of the level considered dangerous to the child’s immediate health as determined by the department, the department shall immediately review said interim controls and may alter any emergency lead management plan and letter of interim control previously issued so as to require the immediate abatement or containment of dangerous levels of lead in the premises wherein said child resides. In no event shall an owner in possession of a letter of interim control be held strictly liable for injury or damage caused by exposure to dangerous levels of lead during such time the letter of interim control is in effect.
+        </section>
+    </text>
+</law>

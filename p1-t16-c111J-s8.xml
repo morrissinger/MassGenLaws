@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111J" order_by="111J" level="3">Alcohol And Drug Counselors</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>License Without Examination; Applicant Licensed Or Certified In Another State</catch_line>
+    <order_by>8</order_by>
+    <text>
+        The department may issue a license without examination to an applicant whose qualifications meet the requirements for licensure established by the department if such applicant is licensed or certified in alcohol and drug counseling or a comparable field in another state wherein the requirements for licensure are deemed by the department to be equivalent to or in excess of the requirements of this chapter.
+    </text>
+</law>

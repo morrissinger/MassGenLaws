@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>65A</section_number>
+    <catch_line>Admission To Lakeville Hospital</catch_line>
+    <order_by>65A</order_by>
+    <text>
+        The department may admit to the Lakeville hospital persons suffering from extra-pulmonary tuberculosis, persons crippled by poliomyelitis (infantile paralysis), arthritis or muscular dystrophy and other similar diseases, aging persons, crippled children as defined in the regulations of the department, and persons with chronic diseases; provided, that preference shall be given to citizens of the commonwealth.
+    </text>
+</law>

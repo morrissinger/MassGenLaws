@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>119</section_number>
+    <catch_line>Application; Contents And Requirements</catch_line>
+    <order_by>119</order_by>
+    <text>
+        <section prefix="a">
+    	     is of good moral character;
+        </section>
+        <section prefix="b">
+    	     has received a doctoral degree in psychology from a recognized educational institution;
+        </section>
+        <section prefix="c">
+    	     has engaged for the equivalent of at least two years full time, at least one year of which was subsequent to his receiving the doctoral degree, in psychological employment, teaching, research or professional practice under the supervision of or in collaboration with a licensed psychologist, or one clearly eligible for licensure in the opinion of the board; and
+        </section>
+        <section prefix="d">
+    	     conducts his professional activities in accordance with accepted standards such as the Ethical Standards of Psychologists of the American Psychological Association.
+        </section>
+    </text>
+</law>

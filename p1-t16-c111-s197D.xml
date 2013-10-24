@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>197D</section_number>
+    <catch_line>Secured Lenders; Liability</catch_line>
+    <order_by>197D</order_by>
+    <text>
+        <section prefix="a">
+    	     No secured lender shall be considered an owner for purposes of sections one hundred and eighty-nine A to one hundred and ninety-nine B, inclusive, unless and until such secured lender has acquired legal title pursuant to applicable law, and takes actual physical possession, at which point he shall be considered an owner; provided, however, that a secured lender who has acquired legal title pursuant to applicable law shall be liable in any action brought pursuant to section one hundred and ninety-nine only to the following extent:—
+        </section>
+        <section prefix="b">
+    	     A secured lender who has acquired legal title pursuant to applicable law of premises in which any paint, plaster or other accessible structural material contains dangerous levels of lead may recover from the mortgagor any monies expended in bringing the premises into compliance with sections one hundred and eighty-nine A to one hundred and ninety-nine B, inclusive; provided, however, that the mortgagor shall not be liable for such contribution if the mortgagor establishes that no child under six years of age resided in the residential premises while the premises were owned by the mortgagor.
+        </section>
+        <section prefix="c">
+    	     For the purpose of this section, the term “secured lender” shall mean (1) a person, corporation or other entity which holds indicia of ownership in a residential property primarily to protect that person’s security interest in said residential property; (2) two or more persons, corporations or other entities when one holds indicia of ownership in a residential property primarily to protect the other person’s security interest in that residential property, if the person, corporation or other entity, holding the indicia of ownership is (a) wholly owned by the person, corporation or other entity holding the security interest, or (b) an affiliate of the person, corporation or other entity holding the security interest and both are wholly-owned, directly or indirectly, by the same person, corporation or other entity and (3) persons, corporations or other entities which hold contractual participation rights in a security interest, and any of the following which hold indicia of ownership in a residential property primarily to protect that security interest: a wholly-owned subsidiary of any such person, corporation, or other entity; an affiliate of any such person, corporation, or other entity if both are wholly-owned, directly or indirectly, by the same person, corporation or other entity; and any entity formed among such persons, subsidiaries, or affiliates.
+        </section>
+    </text>
+</law>

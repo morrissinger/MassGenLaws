@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>206</section_number>
+    <catch_line>Authorized Activities For Nonlicensed Dietitians/Nutritionists</catch_line>
+    <order_by>206</order_by>
+    <text>
+        <section prefix="a">
+    	     pursuing a degree in dietetics or nutrition at an accredited college or university and engaging in the practice of dietetics or nutrition under the supervision of a licensed dietitian/nutritionist and in accordance with professional standards of practice, provided that the person is designated by a title clearly indicating his status as a student;
+        </section>
+        <section prefix="b">
+    	     fulfilling the professional experience requirement in dietetic or nutrition necessary for licensure who is engaging in the practice of dietetics or nutrition under the supervision of a licensed dietitian/nutritionist and in accordance with professional standards of practice, provided that the person is designated by a title clearly indicating his status as a trainee;
+        </section>
+        <section prefix="c">
+    	     furnishing information regarding food, food material, or dietary supplements;
+        </section>
+        <section prefix="d">
+    	     furnishing information about food, food products, or dietary supplements to customers in connection with the marketing and distribution of such items;
+        </section>
+        <section prefix="e">
+    	     practicing a health profession that he is otherwise authorized to practice under chapter 112 of the General Laws; or
+        </section>
+        <section prefix="f">
+    	     practicing a health profession that includes a dietetic or nutritional practice component, including, but not limited to, holistic medicine, naturopathic medicine, homopathic medicine, macrobiotics, ayurvedic therapy, polarity therapy, shiatsu therapy, massage therapy, and herbal therapy.
+        </section>
+    </text>
+</law>

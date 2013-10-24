@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Title Of Chapter</catch_line>
+    <order_by>1</order_by>
+    <text>
+        This chapter may be cited as “The Uniform Electronic Transactions Act”.
+    </text>
+</law>

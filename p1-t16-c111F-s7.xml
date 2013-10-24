@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Containers; Labels</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided by this section, an employer shall label with the chemical name each container in his or her workplace containing a toxic or hazardous substance. Said label shall also contain the proper NFPA Code applicable to any contents of the container for which an NFPA Code has been published in NFPA 49, Hazardous Chemical Data, but only in those instances where the container contains more than five gallons or thirty pounds of materials to which the NFPA Code is applicable.
+        </section>
+        <section prefix="b">
+    	     The employer is not required to label any container of a toxic or hazardous substance weighing five pounds or less or having a volume of one gallon or less; and is not required to label any container of a toxic or hazardous substance if said substance constitutes less than one per cent of the contents of the container, or two per cent if the toxic or hazardous substance exists as an impurity in a container, subject to the provisions for revised concentration requirements specified in section four (d) of this chapter.
+        </section>
+        <section prefix="c">
+    	     The employer is not required to label any container if the container is currently labeled pursuant to regulations promulgated by the United States Department of Transportation, or pursuant to the Federal Insecticide, Fungicide and Rodenticide Act (61 Stat. 163, 7 U.S.C. Sec. 121 et seq.); the Atomic Energy Act; or the Food, Drug and Cosmetics Act. The commissioner of DPH may by regulation certify containers labeled pursuant to any other federal act as labeled in compliance with this chapter.
+        </section>
+        <section prefix="d">
+    	     The employer is not required to label any container of ten gallons or less in volume into which a toxic or hazardous substance or mixture is transferred by an employee from labeled containers and which is intended only for the immediate use of the employee who performed the transfer.
+        </section>
+        <section prefix="e">
+    	     In cases where a pipe or piping system, a fixed storage tank, or a reaction vessel is used, on a regular basis, for different toxic or hazardous substances at different times, an employer may choose to convey the information required by this section by posting signs, placards, or operating instructions, rather than affixing labels. Provided that for any pipe or piping system, the information required by this section shall be provided at points where direct employee exposure to the toxic or hazardous substances contained in said pipe or piping system is likely to occur under normal operating conditions.
+        </section>
+        <section prefix="f">
+    	     The employer may elect to withhold from any label otherwise required by this section the names of chemicals which qualify as trade secrets pursuant to section five. In the event such an election is made, the employer must instead place on the label a reference to the MSDS prepared for such substance and must otherwise comply with the labeling provisions of this section. When a substance has been designated a carcinogen, mutagen, teratogen, or neurotoxin pursuant to section four (c) of this chapter, and the name of said substance is withheld from the label as a trade secret pursuant to this subsection, the label shall display the letter “C”, “M”, “T”, or “N”, indicating the substance is, respectively, a carcinogen, mutagen, teratogen, or neurotoxin.
+        </section>
+    </text>
+</law>

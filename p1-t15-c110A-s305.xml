@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>305</section_number>
+    <catch_line>Denial, Suspension, And Revocation Of Registration</catch_line>
+    <order_by>305</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary may issue a stop order denying effectiveness to, or suspending or revoking the effectiveness of, any registration statement if he finds (1) that the order is in the public interest and (2) that
+        </section>
+        <section prefix="A">
+    	     the registration statement as of its effective date or as of any earlier date in the case of an order denying effectiveness, or any amendment under section 304(i) as of its effective date, or any report under section 304(h) is incomplete in any material respect or contains any statement which was, in the light of the circumstances under which it was made, false or misleading with respect to any material fact;
+        </section>
+        <section prefix="B">
+    	     any provision of this chapter or any rule, order, or condition lawfully imposed under this chapter has been willfully violated, in connection with the offering, by (i) the person filing the registration statement, (ii) the issuer, any partner, officer, or director of the issuer, any person occupying a similar status or performing similar functions, or any person directly or indirectly controlling or controlled by the issuer, but only if the person filing the registration statement is directly or indirectly controlled by or acting for the issuer, or (iii) any underwriter;
+        </section>
+        <section prefix="C">
+    	     the security registered or sought to be registered is the subject of an administrative stop order or similar order or a permanent or temporary injunction of any court of competent jurisdiction entered under any other federal or state act applicable to the offering; but (i) the secretary may not institute a proceeding against an effective registration statement under clause (C) more than one year from the date of the order or injunction relied on, and (ii) he may not enter an order under clause (C) on the basis of an order or injunction entered under any other state act unless that order or injunction was based on facts which would currently constitute a ground for a stop order under this section;
+        </section>
+        <section prefix="D">
+    	     the issuer’s enterprise or method of business includes or would include activities which are illegal where performed;
+        </section>
+        <section prefix="E">
+    	     the offering has worked or tended to work a fraud upon purchasers or would so operate;
+        </section>
+        <section prefix="F">
+    	     the offering has been or would be made with unreasonable amounts of underwriters’ and sellers’ discounts, commissions, or other compensation, or promoters’ profits or participation, or unreasonable amounts or kinds of options;
+        </section>
+        <section prefix="G">
+    	     when a security is sought to be registered by coordination, there has been a failure to comply with the undertaking required by section 302(b)(4); or
+        </section>
+        <section prefix="H">
+    	     the applicant or registrant has failed to pay the proper filing fee; but the secretary may enter only a denial order under this clause and he shall vacate any such order when the deficiency has been corrected.
+        </section>
+        <section prefix="b">
+    	     The secretary may by order summarily postpone or suspend the effectiveness of the registration statement pending final determination of any proceeding under this section. Upon the entry of the order, the secretary shall promptly notify each person specified in subsection (c) that it has been entered and of the reasons therefor and that within fifteen days after the receipt of a written request the matter will be set down for hearing. If no hearing is requested and none is ordered by the secretary, the order will remain in effect until it is modified or vacated by the secretary. If a hearing is requested or ordered, the secretary, after notice of and opportunity for hearing to each person specified in subsection (c), may modify or vacate the order or extend it until final determination.
+        </section>
+        <section prefix="c">
+    	     No stop order may be entered under any part of this section except the first sentence of subsection (b) without (1) appropriate prior notice to the applicant or registrant, the issuer, and the person on whose behalf the securities are to be or have been offered, (2) opportunity for hearing, and (3) written findings of fact and conclusions of law.
+        </section>
+        <section prefix="d">
+    	     The secretary may vacate or modify a stop order if he finds that the conditions which prompted entry have changed or that it is otherwise in the public interest to do so.
+        </section>
+    </text>
+</law>

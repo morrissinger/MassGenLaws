@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>6C</section_number>
+    <catch_line>Hemophilia Program; Powers And Duties Of Department</catch_line>
+    <order_by>6C</order_by>
+    <text>
+        <section prefix="a">
+    	     With the advice of the committee, develop standards for determining eligibility for and the nature of treatment under this program;
+        </section>
+        <section prefix="b">
+    	     Extend financial assistance to persons suffering from hemophilia in obtaining blood, blood derivatives and concentrates, and other efficacious agents for treatment of hemophilia in hospital, medical and dental facilities, and at home;
+        </section>
+        <section prefix="c">
+    	     Assist in the development and expansion of programs for the care and treatment of persons suffering from hemophilia, including self-administration, prevention, and home care and other medical and dental procedures and techniques designed to provide maximum control over bleeding episodes typical of this condition;
+        </section>
+        <section prefix="d">
+    	     Institute and carry on educational programs among physicians, dentists, hospitals, public health departments, and the public concerning hemophilia, including dissemination of information and the conducting of educational programs concerning the methods of care and treatment of persons suffering from this condition; and
+        </section>
+        <section prefix="e">
+    	     Promulgate all rules and regulations necessary to effectuate the purposes of this section and sections six A and six B.
+        </section>
+    </text>
+</law>

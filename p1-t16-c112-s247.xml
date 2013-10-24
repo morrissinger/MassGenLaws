@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>247</section_number>
+    <catch_line>Rules And Regulations For Cities And Towns; Enforcement; Appeals</catch_line>
+    <order_by>247</order_by>
+    <text>
+        <section prefix="b">
+    	     A person aggrieved by a ruling interpreting the rules and regulations made under this section, may appeal to the board in writing within 10 days after such ruling and the board shall hear and decide such appeal, subject to chapter 30A relative to adjudicatory proceedings. Such decision shall be final and binding upon all parties in interest.
+        </section>
+    </text>
+</law>

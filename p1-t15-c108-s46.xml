@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108" order_by="108" level="3">Criminal Offences Relative To Bills Of Lading</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Negotiation Or Transfer Of Bill When Goods Not In Carrier’S Possession</catch_line>
+    <order_by>46</order_by>
+    <text>
+        A person who with intent to deceive negotiates or transfers for value a bill, knowing that any or all of the goods which by its terms appear to have been received for transportation by the carrier which issued the bill, are not in the possession or control of such carrier, or of a connecting carrier, without disclosing this fact, shall be punished by a fine of not more than five thousand dollars or by imprisonment in the state prison for not more than five years or in a jail or house of correction for not more than two and one half years, or both.
+    </text>
+</law>

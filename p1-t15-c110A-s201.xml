@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>201</section_number>
+    <catch_line>Registration Requirement</catch_line>
+    <order_by>201</order_by>
+    <text>
+        <section prefix="a">
+    	     It is unlawful for any person to transact business in this commonwealth as a broker-dealer or agent unless he is registered under this chapter.
+        </section>
+        <section prefix="b">
+    	     It is unlawful for any broker-dealer or issuer to employ an agent unless the agent is registered. The registration of an agent is not effective during any period when he is not associated with a particular broker-dealer registered under this chapter or a particular issuer. When an agent begins or terminates a connection with a broker-dealer or issuer, or begins or terminates those activities which make him an agent, the agent as well as the broker-dealer or issuer shall promptly notify the secretary.
+        </section>
+        <section prefix="c">
+    	     It is unlawful for any person to transact business in this commonwealth as an investment adviser or as an investment adviser representative unless he is so registered under this chapter.
+        </section>
+        <section prefix="d">
+    	     It is unlawful for:
+        </section>
+        <section prefix="i">
+    	     any investment adviser required to be registered to employ an investment adviser representative unless the investment adviser representative is registered under this chapter, but the registration of an investment adviser representative shall not be effective during any period when he is not employed by an investment adviser registered under this chapter; or
+        </section>
+        <section prefix="ii">
+    	     any investment adviser representative, as defined in Rule 203A-3(a) under the Investment Adviser Act of 1940, with a place of business, as defined in Rule 203A-3(b) under the Investment Adviser Act of 1940, in the commonwealth, who is employed by a federal covered adviser to conduct business in the commonwealth, unless registered under this chapter.
+        </section>
+        <section prefix="e">
+    	     Every annual registration under this section shall expire on December 31.
+        </section>
+        <section prefix="f">
+    	     It is unlawful for any federal covered adviser to conduct advisory business in the commonwealth unless the adviser complies with the provisions of paragraph (b) of section 202.
+        </section>
+    </text>
+</law>

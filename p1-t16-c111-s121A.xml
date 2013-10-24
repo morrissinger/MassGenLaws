@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>121A</section_number>
+    <catch_line>Serological Test For Syphilis Of Pregnant Women</catch_line>
+    <order_by>121A</order_by>
+    <text>
+        A physician attending a pregnant woman in this commonwealth during gestation shall take or cause to be taken a sample of blood of such woman at the time of first examination, and shall submit such sample for a standard serological test for syphilis to a laboratory of the department or to a laboratory approved for such test by the department; provided, that not more than one physician attending a pregnant woman during gestation shall be required to comply with the provisions of this section.
+    </text>
+</law>

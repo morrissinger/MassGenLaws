@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Right To Vote Of Limited Partners</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to section nineteen, the partnership agreement may grant to all or a specified group of the limited partners the right to vote, on a per capita or other basis, upon any matter.
+        </section>
+        <section prefix="b">
+    	     When the limited partnership is an investment company registered under the Investment Company Act of 1940, 15 USC 80a, the limited partner shall have the right to vote (i) in the election of general partners, directors, or trustees of the investment company, (ii) to approve or terminate investment advisory or underwriting contracts, (iii) for approval of auditors, and (iv) on any matters that the said Investment Company Act of 1940, or rules and regulations promulgated thereunder, requires to be approved by the holders of beneficial interests in the investment company.
+        </section>
+    </text>
+</law>

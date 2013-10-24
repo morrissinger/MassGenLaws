@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>51E</section_number>
+    <catch_line>Applications By Clinical Specialists In Psychiatric And Mental Health Nursing For Staff Membership Or Clinical Privileges; Discrimination</catch_line>
+    <order_by>51E</order_by>
+    <text>
+        <section prefix="1">
+    	     an applicant’s membership or lack of membership in a professional society or association;
+        </section>
+        <section prefix="2">
+    	     an applicant’s decision to advertise, reduce fees or engage in other competitive acts intended to generate business;
+        </section>
+        <section prefix="3">
+    	     an applicant’s participation in prepaid group health plans, salaried employment or any other manner of delivering health services on other than a fee-for-service basis;
+        </section>
+        <section prefix="4">
+    	     an applicant’s support for, training of or participation in a private group practice with members of a particular classification of health professional;
+        </section>
+        <section prefix="5">
+    	     an applicant’s willingness to testifying in malpractice suits, disciplinary actions or other proceedings; and
+        </section>
+        <section prefix="6">
+    	     an applicant’s willingness to send a specified amount of patients or clients who are in need of the services of a facility to a particular facility; provided, however, that this last restriction shall not apply to public facilities or agencies.
+        </section>
+        <section prefix="1">
+    	     a contemporaneous written explanation containing the explicit reasons for denial of such application;
+        </section>
+        <section prefix="2">
+    	     reasonable advance notice of the right to a fair hearing which would afford the applicant the opportunity to prepare an adequate rebuttal to the stated reasons for denial of such application;
+        </section>
+        <section prefix="3">
+    	     a fair hearing, including the right to present evidence and to call witnesses on his behalf; and
+        </section>
+        <section prefix="4">
+    	     a written decision containing the explicit reasons for taking the action including, but not limited to, any evidence upon which the decision was based.
+        </section>
+    </text>
+</law>

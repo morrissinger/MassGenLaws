@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Obligation To Contribute</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="a">
+    	     No promise by a limited partner to contribute to the limited partnership is enforceable unless set out in a writing signed by the limited partner.
+        </section>
+        <section prefix="b">
+    	     Except as provided in the partnership agreement, a partner is obligated to the limited partnership to perform any enforceable promise to contribute cash or property or to perform services, even if he is unable to perform because of death, disability or any other reason. If a partner does not make the required contribution of property or services, he is obligated at the option of the limited partnership to contribute cash equal to that portion of the value, as stated in the partnership records required to be kept pursuant to section five, of the stated contribution that has not been made.
+        </section>
+        <section prefix="c">
+    	     Unless otherwise provided in the partnership agreement, the obligation of a partner to make a contribution or return money or other property paid or distributed in violation of this chapter may be compromised only by consent of all the partners. Notwithstanding the compromise, a creditor of a limited partnership who extends credit, or otherwise acts in reliance on that obligation after the partner signs a writing which reflects the obligation, and before the amendment or cancellation thereof to reflect the compromise, may enforce the original obligation.
+        </section>
+    </text>
+</law>

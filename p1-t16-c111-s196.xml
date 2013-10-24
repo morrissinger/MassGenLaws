@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>196</section_number>
+    <catch_line>Prohibited Acts; Punishment; Embargo Of Personal Property</catch_line>
+    <order_by>196</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall apply or cause to be applied any lead-based paint, glaze or other substance to any toy, furniture, cooking, drinking, or eating utensil, or interior or exterior surface or fixture of any dwelling; and no person shall sell, expose for sale, deliver, give away or possess with intent to sell, deliver or give away any toy, furniture, cooking, drinking or eating utensil to which any lead-based paint, glaze or other substance has been applied.
+        </section>
+        <section prefix="b">
+    	     No person shall sell, expose for sale, deliver, give away or possess with intent to sell, deliver or give away any lead-based paint, glaze or other surface covering including raw lead or the raw lead compounds utilized in the home manufacturing of glazes, as defined in subsection (a); provided, however, that the director may by regulation with the concurrence of a majority of the advisory committee exempt from the provisions of this subsection certain lead-based paints that are not intended or suitable for use on or within residential premises, and are not advertised or labeled as intended or suitable for such uses, and are not sold to the general public on a retail basis, when he finds with substantial certainty that the sale or use of said paints will not result in the exposure of children younger than six years of age to said paints and will not result in an additional danger to life or health for such children or for the general public. The director may by regulation with the concurrence of a majority of the advisory committee exempt from the provisions of this subsection certain lead-based ceramic glazes or the raw lead and raw lead compounds utilized in the home manufacturing of glazes on such terms as he finds will not result in an additional danger to life or health.
+        </section>
+    </text>
+</law>

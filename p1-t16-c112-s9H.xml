@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>9H</section_number>
+    <catch_line>Investigative And Disciplinary Powers</catch_line>
+    <order_by>9H</order_by>
+    <text>
+        <section prefix="a">
+    	     fraudulently procured said certificate of registration;
+        </section>
+        <section prefix="b">
+    	     is guilty of an offense against any provision of the laws of the commonwealth relating to the authorized practice of physician assistants or any rule or regulation adopted thereunder;
+        </section>
+        <section prefix="c">
+    	     is guilty of gross misconduct in practicing as a physician assistant or of practicing fraudulently or beyond the scope of authorized physician assistant practice or with gross incompetence or with gross negligence on a particular occasion or negligence on repeated occasions;
+        </section>
+        <section prefix="d">
+    	     is guilty of practicing as a physician assistant while the ability to practice is impaired by alcohol, drugs, physical disability or mental instability;
+        </section>
+        <section prefix="e">
+    	     is guilty of being habitually intoxicated or being or having been within the past two years addicted to, dependent on or a habitual user of narcotics, barbiturates, amphetamines, hallucinogens or other drugs having similar effects;
+        </section>
+        <section prefix="f">
+    	     is guilty of knowingly permitting, aiding or abetting an unlicensed person to perform activities requiring a license for purposes of fraud, deception or personal gain, excluding activities permissible under any provision of the laws of the commonwealth relative to the training of medical providers in authorized health care institutions and facilities;
+        </section>
+        <section prefix="g">
+    	     has been convicted of a criminal offense which reasonably calls into question his ability to practice as a physician assistant;
+        </section>
+        <section prefix="h">
+    	     is guilty of violating any rule or regulation of the board governing the practice of physician assistants.
+        </section>
+    </text>
+</law>

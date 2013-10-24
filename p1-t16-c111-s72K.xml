@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>72K</section_number>
+    <catch_line>Definitions; Civil Penalties; Recovery By Attorney General</catch_line>
+    <order_by>72K</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall, unless the context clearly requires otherwise, have the following meanings:—
+        </section>
+        <section prefix="b">
+    	     The attorney general may file a civil action against a person who commits abuse, mistreatment or neglect of a patient or resident or who misappropriates patient or resident property, or against a person who wantonly or recklessly permits or causes another to commit abuse, mistreatment or neglect of a patient or resident or who misappropriates patient or resident property. The civil penalty for such abuse, mistreatment, neglect or misappropriation shall not exceed: $5,000 if no bodily injury results; $10,000 if bodily injury results; $20,000 if sexual assault or serious bodily injury results; and $50,000 if death results. Nothing in this section shall preclude the filing of any action brought by the attorney general or a private party pursuant to chapter 93A or any action by the department pursuant to this chapter.
+        </section>
+    </text>
+</law>

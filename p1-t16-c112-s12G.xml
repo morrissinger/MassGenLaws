@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12G</section_number>
+    <catch_line>Disclosure Of Information By Physicians And Other Medical Providers</catch_line>
+    <order_by>12G</order_by>
+    <text>
+        The disclosure by a physician, health care facility, nursing home or any other medical provider or by an agent of any of the foregoing information concerning the diagnosis, treatment, or condition of a patient in connection with the establishment of eligibility for, or entitlement to, benefits under chapters one hundred and fifteen, one hundred and seventeen, one hundred and eighteen, one hundred and eighteen A, one hundred and eighteen D, one hundred and eighteen E or in connection with any reporting required by law under chapters ninety-four, one hundred and eleven, one hundred and twelve, one hundred and twenty-three, or required by any other law, shall not constitute libel, slander, invasion of privacy, or otherwise be grounds for any civil or criminal liability on the part of any such physician, health care facility, nursing home or any other medical provider or by an agent of any of the foregoing who, without first obtaining consent from a patient or a patient’s next of kin, discloses such information to any department, bureau or commission of the commonwealth or to any federal agency which, by law, requires such information or which provides health care benefits to eligible recipients who apply therefor.
+    </text>
+</law>

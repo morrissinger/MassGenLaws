@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Material Safety Data Sheets; Filing Copies</catch_line>
+    <order_by>16</order_by>
+    <text>
+        Every employer subject to the provisions of this chapter shall file with the regional office of DEP for the region in which the workplace of the employer is located, and upon request with the municipal coordinator for the city or town in which the workplace of the employer is located, a copy of an MSDS for each toxic or hazardous substance listed on the Massachusetts substance list and present in the employer’s workplace. The municipal coordinator shall retain said MSDS’s for at least five years and the regional office of DEP shall retain said MSDS’s for forty years.
+    </text>
+</law>

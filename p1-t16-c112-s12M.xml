@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12M</section_number>
+    <catch_line>Abortion; Pregnancy Existing For 24 Weeks Or More</catch_line>
+    <order_by>12M</order_by>
+    <text>
+        If a pregnancy has existed for twenty-four weeks or more, no abortion may be performed except by a physician and only if it is necessary to save the life of the mother, or if a continuation of her pregnancy will impose on her a substantial risk of grave impairment of her physical or mental health.
+    </text>
+</law>

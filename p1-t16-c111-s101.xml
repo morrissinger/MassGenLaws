@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>101</section_number>
+    <catch_line>Execution Of Warrant; Breaking Open Houses</catch_line>
+    <order_by>101</order_by>
+    <text>
+        The officers, in executing the warrant, may command aid and may break open any house, shop or other place mentioned in the warrant. Whoever, being commanded by said officers to assist in the execution of the warrant, neglects or refuses so to do shall forfeit not more than ten dollars.
+    </text>
+</law>

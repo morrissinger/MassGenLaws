@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Partner As Agent Of Partnership; Authority</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="1">
+    	     Every partner is an agent of the partnership for the purpose of its business, and the act of every partner, including the execution in the partnership name of any instrument, for apparently carrying on in the usual way the business of the partnership of which he is a member binds the partnership, unless the partner so acting has in fact no authority to act for the partnership in the particular matter, and the person with whom he is dealing has knowledge of the fact that he has no such authority.
+        </section>
+        <section prefix="2">
+    	     An act of a partner which is not apparently for the carrying on of the business of the partnership in the usual way does not bind the partnership unless authorized by the other partners.
+        </section>
+        <section prefix="3">
+    	     Unless authorized by the other partners or unless they have abandoned the business, one or more but less than all the partners have no authority to:
+        </section>
+        <section prefix="a">
+    	     Assign the partnership property in trust for creditors or on the assignee’s promise to pay the debts of the partnership,
+        </section>
+        <section prefix="b">
+    	     Dispose of the good will of the business,
+        </section>
+        <section prefix="c">
+    	     Do any other act which would make it impossible to carry on the ordinary business of the partnership,
+        </section>
+        <section prefix="d">
+    	     Confess a judgment,
+        </section>
+        <section prefix="e">
+    	     Submit a partnership claim or liability to arbitration or reference.
+        </section>
+        <section prefix="4">
+    	     No act of a partner in contravention of a restriction on his authority shall bind the partnership to persons having knowledge of the restriction.
+        </section>
+    </text>
+</law>

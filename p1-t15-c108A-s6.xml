@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Partnership, Defined; Application To Prior Associations; Limited Partnerships</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     A partnership is an association of two or more persons to carry on as co-owners a business for profit and includes, for all purposes of the laws of the commonwealth, a registered limited liability partnership.
+        </section>
+        <section prefix="2">
+    	     But any association formed under any other statute of this state, or any statute adopted by authority, other than the authority of this state, is not a partnership under this chapter, unless such association would have been a partnership in this state prior to January first, nineteen hundred and twenty-three; but this chapter shall apply to limited partnerships except in so far as the statutes relating to such partnerships are inconsistent herewith.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Comprehensive Program For Treatment Of Drug Dependent Persons;  Treatment Facilities; Annual Report; List Of Facilities</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Facilities wherein treatment is available to persons in need of immediate assistance due to the use of a dependency related drug;
+        </section>
+        <section prefix="b">
+    	     Facilities wherein inpatient treatment is available which shall, to the extent appropriate and possible, be affiliated with and constitute an integral part of the medical service of a general hospital;
+        </section>
+        <section prefix="c">
+    	     Facilities wherein outpatient treatment is available;
+        </section>
+        <section prefix="d">
+    	     Facilities wherein residential aftercare is available, such as in halfway houses;
+        </section>
+        <section prefix="e">
+    	     Penal facilities.
+        </section>
+        <section prefix="a">
+    	     eligibility for treatment
+        </section>
+        <section prefix="b">
+    	     scope of treatment offered
+        </section>
+        <section prefix="c">
+    	     applicability facility fees
+        </section>
+        <section prefix="d">
+    	     last known patient capacity
+        </section>
+        <section prefix="e">
+    	     facilities for emergency treatment
+        </section>
+    </text>
+</law>

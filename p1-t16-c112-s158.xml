@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>158</section_number>
+    <catch_line>Revocation, Suspension, Or Cancellation Of Licenses; Liability Of Complainants</catch_line>
+    <order_by>158</order_by>
+    <text>
+        <section prefix="a">
+    	     fraudulently procured licensure as an acupuncturist;
+        </section>
+        <section prefix="b">
+    	     violated any provision of law relating to the practice of medicine or acupuncture, or any rule or regulation adopted thereunder;
+        </section>
+        <section prefix="c">
+    	     acted with gross misconduct in the practice of acupuncture or of practicing acupuncture fraudulently, or beyond its authorized scope, or with gross incompetence, or with gross negligence on a particular occasion or negligence on repeated occasions;
+        </section>
+        <section prefix="d">
+    	     practiced acupuncture while the ability to practice is impaired by alcohol, drugs, physical disability or mental instability;
+        </section>
+        <section prefix="e">
+    	     was habitually drunk or being or having been addicted to, dependent on, or a habitual user of narcotics, barbiturates, amphetamines, hallucinogens, or other drugs having similar effects;
+        </section>
+        <section prefix="f">
+    	     knowingly permitted, aided or abetted an unlicensed person to perform activities requiring a license for purposes of fraud, deception or personal gain;
+        </section>
+        <section prefix="g">
+    	     has been convicted of a criminal offense which reasonably calls into question the ability to practice acupuncture;
+        </section>
+        <section prefix="h">
+    	     violated any rule or regulation of the board or the committee;
+        </section>
+        <section prefix="j">
+    	     acted in a manner which is professionally unethical according to ethical standards of the profession of acupuncture.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>27C</section_number>
+    <catch_line>Reimbursement Of Regional Health Districts; Qualification; Formula For Allocation Of State Funds For Operating Expenses</catch_line>
+    <order_by>27C</order_by>
+    <text>
+        <section prefix="1">
+    	     Each regional health district established under section 27B shall be entitled to reimbursement from the commonwealth, subject to appropriation, for expenditures incurred by it for initial capital outlays, including the acquisition, construction, improvement or renovation of any buildings or premises for the use of the district and any original furnishings and equipment therefor, but excluding the costs of supplies, salaries and other expenses for the ordinary maintenance and operation of the district. The department shall establish, by regulation, a formula for allocating state funds for initial capital outlays to each regional health district. In order to qualify for such reimbursement, a regional board of health shall, before incurring any expenses reimbursable under this section, submit to the commissioner an itemized statement of all proposed expenditures for such purposes. The commissioner shall examine such statement and shall notify such board to what extent, in his opinion, the proposed expenditures are reasonably necessary for the purposes of the regional health district and reimbursable hereunder, and the probable amount of reimbursement therefor. Within 3 months after the date of final payment for such capital outlays the board shall submit to the commissioner a certified statement of its actual expenditures for such purposes. If satisfied that the expenditures so certified are reimbursable and not unreasonable or excessive, the commissioner shall certify to the comptroller and the treasurer shall forthwith pay to such regional health district, from any amounts appropriated therefor, the amount of such approved reimbursement.
+        </section>
+        <section prefix="2">
+    	     A formula shall be established, subject to appropriation, for allocating state funds for operating expenses to each regional health district. This formula shall include the requirement of municipal matching funds on a basis to be determined from the annual tax receipts of each participating city or town. Districts receiving state funds shall meet the performance standards and personnel qualifications adopted by the department of public health pursuant to section 27B. Such regional health districts may use additional funds, which they may secure from other sources. In the event that a city or town fails to appropriate its required matching funds from the annual tax receipts, such city or town shall be removed from the regional health district.
+        </section>
+    </text>
+</law>

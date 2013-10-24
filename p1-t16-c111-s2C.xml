@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>2C</section_number>
+    <catch_line>Pollution Violations; Orders Of Department Of Environmental Protection</catch_line>
+    <order_by>2C</order_by>
+    <text>
+        The commissioner of environmental protection or his designee may issue orders in the name of the department of environmental protection upon witnessing or being presented proof of the violation of any statute, rule, regulation or code which the said department is authorized to enforce relative to pollution. Such orders shall have the same force and effect as any rule or regulation promulgated by said department and any such order may be revoked by said department.
+    </text>
+</law>

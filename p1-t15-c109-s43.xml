@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Death Or Incompetency Of Partner; Power To Settle Estate Or Administer Property</catch_line>
+    <order_by>43</order_by>
+    <text>
+        If a partner who is an individual dies or a court of competent jurisdiction adjudges him to be incompetent to manage his person or his property, the partner’s executor, administrator, guardian, conservator, or other legal representative may exercise all the partner’s rights for the purpose of settling his estate or administering his property, including any power the partner had to give an assignee the right to become a limited partner. If a partner is a corporation, trust, or other entity and is dissolved or terminated, the powers of that partner may be exercised by its legal representative or successor.
+    </text>
+</law>

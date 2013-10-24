@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111K" order_by="111K" level="3">Catastrophic Illness In Children Relief Fund Commission</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Membership Of Commission; Removal From Office For Cause</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Each public member of the commission may be removed from the office by the governor for cause, after a public hearing, and may be suspended by the governor pending the completion of the hearing. Before entering upon their duties, members of the commission shall take and subscribe an oath to perform the duties of the office faithfully, impartially and to the best of their ability. A record of oaths shall be filed with the secretary of state.
+        </section>
+        <section prefix="b">
+    	     Any vacancies in the membership of the commission occurring other than by expiration of a term shall be filled in the same manner as the original appointment, but for the unexpired term only.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Actions To Require Cancellation Or To Compel Registration</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Actions to require cancellation of a mark registered pursuant to this chapter or in mandamus to compel registration of a mark pursuant to this chapter shall be brought in the superior court. In an action in mandamus, the proceeding shall be based solely upon the record before the secretary. In an action for cancellation, the secretary shall not be made a party to the proceeding but shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
+        </section>
+        <section prefix="b">
+    	     In any action brought against a nonresident registrant, service may be effected upon the secretary as agent for service of the registrant in accordance with the procedures established for service upon nonresident corporations and business entities under section 15 of chapter 181, regardless of whether the nonresident is a natural person or other juristic person.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108" order_by="108" level="3">Criminal Offences Relative To Bills Of Lading</unit>
+    </structure>
+    <section_number>45</section_number>
+    <catch_line>Negotiation Of Bill For Goods Subject To Mortgage Or Lien</catch_line>
+    <order_by>45</order_by>
+    <text>
+        A person who ships goods to which he has not title, or upon which there is a lien or mortgage, and who takes for such goods a negotiable bill which he afterward negotiates for value with intent to deceive, and without disclosing his want of title or the existence of the lien or mortgage, shall be punished by a fine of not more than one thousand dollars or by imprisonment for not more than one year, or both.
+    </text>
+</law>

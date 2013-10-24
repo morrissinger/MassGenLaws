@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>223</section_number>
+    <catch_line>Establishment Of Home Inspection Licensure Requirements; Applicant Qualifications</catch_line>
+    <order_by>223</order_by>
+    <text>
+        <section prefix="1">
+    	     is of good moral character;
+        </section>
+        <section prefix="2">
+    	     has successfully completed high school or its equivalent;
+        </section>
+        <section prefix="3">
+    	     has successfully completed a board-approved training program;
+        </section>
+        <section prefix="4">
+    	     has performed not less than 25 home inspections in the presence of a licensed home inspector;
+        </section>
+        <section prefix="5">
+    	     has passed a written or electronic competency examination offered or approved by the board;
+        </section>
+        <section prefix="6">
+    	     has an identified supervisor who is a person licensed in good standing in the commonwealth as a home inspector; and
+        </section>
+        <section prefix="7">
+    	     has paid the appropriate fee, which shall be set by the secretary of administration and finance.
+        </section>
+    </text>
+</law>

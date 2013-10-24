@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110D" order_by="110D" level="3">Regulation Of Control Share Acquisitions</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Authorization Of Voting Rights For Shares Acquired In Control Share Acquisition</catch_line>
+    <order_by>5</order_by>
+    <text>
+        Shares acquired in a control share acquisition shall have the same voting rights as all other shares of the same class or series of the issuing public corporation only to the extent authorized by vote of the stockholders of the issuing public corporation at any annual meeting of stockholders or special meeting of stockholders. Such authorization shall require the affirmative vote of the holders of a majority of all of the shares entitled to vote generally in the election of directors, excluding interested shares. Interested shares shall be disregarded for determining a quorum and shall not be entitled to vote with respect to such authorization. If no such vote is adopted, such shares shall regain their voting rights upon transfer of beneficial ownership of such shares to another person unless such transfer constitutes a control share acquisition by the acquirer, in which event the voting rights of such shares shall be subject to the provisions of this chapter.
+    </text>
+</law>

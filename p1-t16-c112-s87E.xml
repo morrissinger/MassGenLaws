@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>87E</section_number>
+    <catch_line>Records Incidental To Rendering Services; Confidential Information</catch_line>
+    <order_by>87E</order_by>
+    <text>
+        <section prefix="1">
+    	     a copy of the licensee’s working papers, to the extent that such working papers include records that would ordinarily constitute part of the client’s records and are not otherwise available to the client; and
+        </section>
+        <section prefix="2">
+    	     any accounting or other records belonging to, or obtained from or on behalf of, the client which the licensee removed from the client’s premises or received for the client’s account. The licensee may make and retain copies of such documents of the client when they form the basis for work done by him.
+        </section>
+    </text>
+</law>

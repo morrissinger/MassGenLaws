@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>31</section_number>
+    <catch_line>Causes Of Dissolution</catch_line>
+    <order_by>31</order_by>
+    <text>
+        <section prefix="1">
+    	     Without violation of the agreement between the partners,
+        </section>
+        <section prefix="a">
+    	     By the termination of the definite term or particular undertaking specified in the agreement,
+        </section>
+        <section prefix="b">
+    	     By the express will of any partner when no definite term or particular undertaking is specified,
+        </section>
+        <section prefix="c">
+    	     By the express will of all the partners who have not assigned their interests or suffered them to be charged for their separate debts, either before or after the termination of any specified term or particular undertaking,
+        </section>
+        <section prefix="d">
+    	     By the expulsion of any partner from the business bona fide in accordance with such a power conferred by the agreement between the partners;
+        </section>
+        <section prefix="2">
+    	     In contravention of the agreement between the partners, where the circumstances do not permit a dissolution under any other provision of this section, by the express will of any partner at any time;
+        </section>
+        <section prefix="3">
+    	     By any event which makes it unlawful for the business of the partnership to be carried on or for the members to carry it on in partnership;
+        </section>
+        <section prefix="4">
+    	     By the death of any partner;
+        </section>
+        <section prefix="5">
+    	     By the bankruptcy of any partner or the partnership;
+        </section>
+        <section prefix="6">
+    	     By decree of court under section thirty-two.
+        </section>
+    </text>
+</law>

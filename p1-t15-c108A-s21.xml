@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Accounting Of Partner To Partnership; Profits; Personal Representative Of Deceased Partner</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="1">
+    	     Every partner must account to the partnership for any benefit, and hold as trustee for it any profits derived by him without the consent of the other partners from any transaction connected with the formation, conduct or liquidation of the partnership or from any use by him of its property.
+        </section>
+        <section prefix="2">
+    	     This section applies also to the representatives of a deceased partner engaged in the liquidation of the affairs of the partnership as the personal representatives of the last surviving partner.
+        </section>
+    </text>
+</law>

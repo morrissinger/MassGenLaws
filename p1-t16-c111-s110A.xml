@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>110A</section_number>
+    <catch_line>Tests Of Newborn Children For Treatable Disorders Or Diseases</catch_line>
+    <order_by>110A</order_by>
+    <text>
+        The physician attending a newborn child shall cause said child to be subjected to tests for phenylketonuria, cretinism and such other specifically treatable genetic or biochemical disorders or treatable infectious diseases which may be determined by testing as specified by the commissioner. The commissioner may convene an advisory committee on newborn screening to assist him in determining which tests are necessary. 
+The department shall make such rules pertaining to such tests as accepted medical practice shall indicate. 
+The provisions of this section shall not apply if the parents of such child object thereto on the grounds that such test conflicts with their religious tenets and practices.
+    </text>
+</law>

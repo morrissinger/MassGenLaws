@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>115</section_number>
+    <catch_line>Duties And Responsibilities Of Board</catch_line>
+    <order_by>115</order_by>
+    <text>
+        <section prefix="b">
+    	     Develop and apply appropriate techniques, including examinations and investigations for determining whether an individual meets such standards.
+        </section>
+        <section prefix="c">
+    	     Establish and carry out procedures designed to insure that individuals licensed as nursing home administrators, will, during any period that they serve as such, comply with the requirements of such standards.
+        </section>
+        <section prefix="d">
+    	     Receive and investigate any charge or complaint filed with the board that any licensed nursing home administrator has failed to comply with the requirements of such standards, and to take appropriate action with respect thereto, including the revocation of a license if necessary after due notice and hearing and for cause.
+        </section>
+        <section prefix="e">
+    	     To make available one or more courses of instructional training sufficient to meet the requirements for licensure, and to make provision for such courses and their accessibility to residents of the commonwealth unless it finds that there are a sufficient number of approved courses which are conducted by others within this commonwealth. In lieu thereof, the board may approve courses conducted within and without the commonwealth as sufficient to meet the education and training which it may require.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Certificate Of Registration; Issuance; Admissibility In Evidence</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon compliance by the applicant with the requirements of this chapter, the secretary shall cause a certificate of registration to be issued and delivered to the applicant. The certificate of registration shall be issued under the signature of the secretary and the seal of the commonwealth, and it shall show the name and business address and, if a corporation, the state of incorporation, or if a partnership, the commonwealth in which the partnership is organized and the names of the general partners, as specified by the secretary, of the person claiming ownership of the mark, the date claimed for the first use of the mark anywhere and the date claimed for the first use of the mark in the commonwealth, the class of goods or services and a description of the goods or services on or in connection with which the mark is used, a reproduction of the mark, the registration date and the term of the registration.
+        </section>
+        <section prefix="b">
+    	     A certificate of registration issued by the secretary under this chapter or a copy thereof duly certified by the secretary shall be admissible in evidence as competent and sufficient proof of the registration of the mark in any actions or judicial proceedings in any court of the commonwealth. Registration of or renewal of a mark provided by this chapter shall be constructive notice of the registrant’s claim of ownership thereof and shall, when introduced in any action, be prima facie evidence of the registrant’s exclusive right to use the registered mark in this commonwealth on goods or services specified in the registration subject to any conditions or limitations stated therein, but shall not preclude an opposing party from proving any legal or equitable defense or defect which might have been asserted if the mark had not been registered.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>26F</section_number>
+    <catch_line>List Of Hazardous Chemicals In Water Supply; Effects</catch_line>
+    <order_by>26F</order_by>
+    <text>
+        In any city or town which accepts the provisions of this section, the board of health of such city or town shall annually publish a list, a copy of which shall be posted in the town or city hall and at the offices of the water department of hazardous chemicals which are present in the municipal water supply in concentrations greater than fifty per cent of the suggested action guidelines, the suggested no adverse response levels or the maximum contaminant levels established by the United States Environmental Protection Agency. Such list shall also include a brief and clear description of the effects of said chemicals upon the human body.
+    </text>
+</law>

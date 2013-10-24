@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Supervision Of Patients</catch_line>
+    <order_by>16</order_by>
+    <text>
+        Each person who receives treatment at a facility shall be subject to the supervisory powers of the administrator exercised in accordance with rules and regulations promulgated by the division.
+    </text>
+</law>

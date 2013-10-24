@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>144</section_number>
+    <catch_line>Qualifications For License</catch_line>
+    <order_by>144</order_by>
+    <text>
+        <section prefix="1">
+    	     be of good moral character,
+        </section>
+        <section prefix="2">
+    	     possess at a minimum (a) a bachelor’s degree or its equivalent and (b) a master’s degree or its equivalent in the area of speech-language pathology or audiology granted by an educational institution which incorporates academic course work and the minimum hours of supervised training required by the national certifying body for speech-language pathology and audiology,
+        </section>
+        <section prefix="3">
+    	     have completed the period of supervised professional practice in the area in which the license is being sought required by the national certifying body for speech-language pathology and audiology,
+        </section>
+        <section prefix="4">
+    	     pass an examination approved by the board except that such examination may be waived by the board for applicants who hold a current and valid certificate of clinical competence in speech-language pathology or audiology from the national certifying body for speech-language pathology and audiology.
+        </section>
+    </text>
+</law>

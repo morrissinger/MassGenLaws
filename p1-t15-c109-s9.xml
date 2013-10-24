@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Amendment To Certificate</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     A certificate of limited partnership is amended by filing a certificate of amendment thereto in the office of the secretary of state. The certificate of amendment shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the limited partnership;
+        </section>
+        <section prefix="2">
+    	     the date of filing the certificate; and
+        </section>
+        <section prefix="3">
+    	     the amendment to the certificate.
+        </section>
+        <section prefix="b">
+    	     Within thirty days after the happening of any of the following events, an amendment to a certificate of limited partnership reflecting the occurrence of the event or events shall be filed:
+        </section>
+        <section prefix="1">
+    	     the admission of a new general partner;
+        </section>
+        <section prefix="2">
+    	     the withdrawal of a general partner; or
+        </section>
+        <section prefix="3">
+    	     the continuation of the business under section forty-four after an event of withdrawal of a general partner.
+        </section>
+        <section prefix="c">
+    	     A general partner who becomes aware that any statement in a certificate of limited partnership was false when made or that any arrangements or other facts described have changed, making the certificate inaccurate in any respect, shall promptly amend the certificate.
+        </section>
+        <section prefix="d">
+    	     A certificate of limited partnership may be amended at any time for any other proper purpose the general partners determine.
+        </section>
+        <section prefix="e">
+    	     No person has any liability because an amendment to a certificate of limited partnership has not been filed to reflect the occurrence of any event referred to in subsection (b) if the amendment is filed within the thirty-day period specified in subsection (b).
+        </section>
+        <section prefix="f">
+    	     A restated certificate of a limited partnership may be executed and filed in the same manner as a certificate of amendment.
+        </section>
+    </text>
+</law>

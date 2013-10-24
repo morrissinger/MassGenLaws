@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>211</section_number>
+    <catch_line>Minors; Parental Consent; Accompaniment By Parent Or Guardian</catch_line>
+    <order_by>211</order_by>
+    <text>
+        No person fourteen years of age to seventeen years of age, inclusive, shall use a tanning device without the prior written consent of a parent or legal guardian who shall indicate therein that such parent or guardian has read and understood the warnings required under the provisions of section two hundred and nine. 
+No person under fourteen years of age shall use a tanning device unless accompanied by a parent or legal guardian.
+    </text>
+</law>

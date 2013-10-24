@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111J" order_by="111J" level="3">Alcohol And Drug Counselors</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Consumer Complaints; Authority Of Department; Discipline Of Licensee</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     fraud or misrepresentation in obtaining a license;
+        </section>
+        <section prefix="2">
+    	     criminal conduct which the department determines to be of such a nature as to render such person unfit to practice as a licensed alcohol and drug counselor as evidenced by criminal proceedings resulting in a conviction, guilty plea or plea of nolo contendere or an admission of sufficient facts;
+        </section>
+        <section prefix="3">
+    	     violation of any rule or regulation of the department governing the practice of alcohol and drug counselors;
+        </section>
+        <section prefix="4">
+    	     violation of ethical standards which the department determines to be of such a nature as to render such person unfit to practice as a licensed alcohol and drug counselor;
+        </section>
+        <section prefix="5">
+    	     other just and sufficient cause which the department may determine would render a person unfit to practice as a licensed alcohol and drug counselor.
+        </section>
+    </text>
+</law>

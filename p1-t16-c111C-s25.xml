@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Staffing Of Class I, Ii Or V Ambulances</catch_line>
+    <order_by>25</order_by>
+    <text>
+        When a class I, II or V ambulance transports a patient receiving care at the paramedic level of advanced life support the ambulance shall be staffed in accordance with regulations promulgated by the department, with a minimum of 2 emergency medical technicians, only 1 of whom shall be certified at the EMT-Paramedic level; provided, however, that the service staffing a class I, II or V ambulance may staff the ambulance with more than 1 emergency medical technician certified at the EMT-Paramedic level.
+    </text>
+</law>

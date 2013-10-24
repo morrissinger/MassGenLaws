@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>144A</section_number>
+    <catch_line>Certification Requirements</catch_line>
+    <order_by>144A</order_by>
+    <text>
+        <section prefix="1">
+    	     be of good moral character;
+        </section>
+        <section prefix="2">
+    	     possess at a minimum an associate’s degree in a speech-language pathology or audiology training program approved by a national certifying body for speech-language pathology or audiology, a bachelor’s degree from a college with a speech-language pathology assistant or audiology assistant certificate program or an equivalent course of study with a major emphasis in the area of speech-language pathology or audiology; and
+        </section>
+        <section prefix="3">
+    	     meet the minimum criteria established by a national certifying body for speech-language pathology or audiology for certification as a speech-language pathology assistant or audiology assistant.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>4B</section_number>
+    <catch_line>Violations Of Sec. 4 A; Civil Penalties</catch_line>
+    <order_by>4B</order_by>
+    <text>
+        <section prefix="a">
+    	     If the board finds, after notice of any violation of section four A and an opportunity for a hearing have been provided, that any person is not in compliance with any requirement of section four A, or with any provision of any regulation adopted thereunder, it may assess civil penalties in an amount determined pursuant to this section. Such civil penalty may be imposed whether or not the violation was willful. In determining the amount of the civil penalty, the board shall consider the willfulness of the violation; the actual and potential cost to the commonwealth of collecting the assessment and penalty to enforce such requirement; whether the person being assessed the civil penalty did everything reasonable to pay the assessment, and to pay promptly after a notice of violation was issued; whether the person being assessed the civil penalty has previously failed to comply with any requirement of section four A, or with any provision of any regulation adopted thereunder; the financial condition of the person being assessed the civil penalty. The board shall also consider the goals of making compliance less costly than noncompliance, deterring future noncompliance, and the public interest.
+        </section>
+        <section prefix="b">
+    	     In addition to assessing civil penalties under this section, the board may request the attorney general to bring an action in the superior court to compel payment of assessments and penalties and immediate and full compliance with any order issued by the board. The expense of the proceedings shall be recoverable from the violator in such manner as provided by law.
+        </section>
+    </text>
+</law>

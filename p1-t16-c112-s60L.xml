@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>60L</section_number>
+    <catch_line>Services In Practice Of Architecture; Plans And Specifications;  Registered Professional Engineer; Employees; Landscape Architects;  Partnership Or Corporation; Non Resident Architects</catch_line>
+    <order_by>60L</order_by>
+    <text>
+        <section prefix="a">
+    	     Any building containing less than thirty-five thousand cubic feet of enclosed space, the computation to be made according to rules to be established by the board;
+        </section>
+        <section prefix="b">
+    	     Any single or two-family house or any accessory building thereto;
+        </section>
+        <section prefix="c">
+    	     Any building used for farm purposes;
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>102</section_number>
+    <catch_line>Advisory Activities</catch_line>
+    <order_by>102</order_by>
+    <text>
+        <section prefix="1">
+    	     to employ any device, scheme, or artifice to defraud the other person, or
+        </section>
+        <section prefix="2">
+    	     to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon the other person.
+        </section>
+    </text>
+</law>

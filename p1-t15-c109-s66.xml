@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>66</section_number>
+    <catch_line>Application For Reinstatement After Administrative Dissolution Or Revocation Of Right To Transact Business; Contents</catch_line>
+    <order_by>66</order_by>
+    <text>
+        <section prefix="1">
+    	     recite the name of the limited partnership and the effective date of its administrative dissolution or revocation;
+        </section>
+        <section prefix="2">
+    	     state that the grounds for dissolution or revocation either did not exist or have been corrected; and
+        </section>
+        <section prefix="3">
+    	     state that the name of the limited partnership satisfies the requirements of section 2; provided, however, that if the state secretary determines that the application contains the full and correct information, he shall reinstate the limited partnership.
+        </section>
+    </text>
+</law>

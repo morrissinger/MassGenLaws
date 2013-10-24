@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Contracts Between Department And Regional Ems Councils</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall enter into contracts with each of the regional EMS councils for the purposes set forth in section 4 in the form established by the department, and may enter into contracts with other entities for the planning, initiation, maintenance, development, expansion, improvement, coordination and evaluation of elements of the EMS system, in accordance with this chapter.
+        </section>
+        <section prefix="b">
+    	     If a contract is entered into under this section with a regional EMS council, no other contract may be entered into under this section with any other regional EMS council for the term thereof for the same region or for a region which includes, in whole or substantial part, such region.
+        </section>
+        <section prefix="c">
+    	     Contracts under this section may only be used for the funding of necessary, reasonable and appropriate costs.
+        </section>
+        <section prefix="d">
+    	     The contract amount payable annually by the department to each regional EMS council shall be determined according to a formula promulgated as a regulation by the department that takes into account the similarities and differences among the regions.
+        </section>
+        <section prefix="e">
+    	     All recipients of contracts under this section shall make reports to the department as may be required by the department.
+        </section>
+        <section prefix="f">
+    	     No contract may be made under this section unless an application has been submitted to the department in the form prescribed by the department and the applicant satisfies the criteria for contract award established by the department.
+        </section>
+        <section prefix="g">
+    	     The department shall provide technical assistance, as appropriate, to regional EMS councils and to other eligible entities as necessary for the purpose of their carrying out the provisions of contracts under this section.
+        </section>
+        <section prefix="h">
+    	     Payments pursuant to contracts under this section may be made in advance or by way of reimbursement and in such installments and on such conditions as the department determines will most effectively carry out the provisions of this chapter; provided, however, that payments pursuant to contracts under this section with regional EMS councils shall be made annually.
+        </section>
+    </text>
+</law>

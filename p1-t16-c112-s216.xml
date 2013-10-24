@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>216</section_number>
+    <catch_line>Authorized Activities For Nonlicensed Perfusionists</catch_line>
+    <order_by>216</order_by>
+    <text>
+        <section prefix="a">
+    	     any person licensed in the commonwealth by any other statute from engaging in activities within the scope of practice of the profession or occupation for which he is licensed provided that he does not represent to the public, directly or indirectly, that he is licensed under sections 213 to 219, inclusive, and that he does not use any name, title or designation indicating that the person is licensed under said sections 213 to 219, inclusive;
+        </section>
+        <section prefix="b">
+    	     any person employed as a perfusionist by the federal government or an agency thereof if such person provides perfusion services solely under the direction and control of the organization by which he is employed;
+        </section>
+        <section prefix="c">
+    	     a student enrolled in an accredited perfusion education program if perfusion services performed by the student are an integral part of the student’s course of study and are performed under the direct supervision of a licensed perfusionist assigned to supervise the student and who is on duty and immediately available in the assigned patient care area and if the person is designated by a title which clearly indicates his status as a student or trainee;
+        </section>
+        <section prefix="d">
+    	     any person performing perfusion services in the commonwealth and who is certified by the American Board of Cardiovascular Perfusion if the activities are performed for not more than 14 days per calendar year in association with a perfusionist licensed under this section; or
+        </section>
+        <section prefix="e">
+    	     any person performing autotransfusion who possesses appropriate training and practices within the American Association of Blood Banks’ guidelines under the supervision of a licensed physician.
+        </section>
+    </text>
+</law>

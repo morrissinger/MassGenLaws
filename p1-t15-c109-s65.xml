@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>65</section_number>
+    <catch_line>Revocation Of Authority Of Foreign Limited Partnership To Transact Business In Commonwealth; Notice; Effective Date</catch_line>
+    <order_by>65</order_by>
+    <text>
+        <section prefix="a">
+    	     The state secretary may commence a proceeding to revoke the authority of a foreign limited partnership to transact business in the commonwealth if:
+        </section>
+        <section prefix="1">
+    	     the limited partnership has failed for 2 consecutive years to comply with the laws requiring the filing of annual reports; or
+        </section>
+        <section prefix="2">
+    	     he is satisfied that the revocation of the limited partnership’s authority to transact business in the commonwealth would be in the public interest.
+        </section>
+        <section prefix="b">
+    	     If the state secretary determines that grounds exist under subsection (a), he shall serve the limited partnership with written notice of his determination. The notice shall be sent to the address of the foreign limited partnership. If, within 90 days after the notice, the limited partnership fails to correct each ground for revocation or fails to demonstrate to the reasonable satisfaction of state secretary that each ground determined by the state secretary does not exist, the state secretary of state shall administratively revoke the authority of the foreign limited partnership to transact business in the commonwealth.
+        </section>
+        <section prefix="c">
+    	     The authority of the foreign limited partnership to transact business in the commonwealth shall cease on the date the state secretary makes such revocation effective.
+        </section>
+    </text>
+</law>

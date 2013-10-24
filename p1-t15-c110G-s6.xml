@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Construction Of Chapter</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     to facilitate electronic transactions consistent with other applicable law;
+        </section>
+        <section prefix="2">
+    	     to be consistent with reasonable practices concerning electronic transactions and with the continued expansion of those practices; and
+        </section>
+        <section prefix="3">
+    	     to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it.
+        </section>
+    </text>
+</law>

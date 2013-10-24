@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>238</section_number>
+    <catch_line>License Requirement For Masters, Journeypersons And Apprentices;  Display Of License Or Certificate; Display Of Designation And Number In Advertisements</catch_line>
+    <order_by>238</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall engage in work as a master, journeyperson or apprentice nor shall any person advertise or represent that he is a master, journeyperson or apprentice unless that person holds a valid license issued by the board as provided in this chapter.
+        </section>
+        <section prefix="b">
+    	     The license or certificate of a master, journeyperson or apprentice shall be displayed when required by an inspector of buildings or an inspector acting on behalf of the board. The inspectors may enforce this section by entering into an establishment where the licensees are performing their work.
+        </section>
+        <section prefix="c">
+    	     A sign, listing or advertisement of a sheet metal business, master or that of a journeyperson sheet metal worker shall contain his designation and license number.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111L" order_by="111L" level="3">Biotechnology</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Public Institutional Review Board; Contract With Research Institutions</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The University of Massachusetts Medical School at Worcester shall establish and maintain, subject to appropriation, a public institutional review board. The public institutional review board shall be available on an ongoing basis to an institution having not more than 50 full-time employees for review of that institution’s experimentation, study and procedures for the purposes of conducting research pursuant to this chapter.
+        </section>
+        <section prefix="b">
+    	     An institution may access the services of the public institutional review board only through a written instrument of contract. The contract shall include the payment to the public institutional review board of a reasonable fee, calculated pursuant to a methodology approved by the University of Massachusetts Medical School to account for the costs of operating and maintaining the public institutional review board, and the relevant portion of those costs attributable to the particular institution receiving the benefit.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>81</section_number>
+    <catch_line>Application Of Secs. 80 To 80 A; Government Employees</catch_line>
+    <order_by>81</order_by>
+    <text>
+        Neither section eighty nor eighty A, as the case may be, shall apply to any person duly licensed to practice nursing within any other jurisdiction, while discharging official duties as an employee of the federal government.
+    </text>
+</law>

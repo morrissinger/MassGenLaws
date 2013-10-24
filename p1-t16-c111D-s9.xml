@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Correction Of Deficiencies; Orders</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Whenever the department finds upon inspection, or through information in its possession, that a clinical laboratory licensed under this chapter is not in compliance with a requirement prescribed in or established under this chapter, it may by order require the licensee to correct such deficiency. Every correction order shall include a statement of the deficiencies found, the provisions of law relied upon, and the period prescribed for correction, which shall be reasonable and, except in an emergency declared by the commissioner, not less than thirty days after receipt of such order. Within ten days of receipt, the affected licensee may file a written request with the department for administrative reconsideration of the order or any portion thereof. Failure by the department to grant, deny, or otherwise act upon a written request within ten days after filing shall be deemed a denial.
+    </text>
+</law>

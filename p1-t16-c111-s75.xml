@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>75</section_number>
+    <catch_line>Unlawful Use Of Buildings For Hospitals</catch_line>
+    <order_by>75</order_by>
+    <text>
+        Whoever occupies or uses a building for a hospital in a part of a town prohibited by the aldermen or selectmen shall forfeit not more than fifty dollars for every month of such occupancy or use and in like proportion for a shorter time. The supreme judicial or superior court may restrain such occupancy or use.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>68A</section_number>
+    <catch_line>Examination For Use Of Diagnostic Pharmaceutical Agents</catch_line>
+    <order_by>68A</order_by>
+    <text>
+        <section prefix="A">
+    	     general pharmacology: four hours in biochemistry; eight hours in general physiology, two of which shall be in pediatric physiology; eight hours in pharmacology, three of which shall be in pediatric pharmacology; and ten hours in indications and ocular effects of commonly prescribed drugs, two of which shall be in indications of effects in pediatric situations;
+        </section>
+        <section prefix="B">
+    	     ocular pharmacology: eight hours in ocular pharmacology and eight hours in the study of particular topically applied agents, including but not limited to, anesthetics, dyes, mydriatics, cycloplegics, and contact lens solutions;
+        </section>
+        <section prefix="C">
+    	     interpretation and patient management: six hours each in the study of anterior and posterior segment, two hours in pediatric eye diseases; two hours in glaucoma; and one hour in ocular emergency;
+        </section>
+        <section prefix="D">
+    	     cardiopulmonary resuscitation, including treatment of anaphylaxis: four hours; and
+        </section>
+        <section prefix="E">
+    	     supervised clinical practice, including six hours in pediatric practice: thirty hours.
+        </section>
+    </text>
+</law>

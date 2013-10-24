@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>411</section_number>
+    <catch_line>Judicial Review Of Orders</catch_line>
+    <order_by>411</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person aggrieved by a final decision of the secretary in an adjudicatory proceeding may obtain judicial review pursuant to section fourteen of chapter thirty A.
+        </section>
+        <section prefix="b">
+    	     The commencement of proceedings under subsection (a) does not, unless specifically ordered by the court, operate as a stay of the secretary’s order.
+        </section>
+    </text>
+</law>

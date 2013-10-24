@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110F" order_by="110F" level="3">Business Combinations With Interested Shareholders</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Business Combinations With Interested Stockholders; Restrictions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     prior to such date the board of directors of the corporation approved either the business combination or the transaction which resulted in the stockholder becoming an interested stockholder; or
+        </section>
+        <section prefix="b">
+    	     upon consummation of the transaction which resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least ninety percent of the voting stock of the corporation outstanding at the time the transaction commenced, excluding for purposes of determining the number of shares outstanding, those shares owned by (1) persons who are directors and also officers and (2) employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or
+        </section>
+        <section prefix="c">
+    	     on or subsequent to such date the business combination is approved by the board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least two-thirds of the outstanding voting stock which is not owned by the interested stockholder.
+        </section>
+    </text>
+</law>

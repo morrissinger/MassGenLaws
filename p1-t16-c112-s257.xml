@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>257</section_number>
+    <catch_line>Practice Of Genetic Counseling By Unlicensed Persons; Exceptions</catch_line>
+    <order_by>257</order_by>
+    <text>
+        <section prefix="a">
+    	     any person licensed, certified, or registered in the commonwealth, by any other statute other than as a genetic counselor from engaging in activities within the scope of practice of the profession or occupation for which he is licensed provided that he does not represent to the public, directly or indirectly, that he is licensed under section 239 or under section 105 of chapter 13, and that he does not use any name, title or designation indicating that the person is licensed under those sections;
+        </section>
+        <section prefix="b">
+    	     any person employed as a genetic counselor by the federal government or an agency thereof if such person provides genetic counseling services solely under the direction and control of the organization by which he is employed;
+        </section>
+        <section prefix="c">
+    	     a student or intern enrolled in an approved genetic counseling education program if genetic counseling services performed by the student are an integral part of the student’s course of study and are performed under the direct supervision of a licensed genetic counselor assigned to supervise the student and who is on duty and available in the assigned patient care area and if the person is designated by a title which clearly indicates his status as a student or intern;
+        </section>
+        <section prefix="d">
+    	     an individual trained as a genetic counselor, who is reapplying for the ABGC certification examination and gathering logbook cases under general supervision in an approved genetic counseling training site;
+        </section>
+        <section prefix="e">
+    	     an individual trained as a Ph.D. medical geneticist who is reapplying for the ABMG certification examination and is gathering logbook cases under a supervisor identified in the training program’s ABMG accreditation documents as a member of the training faculty; and
+        </section>
+        <section prefix="f">
+    	     visiting ABGC or ABMG-certified genetic counselors from outside the commonwealth operating as consultants or the use of occasional services of organizations from outside the commonwealth employing ABGC or ABMG-certified genetic counselors.
+        </section>
+    </text>
+</law>

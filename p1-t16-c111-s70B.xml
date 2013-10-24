@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>70B</section_number>
+    <catch_line>Notice Of Lien</catch_line>
+    <order_by>70B</order_by>
+    <text>
+        Such lien shall take effect if, prior to any such judgment, settlement or compromise, a written notice containing the name and address of the injured person, the date of the accident, the name and location of the provider of hospital, medical or dental services, the name of the person alleged to be liable to the injured person for the injuries received and, if applicable, the name and address of the health maintenance organization, or the hospital, medical, or dental service corporation, shall be mailed by the hospital, health maintenance organization, medical or dental service corporation, certified mail, return receipt requested, to such injured person, to his attorney, to the person alleged to be liable to such injured person for the injuries sustained and to any insurance carrier which has insured such person against liability.
+    </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111L" order_by="111L" level="3">Biotechnology</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Human Reproductive Cloning Prohibited; Creation Of Embryo For Purpose Of Research; Sale Of Embryos Or Gametes; Enforcement</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Human reproductive cloning is hereby prohibited. No person shall knowingly attempt, engage in, or assist in human reproductive cloning. No person shall knowingly purchase, sell, transfer or otherwise obtain human embryonic, gametic or cadaveric tissue for the purpose of human reproductive cloning.
+        </section>
+        <section prefix="b">
+    	     No person shall knowingly create an embryo by the method of fertilization with the sole intent of donating the embryo for research. Nothing in this section shall prohibit the creation of a pre-implantation embryo by somatic cell nuclear transfer, parthenogenesis or other asexual means for research purposes.
+        </section>
+        <section prefix="c">
+    	     No person shall knowingly and for valuable consideration purchase, sell, transfer or otherwise obtain human embryos, gametes or cadaveric tissue for research purposes. Nothing in this section shall prohibit a person from banking or donating their gametes for personal future use, or from donating their gametes to another person or from donating their gametes for research. Nothing in this chapter shall prohibit or regulate the use of in vitro fertilization for reproductive purposes.
+        </section>
+        <section prefix="d">
+    	     A person who is found to have knowingly violated subsection (a) shall be punished by imprisonment in a jail or house of correction for not less than 5 years nor more than 10 years or by imprisonment in the state prison for not more than 10 years or by a fine of not more than $1,000,000. In addition to such penalty, and at the discretion of the court, a person who is found to have knowingly violated this section and derives a personal financial profit from such violation may be ordered to pay all or part of any such profits to the commonwealth as damages.
+        </section>
+        <section prefix="e">
+    	     A person who is found to have knowingly violated subsection (b) or subsection (c) shall be punished by imprisonment in a jail or house of correction for not less than 1 year nor more than 2 years or by imprisonment in the state prison for not more than 5 years or by a fine of not more than $100,000.
+        </section>
+    </text>
+</law>

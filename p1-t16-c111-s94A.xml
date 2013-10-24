@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>94A</section_number>
+    <catch_line>Certification Of Non Hospitalized Persons Afflicted With Active Tuberculosis; Examination; Transportation; Release</catch_line>
+    <order_by>94A</order_by>
+    <text>
+        <section prefix="a">
+    	     The board of health of any city or town, or any member thereof, or two physicians licensed to practice medicine in the commonwealth, may certify to the commissioner any non-hospitalized person who (1) is afflicted with active tuberculosis, (2) is unwilling or unable to accept proper medical treatment, and (3) is thereby a serious danger to the public health.
+        </section>
+        <section prefix="b">
+    	     On receipt of such certification the commissioner or his agent shall conduct or have conducted an examination of such person, and, if he concurs in the certification shall file a petition in the district court under section ninety-four C for the hospitalization of such person. If, however, such person refuses to submit to examination, the commissioner may order him to be hospitalized immediately at the tuberculosis treatment center, established under section ninety-four D for a fifteen-day observational period.
+        </section>
+        <section prefix="c">
+    	     If the commissioner or his agent concurs in the certification of the board of health, and finds that such person is in need of immediate hospitalization for the protection of the public health, he may order him to be hospitalized immediately at the tuberculosis treatment center for a fifteen-day emergency observational period.
+        </section>
+        <section prefix="d">
+    	     The commissioner or his agent may call on the police department of the city or town whose board of health certified such person, or the police department of the place where such person is present, to provide the transportation to the tuberculosis treatment center.
+        </section>
+        <section prefix="e">
+    	     If the patient is sent to the tuberculosis treatment center under this section, the superintendent thereof shall, at the expiration of fifteen days, either release the patient or file a petition with the district court under section ninety-four C. The patient may be detained at the center pending disposition of the petition.
+        </section>
+    </text>
+</law>

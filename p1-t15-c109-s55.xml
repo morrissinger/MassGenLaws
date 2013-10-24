@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>55</section_number>
+    <catch_line>Failure To Register; Capacity To Sue And Be Sued; Secretary Of State As Attorney Of Unregistered Or Withdrawn Partnerships</catch_line>
+    <order_by>55</order_by>
+    <text>
+        <section prefix="a">
+    	     A foreign limited partnership doing business in the commonwealth which fails to register with the secretary of state shall be subject to subdivision A of section 15.02 of chapter 156D relative to foreign corporations.
+        </section>
+        <section prefix="b">
+    	     Foreign limited partnership shall be liable to be sued and to have their property attached in the same manner and to the same extent as individuals who are residents of other jurisdictions. Every foreign limited partnership doing business in the commonwealth without having registered as prescribed in this section and every foreign limited partnership which shall have withdrawn from the commonwealth shall be considered to have appointed the secretary of state to be its true and lawful attorney upon whom all lawful process in any action or proceeding in the commonwealth may be served in the manner set forth in subsections (d), (e), (f) and (g) of section 15.10 of Part 15 of chapter 156D relative to foreign corporations.
+        </section>
+    </text>
+</law>

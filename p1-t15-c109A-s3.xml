@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Insolvency; Excluded Assets</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     A debtor is insolvent if the sum of the debtor’s debts is greater than all of the debtor’s assets, at a fair valuation.
+        </section>
+        <section prefix="b">
+    	     A debtor who is generally not paying his debts as they become due is presumed to be insolvent.
+        </section>
+        <section prefix="c">
+    	     A partnership is insolvent under subsection (a) if the sum of the partnership’s debts is greater than the aggregate, at a fair valuation, of all of the partnership’s assets, and the sum of the excess of the value of each general partner’s nonpartnership assets over the partner’s nonpartnership debts.
+        </section>
+        <section prefix="d">
+    	     Assets under this section shall not include property that has been transferred, concealed, or removed with intent to hinder, delay, or defraud creditors or that has been transferred in a manner making the transfer voidable under this chapter.
+        </section>
+        <section prefix="e">
+    	     Debts under this section shall not include an obligation to the extent it is secured by a valid lien on property of the debtor not included as an asset.
+        </section>
+    </text>
+</law>

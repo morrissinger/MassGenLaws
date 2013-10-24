@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110C" order_by="110C" level="3">Regulation Of Take Over Bids In The Acquisition Of Corporations</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Severability</catch_line>
+    <order_by>13</order_by>
+    <text>
+        The provisions of this chapter are severable and if any such provision or the application of such provision to any person or circumstances shall be held to be invalid or unconstitutional, such invalidity or unconstitutionality shall not affect the validity or constitutionality of any of the remaining provisions of this chapter or the application of such provision to said person or circumstances.
+    </text>
+</law>

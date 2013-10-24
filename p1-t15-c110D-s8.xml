@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110D" order_by="110D" level="3">Regulation Of Control Share Acquisitions</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Inconsistency With Other Laws; Chapter Governing</catch_line>
+    <order_by>8</order_by>
+    <text>
+        To the extent that this chapter is inconsistent with chapter 156D, 164 or 182, the provisions of this chapter shall govern. 
+No provisions of this chapter shall be deemed to limit the power of an association or trust to amend its instrument or declaration of trust to the extent otherwise lawful.
+    </text>
+</law>

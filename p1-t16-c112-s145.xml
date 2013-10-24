@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>145</section_number>
+    <catch_line>Activities And Services Of Certain Parties</catch_line>
+    <order_by>145</order_by>
+    <text>
+        <section prefix="1">
+    	     a qualified person licensed in the commonwealth under any other law from engaging in the profession or business for which he is licensed, including activities and services by a physician licensed to practice medicine and surgery and by a person employed by and under the direct supervision of such physician.
+        </section>
+        <section prefix="2">
+    	     a person engaged in the specialty of hearing aid fitting and sales; provided, however, that no separate or additional fee for hearing testing or interpretation of such tests is received; and provided further, that the person fitting or selling such hearing aids does not present himself as an audiologist unless such person is licensed as an audiologist in the commonwealth. This clause does not preclude remuneration for any other service offered solely in conjunction with the fitting or maintaining of a hearing aid.
+        </section>
+        <section prefix="3">
+    	     a teacher of esophageal speech, a certified industrial audiometric technician or an audiometric screening technician provided that such person engages in no other practice of speech-language pathology or audiology.
+        </section>
+        <section prefix="4">
+    	     a person engaged in fulfilling the requirements set forth in clauses (2) and (3) of section one hundred and forty-four.
+        </section>
+    </text>
+</law>

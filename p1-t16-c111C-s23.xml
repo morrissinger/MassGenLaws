@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>23</section_number>
+    <catch_line>Action By Department; Adjudicatory Hearing; Written Request</catch_line>
+    <order_by>23</order_by>
+    <text>
+        Any person subject to an action by the department to revoke, suspend, deny or take any other action with respect to any license, certification, designation or any other approval under this chapter shall, upon the filing of a written request with the department, be afforded an adjudicatory hearing pursuant to chapter 30A.
+    </text>
+</law>

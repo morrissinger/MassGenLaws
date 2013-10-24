@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Prohibition Of Certain Acts By Osteopaths</catch_line>
+    <order_by>11</order_by>
+    <text>
+        No person now registered as an osteopath under section one or two of chapter five hundred and twenty-six of the acts of nineteen hundred and nine shall prescribe or administer drugs for internal use, perform major operations in surgery, engage in the practice of obstetrics, or hold himself out, by virtue of such registration, as and for other than an osteopath. Violation hereof shall be punished by the penalty provided in section six.
+    </text>
+</law>

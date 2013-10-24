@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>219</section_number>
+    <catch_line>Meningitis Immunization Awareness</catch_line>
+    <order_by>219</order_by>
+    <text>
+        The commissioner shall adopt regulations requiring a public or private secondary school, college, university, child care center or youth camp to distribute to the parent or guardian of a child in its care information regarding the risk of meningococcal disease and the availability, effectiveness and the risks of the meningitis vaccine.
+    </text>
+</law>

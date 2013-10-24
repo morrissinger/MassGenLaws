@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110E" order_by="110E" level="3">Regulation Of Control Share Acquisitions Of Foreign Corporations</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Inconsistency With Other Laws; Applicability Of Chapter</catch_line>
+    <order_by>6</order_by>
+    <text>
+        If the jurisdiction under the laws of which an issuing public corporation is organized has adopted or adopts any law which expressly limits, restricts or otherwise affects the voting rights of any person in the event that such person acquires or proposes to acquire shares of such issuing public corporation which exceed or meet any level or range of ownership or voting powers specified in such law, and such law contains provisions that are expressly inconsistent with the provisions of this chapter as applicable to such issuing public corporation, the provisions of this chapter shall be inapplicable to such issuing public corporation to the extent necessary to resolve such inconsistency.
+    </text>
+</law>

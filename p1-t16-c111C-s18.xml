@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Restraint Of Patient By Emt; Written Report</catch_line>
+    <order_by>18</order_by>
+    <text>
+        Subject to regulations and guidelines promulgated by the department, an emergency medical technician may restrain a patient who presents an immediate or serious threat of bodily harm to himself or others. Any such restraint shall be noted in the written report of said emergency medical technician.
+    </text>
+</law>

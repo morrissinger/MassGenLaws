@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>121</section_number>
+    <catch_line>Issuance Of License Without Examination</catch_line>
+    <order_by>121</order_by>
+    <text>
+        Notwithstanding the provisions of section one hundred and twenty, the board may issue a license without examination to an applicant who presents evidence that he has been licensed or certified as a psychologist by a similar board of another jurisdiction whose standards, in the opinion of the board, are not lower than those required in the commonwealth; or that he holds a diploma from a nationally recognized board or agency approved by the board.
+    </text>
+</law>

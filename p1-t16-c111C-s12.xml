@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>State Medical Director; Regional Medical Directors; Duties</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner shall appoint a state medical director, who shall serve at the pleasure of the commissioner, and who shall be a qualified emergency physician. The department may establish additional qualifications for the position of state medical director by regulation. The duties and responsibilities of the state medical director shall be to:
+        </section>
+        <section prefix="1">
+    	     provide clinical oversight for the state’s EMS system assuring that adequate and appropriate attention is paid to the special needs of children and other special populations;
+        </section>
+        <section prefix="2">
+    	     advise the department on clinical standards and protocols, qualifications of EMS personnel to operate under medical direction, and statewide on-line and off-line pre-hospital treatment protocols;
+        </section>
+        <section prefix="3">
+    	     establish and lead a continuous quality improvement system for the clinical aspects of the state’s EMS system, including, without limitation, a system of case reviews to be conducted by medical peer review committees established for the purpose of reviewing EMS;
+        </section>
+        <section prefix="4">
+    	     provide other related services as may be required by the department from time to time.
+        </section>
+        <section prefix="b">
+    	     Each regional EMS council shall appoint a regional medical director, who shall be a qualified emergency physician. The department may establish additional qualifications for the position of regional medical director by regulation. The duties and responsibilities of each regional medical director shall be, under the general direction and oversight of the state medical director, to:
+        </section>
+        <section prefix="1">
+    	     provide clinical oversight for the region’s emergency medical services system assuring that adequate and appropriate attention is paid to the special needs of children and other special populations;
+        </section>
+        <section prefix="2">
+    	     advise the regional EMS council on clinical standards and protocols, including, without limitation, qualifications of EMS personnel to operate under medical direction and statewide on-line and off-line pre-hospital treatment protocols;
+        </section>
+        <section prefix="3">
+    	     establish and lead continuous quality improvement system for the clinical aspects of the region’s EMS system, including, without limitation, a system of case reviews to be conducted by medical peer review committees established for the purpose of reviewing EMS;
+        </section>
+        <section prefix="4">
+    	     provide other related services as may be required by the council, from time to time.
+        </section>
+    </text>
+</law>

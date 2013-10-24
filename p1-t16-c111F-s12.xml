@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Material Safety Data Sheets; Examination By Employee’S Physician;  Disclosure Of Information</catch_line>
+    <order_by>12</order_by>
+    <text>
+        An employer or the preparer of an MSDS shall provide said MSDS, including information withheld as a trade secret, immediately on a confidential basis to an employee’s treating physician who states in writing that in his professional judgment said employee’s medical condition may be the result of occupational exposure to a toxic or hazardous substance present in the employee’s workplace; provided, however, that such treating physician shall be required to sign concurrently, or in the case of geographical separation within twenty-four hours a confidentiality agreement, the form of which shall be promulgated by the commissioner of DPH. This agreement shall restrict the use of information to health purposes, prohibit disclosure of the information to anyone other than the treating physician and necessary medical personnel, and may provide for compensation or other legally appropriate relief for any competitive harm which may result from a breach of the agreement.
+    </text>
+</law>

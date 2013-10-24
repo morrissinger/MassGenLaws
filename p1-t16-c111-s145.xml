@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>145</section_number>
+    <catch_line>Damages</catch_line>
+    <order_by>145</order_by>
+    <text>
+        Whoever is injured in the comfort or enjoyment of his estate by such nuisance may recover in tort the damages sustained thereby.
+    </text>
+</law>

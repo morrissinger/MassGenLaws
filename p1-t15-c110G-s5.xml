@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Transactions Governed By Chapter; Consent Of Parties; Waiver</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     This chapter does not require a record or signature to be created, generated, sent, communicated, received, stored, or otherwise processed or used by electronic means or in electronic form.
+        </section>
+        <section prefix="b">
+    	     This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.
+        </section>
+        <section prefix="c">
+    	     A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.
+        </section>
+        <section prefix="d">
+    	     Except as otherwise provided in this chapter, the effect of any of its provisions may be varied by agreement. The presence in this chapter of the words “unless otherwise agreed”, or words of similar import, shall not imply that the effect of other provisions may not be varied by agreement.
+        </section>
+        <section prefix="e">
+    	     Whether an electronic record or electronic signature has legal consequences is determined by this chapter and other applicable law.
+        </section>
+    </text>
+</law>

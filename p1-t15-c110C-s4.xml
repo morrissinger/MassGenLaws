@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110C" order_by="110C" level="3">Regulation Of Take Over Bids In The Acquisition Of Corporations</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Information Required To Be Filed</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="1">
+    	     been convicted within the prior ten years of a felony, or
+        </section>
+        <section prefix="2">
+    	     been subject of a judgment or decree entered by a court or governmental agency with respect to laws relating to
+        </section>
+        <section prefix="a">
+    	     anti-trust,
+        </section>
+        <section prefix="b">
+    	     fair employment practices,
+        </section>
+        <section prefix="c">
+    	     purchase or sale of securities, or
+        </section>
+        <section prefix="d">
+    	     environmental protection; and
+        </section>
+    </text>
+</law>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110E" order_by="110E" level="3">Regulation Of Control Share Acquisitions Of Foreign Corporations</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     “Associate”, any person who directly or indirectly controls, or is controlled by, or is under common control with, a person or who is acting or intends to act jointly or in concert with a person in connection with a control share acquisition, “control”, as used in this subsection, meaning the possession, direct or indirect, of the power to direct or cause the direction of the management or policies of a person, whether through the ownership of voting securities, by contract or otherwise; any corporation or organization of which a person is an officer, director or partner or in which a person performs a similar function; any direct or indirect beneficial owner of ten percent or more of any class of equity securities of a person; any trust or estate in which a person has a beneficial interest not represented by transferable shares or as to which a person serves as trustee or in a similar fiduciary capacity; and any relative or spouse of a person, or any relative of such spouse, any one of whom has the same residence as such person.
+        </section>
+        <section prefix="b">
+    	     “Beneficial ownership”, the sole or shared power to dispose or direct the disposition of shares or the sole or shared power to vote or to direct the voting of shares, whether such power is direct or indirect or through any contract, arrangement, understanding, relationship or otherwise. A person shall not be deemed to be a beneficial owner of shares as to which such person may exercise voting power solely by virtue of a revocable proxy conferring the right to vote. A member of a national securities exchange shall not be deemed to be a beneficial owner of shares held directly or indirectly by it on behalf of another person solely because such member is the record holder of such securities and, pursuant to the rules of such exchange, may direct the vote of such shares, without instruction, on other than contested matters or matters that may affect substantially the rights or privileges of the holders of the shares to be voted but is otherwise precluded by the rules of such exchange from voting without instruction.
+        </section>
+        <section prefix="i">
+    	     one-fifth or more but less than one-third of all voting power;
+        </section>
+        <section prefix="ii">
+    	     one-third or more but less than a majority of all voting power; or
+        </section>
+        <section prefix="iii">
+    	     a majority or more of all voting power.
+        </section>
+        <section prefix="2">
+    	     Subject to the last paragraph of paragraph (1) of subsection (c), a “control share acquisition” does not include the acquisition of beneficial ownership of shares acquired:—
+        </section>
+        <section prefix="i">
+    	     before June twenty-sixth, nineteen hundred and eighty-seven; provided, however, that the aggregate of shares of beneficial ownership which is acquired before such date is within a range of voting power established by paragraph (1);
+        </section>
+        <section prefix="ii">
+    	     pursuant to a contract to acquire shares existing before June twenty-sixth, nineteen hundred and eighty-seven.
+        </section>
+        <section prefix="iii">
+    	     during any period after July fifteenth, nineteen hundred and eighty-seven that this chapter does not apply to the issuing public corporation pursuant to the provisions of section two;
+        </section>
+        <section prefix="iv">
+    	     by will or pursuant to the laws of descent and distribution;
+        </section>
+        <section prefix="v">
+    	     pursuant to the satisfaction of a pledge or other security interest created in good faith and not for the purpose of circumventing this chapter;
+        </section>
+        <section prefix="vi">
+    	     pursuant to a tender offer, merger or consolidation, but only if such tender offer, merger or consolidation is pursuant to an agreement of merger or consolidation to which the issuing public corporation is a party; or
+        </section>
+        <section prefix="vii">
+    	     directly from the issuing public corporation or a wholly-owned subsidiary thereof.
+        </section>
+        <section prefix="3">
+    	     The acquisition of beneficial ownership of shares of an issuing public corporation does not constitute a control share acquisition if the acquisition is made by or from:—
+        </section>
+        <section prefix="i">
+    	     a person whose voting rights with respect to shares of such corporation were previously authorized by the stockholders of the corporation in compliance with this chapter, unless such acquisition, when added to all other shares of such corporation beneficially owned by the person making such acquisition, would enable such acquiring person to vote or direct the voting of shares of such corporation having voting power in the election of directors in excess of the range of voting power within which all shares beneficially owned by such person whose voting rights were previously so authorized had voting power immediately following such authorization; or
+        </section>
+        <section prefix="ii">
+    	     a person whose previous acquisition of beneficial ownership of shares of such corporation would have constituted a control share acquisition but for paragraph (2) of subsection (c), unless such later acquisition, when added to all other shares of such corporation beneficially owned by the person making such acquisition, would entitle such acquiring person to vote or direct the voting of shares of such corporation having voting power in the election of directors in excess of the range of voting power within which the person who made such previous acquisition could exercise voting power immediately following such previous acquisition.
+        </section>
+        <section prefix="d">
+    	     “Interested shares”, the shares of an issuing public corporation which are beneficially owned by:—
+        </section>
+        <section prefix="i">
+    	     any person who has acquired or proposes to acquire beneficial ownership of shares of such issuing public corporation in a control share acquisition;
+        </section>
+        <section prefix="ii">
+    	     any officer of the issuing public corporation; or
+        </section>
+        <section prefix="iii">
+    	     any employee of the issuing public corporation who is also a director of such corporation.
+        </section>
+        <section prefix="e">
+    	     “Issuing public corporation”, a corporation that has been established, organized or chartered under laws other than those of the commonwealth that has:
+        </section>
+        <section prefix="i">
+    	     two hundred or more stockholders of record;
+        </section>
+        <section prefix="ii">
+    	     its principal executive office within the commonwealth and more of its employees or assets, including employees or assets of its majority owned subsidiaries, employed or located in the commonwealth than in any other state as of the end of any of its four fiscal quarters immediately preceding the control share acquisition as to which the determination is being made or, if earlier, immediately preceding the date on which a control share acquisition statement relating thereto is delivered pursuant to section three; and
+        </section>
+        <section prefix="iii">
+    	     either more than ten percent of its stockholders of record residing within the commonwealth or more than ten percent of its issued and outstanding shares owned of record by residents of the commonwealth.
+        </section>
+        <section prefix="f">
+    	     “Person”, any individual, corporation, partnership, unincorporated association or other entity, and any associate of any such person.
+        </section>
+    </text>
+</law>

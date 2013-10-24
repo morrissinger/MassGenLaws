@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>213</section_number>
+    <catch_line>Access To Facilities For Inspections; Rules And Regulations;  Phototherapy Devices Excluded</catch_line>
+    <order_by>213</order_by>
+    <text>
+        The board of health, local health agent, or department shall have access at all reasonable times to any tanning facility for the purposes of inspecting said facility. 
+The department may promulgate rules and regulations necessary for the implementation of sections two hundred and seven to two hundred and fourteen, inclusive, including, but not limited to, the maximum exposure limit for a person using a tanning device which limit shall not exceed the manufacturer’s recommended maximum exposure time. 
+The provisions of sections two hundred and seven to two hundred and fourteen, inclusive, shall not apply to a phototherapy device used by or under the supervision of a licensed physician who is trained in the use of such phototherapy device.
+    </text>
+</law>

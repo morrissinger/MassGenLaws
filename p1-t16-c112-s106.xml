@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>106</section_number>
+    <catch_line>Suspension Or Revocation Of Certificate; Reissuance</catch_line>
+    <order_by>106</order_by>
+    <text>
+        <section prefix="a">
+    	     that the holder of such certificate of registration is in violation of any provision of sections ninety-eight to one hundred and seven, inclusive, or of any rule or regulation promulgated by the board;
+        </section>
+        <section prefix="b">
+    	     that such certificate of registration was obtained by fraud or misrepresentation;
+        </section>
+        <section prefix="c">
+    	     that any money or thing of value, except fees prescribed or authorized by said sections, was paid or received to secure the issuance of such certificate of registration;
+        </section>
+        <section prefix="d">
+    	     that the holder of such certificate of registration has been guilty of a felony;
+        </section>
+        <section prefix="e">
+    	     that the holder of such certificate of registration has been guilty of fraud or deceit, or of gross negligence, incompetence or misconduct, in the use of the title of landscape architect; or
+        </section>
+        <section prefix="f">
+    	     that the holder of such certificate of registration has permitted or suffered his official seal to be affixed to any plans, specifications, drawings or reports, if such portions thereof as involve the practice of landscape architecture were not prepared by him or under his personal supervision by his regularly employed subordinates.
+        </section>
+    </text>
+</law>

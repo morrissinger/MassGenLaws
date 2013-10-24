@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23J</section_number>
+    <catch_line>Physical Therapist Assistants; Qualifications</catch_line>
+    <order_by>23J</order_by>
+    <text>
+        <section prefix="a">
+    	     be a graduate of a three or four year secondary school or has passed a high school equivalency test deemed acceptable to the board,
+        </section>
+        <section prefix="b">
+    	     be a graduate of an accredited educational program leading to professional qualification as physical therapist assistant and approved by the board,
+        </section>
+        <section prefix="c">
+    	     have passed an examination administered by the board. Such examination shall be written, and may, at the discretion of the board, in addition, be oral and demonstrative, and shall test the applicant’s knowledge of the basic and clinical sciences as they relate to physical therapy and other subjects as the board may deem useful to determine the applicant’s fitness to act as a physical therapist. The examination shall be conducted by the board at least twice each year and at times and places to be determined by the board.
+        </section>
+    </text>
+</law>

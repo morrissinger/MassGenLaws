@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110F" order_by="110F" level="3">Business Combinations With Interested Shareholders</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Maximum Required Vote Of Shareholders</catch_line>
+    <order_by>4</order_by>
+    <text>
+        No provision of a corporation’s articles of organization or by-laws shall require, for any vote of stockholders required by this chapter, a greater vote of stockholders than that specified in this chapter.
+    </text>
+</law>

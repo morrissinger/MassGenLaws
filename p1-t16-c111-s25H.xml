@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>25H</section_number>
+    <catch_line>Severability; Voidability Of Provisions In Violation Of Federal Law</catch_line>
+    <order_by>25H</order_by>
+    <text>
+        The provisions of sections twenty-five B to twenty-five G, inclusive, are severable and if any provision shall be in violation of any federal rule or regulation established by the Department of Health, Education and Welfare as a condition for receiving federal funds in connection with any program administered by said department, such provision shall be null and void and such violation shall not affect or impair any of the remaining provisions.
+    </text>
+</law>

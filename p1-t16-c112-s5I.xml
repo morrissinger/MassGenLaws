@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>5I</section_number>
+    <catch_line>Surgical And Other Procedures; Report Of Data Regarding Results</catch_line>
+    <order_by>5I</order_by>
+    <text>
+        The board shall have authority to require hospitals, physicians, health maintenance organizations and other medical service providers to provide data to it as to the results of specific surgical and other procedures performed by physicians on a physician by physician basis. Any information provided to the board pursuant to this section shall be subject to the confidentiality provisions set forth in section five of this chapter.
+    </text>
+</law>

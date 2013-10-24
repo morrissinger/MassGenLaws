@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Community Supervisory Committees; Establishment</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon issuance of the draft candidate site identification report, the board shall request the chief executive officer of each community in which is located all or part of a candidate site identified in such draft report to take appropriate action to establish a community supervisory committee for such community. Each community supervisory committee shall be composed of the chief executive officer or his designee, who shall serve as chairperson; the chairperson of the conservation commission or his designee; the chairperson of the board of health or his designee; the chairperson of the planning board or his designee; and three residents of the community nominated by the chief executive officer and approved by a majority vote of the city council or board of selectmen, who shall serve at the pleasure of the chief executive officer.
+        </section>
+        <section prefix="b">
+    	     If the chief executive officer of such community fails to take appropriate action to establish a community supervisory committee within forty-five days of the issuance of the draft candidate site identification report, the board shall designate a committee to assume the responsibilities of the community supervisory committee for such community until such community supervisory committee is established.
+        </section>
+        <section prefix="c">
+    	     The powers and duties of each community supervisory committee shall be:
+        </section>
+        <section prefix="1">
+    	     upon the designation of candidate sites pursuant to section twenty, to represent the best interests of the candidate site community in the site selection process established pursuant to sections twenty, twenty-three and twenty-four;
+        </section>
+        <section prefix="2">
+    	     upon selection of any superior site located within the community, to represent the best interests of the site community in the environmental review of, and licensing proceedings for the facility to be developed at such superior site and in the review and monitoring of facility operations; and
+        </section>
+        <section prefix="3">
+    	     to designate an operator and technology pursuant to section twenty-seven; and
+        </section>
+        <section prefix="4">
+    	     to receive and expend such technical assistance and planning funds as may be provided pursuant to this section.
+        </section>
+        <section prefix="d">
+    	     The board shall, in accordance with the regulations adopted under section four, provide sufficient funds to each community supervisory committee to enable it to acquire administrative and clerical personnel and to retain consultants necessary to exercise the powers and duties established in this section.
+        </section>
+        <section prefix="e">
+    	     Upon the expiration of thirty days after the selection of any superior site or, if a petition for an adjudicatory proceeding has been filed pursuant to section twenty-four, upon a final decision of the commissioner of the department of environmental protection approving the site selection, no further funds shall be provided, pursuant to this section, to community supervisory committees in communities other than a site community. Upon the execution of a comprehensive operating contract pursuant to section thirty-three, no further funds shall be provided to community supervisory committees in site communities pursuant to this section.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110" order_by="110" level="3">Labels, Trade Marks, Names And Registration Thereof</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>False Trade Marks, Dies; Sale Of Falsely Marked Goods</catch_line>
+    <order_by>26</order_by>
+    <text>
+        Violations of any provisions of sections four A and four B shall be punished by a fine of not more than two hundred dollars or by imprisonment for not more than one year, or both.
+    </text>
+</law>

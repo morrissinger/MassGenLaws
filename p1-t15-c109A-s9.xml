@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Voidable Transfers; Creditor’S Judgment</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     A transfer or obligation is not voidable under paragraph (1) of subsection (a) of section five against a person who took in good-faith and for a reasonably equivalent value or against any subsequent transferee or obligee.
+        </section>
+        <section prefix="b">
+    	     Except as otherwise provided in this section, to the extent a transfer is voidable in an action by a creditor under paragraph (1) of subsection (a) of section eight, the creditor may recover judgment for the value of the asset transferred, as adjusted under subsection (c), or the amount necessary to satisfy the creditor’s claim, whichever is less. The judgment may be entered against:
+        </section>
+        <section prefix="1">
+    	     the first transferee of the asset or the person for whose benefit the transfer was made; or
+        </section>
+        <section prefix="2">
+    	     any subsequent transferee other than a good-faith transferee or obligee who took for value or from any subsequent transferee or obligee.
+        </section>
+        <section prefix="c">
+    	     If the judgment under subsection (b) is based upon the value of the asset transferred, the judgment shall be for an amount equal to the value of the asset at the time of the transfer, subject to adjustment as the equities may require.
+        </section>
+        <section prefix="d">
+    	     Notwithstanding voidability of a transfer or an obligation under this chapter, a good-faith transferee or obligee is entitled, to the extent of the value given the debtor for the transfer or obligation, to
+        </section>
+        <section prefix="1">
+    	     a lien on or a right to retain any interest in the asset transferred;
+        </section>
+        <section prefix="2">
+    	     enforcement of any obligation incurred; or
+        </section>
+        <section prefix="3">
+    	     a reduction in the amount of the liability on the judgment.
+        </section>
+        <section prefix="e">
+    	     A transfer is not voidable under paragraph (2) of subsection (a) of section five or section six if the transfer results from:
+        </section>
+        <section prefix="1">
+    	     termination of a lease upon default by the debtor when the termination is pursuant to the lease and applicable law; or
+        </section>
+        <section prefix="2">
+    	     enforcement of a security interest in compliance with Article 9 of chapter one hundred and six.
+        </section>
+        <section prefix="f">
+    	     A transfer is not voidable under subsection (b) of section six:
+        </section>
+        <section prefix="1">
+    	     to the extent the insider gave new value to or for the benefit of the debtor after the transfer was made unless the new value was secured by a valid lien;
+        </section>
+        <section prefix="2">
+    	     if made in the ordinary course of business or financial affairs of the debtor and the insider; or
+        </section>
+        <section prefix="3">
+    	     if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured present value given for that purpose as well as an antecedent debt of the debtor.
+        </section>
+    </text>
+</law>

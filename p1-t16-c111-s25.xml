@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Publication Of Certificate Of Examination Or Results Of Analyses</catch_line>
+    <order_by>25</order_by>
+    <text>
+        The department shall publish in each issue of its official departmental publication, and also, if in its opinion the public health can be served thereby, may publish in one or more newspapers in the commonwealth, a certificate of the examination or analysis made under its authority during the preceding months of any article of food manufactured or offered for sale in the commonwealth which is adulterated within the meaning of chapter ninety-four; and it shall also publish, with such certificate of examination, a statement of the trade mark, brand mark or name, with the name and place of business of the manufacturer, appearing upon the package or box containing such adulterated article, or with the name and place of business of the wholesale dealer of whom the goods were obtained.
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Modification Of License; Written Request; Restrictions On Transfer, Assignment, And Abandonment</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     Any service seeking to modify any term of its license, including, without limitation, changing its number of certified EMS vehicles, changing its level of service, or adding or deleting places of business from which advanced life support services are provided, shall file a request in writing with the department. The department shall not grant such request unless it finds that the modification requested is in the public interest, and in the case of modification involving a substantial change in the nature and scope of the service, that such change serves a need for emergency medical care. A service may file a request for license modification as part of a renewal application under section 6, and the department shall consider, and act upon, such request and the application at the same time.
+        </section>
+        <section prefix="b">
+    	     No service shall abandon the license issued to it. No service shall cease operations other than temporarily, in the ordinary course of business, without surrendering its license to the department. No service shall transfer or assign in any manner, voluntarily, or involuntarily, directly or indirectly, or by transfer of control of any asset or any equity interest in any entity, the license issued to it, or any rights thereunder, without first obtaining the department’s written permission upon application to the department. Every application shall contain such information as the department may require and shall be disposed of in a timely manner. The department shall grant written permission only if the department finds that transferee or assignee is responsible and suitable to maintain a service and meets such requirements as the department has established by regulation for a license. Every denial order shall include a statement of the reasons for denial and the provisions of law relied upon, and shall be subject to judicial review through a petition for a writ of certiorari brought within 30 days under section 4 of chapter 249. Any transfer or assignment in violation of this section shall be void.
+        </section>
+    </text>
+</law>

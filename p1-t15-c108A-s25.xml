@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>25</section_number>
+    <catch_line>Ownership Of Specific Partnership Property; Tenancy In Partnership;  Incidents Of Tenancy</catch_line>
+    <order_by>25</order_by>
+    <text>
+        <section prefix="1">
+    	     A partner is co-owner with his partners of specific partnership property holding as a tenant in partnership.
+        </section>
+        <section prefix="2">
+    	     The incidents of this tenancy are such that:
+        </section>
+        <section prefix="a">
+    	     A partner, subject to the provisions of this chapter and to any agreement between the partners, has an equal right with his partners to possess specific partnership property for partnership purposes; but he has no right to possess such property for any other purpose without the consent of his partners.
+        </section>
+        <section prefix="b">
+    	     A partner’s right in specific partnership property is not assignable except in connection with the assignment of the rights of all the partners in the same property.
+        </section>
+        <section prefix="c">
+    	     A partner’s right in specific partnership property is not subject to attachment or execution, except on a claim against the partnership. When partnership property is attached for a partnership debt the partners, or any of them, or the representatives of a deceased partner, cannot claim any right under the homestead or exemption laws.
+        </section>
+        <section prefix="d">
+    	     On the death of a partner his right in specific partnership property vests in the surviving partner or partners, except where the deceased was the last surviving partner, when his right in such property vests in his legal representative. Such surviving partner or partners, or the legal representative of the last surviving partner, has no right to possess the partnership property for any but a partnership purpose.
+        </section>
+        <section prefix="e">
+    	     A partner’s right in specific partnership property is not subject to dower, curtesy, or allowances to widows, heirs, or next of kin.
+        </section>
+    </text>
+</law>

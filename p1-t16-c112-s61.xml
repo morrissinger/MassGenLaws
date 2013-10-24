@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>61</section_number>
+    <catch_line>Suspension, Revocation Or Cancellation Of Certificate, Registration, License Or Authority By Boards; Disciplinary Measures; Sanctions; Student Loan Defaulters; Review</catch_line>
+    <order_by>61</order_by>
+    <text>
+        <section prefix="1">
+    	     engaged in conduct which places into question the holder’s competence to practice the profession including, but not limited to, gross misconduct; practicing the profession fraudulently; practicing his profession beyond the authorized scope of his license, certificate, registration or authority; practicing the profession with gross incompetence; or practicing the profession with negligence on 1 or more than 1 occasion;
+        </section>
+        <section prefix="2">
+    	     engaged in the practice of his profession while the ability to practice was impaired by alcohol or drugs;
+        </section>
+        <section prefix="3">
+    	     violated any law, rule or regulation of the board of registration governing the practice of the profession;
+        </section>
+        <section prefix="4">
+    	     been convicted of a criminal offense which is reasonably related to the practice of the profession;
+        </section>
+        <section prefix="5">
+    	     engaged in dishonesty, fraud or deceit which is reasonably related to the practice of the profession;
+        </section>
+        <section prefix="6">
+    	     knowingly permitted, aided or abetted an unauthorized person in performing activities requiring a license, certificate, registration or authority; or
+        </section>
+        <section prefix="7">
+    	     had a license, certificate, registration or authority issued by another state or territory of the United States, the District of Columbia, or a foreign state or nation with authority to issue such a license, certificate, registration or authority revoked, cancelled, suspended, not renewed or otherwise acted against, or if the holder has been disciplined, if the basis for the action would constitute a basis for disciplinary action in the commonwealth.
+        </section>
+        <section prefix="1">
+    	     suspend, revoke, cancel, decline to renew, or place on probation such license, certificate, registration or authority;
+        </section>
+        <section prefix="2">
+    	     reprimand or censure a holder;
+        </section>
+        <section prefix="3">
+    	     assess upon the holder a civil administrative penalty, as determined by the board, not to exceed $100 for a first violation; $500 for a second violation; $1,500 for a third violation; or $2,500 for a fourth or subsequent violation;
+        </section>
+        <section prefix="4">
+    	     require the holder to complete additional education and training as a condition of retention or future consideration of reinstatement of the license, certificate, registration or authority;
+        </section>
+        <section prefix="5">
+    	     require the holder to practice under appropriate supervision for a period of time as determined by the board as a condition of retention or future consideration of reinstatement of the license, certificate, registration or authority;
+        </section>
+        <section prefix="6">
+    	     require the holder to participate in an alcohol or drug rehabilitation program as a condition of retention or future consideration of reinstatement of the license, certificate, registration or authority.
+        </section>
+    </text>
+</law>

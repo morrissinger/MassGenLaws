@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of this chapter the following words shall, unless the context requires otherwise, have the following meaning:—
+        </section>
+        <section prefix="b">
+    	     The department shall promulgate rules and regulations to carry out the provisions of this chapter and may further define in such rules and regulations any term used in this chapter; provided, however, that such definition is not contrary to a provision of the General Laws.
+        </section>
+    </text>
+</law>

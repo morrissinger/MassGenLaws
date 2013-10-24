@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>221</section_number>
+    <catch_line>Breastfeeding In A Public Place</catch_line>
+    <order_by>221</order_by>
+    <text>
+        <section prefix="a">
+    	     A mother may breastfeed her child in any public place or establishment or place which is open to and accepts or solicits the patronage of the general public and where the mother and her child may otherwise lawfully be present.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, the act of a mother breastfeeding her child, and any exposure of a breast incidental thereto that is solely for the purpose of nursing such child, shall not be considered lewd, indecent, immoral, or unlawful conduct.
+        </section>
+        <section prefix="c">
+    	     No person or entity, including a governmental entity, shall, with the intent to violate a mother’s right under subsection (a), restrict, harass or penalize a mother who is breastfeeding her child.
+        </section>
+        <section prefix="d">
+    	     The attorney general may bring a civil action for equitable relief to restrain or prevent a violation of subsection (c).
+        </section>
+        <section prefix="e">
+    	     A civil action may be brought under this section by a mother subjected to a violation of subsection (c). In any such action, the court may: (i) award actual damages in an amount not to exceed $500; (ii) enter an order to restrain such unlawful conduct; and (iii) award reasonable attorney fees.
+        </section>
+        <section prefix="f">
+    	     A place of religious instruction or worship shall not be subject to this section.
+        </section>
+    </text>
+</law>

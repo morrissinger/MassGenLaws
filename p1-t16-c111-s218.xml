@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>218</section_number>
+    <catch_line>Guidelines For Human Leukocyte Or Histocompatibility Locus Antigen Testing</catch_line>
+    <order_by>218</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner, in collaboration with the commissioner of insurance, shall establish guidelines, criteria, and rules or regulations, as may be necessary, to ensure that human leukocyte antigen testing or histocompatibility locus antigen testing conducted for the purposes of section 17H of chapter 32A, section 47V of chapter 175, section 8V of chapter 176A, section 4V of chapter 176B and section 4N of chapter 176G conform to medical eligibility requirements and other test protocols established by the United States food and drug administration, the American Association of Blood Banks, the joint commission on accreditation of health care organizations and the national marrow donor program registry. The eligibility of a health care facility to conduct such tests shall be established by such guidelines, criteria, rules or regulations, which shall further require such a facility to obtain informed consent from test subjects prior to conducting such tests, and at the time of obtaining such consent, to advise a test subject of the opportunity to participate in the national marrow donor program.
+        </section>
+        <section prefix="b">
+    	     The commissioner shall convene an advisory group of medical experts to assist in making recommendations relative to such guidelines, criteria, rules or regulations, which shall include, but need not be limited to, oncologists recommended by the society of clinical oncology, medical researchers with expertise in the field of bone marrow transplantation, specialists in the area of medical ethics, representatives of bone marrow donation programs, a physician selected by the Massachusetts League of Community Health Centers, a physician selected by a hospital and medical service corporation, and a physician selected by the Massachusetts Association of Health Maintenance Organizations.
+        </section>
+    </text>
+</law>

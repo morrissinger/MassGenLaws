@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>87ZZ</section_number>
+    <catch_line>Fee; Purposes; Advance Payments</catch_line>
+    <order_by>87ZZ</order_by>
+    <text>
+        <section prefix="a">
+    	     Examination for a broker’s license or a salesman’s license; provided however that a veteran holding an honorable discharge or a blind person shall not be required to pay any examination fee; and provided, further, in the event the examination is conducted by an independent testing service designated by the board under the authority of section eighty-seven SS, in addition to the above fee, each individual shall pay to the testing service a fee, approved by the board, covering the actual cost of giving the examination.
+        </section>
+        <section prefix="b">
+    	     Issuance and renewal of a broker’s license; provided, however, that a blind person or a veteran suffering from paraplegia, as defined in section six B of chapter one hundred and fifteen, shall not be required to pay such fee.
+        </section>
+        <section prefix="c">
+    	     Issuance and renewal of a salesman’s license; provided, however, that a blind person or a veteran suffering from paraplegia, as defined in section six B of chapter one hundred and fifteen, shall not be required to pay such fee.
+        </section>
+        <section prefix="d">
+    	     The applicable fee for the issuance of a license shall be adjusted by the board on the basis of each month during which the license originally issued would be valid unless revoked or suspended and, for this purpose, any part of a month shall be considered as a full month.
+        </section>
+    </text>
+</law>

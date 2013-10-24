@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>5G</section_number>
+    <catch_line>Water Supply; Treatment Facilities</catch_line>
+    <order_by>5G</order_by>
+    <text>
+        The department may require by order a city, town, person or district maintaining a water supply to provide and operate such treatment facilities as are in its opinion necessary to insure the delivery of a safe water supply to all consumers. The supreme judicial or the superior court shall have jurisdiction in equity to enforce any such order.
+    </text>
+</law>

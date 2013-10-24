@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>73D</section_number>
+    <catch_line>Licensing Of Dispensing Opticians</catch_line>
+    <order_by>73D</order_by>
+    <text>
+        No person or corporation shall directly or indirectly engage in practice as a dispensing optician, unless he or the person employed by such corporation has been granted a license by the board of registration of dispensing opticians referred to in sections seventy-three E to seventy-three L, inclusive, as the board.
+    </text>
+</law>

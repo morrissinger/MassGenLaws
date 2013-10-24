@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>203A</section_number>
+    <catch_line>Document Disclosing Material Facts</catch_line>
+    <order_by>203A</order_by>
+    <text>
+        <section prefix="a">
+    	     Each investment adviser registered under this chapter shall disseminate to each client or prospective client a document disclosing material facts. The document shall include information concerning:
+        </section>
+        <section prefix="1">
+    	     compensation arrangements between the client and the investment adviser;
+        </section>
+        <section prefix="2">
+    	     the nature of services offered;
+        </section>
+        <section prefix="3">
+    	     business practices; and
+        </section>
+        <section prefix="4">
+    	     methods for obtaining information on disciplinary history and registration of the investment adviser and persons associated with the investment adviser.
+        </section>
+        <section prefix="b">
+    	     Each investment adviser and each of its representatives registered under this chapter shall disclose to each client before a purchase or sale is effected on behalf of the client:
+        </section>
+        <section prefix="1">
+    	     the total amount of sales commissions or other fees that may reasonably be expected to be charged or deducted in connection with the purchase or sale;
+        </section>
+        <section prefix="2">
+    	     that the adviser will receive the amount or a portion of the amount, or, in the case of a transaction to be effected through a broker-dealer that is a person associated or under common control with the adviser, that the broker-dealer is affiliated with the adviser and will receive the amount or portion of the amount; and
+        </section>
+        <section prefix="3">
+    	     the existence of any compensation arrangement with an issuer or other third party with respect to the recommended transaction.
+        </section>
+    </text>
+</law>

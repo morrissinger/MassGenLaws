@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application Of Chapter; Transactions Governed By Other Laws</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in subsection (b), this chapter applies to electronic records and electronic signatures relating to a transaction.
+        </section>
+        <section prefix="b">
+    	     This chapter shall not apply to a transaction to the extent it is governed by:
+        </section>
+        <section prefix="1">
+    	     A law governing the creation and execution of wills, codicils or testamentary trusts;
+        </section>
+        <section prefix="2">
+    	     Chapter 106, other than sections 1-107 and 1-206, section 2 and section 2A of said chapter 106;
+        </section>
+        <section prefix="3">
+    	     This chapter applies to a transaction governed by the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. section 7001 et. seq., but is not intended to limit, modify or supersede section 101(c) of that Act, 15 U.S.C. section 7001(c). This chapter shall not apply to a signature, contract or other record, or otherwise to any transaction, to the extent it is governed by any of the laws or bodies of law indicated in the following subsection:—
+        </section>
+        <section prefix="i">
+    	     a statute, regulation, or other rule of law governing the creation and execution of wills, codicils, or testamentary trusts;
+        </section>
+        <section prefix="ii">
+    	     a state statute, regulation, or other rule of law governing adoption, divorce or other matters of family law;
+        </section>
+        <section prefix="iii">
+    	     court orders or notices, or official court documents, including briefs, pleadings and other writings, required to be executed in connection with court proceedings;
+        </section>
+        <section prefix="iv">
+    	     a statute, regulation, or other rule of law governing any notice of the cancellation or termination of utility services, including water, heat and power; or of the default, acceleration, repossession, foreclosure, or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, a primary residence of an individual;
+        </section>
+        <section prefix="v">
+    	     a statute, regulation, or other rule of law governing the cancellation or termination of health insurance or benefits or life insurance benefits, excluding annuities;
+        </section>
+        <section prefix="vi">
+    	     a statute, regulation, or other rule of law governing recall of a product, or material failure of a product, that risks endangering health or safety; or
+        </section>
+        <section prefix="vii">
+    	     any document, required by a statute, regulation, or other rule of law governing, to accompany any transportation or handling of hazardous materials, pesticides or other toxic or dangerous materials.
+        </section>
+        <section prefix="c">
+    	     This chapter applies to an electronic record or electronic signature otherwise excluded from the application of this chapter under subsection (b) to the extent it is governed by a law other than those specified in said subsection (b).
+        </section>
+        <section prefix="d">
+    	     A transaction subject to this chapter shall also be subject to other applicable substantive law.
+        </section>
+    </text>
+</law>

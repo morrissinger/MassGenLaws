@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>111A</section_number>
+    <catch_line>Cerebral Palsy; Reports</catch_line>
+    <order_by>111A</order_by>
+    <text>
+        If a physician or hospital medical officer registered under section nine of chapter one hundred and twelve knows or has cause to believe that a person whom he is attending is afflicted with cerebral palsy, he shall give written notice thereof to the board of health of the city or town where the patient is being attended. Said board of health shall annually make such report to the department of the notices required under this section as the department by rule or regulation may prescribe. Such notices and such reports shall be solely for use of the boards of health and the department and shall not be open to public inspection or constitute a public record.
+    </text>
+</law>

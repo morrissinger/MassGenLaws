@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111L" order_by="111L" level="3">Biotechnology</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Policy; Fostering Research; Prohibiting Human Reproductive Cloning</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     human embryonic stem cell research and other research in the life sciences and regenerative medicine present a significant chance of yielding fundamental biological knowledge from which may emanate therapies to relieve, on a large scale, human suffering from disease and injury;
+        </section>
+        <section prefix="b">
+    	     the extraordinary biomedical scientists working within institutions of higher education, research institutes, hospitals, biotechnology companies and pharmaceutical companies can contribute significantly to the welfare of mankind by performing outstanding research in these fields; and
+        </section>
+        <section prefix="c">
+    	     it shall be the policy of the commonwealth to actively foster research and therapies in the life sciences and regenerative medicine by permitting research and clinical applications involving the derivation and use of human embryonic stem cells, including research and clinical applications involving somatic cell nuclear transfer, placental and umbilical cord cells and human adult stem cells and other mechanisms to create embryonic stem cells which are consistent with this chapter. It shall further be the policy of the commonwealth to prohibit human reproductive cloning.
+        </section>
+    </text>
+</law>

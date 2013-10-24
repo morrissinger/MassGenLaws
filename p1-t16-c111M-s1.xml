@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111M" order_by="111M" level="3">Individual Health Coverage</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Creditable Coverage And Resident Defined</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     obtained an exemption under clause Seventeenth, Seventeenth C, Seventeenth C1/2, Seventeenth D, Eighteenth, Twenty-second, Twenty-second A, Twenty-second B, Twenty-second C, Twenty-second D, Twenty-second E, Thirty- seventh, Thirty-seventh A, Forty-first, Forty-first A, Forty-first B, Forty- first C, Forty-second or Forty-third of section 5 of chapter 59;
+        </section>
+        <section prefix="2">
+    	     obtained an exemption under section 5C of said chapter 59;
+        </section>
+        <section prefix="3">
+    	     filed a Massachusetts resident income tax return under chapter 62;
+        </section>
+        <section prefix="4">
+    	     obtained a rental deduction under subparagraph (9) of paragraph (a) of Part B of section 3 of chapter 62;
+        </section>
+        <section prefix="5">
+    	     declared in a home mortgage settlement document that the mortgaged property located in the commonwealth would be occupied as his principal residence;
+        </section>
+        <section prefix="6">
+    	     obtained homeowner’s liability insurance coverage on property that was declared to be occupied as a principal residence;
+        </section>
+        <section prefix="7">
+    	     filed a certificate of residency and identified his place of residence in a city or town in the commonwealth in order to comply with a residency ordinance as a prerequisite for employment with a governmental entity;
+        </section>
+        <section prefix="8">
+    	     paid on his own behalf or on behalf of a child or dependent of whom the person has custody, resident in-state tuition rates to attend a state-sponsored college, community college or university;
+        </section>
+        <section prefix="9">
+    	     applied for and received public assistance from the commonwealth for himself or his child or dependent of whom he has custody;
+        </section>
+        <section prefix="10">
+    	     has a child or dependent, of whom he has custody, who is enrolled in a public school in a city or town in the commonwealth, unless the cost of such education is paid for by him, such child or dependent, or by another education jurisdiction;
+        </section>
+        <section prefix="11">
+    	     is registered to vote in the commonwealth;
+        </section>
+        <section prefix="12">
+    	     obtained any benefit, exemption, deduction, entitlement, license, permit or privilege by claiming principal residence in the commonwealth; or
+        </section>
+        <section prefix="13">
+    	     is a resident under any other written criteria under which the commissioner of revenue may determine residency in the commonwealth.
+        </section>
+    </text>
+</law>

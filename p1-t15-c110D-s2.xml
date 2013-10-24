@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110D" order_by="110D" level="3">Regulation Of Control Share Acquisitions</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Voting Rights Of Issuing Public Corporation Shares Acquired In Control Share Acquisitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     If the articles of organization or by-laws of an issuing public corporation provide, at the time of any control share acquisition which occurs prior to January first, nineteen hundred and eighty-eight, that this chapter shall apply to control share acquisitions of such corporation, shares of such corporation acquired in any such control share acquisition shall have only such voting rights as are authorized pursuant to the provisions of section five.
+        </section>
+        <section prefix="b">
+    	     If the board of directors of an issuing public corporation has adopted a vote prior to any control share acquisition which occurs prior to January first, nineteen hundred and eighty-eight, that the provisions of this chapter shall apply to control share acquisitions of such corporation, shares of such corporation acquired in any such control share acquisition shall have only such voting rights as are authorized pursuant to the provisions of section five. Within thirty days after the adoption of any such vote, the corporation shall submit to the state secretary a certificate signed under the penalties of perjury by the president or a vice president and by the clerk or an assistant clerk setting forth a copy of such vote of the directors, the date of adoption of such vote, and a certification that such vote was duly adopted by the directors.
+        </section>
+        <section prefix="c">
+    	     Unless the articles of organization or by-laws of an issuing public corporation provide, at the time of any control share acquisition which occurs on or after January first, nineteen hundred and eighty-eight, that the provisions of this chapter shall not apply to control share acquisitions of such corporation, shares of such corporation acquired in such control share acquisition shall have only such voting rights as are authorized pursuant to section five.
+        </section>
+        <section prefix="d">
+    	     If the articles of organization or by-laws of an issuing public corporation are amended to provide that the provisions of this chapter shall not apply to control share acquisitions of such corporation, or to eliminate a provision that this chapter shall not apply to control share acquisitions of such corporation, any such amendment shall apply only to control share acquisitions which occur after the effective date of such amendment.
+        </section>
+        <section prefix="e">
+    	     No amendment to the articles of organization adopted by a corporation pursuant to this section shall give any stockholder appraisal rights under section 13.02 of chapter 156D.
+        </section>
+    </text>
+</law>

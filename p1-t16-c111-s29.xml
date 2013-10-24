@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>29</section_number>
+    <catch_line>Weekly Reports Of Deaths From Diseases Dangerous To Public Health</catch_line>
+    <order_by>29</order_by>
+    <text>
+        Boards of health shall send to the department every week, upon forms to be prescribed by it, a report of deaths in their towns for the week ending Saturday noon, from all diseases declared by the department to be dangerous to the public health.
+    </text>
+</law>

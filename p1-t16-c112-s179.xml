@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>179</section_number>
+    <catch_line>Examinations For Original Certification; Requirements</catch_line>
+    <order_by>179</order_by>
+    <text>
+        <section prefix="1">
+    	     appropriate knowledge of technical terms commonly used in or related to real estate appraising, appraisal report writing, and economic concepts applicable to real estate;
+        </section>
+        <section prefix="2">
+    	     an understanding of the principles of land economics, real estate appraisal processes, and of problems likely to be encountered in gathering, interpreting, and processing data in carrying out appraisal disciplines;
+        </section>
+        <section prefix="3">
+    	     an understanding of the standards for the development and communication of real estate appraisals as provided herein;
+        </section>
+        <section prefix="4">
+    	     knowledge of theories of depreciation, cost estimating, methods of capitalization, and the mathematics of real estate appraisal that are appropriate for the classification of certificate applied for;
+        </section>
+        <section prefix="5">
+    	     knowledge of other principles and procedures as may be appropriate for the respective classifications;
+        </section>
+        <section prefix="6">
+    	     a basic understanding of real estate law; and
+        </section>
+        <section prefix="7">
+    	     understanding of the types of misconduct for which disciplinary proceedings may be initiated against a state-certified or state-licensed real estate appraiser.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>210</section_number>
+    <catch_line>Presence Of Operators; Protective Eyewear Required; Limitation Of Exposure And Temperature</catch_line>
+    <order_by>210</order_by>
+    <text>
+        A tanning facility shall at all times during operating hours have an operator present who is sufficiently knowledgeable in the correct operation of the tanning devices used at the tanning facility to be able to inform and assist each customer in the proper use of such tanning devices and to provided sanitized protective eyewear and towels. No person shall use a tanning device without such protective eyewear. 
+A tanning facility shall (i) limit each customer to the maximum exposure established by the department, (ii) control the interior temperature so it does not exceed one hundred degrees Fahrenheit, and (iii) use a timer that has an accuracy of plus or minus ten percent of any selected time interval and check that selected time has not been extended for each customer.
+    </text>
+</law>

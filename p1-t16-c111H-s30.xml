@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Notice Of Intent To Apply For Facility License; Environmental Impact Report</catch_line>
+    <order_by>30</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, the development, operation, closure, post-closure observation and maintenance and institutional control of a facility at any superior site shall be subject to sections sixty-one to sixty-two H, inclusive, of chapter thirty. No action taken pursuant to sections ten to twenty-eight, inclusive, shall be deemed to be a project within the meaning of section sixty-two of chapter thirty.
+        </section>
+        <section prefix="b">
+    	     Upon execution of the development contract pursuant to section twenty-eight, the operator shall prepare a notification to the secretary of the executive office of environmental affairs of the operator’s intent to apply for a facility license pursuant to section thirty-one and for such other permits, as defined in section sixty-two of chapter thirty, as may be required by law for the development or operation of a facility at the superior site. The contents of such notification shall substantially conform to the plans submitted by the operator pursuant to section twenty-seven or any revision thereof approved by the board. Upon approval of the contents of the notification by the board, after consultation with the community supervisory committee of each site community, the notification shall be filed with said secretary in accordance with the provisions of section sixty-two A of chapter thirty, and a copy thereof shall be transmitted to the department of public health.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding any provision of section sixty-two A of chapter thirty to the contrary, an environmental impact report shall be required on the proposed development, operation, closure, post-closure observation and maintenance and institutional control of a facility at any superior site. The report shall identify each community which can be expected to experience significant impacts as a result of the location, development, operation, closure, post-closure observation and maintenance and institutional control of the facility. In making a determination of the scope of the report pursuant to such section, the secretary of the executive office of environmental affairs may require an examination of only those candidate sites identified pursuant to section twenty as alternative sites for the facility.
+        </section>
+        <section prefix="d">
+    	     The development, operation, closure, post-closure observation and maintenance and institutional control of a facility at any superior site shall be considered a major and complicated project within the meaning of section sixty-two A of chapter thirty. In establishing a specific procedure for evaluation and review of the environmental impacts of the project, said secretary shall appoint a citizens advisory committee in accordance with regulations adopted pursuant to such section to perform the functions established thereunder. The citizens advisory committee shall be composed of the members of the community supervisory committee of each site community and not more than six additional members selected by said secretary.
+        </section>
+        <section prefix="e">
+    	     The public and agency review periods of thirty days for the notice of availability of any draft or final report established by section sixty-two C of chapter thirty shall each be extended for a period of thirty days. During periods for review of the draft environmental impact report, said secretary shall hold at least one public meeting on the report in each site community and additional public meetings in neighboring communities upon request by the chief executive officer of any such community.
+        </section>
+        <section prefix="f">
+    	     The final facility license decision of the department of public health pursuant to section thirty-one shall not be subject to the requirements of section sixty-two D of chapter thirty.
+        </section>
+    </text>
+</law>

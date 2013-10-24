@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>203</section_number>
+    <catch_line>Post Registration Provisions</catch_line>
+    <order_by>203</order_by>
+    <text>
+        <section prefix="a">
+    	     Every registered broker-dealer and investment adviser shall make and keep accounts, correspondence, memoranda, papers, books, and other records as the secretary prescribes by rule or order, except as limited by section 15 of the Securities Exchange Act of 1934, in the case of a broker-dealer, and by section 222 of the Investment Advisers Act of 1940, in the case of an investment adviser. All records so required, with respect to an investment adviser, shall be preserved for such period as the secretary prescribes by rule or order.
+        </section>
+        <section prefix="b">
+    	     With respect to investment advisers, the secretary may require that certain information be furnished or disseminated as necessary or appropriate in the public interest or for the protection of investors and advisory clients. To the extent determined by the secretary in his discretion, information furnished to clients or prospective clients of an investment adviser that would be in compliance with the Investment Advisers Act of 1940 and the rules thereunder may be used in whole or partial satisfaction of this requirement. The secretary may by rule or order require that such material be filed.
+        </section>
+        <section prefix="c">
+    	     Every registered broker-dealer and investment adviser shall file such financial reports as the secretary may prescribe by rule or order, except as provided by section 15 of the Securities Exchange Act of 1934, in the case of a broker-dealer, and section 222 of the Investment Advisers Act of 1940, in the case of an investment adviser.
+        </section>
+        <section prefix="d">
+    	     If the information contained in any document filed with the secretary is or becomes inaccurate or incomplete in any material respect, the registrant or federal covered adviser shall file a correcting amendment promptly if the document is filed with respect to a registrant, or when the amendment is required to be filed with the Securities and Exchange Commission if the document is filed with respect to a federal covered adviser, unless notification of the correction has been given under subsection (b) of section 201.
+        </section>
+        <section prefix="e">
+    	     All the records referred to in subsection (a) are subject at any time or from time to time to such reasonable periodic, special, or other examinations by representatives of the secretary, within or without the commonwealth, as the secretary deems necessary or appropriate in the public interest or for the protection of investors. For the purpose of avoiding unnecessary duplication of examinations, the secretary, insofar as he deems it practicable in administering this subsection, may cooperate with the securities administrators of other states, the Securities and Exchange Commission, and any national securities exchange or national securities association registered under the Securities Exchange Act of 1934.
+        </section>
+    </text>
+</law>

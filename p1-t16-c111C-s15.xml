@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Failure To Comply Under Certification, License Or Designation;  Correction Order; Administrative Reconsideration; Assessment; Collection</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     Whenever the department finds upon inspection or through information in its possession, that any person certified, licensed, designated or otherwise approved by the department under this chapter is not in compliance with a requirement established under this chapter, the department may order such person to correct such deficiency. Every such correction order shall include a statement of each deficiency found, the period prescribed within which each such deficiency shall be corrected, and the provisions of law relied upon.
+        </section>
+        <section prefix="b">
+    	     The department may assess a person ordered to correct a deficiency not more than $500 for each deficiency for each day the deficiency continues to exist beyond the date prescribed for correction. Before making an assessment, the department shall give the affected person notice of the matters alleged and the provisions of law relied upon and shall accord such person an opportunity for a hearing upon timely written request. If after hearing, or waiver thereof, the department determines that cause exists, it shall make an appropriate assessment. The affected person shall pay such assessment except to the extent that, upon judicial review, the reviewing court may reverse the final decision of the department.
+        </section>
+        <section prefix="c">
+    	     An assessment made under this section shall be due and payable to the commonwealth on the thirtieth day after notification to the affected licensee. The attorney general shall recover any assessment due and payable in an action of contract, or any other appropriate action, suit or proceeding, brought in the name of the commonwealth in the superior court. Upon the motion of the attorney general, such court may consolidate for hearing and decision a judicial review proceeding and an assessment collection proceeding if the proceedings result from the same administrative action.
+        </section>
+    </text>
+</law>

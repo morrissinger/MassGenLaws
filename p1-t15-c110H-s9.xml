@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Cancellation Of Registration</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary shall cancel from the register, in whole or in part:—
+        </section>
+        <section prefix="1">
+    	     a registration concerning which the secretary shall receive a voluntary request for cancellation thereof from the registrant or the assignee of record;
+        </section>
+        <section prefix="2">
+    	     registrations granted under this chapter and not renewed in accordance with the provisions hereof;
+        </section>
+        <section prefix="3">
+    	     a registration concerning which the superior court shall find:—
+        </section>
+        <section prefix="i">
+    	     that the registered mark has been abandoned,
+        </section>
+        <section prefix="ii">
+    	     that the registrant is not the owner of the mark,
+        </section>
+        <section prefix="iii">
+    	     that the registration was granted improperly,
+        </section>
+        <section prefix="iv">
+    	     that the registration was obtained fraudulently,
+        </section>
+        <section prefix="v">
+    	     that the mark is or has become the generic name for the goods or services, or a portion thereof, for which it has been registered,
+        </section>
+        <section prefix="vi">
+    	     that the registered mark is so similar, as to be likely to cause confusion or mistake or to deceive, to a mark registered by another person in the United States Patent and Trademark Office prior to the date of the filing of the application for registration by the registrant hereunder, and not abandoned; but, should the registrant prove that the registrant is the owner of a concurrent registration of a mark in the United States Patent and Trademark Office covering an area including the commonwealth, the registration hereunder shall not be cancelled for the area of the state, or
+        </section>
+        <section prefix="4">
+    	     when the superior court shall order cancellation of a registration on any ground.
+        </section>
+    </text>
+</law>

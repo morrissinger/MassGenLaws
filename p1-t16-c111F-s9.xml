@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Material Safety Data Sheets; Obligation To Provide To Purchaser</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person subject to the provisions of section eight shall be relieved of the obligation to provide a specific purchaser of a toxic or hazardous substance with a MSDS if he has a record of having provided the specific purchaser with the most recent version of the MSDS; or if the substance is labeled pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act; the Atomic Energy Act; the Food, Drug and Cosmetics Act; or if the article is one sold at retail and is incidentally sold to an employer or the employer’s employees, in the same form, approximate amount, concentration, and manner as it is sold to consumers, and, to the seller’s knowledge, employee exposure to the article is not significantly greater than the consumer exposure occurring during the principal consumer use of the article.
+        </section>
+        <section prefix="b">
+    	     If an employer is not supplied with an MSDS by a manufacturer or an intermediate seller for a toxic or hazardous substance pursuant to the mandates of section eight, said employer shall within a reasonable amount of time after discovering that an MSDS has not been supplied use diligent efforts to obtain said MSDS from the manufacturer or intermediate sellers. For purposes of this paragraph, “diligent efforts” shall mean a prompt inquiry by the employer to the manufacturer or intermediate seller of the toxic or hazardous substance requesting the MSDS with a copy of the request and any written response from the manufacturer or intermediate seller to be filed with the commissioners of DPH and DLI.
+        </section>
+    </text>
+</law>

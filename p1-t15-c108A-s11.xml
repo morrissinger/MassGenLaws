@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Admissions And Representations</catch_line>
+    <order_by>11</order_by>
+    <text>
+        An admission or representation made by any partner concerning partnership affairs within the scope of his authority as conferred by this chapter is evidence against the partnership.
+    </text>
+</law>

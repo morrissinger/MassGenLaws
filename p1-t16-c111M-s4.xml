@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111M" order_by="111M" level="3">Individual Health Coverage</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Review Of Applicability Or Affordability Determination</catch_line>
+    <order_by>4</order_by>
+    <text>
+        An individual subject to section 2, who disputes the determination of applicability or affordability, as enforced by the department of revenue, may seek a review of this determination through an appeal established by the board of the commonwealth health insurance connector, under chapter 176Q; provided, however, that no additional penalties shall be enforced against an individual seeking review until the review is complete and any subsequent appeals are exhausted.
+    </text>
+</law>

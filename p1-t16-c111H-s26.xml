@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Community Supervisory Committee Representatives, Appointment; Site Community Field Offices, Establishment</catch_line>
+    <order_by>26</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon the expiration of thirty days after the selection of any superior site or, if a petition for an adjudicatory proceeding has been filed pursuant to section twenty-four, upon a final decision of the commissioner of the department of environmental protection approving the site selection, the board shall request the chief executive officer of each neighboring community to appoint a representative to the community supervisory committee of each site community. If the chief executive officer of a neighboring community fails to take such action within twenty-one days of receiving such request, the board shall make the appointment.
+        </section>
+        <section prefix="b">
+    	     Within sixty days of the selection of any superior site or, if a petition for an adjudicatory proceeding has been filed pursuant to section twenty-four, within thirty days of a final decision of the commissioner of the department of environmental protection approving the site selection, the board shall establish a field office within a site community outside the boundaries of the superior site.
+        </section>
+    </text>
+</law>

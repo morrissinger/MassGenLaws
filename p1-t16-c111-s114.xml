@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>114</section_number>
+    <catch_line>Forfeiture Of Claim</catch_line>
+    <order_by>114</order_by>
+    <text>
+        A claim of a town against the commonwealth for reasonable expenses incurred by the board of health in making the provision required by law for persons infected with a disease dangerous to the public health shall not be defeated by reason of the failure on the part of the board to give notice of such disease to the department under section one hundred and twelve, if such claim is otherwise a valid claim against the commonwealth.
+    </text>
+</law>

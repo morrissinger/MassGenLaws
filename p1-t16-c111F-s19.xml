@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Material Safety Data Sheets; Release To Municipal Officials</catch_line>
+    <order_by>19</order_by>
+    <text>
+        A municipal coordinator who has obtained an MSDS from an employer pursuant to section sixteen may make available to another municipal official for the city or town in which the workplace of the employer is located, a copy of an MSDS, if he determines that an imminent threat to public health or safety exists for which immediate access to information contained in the MSDS is critical to that other municipal official’s performance of a duty imposed by statute, regulation, ordinance, or by-law. The municipal coordinator shall so inform the employer of the release of the MSDS to another municipal official.
+    </text>
+</law>

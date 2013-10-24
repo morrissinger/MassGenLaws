@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>41</section_number>
+    <catch_line>Contingent Liability Account; Institutional Control Account</catch_line>
+    <order_by>41</order_by>
+    <text>
+        <section prefix="a">
+    	     There is hereby established within the Low-Level Radioactive Waste Trust Fund, a contingent liability account and the institutional control account. The board shall determine annually the amount of revenues, raised from the surcharges imposed pursuant to section thirty-eight, that shall be deposited within each account; provided, however, that after such deposits, no amounts so deposited may be transferred between such accounts.
+        </section>
+        <section prefix="b">
+    	     The contingent liability account shall be used to pay compensation for injuries to persons, land or property resulting from the management of low-level radioactive waste pursuant to section nine.
+        </section>
+        <section prefix="c">
+    	     The institutional control account shall be used to pay institutional control costs pursuant to sections nine and forty-seven. The account shall be used by the board to purchase insurance coverage or otherwise to ensure the availability of funds to meet liability claims during the institutional control period; provided, however, that no portion of the monies held in the institutional control account may be used to satisfy judgments or settlements pursuant to section nine or for any other purpose other than institutional control of a facility.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>15</section_number>
+    <catch_line>Selection Of Operators; Adoption Of Regulations</catch_line>
+    <order_by>15</order_by>
+    <text>
+        <section prefix="a">
+    	     organizational information for the applicant and any proposed subcontractors detailing their legal structure, ownership and control and operational experience, and the background and qualifications of all officers, directors, partners and principal owners of each such firm and of the key personnel to be utilized in the performance of any contract with the board, and a description of the locations and operating experiences of existing or former operations of such persons; the history of compliance with, and any violations of federal, state or local requirements by such persons in any jurisdiction in which they or any of them have done business, and any felony convictions of such persons;
+        </section>
+        <section prefix="b">
+    	     a financial disclosure statement describing the applicant’s financial resources and proposed revenue plans and demonstrating that the applicant either possesses the necessary funds or has reasonable assurance of obtaining the necessary funds to cover the estimated costs of development and operation of a facility and will have sufficient funds available to carry out facility closure and post-closure observation and maintenance; and
+        </section>
+        <section prefix="c">
+    	     a preliminary facility development, operation, closure, post-closure observation and maintenance and institutional control plan including a description of the proposed technology or technologies to be utilized, and of the applicant’s staffing plans and personnel training program, safety and recordkeeping procedures, and emergency response plans.
+        </section>
+    </text>
+</law>

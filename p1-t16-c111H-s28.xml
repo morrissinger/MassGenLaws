@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Execution Of Development Contract</catch_line>
+    <order_by>28</order_by>
+    <text>
+        <section prefix="a">
+    	     Within sixty days of the selection of the operator pursuant to section twenty-seven, the board shall execute a development contract under which such operator shall be obligated to fulfill all of the requirements of the facility approval process established in sections twenty-nine to thirty-four, inclusive, in accordance with the plans submitted by the operator pursuant to section twenty-seven or any revision thereof approved by the board, and specifying a bond to be posted in an amount to be determined by the board, payable to the board and conditioned on the faithful performance of the obligations, agreements and covenants specified in the development contract. The bond shall provide that, if the operator defaults on the development contract, it shall pay to the board all damages sustained as a result of the default. The commissioner of capital asset management and maintenance shall assist the board in overseeing the operator’s activities under the development contract and shall advise the board on the adequacy of such development activities. If no development contract is executed within sixty days of the designation of the operator or the required bond is not posted, the operator selection shall be set aside, and the procedures established in section twenty-seven shall be repeated in order to select a replacement operator; provided, however, that the community supervisory committee shall select such replacement operator within thirty days of the expiration of the time for the operator originally selected to execute the development contract or post the performance bond.
+        </section>
+        <section prefix="b">
+    	     Within thirty days of the execution of the development contract, the operator shall establish a field office within a site community outside the boundaries of the superior site.
+        </section>
+    </text>
+</law>

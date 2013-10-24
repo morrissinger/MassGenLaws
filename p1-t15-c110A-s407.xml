@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>407</section_number>
+    <catch_line>Investigations And Subpoenas</catch_line>
+    <order_by>407</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary in his discretion (1) may make such public or private investigations within or outside of the commonwealth as he deems necessary to determine whether any person has violated or is about to violate any provision of this chapter or any rule or order hereunder, or to aid in the enforcement of this chapter or in the prescribing of rules and forms hereunder, (2) may require or permit any person to file a statement in writing, under oath or otherwise as the secretary determines, as to all the facts and circumstances concerning the matter to be investigated, and (3) may publish information concerning any violation of this chapter or any rule or order hereunder.
+        </section>
+        <section prefix="b">
+    	     For the purpose of any investigation or proceeding under this chapter, the secretary or any officer designated by him may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, agreements, or other documents or records which the secretary deems relevant or material to the inquiry.
+        </section>
+        <section prefix="c">
+    	     In case of contumacy by, or refusal to obey a subpoena issued to, any person, the superior court for the county in which the person is found or is an inhabitant or transacts business, upon application by the secretary, may issue to the person an order requiring him to appear before the secretary, or the officer designated by him, there to produce documentary evidence if so ordered or to give evidence touching the matter under investigation or in question. Failure to obey the order of the court may be punished by the court as a contempt of court.
+        </section>
+        <section prefix="d">
+    	     No person is excused from attending and testifying or from producing any document or record before the secretary, or in obedience to the subpoena of the secretary or any officer designated by him, or in any proceeding instituted by the secretary, on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty of forfeiture; but no individual may be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled, after claiming his privilege against self-incrimination, to testify or produce evidence, documentary or otherwise, except that the individual testifying is not exempt from prosecution and punishment for perjury or contempt committed in testifying.
+        </section>
+    </text>
+</law>

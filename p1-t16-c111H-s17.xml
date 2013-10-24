@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Initiation Of Site Selection Process; Board Vote; Conditions</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall initiate the site selection process established in sections eighteen to twenty-three, inclusive, if it determines, by a two-thirds vote of its members, that it is necessary and appropriate to proceed with site selection. Such vote may be taken only if:
+        </section>
+        <section prefix="1">
+    	     the board has adopted a low-level radioactive waste management plan under section twelve, incorporating a finding that there is a requirement for additional facility capacity to meet present needs or needs anticipated to arise within the next decade;
+        </section>
+        <section prefix="2">
+    	     the department of public health has adopted regulations under section thirteen necessary to implement a program for source minimization, volume minimization and storage for decay by generators;
+        </section>
+        <section prefix="3">
+    	     the department of environmental protection has adopted, under section fourteen, criteria for selection of any superior site for the development and operation of a low-level radioactive waste management facility, guidelines for their application, and procedures for implementing the site selection process;
+        </section>
+        <section prefix="4">
+    	     the board has adopted regulations, under section fifteen, for the selection of operators; and
+        </section>
+        <section prefix="5">
+    	     the department of public health has adopted regulations, under section sixteen, for the licensing development, operation, closure, post-closure observation and maintenance and institutional control of a facility.
+        </section>
+        <section prefix="b">
+    	     No fewer than twenty-one days prior to a vote to initiate site selection pursuant to this section, the board shall issue a notice, satisfying the requirements of section two of chapter thirty A, of its intent to conduct such vote.
+        </section>
+        <section prefix="c">
+    	     Upon voting to initiate site selection, the board shall notify the chief executive officer of each community of the commencement of the site selection process, explaining in detail the site selection criteria, guidelines for their application and procedures for implementation of site selection, and offering the resources of the board and the public participation coordinator to assist communities in participating in the site selection process.
+        </section>
+    </text>
+</law>

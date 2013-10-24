@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>235</section_number>
+    <catch_line>Advertising By Massage Therapists</catch_line>
+    <order_by>235</order_by>
+    <text>
+        <section prefix="a">
+    	     Only persons duly licensed under this chapter shall be designated as massage therapists and entitled to use the term “massage” when advertising or printing promotional material. Any person who uses the term “massage” in his professional title without being authorized to do so shall be subject to discipline by the board. Anyone who: (i) knowingly aids and abets another to use the term “massage” as part of a professional title when the person is not authorized to do so; or (ii) knowingly employs persons not authorized to use the regulated professional title in the course of such employment, shall also be subject to a disciplinary proceeding before the board. It shall also be a violation of this chapter for a person to advertise: (1) as a massage therapist, also known as a muscular therapist, myotherapist, masseur, masseuse or a massage therapy establishment unless a person in its employment holds a valid license under this chapter; (2) by combining advertising for a licensed massage therapy service with escort or dating services; (3) as performing massage in a form in which the person has not received training, or of a type which is not licensed or otherwise recognized by law or administrative rule; or (4) by using any term other than therapeutic massage or massage therapy to refer to the service. The term “advertise” as used in this section shall include, but not be limited to, the issuance of a card, sign or device to another; the causing, permitting, or allowing of any sign or marking on or in any building, vehicle or structure; advertising in a newspaper or magazine or on television; any listing or advertising in a directory under a classification or heading that includes the word “massage” or commercials broadcast by airwave transmission.
+        </section>
+        <section prefix="b">
+    	     Any persons who are otherwise licensed, certified, or registered under laws of this commonwealth, who are performing services within their authorized scope of practice, and who do not hold themselves out to be massage therapists, shall be exempt from this section.
+        </section>
+    </text>
+</law>

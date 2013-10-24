@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>71</section_number>
+    <catch_line>Licensing Of Convalescent And Nursing Homes, Infirmaries, Etc.</catch_line>
+    <order_by>71</order_by>
+    <text>
+        <section prefix="i">
+    	     the criminal history of the prospective licensee, or any officer, director, shareholder or general or limited partner thereof, to which the department has been granted access or certification or may be subsequently granted access or certification by the department of criminal justice information services;
+        </section>
+        <section prefix="ii">
+    	     the financial capacity of the prospective licensee to operate the health care facility in accordance with applicable laws;
+        </section>
+        <section prefix="iii">
+    	     the history of the prospective licensee in providing long term care in the commonwealth, measured by compliance with applicable statutes and regulations governing the operation of long term care facilities; and
+        </section>
+        <section prefix="iv">
+    	     the history of the prospective licensee in providing long term care in states other than the commonwealth, if any, measured by compliance with the applicable statutes and regulations governing the operation of long term care facilities in said states.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>20</section_number>
+    <catch_line>Remote Communication; Advice, Consultation, Or Orders; Limitation On Liability Of Physicians, Nurses, Hospitals And Ems Personnel</catch_line>
+    <order_by>20</order_by>
+    <text>
+        No physician duly registered under section 2, 2A, or 9 of chapter 112, and no nurse duly registered under section 74 or section 76 of said chapter 112, and no hospital shall be liable in a suit for damages as a result of acts or omissions related to advice, consultation or orders given in good faith to emergency medical services personnel who are qualified under section 9 and are acting on behalf of a service duly licensed under section 6, by radio, telephone or other remote means of communication and prior to arrival of the patient at the hospital or other health care facility from which the emergency communication to the EMS personnel is made, nor shall any such EMS personnel be liable in a suit for damages as a result of their acts or omissions based upon such advice, consultation or orders by remote communication, if the such acts or omissions were made in good faith, nor shall any physician be liable in a suit for damages as a result of acts or omissions relating to the discharge of duties under this chapter, including, without limitation, duties as a medical director at the state or regional level, if such acts or omissions were made in good faith.
+    </text>
+</law>

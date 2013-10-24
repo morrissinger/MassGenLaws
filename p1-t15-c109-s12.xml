@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Execution Of Certificate Ordered By Court</catch_line>
+    <order_by>12</order_by>
+    <text>
+        If a person required by section eleven to execute a certificate fails or refuses to do so, any other person who is adversely affected by the failure or refusal may petition the superior court department of the trial court to direct the execution of the certificate. If the court finds that it is proper for the certificate to be executed and that any person so designated has failed or refused to execute the certificate, it shall order the secretary of state to record an appropriate certificate.
+    </text>
+</law>

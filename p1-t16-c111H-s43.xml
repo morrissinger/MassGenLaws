@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>43</section_number>
+    <catch_line>Facility Closure Plan</catch_line>
+    <order_by>43</order_by>
+    <text>
+        <section prefix="a">
+    	     At least one year prior to the date scheduled for facility closure in the facility closure plan required to be prepared and maintained by regulations issued pursuant to section sixteen, the operator shall submit such plan to the department of public health and the management board. Said department shall conduct a public meeting on the plan at times to be determined after consultation with the board in each site community and other public meetings in neighboring communities upon request by the chief executive officer of such community. The board shall participate in each such public meeting. Said department shall accept written comments on the plan submitted by any interested person within forty-five days of the public notice of the availability of the plan. Prior to its acceptance of the plan said departments shall consider and evaluate all comments made at a public meeting or submitted in writing.
+        </section>
+        <section prefix="b">
+    	     Upon acceptance of such plan by said department and the board, the operator shall implement such plan according to the closure schedule contained therein. Said department shall, in cooperation with appropriate officials of each site community and according to regulations adopted pursuant to section sixteen, periodically inspect the operator’s implementation of the facility closure plan to ensure that such regulations and the conditions of the facility license are satisfied. The board shall, in cooperation with appropriate officials of each site community, periodically, inspect the operator’s implementation of the facility closure plan to ensure that the terms of the comprehensive operating contract are satisfied and that steps necessary to allow the board to accept transfer of the facility license pursuant to section forty-six are taken.
+        </section>
+    </text>
+</law>

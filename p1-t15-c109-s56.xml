@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>56</section_number>
+    <catch_line>Right Of Action By Limited Partner</catch_line>
+    <order_by>56</order_by>
+    <text>
+        A limited partner may bring an action in the right of a limited partnership to recover a judgment in its favor if general partners with authority to do so have refused to bring the action or if an effort to cause those general partners to bring the action is not likely to succeed.
+    </text>
+</law>

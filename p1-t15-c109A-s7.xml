@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Transfer; Definition</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     a transfer is made:
+        </section>
+        <section prefix="i">
+    	     with respect to an asset that is real property other than a fixture, but including the interest of a seller or purchaser under a contract for the sale of the asset, when the transfer is so far perfected that a good-faith purchaser of the asset from the debtor against whom applicable law permits the transfer to be perfected cannot acquire an interest in the asset that is superior to the interest of the transferee; and
+        </section>
+        <section prefix="ii">
+    	     with respect to an asset that is not real property or that is a fixture, when the transfer is so far perfected that a creditor on a simple contract cannot acquire a judicial lien otherwise than under this chapter that is superior to the interest of the transferee;
+        </section>
+        <section prefix="2">
+    	     if applicable law permits the transfer to be perfected as provided in paragraph (1) and the transfer is not so perfected before the commencement of an action for relief under this chapter, the transfer shall be deemed made immediately before the commencement of the action;
+        </section>
+        <section prefix="3">
+    	     if applicable law does not permit the transfer to be perfected as provided in paragraph (1), the transfer is made when it becomes effective between the debtor and the transferee;
+        </section>
+        <section prefix="4">
+    	     a transfer is not made until the debtor has acquired rights in the asset transferred;
+        </section>
+        <section prefix="5">
+    	     an obligation is incurred:
+        </section>
+        <section prefix="i">
+    	     if oral, when it becomes effective between the parties; or
+        </section>
+        <section prefix="ii">
+    	     if evidenced by a writing, when the writing executed by the obligor is delivered to or for the benefit of the obligee.
+        </section>
+    </text>
+</law>

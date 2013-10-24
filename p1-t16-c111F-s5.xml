@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Material Safety Data Sheets; Trade Secret Claims; Disclosure</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to make a trade secret claim pursuant to this section, a manufacturer or other preparer of an MSDS must submit to the commissioner of DPH a duplicate of the MSDS which excludes the information claimed as a trade secret, and shall also submit a complete justification and statement of the grounds on which the information is claimed to be a trade secret, at the same time he provides the MSDS to DEP pursuant to section sixteen. Provided that said complete justification and statement of the grounds shall not be required to include the information claimed to be a trade secret.
+        </section>
+        <section prefix="b">
+    	     If the commissioner of DPH has cause to believe that the data withheld is not a trade secret and that good cause exists for requiring the withheld information, he or she shall notify the preparer of the MSDS by certified mail.
+        </section>
+        <section prefix="c">
+    	     The commissioner of DPH shall determine whether such withheld information is protected as a trade secret within fifteen days after receipt of the duplicate MSDS, justification and statement, and shall notify by certified mail the preparer of the MSDS and any party who has requested the withheld information of that determination. If the commissioner of DPH determines that the withheld information is not protected as a trade secret, the final notice shall also specify a date, not sooner than fifteen days after the date of mailing of the final notice, when the withheld information shall be made available to the commissioner of DEP.
+        </section>
+        <section prefix="d">
+    	     Prior to the date specified in the final notice the preparer of the MSDS may appeal all adverse determinations in the Superior court for the county in which the employer’s workplace is located or in Suffolk county. The order of the commissioner shall be reviewed in accordance with the standards for review provided in section fourteen of chapter thirty A. Filing a timely appeal under this section shall act as an automatic stay of the preparer’s obligation to supply the withheld information.
+        </section>
+        <section prefix="e">
+    	     Any information reported to or otherwise obtained by the commissioner of DEP or any of his representatives or employees, which is exempt or protected from disclosure under any provisions of this chapter, may be disclosed to an officer or employee of the United States, in connection with the official duties of such officer or employee under any law for the protection of health.
+        </section>
+        <section prefix="f">
+    	     Information certified to by appropriate officials of the United States, as necessarily kept secret for national defense purposes, shall be accorded the full protections against disclosure as specified by such official or in accordance with the laws of the United States.
+        </section>
+    </text>
+</law>

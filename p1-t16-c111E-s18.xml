@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Record Of Treatment; Rights Of Patients</catch_line>
+    <order_by>18</order_by>
+    <text>
+        <section prefix="a">
+    	     The administrator of each facility shall keep a record of treatment afforded each patient, which shall be confidential and shall only be made available upon judicial order, whether in connection with pending judicial proceedings or otherwise, where disclosure is authorized by section 408 of the Drug Abuse Office and Treatment Act of 1972 and 21 U.S.C. 1175 or, where disclosure is authorized with the informed consent of the patient. Such consent shall be in writing, shall be to the benefit of the patient, and shall be signed by the patient. Such consent shall state the name of the person or organization to whom the disclosure is to be made, the specific type of information to be disclosed, and the purpose or need for such disclosure.
+        </section>
+        <section prefix="b">
+    	     Any patient shall have the right to have a physician retained by him examine him, consult privately with his attorney, receive visitors, and send and receive communications by mail, telephone and telegraph. Such communications shall not be censored or read without the consent of such patient. The foregoing shall not limit the right of the administrator, subject to reasonable rules and regulations of the division, to prescribe reasonable rules governing visiting hours and the use of telephone and telegraph facilities.
+        </section>
+        <section prefix="c">
+    	     No patient may be detained in any facility, other than a penal facility, without his consent.
+        </section>
+        <section prefix="d">
+    	     Insofar as is practicable, a written comprehensive, individualized treatment plan shall be kept by the administrator for each patient.
+        </section>
+        <section prefix="e">
+    	     Each patient shall be entitled to receive adequate and appropriate treatment.
+        </section>
+    </text>
+</law>

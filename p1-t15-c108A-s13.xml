@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>13</section_number>
+    <catch_line>Liability Of Partnership For Wrongful Acts Of Partners</catch_line>
+    <order_by>13</order_by>
+    <text>
+        Where, by any wrongful act or omission of any partner acting in the ordinary course of the business of the partnership, or with the authority of his co-partners, loss or injury is caused to any person, not being a partner in the partnership, or any penalty is incurred, the partnership is liable therefor to the same extent as the partner so acting or omitting to act.
+    </text>
+</law>

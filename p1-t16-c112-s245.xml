@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>245</section_number>
+    <catch_line>Investigation Of Complaints; Supervision By Division Of Professional Licensure; Cease And Desist; Penalties</catch_line>
+    <order_by>245</order_by>
+    <text>
+        <section prefix="a">
+    	     The board may investigate all complaints filed relating to the proper practice of sheet metal work, any violation of this chapter pertaining to the practice of sheet metal work or any rule or regulation of the board. Such complaints may be brought by any person or the board.
+        </section>
+        <section prefix="b">
+    	     The board shall be under the supervision of the division of professional licensure and shall have all the authority conferred under sections 61 to 65E, inclusive. For the purposes of this section and said sections 61 to 65E, inclusive, conduct which places into question the holder’s competence to practice sheet metal work shall include, but not be limited to: (1) committing fraud or misrepresentation in obtaining a license; (2) criminal conduct which the board determines to be of such a nature as to render the person unfit to practice sheet metal work, as evidenced by criminal proceedings which resulted in a conviction, guilty plea, plea of nolo contendere or an admission of sufficient facts; (3) violating a rule or regulation of the board; (4) failing to cooperate with the board or its agents in the conduct of an inspection or investigation; (5) failing to fulfill any continuing education requirements required by the board; (6) aiding or abetting an unlicensed person to practice sheet metal work; or (7) negligence in the course of professional practice.
+        </section>
+        <section prefix="c">
+    	     The board may issue an order to a licensee directing him to cease and desist from unethical or unprofessional conduct if the board finds, after notice and the opportunity for a hearing, that the licensee has engaged in such conduct.
+        </section>
+        <section prefix="d">
+    	     Nothing in this section shall limit the board’s authority to impose, by agreement, sanctions that are considered reasonable and appropriate by the board. Any person aggrieved by a disciplinary action taken by the board pursuant to this section or for violation of any other law, rule or regulations may, pursuant to section 64, file a petition for judicial review.
+        </section>
+    </text>
+</law>

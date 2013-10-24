@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111N" order_by="111N" level="3">Pharmaceutical And Medical Device Manufacturer Conduct</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Violations Of Marketing Code Of Conduct Prohibited</catch_line>
+    <order_by>3</order_by>
+    <text>
+        No pharmaceutical or medical device manufacturer company or pharmaceutical or medical device manufacturer agent shall knowingly and willfully violate the marketing code of conduct as adopted by the department.
+    </text>
+</law>

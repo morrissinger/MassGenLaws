@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23Y</section_number>
+    <catch_line>Unauthorized Practice Of Medicine</catch_line>
+    <order_by>23Y</order_by>
+    <text>
+        Nothing in sections twenty-three R to twenty-three BB, inclusive, shall be construed as authorizing a respiratory therapist to practice medicine or any other form or methods of healing not specified in said sections.
+    </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111B" order_by="111B" level="3">Alcoholism</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Licensing And Approval Of Facilities</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="1">
+    	     the need for the facility in the community;
+        </section>
+        <section prefix="2">
+    	     the health standards to be met by the facility;
+        </section>
+        <section prefix="3">
+    	     misrepresentation as to the treatment afforded patients at a facility;
+        </section>
+        <section prefix="4">
+    	     licensing fees, application and revocation procedures, and the procedures for evaluation of treatment programs.
+        </section>
+    </text>
+</law>

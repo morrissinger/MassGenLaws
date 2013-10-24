@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>413</section_number>
+    <catch_line>Administrative Files And Opinions</catch_line>
+    <order_by>413</order_by>
+    <text>
+        <section prefix="a">
+    	     A document is filed when it is received by the secretary.
+        </section>
+        <section prefix="b">
+    	     The secretary shall keep a register of all notice filings made under subsection (b) of section 202 and section 306 and all applications for registration and registration statements which are or have ever been effective under this chapter and all denial, suspension, or revocation orders which have been entered under this chapter. The register shall be open for public inspection.
+        </section>
+        <section prefix="c">
+    	     The information contained in or filed with any registration statement, application, or report may be made available to the public under such rules as the secretary prescribes.
+        </section>
+        <section prefix="d">
+    	     Upon request and at such reasonable charges as he prescribes, the secretary shall furnish to any person photostatic or other copies, certified under the seal of the secretary if requested, of any entry in the register or any document which is a matter of public record. In any proceeding or prosecution under this chapter, any copy so certified is prima facie evidence of the contents of the entry or document certified.
+        </section>
+        <section prefix="e">
+    	     The secretary in his discretion may honor requests from interested persons for interpretative opinions.
+        </section>
+    </text>
+</law>

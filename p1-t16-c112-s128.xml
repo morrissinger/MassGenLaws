@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>128</section_number>
+    <catch_line>Investigations; Revocation, Suspension, Or Cancellation Of License;  Notice, Hearing, Order, Review</catch_line>
+    <order_by>128</order_by>
+    <text>
+        <section prefix="a">
+    	     fraudulently procured said license;
+        </section>
+        <section prefix="b">
+    	     is guilty of an offense against any provision of the laws of the commonwealth relating to the practice of psychology or any rule or regulation adopted thereunder;
+        </section>
+        <section prefix="c">
+    	     is guilty of conduct that places into question the psychologist’s competence to practice psychology, including but not limited to gross misconduct in the practice of psychology or of practicing psychology fraudulently, or beyond its authorized scope, or with gross incompetence, or with gross negligence on a particular occasion or negligence on repeated occasions;
+        </section>
+        <section prefix="d">
+    	     is guilty of practicing psychology while the ability to practice was impaired by alcohol, drugs, physical disability or mental instability;
+        </section>
+        <section prefix="e">
+    	     is guilty of being habitually drunk or being or having been within a reasonable period of time addicted to, dependent on, or a habitual user of narcotics, barbiturates, amphetamines, hallucinogens, or other drugs having similar effects;
+        </section>
+        <section prefix="f">
+    	     is guilty of knowingly permitting, aiding or abetting an unlicensed individual to perform activities requiring a license for purposes of fraud, deception or personal gain, excluding activities permissible under any provision of laws of the commonwealth or rules or regulations of the board;
+        </section>
+        <section prefix="g">
+    	     has been convicted of a criminal offense which reasonably calls into question his ability to practice psychology; or
+        </section>
+        <section prefix="h">
+    	     is guilty of violating any rule or regulation of the board governing the practice of psychology.
+        </section>
+    </text>
+</law>

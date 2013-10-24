@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Petition By Aggrieved Person; Adjudicatory Proceeding</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon petition by any person aggrieved by an action taken pursuant to sections nineteen, twenty, or twenty-three, made within thirty days after selection of a superior site pursuant to section twenty-three, the commissioner of the department of environmental protection shall commence an adjudicatory proceeding concerning the selection of the site. Such adjudicatory proceeding shall commence within sixty days of the filing of said petition and shall be conducted in compliance with the requirements of section eleven of chapter thirty A.
+        </section>
+        <section prefix="b">
+    	     In addition to the petitioner, the board and the site and neighboring communities shall be parties to the adjudicatory proceeding. Other aggrieved persons may intervene in accordance with the provisions of chapter thirty A.
+        </section>
+        <section prefix="c">
+    	     Within thirty days after the close of the adjudicatory proceeding, the commissioner of said department shall issue a final decision approving or disapproving the selection of the superior site. The site selection shall be approved if said commissioner finds, based on substantial evidence presented during the adjudicatory proceeding, that the site satisfies the site selection criteria adopted under section fourteen.
+        </section>
+        <section prefix="d">
+    	     The reasonable expenses of participation in the adjudicatory proceeding by site and neighboring communities, including attorney’s fees, shall be reimbursed by the board in accordance with an order, specifying the amount and time for reimbursement, issued by the commissioner of the department of environmental protection at the time of the final decision.
+        </section>
+        <section prefix="e">
+    	     Any person aggrieved by a decision of said commissioner pursuant to this section may seek judicial review thereof in the supreme judicial court in accordance with the standards provided for judicial review in section fourteen of chapter thirty A.
+        </section>
+    </text>
+</law>

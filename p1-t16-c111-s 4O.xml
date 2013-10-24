@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number> 4O</section_number>
+    <catch_line>Appointment Of Dental Director; Office Of Oral Health;  Responsibilities</catch_line>
+    <order_by> 4O</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to appropriation, the commissioner shall appoint a dental director. The dental director shall serve at the pleasure of the commissioner and shall be a dentist licensed in the commonwealth with public health experience. The department may establish additional qualifications for the position of dental director by regulation. The dental director shall oversee the department of public health dental program to increase access to oral health services, oral health prevention activities and other initiatives to address oral health disparities.
+        </section>
+        <section prefix="b">
+    	     There shall be an office of oral health within the department with responsibilities that shall include, but not be limited to:
+        </section>
+        <section prefix="1">
+    	     providing recommendations and guidance to the department and other individuals or entities as the office determines including, but not limited to, other departments, agencies, community providers and the legislature for preventing oral diseases and for improving, promoting and protecting oral health with a focus on underserved populations and reducing oral health disparities;
+        </section>
+        <section prefix="2">
+    	     monitoring, studying and appraising the commonwealth’s oral health needs and resources;
+        </section>
+        <section prefix="3">
+    	     fostering the development, expansion and evaluation of oral health services for residents of the commonwealth in collaboration with key partners including, but not limited to, MassHealth, the department of youth services, the department of children and families, the department of mental retardation, the department of mental health, the executive office of elderly affairs, the board of registration in dentistry, the department of elementary and secondary education and the department of early education and care;
+        </section>
+        <section prefix="4">
+    	     providing information and education concerning oral health to the dental and health community and to the public;
+        </section>
+        <section prefix="5">
+    	     promoting and providing technical assistance, monitoring and evaluating population-based dental programs including, but not limited to, community water fluoridation programs, school prevention programs, mobile and portable dental programs and other programs to improve access to services;
+        </section>
+        <section prefix="6">
+    	     developing policies to promote oral health; and
+        </section>
+        <section prefix="7">
+    	     developing related programs, policies and preventive measures that impact oral health.
+        </section>
+    </text>
+</law>

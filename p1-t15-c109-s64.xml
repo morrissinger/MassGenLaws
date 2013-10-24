@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Administrative Dissolution; Grounds; Notice; Wind Up And Liquidation Of Affairs</catch_line>
+    <order_by>64</order_by>
+    <text>
+        <section prefix="a">
+    	     The state secretary may commence a proceeding to dissolve a limited partnership if:
+        </section>
+        <section prefix="1">
+    	     the limited partnership has failed for 2 consecutive years to comply with the laws requiring the filing of annual reports; or
+        </section>
+        <section prefix="2">
+    	     he is satisfied that the limited partnership has become inactive and its dissolution would be in the public interest.
+        </section>
+        <section prefix="b">
+    	     If the state secretary determines that grounds exist under subsection (a), he shall serve the limited partnership with written notice of his determination. The notice shall be sent to the address of the office in the commonwealth required by clause (1) of section 4. If, within 90 days after the notice, the limited partnership fails to correct each ground for dissolution or fails to demonstrate to the reasonable satisfaction of the state secretary that each ground determined by the state secretary does not exist, the state secretary shall administratively dissolve the limited partnership.
+        </section>
+        <section prefix="c">
+    	     A limited partnership administratively dissolved continues in existence but shall not carry on any business except that necessary to wind up and liquidate its affairs.
+        </section>
+    </text>
+</law>

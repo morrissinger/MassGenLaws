@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Substance List; Amendment Procedures; Concentration Requirements For Toxic Or Hazardous Substances; Dissemination Of Information</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     For the purpose of this chapter, the commissioner of DPH shall establish the Massachusetts substance list and make said list available to manufacturers, employers, municipal coordinators, and the commissioners of DOL and DEP. Substances on the list may be designated by their chemical name or common name(s), and CAS number. Only those substances specifically enumerated on the list shall be subject to the provisions of this chapter, and no articles as defined in section one shall be included on the list. The commissioner of DPH shall prepare and amend the list according to the following procedures, and shall promulgate said list pursuant to the rulemaking provisions of chapter thirty A on an annual basis. The annual list shall become effective ninety days after its promulgation. In the case of substances which are extraordinarily hazardous and a threat to public health, the commissioner of DPH may promulgate emergency amendments to the list according to the laws of the commonwealth, provided that appropriate procedures for amending the list, as specified in this section, are followed.
+        </section>
+        <section prefix="b">
+    	     The list shall consist initially of all chemical substances enumerated in any of the following designated source lists, exclusive of generic categories:
+        </section>
+        <section prefix="c">
+    	     The commissioner, in promulgating the Massachusetts substance list and its amendments shall designate on said list any substance which is a carcinogen, mutagen, teratogen, or neurotoxin, based on a preponderance of substantial and valid scientific evidence.
+        </section>
+        <section prefix="d">
+    	     For the purposes of this chapter, a toxic or hazardous substance is present in any mixture if it is one per cent or more of the mixture or two per cent if the toxic or hazardous substance exists as an impurity in the mixture; provided, however, that the commissioner of DPH may, by regulation, raise the concentration requirement for a toxic or hazardous substance which he or she finds is not toxic or hazardous at the threshold levels; and may lower the concentration requirement for a toxic or hazardous substance including carcinogens, mutagens, teratogens, and neurotoxins for which there is valid and substantial scientific evidence that the substance is extraordinarily hazardous.
+        </section>
+        <section prefix="e">
+    	     The commissioner of DPH shall amend the Massachusetts Substance List by adding, in place of the generic categories excluded pursuant to subsection (b) of this section, those specific toxic or hazardous substances which fall within said generic categories and which, in his judgment, should be subjected to the provisions of this act. Provided that such amendment shall be made only after opportunity has been provided for public comment and hearing pursuant to the rulemaking provisions of chapter thirty A and upon the commissioner’s finding that according to the preponderance of the evidence, substantial and valid scientific evidence exists that any substances added pursuant to this subsection may result in an acute or chronic risk to human health or safety.
+        </section>
+        <section prefix="f">
+    	     Any substance added to or deleted from the source lists designated in subsection (b) of this section by the agency responsible for preparing and amending said list shall be added to, or deleted from, the Massachusetts substance list as part of its annual amendment by the commissioner of DPH.
+        </section>
+        <section prefix="g">
+    	     Further amendments to the Massachusetts substance list may be established by the commissioner of DPH, pursuant to the following process:
+        </section>
+        <section prefix="h">
+    	     Substances not present on the Massachusetts substance list established pursuant to this section shall not be subject to the provisions of this chapter.
+        </section>
+        <section prefix="i">
+    	     The commissioner of DPH shall be responsible for the dissemination of all information available on the nature and hazards of toxic or hazardous substances, from the chemical substances information networks of the federal environmental protection agency, the health hazard evaluation program of the national institute of occupational safety and health and any and all other information sources. DPH shall promptly assist employers, employees, community residents, municipal coordinators and state personnel with inquiries concerning the toxic or hazardous nature of such substances. DPH shall assist DLI in its responsibilities with respect to preparing or obtaining MSDS information pursuant to section nine (b).
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>205</section_number>
+    <catch_line>Information And Records Necessary To Comply With Risk Management And Quality Assurance Programs; Confidentiality; Definitions</catch_line>
+    <order_by>205</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section the following terms shall have the following meanings:
+        </section>
+        <section prefix="b">
+    	     Information and records which are necessary to comply with risk management and quality assurance programs established by the board of registration in medicine and which are necessary to the work product of medical peer review committees, including incident reports required to be furnished to the board of registration in medicine or any information collected or compiled by a physician credentialing verification service operated by a society or organization of medical professionals for the purpose of providing credentialing information to health care entities shall be deemed to be proceedings, reports or records of a medical peer review committee for purposes of section two hundred and four of this chapter and may be so designated by the patient care assessment coordinator; provided, however, that such information and records so designated by the patient care assessment coordinator may be inspected, maintained and utilized by the board of registration in medicine, including but not limited to its data repository and disciplinary unit. Such information and records inspected, maintained or utilized by the board of registration in medicine shall remain confidential, and not subject to subpoena, discovery or introduction into evidence, consistent with section two hundred and four; however, such records may not remain confidential if disclosed in an adjudicatory proceeding of the board of registration in medicine, but the information and records shall be otherwise subject to the protections afforded by section two hundred and four. In no event, however, shall records of treatment maintained pursuant to section seventy of this chapter, or incident reports or records or information which are not necessary to comply with risk management and quality assurance programs established by the board of registration in medicine be deemed to be proceedings, reports or records of a medical peer review committee under this section; nor shall any person be prevented by the provisions of this section from testifying as to matters known by such person independent of risk management and quality assurance programs established by the board of registration in medicine.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Acquisition Of Land</catch_line>
+    <order_by>86</order_by>
+    <text>
+        Subject to section eight-four, county commissioners may purchase, lease, or take by eminent domain under chapter seventy-nine, such land, not exceeding five hundred acres, as they may deem necessary or convenient for the purposes set forth in section seventy-eight.
+    </text>
+</law>

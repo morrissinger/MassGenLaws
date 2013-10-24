@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Conformity Of Application With Chapter; Additional Information;  Disclaimer Of Unregisterable Components; Amendments; Refusal Of Registration</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon the filing of an application for registration and payment of the application fee, the secretary may cause the application to be examined for conformity with this chapter.
+        </section>
+        <section prefix="b">
+    	     The applicant shall provide any additional pertinent information requested by the secretary including a description of a design mark and may make, or authorize the secretary to make, amendments to the application as may be reasonably requested by the secretary or considered by applicant to be advisable to respond to any rejection or objection.
+        </section>
+        <section prefix="c">
+    	     The secretary may require the applicant to disclaim an unregisterable component of a mark otherwise registerable, and an applicant may voluntarily disclaim a component of a mark sought to be registered. No disclaimer shall prejudice or affect the applicant’s or registrant’s rights then existing or thereafter arising in the disclaimed matter, or the applicant’s or registrant’s rights of registration on another application if the disclaimed matter be or shall have become distinctive of the applicant’s or registrant’s goods or services.
+        </section>
+        <section prefix="d">
+    	     Amendments may be made by the secretary upon the application submitted by the applicant upon applicant’s agreement; or a fresh application may be required to be submitted.
+        </section>
+        <section prefix="e">
+    	     If the applicant is found not to be entitled to registration, the secretary shall advise the applicant thereof and of the reasons therefor. The applicant shall have a reasonable period of time specified by the secretary in which to reply or to amend the application, in which event the application shall then be reexamined. This procedure may be repeated until:—
+        </section>
+        <section prefix="i">
+    	     the secretary finally refuses registration of the mark, or
+        </section>
+        <section prefix="ii">
+    	     the applicant fails to reply or amend within the specified period, whereupon the application shall be considered to have been abandoned.
+        </section>
+        <section prefix="f">
+    	     If the secretary finally refuses registration of the mark, the applicant may seek a writ of mandamus to compel the registration. The writ may be granted, but without costs to the secretary, on proof that all the statements in the application are true and that the mark is otherwise entitled to registration.
+        </section>
+        <section prefix="g">
+    	     In the instance of applications concurrently being processed by the secretary seeking registration of the same or confusingly similar marks for the same or related goods or services, the secretary shall grant priority to the applications in order of filing. If a prior filed application is granted a registration, the other application or applications shall then be rejected. A rejected applicant may bring an action for cancellation of the registration upon grounds of prior or superior rights to the mark, in accordance with the provisions of section 9.
+        </section>
+    </text>
+</law>

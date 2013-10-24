@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>104</section_number>
+    <catch_line>Foreign Architects; Certification; Reciprocity</catch_line>
+    <order_by>104</order_by>
+    <text>
+        The board may certify for registration without examination an applicant who is legally registered as a landscape architect in any other state or country whose requirements for registration are at least substantially equivalent to the requirements of this commonwealth, provided such other state or country extends the same privilege to landscape architects registered in this commonwealth.
+    </text>
+</law>

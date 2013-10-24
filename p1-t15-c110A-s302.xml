@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>302</section_number>
+    <catch_line>Registration By Coordination</catch_line>
+    <order_by>302</order_by>
+    <text>
+        <section prefix="a">
+    	     Any security for which a registration statement has been filed under the Securities Act of 1933 in connection with the same offering may be registered by coordination.
+        </section>
+        <section prefix="b">
+    	     A registration statement under this section shall contain the following information and be accompanied by the following documents in addition to the information specified in section 304(c) and the consent to service of process required by section 414(g):
+        </section>
+        <section prefix="1">
+    	     three copies of the latest form of prospectus filed under the Securities Act of 1933;
+        </section>
+        <section prefix="2">
+    	     if the secretary by rule or otherwise requires, a copy of the articles of incorporation and by-laws, or their substantial equivalents, currently in effect, a copy of any agreements with or among underwriters, a copy of any indenture or other instrument governing the issuance of the security to be registered, and a specimen or copy of the security;
+        </section>
+        <section prefix="3">
+    	     if the secretary requests, any other information, or copies of any other documents, filed under the Securities Act of 1933; and
+        </section>
+        <section prefix="4">
+    	     an undertaking to forward all future amendments to the federal prospectus, other than an amendment which merely delays the effective date of the registration statement, promptly and in any event not later than the first business day after the day they are forwarded to or filed with the Securities and Exchange Commission, whichever first occurs.
+        </section>
+        <section prefix="c">
+    	     A registration statement under this section automatically becomes effective at the moment the federal registration statement becomes effective if all the following conditions are satisfied: (1) no stop order is in effect and no proceeding is pending under section 305; (2) the registration statement has been on file with the secretary for at least ten days; and (3) a statement of the maximum and minimum proposed offering prices and the maximum underwriting discounts and commissions has been on file for two full business days or such shorter period as the secretary permits by rule or otherwise and the offering is made within those limitations. The registrant shall promptly notify the secretary by telephone or telegram of the date and time when the federal registration statement became effective and the content of the price amendment, if any, and shall promptly file a post-effective amendment containing the information and documents in the price amendment. “Price amendment” means the final federal amendment which includes a statement of the offering price, underwriting and selling discounts or commissions, amount of proceeds, conversion rates, call prices, and other matters dependent upon the offering price. Upon failure to receive the required notification and post-effective amendment with respect to the price amendment, the secretary may enter a stop order, without notice or hearing, retroactively denying effectiveness to the registration statement or suspending its effectiveness until compliance with this subsection, if it promptly notifies the registrant by telephone or telegram, and promptly confirms by letter or telegram when it notifies by telephone, of the issuance of the order. If the registrant proves compliance with the requirements of this subsection as to notice and post-effective amendment, the stop order is void as of the time of its entry. The secretary may by rule or otherwise waive either or both of the conditions specified in clauses (2) and (3). If the federal registration statement becomes effective before all the conditions in this subsection are satisfied and they are not waived, the registration statement automatically becomes effective as soon as all the conditions are satisfied. If the registrant advises the secretary of the date when the federal registration statement is expected to become effective, the secretary shall promptly advise the registrant by telephone or telegram at the registrant’s expense, whether all the conditions are satisfied and whether it then contemplates the institution of a proceeding under section 305; but this advice by the secretary does not preclude the institution of such a proceeding at any time.
+        </section>
+    </text>
+</law>

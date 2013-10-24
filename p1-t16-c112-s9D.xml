@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>9D</section_number>
+    <catch_line>Application Of Secs. 9 C To 9 K</catch_line>
+    <order_by>9D</order_by>
+    <text>
+        <section prefix="a">
+    	     The practice of dentistry or dental hygiene as defined in sections fifty and fifty-one.
+        </section>
+        <section prefix="b">
+    	     The practice of manipulative therapy or chiropractic.
+        </section>
+        <section prefix="c">
+    	     The measurement of the powers or range of human vision or the determination of the accommodation and refractive states of the human eye or the scope of its functions in general or the fitting or adaptation of lenses or frames for the aid thereof.
+        </section>
+        <section prefix="d">
+    	     The prescribing or directing the use of, or using, any optical device in connection with ocular exercises, visual training, vision training or orthoptics.
+        </section>
+        <section prefix="e">
+    	     The prescribing of contact lenses for, or the fitting or adaptation of contact lenses to, the human eye.
+        </section>
+        <section prefix="f">
+    	     The practice of podiatry as defined in section thirteen.
+        </section>
+    </text>
+</law>

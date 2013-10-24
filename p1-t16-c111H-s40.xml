@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Operation Of Facility; Temporary Or Permanent Closure; Inspection Report</catch_line>
+    <order_by>40</order_by>
+    <text>
+        <section prefix="a">
+    	     The facility shall be operated in accordance with this section and with regulations adopted under section sixteen. All shipments of low-level radioactive waste shall, upon arrival at the facility, enter the facility, but shall not proceed into the waste management area for unloading until inspected by the department of public health and found to be in compliance with applicable regulations and conditions of the facility license. Shipments found not to be in compliance shall proceed to a controlled area within the facility to await action to remedy the situation, and the board of health of each site community shall be so notified by the operator. Shipments found to be in compliance shall proceed into the waste management area for unloading. After a transport vehicle is unloaded and leaves the waste management area, it shall not leave the facility until it is again inspected by the department of public health and decontaminated, if necessary.
+        </section>
+        <section prefix="b">
+    	     The department of public health, in consultation with the board, may issue an order temporarily or permanently closing a facility prior to its scheduled closing date if it finds that there is a potential hazard to public health, safety or the environment which justifies such temporary or permanent closure. A facility that is temporarily closed shall remain closed as long as necessary for remedial action and, in any event, throughout any period of facility clean-up and stabilization. Prior to authorizing the reopening of a temporarily closed facility, said department shall conduct at least one public meeting on the reopening in each site community and other public meetings in neighboring communities upon request by the chief executive officer of such community, and shall issue a summary response to all comments made at such public meetings or made in writing during the time the facility is temporarily closed and an explanation of the reasons for authorizing the reopening.
+        </section>
+        <section prefix="c">
+    	     The department of public health shall annually prepare a report summarizing its inspection and enforcement activities with respect to the facility and shall transmit a copy of such report to the board and the board of health of each site community.
+        </section>
+    </text>
+</law>

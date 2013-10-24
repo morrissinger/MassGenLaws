@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Advisory Committee</catch_line>
+    <order_by>3</order_by>
+    <text>
+        There shall be within the department an advisory committee on clinical laboratories, to advise the department, as provided in section two, on the administration of this chapter. Such committee shall consist of twelve members, to be appointed by the commissioner, as follows: four persons, two physicians and two nonphysicians, who meet the requirements for confirmation as a clinical laboratory director; one other physician not a clinical laboratory director; one medical laboratory technologist; one chief executive officer of a hospital licensed by the department; and five non-providers of health services, one of whom shall be a member of the Massachusetts Bar and one a representative of manufacturers of clinical laboratory technology. Each member of the committee shall serve without compensation for a term of three years, or until his successor is appointed; provided, that no member shall serve more than two consecutive terms. A chairman of the committee shall be elected annually from the membership.
+    </text>
+</law>

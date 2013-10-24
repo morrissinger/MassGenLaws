@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23V</section_number>
+    <catch_line>Exclusion Of Other Professions Or Occupations From Application Of Licensing Or Registration Requirements</catch_line>
+    <order_by>23V</order_by>
+    <text>
+        <section prefix="a">
+    	     any person licensed in the commonwealth by any other statute or credentialed by an organization which is a member of the National Commission for Health Certifying Agencies from engaging in the profession for which he is licensed or credentialed, or
+        </section>
+        <section prefix="b">
+    	     any person employed as a respiratory therapist by the federal government or any agency of it, if such person provides respiratory care solely under the direction or control of the organization by which he is employed, or
+        </section>
+        <section prefix="c">
+    	     any person pursuing a supervised course of study leading to a degree or certificate in respiratory care as part of an accredited and approved educational program, if the person is designated by a title which clearly indicates his status as a student or trainee, or otherwise as a student functioning under the supervision of a licensed respiratory therapist, provided however, that such activity does not exceed the student’s education and training, or
+        </section>
+        <section prefix="d">
+    	     any person performing respiratory care services in the commonwealth, if these services are performed for no more than two calendar days in a calendar year in association with a respiratory therapist licensed under this section.
+        </section>
+    </text>
+</law>

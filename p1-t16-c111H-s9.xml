@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Management Of Low Level Radioactive Waste; Liability; Damages;  Funds To Satisfy Liability</catch_line>
+    <order_by>9</order_by>
+    <text>
+        <section prefix="a">
+    	     It shall be the responsibility of the operator to take all appropriate steps to clean up and stabilize the facility and to contain migration of low-level radioactive waste or associated toxic materials, whenever there has been or impends a release of such materials at the facility during its operation, closure or post-closure observation and maintenance. The board shall ensure that the operator has sufficient funds to satisfy this responsibility. The board shall have such responsibility during the period of institutional control and shall utilize sums from the institutional control account within the Low-Level Radioactive Waste Trust Fund established pursuant to section forty-one to satisfy this responsibility. If all other sources of funds, including federal assistance, have been exhausted, the commonwealth shall provide the reasonable costs of clean-up and stabilization of a facility.
+        </section>
+        <section prefix="b">
+    	     Except as otherwise provided in this section, any person who carries on any activity involving the management of low-level radioactive waste shall be subject to strict liability for harm to persons, land or property resulting from such activity when caused by any release of, or exposure to, such waste or associated toxic materials. Such liability may be joint and several unless such person establishes by a preponderance of the evidence that only a portion of such harm has resulted from such activity. No claim for such harm may be made against the operator after a facility’s license has been transferred to the board pursuant to section forty-six, unless the operator has willfully misrepresented the conditions of the facility at the time of such transfer or fraudulently concealed information about the facility or its operations.
+        </section>
+        <section prefix="c">
+    	     Notwithstanding the provisions of this section, the board, community supervisory committees, the department of public health, the department of environmental protection and the commissioner of capital asset management and maintenance shall be subject to liability for harm to persons, land or property resulting from the management of low-level radioactive waste only in accordance with the provisions of chapter two hundred and fifty-eight; provided, however, that the amount of damages for which liability may be imposed shall not be subject to the limit provided in section two of said chapter two hundred and fifty-eight. Notwithstanding any limitation contained in said chapter two hundred and fifty-eight, but in accordance with the procedures established therein, the board shall be subject to liability for harm to persons, land or property which may occur after the board assumes its responsibility for institutional control of the facility pursuant to section forty-six, or from the negligence of any employee of the board in the institutional control of the facility.
+        </section>
+        <section prefix="d">
+    	     The board shall ensure that the operator has sufficient funds to satisfy its liabilities under this section, and for the compensation of injured facility employees. The board shall utilize sums from the institutional control account established in section forty-one to ensure the availability of funds to satisfy its liabilities under this section for which claims are made during the period of institutional control; provided, however, that the funds available to satisfy such liabilities from third party claims shall be at least equal to the maximum amount available from the nuclear insurance pools or other commercial insurers.
+        </section>
+        <section prefix="e">
+    	     If no other funds, insurance, tort compensation or other means of satisfying a damage judgment or settlement, approved by a court of competent jurisdiction, are available, the contingent liability account established in section forty-one shall be utilized to compensate for injuries to persons or property resulting from the management of low-level radioactive waste or the institutional control of a facility.
+        </section>
+        <section prefix="f">
+    	     The commonwealth shall provide compensation for harm to persons, land or property which may occur after the board assumes its responsibility for institutional control of the facility pursuant to section forty-six, only, if all other sources of funds, including federal assistance, have been exhausted.
+        </section>
+    </text>
+</law>

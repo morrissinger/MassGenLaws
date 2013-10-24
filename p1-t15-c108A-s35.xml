@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>35</section_number>
+    <catch_line>Authority And Liability After Dissolution</catch_line>
+    <order_by>35</order_by>
+    <text>
+        <section prefix="1">
+    	     After dissolution a partner can bind the partnership except as provided in paragraph (3)
+        </section>
+        <section prefix="a">
+    	     By any act appropriate for winding up partnership affairs or completing transactions unfinished at dissolution;
+        </section>
+        <section prefix="b">
+    	     By any transaction which would bind the partnership if dissolution had not taken place, provided the other party to the transaction
+        </section>
+        <section prefix="I">
+    	     Had extended credit to the partnership prior to dissolution and had no knowledge or notice of the dissolution; or
+        </section>
+        <section prefix="II">
+    	     Though he had not so extended credit, had nevertheless known of the partnership prior to dissolution, and, having no knowledge or notice of dissolution, the fact of dissolution has not been advertised in a newspaper of general circulation in the place (or in each place if more than one) at which the partnership business was regularly carried on.
+        </section>
+        <section prefix="2">
+    	     The liability of a partner under paragraph (1b) shall be satisfied out of partnership assets alone when such partner had been prior to dissolution
+        </section>
+        <section prefix="a">
+    	     Unknown as a partner to the person with whom the contract is made; and
+        </section>
+        <section prefix="b">
+    	     So far unknown and inactive in partnership affairs that the business reputation of the partnership could not be said to have been in any degree due to his connection with it.
+        </section>
+        <section prefix="3">
+    	     The partnership is in no case bound by any act of a partner after dissolution
+        </section>
+        <section prefix="a">
+    	     Where the partnership is dissolved because it is unlawful to carry on the business, unless the act is appropriate for winding up partnership affairs; or
+        </section>
+        <section prefix="b">
+    	     Where the partner has become bankrupt; or
+        </section>
+        <section prefix="c">
+    	     Where the partner has no authority to wind up partnership affairs, except by a transaction with one who
+        </section>
+        <section prefix="I">
+    	     Had extended credit to the partnership prior to dissolution and had no knowledge or notice of his want of authority; or
+        </section>
+        <section prefix="II">
+    	     Had not extended credit to the partnership prior to dissolution, and, having no knowledge or notice of his want of authority, the fact of his want of authority has not been advertised in the manner provided for advertising the fact of dissolution in paragraph (1 b II).
+        </section>
+        <section prefix="4">
+    	     Nothing in this section shall affect the liability under section sixteen of any person who after dissolution represents himself or consents to another representing him as a partner in a partnership engaged in carrying on business.
+        </section>
+    </text>
+</law>

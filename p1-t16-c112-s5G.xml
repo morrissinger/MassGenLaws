@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>5G</section_number>
+    <catch_line>Communication With Professional Organizations Or Board; Liability;  Counsel Fees And Costs</catch_line>
+    <order_by>5G</order_by>
+    <text>
+        <section prefix="a">
+    	     No person or health care provider who communicates with a peer review committee, administrative subcommittee, ethics committee or other similar committee of a health care provider, professional society of health care providers or entity which pays professional liability claims on behalf of any health care provider shall be liable in any cause of action arising out of the providing or receiving of such communication provided that such person or health care provider acts in good faith and with a reasonable belief that such communication was warranted in connection with or in furtherance of the functions of such committee.
+        </section>
+        <section prefix="b">
+    	     No person who reports information to the board as required in section five A through section five F inclusive, or as required in any other law or regulation shall be liable in any cause of action arising out of such report provided that such person acts in good faith and with a reasonable belief that such report was required. If such an action is instituted against a person who reports to the board as required in sections five A to five F, inclusive, and such action is determined by the court to be insubstantial, frivolous and not advanced in good faith, then such person defending such action may be awarded reasonable counsel fees and other costs and expenses incurred in defending against such action pursuant to section six F of chapter two hundred and thirty-one.
+        </section>
+    </text>
+</law>

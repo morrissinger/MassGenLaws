@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>19</section_number>
+    <catch_line>Use Of Emergency Medical Titles And Provision Of Services;  Prohibitions; Fines; Report To Attorney General</catch_line>
+    <order_by>19</order_by>
+    <text>
+        <section prefix="a">
+    	     No person shall:
+        </section>
+        <section prefix="1">
+    	     establish or maintain an EMS first response service or an ambulance service or hold itself out as an EMS first response service or an ambulance service without a valid license or in violation of the terms of a valid license;
+        </section>
+        <section prefix="2">
+    	     operate, maintain or otherwise use or hold out any aircraft, boat, motor vehicle, or other means of transportation as an EMS vehicle without a valid certificate of inspection;
+        </section>
+        <section prefix="3">
+    	     provide EMS or hold oneself out as, or use the title of EMS first responder, emergency medical technician, or paramedic or the acronym EMT or any other title or acronym used by the department in the certification of emergency medical services personnel under this chapter, in violation of section 9, or other than on behalf of an EMS first response service or an ambulance service or other EMS provider duly licensed or otherwise approved under this chapter;
+        </section>
+        <section prefix="4">
+    	     establish or maintain a trauma center, a service zone provider, or any other entity, service or operation requiring designation or approval under this chapter, or hold itself out as such without a valid designation or approval under this chapter;
+        </section>
+        <section prefix="5">
+    	     obstruct, bar or otherwise interfere with an inspection or investigation undertaken under authority of this chapter;
+        </section>
+        <section prefix="6">
+    	     knowingly make an omission of a material fact or a false statement in any application or other document filed with the department; or
+        </section>
+        <section prefix="7">
+    	     violate or fail to observe any requirement of this chapter, or of any regulation, guideline or order under this chapter.
+        </section>
+        <section prefix="b">
+    	     Whoever engages in, aids, abets, causes or permits any act prohibited under this section shall be punished by a fine of not less than $100 and not more than $1,000 for each offense. A separate and distinct offense shall be deemed to have been committed on each day during which any prohibited act continues after written notice by the department to the offender. The commissioner shall report each suspected offense to the attorney general for investigation and prosecution.
+        </section>
+    </text>
+</law>

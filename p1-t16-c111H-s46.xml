@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>46</section_number>
+    <catch_line>Transfer Of Facility License From Operator</catch_line>
+    <order_by>46</order_by>
+    <text>
+        <section prefix="a">
+    	     No sooner than five years after the implementation of the site closure plan pursuant to section forty-four, the board shall accept transfer of the facility license from the operator, if it determines that the operator has fulfilled all of its obligations under the comprehensive operating contract executed pursuant to section thirty-three. No fewer than ninety days prior to such vote, the board shall issue a draft plan for institutional control of the facility in accordance with the regulations adopted under section sixteen for public review and comment. The board shall conduct a public meeting on the plan of each site community and other public meetings in neighboring communities upon request by the chief executive officer of such community. The board shall accept written comments on the plan submitted by any interested person within forty-five days of the public notice of the availability of the plan. Prior to its vote to accept transfer of the license and adopt the plan, the board shall consider and evaluate all comments made at a public meeting or submitted in writing.
+        </section>
+        <section prefix="b">
+    	     Upon the board’s decision to accept transfer of the facility license the department of public health shall, after notice and opportunity for hearing, determine whether to allow such transfer. The decision of said department to approve facility license transfer shall be based on a determination that the operator’s obligations under section forty-four have been fulfilled and that the board’s program for institutional control of the facility is adequate to protect the public health, safety and the environment. Such decision shall specify, based on the characterization of the facility and of the low-level radioactive waste present at the site, a period of time during which institutional control shall continue, or a procedure for approving termination by the board of institutional control following a specified period of time. The institutional control period shall not be less than the minimum time required for any low-level radioactive waste present at the site to decay to the maximum concentrations above natural background levels permitted to be released into air or water in unrestricted areas under federal and state law.
+        </section>
+        <section prefix="c">
+    	     The operator shall not be required to submit a report to the state ethics commission and the inspector general, in accordance with section twenty-two, for any year after the year during which the facility license is transferred pursuant to this section.
+        </section>
+    </text>
+</law>

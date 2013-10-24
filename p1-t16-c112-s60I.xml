@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>60I</section_number>
+    <catch_line>Certificate Of Registration; Prima Facie Evidence</catch_line>
+    <order_by>60I</order_by>
+    <text>
+        Every certificate of registration issued and remaining in force, under any provision of sections sixty A to sixty J, inclusive, shall be prima facie evidence in all courts of the commonwealth that the person named therein is legally registered as an architect for the period for which it is issued, and of all other facts therein stated.
+    </text>
+</law>

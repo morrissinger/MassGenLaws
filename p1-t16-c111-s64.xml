@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>64</section_number>
+    <catch_line>Annual Inventory; Report; Audit</catch_line>
+    <order_by>64</order_by>
+    <text>
+        The commissioner shall annually cause to be made an accurate inventory of the stock and supplies on hand and the amount and value thereof at the end of the fiscal year at each hospital under the department; shall make a full and detailed annual report of the condition of each such hospital, and all its affairs, with a copy of the inventory required herein; shall receive and audit the annual report of the treasurer of each hospital, and shall deposit the same, with said annual report, with the state secretary.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>118</section_number>
+    <catch_line>Discrimination Against Treatment Of Venereal Diseases</catch_line>
+    <order_by>118</order_by>
+    <text>
+        No discrimination shall be made against the treatment of venereal diseases, as defined under section six, in any general hospital supported by taxation in any city or town where special hospitals, other than hospitals connected with penal institutions, are not provided for the treatment of such diseases at public expense; but any such hospital may establish a separate ward for their treatment.
+    </text>
+</law>

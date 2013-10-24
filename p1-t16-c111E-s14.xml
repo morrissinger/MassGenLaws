@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Findings; Recording</catch_line>
+    <order_by>14</order_by>
+    <text>
+        Each finding, determination and order required to be made by any court pursuant to this chapter, and the reasons therefor, shall be in writing and entered in the record of the proceeding.
+    </text>
+</law>

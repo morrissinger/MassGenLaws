@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Limitation Of Actions</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     under paragraph (1) of subsection (a) of section five, within four years after the transfer was made or the obligation was incurred or, if later, within one year after the transfer or obligation was or could reasonably have been discovered by the claimant;
+        </section>
+        <section prefix="b">
+    	     under paragraph (2) of subsection (a) of section five or subsection (a) of section six, within four years after the transfer was made or the obligation was incurred; or
+        </section>
+        <section prefix="c">
+    	     under subsection (b) of section six, within one year after the transfer was made or the obligation was incurred.
+        </section>
+    </text>
+</law>

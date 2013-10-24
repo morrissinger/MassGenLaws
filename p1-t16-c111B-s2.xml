@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111B" order_by="111B" level="3">Alcoholism</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Application Of Chapter</catch_line>
+    <order_by>2</order_by>
+    <text>
+        The programs or activities of the organization known as Alcoholics Anonymous or any other private organization in the field of alcoholic rehabilitation shall not be restricted or regulated by the provisions of this chapter. 
+Nothing herein contained shall affect any laws, ordinances, by-laws, resolutions or regulations against driving after drinking alcohol, driving under the influence of alcohol, or other similar offenses that involve the operation of motor vehicles, machinery or other hazardous equipment.
+    </text>
+</law>

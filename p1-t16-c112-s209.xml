@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>209</section_number>
+    <catch_line>Unlicensed Practice As Dietitian/Nutritionist; Criminal Liability;  Punishment; Restriction Of Civil Actions</catch_line>
+    <order_by>209</order_by>
+    <text>
+        <section prefix="1">
+    	     Any person acting or purporting to act as a licensed dietitian/nutritionist without first obtaining a license to practice under this chapter shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than $5,000 or by imprisonment for a term not to exceed one year or both.
+        </section>
+        <section prefix="2">
+    	     A person who receives any money or the equivalent thereof as a fee, commission, compensation or profit by, or in the consequence of a violation of any provision of this chapter, shall, in addition to any other penalty, be liable for a fine of not less than the sum of the money so received and not more than three times the sum so received as may be determined by the board.
+        </section>
+        <section prefix="3">
+    	     No action or suit shall be instituted nor recovery had, in any court of the commonwealth by any person for compensation for any act done or service rendered as a licensed dietitian/nutritionist, unless such person held a valid current license under this chapter at the time of offering to perform such act or service.
+        </section>
+    </text>
+</law>

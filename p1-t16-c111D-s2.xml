@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Regulatory Authority Of Public Health Department</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     to establish, with the advice of the advisory committee on clinical laboratories, and to enforce, requirements in addition to any prescribed in this chapter for the construction, maintenance, and utilization of clinical laboratories, including standards of performance in the examination of specimens;
+        </section>
+        <section prefix="2">
+    	     to require evidence of successful participation by clinical laboratories licensed under section five in proficiency testing programs, and by laboratory personnel in training programs, covering all or specific laboratory specialties and approved by the department after consultation with the advisory committee on clinical laboratories;
+        </section>
+        <section prefix="3">
+    	     to establish appropriate fees for the issuance and renewal of licenses;
+        </section>
+        <section prefix="4">
+    	     to make such reasonable classification of clinical laboratories, by category of laboratory procedures performed or nature and scope of services provided, as the department may find necessary or appropriate in the public interest;
+        </section>
+        <section prefix="5">
+    	     to inspect at any time any clinical laboratory and any records maintained in connection with such laboratory; provided, that a license has been issued or an application for a license has been filed under section five;
+        </section>
+        <section prefix="6">
+    	     to conduct investigations and adjudicatory proceedings;
+        </section>
+        <section prefix="7">
+    	     to conduct research and studies, to sponsor or hold educational programs, to make informational materials available to the public, and to engage in such other activities as may be necessary or appropriate for the administration or enforcement of this chapter;
+        </section>
+        <section prefix="8">
+    	     to make such rules, regulations, as may be necessary or appropriate for the administration or enforcement of this chapter; and
+        </section>
+        <section prefix="9">
+    	     to classify, with the advice of the advisory committee on clinical laboratories, laboratory tests as exempt, simple or complex, for purposes of licensing physician clinical laboratories.
+        </section>
+    </text>
+</law>

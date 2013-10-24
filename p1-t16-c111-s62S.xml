@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>62S</section_number>
+    <catch_line>Assignment Of State Minor Wards To Hospital; Approval</catch_line>
+    <order_by>62S</order_by>
+    <text>
+        No state minor wards shall be assigned to the said hospital until the commissioner, with the approval of the governor and council, finds that sufficient new building accommodations have been constructed to provide for the number thus to be assigned.
+    </text>
+</law>

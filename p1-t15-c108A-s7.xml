@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Rules For Determining Existence Of Partnership</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     Except as provided by section sixteen persons who are not partners as to each other are not partners as to third persons.
+        </section>
+        <section prefix="2">
+    	     Joint tenancy, tenancy in common, tenancy by the entireties, joint property, common property, or part ownership does not of itself establish a partnership, whether such co-owners do or do not share any profits made by the use of the property.
+        </section>
+        <section prefix="3">
+    	     The sharing of gross returns does not of itself establish a partnership, whether or not the persons sharing them have a joint or common right or interest in any property from which the returns are derived.
+        </section>
+        <section prefix="4">
+    	     The receipt by a person of a share of the profits of a business is prima facie evidence that he is a partner in the business, but no such inference shall be drawn if such profits were received in payment:
+        </section>
+        <section prefix="a">
+    	     Of a debt by instalments or otherwise,
+        </section>
+        <section prefix="b">
+    	     As wages of an employee or rent to a landlord,
+        </section>
+        <section prefix="c">
+    	     As an annuity to a widow or representative of a deceased partner,
+        </section>
+        <section prefix="d">
+    	     As interest on a loan, though the amount of payment vary with the profits of the business,
+        </section>
+        <section prefix="e">
+    	     As the consideration for the sale of the good will of a business or other property by instalments or otherwise.
+        </section>
+    </text>
+</law>

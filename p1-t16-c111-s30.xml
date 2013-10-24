@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>30</section_number>
+    <catch_line>Agents; Appointment; Inspections</catch_line>
+    <order_by>30</order_by>
+    <text>
+        Boards of health may appoint agents or directors of public health to act for them in cases of emergency or if they cannot conveniently assemble, and any such agent or director shall have all the authority which the board appointing him had; but he shall in each case within two days report his action to the board for its approval, and shall be directly responsible to it and under its direction and control. An agent or director of public health appointed to make sanitary inspections may make complaint of violations of any law, ordinance or by-law relative to the public health.
+    </text>
+</law>

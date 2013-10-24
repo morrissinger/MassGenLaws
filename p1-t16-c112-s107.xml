@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>107</section_number>
+    <catch_line>Unlawful Conduct; Penalties</catch_line>
+    <order_by>107</order_by>
+    <text>
+        <section prefix="a">
+    	     hold himself as a landscape architect unless he is registered under the provisions of sections ninety-eight to one hundred and six, inclusive;
+        </section>
+        <section prefix="b">
+    	     present as his own the certificate of registration of another;
+        </section>
+        <section prefix="c">
+    	     give false or forged evidence to the board of registration or any member thereof in obtaining a certificate;
+        </section>
+        <section prefix="d">
+    	     falsely impersonate any other registrant of like or different name;
+        </section>
+        <section prefix="e">
+    	     use or attempt to use a certificate of registration that has been revoked; or
+        </section>
+        <section prefix="f">
+    	     otherwise violate any of the provisions of said sections.
+        </section>
+    </text>
+</law>

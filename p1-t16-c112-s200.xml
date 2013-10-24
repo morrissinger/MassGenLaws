@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>200</section_number>
+    <catch_line>Violations Of Secs. 197 To 200; Punishment</catch_line>
+    <order_by>200</order_by>
+    <text>
+        <section prefix="a">
+    	     The board may, by a majority vote of the entire board and upon determination made after a hearing pursuant to chapter 30A, find that a hearing instrument specialist or apprentice is liable for a violation of the provisions of sections 197 to 200, inclusive, and may impose the following fines and penalties: (1) require such holder to participate in an alcohol or drug rehabilitation program or undergo drug testing as a condition of reinstatement of such license or both; (2) suspend, revoke, cancel or place on probation such registration; (3) reprimand or censure the registrant; (4) require such holder to complete additional education or training or both as a condition of retention or future consideration or reinstatement of such registration; (5) require such holder to practice under appropriate supervision for a period of time to be determined by the board as a condition of retention of future consideration or reinstatement of such registration; (6) require financial restitution, where appropriate; and (7) assess an administrative penalty of not more than $5,000 for each violation.
+        </section>
+        <section prefix="b">
+    	     Whoever, not being registered as a hearing instrument specialist, apprentice or as an audiologist licensed under the board of registration of speech-language pathology and audiology, holds himself out as a dispenser of hearing aids or as being able to dispense hearing aids or whoever impersonates another hearing instrument specialist or apprentice or violates any other provision of the board of registration of hearing instrument specialists or a rule or regulation made under the authority thereof, may be punished by a fine of not less than $1,000 nor more than $5,000 for each violation.
+        </section>
+        <section prefix="c">
+    	     A violation of sections 197 to 199, inclusive, shall also constitute a violation of chapter 93A.
+        </section>
+    </text>
+</law>

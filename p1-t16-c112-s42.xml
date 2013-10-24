@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Authorization Of Expenditures</catch_line>
+    <order_by>42</order_by>
+    <text>
+        For the purpose of carrying out the five preceding sections, the board may expend annually a sum not exceeding one thousand dollars.
+    </text>
+</law>

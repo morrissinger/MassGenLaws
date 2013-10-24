@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>24</section_number>
+    <catch_line>Ems Regional Councils; Distribution And Use Of Funds; Goals And Objectives</catch_line>
+    <order_by>24</order_by>
+    <text>
+        <section prefix="1">
+    	     maintenance and operation of regional emergency medical services councils;
+        </section>
+        <section prefix="2">
+    	     maintenance and operation of regional communication centers; and
+        </section>
+        <section prefix="3">
+    	     training of EMS personnel, such training to be interpreted to include initial training and recertification.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>44</section_number>
+    <catch_line>Active Observation And Maintenance Of Facility</catch_line>
+    <order_by>44</order_by>
+    <text>
+        Upon completion of site closure activities, the operator shall, for no less than five years thereafter, engage in active observation and maintenance of the facility in accordance with regulations adopted pursuant to section sixteen and the conditions of the facility license. By the end of such time, the operator shall transfer all records of its development, operation, closure and post-closure observation and maintenance of the facility to the board.
+    </text>
+</law>

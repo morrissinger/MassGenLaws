@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Fraudulent Transfer Or Obligation Where Creditor’S Claim Arose Before Transfer Or Obligation</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     A transfer made or obligation incurred by a debtor is fraudulent as to a creditor whose claim arose before the transfer was made or the obligation was incurred if the debtor made the transfer or incurred the obligation without receiving a reasonably equivalent value in exchange for the transfer or obligation and the debtor was insolvent at that time or the debtor became insolvent as a result of the transfer or obligation.
+        </section>
+        <section prefix="b">
+    	     A transfer made by a debtor is fraudulent as to a creditor whose claim arose before the transfer was made if the transfer was made to an insider for an antecedent debt, the debtor was insolvent at that time, and the insider had reasonable cause to believe that the debtor was insolvent.
+        </section>
+    </text>
+</law>

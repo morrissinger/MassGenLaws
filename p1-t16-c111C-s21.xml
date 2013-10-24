@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Ems Personnel; Good Faith Performance Of Duties; Limitation On Personal Liability</catch_line>
+    <order_by>21</order_by>
+    <text>
+        No EMS personnel certified, accredited or otherwise approved under this chapter, and no additional personnel certified or authorized under section 9, who in the performance of their duties and in good faith render emergency first aid, cardiopulmonary resuscitation, transportation, or other EMS, to an injured person or to a person incapacitated by illness shall be personally liable as a result of rendering such aid or services or, in the case of an emergency medical technician or additional personnel, as a result of transporting such person to a hospital or other health care facility, nor shall they be liable to a hospital for its expenses if, under emergency conditions, they cause the admission of such person to said hospital.
+    </text>
+</law>

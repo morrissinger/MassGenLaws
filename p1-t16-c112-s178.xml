@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>178</section_number>
+    <catch_line>Classification Of Real Estate Appraisers; Applications</catch_line>
+    <order_by>178</order_by>
+    <text>
+        <section prefix="1">
+    	     The state-certified general real estate appraiser classification, which shall consist of persons meeting the requirements for certification relating to the appraisal of all types of real property and passing a state administered examination, which requirements and examination are, at a minimum, consistent with the requirements and examination of the Appraisal Qualifications Board of the Appraisal Foundation for that category.
+        </section>
+        <section prefix="2">
+    	     The state-certified residential real estate appraiser classification, which shall consist of persons meeting the requirements for certification relating to the appraisal of certain residential real property and passing a state administered examination, which requirements and examination are, at a minimum, consistent with the requirements and examination of the Appraisal Qualifications Board of the Appraisal Foundation for that category.
+        </section>
+        <section prefix="3">
+    	     The state-licensed real estate appraiser classification, which shall consist of persons meeting the requirements established by the board for licensing pursuant to this chapter and passing a state administered examination, which requirements and examination are, at a minimum, consistent with and equivalent to the requirements of Title XI and any guidelines issued thereunder by the Federal Financial Institutions Examination Council or its Federal Appraisal Subcommittee.
+        </section>
+        <section prefix="4">
+    	     Real estate appraisal trainee classification, which shall consist of persons authorized only to assist a state-certified general real estate appraiser, state-certified residential real estate appraiser or state-licensed real estate appraiser in the performance of an appraisal assignment. Such real estate appraisal trainee shall obtain a trainee license and shall perform such functions as are consistent with regulations established by the board governing this category of licensure; provided, however, that such regulations are not inconsistent with the requirements of Title XI and any guidelines issued thereunder by the Federal Financial Institutions Examination Council or its Federal Appraisal Subcommittee.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Certificate</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     In order to form a limited partnership a certificate of limited partnership shall be executed. The certificate shall be filed in the office of the secretary of state and shall set forth:
+        </section>
+        <section prefix="1">
+    	     the name of the limited partnership;
+        </section>
+        <section prefix="2">
+    	     the general character of its business;
+        </section>
+        <section prefix="3">
+    	     the address of the office and the name and address of the agent for service of process required to be maintained by section 4; provided, however, that the agent’s written consent to the appointment as agent shall be either in the certificate or attached to it;
+        </section>
+        <section prefix="4">
+    	     the name and the business address of each general partner;
+        </section>
+        <section prefix="5">
+    	     the latest date upon which the limited partnership is to dissolve; and
+        </section>
+        <section prefix="6">
+    	     any other matters the general partners determine to include therein.
+        </section>
+        <section prefix="b">
+    	     A limited partnership is formed at the time of the filing of the certificate of limited partnership in the office of the secretary of state or at any later time specified in the certificate of limited partnership if, in either case, there has been substantial compliance with the requirements of this section.
+        </section>
+    </text>
+</law>

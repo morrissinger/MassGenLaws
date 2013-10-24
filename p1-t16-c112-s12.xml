@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Disclosure Of Information Relative To Venereal Disease By Registered Physician</catch_line>
+    <order_by>12</order_by>
+    <text>
+        Any registered physician or surgeon who knows or has reason to believe that any person is infected with a venereal disease as defined under section six of chapter one hundred and eleven may disclose such information to any person from whom the infected person has received a promise of marriage or to the parent or guardian of such person if a minor. Such information given in good faith by a registered physician or surgeon shall not constitute a slander or libel.
+    </text>
+</law>

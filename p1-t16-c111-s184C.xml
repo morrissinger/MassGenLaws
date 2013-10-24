@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>184C</section_number>
+    <catch_line>Donation By Minors</catch_line>
+    <order_by>184C</order_by>
+    <text>
+        A minor 17 years of age or older may donate his blood without the prior assent thereto by his parent or guardian. A minor 16 to 17 years of age may donate his blood with the prior assent thereto of his parent or guardian.
+    </text>
+</law>

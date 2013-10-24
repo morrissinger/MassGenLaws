@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>204</section_number>
+    <catch_line>Confidentiality Of Proceedings, Reports And Records; Exceptions;  Immunity</catch_line>
+    <order_by>204</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as otherwise provided in this section, the proceedings, reports and records of a medical peer review committee shall be confidential and shall be exempt from the disclosure of public records under section 10 of chapter 66 but shall not be subject to subpoena or discovery, or introduced into evidence, in any judicial or administrative proceeding, except proceedings held by the boards of registration in medicine, pharmacy, social work, or psychology or by the department of public health pursuant to chapter 111C, and no person who was in attendance at a meeting of a medical peer review committee shall be permitted or required to testify in any such judicial or administrative proceeding, except proceedings held by the boards of registration in medicine, pharmacy, social work or psychology or by the department of public health pursuant to chapter 111C, as to the proceedings of such committee or as to any findings, recommendations, evaluations, opinions, deliberations or other actions of such committee or any members thereof.
+        </section>
+        <section prefix="b">
+    	     Documents, incident reports or records otherwise available from original sources shall not be immune from subpoena, discovery or use in any such judicial or administrative proceeding merely because they were presented to such committee in connection with its proceedings. Nor shall the proceedings, reports, findings and records of a medical peer review committee be immune from subpoena, discovery or use as evidence in any proceeding against a member of such committee to establish a cause of action pursuant to section eighty-five N of chapter two hundred and thirty-one; provided, however, that in no event shall the identity of any person furnishing information or opinions to the committee be disclosed without the permission of such person. Nor shall the provisions of this section apply to any investigation or administrative proceeding conducted by the boards of registration in medicine, pharmacy, social work or psychology or by the department of public health pursuant to chapter 111C.
+        </section>
+        <section prefix="c">
+    	     A person who testifies before such committee or who is a member of such committee shall not be prevented from testifying as to matters known to such person independent of the committee’s proceedings, provided that, except in a proceeding against a witness to establish a cause of action pursuant to section eighty-five N of chapter two hundred and thirty-one, neither the witness nor members of the committee may be questioned regarding the witness’ testimony before such committee, and further provided that committee members may not be questioned in any proceeding about the identity of any person furnishing information or opinions to the committee, opinions formed by them as a result of such committee proceedings, or about the deliberations of such committee.
+        </section>
+        <section prefix="d">
+    	     A court or administrative body may place reasonable restrictions on the use which may be made of the information obtained hereunder so as to maintain, so far as necessary or practicable, the confidentiality of such information.
+        </section>
+        <section prefix="e">
+    	     No proceeding, report or record of a medical peer review committee obtained hereunder and disclosed in an action pursuant to section eighty-five N of chapter two hundred and thirty-one or a proceeding before an administrative body, shall be subject to subpoena or discovery, or introduced into evidence in judicial or administrative proceedings other than those proceedings or investigations specified in subsections (a) and (b).
+        </section>
+    </text>
+</law>

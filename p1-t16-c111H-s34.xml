@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>34</section_number>
+    <catch_line>Community Compensation</catch_line>
+    <order_by>34</order_by>
+    <text>
+        Any community compensation to be provided for site communities pursuant to the comprehensive operating contract shall be divided among such communities in the proportion that each community’s population residing within three miles of the facility bears to the total population of site communities within such area. The community compensation to be provided for neighboring communities pursuant to the comprehensive operating contract shall be divided among such communities in the proportion that each community’s population residing within three miles of the facility bears to the total population of such communities within such area; provided, however, that if the facility has no neighboring communities, such community compensation shall be divided among the site communities in accordance with the formula established in this section.
+    </text>
+</law>

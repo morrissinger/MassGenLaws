@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Misrepresentation Of Self As Partner; Liability</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="1">
+    	     When a person, by words spoken or written or by conduct, represents himself, or consents to another representing him to any one, as a partner in an existing partnership or with one or more persons not actual partners, he is liable to any such person to whom such representation has been made, who has, on the faith of such representation, given credit to the actual or apparent partnership, and if he has made such representation or consented to its being made in a public manner he is liable to such person, whether the representation has or has not been made or communicated to such person so giving credit by or with the knowledge of the apparent partner making the representation or consenting to its being made.
+        </section>
+        <section prefix="a">
+    	     When a partnership liability results he is liable as though he were an actual member of the partnership.
+        </section>
+        <section prefix="b">
+    	     When no partnership liability results he is liable jointly with the other persons, if any, so consenting to the contract or representation as to incur liability, otherwise separately.
+        </section>
+        <section prefix="2">
+    	     When a person has been thus represented to be a partner in an existing partnership, or with one or more persons not actual partners, he is an agent of the persons consenting to such representation to bind them to the same extent and in the same manner as though he were a partner in fact, with respect to persons who rely upon the representation. Where all the members of the existing partnership consent to the representation, a partnership act or obligation results; but in all other cases it is the joint act or obligation of the person acting and the persons consenting to the representation.
+        </section>
+    </text>
+</law>

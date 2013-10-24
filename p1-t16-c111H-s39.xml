@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>39</section_number>
+    <catch_line>Determination Of Operator’S Compliance With Comprehensive Operating Contract; Notice To Generators</catch_line>
+    <order_by>39</order_by>
+    <text>
+        <section prefix="a">
+    	     Upon written notification by the operator that the facility is ready to accept low-level radioactive waste, and upon written notification by the department of public health that the facility is in compliance with all regulations and conditions of the facility license, the board shall determine whether the operator is in compliance with the comprehensive operating contract. If it is so determined, then the facility shall commence operation.
+        </section>
+        <section prefix="b">
+    	     Within seven days of the board’s determination, the operator shall notify all generators of the date on which the operator will accept low-level radioactive waste from such generators. Included in such notice shall be a statement of the terms, conditions and criteria for low-level radioactive waste acceptance at the facility.
+        </section>
+    </text>
+</law>

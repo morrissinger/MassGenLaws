@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Violations; Investigations; Notice; Findings; Elimination Of Violations; Orders; Review; Penalties</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     If any of the commissioners with responsibilities under this chapter have cause to believe that an employer or manufacturer has wrongfully failed to comply with any provision of this chapter for which that commissioner has been delegated responsibility, that commissioner may, within one hundred and twenty days of the alleged violation or within one hundred and twenty days from the date on which the commissioner obtained knowledge of the violation, undertake an investigation.
+        </section>
+        <section prefix="b">
+    	     If any of the commissioners with responsibilities under this chapter have cause to believe that an employer or manufacturer has willfully and intentionally violated any provisions for which that commissioner has been delegated responsibility, that commissioner may report such alleged violation to the attorney general and may request that the attorney general bring an action in the appropriate court of the commonwealth to restrain such violations and to seek such penalties as are provided herein.
+        </section>
+        <section prefix="c">
+    	     This chapter shall not be construed to create any independent private right of action, and the responsibility for enforcement of this chapter shall lie exclusively with the attorney general.
+        </section>
+        <section prefix="d">
+    	     This chapter shall not be construed to enlarge or diminish any rights or privileges created by collective bargaining agreements or any other provisions of law.
+        </section>
+    </text>
+</law>

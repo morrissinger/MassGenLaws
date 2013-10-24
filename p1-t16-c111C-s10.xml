@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111C" order_by="111C" level="3">Emergency Medical Services System</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Regional Ems Councils; Service Zone Plans; Designation Of Service Zone Providers; Primary Ambulance Service</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Each regional EMS council shall, subject to the approval of the department, adopt a service zone plan that identifies, coordinates and makes optimal use of all available EMS resources within each service zone. Each such plan shall be developed by the local jurisdiction, shall provide for emergency response, and shall be in accordance with all federal, state and local laws and regulations related to incident command and control during emergency response. Each service zone plan shall include, without limitation, the following:
+        </section>
+        <section prefix="1">
+    	     a current list of service zones within the region and the service zone providers selected by the local jurisdiction within those zones;
+        </section>
+        <section prefix="2">
+    	     current inventories of EMS providers and resources and public safety resources within each service zone, including, without limitation, service zone providers, selection criteria as defined in paragraph (3), EMS personnel, local capability for call-taking, dispatch, first response, ambulance service, level EMT-Basic, EMT-Intermediate or EMT-Paramedic services, medical control and facility destinations;
+        </section>
+        <section prefix="3">
+    	     a selection process, to be carried out by a local jurisdiction whenever a local jurisdiction within a service zone proposes an upgrade in level of service that a service zone provider is unable to provide or whenever a downgrade of a service zone’s level of services is proposed or effected, including, without limitation, selection criteria, to be used by service zones within the region in selecting a service zone provider. Selection criteria may vary among service zones, but shall include, without limitation, standards concerning response time, staffing requirements, deployment of resources, adequate backup, level of service, medical control, facility destinations and other factors promoting the optimal utilization of all available EMS resources;
+        </section>
+        <section prefix="4">
+    	     coordination of first responder services within service zones; and
+        </section>
+        <section prefix="5">
+    	     coordination of EMS first response, primary ambulance response and all other ambulance service, including, without limitation, private provider contracts, within each service zone, with such zone’s service zone providers, to ensure an appropriate emergency response to all emergencies.
+        </section>
+        <section prefix="b">
+    	     Each regional EMS council, upon the recommendation of the local jurisdiction comprising each service zone, shall recommend that the department designate, and the department shall designate, upon such recommendation, service zone providers, that include one or more EMS first response services and one primary ambulance service recommended by such local jurisdiction.
+        </section>
+        <section prefix="c">
+    	     Each primary ambulance service shall provide primary ambulance response for every emergency call for EMS originating within its service zone either directly, or through agreements with other qualified ambulance services, in order to meet the standards for primary ambulance response established by the service zone.
+        </section>
+        <section prefix="d">
+    	     No ambulance service shall provide primary ambulance response in a service zone, unless it is the designated primary ambulance service, or is acting pursuant to an appropriate agreement with the primary ambulance service, consistent with the service zone plan.
+        </section>
+    </text>
+</law>

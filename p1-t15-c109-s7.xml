@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Partners Transacting Business With Partnership</catch_line>
+    <order_by>7</order_by>
+    <text>
+        Except as provided in the partnership agreement, a partner may lend money to and transact other business with the limited partnership and, subject to other applicable law, has the same rights and obligations with respect thereto as a person who is not a partner.
+    </text>
+</law>

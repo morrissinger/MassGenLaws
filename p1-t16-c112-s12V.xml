@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12V</section_number>
+    <catch_line>Exemption Of Certain Individuals Rendering Emergency Cardiopulmonary Resuscitation From Civil Liability</catch_line>
+    <order_by>12V</order_by>
+    <text>
+        Any person, whose usual and regular duties do not include the provision of emergency medical care, and who, in good faith, attempts to render emergency care including, but not limited to, cardiopulmonary resuscitation or defibrillation, and does so without compensation, shall not be liable for acts or omissions, other than gross negligence or willful or wanton misconduct, resulting from the attempt to render such emergency care.
+    </text>
+</law>

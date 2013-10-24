@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     When its use has been discontinued with intent not to resume the use. Intent not to resume may be inferred from circumstances. Nonuse for 2 consecutive years shall constitute prima facie evidence of abandonment.
+        </section>
+        <section prefix="b">
+    	     When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to lose its significance as a mark.
+        </section>
+        <section prefix="a">
+    	     on goods when it is placed in any manner on the goods or other containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes the placement impracticable, then on documents associated with the goods or their sale, and the goods are sold or transported in commerce in the commonwealth, and
+        </section>
+        <section prefix="b">
+    	     on services when it is used or displayed in the sale or advertising of services and the services are rendered in the commonwealth.
+        </section>
+    </text>
+</law>

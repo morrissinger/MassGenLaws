@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>86</section_number>
+    <catch_line>Display Of Certificates</catch_line>
+    <order_by>86</order_by>
+    <text>
+        Every holder of a certificate of registration in embalming, every holder of a certificate of registration in funeral directing, and every holder of an establishment certificate shall conspicuously display it in his place of business.
+    </text>
+</law>

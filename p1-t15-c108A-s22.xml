@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>22</section_number>
+    <catch_line>Partner’S Right To Formal Accounting</catch_line>
+    <order_by>22</order_by>
+    <text>
+        <section prefix="a">
+    	     If he is wrongfully excluded from the partnership business or possession of its property by his co-partners,
+        </section>
+        <section prefix="b">
+    	     If the right exists under the terms of any agreement,
+        </section>
+        <section prefix="c">
+    	     As provided by section twenty-one,
+        </section>
+        <section prefix="d">
+    	     Whenever other circumstances render it just and reasonable.
+        </section>
+    </text>
+</law>

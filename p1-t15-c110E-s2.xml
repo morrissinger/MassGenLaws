@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110E" order_by="110E" level="3">Regulation Of Control Share Acquisitions Of Foreign Corporations</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Voting Rights Of Issuing Public Corporation Shares Acquired In Control Share Acquisitions</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     If the charter or bylaws of an issuing public corporation provide, at the time of a control share acquisition, that this chapter applies to control share acquisitions of shares of such corporation, shares of such corporation acquired in such control share acquisition have only such voting rights as are authorized pursuant to the provisions of section five.
+        </section>
+        <section prefix="b">
+    	     A corporation may amend its charter or bylaws to eliminate a provision adopted pursuant to subsection (a), in which event this chapter shall not apply to any control share acquisition respecting the stock of such corporation which occurs after the effective date of such amendment.
+        </section>
+    </text>
+</law>

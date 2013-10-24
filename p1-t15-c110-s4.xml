@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110" order_by="110" level="3">Labels, Trade Marks, Names And Registration Thereof</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Use Of Name Of Person Formerly Connected With Business</catch_line>
+    <order_by>4</order_by>
+    <text>
+        A person who conducts business in the commonwealth shall not assume or continue to use in his business the name of a person formerly connected with him in partnership or the name of any other person, either alone or in connection with his own or with any other name or designation, without the consent in writing of such person or of his legal representatives.
+    </text>
+</law>

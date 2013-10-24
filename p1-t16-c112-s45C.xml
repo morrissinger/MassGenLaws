@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>45C</section_number>
+    <catch_line>Registration Of Dentists; Fee Waived For Certain Volunteer Practitioners; Scope Of Practice Restricted; Contents Of Application</catch_line>
+    <order_by>45C</order_by>
+    <text>
+        <section prefix="a">
+    	     The board may grant to or renew a certificate of registration of a dentist qualified for registration or renewal of the same under this chapter without payment of a fee; provided, that the dentist has agreed to restrict his practice to that of a volunteer practitioner in a specified free care program operated by a nonprofit organization. The scope of practice of a dentist whose certificate of registration is granted or renewed pursuant to this section may be restricted as the board may provide by regulation.
+        </section>
+        <section prefix="b">
+    	     In order to qualify for a license for volunteer practice, an applicant shall meet the requirements for a regular license under this chapter, in addition to the requirements of this section. An applicant shall submit to the board a completed application on a form prescribed by the board and any additional information that the board requests. An applicant shall agree to the conditions on practice promulgated by the board.
+        </section>
+        <section prefix="c">
+    	     The board’s application form for a license for volunteer practice shall include a request for the following information:
+        </section>
+        <section prefix="1">
+    	     a written statement from the applicant outlining the scope and duration of services to be provided by the applicant;
+        </section>
+        <section prefix="2">
+    	     a written statement from the director of the applicant’s proposed work site outlining the scope and duration of the applicant’s responsibilities; and
+        </section>
+        <section prefix="3">
+    	     evidence satisfactory to the board that, in the proposed work site, the volunteer dentist will be serving without compensation and providing free dental care to a low-income community, or a community with limited access to dental care.
+        </section>
+        <section prefix="d">
+    	     If an applicant has met all of the requirements of this section to the satisfaction of the board, the applicant shall be granted a license for volunteer practice and entitled to a certificate of registration signed by the chairman and the secretary of the board. A licensee engaged in volunteer practice may practice dentistry only at a work site approved in conjunction with his license application; shall be subject to the same conditions and responsibilities as a regular licensee; and may not accept any compensation for the practice of dental medicine.
+        </section>
+    </text>
+</law>

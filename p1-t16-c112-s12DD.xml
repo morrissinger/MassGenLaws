@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12DD</section_number>
+    <catch_line>Administration Of Long Term Antibiotic Therapy Upon Diagnosis Of Lyme Disease</catch_line>
+    <order_by>12DD</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings unless the context clearly requires otherwise:
+        </section>
+        <section prefix="b">
+    	     A licensed physician may prescribe, administer or dispense long-term antibiotic therapy for a therapeutic purpose to eliminate infection or to control a patient’s symptoms upon making a clinical diagnosis that the patient has Lyme disease or displays symptoms consistent with a clinical diagnosis of Lyme disease, if such clinical diagnosis and treatment are documented in the patient’s medical record by the prescribing licensed physician.
+        </section>
+    </text>
+</law>

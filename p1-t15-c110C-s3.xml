@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110C" order_by="110C" level="3">Regulation Of Take Over Bids In The Acquisition Of Corporations</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Acquisition Of Target Company Stock By Offeror Prior To Take Over Bid;  Disclosure Requirements</catch_line>
+    <order_by>3</order_by>
+    <text>
+        No offeror shall make a take-over bid if he and his associates and affiliates are directly or indirectly the beneficial owners of five per cent or more of the issued and outstanding equity securities of any class of the target company, any of which were purchased within one year before the proposed take-over bid, and the offeror, before making any such purchase, or before the thirtieth day following the effective date of this section, whichever is later, failed to publicly announce his intention to gain control of the target company, or otherwise failed to make fair, full, and effective disclosure of such intention to the persons from whom he acquired such securities.
+    </text>
+</law>

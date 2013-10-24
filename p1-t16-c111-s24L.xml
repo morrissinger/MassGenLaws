@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>24L</section_number>
+    <catch_line>Shaken Baby Syndrome Prevention Initiative</catch_line>
+    <order_by>24L</order_by>
+    <text>
+        <section prefix="a">
+    	     The department of public health shall collaborate with the department of children and families, the child abuse prevention board and staff of the Children’s Trust Fund, the office of the child advocate, other state agencies serving families and children, health care providers, law enforcement personnel, human service providers, and child advocacy organizations to develop and implement a comprehensive, state-wide shaken baby syndrome prevention initiative to reduce death and disability resulting from shaken baby syndrome. The initiative shall be subject to appropriation and shall include, but not be limited to:
+        </section>
+        <section prefix="1">
+    	     the institution of a program to educate parents or guardians concerning shaken baby syndrome prevention, provided that parents or guardians of a newborn shall, by the time of discharge from a hospital or birth center, receive education and materials to be developed by the department of public health describing the dangers of shaking infants and children and the risks associated with shaken baby syndrome. Education and materials shall include, but not be limited to, information concerning the medical and physical effects of shaking infants and children, appropriate methods of handling infants and children, methods of preventing and reducing the risk of shaking infants and children, and the availability of community-based programs and other resources to prevent shaken baby syndrome;
+        </section>
+        <section prefix="2">
+    	     the institution of education and training programs concerning the prevention and diagnosis of shaken baby syndrome for parents, caregivers, health care providers, and other professionals who serve or have contact with children and families, and the department of public health shall develop necessary educational materials;
+        </section>
+        <section prefix="3">
+    	     the development of a program to support and serve victims and families affected by shaken baby syndrome; and
+        </section>
+        <section prefix="4">
+    	     the creation of a surveillance and data collection program to measure the incidence of shaken baby syndrome and traumatic brain injury in infants and children.
+        </section>
+        <section prefix="b">
+    	     No caregivers, health providers, or other professionals serving children and families who provide education or report information related to the department’s surveillance process shall be liable in any civil or criminal action, if the actions were required by this section and made in good faith.
+        </section>
+        <section prefix="c">
+    	     The department of public health may adopt regulations to implement this section. The department shall consult with a state-wide advisory group of interested parties before implementation of the initiative and the regulations adopted under this section. The department shall, in consultation with the department of children and families, the office of the child advocate, and the child abuse prevention board and staff of the Children’s Trust Fund, conduct an annual evaluation of the shaken baby syndrome prevention initiative and shall report annually to the governor concerning the activities undertaken as part of the initiative and the results of the annual evaluation. A copy of the report shall be filed with the clerks of the senate and the house not later than February 1 of each year.
+        </section>
+    </text>
+</law>

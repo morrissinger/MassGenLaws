@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12Z</section_number>
+    <catch_line>Reports Of Dog Bites</catch_line>
+    <order_by>12Z</order_by>
+    <text>
+        Every physician attending or treating a case of dog bite or whenever any such case is treated in a hospital, sanatorium or other institution, the manager, superintendent or other person in charge thereof, shall report such case within twenty-four hours to the inspector of animals of the city or town where such dog bite occurred; provided, however, that if such city or town does not have an inspector of animals said report shall be made to the dog officer.
+    </text>
+</law>

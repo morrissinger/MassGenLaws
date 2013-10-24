@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110D" order_by="110D" level="3">Regulation Of Control Share Acquisitions</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Redemption Of Shares Acquired In Control Share Acquisition;  Conditions</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     The articles of organization or by-laws of an issuing public corporation, by provision effective at the time of the occurrence of a control share acquisition, may authorize the redemption, at the option of such corporation but without requiring the agreement of the person who has made a control share acquisition, of all but not less than all shares acquired in such a control share acquisition, from such person for the fair value of such shares if:
+        </section>
+        <section prefix="i">
+    	     no control acquisition statement has been delivered; or
+        </section>
+        <section prefix="ii">
+    	     a control acquisition statement has been delivered and voting rights were not authorized for such shares by the stockholders in accordance with the provisions of section five.
+        </section>
+        <section prefix="b">
+    	     Notice of such redemption shall be given by the issuing public corporation not later than sixty days after the date on which the stockholders of the issuing public corporation voted not to authorize voting rights for the shares to be redeemed, or if no control share acquisition statement has been delivered prior to the date on which notice of redemption is given by the issuing public corporation not later than, sixty days after the first date on which the board of directors of the issuing public corporation has actual knowledge of such control share acquisition.
+        </section>
+        <section prefix="c">
+    	     For purposes of this section, fair value shall be determined as of the date on which stockholders of the issuing public corporation voted not to authorize voting rights for the shares to be redeemed, or, if no control acquisition statement is delivered, as of the date on which the issuing public corporation determines to make a redemption under this section. Such value shall be determined in accordance with procedures adopted by the issuing public corporation and without regard to the effect of the denial of voting rights under the provisions of section five.
+        </section>
+    </text>
+</law>

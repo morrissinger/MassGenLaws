@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>51D</section_number>
+    <catch_line>Discrimination By Acute Hospitals Against Medicare Beneficiaries;  Discharge Planning</catch_line>
+    <order_by>51D</order_by>
+    <text>
+        <section prefix="1">
+    	     identification of the post-hospital services needed by the patient, including home health and homemaker services, and of the post-hospital social needs of the patient, as determined in accordance with procedures set forth by the department;
+        </section>
+        <section prefix="2">
+    	     the services that have been arranged for the patient;
+        </section>
+        <section prefix="3">
+    	     the names, addresses, and telephone numbers of service providers;
+        </section>
+        <section prefix="4">
+    	     the service schedule as requested by the hospital;
+        </section>
+        <section prefix="5">
+    	     medications prescribed and instructions for their use or verification that such information was provided separately;
+        </section>
+        <section prefix="6">
+    	     scheduled follow-up medical appointments or verification that such information was provided separately; and
+        </section>
+        <section prefix="7">
+    	     such other information as the department may require.
+        </section>
+        <section prefix="1">
+    	     the name and telephone number of the hospital discharge planning coordinator to be contacted in the event the patient has any problems with post-hospital services after said patient leaves the hospital;
+        </section>
+        <section prefix="2">
+    	     a notice that, in the event the patient or the patient’s representative does not agree with the discharge plan, the discharge planning coordinator and the patient’s physician shall meet with the patient or the patient’s representative in an effort to develop a plan that is acceptable to the patient;
+        </section>
+        <section prefix="3">
+    	     a notice, including the advocacy office telephone number, that, if an acceptable resolution is not reached as a result of the meeting provided for in clause (2), the patient or the patient’s representative may file a request for review of the discharge plan with the advocacy office, as hereinafter provided;
+        </section>
+        <section prefix="4">
+    	     a notice that signing the discharge plan does not necessarily indicate approval of the plan and does not preclude the right to request a meeting or a review pursuant to clauses (2) and (3); and
+        </section>
+        <section prefix="5">
+    	     a signature line for the patient or the patient’s representative acknowledging participation in the development of the discharge plan and receipt of a copy of said plan.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Complaints By Department; Jurisdiction</catch_line>
+    <order_by>12</order_by>
+    <text>
+        The department, in its own name, may bring a complaint in the superior court or supreme judicial court to enforce compliance with this chapter or any rule, regulation, or order made under this chapter, whenever it shall appear that any person has engaged in, is engaging in, or is about to engage in an act or practice in violation of this chapter or of any rule, regulation, or order made under this chapter, or whenever it shall appear that any person has aided, abetted, caused or permitted, is aiding, abetting, causing or permitting, or is about to aid, abet, cause or permit such an act or practice.
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12L</section_number>
+    <catch_line>Abortion; Pregnancy Existing For Less Than 24 Weeks</catch_line>
+    <order_by>12L</order_by>
+    <text>
+        If a pregnancy has existed for less than twenty-four weeks no abortion may be performed except by a physician and only if, in the best medical judgment of a physician, the abortion is necessary under all attendant circumstances.
+    </text>
+</law>

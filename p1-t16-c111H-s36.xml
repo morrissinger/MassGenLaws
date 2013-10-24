@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Comprehensive Environmental Monitoring Program; Establishment</catch_line>
+    <order_by>36</order_by>
+    <text>
+        <section prefix="a">
+    	     Within thirty days of the issuance of a facility license pursuant to section thirty-one; the department of public health shall, after consultation with the department of environmental protection and the board of health of each site community, establish a comprehensive environmental monitoring program at the facility site. Such program shall employ the best available monitoring technology and shall provide, to the maximum extent feasible, for the participation of officials and citizens of each site community and the training of such persons to facilitate their participation. The program shall be designed to establish baseline environmental data on the site; to determine compliance with applicable regulations, with conditions of the facility license and with terms of the comprehensive operating contract; to provide early warning of the magnitude and extent of any radionuclide migration; and to provide reliable environmental data throughout development, operation, closure, post-closure operation and maintenance and institution control of the facility. The program shall collect and analyze data concerning standing and running surface water and drainage; groundwater samples from offsite, site boundary and waste management area wells; soil and vegetation samples; atmospheric samples; and radiation measurements offsite, at the site boundary and in the waste management area. The board of health of each site community shall be entitled to obtain portions of the samples collected pursuant to the program for independent analysis by a laboratory certified to conduct such analyses by the United States Environmental Protection Agency.
+        </section>
+        <section prefix="b">
+    	     The operator shall, according to applicable regulations and conditions of the facility license, cooperate with the environmental monitoring program and annually reimburse the department of public health and each site community for the costs thereof until the facility license is transferred to the board pursuant to section forty-six. A copy of all environmental monitoring records and analyses shall be kept at the board field office in the site community for public review.
+        </section>
+        <section prefix="c">
+    	     The department of public health shall annually issue a report describing and evaluating the findings of the monitoring program. Within sixty days of issuance of such report, said department shall hold a public meeting in each site community and, upon request by the chief executive officer of such community, in each affected and neighboring community for public review and comment upon the findings contained therein. Said department shall consider and evaluate all comments made at such public meetings or submitted in writing within sixty days of the issuance of the report.
+        </section>
+    </text>
+</law>

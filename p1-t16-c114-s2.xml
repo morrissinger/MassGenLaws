@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="114" order_by="114" level="3">Cemeteries And Burials</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Powers And Duties Of Cemetery Corporations</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     Such corporation: (1) shall be subject to chapter 155 and sections 1 to 13, inclusive, of chapter 179; (2) may take and hold only so much real and personal property as may be necessary for the objects of its organization; (3) may lay out such real property into lots; and (4) may grant and convey the exclusive right of burial in, and of erecting tombs or cenotaphs upon, any lot and of ornamenting the same, upon such terms and conditions and subject to such regulations as it shall prescribe.
+        </section>
+        <section prefix="b">
+    	     Upon the conveyance of a burial lot, such corporation: (1) shall assign a number to such lot; (2) shall cause a marker to be installed thereon which indicates such number; (3) shall give a written notification to the purchaser of such lot, or his agent, which notification specifies the location and number of such lot; and (4) may charge the purchaser of such lot a reasonable fee for the cost of such marker and its installation.
+        </section>
+        <section prefix="c">
+    	     Such corporation shall maintain records concerning the location and numbering of such lots, which records shall be open to the public.
+        </section>
+    </text>
+</law>

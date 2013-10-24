@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>72H</section_number>
+    <catch_line>Duties Of Department</catch_line>
+    <order_by>72H</order_by>
+    <text>
+        <section prefix="1">
+    	     notify the attorney general forthwith upon receipt of an oral or written report made under the provisions of section 72G;
+        </section>
+        <section prefix="2">
+    	     investigate and evaluate the information reported in any such report. Such investigation and evaluation shall be made within 24 hours if the department has reasonable cause to believe the patient’s or resident’s health or safety is in immediate danger from further abuse or neglect and within seven days for all other such reports. The investigation shall include a visit to the facility, the home health agency, the hospice program or the home of the patient, an interview with the patient or resident allegedly abused, mistreated or neglected or whose property was allegedly misappropriated, a determination of the nature, extent and cause or causes of the injuries, the identity of the person or persons responsible therefor and all other pertinent facts. Such determinations and evaluations shall be in the form of a written report;
+        </section>
+        <section prefix="3">
+    	     evaluate the environment of the facility named in the report and make a written determination of the risk of physical or emotional injury to any other residents in such facility;
+        </section>
+        <section prefix="4">
+    	     forward a copy of the department’s written report to the attorney general within a reasonable time after a case has been investigated;
+        </section>
+        <section prefix="5">
+    	     if it has reasonable cause to believe that a patient or resident has died as a result of abuse, mistreatment or neglect, immediately report such death to the attorney general, the district attorney for the county in which such death occurred and the medical examiner as required by section 3 of chapter 38; and
+        </section>
+        <section prefix="6">
+    	     promulgate such regulations as may be necessary to implement the provisions of sections 72F to 72J, inclusive.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23F</section_number>
+    <catch_line>Athletic Trainers; Qualifications</catch_line>
+    <order_by>23F</order_by>
+    <text>
+        <section prefix="a">
+    	     be a graduate of a college or university approved by the board and completed such college’s or university’s curriculum in athletic training, or other curricula deemed acceptable to the board: and has completed a program of practical training in athletic training deemed acceptable to the board.
+        </section>
+        <section prefix="b">
+    	     have passed an examination administered by the board. Such examination shall be written, and, in addition, at the discretion of the board, may be oral and demonstrative, and shall test the applicant’s knowledge of the basic and clinical sciences as they apply to athletic training theory and practice, including the applicant’s professional skills and judgment in the utilization of athletic training techniques and methods, and such other subjects as the board may deem useful to determine the applicant’s fitness to act as an athletic trainer. The examination shall be conducted at least twice a year at times and places to be determined by the board.
+        </section>
+    </text>
+</law>

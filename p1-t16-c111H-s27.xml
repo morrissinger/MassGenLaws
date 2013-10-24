@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Certified Applicant Interviews; Selection Of Operator Of Superior Site Facility</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="a">
+    	     No sooner than eleven months and no more than one year and two months after the acceptance of the candidate site identification report pursuant to section twenty, the community supervisory committee of each candidate site community shall interview those certified applicants who indicate their willingness to develop and operate a facility at a candidate site located within such community, and shall meet with the board or the commissioner of capital asset management and maintenance at the request of any of them to discuss any aspects of the certified applicants qualifications or responses to the request for proposals.
+        </section>
+        <section prefix="b">
+    	     Each certified applicant interviewed shall be given an opportunity to submit to the community supervisory committee of the site community a written response to any question or requests made of such applicant, including a description of any necessary changes in the development, operation, closure, post-closure observation and maintenance and institutional control plans proposed to be implemented at the superior site and such other information that will allow the community supervisory committee to determine whether the applicant will be able to ensure proper facility operation in order to protect public health, safety and the environment and to serve the site and neighboring communities’ interests, including any covenants proposed to be made by the applicant concerning transportation routing; access road construction; limitations on the hours or number of daily deliveries of low-level radioactive waste to the facility; the number of facility employees to be hired from among site, affected and neighboring community residents; and the amount of business to be contracted for with site, affected and neighboring community firms. Such written responses shall be submitted within sixty days of the selection of such superior site pursuant to section twenty-three.
+        </section>
+        <section prefix="c">
+    	     No fewer than sixty days and no more than ninety days after the selection of any superior site pursuant to section twenty-three, the community supervisory committee of the site community shall select, from among the certified applicants interviewed, the operator of the facility to be developed at such site; provided, however, that, if the candidate site is situated in more than one community, such selection shall be made by a majority vote of the members of the combined community supervisory committees of the site communities.
+        </section>
+        <section prefix="d">
+    	     If the community supervisory committee or committees fail to select an operator from among the certified applicants in accordance with this section, the board shall select such operator by a vote of its members.
+        </section>
+        <section prefix="e">
+    	     The selection of an operator pursuant to this section shall not be subject to the requirement of section forty-four A of chapter one hundred forty-nine.
+        </section>
+        <section prefix="f">
+    	     No certified applicant who fails to be selected as an operator pursuant to this section shall be required to submit a report to the state ethics commission and the inspector general, in accordance with section twenty-two, for any year after the year during which the operator is selected.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>16</section_number>
+    <catch_line>Licensing, Development, Operation, Closure, Post Closure Observation And Maintenance, And Institutional Control Of Facilities; Adoption Of Regulations</catch_line>
+    <order_by>16</order_by>
+    <text>
+        <section prefix="a">
+    	     The department of public health shall adopt regulations for the licensing, development, operation, closure, post-closure observation and maintenance, and institutional control of facilities in accordance with the procedure established in this section. Such regulations shall, at a minimum, be compatible with the federal regulatory program established pursuant to the Atomic Energy Act, 42 USC section 2071 et seq., and shall include procedures for license application and for setting a license decision schedule pursuant to section thirty-one; environmental and human exposure performance objectives, financial assurances and licensing requirements for facility construction; facility opening; low-level radioactive waste acceptance and inspection, storage, treatment and disposal; site maintenance; site safety, environmental monitoring and radiation and contamination control; facility security, recordkeeping and reporting; and quality control and training support; provided, however, that any disposal method utilized at a facility shall permit retrieval and monitoring of the waste, and provided further that shallow land burial shall be prohibited. Regulations governing low-level radioactive waste which is also hazardous waste as defined in section two of chapter twenty-one C, shall require an equivalent level of environmental protection as that required by said chapter and such regulations adopted thereunder; provided, however, that no low-level radioactive waste facility licensed pursuant to this chapter shall be subject to the provisions of chapter twenty-one D. Such regulations shall further require the operator to prepare, maintain and update a facility closure plan throughout the period of facility development and operation.
+        </section>
+        <section prefix="b">
+    	     The department of public health shall not issue a license pursuant to any regulation adopted under this section, authorizing any person to dispose of low-level radioactive waste or to accept waste from any other person for treatment or storage, unless the person making application for such license has been designated as an operator in accordance with the procedures established pursuant to sections twenty-two and twenty-seven. The department of public health shall not issue a license pursuant to any regulation adopted under this section unless the applicant has obtained all other permits and licenses required by law in order to commence construction of a facility; provided, however, that no community may prohibit, or require any license, permit, approval or condition for the construction, operation, closure, post-closure observation and maintenance or institutional control of a facility.
+        </section>
+        <section prefix="c">
+    	     Together with any draft regulations to be adopted under this section, which are issued for public review and comment, the department of public health shall issue a statement of any major alternative regulatory approaches and performance objectives considered but not proposed, and the reasons for the approach chosen and a description of: (1) the significant public health, environmental, social and economic impact of current low-level radioactive waste management practices and regulatory programs; (2) such impacts as are likely to result from the adoption of said departments proposal and from major alternative regulatory approaches considered by said department; and (3) such impacts as are likely to result from improper packaging, transportation incidents, improper design or operation of a facility, natural disaster, or inadvertent or purposeful intrusion into the facility.
+        </section>
+    </text>
+</law>

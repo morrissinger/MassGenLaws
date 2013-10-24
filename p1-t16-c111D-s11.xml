@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111D" order_by="111D" level="3">Clinical Laboratories</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Revocation Of Or Administrative Sanctions Upon License</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="1">
+    	     failure to observe any term of such license;
+        </section>
+        <section prefix="2">
+    	     failure to meet any requirement for such license established under section five;
+        </section>
+        <section prefix="3">
+    	     failure to observe any order made under authority of this chapter or under other statutory authority vested in the department;
+        </section>
+        <section prefix="4">
+    	     engaging in, or aiding, abetting, causing, or permitting, any action prohibited under section eight; or
+        </section>
+        <section prefix="5">
+    	     other proper cause set forth in regulations made under this chapter.
+        </section>
+    </text>
+</law>

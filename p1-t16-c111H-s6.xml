@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>6</section_number>
+    <catch_line>Public Participation Coordinator; Duties</catch_line>
+    <order_by>6</order_by>
+    <text>
+        <section prefix="a">
+    	     to encourage and facilitate the participation of interested persons in all of the processes established in or pursuant to this chapter;
+        </section>
+        <section prefix="b">
+    	     to make recommendations to the board, the department of public health and the department of environmental protection concerning the implementation of programs to assure appropriate public participation in the processes established in or pursuant to this chapter;
+        </section>
+        <section prefix="c">
+    	     to publicize throughout the commonwealth the management plan adopted pursuant to section twelve, all plans for the selection of any superior site or for the selection of an operator, and any proposals for the development, operation and closure of facilities in order to inform the public and to encourage and facilitate the participation of interested persons in such selection procedures, in environmental review and licensing proceedings, and in the review of facility operations; and
+        </section>
+        <section prefix="d">
+    	     to publicize throughout the commonwealth and to conduct continuing public informational programs on the use of radioactive materials, the nature and characteristics of low-level radioactive waste, current and developing technologies, and the hazards associated with low-level radioactive waste and the improper management thereof; provided, however, that, in establishing and conducting such programs, the public participation coordinator shall obtain the advice and assistance of an advisory board to be composed of members representing the range of public opinion concerning low-level radioactive waste or its management and invite the participation of persons representing such range of public opinion.
+        </section>
+    </text>
+</law>

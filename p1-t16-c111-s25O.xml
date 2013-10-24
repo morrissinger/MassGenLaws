@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>25O</section_number>
+    <catch_line>Programs To Protect Safety Of Victims Of Violence; Guidelines;  Dissemination To And Training Of Health Care Providers</catch_line>
+    <order_by>25O</order_by>
+    <text>
+        <section prefix="a">
+    	     The department of public health, in consultation with other executive office of health and human services agencies and the executive office of public safety and security, shall develop guidelines regarding the establishment of programs to protect the safety of victims of violence including, but not limited to, intimate partners. The guidelines shall assure that programs shall be designed to coordinate services with existing state, community-based, and clinical resources to the maximum extent possible. The guidelines shall be developed in consultation with an advisory group to be appointed by the commissioner, composed of experts in the field of violence prevention, representatives from various health care provider associations and survivors of violence.
+        </section>
+        <section prefix="b">
+    	     The department shall establish a program to disseminate the guidelines and train health care providers and others as the department deems appropriate regarding the establishment of programs under the guidelines.
+        </section>
+    </text>
+</law>

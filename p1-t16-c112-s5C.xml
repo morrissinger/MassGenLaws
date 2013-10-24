@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>5C</section_number>
+    <catch_line>Reports By Insurers Of Malpractice Claims Or Actions; Liability</catch_line>
+    <order_by>5C</order_by>
+    <text>
+        <section prefix="a">
+    	     A final judgment in any amount,
+        </section>
+        <section prefix="b">
+    	     A settlement in any amount, or
+        </section>
+        <section prefix="c">
+    	     A final disposition not resulting in payment on behalf of the insured.
+        </section>
+        <section prefix="a">
+    	     the name, address, specialty coverage, and policy number of the physician against whom the claim is made; and
+        </section>
+        <section prefix="b">
+    	     name, address and age of the claimant or plaintiff; and
+        </section>
+        <section prefix="c">
+    	     nature and substance of the claim; and
+        </section>
+        <section prefix="d">
+    	     date when and place at which the claim arose; and
+        </section>
+        <section prefix="e">
+    	     the amounts paid, if any, and the date and manner of disposition, judgment, settlement, or otherwise; and
+        </section>
+        <section prefix="f">
+    	     the date and reason for final disposition, if no judgment or settlement; and
+        </section>
+        <section prefix="g">
+    	     such additional information as the board shall require. No insurer or its agents or employees shall be liable in any cause of action arising from reporting to the board as required in this section.
+        </section>
+    </text>
+</law>

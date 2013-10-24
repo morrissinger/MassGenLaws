@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Knowledge And Notice; Definition</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="1">
+    	     A person has “knowledge” of a fact within the meaning of this chapter, not only when he has actual knowledge thereof, but also when he has knowledge of such other facts as in the circumstances show bad faith.
+        </section>
+        <section prefix="2">
+    	     A person has “notice” of a fact within the meaning of this chapter when the person who claims the benefit of the notice.
+        </section>
+        <section prefix="a">
+    	     States the fact to such person, or
+        </section>
+        <section prefix="b">
+    	     Delivers through the mail, or by other means of communication, a written statement of the fact to such person or to a proper person at his place of business or residence.
+        </section>
+    </text>
+</law>

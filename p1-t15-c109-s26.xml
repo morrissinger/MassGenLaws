@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>26</section_number>
+    <catch_line>Right To Vote Of General Partners</catch_line>
+    <order_by>26</order_by>
+    <text>
+        The partnership agreement may grant to all or certain identified general partners the right to vote, on a per capita or any other basis, separately or with all or any class of the limited partners, on any matter.
+    </text>
+</law>

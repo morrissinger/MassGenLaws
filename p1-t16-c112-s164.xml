@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>164</section_number>
+    <catch_line>Advertisement Or Engagement In Practice Of Licensed Profession;  License Requirement; Exemptions</catch_line>
+    <order_by>164</order_by>
+    <text>
+        <section prefix="1">
+    	     licensed mental health counselor, advisor or consultant;
+        </section>
+        <section prefix="2">
+    	     licensed marital or marriage and family therapist, advisor or consultant;
+        </section>
+        <section prefix="3">
+    	     licensed rehabilitation counselor, specialist, advisor or consultant; or
+        </section>
+        <section prefix="4">
+    	     licensed educational psychologist, specialist, advisor or consultant.
+        </section>
+        <section prefix="1">
+    	     a licensed psychologist, a licensed social worker, a licensed occupational therapist, or a licensed physician or registered nurse.
+        </section>
+        <section prefix="2">
+    	     an employee or other agent of a recognized academic institution or alcohol or drug education or awareness program, employee assistance program, or of a federal, state, county or local government institution, program agency, or facility, or a school committee, school district, school board or board of regents while performing those duties constituting employment by such an institution, program, agency or facility; provided, however, that such individuals are performing those activities solely within the agency or under the jurisdiction of such agency; and, provided further, that a license granted under section one hundred and sixty-five need not be a requirement for qualification for civil service examinations nor shall it be a requirement for employment in any state, county or municipal agency.
+        </section>
+        <section prefix="3">
+    	     an employee of an organization which is nonprofit or licensed by the commonwealth, and which is determined by the board to provide adequate supervision while performing those duties constituting employment by such an agency; provided, however, that such individuals are performing those activities solely within the agency or under the jurisdiction of the organization.
+        </section>
+        <section prefix="4">
+    	     a student in the discipline of an allied mental health and human services profession or an intern or trainee in an allied mental health and human services profession receiving qualified supervision approved by the board, and whose training status is designated by such titles as “mental health intern”, “family therapy intern”, or a person who is issued a temporary permit by the board to engage in the activities for which licensure is required.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="114" order_by="114" level="3">Cemeteries And Burials</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Town Burial Places</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Each town shall provide one or more suitable places for the interment of persons dying within its limits.
+    </text>
+</law>

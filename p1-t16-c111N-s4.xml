@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111N" order_by="111N" level="3">Pharmaceutical And Medical Device Manufacturer Conduct</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Adoption Of Marketing Code Of Conduct By Pharmaceutical Or Medical Device Manufacturing Company; Training Program; Annual Audits;  Investigation And Correction Of Noncompliance; Compliance Officer</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="a">
+    	     A pharmaceutical or medical device manufacturing company that employs a person to sell or market a drug, medicine, or medical device in the commonwealth shall adopt and comply with the most recent marketing code of conduct as adopted by the department.
+        </section>
+        <section prefix="b">
+    	     A pharmaceutical or medical device manufacturing company that employs a person to sell or market prescription drugs or medical devices in the commonwealth shall adopt a training program to provide regular training to appropriate employees including, without limitation, all sales and marketing staff, on the marketing code of conduct.
+        </section>
+        <section prefix="c">
+    	     A pharmaceutical or medical device manufacturing company that employs a person to sell or market prescription drugs or medical devices in the commonwealth shall conduct annual audits to monitor compliance with the marketing code of conduct.
+        </section>
+        <section prefix="d">
+    	     A pharmaceutical or medical device manufacturing company that employs a person to sell or market a prescription drugs or medical devices in the commonwealth shall adopt policies and procedures for investigating instances of noncompliance with the marketing code of conduct and take corrective action in response to noncompliance and the reporting of instances of noncompliance to the appropriate state authorities.
+        </section>
+        <section prefix="e">
+    	     A pharmaceutical or medical device manufacturing company that employs a person to sell or market prescription drugs or medical devices in the commonwealth shall identify a compliance officer responsible for operating and monitoring the marketing code of conduct.
+        </section>
+    </text>
+</law>

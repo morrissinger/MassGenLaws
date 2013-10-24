@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111G" order_by="111G" level="3">Early Childhood Intervention Services</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        For the purposes of this chapter, the following words shall have the following meanings unless the context or subject matter clearly requires otherwise:— 
+“Advisory committee”, the committee established pursuant to section three. 
+“Commissioner”, the commissioner of the department of public health. 
+“Department”, the department of public health. 
+“Division”, the division of family health services which is an administrative division within the department of public health. 
+“Early intervention services”, services provided to children and the families of children, who are between birth and three years of age and who have identified handicapping conditions or who are at risk for developmental delays due to biological, established, or environmental factors. Such services are for the purpose of minimizing the potential for developmental delay and for preventing the institutionalization of such children and shall be developmental services, including but not limited to speech, occupational and physical therapy, social work, psychological, educational, and nursing services.
+    </text>
+</law>

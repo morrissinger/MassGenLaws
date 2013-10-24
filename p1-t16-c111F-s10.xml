@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Material Safety Data Sheets; Mixtures</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="a">
+    	     Hazard test information exists on the mixture itself, or adequate information exists to form a valid judgment of the hazardous properties of the mixture itself and the MSDS indicates that the information presented and the conclusions drawn are from some source other than direct test data on the mixture itself, and that an MSDS on each constituent hazardous substance identified on the MSDS is available upon request.
+        </section>
+        <section prefix="b">
+    	     Provision of information on the mixture will be as effective in protecting employee health as information on the ingredients.
+        </section>
+        <section prefix="c">
+    	     The toxic or hazardous substances in the mixture are identified on the MSDS unless it is either unfeasible to describe all the ingredients in the mixture or the identity of the ingredients is itself a valid trade secret; provided, that in either case the reason why the hazardous substances in the mixture are not identified shall be stated on the MSDS.
+        </section>
+    </text>
+</law>

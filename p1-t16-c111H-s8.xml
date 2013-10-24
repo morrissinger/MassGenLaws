@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111H" order_by="111H" level="3">Massachusetts Low Level Radioactive Waste Management Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Issuance Of Orders; Notice And Opportunity For Hearing; Civil Penalties; Injunctions And Actions To Compel</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     The department of public health may issue orders as are reasonably necessary for the enforcement of the provisions of this chapter. Such orders may include, but not be limited to orders modifying, suspending, or revoking licenses and orders requiring persons to cease any activity that is in violation of the provisions of this chapter or of any regulation adopted or facility license issued hereunder. Such orders shall be issued after notice and an opportunity for hearing except where public health, safety or the environment would be threatened by delay in the issuance of such order. In such circumstance, an opportunity for hearing shall be provided promptly after issuance of such order.
+        </section>
+        <section prefix="b">
+    	     If the department of public health finds, after notice and an opportunity for a hearing has been provided, that any person is not in compliance with any order issued pursuant to this section, or with any provision of this chapter or any regulation adopted hereunder, it may assess civil penalties in an amount not exceeding one hundred thousand dollars for each such violation. Such civil penalty may be assessed whether or not the violation was willful. In determining the amount of the civil penalty, the said department shall consider the willfulness of the violation; the actual and potential danger or injury to the public health or the environment; the actual and potential cost of such damage or injury; the actual and potential cost to the commonwealth of enforcing the provisions of this chapter; whether the person being assessed the civil penalty did everything reasonable to prevent the failure to comply from occurring, and to promptly come into compliance, and to remedy and mitigate whatever harm might have been done as a result of the failure to comply; whether the person being assessed the civil penalty has previously failed to comply with any order issued pursuant to this section, or with any provision of this chapter or any regulation adopted hereunder; making compliance less costly than noncompliance; deterring future noncompliance; the financial condition of the person being assessed the civil penalty; and the public interest.
+        </section>
+        <section prefix="c">
+    	     In addition to assessing civil penalties under this section, the department of public health may request the attorney general to bring an action in the superior court to restrain, prevent or enjoin any conduct prohibited by this chapter and to compel action to comply immediately and fully with any order issued by the department. The expense of the proceedings shall be recoverable from the violator in such manner as provided by law.
+        </section>
+        <section prefix="d">
+    	     It shall be unlawful for any person to willfully:
+        </section>
+        <section prefix="1">
+    	     violate or assist in the violation of any of the provisions of this chapter or of any regulations adopted hereunder;
+        </section>
+        <section prefix="2">
+    	     fail to comply with any order issued by the department of public health pursuant to this section;
+        </section>
+        <section prefix="3">
+    	     attempt to obtain a license by misrepresentation or failure to disclose all relevant facts.
+        </section>
+        <section prefix="e">
+    	     Any person convicted of unlawful conduct as defined in this section shall, for each offense, pay a fine of not less than one thousand nor more than twenty thousand dollars; or be imprisoned for a period of not more than twenty years; or both. Each day of continued violation of any provision of this chapter or of any regulation adopted or order issued hereunder shall constitute a separate offense.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>33</section_number>
+    <catch_line>Construction And Maintenance Of Sanitary Stations</catch_line>
+    <order_by>33</order_by>
+    <text>
+        In every city, and in every town having a population of over ten thousand, when, in the opinion of the board of health, public necessity requires it, there shall be established and maintained by the town in some convenient places, at or near the business centre, one or more sanitary stations, with separate water closets for the use of each sex. Their number and location shall be determined by the board of health.
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>409</section_number>
+    <catch_line>Criminal Penalties</catch_line>
+    <order_by>409</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person who willfully violates any provision of this chapter except section 404, or who willfully violates any rule or order under this chapter, or who willfully violates section 404 knowing the statement made to be false or misleading in any material respect, shall upon conviction be fined not more than $100,000 or imprisoned not more than 10 years in the state prison, or both; but no person may be imprisoned for the violation of any rule or order if he proves that he had no knowledge of the rule or order.
+        </section>
+        <section prefix="b">
+    	     The secretary may refer such evidence as is available concerning violations of this chapter or of any rule or order hereunder to the attorney general, who may, with or without such a reference, institute the appropriate criminal proceedings under this chapter.
+        </section>
+        <section prefix="c">
+    	     Nothing in this chapter limits the power of the commonwealth to punish any person for any conduct which constitutes a crime by statute or at common law.
+        </section>
+    </text>
+</law>

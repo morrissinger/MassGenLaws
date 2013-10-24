@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>12C</section_number>
+    <catch_line>Immunity Of Physician Or Nurse</catch_line>
+    <order_by>12C</order_by>
+    <text>
+        No physician or nurse administering immunization or other protective programs under public health programs shall be liable in a civil suit for damages as a result of any act or omission on his part in carrying out his duties.
+    </text>
+</law>

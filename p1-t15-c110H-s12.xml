@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>12</section_number>
+    <catch_line>Use Or Counterfeit Of Marks Without Consent Of Registrant</catch_line>
+    <order_by>12</order_by>
+    <text>
+        <section prefix="i">
+    	     use, without the consent of the registrant, any reproduction, counterfeit, copy, or colorable imitation of a mark registered under this chapter in connection with the sale, distribution, offering for sale, or advertising of any goods or services on or in connection with which the use is likely to cause confusion or mistake or to deceive as to the source of origin of such goods or services; or
+        </section>
+        <section prefix="ii">
+    	     reproduce, counterfeit, copy or colorably imitate the mark and apply the reproduction, counterfeit, copy or colorable imitation to labels, signs, prints, packages, wrappers, receptacles, or advertisements intended to be used upon or in connection with the sale or other distribution in the commonwealth of such goods or services; shall be liable in a civil action by the registrant for the remedies provided in section 14, except that under clause (ii) of this section the registrant shall not be entitled to recover profits or damages unless the acts have been committed with the intent to cause confusion or mistake or to deceive.
+        </section>
+    </text>
+</law>

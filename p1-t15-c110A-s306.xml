@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>306</section_number>
+    <catch_line>Federal Covered Securities</catch_line>
+    <order_by>306</order_by>
+    <text>
+        <section prefix="a">
+    	     Covered securities under section 18(b)(2) of the Securities Act of 1933.
+        </section>
+        <section prefix="1">
+    	     Any security that is a federal covered security under section 18(b)(2) of the Securities Act of 1933 may be offered for sale and sold into, from, or within the commonwealth upon the secretary’s receipt of: a copy of the registration statement filed with the Securities and Exchange Commission or, in lieu of filing such registration statement, a notice as prescribed by the secretary by rule or order; a consent to service of process; and a fee of $750 for a unit investment trust or $2,000 for all other investment companies.
+        </section>
+        <section prefix="2">
+    	     Except as otherwise provided herein for unit investment trusts, unless otherwise extended by the secretary by rule or order, an initial notice filing under this section shall be effective commencing upon the later of the date the notice or registration statement, as applicable, is received by the secretary or the date the offering is effective with the Securities and Exchange Commission, until 2 months following the end of the issuer’s fiscal year. A notice filing may be renewed by filing, prior to the expiration of an effective notice filing, a renewal notice as prescribed by the secretary together with a renewal fee of $1,000. A renewal notice filing shall be effective until 2 months following the end of the issuer’s next fiscal year. A notice filing by a unit investment trust shall be effective for a period determined by the secretary by rule or order.
+        </section>
+        <section prefix="3">
+    	     A notice filing may be amended as provided by the secretary by rule or order.
+        </section>
+        <section prefix="4">
+    	     A notice filing may be terminated by an issuer upon providing the secretary a notice as the secretary may require by rule or order.
+        </section>
+        <section prefix="b">
+    	     Covered Securities under section 18(b)(4)(D) of the Securities Act of 1933.
+        </section>
+        <section prefix="1">
+    	     a notice on Securities and Exchange Commission Form D;
+        </section>
+        <section prefix="2">
+    	     a consent to service of process signed by the issuer; and
+        </section>
+        <section prefix="3">
+    	     any fees required by the secretary.
+        </section>
+        <section prefix="c">
+    	     Covered Securities under sections 18(b)(3) and 18(b)(4)(A)-(C) of the Securities Act of 1933.
+        </section>
+        <section prefix="d">
+    	     Suspension Order.
+        </section>
+        <section prefix="1">
+    	     the order is in the public interest and
+        </section>
+        <section prefix="2">
+    	     there is a failure to comply with any condition established under this section or any rule or order adopted hereunder.
+        </section>
+        <section prefix="e">
+    	     Preservation of Fraud Authority.
+        </section>
+        <section prefix="f">
+    	     Waiver.
+        </section>
+    </text>
+</law>

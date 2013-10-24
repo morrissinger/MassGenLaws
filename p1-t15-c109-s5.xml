@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Records</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     Each limited partnership shall keep at the office referred to in clause (1) of section four the following:
+        </section>
+        <section prefix="1">
+    	     a current list of the full name and last known business address of each partner, separately identifying in alphabetical order the general partners and the limited partners;
+        </section>
+        <section prefix="2">
+    	     a copy of the certificate of limited partnership and all certificates of amendment thereto, together with executed copies of any powers of attorney pursuant to which any certificate has been executed;
+        </section>
+        <section prefix="3">
+    	     copies of the limited partnership’s federal, state, and local income tax returns and reports, if any, for the three most recent years;
+        </section>
+        <section prefix="4">
+    	     copies of any then effective written partnership agreements and of any financial statements of the limited partnership for the three most recent years; and
+        </section>
+        <section prefix="5">
+    	     unless contained in a written partnership agreement, a writing setting out:
+        </section>
+        <section prefix="i">
+    	     the amount of cash and a description and statement of the agreed value of the other property or services contributed by each partner and which each partner has agreed to contribute;
+        </section>
+        <section prefix="ii">
+    	     the times at which or events on the happening of which any additional contributions agreed to be made by each partner are to be made;
+        </section>
+        <section prefix="iii">
+    	     any right of a partner to receive, or of a general partner to make distributions to a partner which include a return of all or any part of the partner’s contribution; and
+        </section>
+        <section prefix="iv">
+    	     any events upon the happening of which the limited partnership is to be dissolved and its affairs closed.
+        </section>
+        <section prefix="b">
+    	     Records kept under this section shall be subject to inspection and copying at the reasonable request and at the expense of any partner during ordinary business hours.
+        </section>
+        <section prefix="c">
+    	     The current list of names and addresses of the limited partners shall be made available to the secretary of state within five business days of receipt of a written request by said secretary or by the director of the securities division of the secretary of state’s office stating that such information is required in connection with an investigatory or enforcement proceeding.
+        </section>
+    </text>
+</law>

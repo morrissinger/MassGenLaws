@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>24C</section_number>
+    <catch_line>Pharmacy Technicians; Registration</catch_line>
+    <order_by>24C</order_by>
+    <text>
+        <section prefix="a">
+    	     A person who desires to become registered as a pharmacy technician shall, upon payment of a fee as determined annually by the commissioner of administration under the provision of section 3B of chapter 7, apply to the board of registration in pharmacy, herein and in sections 24 to 42A, inclusive, called the board, and be entitled to consideration by the board if such person meets the education, experience and examination requirements as established and adopted by the board.
+        </section>
+        <section prefix="b">
+    	     The board may adopt rules and regulations governing the practice of pharmacy technicians to promote the public health, safety and welfare including, but not limited to, adopting regulations establishing continuing education requirements for license renewal.
+        </section>
+        <section prefix="c">
+    	     The board may, without examination, register as a pharmacy technician any applicant who is duly licensed or registered under the laws of any state or territory of the United States, the District of Columbia or the commonwealth of Puerto Rico, where the requirements for licensure or registration are in the opinion of the board equivalent to those in the commonwealth.
+        </section>
+        <section prefix="d">
+    	     Each pharmacy technician shall register biennially and in the year designated by the board.
+        </section>
+    </text>
+</law>

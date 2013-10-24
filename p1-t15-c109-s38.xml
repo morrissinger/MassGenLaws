@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>38</section_number>
+    <catch_line>Liability Upon Return Of Contribution</catch_line>
+    <order_by>38</order_by>
+    <text>
+        <section prefix="a">
+    	     If a partner has received the return of any part of his contribution without violation of the partnership agreement or this chapter, he is liable to the limited partnership for a period of one year thereafter for the amount of the returned contribution, but only to the extent necessary to discharge the limited partnership’s liabilities to creditors who extended credit to the limited partnership during the period the contribution was held by the partnership.
+        </section>
+        <section prefix="b">
+    	     If a partner has received the return of any part of his contribution in violation of the partnership agreement or this chapter, he is liable to the limited partnership for a period of six years thereafter for the amount of the contribution wrongfully returned.
+        </section>
+        <section prefix="c">
+    	     A partner receives a return of his contribution to the extent that a distribution to him reduces his shares of the fair value of the net assets of the limited partnership below the value, as set forth in the partnership records required to be kept pursuant to section five, of his contribution which has not been distributed to him.
+        </section>
+    </text>
+</law>

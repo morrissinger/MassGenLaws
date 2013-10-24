@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>165</section_number>
+    <catch_line>Marriage And Family Therapists, Rehabilitation Counselors, Mental Health Counselors, Educational Psychologists; Licenses; Qualifications</catch_line>
+    <order_by>165</order_by>
+    <text>
+        <section prefix="1">
+    	     has successfully completed a relevant masters degree in psychology from an educational institution licensed by the state in which it is located;
+        </section>
+        <section prefix="2">
+    	     has successfully completed the equivalent of two full time academic years of post masters degree experience in school psychological services supervised by a licensed educational psychologist or a person eligible for licensing under this section; provided however, that such supervisor has been regularly involved for at least thirty contact hours per year;
+        </section>
+        <section prefix="3">
+    	     has been certified as a school psychologist by the department of education or holds a comparable certification from another state; and
+        </section>
+        <section prefix="4">
+    	     has successfully passed an oral or written examination administered by the board to determine the applicant’s qualifications as an educational psychologist.
+        </section>
+    </text>
+</law>

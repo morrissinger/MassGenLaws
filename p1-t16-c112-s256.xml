@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>256</section_number>
+    <catch_line>Examinations For Certification As Genetic Counselors And As Ph.D. Medical Geneticists</catch_line>
+    <order_by>256</order_by>
+    <text>
+        <section prefix="a">
+    	     The board shall examine applicants for certification as genetic counselors at such times and places as it may determine. The examination shall meet the standards established by the ABGC. The examination shall test an applicant’s knowledge of basic and clinical sciences as they relate to genetic counseling theory and practice and other subjects as the board may deem useful to determine the applicant’s fitness to act as a genetic counselor. The board may utilize a national examination that meets the requirements of this section.
+        </section>
+        <section prefix="b">
+    	     The board shall examine applicants for certification as Ph.D. medical geneticists at such times and places as it may determine. The examination shall meet the standards established by the ABMG. The examination shall test an applicant’s knowledge of basic and clinical sciences as they relate to genetic counseling theory and practice and other subjects as the board may deem useful to determine the applicant’s fitness to act as a genetic counselor. The board may utilize a national examination that meets the requirements of this section.
+        </section>
+    </text>
+</law>

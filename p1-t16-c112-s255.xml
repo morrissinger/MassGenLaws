@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>255</section_number>
+    <catch_line>Practice As Provisional Licensed Genetic Counselor; Expiration;  Extension; Supervision By Professional Licensed Genetic Counselor</catch_line>
+    <order_by>255</order_by>
+    <text>
+        <section prefix="a">
+    	     issuance of a full license;
+        </section>
+        <section prefix="b">
+    	     30 days after the applicant fails to pass the complete examination; or
+        </section>
+        <section prefix="c">
+    	     the date printed on the temporary license.
+        </section>
+    </text>
+</law>

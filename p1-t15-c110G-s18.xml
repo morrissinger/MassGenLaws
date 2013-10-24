@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>18</section_number>
+    <catch_line>Promotion Of Consistency And Interoperability Among Governmental Agencies And Nongovernmental Persons; Standards</catch_line>
+    <order_by>18</order_by>
+    <text>
+        The chief information officer and the supervisor of records shall encourage and promote consistency and interoperability with other governmental agencies and nongovernmental persons. If appropriate, they may specify differing levels of standards from which governmental agencies of the commonwealth may choose in implementing the most appropriate standard for a particular application.
+    </text>
+</law>

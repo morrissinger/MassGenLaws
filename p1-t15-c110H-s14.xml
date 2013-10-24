@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>14</section_number>
+    <catch_line>Actions For Counterfeit Or Imitation Marks; Injunctions; Damages</catch_line>
+    <order_by>14</order_by>
+    <text>
+        <section prefix="a">
+    	     An owner of a mark registered under this chapter may proceed by suit to enjoin the manufacture, use, display or sale of any counterfeits or imitations thereof and the superior court may grant injunctions to restrain the manufacture, use, display or sale as may be considered by the court as just and reasonable, and may require the defendants to pay to the owner all profits derived from and all damages suffered by reason of the wrongful manufacture, use, display or sale; and the court may also order that the counterfeits or imitations in the possession or under the control of any defendant in the case be delivered to an officer of the court, or to the complainant, to be destroyed. The court, in its discretion, may enter judgment for an amount not to exceed 3 times the profits and damages and reasonable attorneys’ fees of the prevailing party in the cases where the court finds the other party committed wrongful acts with knowledge or in bad faith or otherwise as according to the circumstances of the case.
+        </section>
+        <section prefix="b">
+    	     The enumeration of any right or remedy herein shall not affect a registrant’s right to prosecute under any penal law of the commonwealth.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>7</section_number>
+    <catch_line>Licensing And Approval Of Facilities</catch_line>
+    <order_by>7</order_by>
+    <text>
+        <section prefix="1">
+    	     the health standards to be met by a facility,
+        </section>
+        <section prefix="2">
+    	     misrepresentations as to the treatment to be afforded patients at a facility,
+        </section>
+        <section prefix="3">
+    	     licensing fees, and
+        </section>
+        <section prefix="4">
+    	     procedures for making and approving license applications.
+        </section>
+        <section prefix="5">
+    	     the services and treatment provided by programs.
+        </section>
+        <section prefix="6">
+    	     certification of capability of self-preservation.
+        </section>
+    </text>
+</law>

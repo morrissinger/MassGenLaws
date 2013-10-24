@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>142O</section_number>
+    <catch_line>Motor Vehicle Fuel Dispensing Facilities; Stage Ii Vapor Recovery Systems; Operation And Standards</catch_line>
+    <order_by>142O</order_by>
+    <text>
+        <section prefix="a">
+    	     As used in this section, the following words shall have the following meanings, unless the context clearly requires otherwise:
+        </section>
+        <section prefix="b">
+    	     The department shall notify a motor vehicle fuel dispensing facility owner and operator, in writing, within 30 days of an inspection, when the department determines that a violation of its stage II system rules has occurred.
+        </section>
+        <section prefix="c">
+    	     The department shall not promulgate or enforce a requirement that a motor vehicle fuel dispensing facility with a defective component in the stage II system shall cease dispensing fuel at the facility after the discovery of the defective component if: (i) the facility operator marks the defective component “out of order”; (ii) the facility operator takes the component out of service until repaired or replaced; and (iii) the remainder of the stage II system is operating in accordance with the General Laws and the regulations of the department of environmental protection. This subsection shall not prohibit the department from promulgating or enforcing a requirement that a motor vehicle fuel dispensing facility shall cease dispensing fuel after failing the annual compliance test of the stage II system until such time as the system passes the compliance test.
+        </section>
+        <section prefix="d">
+    	     The department shall not promulgate or enforce a requirement that less than 2 responsible individuals or officials shall certify, subject to criminal sanctions or civil penalties, all Stage II system compliance requirements at a dispensing facility where the facility is owned by 1 party, leased or managed by another independent party and both parties have separate Stage II compliance responsibilities.
+        </section>
+        <section prefix="e">
+    	     The department shall establish and implement ongoing programs to communicate the department’s Stage II system standards and operating requirements to motor vehicle fuel dispensing facility owners and operators.
+        </section>
+    </text>
+</law>

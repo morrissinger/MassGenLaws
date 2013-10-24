@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>4N</section_number>
+    <catch_line>Prescription Drugs Outreach And Education Program For Physicians, Pharmacists And Other Health Care Professionals</catch_line>
+    <order_by>4N</order_by>
+    <text>
+        <section prefix="a">
+    	     The department shall, in cooperation with Commonwealth Medicine at the University of Massachusetts medical school, develop, implement and promote an evidence-based outreach and education program about the therapeutic and cost-effective utilization of prescription drugs for physicians, pharmacists and other health care professionals authorized to prescribe and dispense prescription drugs. In developing the program, the department shall consult with physicians, pharmacists, private insurers, hospitals, pharmacy benefit managers, the MassHealth drug utilization review board and the University of Massachusetts medical school.
+        </section>
+        <section prefix="b">
+    	     The program shall arrange for physicians, pharmacists and nurses under contract with the department to conduct face-to-face visits with prescribers, utilizing evidence-based materials and borrowing methods from behavioral science, educational theory and, where appropriate, pharmaceutical industry data and outreach techniques; provided, however, that to the extent possible, the program shall inform prescribers about drug marketing that is intended to circumvent competition from generic or other therapeutically-equivalent pharmaceutical alternatives or other evidence-based treatment options.
+        </section>
+        <section prefix="c">
+    	     The department may establish and collect fees for subscriptions and contracts with private payers. The department may seek funding from nongovernmental health access foundations and undesignated drug litigation settlement funds associated with pharmaceutical marketing and pricing practices.
+        </section>
+    </text>
+</law>

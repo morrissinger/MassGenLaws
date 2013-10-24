@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>403</section_number>
+    <catch_line>Filing Of Sales And Advertising Literature</catch_line>
+    <order_by>403</order_by>
+    <text>
+        The secretary by rule or order may require the filing of any prospectus, pamphlet, circular, form letter, advertisement, or other sales literature or advertising communication addressed or intended for distribution to prospective investors, unless the security or transaction is exempted by section 402 or is a federal covered security. A rule or order relating to any security including a revenue obligation issued or guaranteed by the commonwealth or any political subdivision thereof or any agency or corporate or other instrumentality of one or more of the foregoing or any certificate of deposit for any of the foregoing may require the issuer thereof to file sales literature, but no such rule or order shall require sales literature to be prepared or require affirmative approval or filing of sales literature before it is used or require issuers located outside the commonwealth to file any literature; nor shall violation of any such rule or order be subject to the penalties provided by paragraph (a) of section 409.
+    </text>
+</law>

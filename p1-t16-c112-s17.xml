@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Examinations</catch_line>
+    <order_by>17</order_by>
+    <text>
+        Examinations shall be in English and shall be wholly or partly written, oral or clinical, as the board may determine, and shall include, and be limited to, subjects taught in recognized schools of podiatry.
+    </text>
+</law>

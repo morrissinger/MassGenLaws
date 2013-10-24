@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23H</section_number>
+    <catch_line>Occupational Therapy Assistant; Qualifications</catch_line>
+    <order_by>23H</order_by>
+    <text>
+        <section prefix="a">
+    	     successfully completed an accredited occupational therapy assistant educational program approved by the board,
+        </section>
+        <section prefix="b">
+    	     successfully completed a minimum of two months of supervised field work,
+        </section>
+        <section prefix="c">
+    	     successfully passed an examination conducted by the board for licensure as an occupational therapy assistant. Such examination shall be written and shall test the applicant’s knowledge of the basic and clinical sciences related to the occupational therapy theory and practice, and such other subjects as the board may deem useful to determine the applicant’s fitness to act as an occupational therapy assistant. The examination shall be conducted by the board at least twice each year and at times and places to be determined by the board; provided, however, that the board may utilize any existing national examination that meets requirements of this section.
+        </section>
+    </text>
+</law>

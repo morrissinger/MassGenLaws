@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111B" order_by="111B" level="3">Alcoholism</unit>
+    </structure>
+    <section_number>6B</section_number>
+    <catch_line>Licensing And Approval Of Treatment Program Units</catch_line>
+    <order_by>6B</order_by>
+    <text>
+        <section prefix="1">
+    	     The need for the treatment program;
+        </section>
+        <section prefix="2">
+    	     The range of therapeutic programs designed to meet the need of the patients of the treatment program;
+        </section>
+        <section prefix="3">
+    	     Licensing fees, applications and revocation procedures.
+        </section>
+    </text>
+</law>

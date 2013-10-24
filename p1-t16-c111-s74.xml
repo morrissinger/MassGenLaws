@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>74</section_number>
+    <catch_line>Appropriation Of Money For Maintenance Of Free Bed In Hospital</catch_line>
+    <order_by>74</order_by>
+    <text>
+        Any town not maintaining or managing a hospital may annually appropriate a sum not exceeding one thousand dollars, to be paid to a hospital established in such town or in the vicinity thereof, for the establishment and maintenance of a free bed in the hospital for the care and treatment of persons certified by the selectmen to be residents of the town and unable to pay for such care and treatment. This section shall not apply to cities.
+    </text>
+</law>

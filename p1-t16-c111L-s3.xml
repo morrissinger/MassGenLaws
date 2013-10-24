@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111L" order_by="111L" level="3">Biotechnology</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Research Using Human Embryonic Stem Cells Permitted; Written Approval</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Research and clinical applications involving the derivation and use of human embryonic stem cells, including somatic cell nuclear transfer, human adult stem cells from any source, umbilical cord cells, parthenotes and placental cells shall be permitted.
+        </section>
+        <section prefix="b">
+    	     Research involving the derivation of human embryonic stem cells through the use of human genetic material, including somatic cell nuclear transfer, parthenogenesis and other asexual means as permitted by subsection (a) shall only be conducted upon the written approval of a duly authorized institutional review board. The written approval of the institutional review board shall include a detailed description of the research, experimentation or study to be conducted and a detailed description of the research or a copy of the protocol, all of which shall be maintained as a permanent record by the board or by the hospital or institution for which the board acts.
+        </section>
+    </text>
+</law>

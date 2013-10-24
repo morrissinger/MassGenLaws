@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>36</section_number>
+    <catch_line>Discharge Of Partner’S Liability; Assumption Of Partnership Obligations; Deceased Partner</catch_line>
+    <order_by>36</order_by>
+    <text>
+        <section prefix="1">
+    	     The dissolution of the partnership does not of itself discharge the existing liability of any partner.
+        </section>
+        <section prefix="2">
+    	     A partner is discharged from any existing liability upon dissolution of the partnership by an agreement to that effect between himself, the partnership creditor and the person or partnership continuing the business; and such agreement may be inferred from the course of dealing between the creditor having knowledge of the dissolution and the person or partnership continuing the business.
+        </section>
+        <section prefix="3">
+    	     Where a person agrees to assume the existing obligations of a dissolved partnership, the partners whose obligations have been assumed shall be discharged from any liability to any creditor of the partnership who, knowing of the agreement, consents to a material alteration in the nature or time of payment of such obligations.
+        </section>
+        <section prefix="4">
+    	     The individual property of a deceased partner shall be liable for those obligations of the partnership incurred while he was a partner and for which he was liable under section fifteen but subject to the prior payment of his separate debts.
+        </section>
+    </text>
+</law>

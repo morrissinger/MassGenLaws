@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>93</section_number>
+    <catch_line>Regulation Of Persons Approaching Isolation Hospital</catch_line>
+    <order_by>93</order_by>
+    <text>
+        Physicians, nurses, attendants, patients and all persons approaching or coming within the limits of such hospitals, and all furniture and other articles used or brought there, shall be subject to the regulations of the board of health.
+    </text>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>3</section_number>
+    <catch_line>Application For Registration</catch_line>
+    <order_by>3</order_by>
+    <text>
+        <section prefix="a">
+    	     Subject to the limitations set forth in this chapter, a person who uses a mark may file in the office of the secretary, in a manner complying with the requirements of the secretary, an application for registration of that mark setting forth, but not limited to, the following information:—
+        </section>
+        <section prefix="1">
+    	     the name and business address of the person applying for the registration; and, if a corporation, the state of incorporation, or if a partnership, the state in which the partnership is organized and the names of the general partners, as specified by the secretary,
+        </section>
+        <section prefix="2">
+    	     the goods or services in connection with which the mark is used and the mode or manner in which the mark is used on or in connection with the goods or services and the class in which the goods or services fall,
+        </section>
+        <section prefix="3">
+    	     the date when the mark was first used anywhere and the date when it was first used in the commonwealth by the applicant or a predecessor in interest, and
+        </section>
+        <section prefix="4">
+    	     a statement that the applicant is the owner of the mark, that the mark is in use, and that, to the knowledge of the person verifying the application, no other person has registered, either federally or in the commonwealth, or has the right to use the mark either in the identical form thereof or in near resemblance thereto as to be likely, when applied to the goods or services of the other person, to cause confusion, or to cause mistake, or to deceive.
+        </section>
+        <section prefix="b">
+    	     The secretary may also require a statement as to whether an application to register the mark, or portions or a composite thereof, has been filed by the applicant or a predecessor in interest in the United States Patent and Trademark Office; and, if so, the applicant shall provide full particulars with respect thereto including the filing date and serial number of each application, the status thereof and, if any application was finally refused registration or has otherwise not resulted in a registration, the reasons therefore.
+        </section>
+        <section prefix="c">
+    	     The secretary may also require that a drawing of the mark accompany the application complying with requirements as the secretary may specify.
+        </section>
+        <section prefix="d">
+    	     The application shall be signed and verified, by oath, affirmation or declaration subject to perjury laws, by the applicant or by a member of the firm or an officer of the corporation or association applying.
+        </section>
+        <section prefix="e">
+    	     The application shall be accompanied by 3 specimens showing the mark as actually used.
+        </section>
+        <section prefix="f">
+    	     The application shall be accompanied by the application fee payable to the secretary.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>62P</section_number>
+    <catch_line>Construction And Maintenance Of Hospital For State Minor Wards</catch_line>
+    <order_by>62P</order_by>
+    <text>
+        The trustees of the Massachusetts hospital school, subject to supervision by the department, may construct from time to time, as appropriations are made by the general court, and thereafter may maintain, suitable buildings for the hospital care and treatment of such state minor wards as may be assigned to their care by the said department.
+    </text>
+</law>

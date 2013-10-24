@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>213</section_number>
+    <catch_line>License Application; Renewal; Examination</catch_line>
+    <order_by>213</order_by>
+    <text>
+        <section prefix="1">
+    	     successful completion of a perfusion education program approved by the board provided that the program has educational standards that are no less stringent than those established by the Accreditation Committee for Perfusion Education and approved by the Commission on Accreditation of Allied Health Education Programs, or its successor, and provided also that the board shall require continuing education as a condition for license renewals;
+        </section>
+        <section prefix="2">
+    	     passing a written competency examination approved by the board. The examination shall test the applicant’s knowledge of basic and clinical sciences as they relate to perfusion theory and practice and other subjects as the board may deem useful to determine the applicant’s fitness to act as a perfusionist. The board may utilize a national examination that meets the requirements of this section; and
+        </section>
+        <section prefix="3">
+    	     completion of such experience as may be required by the board.
+        </section>
+    </text>
+</law>

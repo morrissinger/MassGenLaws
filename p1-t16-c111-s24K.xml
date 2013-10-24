@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>24K</section_number>
+    <catch_line>Pediatric Palliative Care Program; Eligibility; Services</catch_line>
+    <order_by>24K</order_by>
+    <text>
+        <section prefix="a">
+    	     a diagnosis of a life-limiting illness, including but not limited to, cancer, AIDS, congenital anomalies and other advanced illnesses; provided however, no requirement regarding life expectancy shall be imposed; and
+        </section>
+        <section prefix="b">
+    	     a requirement that the eligible child not be covered by a third-party payer for the services provided by said program.
+        </section>
+    </text>
+</law>

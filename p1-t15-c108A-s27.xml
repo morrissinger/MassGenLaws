@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>27</section_number>
+    <catch_line>Conveyance Of Interest In Partnership; Rights Of Assignee</catch_line>
+    <order_by>27</order_by>
+    <text>
+        <section prefix="1">
+    	     A conveyance by a partner of his interest in the partnership does not of itself dissolve the partnership, nor, as against the other partners in the absence of agreement, entitle the assignee, during the continuance of the partnership, to interfere in the management or administration of the partnership business or affairs, or to require any information or account of partnership transactions, or to inspect the partnership books; but it merely entitles the assignee to receive in accordance with his contract the profits to which the assigning partner would otherwise be entitled.
+        </section>
+        <section prefix="2">
+    	     In case of a dissolution of the partnership, the assignee is entitled to receive his assignor’s interest and may require an account from the date only of the last account agreed to by all the partners.
+        </section>
+    </text>
+</law>

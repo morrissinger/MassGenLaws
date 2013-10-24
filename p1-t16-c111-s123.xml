@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>123</section_number>
+    <catch_line>Abatement By Owner; Penalty</catch_line>
+    <order_by>123</order_by>
+    <text>
+        Said board shall order the owner or occupant of any private premises, at his own expense, to remove any nuisance, source of filth or cause of sickness found thereon within twenty-four hours, or within such other time as it considers reasonable, after notice; and an owner or occupant shall forfeit not more than one thousand dollars for every day during which he knowingly violates such order.
+    </text>
+</law>

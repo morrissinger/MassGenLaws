@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>28</section_number>
+    <catch_line>Annual Reports</catch_line>
+    <order_by>28</order_by>
+    <text>
+        In each city such board shall annually in January make a full and comprehensive report to the city council of its acts during the preceding year and of the sanitary condition of the city. It shall also, if the city council or the standing committee on finance thereof so requires, send to the city auditor a detailed estimate of the appropriation required by its department for the next financial year.
+    </text>
+</law>

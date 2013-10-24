@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>8</section_number>
+    <catch_line>Creditor’S Remedies</catch_line>
+    <order_by>8</order_by>
+    <text>
+        <section prefix="a">
+    	     In an action for relief against a transfer or obligation under this chapter, a creditor, subject to the limitations in section nine, may obtain:
+        </section>
+        <section prefix="1">
+    	     avoidance of the transfer or obligation to the extent necessary to satisfy the creditor’s claim;
+        </section>
+        <section prefix="2">
+    	     an attachment or other provisional remedy against the asset transferred or other property of the transferee in accordance with the applicable procedure set forth in chapter two hundred and fourteen for actions to reach and apply chapter two hundred and twenty-three for attachments, and chapter two hundred and forty-six for trustee process and in accordance with applicable rules of civil procedure;
+        </section>
+        <section prefix="3">
+    	     subject to applicable principles of equity and in accordance with applicable rules of civil procedure,
+        </section>
+        <section prefix="i">
+    	     an injunction against further disposition by the debtor or a transferee, or both, of the asset transferred or of other property;
+        </section>
+        <section prefix="ii">
+    	     appointment of a receiver to take charge of the asset transferred or of other property of the transferee; or
+        </section>
+        <section prefix="iii">
+    	     any other relief the circumstances may require.
+        </section>
+        <section prefix="b">
+    	     If a creditor has obtained a judgment on a claim against the debtor, the creditor, if the court so orders, may levy execution on the asset transferred or its proceeds.
+        </section>
+    </text>
+</law>

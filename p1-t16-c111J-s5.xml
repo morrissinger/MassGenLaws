@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111J" order_by="111J" level="3">Alcohol And Drug Counselors</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Persons Exempt From Licensing Requirements; Provision Of Counseling Services By Nonlicensed Individuals; Limitations</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     an educational psychologist, marriage and family therapist, mental health counselor, nurse practitioner, occupational therapist, physician, physician assistant, practical nurse, psychologist, registered nurse, rehabilitation counselor and social worker;
+        </section>
+        <section prefix="b">
+    	     an employee or other agent of a recognized academic institution or employee assistance program or a federal, state, county or local government institution, program, agency or facility or school committee, school district, school board or board of regents while performing alcohol and drug counseling duties solely for the respective agency or under the jurisdiction of such agency; provided, however, that a license pursuant to this chapter need not be a requirement for employment in any state, county or municipal agency;
+        </section>
+        <section prefix="c">
+    	     an employee of an alcohol or drug treatment program or facility which is licensed or approved by the department pursuant to chapters 111B and 111E; provided, however, that such individual perform alcohol and drug counseling solely within or under the jurisdiction of such program or facility.
+        </section>
+    </text>
+</law>

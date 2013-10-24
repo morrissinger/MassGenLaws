@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>113</section_number>
+    <catch_line>License Without Examination To Licensees Of Other Jurisdictions</catch_line>
+    <order_by>113</order_by>
+    <text>
+        The board may issue a nursing home administrator’s license without examination, to any person who holds a valid license as a nursing home administrator from another jurisdiction; provided, that the board finds that the standards for licensure in such other jurisdiction are at least the substantial equivalent of those prevailing in this commonwealth, and that the applicant is otherwise qualified.
+    </text>
+</law>

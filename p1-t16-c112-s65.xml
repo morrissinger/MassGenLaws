@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>65</section_number>
+    <catch_line>Practice During Suspension, Revocation Or Cancellation; Civil Administrative Penalties; Notice; Expiration And Renewal Of License; Court Orders</catch_line>
+    <order_by>65</order_by>
+    <text>
+        <section prefix="a">
+    	     Whoever continues to practice a trade or profession after his certificate, registration, license or authority to do so has been suspended, revoked or cancelled under section 61, and while such disability continues, shall be punished by a fine of not more than $2,500 or by imprisonment for not more than 6 months, or both.
+        </section>
+        <section prefix="b">
+    	     Notwithstanding any general or special law to the contrary, each board of registration under the supervision of the division of professional licensure and each board of registration under the supervision of the department of public health may, after a consent agreement between the parties or after an opportunity for an adjudicatory proceeding held pursuant to chapter 30A, assess and collect a civil administrative penalty of not more than $1,000 for the first violation and not more than $2,500 for a second or subsequent violation upon a person who practices a trade or profession at a time when his license, certificate, registration or authority to do so has been suspended, revoked or cancelled by the board of registration that issued the license, and upon any person who knowingly practices a trade or profession at a time when his license, certificate, registration or authority to do so has expired; provided, however, that if a licensee has, in accordance with any law and with board regulations, made timely and sufficient application for a renewal, his license shall not expire until his application has been finally determined by the board; provided further, that prior to the assessment of a civil administrative penalty under this section, the board shall notify the licensee that he has at least 90 days after the date of expiration within which to submit an application for renewal during which time the board shall waive any applicable penalties pursuant to this paragraph. An assessment of a civil administrative penalty under this section shall bar a subsequent imposition of a criminal penalty for the same violation and an imposition of a criminal penalty under this section shall bar a subsequent assessment of a civil administrative penalty for the same violation.
+        </section>
+        <section prefix="c">
+    	     A board may apply to the appropriate court for an order enjoining the unlicensed practice of a trade or profession or for an order for payment of an assessed penalty or for such other relief as may be appropriate to enforce this section.
+        </section>
+    </text>
+</law>

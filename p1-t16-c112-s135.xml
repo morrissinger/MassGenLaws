@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>135</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>135</order_by>
+    <text>
+        <section prefix="a">
+    	     communicates a threat of death or serious bodily injury to any reasonably identified victim or victims;
+        </section>
+        <section prefix="b">
+    	     notifies an appropriate law enforcement agency in the vicinity where the client or any potential victim resides;
+        </section>
+        <section prefix="c">
+    	     arranges for the client to be hospitalized voluntarily; or
+        </section>
+        <section prefix="d">
+    	     takes appropriate steps, within the legal scope of social work practice, to initiate proceedings for involuntary hospitalization.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Administrative Responsibilities; Rules And Regulations; Promulgation</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="a">
+    	     The commissioner of DPH shall be responsible for the administration of sections four through six, twelve and twenty, which relate to the establishment and amendment of the Massachusetts substance list, the dissemination of information pertaining to toxic or hazardous substances, the granting of certain waivers or alternative conditions to the disclosure requirements contained in this chapter, and trade secrets.
+        </section>
+        <section prefix="b">
+    	     The commissioner of DOL shall be responsible for the administration of sections seven through eleven, and thirteen through fifteen, which define the rights and duties of employees and employers under this chapter.
+        </section>
+        <section prefix="c">
+    	     The commissioner of DEP, on behalf of the commonwealth, and the municipal coordinator of each city or town, on its behalf, shall be responsible for the administration of sections sixteen through nineteen, which relate to requests by state officials, municipal officials, and community residents for actions and information available under this chapter.
+        </section>
+    </text>
+</law>

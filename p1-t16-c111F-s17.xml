@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Material Safety Data Sheets; Requests For Copies</catch_line>
+    <order_by>17</order_by>
+    <text>
+        The commissioner of DEP shall make a copy of an MSDS available to DOL or DPH upon request, and may make a copy of an MSDS available to any other agency of the commonwealth, but only upon written request including a justification by the requesting agency that the information contained in the MSDS is essential to the performance of a duty to protect the public health and safety imposed by statute or regulation. Provided, however, that when such action is taken by the commissioner of DEP upon such request, he shall notify the employer or employers who provided the MSDS. And provided, further, that in the event of an imminent threat to public health or safety, the commissioner of DEP shall waive the requirement for written request and justification.
+    </text>
+</law>

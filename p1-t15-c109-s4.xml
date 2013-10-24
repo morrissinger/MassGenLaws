@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>4</section_number>
+    <catch_line>Office And Agent For Service Of Process</catch_line>
+    <order_by>4</order_by>
+    <text>
+        <section prefix="1">
+    	     an office, which may, but need not be a place of its business in the commonwealth, at which shall be kept the records required by section five to be maintained; and
+        </section>
+        <section prefix="2">
+    	     an agent for service of process on the limited partnership, which agent must be an individual resident of the commonwealth, a domestic corporation, or a foreign corporation authorized to do business in the commonwealth.
+        </section>
+    </text>
+</law>

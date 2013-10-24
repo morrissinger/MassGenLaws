@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Conveyance To Title To Realty</catch_line>
+    <order_by>10</order_by>
+    <text>
+        <section prefix="1">
+    	     Where title to real property is in the partnership name, any partner may convey title to such property by a conveyance executed in the partnership name; but the partnership may recover such property unless the partner’s act binds the partnership under the provisions of paragraph (1) of section nine, or unless such property has been conveyed by the grantee or a person claiming through such grantee to a holder for value without knowledge that the partner, in making the conveyance, has exceeded his authority.
+        </section>
+        <section prefix="2">
+    	     Where title to real property is in the name of the partnership, a conveyance executed by a partner, in his own name, passes the equitable interest of the partnership, provided the act is one within the authority of the partner under the provisions of paragraph (1) of section nine.
+        </section>
+        <section prefix="3">
+    	     Where title to real property is in the name of one or more but not all the partners, and the record does not disclose the right of the partnership, the partners in whose name the title stands may convey title to such property, but the partnership may recover such property if the partners’ act does not bind the partnership under the provisions of paragraph (1) of section nine, unless the purchaser or his assignee is a holder for value, without knowledge.
+        </section>
+        <section prefix="4">
+    	     Where the title to real property is in the name of one or more of all the partners, or in a third person in trust for the partnership, a conveyance executed by a partner in the partnership name, or in his own name, passes the equitable interest of the partnership, provided the act is one within the authority of the partner under the provisions of paragraph (1) of section nine.
+        </section>
+        <section prefix="5">
+    	     Where the title to real property is in the names of all the partners a conveyance executed by all the partners passes all their rights in such property.
+        </section>
+    </text>
+</law>

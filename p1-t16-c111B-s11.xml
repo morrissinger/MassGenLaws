@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111B" order_by="111B" level="3">Alcoholism</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Treatment Record; Patient’S Rights</catch_line>
+    <order_by>11</order_by>
+    <text>
+        The administrator of each facility shall keep a record of the treatment afforded each patient, which shall be confidential and shall be made available only upon proper judicial order, whether in connection with pending judicial proceedings or otherwise. 
+Any patient shall have the right to have a physician retained by him examine him, consult privately with his attorney, receive visitors, and send and receive communications by mail, telephone and telegraph. Such communications shall not be censored or read without consent of such patient. The foregoing shall not limit the right of the administrator, subject to reasonable rules and regulations of the department, to prescribe reasonable rules governing visiting hours and the use of telephone and telegraph facilities.
+    </text>
+</law>

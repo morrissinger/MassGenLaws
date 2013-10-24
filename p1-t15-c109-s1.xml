@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="1">
+    	     “Certificate of limited partnership”, the certificate referred to in section eight, and the certificate as amended or restated.
+        </section>
+        <section prefix="2">
+    	     “Contribution”, any cash, property, services rendered, or a promissory note or other binding obligation to contribute cash or property or to perform services, which a partner contributes to a limited partnership in his capacity as a partner.
+        </section>
+        <section prefix="3">
+    	     “Event of withdrawal of a general partner”, an event that causes a person to cease to be a general partner as provided in section twenty-three.
+        </section>
+        <section prefix="4">
+    	     “Foreign limited partnership”, a partnership formed under the laws of any state other than the commonwealth and having as partners one or more general partners and one or more limited partners.
+        </section>
+        <section prefix="5">
+    	     “General partner”, a person who has been admitted to a limited partnership as a general partner in accordance with the partnership agreement and named in the certificate of limited partnership as a general partner.
+        </section>
+        <section prefix="6">
+    	     “Limited partner”, a person who has been admitted to a limited partnership as a limited partner in accordance with the partnership agreement.
+        </section>
+        <section prefix="7">
+    	     “Limited partnership” and “domestic limited partnership”, a partnership formed by two or more persons under the laws of the commonwealth and having one or more general partners and one or more limited partners.
+        </section>
+        <section prefix="8">
+    	     “Partner”, a limited or general partner.
+        </section>
+        <section prefix="9">
+    	     “Partnership agreement”, any valid agreement, written or oral, of the partners as to the affairs of a limited partnership and the conduct of its business.
+        </section>
+        <section prefix="10">
+    	     “Partnership interest”, a partner’s share of the profits and losses of a limited partnership and the right to receive distributions of partnership assets.
+        </section>
+        <section prefix="11">
+    	     “Person”, a natural person, partnership, limited partnership (domestic or foreign), trust, estate, association, or corporation.
+        </section>
+        <section prefix="12">
+    	     “State”, a state, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
+        </section>
+    </text>
+</law>

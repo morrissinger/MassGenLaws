@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>205</section_number>
+    <catch_line>Discipline Powers Of The Board; Enforcement Of Order</catch_line>
+    <order_by>205</order_by>
+    <text>
+        <section prefix="a">
+    	     attempted to or obtained licensure by fraud or misrepresentation;
+        </section>
+        <section prefix="b">
+    	     engaged in unethical or unprofessional conduct, including, but not limited to, willful acts, negligence or incompetence in the course of professional practice;
+        </section>
+        <section prefix="c">
+    	     engaged in habitual intoxication or personal misuse of any drug, including alcohol, narcotics or controlled substance so as to adversely affect the person’s ability to practice;
+        </section>
+        <section prefix="d">
+    	     been convicted of any offense under state or federal laws involving moral turpitude; or
+        </section>
+        <section prefix="e">
+    	     violated any lawful order, rule or regulation rendered or adopted by the board.
+        </section>
+        <section prefix="a">
+    	     denial, suspension, revocation or cancellation of, or refusal to renew such license;
+        </section>
+        <section prefix="b">
+    	     placement of such a license on probation;
+        </section>
+        <section prefix="c">
+    	     reprimanding or censuring the holder of such license;
+        </section>
+        <section prefix="d">
+    	     assessing upon the holder of such license a fine not to exceed $5,000 for each violation;
+        </section>
+        <section prefix="e">
+    	     requiring the holder of such license to perform, for each violation, up to 100 hours of community service in a manner and time to be determined by the board;
+        </section>
+        <section prefix="f">
+    	     requiring the holder of such license to complete additional education and training as a condition of retention or reinstatement of such license, or requiring an applicant for such license to complete additional education and training as a condition for future consideration of such application;
+        </section>
+        <section prefix="g">
+    	     requiring the holder of such license to practice under appropriate supervision for a period of time as determined by the board as a condition of retention or reinstatement of such license, or requiring an applicant for such license to practice under appropriate supervision for a period of time as determined by the board as a condition for future consideration of that application;
+        </section>
+        <section prefix="h">
+    	     requiring the holder of such license to participate in an alcohol or drug rehabilitation program or undergo drug testing, or both, as a condition of retention or reinstatement of such license, or requiring an applicant for such license to participate in an alcohol or drug rehabilitation program or undergo drug testing, or both, as a condition for future consideration of such application; and
+        </section>
+        <section prefix="i">
+    	     requiring the holder of such license to make restitution of not more than $50,000, where appropriate.
+        </section>
+    </text>
+</law>

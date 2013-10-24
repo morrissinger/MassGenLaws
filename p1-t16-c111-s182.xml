@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>182</section_number>
+    <catch_line>Vaccination Of Inmates Of Institutions Supported By Aid Of Commonwealth</catch_line>
+    <order_by>182</order_by>
+    <text>
+        The board of health of a town where any incorporated manufacturing company, infirmary, training or industrial school, hospital or other establishment where the poor or sick are received, prison, jail or house of correction, or any institution supported or aided by the commonwealth, is situated may, if it decides that it is necessary for the health of the employees or inmates or for the public safety, require the authorities of said establishment or institution, at the expense thereof, to cause all said employees or inmates to be vaccinated.
+    </text>
+</law>

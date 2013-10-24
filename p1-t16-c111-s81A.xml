@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>81A</section_number>
+    <catch_line>Use Of Intradermal Tuberculin Tests To Show Freedom From Tuberculosis</catch_line>
+    <order_by>81A</order_by>
+    <text>
+        No ordinance, by-law, rule or regulation of a board of health or the requirements of any public or private institution, school or college shall be enacted, promulgated, or continued in effect which would require a chest x-ray examination to show freedom from tuberculosis in a communicable form, unless the recipient of such x-ray is known to be tuberculin positive. Any report required by such ordinance, by-law, rule or regulation showing freedom from tuberculosis in a communicable form shall be based upon a negative intradermal tuberculin test that is administered and interpreted in a manner approved by the commissioner. In the case of a person whose tuberculin test is positive, a statement by a physician, based upon the results of a standard chest x-ray film shall be required, and such other laboratory and clinical examinations as may be necessary for the exclusion of tuberculosis in a communicable form.
+    </text>
+</law>

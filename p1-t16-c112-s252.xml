@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>252</section_number>
+    <catch_line>Definitions For Secs. 252 To 258</catch_line>
+    <order_by>252</order_by>
+    <text>
+        <section prefix="a">
+    	     estimating the likelihood of occurrence or recurrence of a birth defect or of any potentially inherited or genetically influenced condition. This assessment may involve:
+        </section>
+        <section prefix="1">
+    	     obtaining and analyzing a complete health history of the person and family;
+        </section>
+        <section prefix="2">
+    	     reviewing pertinent medical records;
+        </section>
+        <section prefix="3">
+    	     evaluating the risks from exposure to possible mutagens or teratogens; and
+        </section>
+        <section prefix="4">
+    	     recommending genetic testing or other evaluations to diagnose a condition or determine the carrier status of 1 or more family members;
+        </section>
+        <section prefix="b">
+    	     helping the individual, family, health care provider or public to:
+        </section>
+        <section prefix="1">
+    	     appreciate the medical, psychological and social implications of a disorder, including its features, variability, usual course and management options;
+        </section>
+        <section prefix="2">
+    	     learn how genetic factors contribute to the disorder and affect the chance for recurrence of the condition in other family members;
+        </section>
+        <section prefix="3">
+    	     understand available options for coping with, preventing or reducing the chance of occurrence or recurrence of a condition;
+        </section>
+        <section prefix="4">
+    	     select the most appropriate, accurate and cost-effective methods of diagnosis; and
+        </section>
+        <section prefix="5">
+    	     understand genetic or prenatal tests, coordinate testing for inherited disorders, and interpret complex genetic test results; and
+        </section>
+        <section prefix="c">
+    	     facilitating an individual’s or family’s:
+        </section>
+        <section prefix="1">
+    	     exploration of the perception of risk and burden associated with the disorder;
+        </section>
+        <section prefix="2">
+    	     decision-making regarding testing or medical interventions consistent with their beliefs, goals, needs, resources, culture and ethical or moral views; and
+        </section>
+        <section prefix="3">
+    	     adjustment and adaptation to the condition or their genetic risk by addressing needs for psychological, social and medical support.
+        </section>
+    </text>
+</law>

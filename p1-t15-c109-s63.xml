@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>63</section_number>
+    <catch_line>Annual Report; Fee</catch_line>
+    <order_by>63</order_by>
+    <text>
+        <section prefix="a">
+    	     Each domestic or foreign limited partnership authorized to transact business in the commonwealth shall file an annual report with the state secretary on or before the anniversary date of the filing of the certificate of limited partnership. The annual report shall contain all information required to be included in the certificate of limited partnership.
+        </section>
+        <section prefix="b">
+    	     The fee for filing the annual report shall be $500 if the report is filed on paper or by facsimile. The fee for filing the annual report electronically shall be $450.
+        </section>
+    </text>
+</law>

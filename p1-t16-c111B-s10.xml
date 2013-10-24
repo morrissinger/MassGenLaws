@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111B" order_by="111B" level="3">Alcoholism</unit>
+    </structure>
+    <section_number>10</section_number>
+    <catch_line>Juvenile Patients Or Juveniles Held In Protective Custody</catch_line>
+    <order_by>10</order_by>
+    <text>
+        Any person under the age of eighteen who is a patient at a facility, pursuant to section seven, or held in protective custody at a police station pursuant to section eight shall, upon request of his parent or guardian, be released to the custody of said parent or guardian. All rights afforded any person under this chapter shall apply to juveniles. Any provisions of this chapter requiring the consent of a person shall, if the person is a juvenile, require the consent of both the juvenile and his parent or guardian.
+    </text>
+</law>

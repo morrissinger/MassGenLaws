@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Liability Of New Partner For Partnership Obligations</catch_line>
+    <order_by>17</order_by>
+    <text>
+        A person admitted as a partner into an existing partnership is liable for all the obligations of the partnership arising before his admission as though he had been a partner when such obligations were incurred, except that this liability shall be satisfied only out of partnership property.
+    </text>
+</law>

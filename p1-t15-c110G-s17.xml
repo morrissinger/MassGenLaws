@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110G" order_by="110G" level="3">Uniform Electronic Transactions</unit>
+    </structure>
+    <section_number>17</section_number>
+    <catch_line>Creation, Maintenance And Preservation Of Electronic Records By Executive Department Agencies And Other Government Agencies</catch_line>
+    <order_by>17</order_by>
+    <text>
+        <section prefix="a">
+    	     The supervisor of records under section 1 of chapter 66 and clause Twenty-sixth of section 7 of chapter 4, the records conservation board under section 42 of chapter 30, and the information technology division under section 7 of chapter 4A, shall determine whether, the extent to which and the manner by which each executive department agency shall create, maintain and preserve electronic records, signatures and contracts and the method of converting paper government records to electronic format. Nothing in this chapter shall affect the existing authority of the supervisor of records, the records conservation board or the information technology division under the cited sections.
+        </section>
+        <section prefix="b">
+    	     The supervisor of records under section 1 of chapter 66 and clause Twenty-sixth of section 7 of chapter 4, and the records conservation board under section 42 of chapter 30, shall determine whether, the extent to which and the manner by which each government agency not in the executive department, nor in the legislative or judicial departments, shall create, maintain and preserve electronic records, signatures and contracts and the method of converting paper government records to electronic format.
+        </section>
+    </text>
+</law>

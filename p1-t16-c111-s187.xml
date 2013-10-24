@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>187</section_number>
+    <catch_line>Enforcement Of Chapter</catch_line>
+    <order_by>187</order_by>
+    <text>
+        The supreme judicial or superior court, upon the application of the board of health of a town, may enforce the orders of said board relative to public health. Sections eleven and twelve of chapter two hundred and fourteen shall apply to such cases; but a jury may be summoned under said sections, if there is no sitting of the court, within one month after issues have been framed.
+    </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110H" order_by="110H" level="3">Registration And Protection Of Trademarks</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Restrictions On Registration</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     consists of or comprises immoral, deceptive or scandalous matter;
+        </section>
+        <section prefix="2">
+    	     consists of or comprises matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute;
+        </section>
+        <section prefix="3">
+    	     consists of or comprises the flag or coat of arms or other insignia of the United States, or of any state or municipality, or of any foreign nation, or any simulation thereof;
+        </section>
+        <section prefix="4">
+    	     consists of or comprises the name, signature or portrait identifying a particular living individual, except by the individual’s written consent; or
+        </section>
+        <section prefix="5">
+    	     consists of a mark which:—
+        </section>
+        <section prefix="i">
+    	     when used on or in connection with the goods or services of the applicant, is merely descriptive or deceptively misdescriptive of them,
+        </section>
+        <section prefix="ii">
+    	     when used on or in connection with the goods or services of the applicant is primarily geographically descriptive or deceptively misdescriptive of them, or
+        </section>
+        <section prefix="iii">
+    	     is primarily merely a surname, provided, however, that nothing in this clause shall prevent the registration of a mark used by the applicant which has become distinctive of the applicant’s goods or services. The secretary may accept as evidence that the mark has become distinctive, as used on or in connection with the applicant’s goods or services, proof of continuous use thereof as a mark by the applicant in the commonwealth for the 5 years before the date on which the claim of distinctiveness is made; or
+        </section>
+        <section prefix="6">
+    	     consists of or comprises a mark which so resembles a mark registered in the commonwealth or a mark or trade name previously used by another and not abandoned, as to be likely, when used on or in connection with the goods or services of the applicant, to cause confusion or mistake or to deceive.
+        </section>
+    </text>
+</law>

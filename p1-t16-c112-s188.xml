@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>188</section_number>
+    <catch_line>Continuing Education; Regulations; Certificate Or License Revocation</catch_line>
+    <order_by>188</order_by>
+    <text>
+        <section prefix="1">
+    	     policies and procedures for obtaining board approval of courses of instruction;
+        </section>
+        <section prefix="2">
+    	     standards, policies and procedures to be applied by the board in evaluating an applicant’s claim of equivalency;
+        </section>
+        <section prefix="3">
+    	     standards, monitoring methods, and systems for recording attendance to be employed by a course sponsored as a prerequisite to board approval of courses for credit;
+        </section>
+        <section prefix="4">
+    	     such other requirements or conditions deemed necessary by the board to carry out the provisions of this chapter.
+        </section>
+    </text>
+</law>

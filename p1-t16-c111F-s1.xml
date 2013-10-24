@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        <section prefix="a">
+    	     The chemical name, any common names, and the CAS number of the toxic or hazardous substance.
+        </section>
+        <section prefix="b">
+    	     The hazards or other risks in the use of the toxic or hazardous substance, including:
+        </section>
+        <section prefix="1">
+    	     the potential for fire, explosion, corrosivity, and reactivity;
+        </section>
+        <section prefix="2">
+    	     the acute and chronic health effects of risks from exposure; including the medical conditions that might be aggravated by exposure; and
+        </section>
+        <section prefix="3">
+    	     the potential routes of exposure and symptoms of overexposure.
+        </section>
+        <section prefix="c">
+    	     The proper precautions, handling practices, necessary personal protective equipment, and other safety precautions in the use of or exposure to the toxic or hazardous substances, including appropriate emergency treatment in case of overexposure at hazardous levels.
+        </section>
+        <section prefix="d">
+    	     The emergency procedures for spills, fire, disposal and first aid.
+        </section>
+        <section prefix="e">
+    	     A description in lay terms, of the specific potential health risks posed by the toxic or hazardous substance intended to alert any person reading this information, including but not limited to carcinogenic, mutagenic, teratogenic, or neurotoxic effects, for substances so designated on the Massachusetts substance list, pursuant to section four (c) of this chapter.
+        </section>
+        <section prefix="f">
+    	     The month and year that the information was compiled and the name, address, and emergency telephone number of the manufacturer responsible for preparing the information.
+        </section>
+    </text>
+</law>

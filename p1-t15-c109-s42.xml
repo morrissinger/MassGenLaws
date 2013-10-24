@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>42</section_number>
+    <catch_line>Assignee Becoming Limited Partner</catch_line>
+    <order_by>42</order_by>
+    <text>
+        <section prefix="a">
+    	     An assignee of a partnership interest, including an assignee of a general partner, may become a limited partner if and to the extent that (1) the assignor gives the assignee that right in accordance with authority described in the partnership agreement, or (2) all other partners consent.
+        </section>
+        <section prefix="b">
+    	     An assignee who has become a limited partner has, to the extent assigned, the rights and powers, and is subject to the restrictions and liabilities, of a limited partner under the partnership agreement and this chapter. An assignee who becomes a limited partner also is liable for the obligations of his assignor to make and return contributions as provided in sections twenty-seven to thirty-eight, inclusive; provided, however, that the assignee is not obligated for liabilities unknown to the assignee at the time he became a limited partner.
+        </section>
+        <section prefix="c">
+    	     If an assignee of a partnership interest becomes a limited partner, the assignor is not released from his liability to the limited partnership under sections fourteen and twenty-eight.
+        </section>
+    </text>
+</law>

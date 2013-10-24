@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>72S</section_number>
+    <catch_line>Actions Against Receiver; Liability</catch_line>
+    <order_by>72S</order_by>
+    <text>
+        No person shall bring an action against a receiver appointed under section seventy-two N without first securing leave of court. The receiver shall be liable in his personal capacity for gross negligence or intentional wrongdoing. In all other cases, the receiver shall be liable in his official capacity only, and any judgment rendered shall be satisfied out of the receivership assets.
+    </text>
+</law>

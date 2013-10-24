@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>224</section_number>
+    <catch_line>Commission On Falls Prevention; Members; Duties</catch_line>
+    <order_by>224</order_by>
+    <text>
+        <section prefix="1">
+    	     consider strategies to improve data collection and analysis to identify fall risk, health care cost data and protective factors;
+        </section>
+        <section prefix="2">
+    	     consider strategies to improve the identification of older adults who have a high risk of falling;
+        </section>
+        <section prefix="3">
+    	     consider strategies to maximize the dissemination of proven, effective fall prevention interventions and identify barriers to those interventions;
+        </section>
+        <section prefix="4">
+    	     assess the risk and measure the incidence of falls occurring in various settings;
+        </section>
+        <section prefix="5">
+    	     identify evidence-based strategies used by long-term care providers to reduce the rate of falls among older adults and reduce the rate of hospitalizations related to such falls;
+        </section>
+        <section prefix="6">
+    	     identify evidence-based community programs designed to prevent falls among older adults;
+        </section>
+        <section prefix="7">
+    	     review falls prevention initiatives for community-based settings; and
+        </section>
+        <section prefix="8">
+    	     examine the components and key elements of the above falls prevention initiatives, consider their applicability in the commonwealth and develop strategies for pilot testing, implementation and evaluation.
+        </section>
+        <section prefix="1">
+    	     intervention approaches, including physical activity, medication assessment and reduction of medication when possible, vision enhancement and home-modification strategies;
+        </section>
+        <section prefix="2">
+    	     strategies that promote collaboration between the medical community, including physicians, long-term care providers and pharmacists to reduce the rate of falls among their patients;
+        </section>
+        <section prefix="3">
+    	     programs that are targeted to fall victims who are at a high risk for second falls and that are designed to maximize independence and quality of life for older adults, particularly those older adults with functional limitations;
+        </section>
+        <section prefix="4">
+    	     programs that encourage partnerships to prevent falls among older adults and prevent or reduce injuries when falls occur; and
+        </section>
+        <section prefix="5">
+    	     programs to encourage long-term care providers to implement falls- prevention strategies which use specific interventions to help all patients avoid the risks for falling in an effort to reduce hospitalizations and prolong a high quality of life.
+        </section>
+    </text>
+</law>

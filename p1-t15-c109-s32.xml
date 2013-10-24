@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>32</section_number>
+    <catch_line>Withdrawal Of General Partner</catch_line>
+    <order_by>32</order_by>
+    <text>
+        A general partner may withdraw from a limited partnership at any time by giving written notice to the other partners, but if the withdrawal violates the partnership agreement, the limited partnership may recover from the withdrawing general partner damages for breach of the partnership agreement and offset the damages against the amount otherwise distributable to him.
+    </text>
+</law>

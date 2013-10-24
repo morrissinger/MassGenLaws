@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>412</section_number>
+    <catch_line>Rules, Forms, Orders, And Hearings</catch_line>
+    <order_by>412</order_by>
+    <text>
+        <section prefix="a">
+    	     The secretary may from time to time make, amend, and rescind such rules, forms, and orders as are necessary to carry out the provisions of this chapter, including rules and forms governing registration statements, applications, and reports, and defining any terms, whether or not used in this chapter, insofar as the definitions are not inconsistent with the provisions of this chapter. For the purpose of rules and forms, the secretary may classify securities, persons, and matters within its jurisdiction, and prescribe different requirements for different classes.
+        </section>
+        <section prefix="b">
+    	     No rule, form, or order may be made, amended, or rescinded unless the secretary finds that the action is necessary or appropriate in the public interest or for the protection of investors and consistent with the purposes fairly intended by the policy and provisions of this chapter. In prescribing rules and forms the secretary may cooperate with the securities administrators of the other states and the Securities and Exchange Commission with a view to effectuating the policy of this statute to achieve maximum uniformity in the form and content of registration statements, applications, and reports wherever practicable.
+        </section>
+        <section prefix="c">
+    	     The secretary may by rule or order prescribe (1) the form and content of financial statements required under this chapter, (2) the circumstances under which consolidated financial statements shall be filed, and (3) whether any required financial statements shall be certified by independent or certified public accountants. All financial statements shall be prepared in accordance with generally accepted accounting practices.
+        </section>
+        <section prefix="d">
+    	     All rules and forms of the secretary shall be published pursuant to sections six and six A of chapter thirty A.
+        </section>
+        <section prefix="e">
+    	     No provision of this chapter imposing any liability applies to any act done or omitted in good faith in conformity with any rule, form, or order of the secretary, notwithstanding that the rule, form, or order may later be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+        </section>
+        <section prefix="f">
+    	     Every hearing in an administrative proceeding shall be public unless the secretary in his discretion grants a request joined in by all the respondents that the hearing be conducted privately.
+        </section>
+        <section prefix="g">
+    	     Assessments collected by the secretary pursuant to administrative actions may be used to assist investors. The assistance may include, but is not limited to, restitution for victims of financial fraud or other violations of this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111M" order_by="111M" level="3">Individual Health Coverage</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Rules And Regulations</catch_line>
+    <order_by>5</order_by>
+    <text>
+        The commissioner of revenue, in consultation with the board of the commonwealth health insurance connector, established by chapter 176Q, shall promulgate such rules and regulations, as necessary, to carry out this chapter.
+    </text>
+</law>

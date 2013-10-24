@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>106</section_number>
+    <catch_line>Travelers From Infected Places Outside Commonwealth; License</catch_line>
+    <order_by>106</order_by>
+    <text>
+        The board of health of a town near to or bordering upon an adjoining state may in writing appoint suitable persons, who shall attend at places by which travelers may pass from infected places without the commonwealth, and who may examine such travelers as the board suspects of bringing any infection dangerous to the public health, and, if necessary, restrain them from traveling until licensed thereto by the board of health of the town to which they may come. A traveler coming from an infected place who, without such license, travels within the commonwealth, unless to return by the most direct way to the state whence he came, after he has been cautioned to depart by the persons so appointed, shall forfeit not more than one hundred dollars.
+    </text>
+</law>

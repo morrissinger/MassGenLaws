@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>88</section_number>
+    <catch_line>Issuance Of Certified Statements And Duplicate Certificates Of Registration</catch_line>
+    <order_by>88</order_by>
+    <text>
+        <section prefix="1">
+    	     Certified statement of registration and any additional information.
+        </section>
+        <section prefix="2">
+    	     Duplicate certificates of registration, upon satisfactory evidence that the original certificate has been lost or destroyed.
+        </section>
+        <section prefix="3">
+    	     Duplicate certificates of registration issued under sections eighty-seven T to eighty-seven JJ; provided, however, that if the original certificate of registration issued under said sections has been lost or destroyed by fire, flood or hurricane, a duplicate certificate of registration may be issued for the unexpired term without fee.
+        </section>
+    </text>
+</law>

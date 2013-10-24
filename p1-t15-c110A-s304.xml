@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110A" order_by="110A" level="3">Uniform Securities Act</unit>
+    </structure>
+    <section_number>304</section_number>
+    <catch_line>Provisions Applicable To Registration Generally</catch_line>
+    <order_by>304</order_by>
+    <text>
+        <section prefix="a">
+    	     A registration statement may be filed by the issuer, any other person on whose behalf the offering is to be made, or a registered broker-dealer.
+        </section>
+        <section prefix="b">
+    	     Every person filing a registration statement shall pay a filing fee to be determined annually by the commissioner of administration under the provision of section three B of chapter seven.
+        </section>
+        <section prefix="c">
+    	     Every registration statement shall specify (1) the amount of securities to be offered in this state; (2) the states in which a registration statement or similar document in connection with the offering has been or is to be filed; and (3) any adverse order, judgment, or decree entered in connection with the offering by the regulatory authorities in each state or by any court or the Securities and Exchange Commission.
+        </section>
+        <section prefix="d">
+    	     Any document filed under this chapter or a predecessor chapter may be incorporated by reference in the registration statement to the extent that the document is currently accurate.
+        </section>
+        <section prefix="e">
+    	     The secretary may by rule or otherwise permit the omission of any item of information or document from any registration statement.
+        </section>
+        <section prefix="f">
+    	     In the case of a non-issuer distribution, information may not be required under section 303 or 304(h) unless it is known to the person filing the registration statement or to the persons on whose behalf the distribution is to be made, or can be furnished by them without unreasonable effort or expense.
+        </section>
+        <section prefix="g">
+    	     Every registration statement is effective for one year from its effective date, or any longer period during which the security is being offered or distributed in a non-exempted transaction by or for the account of the issuer or other person on whose behalf the offering is being made or by any underwriter or broker-dealer who is still offering part of an unsold allotment or subscription taken by him as a participant in the distribution, except during the time a stop order is in effect under section 305. All outstanding securities of the same class as a registered security are considered to be registered for the purpose of any non-issuer transaction (1) so long as the registration statement is effective and (2) between the thirtieth day after the entry of any stop order suspending or revoking the effectiveness of the registration statement under section 305, if the registration statement did not relate in whole or in part to a non-issuer distribution, and one year from the effective date of the registration statement. A registration statement may not be withdrawn for one year from its effective date if any securities of the same class are outstanding. A registration statement may be withdrawn otherwise only in the discretion of the secretary.
+        </section>
+        <section prefix="h">
+    	     So long as a registration statement is effective, the secretary may by rule or order require the person who filed the registration statement to file reports, not more often than quarterly, to keep reasonably current the information contained in the registration statement and to disclose the progress of the offering.
+        </section>
+        <section prefix="i">
+    	     A registration statement relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust, as those terms are defined in the Investment Company Act of 1940, may be amended after its effective date so as to increase the securities specified as proposed to be offered. Such an amendment becomes effective when the secretary so orders. Every person filing such an amendment shall pay a filing fee to be determined annually by the commissioner of administration under the provision of section three B of chapter seven.
+        </section>
+    </text>
+</law>

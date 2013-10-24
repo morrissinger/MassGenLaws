@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>2</section_number>
+    <catch_line>Name Of Limited Partnership; Requirements</catch_line>
+    <order_by>2</order_by>
+    <text>
+        <section prefix="1">
+    	     shall contain without abbreviation the words “limited partnership”;
+        </section>
+        <section prefix="2">
+    	     may not contain the name of a limited partner unless (i) it is also the name of a general partner or the corporate name of a corporate general partner, or (ii) the business of the limited partnership had been carried on under that name before the admission of that limited partner;
+        </section>
+        <section prefix="3">
+    	     may not contain any word or phrase indicating or implying that it is organized other than for a purpose stated in its certificate of limited partnership;
+        </section>
+        <section prefix="4">
+    	     may not be the same as, or deceptively similar to, the name of any corporation or limited partnership organized under the laws of the commonwealth or licensed or registered as a foreign corporation or limited partnership in the commonwealth, except with the written consent of said corporation or limited partnership previously filed with the secretary of state.
+        </section>
+    </text>
+</law>

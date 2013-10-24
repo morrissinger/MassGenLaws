@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="110" order_by="110" level="3">Labels, Trade Marks, Names And Registration Thereof</unit>
+    </structure>
+    <section_number>1</section_number>
+    <catch_line>Definitions</catch_line>
+    <order_by>1</order_by>
+    <text>
+        The following words as used in this chapter, in addition to their ordinary meaning, shall, unless the context otherwise requires, have the meanings respectively given herein: 
+“Beverage”, milk, cream, soda water, mineral or aerated water, ale, beer, ginger ale or similar beverages; 
+“Can”, jug, bottle and jar; 
+“Vessel”, can, jug, bottle, jar, siphon, fountain and box.
+    </text>
+</law>

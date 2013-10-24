@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>87N</section_number>
+    <catch_line>Appeal To Superior Court</catch_line>
+    <order_by>87N</order_by>
+    <text>
+        Any person aggrieved by any action of the board refusing to grant, or suspending or revoking, a certificate of registration or a permit for any cause, may, within ten days after such action, appeal to the superior court of the county wherein he resides, and the decision of said court shall be final.
+    </text>
+</law>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>189</section_number>
+    <catch_line>Acts Or Omissions Warranting Suspension Or Revocation Of Rights Of Applicants Or Certified Or Licensed Appraisers</catch_line>
+    <order_by>189</order_by>
+    <text>
+        <section prefix="1">
+    	     procuring or attempting to procure a certificate or license by knowingly making a false statement, submitting false information, refusing to provide complete information in response to a question in an application for certification or licensing or through any form of fraud or misrepresentation;
+        </section>
+        <section prefix="2">
+    	     failing to meet the minimum qualifications established herein;
+        </section>
+        <section prefix="3">
+    	     paying money or other consideration other than provided for by this chapter to any member or employee of the board to procure a certificate or license;
+        </section>
+        <section prefix="4">
+    	     a conviction, including a conviction based upon a plea of guilty or nolo contendere, of a crime which is substantially related to the qualifications, functions, and duties of a person developing appraisals and communicating appraisals to others, or convicted of any felony;
+        </section>
+        <section prefix="5">
+    	     an act or omission involving dishonesty, fraud, or misrepresentation with the intent to substantially benefit the certificate or license holder or another person or with the intent to substantially injure another person;
+        </section>
+        <section prefix="6">
+    	     violation of any of the standards for the development or communication of appraisals;
+        </section>
+        <section prefix="7">
+    	     failure, or refusal without good cause, to exercise reasonable diligence in developing an appraisal, preparing an appraisal report, or communicating an appraisal;
+        </section>
+        <section prefix="8">
+    	     negligence or incompetence in developing an appraisal, in preparing an appraisal report, or in communicating an appraisal;
+        </section>
+        <section prefix="9">
+    	     willfully disregarding or violating any of the provisions of this chapter, or the regulations of the board;
+        </section>
+        <section prefix="10">
+    	     accepting an appraisal assignment when such assignment is contingent upon the appraiser reporting a predetermined estimate, analysis or opinion, or where the fee to be paid is contingent upon the opinion, conclusion, or valuation reached, or upon the consequences resulting from the appraisal assignment;
+        </section>
+        <section prefix="11">
+    	     violating the confidential nature of governmental records to which the appraiser gains access through employment or engagement as an appraiser by a governmental agency; or
+        </section>
+        <section prefix="12">
+    	     entry of a final civil judgment against such appraiser on grounds of fraud, misrepresentation or deceit in the making of any appraisal.
+        </section>
+    </text>
+</law>

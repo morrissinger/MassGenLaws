@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>21</section_number>
+    <catch_line>Disclosure Of Information; Public Record; Penalties</catch_line>
+    <order_by>21</order_by>
+    <text>
+        <section prefix="a">
+    	     Any information provided to state or local agencies or instrumentalities by manufacturers and employers pursuant to the provisions of this chapter, and any information provided to their public agencies or coordinator pursuant to this chapter shall not be a public record for the purposes of chapter sixty-six of the General Laws.
+        </section>
+        <section prefix="b">
+    	     Any person who has obtained possession of or has access to information pursuant to the provisions of this chapter shall not disclose said information to any person not specifically authorized to receive it hereunder. Violation of this provision shall be punishable by a fine of not more than five thousand dollars or imprisonment for not more than one year, or both. Provided, however, that disclosure by an employee to his or her spouse, or to a fellow employee exposed to the same toxic or hazardous substance as is involved in the disclosure, shall not constitute a violation of this chapter.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>5F</section_number>
+    <catch_line>Aquatic Nuisances; Control; Cost Sharing Programs</catch_line>
+    <order_by>5F</order_by>
+    <text>
+        <section prefix="1">
+    	     the economic capabilities of the city or town as determined by the department of corporations and taxation;
+        </section>
+        <section prefix="2">
+    	     the use of the waters by communities outside the city or town in which the waters are located; and
+        </section>
+        <section prefix="3">
+    	     the advantages to the commonwealth of the work.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>5L</section_number>
+    <catch_line>Standards For Physicians Who Read And Interpret Mammography</catch_line>
+    <order_by>5L</order_by>
+    <text>
+        The board shall by regulation establish qualifications, standards and criteria no less stringent than the most current standards of the American College of Radiology, which shall apply to all physicians who read and interpret mammography.
+    </text>
+</law>

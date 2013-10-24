@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>172</section_number>
+    <catch_line>Confidential Communications; Waiver</catch_line>
+    <order_by>172</order_by>
+    <text>
+        <section prefix="a">
+    	     where the allied mental health and human services professional is a party defendant to a civil, criminal or disciplinary action arising from such practice in which case the waiver shall be limited to that action;
+        </section>
+        <section prefix="b">
+    	     where the client is a defendant in a criminal proceeding and the use of the privilege would violate the defendant’s right to compulsory process and right to present testimony and witnesses in his own behalf;
+        </section>
+        <section prefix="c">
+    	     when the communication reveals the contemplation or commission of a crime or a harmful act; and
+        </section>
+        <section prefix="d">
+    	     where a client agrees to the waiver, or in circumstances where more than one person in a family is receiving therapy, where each such family member agrees to the waiver.
+        </section>
+    </text>
+</law>

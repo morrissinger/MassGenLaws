@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>150A1/2</section_number>
+    <catch_line>Standards And Criteria For Siting Of Facilities; Rules And Regulations</catch_line>
+    <order_by>150A1/2</order_by>
+    <text>
+        <section prefix="1">
+    	     the location, nature and extent of any existing or potential sources of public or private drinking water supplies in relation to the site, including the recharge area of a sole source aquifer;
+        </section>
+        <section prefix="2">
+    	     the relationship of the site to groundwater elevations;
+        </section>
+        <section prefix="3">
+    	     the proximity of wetlands, as defined in section forty of chapter one hundred and thirty-one;
+        </section>
+        <section prefix="4">
+    	     the proximity of surface water bodies;
+        </section>
+        <section prefix="5">
+    	     the proximity of flood plains;
+        </section>
+        <section prefix="6">
+    	     the nature and extent of residential areas in proximity to the site;
+        </section>
+        <section prefix="7">
+    	     the availability and suitability of access roads to the site;
+        </section>
+        <section prefix="8">
+    	     whether areas adjacent to the proposed site have been previously used for solid waste disposal;
+        </section>
+        <section prefix="9">
+    	     the potential for adverse impact on air quality;
+        </section>
+        <section prefix="10">
+    	     the potential for creation of a nuisance from noise, windblown litter, or the proliferation of rodents, flies or other vermin;
+        </section>
+        <section prefix="11">
+    	     the potential for the adverse public health and safety impacts;
+        </section>
+        <section prefix="12">
+    	     the potential impact on agricultural uses;
+        </section>
+        <section prefix="13">
+    	     the potential adverse impact on wildlife or on wildlife habitat;
+        </section>
+        <section prefix="14">
+    	     the potential impact of increased traffic volume on roads to the site;
+        </section>
+        <section prefix="15">
+    	     the extent to which existing solid waste disposal facilities are located within a municipality. Site assignments for new facilities are preferred in municipalities without existing facilities;
+        </section>
+        <section prefix="16">
+    	     the extent to which the solid waste disposal needs of the municipality in which the site is sought are met as a member of a regional refuse disposal district. Site assignments in municipalities not participating in regional refuse disposal districts are preferred.
+        </section>
+        <section prefix="17">
+    	     the potential adverse impacts on communities within one-half mile of the proposed site including the potential adverse impacts on the considerations stated within this section for which site suitability standards and criteria are established.
+        </section>
+    </text>
+</law>

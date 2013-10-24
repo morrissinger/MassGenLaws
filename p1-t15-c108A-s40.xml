@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>40</section_number>
+    <catch_line>Rules For Settling Accounts Between Partners</catch_line>
+    <order_by>40</order_by>
+    <text>
+        <section prefix="a">
+    	     The assets of the partnership are—
+        </section>
+        <section prefix="b">
+    	     The liabilities of the partnership shall rank in order of payment, as follows:
+        </section>
+        <section prefix="c">
+    	     The assets shall be applied in the order of their declaration in clause (a) of this section to the satisfaction of the liabilities.
+        </section>
+        <section prefix="d">
+    	     The partners shall contribute, as provided by section eighteen (a), except as provided in section fifteen: (i) the amount necessary to satisfy the liabilities and (ii) if any, but not all, of the partners are insolvent, or, not being subject to process, refuse to contribute, the other partners shall contribute their share of the liabilities, and, in the relative proportions in which they share the profits, the additional amount necessary to pay the liabilities.
+        </section>
+        <section prefix="e">
+    	     An assignee for the benefit of creditors or any person appointed by the court shall have the right to enforce the contributions specified in clause (d) of this section.
+        </section>
+        <section prefix="f">
+    	     Any partner or his legal representative shall have the right to enforce the contributions specified in clause (d) of this section, to the extent of the amount which he has paid in excess of his share of the liability.
+        </section>
+        <section prefix="g">
+    	     The individual property of a deceased partner shall be liable for the contributions specified in clause (d) of this section.
+        </section>
+        <section prefix="h">
+    	     When partnership property and the individual properties of the partners are in the possession of a court for distribution, partnership creditors shall have priority on partnership property and separate creditors on individual property, saving the rights of lien or secured creditors as heretofore.
+        </section>
+        <section prefix="i">
+    	     Where a partner has become bankrupt or his estate is insolvent, the claims against his separate property shall rank in the following order:
+        </section>
+    </text>
+</law>

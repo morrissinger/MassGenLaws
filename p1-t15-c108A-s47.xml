@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="108A" order_by="108A" level="3">Partnerships</unit>
+    </structure>
+    <section_number>47</section_number>
+    <catch_line>Recognition Outside Commonwealth</catch_line>
+    <order_by>47</order_by>
+    <text>
+        <section prefix="1">
+    	     A partnership, including a registered limited liability partnership, formed and existing under an agreement governed by the laws of this commonwealth, may conduct its business, carry on its operations, and have and exercise the powers granted by this act in any state, territory, district, or possession of the United States or in any foreign country.
+        </section>
+        <section prefix="2">
+    	     It is the intent of this section that the legal existence of registered limited liability partnerships be recognized outside the boundaries of this commonwealth and that the laws of this commonwealth governing such registered limited liability partnerships doing business outside this commonwealth be granted the protection of full faith and credit under the Constitution of the United States.
+        </section>
+        <section prefix="3">
+    	     The internal affairs of partnerships, including registered limited liability partnerships, formed and existing under an agreement governed by the laws of this commonwealth, including the liability of partners for debts, obligations and liabilities of or chargeable to the partnership, shall be subject to and governed by the laws of this commonwealth.
+        </section>
+        <section prefix="4">
+    	     Subject to any statutes for the regulation and control of specific types of business, foreign registered limited liability partnerships may do business in this commonwealth and shall be required to register with the state secretary under this chapter in the same manner as a registered limited liability partnership.
+        </section>
+        <section prefix="5">
+    	     The name of a foreign registered limited liability partnership doing business in this commonwealth shall contain the words “registered limited liability partnership” or “limited liability partnership” or the abbreviation “L.L.P.” or “LLP” as the last words or letters of its name or such other similar words or abbreviation as may be required or authorized by the laws of the state where the partnership is registered.
+        </section>
+        <section prefix="6">
+    	     The internal affairs of foreign registered limited liability partnerships, including the liability of partners for debts, obligations and liabilities of or chargeable to the partnership, shall be subject to and governed by the laws of the jurisdiction in which the foreign registered limited liability partnership is registered.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>69G</section_number>
+    <catch_line>Effect Of Notice Of Admission Of Needy Person</catch_line>
+    <order_by>69G</order_by>
+    <text>
+        In the case of a needy person not already in receipt of public assistance, the notice of admission shall constitute an application on behalf of the patient. Upon receipt of such application, the department of transitional assistance shall determine his eligibility for assistance, and if he is found eligible, he shall be granted the type of assistance for which he qualifies, from the date of the notice or application.
+    </text>
+</law>

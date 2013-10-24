@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>5D</section_number>
+    <catch_line>Reports Of Violations By Public Officers Or Employees</catch_line>
+    <order_by>5D</order_by>
+    <text>
+        Any officer or employee of any agency, executive office, department, board, commission, bureau, division or authority of the commonwealth, or of any political subdivision thereof which is engaged in the provision or oversight of medical or health services, shall report to the board of registration in medicine any person who there is reasonable basis to believe is in violation of section five, or any of the regulations of the board except as otherwise prohibited by law.
+    </text>
+</law>

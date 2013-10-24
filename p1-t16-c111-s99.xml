@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>99</section_number>
+    <catch_line>Warrant To Secure Infected Articles; Application</catch_line>
+    <order_by>99</order_by>
+    <text>
+        If upon application of the board it appears to a magistrate authorized to issue warrants that there is just cause to suspect that baggage, clothing or goods found within the town are infected with any disease dangerous to the public health, he shall, by warrant directed to the sheriff or his deputy or to any constable, require him to impress as many men as said magistrate may judge necessary to secure such baggage, clothing or goods, and to post said men as a guard over the house or place containing such articles to prevent persons from removing or coming near the same until due inquiry is made into the circumstances.
+    </text>
+</law>

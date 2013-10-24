@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>203</section_number>
+    <catch_line>Application For Original License, Renewal Or Examination;  Educational And Professional Experience Requirements</catch_line>
+    <order_by>203</order_by>
+    <text>
+        <section prefix="1">
+    	     a bachelor’s degree or higher with a major course of study in dietetics and nutrition, human nutrition, nutrition education, or public health nutrition; or
+        </section>
+        <section prefix="2">
+    	     a bachelor’s degree or higher with a reasonable threshold of undergraduate level academic credit hours in nutrition and nutrition sciences as determined by the board, from a college or university regionally accredited by the New England Association of Colleges and Schools, Inc./Commission on Institutions of Higher Education or equivalent.
+        </section>
+        <section prefix="3">
+    	     a formal post baccalaureate internship approved by the board of not less than 900 hours in the field of dietetics and nutrition supervised by a licensed dietitian/nutritionist; or
+        </section>
+        <section prefix="4">
+    	     three years of post baccalaureate paid professional experience in the field of dietetics and nutrition; or
+        </section>
+        <section prefix="5">
+    	     two years of post master’s degree paid professional experience in the field of dietetics and nutrition; or
+        </section>
+        <section prefix="6">
+    	     one year of post doctorate paid professional experience in the field of dietetics and nutrition; or
+        </section>
+        <section prefix="7">
+    	     such comparable experience which satisfies the board that the licensee is competent to practice as a licensed dietitian/nutritionist.
+        </section>
+    </text>
+</law>

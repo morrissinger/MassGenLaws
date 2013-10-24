@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>152</section_number>
+    <catch_line>Eligibility For Registration And Licensure</catch_line>
+    <order_by>152</order_by>
+    <text>
+        <section prefix="a">
+    	     Be at least eighteen years of age,
+        </section>
+        <section prefix="b">
+    	     be of good moral character,
+        </section>
+        <section prefix="c">
+    	     demonstrate sufficient knowledge of the English language so that he may understand and be understood by patients and physicians, or have a translator available to communicate with patients and physicians,
+        </section>
+        <section prefix="d">
+    	     fulfill one of the following criteria:
+        </section>
+        <section prefix="1">
+    	     the applicant has successfully completed the equivalent of two academic years at an accredited university or college, including courses in anatomy, physiology, and biology, or has taken courses at a facility which is approved by the department of education to offer such courses, and has successfully completed a committee approved course of training in acupuncture of not less than two academic years, and one year of a committee approved acupuncture internship which may run concurrently with the two year academic course in acupuncture; and passes to the satisfaction of the committee an examination conducted by it to determine his fitness to engage in the practice of acupuncture, or
+        </section>
+        <section prefix="2">
+    	     the applicant may possess a current, valid acupuncture license or certificate from another state or foreign nation that is equivalent in its requirements to clauses (a), (b), and (d), or has equivalent training and experience as determined by the committee, and passes the examination administered by the committee as in clause (d).
+        </section>
+        <section prefix="3">
+    	     the applicant has legally practiced acupuncture as his primary activity since January first, nineteen hundred and eighty-three and has legally practiced acupuncture in the commonwealth for the twelve months immediately preceding the date of his application; and the applicant files his application within sixty days from the time the committee first accepts applications for the license to practice acupuncture; or
+        </section>
+        <section prefix="4">
+    	     the applicant is a legally practicing acupuncturist in the commonwealth on January first, nineteen hundred and eighty-six and the applicant files his application within sixty days from the time the committee first accepts applications for the license to practice acupuncture; and passes the examination administered by the committee as in clause (d). If any person so practicing acupuncture fails to pass the first announced examination, he may continue to practice acupuncture under the supervision of a licensed medical practitioner, as defined by the board of registration in medicine until the applicant takes the second announced examination. If any person so practicing acupuncture fails to pass the first and second announced examination, they must cease the practice of acupuncture upon due notice to the applicant of such failure.
+        </section>
+    </text>
+</law>

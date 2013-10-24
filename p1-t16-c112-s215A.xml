@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>215A</section_number>
+    <catch_line>Complaints For Review Of Orders Of Board</catch_line>
+    <order_by>215A</order_by>
+    <text>
+        <section prefix="a">
+    	     Any person or firm adversely affected by any order of the board entered after a hearing may obtain review thereof by filing a complaint for review with the supreme judicial court within 30 days of said order. The procedures for review, and the scope of the review, shall be as specified in chapter 30A, except that the provisions of section 12 of said chapter 30A shall not apply to this review.
+        </section>
+        <section prefix="b">
+    	     After issuing an order for revocation or suspension, the board may file a complaint in the superior court for the county in which the respondent resides or conducts his practice or in Suffolk County, to insure appropriate injunctive relief to expedite the secure enforcement of its order.
+        </section>
+    </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>36A</section_number>
+    <catch_line>Licensing Of Sale, Distribution And Delivery Of Drugs Or Medicines</catch_line>
+    <order_by>36A</order_by>
+    <text>
+        Except as otherwise provided in section thirty-five, no person shall engage in the sale, distribution or delivery, at wholesale, of drugs or medicines within the commonwealth without a license so to do.
+    </text>
+</law>

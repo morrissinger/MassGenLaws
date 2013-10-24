@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>225</section_number>
+    <catch_line>Complaints Against Licensed Home Inspectors; Proof Of Errors And Omissions Insurance Policy; Time Limitation; Liability</catch_line>
+    <order_by>225</order_by>
+    <text>
+        <section prefix="1">
+    	     committed fraud or misrepresentation in obtaining a license;
+        </section>
+        <section prefix="2">
+    	     been guilty of criminal conduct which the board determines to be of such a nature as to render such a person unfit to practice as a licensed home inspector or associate home inspector, as evidenced by criminal proceedings which resulted in a conviction, guilty plea or plea of nolo contendere or an admission of sufficient facts;
+        </section>
+        <section prefix="3">
+    	     failed to report a claim forthwith to the insurance carrier as provided in this section;
+        </section>
+        <section prefix="4">
+    	     violated any rule or regulation of the board;
+        </section>
+        <section prefix="5">
+    	     failed to fulfill any continuing education requirements set out by the board;
+        </section>
+        <section prefix="6">
+    	     violated any ethical standard which the board determines to be of such a nature as to render such person unfit to practice as a home inspector or associate home inspector, such as:
+        </section>
+        <section prefix="i">
+    	     disclosing information concerning the results of the home inspection without the approval of a client or the client’s representative;
+        </section>
+        <section prefix="ii">
+    	     accepting compensation from more than one interested party for the same service without the consent of all interested parties;
+        </section>
+        <section prefix="iii">
+    	     accepting commissions or allowances, directly or indirectly, from parties other than the client in connection with work for which the licensee is responsible to the client;
+        </section>
+        <section prefix="iv">
+    	     failing to promptly disclose to a client or potential client information about any business interest of the licensee which may affect the client or potential client in connection with the home inspection;
+        </section>
+        <section prefix="v">
+    	     attempting to limit liability for negligent or wrongful errors or omissions by use of a clause within a performance contract that limits the cost of damages for negligent or wrongful errors or omissions; or
+        </section>
+        <section prefix="vi">
+    	     conducting a home inspection without the appropriate errors and omissions insurance coverage;
+        </section>
+        <section prefix="7">
+    	     failed to provide a written report of the completed home inspection;
+        </section>
+        <section prefix="8">
+    	     reported on the market value of the property or its marketability; or
+        </section>
+        <section prefix="9">
+    	     reported on the advisability or inadvisability of the purchase of the property.
+        </section>
+    </text>
+</law>

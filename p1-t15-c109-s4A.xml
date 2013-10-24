@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109" order_by="109" level="3">Limited Partnership</unit>
+    </structure>
+    <section_number>4A</section_number>
+    <catch_line>Certificate Of Change Of Resident Agent Or Address Of Resident Agent;  Change Of Address Of Limited Partnership Business Office; Resignation</catch_line>
+    <order_by>4A</order_by>
+    <text>
+        <section prefix="a">
+    	     A limited partnership may change its resident agent or the street address of the resident agent by filing a certificate of change of agent or address with the state secretary. The statement shall contain the following information:
+        </section>
+        <section prefix="1">
+    	     the name of the limited partnership;
+        </section>
+        <section prefix="2">
+    	     the name and street address of its current resident agent;
+        </section>
+        <section prefix="3">
+    	     if the current resident agent is to be changed, the name and street address of the new resident agent and the new agent’s written consent, either on the statement or attached to it, to the appointment; and
+        </section>
+        <section prefix="4">
+    	     if the street address of the business office of the resident agent is to be changed, the new street address of the business office of the resident agent.
+        </section>
+        <section prefix="b">
+    	     If a resident agent changes the street address of his business office, he may change the street address of the business office of any limited partnership for which he is resident agent by notifying the limited partnership in writing of the change and signing, manually or by facsimile, and delivering to the state secretary for filing a statement of change that complies with the requirements of subsection (a) and recites that the limited partnership has been notified of the change. If the street address of more than 1 limited partnership is being changed at the same time, there may be included in a single certificate the names of all limited partnerships the street addresses of the business offices of which are being changed.
+        </section>
+        <section prefix="c">
+    	     Any resident may resign his agency appointment by signing and delivering to the state secretary a certificate of resignation. The resident agent shall furnish a copy of such statement to the limited partnership. The agency appointment shall be terminated on the thirty-first day following the date on which the statement was filed.
+        </section>
+    </text>
+</law>

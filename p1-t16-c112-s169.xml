@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>169</section_number>
+    <catch_line>Denial, Revocation Or Suspension Of Licenses</catch_line>
+    <order_by>169</order_by>
+    <text>
+        <section prefix="1">
+    	     conviction by a court of competent jurisdiction of a crime which the board determines to be of such a nature as to render such person unfit to practice as a mental health and human services professional. Said board shall maintain and publish a list of such crimes;
+        </section>
+        <section prefix="2">
+    	     violation of ethical standards of such a nature as to render such individual unfit to practice as a mental health and human services professional. Said board shall publish and maintain such ethical standards;
+        </section>
+        <section prefix="3">
+    	     fraud or misrepresentation in obtaining a license; or
+        </section>
+        <section prefix="4">
+    	     other just and sufficient cause which renders a person unfit to practice as a mental health and human services professional.
+        </section>
+    </text>
+</law>

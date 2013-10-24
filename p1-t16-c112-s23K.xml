@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23K</section_number>
+    <catch_line>Revocation, Suspension, Etc. Of Licensee</catch_line>
+    <order_by>23K</order_by>
+    <text>
+        <section prefix="a">
+    	     obtained or attempted to obtain a license by fraud or deception,
+        </section>
+        <section prefix="b">
+    	     been convicted of a felony or of a crime involving moral turpitude,
+        </section>
+        <section prefix="c">
+    	     has been grossly negligent in his practice of athletic training or occupational therapy or physical therapy,
+        </section>
+        <section prefix="d">
+    	     been adjudged mentally ill or incompetent by the court of competent jurisdiction,
+        </section>
+        <section prefix="e">
+    	     used drugs or intoxicating liquors to the extent which adversely affects his practice,
+        </section>
+        <section prefix="f">
+    	     acted in manner which is professionally unethical according to ethical standards of the professions of occupational therapy or physical therapy.
+        </section>
+    </text>
+</law>

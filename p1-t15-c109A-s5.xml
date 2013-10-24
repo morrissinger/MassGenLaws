@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="15" order_by="15" level="2">Regulation Of Trade</unit>
+        <unit label="chapter" identifier="109A" order_by="109A" level="3">Uniform Fraudulent Transfer Act</unit>
+    </structure>
+    <section_number>5</section_number>
+    <catch_line>Fraudulent Transfer Or Obligation Where Creditor’S Claim Arose Before Or After Transfer Or Obligation</catch_line>
+    <order_by>5</order_by>
+    <text>
+        <section prefix="a">
+    	     A transfer made or obligation incurred by a debtor is fraudulent as to a creditor, whether the creditor’s claim arose before or after the transfer was made or the obligation was incurred, if the debtor made the transfer or incurred the obligation:
+        </section>
+        <section prefix="1">
+    	     with actual intent to hinder, delay, or defraud any creditor of the debtor; or
+        </section>
+        <section prefix="2">
+    	     without receiving a reasonably equivalent value in exchange for the transfer or obligation, and the debtor:
+        </section>
+        <section prefix="i">
+    	     was engaged or was about to engage in a business or a transaction for which the remaining assets of the debtor were unreasonably small in relation to the business or transaction; or
+        </section>
+        <section prefix="ii">
+    	     intended to incur, or believed or reasonably should have believed that he would incur, debts beyond his ability to pay as they became due.
+        </section>
+        <section prefix="b">
+    	     In determining actual intent under paragraph (1) of subsection (a), consideration may be given, among other factors, to whether:
+        </section>
+        <section prefix="1">
+    	     the transfer or obligation was to an insider;
+        </section>
+        <section prefix="2">
+    	     the debtor retained possession or control of the property transferred after the transfer;
+        </section>
+        <section prefix="3">
+    	     the transfer or obligation was disclosed or concealed;
+        </section>
+        <section prefix="4">
+    	     before the transfer was made or obligation was incurred, the debtor had been sued or threatened with suit;
+        </section>
+        <section prefix="5">
+    	     the transfer was of substantially all the debtor’s assets;
+        </section>
+        <section prefix="6">
+    	     the debtor absconded;
+        </section>
+        <section prefix="7">
+    	     the debtor removed or concealed assets;
+        </section>
+        <section prefix="8">
+    	     the value of the consideration received by the debtor was reasonably equivalent to the value of the asset transferred or the amount of the obligation incurred;
+        </section>
+        <section prefix="9">
+    	     the debtor was insolvent or became insolvent shortly after the transfer was made or the obligation was incurred;
+        </section>
+        <section prefix="10">
+    	     the transfer occurred shortly before or shortly after a substantial debt was incurred; and
+        </section>
+        <section prefix="11">
+    	     the debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.
+        </section>
+    </text>
+</law>

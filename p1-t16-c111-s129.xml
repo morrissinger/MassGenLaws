@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>129</section_number>
+    <catch_line>Removal Or Destruction Of Nuisance On Conviction Of Owner</catch_line>
+    <order_by>129</order_by>
+    <text>
+        If a person is convicted on an indictment for a common nuisance injurious to the public health, the court may order the nuisance to be removed or destroyed at the expense of the defendant, under the direction of the board of health.
+    </text>
+</law>

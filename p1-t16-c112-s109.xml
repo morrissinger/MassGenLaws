@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>109</section_number>
+    <catch_line>Supervision Of Nursing Homes; Necessity Of Licensed Administrator;  Evidence Of Eligibility For Examination</catch_line>
+    <order_by>109</order_by>
+    <text>
+        <section prefix="a">
+    	     No nursing home which is licensed by the department of public health to provide nursing care may operate except under the supervision of a nursing home administrator duly licensed by the board.
+        </section>
+        <section prefix="b">
+    	     No person shall be admitted to or permitted to take an examination for license as a nursing home administrator unless he shall have first submitted evidence satisfactory to the board, (1) that he is over eighteen years of age, (2) that he is a citizen of the United States, (3) that he is of good moral character, (4) that he is suitable and fit to be licensed and to practice as a nursing home administrator.
+        </section>
+    </text>
+</law>

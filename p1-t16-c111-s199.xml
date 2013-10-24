@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111" order_by="111" level="3">Public Health</unit>
+    </structure>
+    <section_number>199</section_number>
+    <catch_line>Liability Of Owner Of Premises; Punitive Damages</catch_line>
+    <order_by>199</order_by>
+    <text>
+        <section prefix="a">
+    	     Except as provided in section one hundred and ninety-seven D, the owner of any premises shall be liable for all damages to a child under six years of age at the time of poisoning, upon proof that said child’s blood lead level equals or exceeds the blood lead level at which the department defines lead poisoning, that are caused by his failure to comply with the provisions and requirements of section one hundred and ninety-four, subsection (a) of section one hundred and ninety-six or section one hundred and ninety-seven, and regulations pursuant to said provisions. An owner of premises covered by a letter of full compliance in accordance with subsection (c) of section one hundred and ninety-seven, or a letter of interim control, in accordance with subsection (b) of section one hundred and ninety-seven, shall not be strictly liable under this section for damages caused to a child under six years of age at the time of poisoning, as defined in this section, by exposure to dangerous levels of lead. Notwithstanding the provisions of this subsection, during the period a letter of full compliance or a letter of interim control is in effect, the owner shall take reasonable care to ensure that the premises are in compliance with the requirements of subsection (c) of section one hundred and ninety-seven, in the case of premises covered by a letter of full compliance, or with the requirements of subsection (b) of section one hundred and ninety-seven and the emergency lead management plan, in the case of premises covered by a letter of interim control, and shall be liable for all damages caused by his breach of that duty of reasonable care.
+        </section>
+        <section prefix="b">
+    	     Except as provided in section one hundred and ninety-seven D, an owner of premises who is notified pursuant to the provisions of sections one hundred and eighty-nine A to one hundred and ninety-nine B, inclusive, of a dangerous level of lead in paint, plaster, or other accessible structural material present upon his premises or who receives a notice or order to comply concerning dangerous levels of lead from the director, a local board or department of health or a code enforcement agency, and who willfully fails to take the actions required by the applicable provisions of sections one hundred and eighty-nine A to one hundred and ninety-nine B, inclusive, and regulations issued pursuant thereto, or the order to remedy said dangerous conditions by the deadlines contained in the applicable regulations or order, shall, in addition to the provisions of the subsection (a), be subject to punitive damages, which shall be treble the actual damages found.
+        </section>
+        <section prefix="c">
+    	     An owner who is held liable under this section and who seeks contribution pursuant to chapter two hundred and thirty-one B against the parent or guardian of a child who has been awarded damages under this section shall bring a separate action after a judgment has been entered against him; provided, however, that such action shall be brought within one year after the judgment has become final.
+        </section>
+        <section prefix="d">
+    	     Except as provided in section one hundred and ninety-seven D, the new owner of any premises which has undergone a change of ownership, and, either as a result of which a child under six years of age is or will be a resident of the premises, or the premises have been out of compliance with the requirements of this section and a child under six years of age will continue to reside in such premises, shall not be strictly liable for damages under this section if such new owner complies with the requirements of this chapter within ninety days after becoming the owner.
+        </section>
+    </text>
+</law>

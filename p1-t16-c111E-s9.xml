@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111E" order_by="111E" level="3">Drug Rehabilitation</unit>
+    </structure>
+    <section_number>9</section_number>
+    <catch_line>Emergency Treatment</catch_line>
+    <order_by>9</order_by>
+    <text>
+        Any facility may afford emergency treatment to a drug dependent person or a person in need of immediate assistance due to the use of a dependency related drug if the person requests such treatment. The term of emergency treatment shall not exceed forty-eight hours without compliance with the provisions of section eight relating to procedures for admission to a facility; provided, however, that if prior to the termination of the emergency treatment period the person applies for admission pursuant to section eight, he may, in the discretion of the administrator, continue to receive treatment at the facility while his application is under consideration.
+    </text>
+</law>

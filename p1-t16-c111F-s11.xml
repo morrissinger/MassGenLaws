@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="111F" order_by="111F" level="3">Hazardous Substances Disclosure By Employers</unit>
+    </structure>
+    <section_number>11</section_number>
+    <catch_line>Material Safety Data Sheets; Employers’ Duties; Employee’S Right To Examine</catch_line>
+    <order_by>11</order_by>
+    <text>
+        <section prefix="a">
+    	     Every employer who manufactures, processes, uses or stores toxic or hazardous substances in the workplace shall provide a MSDS for each product which is present in said workplace. All MSDS’s shall be available at a central location in the workplace.
+        </section>
+        <section prefix="b">
+    	     A completed federal OSHA Form 20 material safety data sheet shall constitute prima facie evidence of compliance with the requirements of this chapter relative to material safety data sheets, provided that said form includes a description of the acute and chronic health risks associated with exposure to the substance described.
+        </section>
+        <section prefix="c">
+    	     Any employee or his designated representative, may request in writing and shall have the right to examine and obtain the MSDS’s for the toxic or hazardous substances to which he is, has been or may be exposed. The employer shall provide the MSDS within four working days, subject to the provisions of section nine (b). The employer may adopt reasonable procedures for acting upon such requests to avoid interruption of normal work operations.
+        </section>
+        <section prefix="d">
+    	     If an employee who has requested an MSDS pursuant to this section has not received said MSDS within four working days subject to the provisions of section nine (b), that employee may refuse to work with the substance for which he has requested the MSDS, until said MSDS is provided. Provided, however, that nothing contained herein shall be construed to permit any employee of the commonwealth or any of its political subdivisions to refuse to perform essential services.
+        </section>
+        <section prefix="e">
+    	     Every employer who manufactures, processes, uses or stores toxic or hazardous substances in the workplace shall post a notice in a central location in the workplace informing employees of their rights under this section.
+        </section>
+        <section prefix="f">
+    	     For the purposes of this section and section fourteen, an independent contractor, or the commonwealth or any of its political subdivisions shall maintain MSDS’s for their own workplaces only, as defined in section one; provided, however, that employees of such employers, insofar as they are exposed in the course of their employment to toxic or hazardous substances in other workplaces, shall have the right to examine MSDS’s for those substances to which they are exposed from the workplace employer through a written request to their own employer.
+        </section>
+    </text>
+</law>

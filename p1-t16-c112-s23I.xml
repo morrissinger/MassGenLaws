@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="part" identifier="1" order_by="1" level="1">Administration Of The Government</unit>
+        <unit label="title" identifier="16" order_by="16" level="2">Public Health</unit>
+        <unit label="chapter" identifier="112" order_by="112" level="3">Registration Of Certain Professions And Occupations</unit>
+    </structure>
+    <section_number>23I</section_number>
+    <catch_line>Physical Therapist; Qualifications</catch_line>
+    <order_by>23I</order_by>
+    <text>
+        <section prefix="a">
+    	     be a graduate of a three or four year secondary school or has passed a high school equivalency test deemed acceptable by the board,
+        </section>
+        <section prefix="b">
+    	     be a graduate of an accredited educational program leading to professional qualification in physical therapy and approved by the board,
+        </section>
+        <section prefix="c">
+    	     or have graduated from an educational program in physical therapy chartered in a sovereign state outside the United States and have furnished to the board such evidence as it may require: (1) that his education is substantially the equivalent of that of graduates of approved programs in the United States, and (2) that he has sufficient qualifications, including the proficiency in the English language, to practice physical therapy,
+        </section>
+        <section prefix="d">
+    	     have passed an examination administered by the board. Such examination shall be written, and may, at the discretion of the board, in addition, be oral and demonstrative, and shall test the applicant’s knowledge of the basic and clinical sciences as they relate to physical therapy, including the applicant’s professional skills and judgment in the utilization of physical therapy techniques and methods, and other subjects as the board may deem useful to determine the applicant’s fitness to act as a physical therapist. The examination shall be conducted by the board at least twice each year and at times and places to be determined by the board.
+        </section>
+    </text>
+</law>
